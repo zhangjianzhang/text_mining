@@ -1,0 +1,150 @@
+educational/VERB history/PROPN 学历/NOUN
+
+educational/ADJ background/ADJ 教育/NOUN 程度/NOUN
+
+educational/VERB system/NOUN 学制/NOUN
+
+academic/NOUN year/PROPN 学年/NOUN
+
+term/PROPN //PUNCT
+semester/PROPN 学期/NOUN
+
+diploma/PROPN 文凭/NOUN
+
+tuition/NOUN 学费/NOUN
+
+School/PROPN 学校/NOUN
+
+fee-paying/PUNCT school/NOUN 付费/VERB 学校/NOUN //PUNCT 私立/ADJ 学校/NOUN
+
+public/ADJ school/NOUN 公立/ADJ 学校/NOUN
+
+regular/NOUN school/NOUN 普通/ADJ 学校/NOUN
+
+primary/elementary/NOUN school/NOUN 小学/NOUN
+
+high/PROPN //PUNCT middle/VERB school/PROPN 中学/NOUN
+
+university/VERB 大学/NOUN
+
+college/NOUN 学院/NOUN
+
+academy/ADP 高等/ADJ 专科/NOUN 院校/NOUN
+
+normal/PROPN school/NOUN 师范/NOUN 院校/NOUN
+
+Curriculum/PROPN 课程/NOUN
+
+courses/PROPN taken/NOUN 所/PART 修/VERB 的/PART
+课程/NOUN
+
+major/NOUN 主修/VERB 课/NOUN
+
+minor/NOUN 辅修/NOUN 课/NOUN
+
+specialized/NOUN course/PROPN 专业课/NOUN
+
+compulsory/PROPN course/PROPN 必修课/NOUN
+
+optional/PROPN course/PROPN 选修课/NOUN
+
+Activities/NOUN 各项/ADJ 活动/NOUN
+
+social/NOUN practice/NOUN 社会/NOUN 实践/NOUN
+
+ex/NOUN tracurricular/NOUN activities/ADJ 课外/NOUN 活动/NOUN
+
+physical/NOUN activities/ADJ 体育/NOUN 活动/NOUN
+
+recreational/PROPN activities/ADJ 娱乐/NOUN 活动/NOUN
+
+academic/NUM activities/ADJ 学术/NOUN 活动/NOUN
+
+social/NOUN activities/ADJ 社会/NOUN 活动/NOUN
+
+Rewards/NOUN 奖励/NOUN
+
+scholarship/VERB 奖学金/NOUN
+
+excellent/VERB League/PROPN member/NOUN 优秀/ADJ 团员/NOUN
+
+excellent/NOUN leader/PROPN 优秀/ADJ 干部/NOUN
+
+"/PUNCT Three/PROPN Goods/PROPN "/PUNCT
+student/NOUN 三好/NOUN 学生/NOUN
+
+Facul/ADJ ty/NOUN and/CCONJ Students/PROPN 教师/NOUN 和/CCONJ 学生/NOUN
+
+principal/NOUN 中学/NOUN 校长/NOUN （/PUNCT 美/PROPN ）/PUNCT
+
+headmaster/NOUN 中小学/NOUN 校长/NOUN （/PUNCT 英/PROPN ）/PUNCT
+
+master/NOUN 小学/NOUN 校长/NOUN （/PUNCT 美/PROPN ）/PUNCT
+
+Party/PROPN branch/NOUN secretary/PROPN 党支部/NOUN 书记/NOUN
+
+League/PROPN branch/PROPN secretary/PROPN 团支部/NOUN 书记/NOUN
+
+commissary/PROPN in/NOUN charge/NOUN of/ADP organization/NOUN 组织/NOUN 委员/NOUN
+
+commissary/PROPN in/NOUN charge/VERB of/ADP publicity/PROPN 宣传/NOUN 委员/NOUN
+
+dean/NOUN of/ADP studies/NOUN 教务/NOUN 处长/NOUN
+
+dean/PROPN of/ADP students/NOUN 教导/NOUN 主任/NOUN
+
+department/PROPN chairman/NOUN 系主任/NOUN
+
+professor/NOUN 教授/NOUN
+
+associate/PROPN professor/NOUN 副教授/NOUN
+
+guest/ADP professor/NOUN 客座/ADJ 教授/NOUN
+
+lecturer/NOUN 讲师/VERB
+
+teaching/NOUN assistant/NOUN
+助教/ADV
+
+supervisor/NOUN 论文/NOUN 导师/NOUN
+
+post/NOUN doctorate/PROPN 博士后/NOUN
+
+doctor/NOUN (/PUNCT Ph/NOUN ./PUNCT
+D)/NOUN 博士/NOUN
+
+master/NOUN 硕士/NOUN
+
+bachelor/NOUN 学士/NOUN
+
+graduate/PROPN student/NOUN 研究生/NOUN
+
+abroad/PROPN student/ADJ 留学生/NOUN
+
+undergraduate/NOUN 本科生/NOUN
+
+government/VERB -/PUNCT supported/NOUN student/NOUN 公费/NOUN 生/VERB
+
+commoner/PROPN 自费生/NOUN
+
+day/PROPN -/PUNCT student/NOUN 走/VERB 读生/VERB
+
+boarder/PROPN 寄/VERB 宿生/NOUN
+
+evening/VERB student/NOUN 夜校/NOUN 生/VERB
+
+guest/VERB student/NOUN 旁听生/NOUN （/PUNCT 英/PROPN ）/PUNCT //PUNCT auditor/PROPN 旁听生/NOUN （/PUNCT 美/PROPN ）/PUNCT
+
+repeater/PROPN 留级/VERB 生/VERB
+
+fresh/NOUN man/ADP 大学/NOUN 一/NUM 年级/NOUN 学生/NOUN
+
+sophomore/ADJ 大学/NOUN 二/NUM 年级/NOUN //PUNCT 高中/NOUN 一/NUM 年级/NOUN 学生/NOUN
+
+junior/PROPN 大学/NOUN 三/NUM 年级/NOUN //PUNCT 高中/NOUN 二/NUM 年级/NOUN 学生/NOUN
+
+senior/NOUN 大学/NOUN 四/NUM 年级/NOUN //PUNCT 高中/NOUN 三/NUM 年级/NOUN 学生/NOUN
+
+alumnus/PROPN 校友/NOUN
+
+master/NOUN 男/ADJ 教师/NOUN

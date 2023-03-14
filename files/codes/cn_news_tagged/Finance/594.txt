@@ -1,0 +1,49 @@
+四月份/NOUN 新/ADV 上市/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 上市/VERB 时间/NOUN   /SPACE 发行/VERB 价格/NOUN    /SPACE 中签率/NOUN (%/PUNCT )/PROPN    /SPACE 市盈率/NOUN (/PUNCT 倍)/PUNCT
+
+---------------------------------------------------------------------/NOUN
+
+159901/NOUN   /SPACE 深/PROPN 100ET/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 24/NUM     /SPACE 1/NUM
+
+F(/PUNCT 开放式/ADJ
+
+基金/NOUN )/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+162607/NUM   /SPACE 景顺/PROPN 资源/NOUN    /SPACE 2006/NOUN -/PUNCT 04/NUM -/CCONJ 07/NUM     /SPACE 1/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+二月份/NOUN 新/ADV 上市/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 上市/VERB 时间/NOUN   /SPACE 发行/VERB 价格/NOUN    /SPACE 中签率/NOUN (%/PUNCT )/PROPN    /SPACE 市盈率/NOUN (/PUNCT 倍)/PUNCT
+
+---------------------------------------------------------------------/NOUN
+
+161005/NOUN   /SPACE 富国天惠/PROPN    /SPACE 2006/NOUN -/PUNCT 02/NUM -/PUNCT 16/NUM     /SPACE 1/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+一月份/NOUN 新/ADV 上市/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 上市/VERB 时间/NOUN   /SPACE 发行/VERB 价格/NOUN    /SPACE 中签率/NOUN (%/PUNCT )/PROPN    /SPACE 市盈率/NOUN (/PUNCT 倍)/PUNCT
+
+---------------------------------------------------------------------/NOUN
+
+163402/NUM   /SPACE 兴业/PROPN 趋势/NOUN    /SPACE 2006/NUM -/CCONJ 01/NUM -/PUNCT 19/NUM     /SPACE 1/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+---------------------------------------------------------------------/NOUN

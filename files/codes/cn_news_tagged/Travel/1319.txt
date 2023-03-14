@@ -1,0 +1,17 @@
+交通/NOUN 指南/NOUN
+
+机场/NOUN 多特蒙德/ADJ 机场/NOUN
+
+火车/NOUN 多特蒙德/ADJ 火车站/NOUN
+
+市内/NOUN 交通/NOUN 可以/VERB 乘坐/VERB 公共/ADJ 汽车/NOUN 到达/VERB 市内/NOUN 和/CCONJ 近郊/NOUN 各处/NOUN
+
+观光/VERB 巴士/NOUN ：/PUNCT
+
+带领/VERB 游客/NOUN 领略/VERB 到/VERB 多特蒙德/ADJ 的/PART 今昔/NOUN 不同/VERB ，/PUNCT 参观/VERB "Borsigplat/NOUN z"/NOUN 广场/NOUN 可以/VERB 看到/VERB 多特蒙德/ADJ 的/PART 工业化/NOUN 进程/NOUN ，/PUNCT 以及/CCONJ 多特蒙德/PROPN 足球/NOUN 俱乐部/NOUN 的/PART 发源地/NOUN 。/PUNCT
+沿着/ADP 欧洲/PROPN 最/ADV 大/VERB 的/PART 运河/NOUN 港口/NOUN 游客/NOUN 进入/VERB 的/PART 是/VERB 这/DET 座/NUM 现代/ADJ 城市/NOUN ，/PUNCT 这里/PRON 有/VERB 多/NUM 特蒙德/PROPN 大学/NOUN ，/PUNCT 科技园/NOUN 、/PUNCT 威斯特法伦/PROPN 展览/NOUN 中心/NOUN 、/PUNCT 威斯特法伦/PROPN 体育场/NOUN 和/CCONJ 威斯特法伦/PROPN 公园/NOUN 。/PUNCT
+
+观光/NOUN 时间/NOUN ：/PUNCT 一个半/NUM 小时/NOUN >/PUNCT
+>>/NUM 旅游/NOUN 咨询/NOUN 处/NOUN
+
+解说/VERB 费用/NOUN ：/PUNCT 德语/PROPN 60/NUM 欧元/NOUN ，/PUNCT 其他/DET 78/NUM 欧元/NOUN 。/PUNCT

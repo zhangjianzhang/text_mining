@@ -1,0 +1,11 @@
+天极网/NOUN 5月/NOUN 3日/NOUN 消息/NOUN (宁/NOUN 一/NUM 编译/NOUN )据/NOUN 外电/NOUN 报道/VERB ，/PUNCT 喜新厌旧/VERB 的/PART Investcom/PROPN 公司/NOUN 本/DET 周二/NOUN 宣布/VERB ，/PUNCT 将/ADV 以/ADP 55亿/NUM 美元/NUM 的/PART 价格/NOUN 收购/VERB 南非/PROPN 的/PART MTN/PROPN 。/PUNCT
+此前/ADV 在/ADP 对/ADP Millicom/PROPN
+
+International/PROPN
+
+Cellular(/VERB 以下/ADV 简称/VERB “/PUNCT Millicom/PROPN ”/PUNCT )/NOUN 的/PART 竞购战/NOUN 中/PART ，/PUNCT Investcom/PROPN 公司/NOUN 提出/VERB 了/PART 逾/VERB 50亿/NUM 美元/NUM 的/PART 报价/NOUN ，/PUNCT 成为/VERB 有/VERB 可能/NOUN 最终/ADV 击败/VERB 中国/PROPN 移动/NOUN 的/PART 对手/NOUN 。/PUNCT
+而/ADV 现在/NOUN Investcom/PROPN 公司/NOUN 转而/ADV 收购/VERB MTN/PROPN ，/PUNCT 意味着/VERB 中国/PROPN 移动/NOUN 在/ADP 竞购/VERB Millicom/PROPN 的/PART 过程/NOUN 中将/PART 占据/VERB 有利/ADJ 位置/NOUN 。/PUNCT
+据/ADP 消息/NOUN 人士/NOUN 称/VERB ，/PUNCT 此前/ADV Investcom/PROPN 向/ADP Millicom/PROPN 提交/VERB 的/PART 报价/NOUN 高于/VERB 中国/PROPN 移动/NOUN 和/CCONJ 其它/DET 竞购/NOUN 对手/NOUN 。/PUNCT
+
+Millicom/PROPN 是/VERB 一家/ADV 在/ADP 纳斯达克/PROPN 上市/VERB 的/PART 国际/NOUN 移动/NOUN 通信/NOUN 运营商/NOUN ，/PUNCT 由/ADP 瑞典/PROPN 电信/NOUN 和/CCONJ 媒体/NOUN 集团/NOUN Kinnevik/PROPN 控股/NOUN ，/PUNCT 目前/NOUN 市值/NOUN 约/ADV 49亿/NUM 美元/NUM 。/PUNCT
+中国/PROPN 移动/NOUN 表示/VERB ，/PUNCT Millicom/PROPN 股价/NOUN 的/PART 大幅/ADJ 增长/NOUN ，/PUNCT 从/ADP 很/ADV 大/ADJ 程度/NOUN 上/PART 是/VERB 受/VERB 收购/NOUN 传闻/NOUN 的/PART 推动/NOUN 。/PUNCT

@@ -1,0 +1,159 @@
+【/PUNCT 来源/NOUN ：/PUNCT 北京/PROPN 知识/NOUN 树/NOUN 】/PUNCT
+
+第一/NUM 节/NUM 名词/NOUN 在/ADP 句子/NOUN 中/PART 的/PART 作用/NOUN
+
+名词/NOUN 在/ADP 句子/NOUN 中/PART 有/VERB 几/NUM 种/NUM 重要/ADJ 作用/NOUN ，/PUNCT 如/ADV 做/VERB 主语/NOUN 、/PUNCT 宾语/NOUN 、/PUNCT 表语/NOUN 、/PUNCT 补足语/NOUN 等/PART 。/PUNCT
+它/PRON 是/VERB 句子/NOUN 中/PART 最/ADV 主要/ADJ 的/PART 词/NOUN 。/PUNCT
+
+一/NUM 、/PUNCT 做/VERB 主语/NOUN
+
+My/NOUN father/NOUN is/VERB working/NOUN on/ADP the/DET farm/VERB ./PUNCT
+／/PUNCT
+Mary/NOUN visited/VERB her/PROPN teacher/NOUN yesterday/VERB ./PUNCT
+／/PUNCT A/NOUN
+
+beautiful/PROPN ship/VERB will/VERB sail/NOUN on/ADP this/PRON river/NOUN tomorrow/VERB ./PUNCT
+／/PUNCT Some/PROPN goods/NOUN have/PRON arrived/VERB ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 表示/VERB “/PUNCT 谁/PRON ……/PUNCT ”/PUNCT 或/CCONJ “/PUNCT 什么/PRON ……/PUNCT ”/PUNCT ，/PUNCT 即/ADV 动作/NOUN 的/PART 执行者/NOUN 。/PUNCT
+主语/NOUN 一般/ADV 都/ADV 放/VERB 在/ADP 句/NUM 首/NOUN 。/PUNCT
+
+二/NUM 、/PUNCT 做/VERB 宾语/NOUN
+
+(/PUNCT 一/NUM )/NOUN He/ADP has/PROPN a/NUM pretty/NOUN cat/NOUN ./PUNCT
+／/PUNCT
+The/DET teacher/NOUN can/VERB help/VERB Rose/NOUN ./PUNCT
+／/PUNCT The/DET sailor/NOUN crossed/VERB
+
+the/DET dangerous/NOUN river/NOUN easily/VERB ./PUNCT
+／/PUNCT Students/PROPN should/VERB do/VERB the/DET ir/VERB homework/NOUN alone/NOUN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 表示/VERB 动作/NOUN 的/PART 承受者/NOUN ，/PUNCT 通常/ADV 放在/VERB 及物/VERB 动词/VERB 的/PART 后面/NOUN 。/PUNCT
+
+(/PUNCT 二/NUM )/NOUN She/NOUN gave/PROPN John/PROPN a/NUM bag/NOUN ./PUNCT
+／/PUNCT The/DET grandmother/NOUN is/VERB telling/VERB the/DET children/PROPN a/NUM story/NOUN ./PUNCT
+
+／/PUNCT The/DET little/PROPN boy/PROPN brought/PROPN his/PROPN mother/NOUN an/ADJ orange/NOUN ./PUNCT
+／/PUNCT The/DET wife/VERB cooked/PROPN her/PROPN husband/VERB a/NUM
+
+big/ADV fish/VERB ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 双宾/NOUN 语动词/NOUN 的/PART 宾语/NOUN ，/PUNCT 其中/NOUN ，/PUNCT 指人/VERB 的/PART 为间/VERB 接宾语/VERB ，/PUNCT 如/ADP ：/PUNCT John/PROPN ,/PUNCT mother/NOUN 等/PART ；/PUNCT 指物/NOUN 的/PART 为/ADP 直接宾语/NOUN ，/PUNCT 如/ADV ：/PUNCT bag,fish/NOUN 等/PART 。/PUNCT
+
+三/NUM 、/PUNCT 做/VERB 主语/NOUN 的/PART 补足/NOUN 语/NOUN
+
+My/DET sister/NOUN is/VERB a/NUM doctor/NOUN ./PUNCT
+／/PUNCT He/VERB has/PROPN become/PROPN an/NOUN artist/VERB ./PUNCT ／/PUNCT
+The/DET ruins/NOUN have/PRON been/NOUN a/NUM
+
+famous/NOUN building/NOUN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/ADP 主语/NOUN 补/VERB 足语/NOUN ，/PUNCT 表示/VERB 主语/NOUN 是/VERB 谁/PRON ，/PUNCT 成为/VERB 什么/PRON 。/PUNCT
+主语/NOUN 和/CCONJ 其补/NOUN 足语/NOUN 往往/ADV 指同/VERB 一个/NUM 人/NOUN 或/CCONJ 同/ADP 一样/ADJ 东西/NOUN 。/PUNCT
+句子/VERB 的/PART 动词/NOUN 多/ADV 为/VERB 系/NOUN 动词/VERB ，/PUNCT 主补/NOUN 多置于/VERB 其后/NOUN ，/PUNCT 句子/NOUN 中/PROPN 的/PART 主补/NOUN 亦/ADV 称为/VERB 表语/NOUN 。/PUNCT
+
+四/NUM 、/PUNCT 做/VERB 宾语/NOUN 的/PART 补足/NOUN 语/NOUN
+
+Many/ADJ people/NOUN now/PROPN consider/PROPN the/DET family/NOUN a/NUM school/NOUN ./PUNCT
+／/PUNCT They/PROPN elected/VERB him/DET president/NOUN ./PUNCT
+
+／/PUNCT All/NOUN the/DET students/NOUN in/ADP that/NOUN class/PROPN knew/NOUN the/DET ir/VERB monitor/NOUN a/NUM coward/PROPN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 宾语/NOUN 补/VERB 足语/NOUN ，/PUNCT 对/ADP 宾语/NOUN 进行/VERB 补充/NOUN 说明/NOUN ，/PUNCT 表示/VERB 它/PRON 成为/VERB 什么/PRON ，/PUNCT 被/X 认为/VERB 如何/ADV 等等/PART 。/PUNCT
+它/PRON 和/ADP 宾语/NOUN 有/VERB 密切/ADJ 关系/NOUN ，/PUNCT 通常/ADV 紧跟/VERB 在/ADP 宾语/NOUN 之后/PART 。/PUNCT
+
+五/NUM 、/PUNCT 做/VERB 介词/VERB 的/PART 宾语/NOUN
+
+I/PRON went/VERB to/ADP school/NOUN everyday/VERB ./PUNCT
+／/PUNCT They/PROPN are/VERB talking/NOUN about/VERB the/DET traffic/NOUN accident/NOUN ./PUNCT
+／/PUNCT
+
+On/NOUN Friday/PROPN ,/PUNCT we/NOUN always/PROPN have/NOUN English/PROPN lessons/NOUN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/ADP 介词/NOUN 的/PART 宾语/NOUN ，/PUNCT 表示/VERB 与/ADP 介词/NOUN 有关/VERB 的/PART 东西/NOUN ，/PUNCT 和/ADP 介词/NOUN 一起/ADV 表达/VERB 一个/NUM 完整/ADJ 的/PART 意思/NOUN 。/PUNCT
+这种/ADV 宾语/NOUN 一般/ADV 跟/ADP 在/ADP 介词/VERB 后边/NOUN ，/PUNCT 和/CCONJ 介词/NOUN 一起/ADV 构成/VERB 介词/NOUN 短语/NOUN 。/PUNCT
+
+六/NUM 、/PUNCT 做/VERB 状语/NOUN
+
+He/ADP will/NOUN arrive/NUM here/NOUN next/NOUN week/VERB ./PUNCT
+／/PUNCT We/NOUN have/X
+walked/NOUN eight/VERB miles/PART ./PUNCT
+／/PUNCT It/NOUN is/VERB six/NOUN
+
+inches/PROPN long/NOUN ./PUNCT
+／/PUNCT He/VERB will/VERB be/NOUN back/PROPN Monday/PROPN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 状语/NOUN ，/PUNCT 这些/DET 状语/ADV 用来/VERB 修饰/VERB 动词/NOUN 或/CCONJ 形容词/NOUN ，/PUNCT 表长度/NOUN 、/PUNCT 时间/NOUN 等/PART ，/PUNCT 在/ADP 多种/ADJ 情况/NOUN 下/PART 其/PRON 前面/NOUN 有/VERB 修饰语/NOUN ，/PUNCT 有时/ADV 也/ADV 可以/VERB 单独/ADV 做/VERB 状语/NOUN 。/PUNCT
+
+七/NUM 、/PUNCT 做/VERB 同/ADP 位语/NOUN
+
+My/NUM friend/NOUN John/PROPN is/VERB a/NUM pleasant/PROPN person/PROPN ./PUNCT
+／/PUNCT
+This/PRON is/VERB Mr/NOUN ./PUNCT
+Smith/PROPN ,/PUNCT headmaster/VERB of/ADP No/NOUN ./PUNCT
+3/NUM
+
+Middle/PROPN School/PROPN ./PUNCT
+／/PUNCT My/ADJ roommate/NOUN bought/PROPN many/ADJ things/NOUN :/PUNCT books/PROPN ,/PUNCT pencils/NOUN and/CCONJ stamps/NOUN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 同/ADP 位语/NOUN ，/PUNCT 表示/VERB 其/PRON 前面/NOUN 的/PART 名词/NOUN 或/CCONJ 代词/NOUN 究竟/ADV 指/VERB 什么/PRON ，/PUNCT 或/CCONJ 对/ADP 其/PRON 前面/NOUN 的/PART 名词/NOUN 或/CCONJ 代词/NOUN 做/VERB 补充/NOUN 说明/NOUN ，/PUNCT 如/ADV John/PROPN ,/PUNCT headmaster/PROPN ,/PUNCT
+
+和/CCONJ books/PROPN ，/PUNCT pencils/NOUN ，/PUNCT and/CCONJ stamps/NOUN 分别/ADV 对/VERB friend,Mr/NOUN ./PUNCT
+Smith/PROPN 和/CCONJ things/NOUN 做/VERB 进一步/ADJ 的/PART 说明/NOUN 。/PUNCT
+
+八/NUM 、/PUNCT 做/VERB 定语/NOUN
+
+My/PRON family/NOUN lives/NOUN in/ADP a/NOUN country/VERB house/PROPN ./PUNCT
+／/PUNCT They/PROPN are/VERB at/ADP the/DET harvest/NOUN festival/NOUN ./PUNCT
+／/PUNCT
+
+He/ADP often/ADP visits/NUM the/DET night/NOUN club/PROPN ./PUNCT
+／/PUNCT His/NOUN uncle/PROPN met/NOUN a/NUM silver/NOUN smith/NOUN that/ADV day/VERB ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 定语/NOUN ，/PUNCT 修饰/VERB 其/PRON 后面/NOUN 的/PART 另/DET 一个/NUM 名词/NOUN ，/PUNCT 或/CCONJ 与/ADP 另/DET 一个/NUM 名词/NOUN 构成/VERB 合成词/NOUN 。/PUNCT
+
+九/NUM 、/PUNCT 做/VERB 动名词/NOUN 逻辑/NOUN 上/PART 的/PART 主语/NOUN
+
+They/PROPN thought/NOUN Tom/NOUN ’/PUNCT s/NOUN going/VERB there/NOUN a/DET mistake/NOUN ./PUNCT ／/PUNCT Mary/NOUN ’/PUNCT s/NOUN getting/VERB married/VERB will/VERB
+be/NOUN
+
+announced/NOUN next/NOUN month/VERB ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/VERB 动名词/NOUN 逻辑/NOUN 上/PART 的/PART 主语/NOUN ，/PUNCT 表示/VERB 动名词going/NOUN 和/CCONJ getting/PROPN 的/PART 执行者/NOUN 。/PUNCT
+
+十/NUM 、/PUNCT 做/VERB 分词/VERB 的/PART 逻辑/NOUN 主语/NOUN
+
+Peter/PROPN being/VERB ill/NOUN ,/PUNCT his/PROPN mother/PROPN has/PROPN to/ADP stay/VERB at/ADP home/NOUN ./PUNCT ／/PUNCT
+The/DET sun/NOUN having/VERB set/NOUN ,/PUNCT
+
+children/PROPN went/NOUN home/NOUN ./PUNCT
+／/PUNCT She/NOUN came/PROPN in/ADV to/ADP the/DET classroom/VERB ,/PUNCT her/NOUN face/VERB covered/NOUN with/ADV
+
+sweat/NOUN ./PUNCT
+
+句子/NOUN 中/PART 的/PART 黑体/ADJ 字均/NOUN 为/ADP 分词/VERB 的/PART 逻辑/NOUN 主语/NOUN ,/PUNCT 表示/VERB 这是/ADV 谁/PRON 的/PART 情况/NOUN ，/PUNCT 如/ADV Peter/PROPN 生病/VERB ，/PUNCT 太阳/NOUN 落山/VERB 等/PART 。/PUNCT
+
+文学/NOUN 天地/NOUN
+
+-/PUNCT >/PUNCT
+书评/NOUN 天地/NOUN
+
+if/ADJ (!/NUM read/PROPN Cookie/PROPN ()/PUNCT ){/PROPN
+
+document/NOUN ./PUNCT
+write/PROPN ("/NOUN  /SPACE ")/NOUN ;/ADV
+
+document/NOUN ./PUNCT
+write/PROPN ("/NOUN  /SPACE ")/NOUN ;/ADV
+
+}/PUNCT
+
+更/ADV 多/NUM >>/NUM
+
+回复/VERB
+
+主题/NOUN
+
+作者/NOUN
+
+回复/VERB 时间/NOUN

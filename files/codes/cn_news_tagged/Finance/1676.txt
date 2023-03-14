@@ -1,0 +1,10 @@
+新华网/PROPN 华盛顿/PROPN ５月/NOUN ８日/NOUN 电/NOUN （/PUNCT 记者/NOUN 王振华/PROPN ）/PUNCT
+尽管/SCONJ 由于/ADP 调整/VERB 经营/NOUN 导致/VERB 营业/NOUN 收入/NOUN 大幅度/ADV 增加/VERB ，/PUNCT 但是/ADV 高油价/PROPN 等/PART 原因/NOUN 仍然/ADV 使/VERB 美国/PROPN 联合/ADJ 航空/NOUN 公司/NOUN 今年/NOUN 第一/NUM 季度/NOUN 的/PART 实际/ADJ 亏损额/NOUN 继续/VERB 增加/VERB 。/PUNCT
+
+这家/ADV 美国/PROPN 第二/NUM 大/ADJ 航空/NOUN 公司/NOUN ８日/NOUN 公布/VERB 的/PART 报告/NOUN 显示/VERB ，/PUNCT 今年/NOUN 头/DET ３/NUM 个/NUM 月/NOUN 公司/NOUN 的/PART 营业/NOUN 收入/NOUN 高达/VERB ４４．７亿/NUM 美元/NUM ，/PUNCT 比/ADP 去年/NOUN 同期/NOUN 的/PART ３９．２亿/NUM 美元/NUM 增长/VERB 了/PART １４％/NUM 。/PUNCT
+这/PRON 主要/ADV 是/VERB 由于/ADP 该/DET 公司/NOUN 采取/VERB 了/PART 增加/VERB 运输/NOUN 能力/NOUN 、/PUNCT 提高/VERB 载客率/NOUN 和/CCONJ 适当/ADV 提高/VERB 票价/NOUN 等/PART 措施/NOUN 。/PUNCT
+
+该/DET 公司/NOUN 表示/VERB ，/PUNCT 尽管/SCONJ 营业/NOUN 收入/NOUN 大增/VERB ，/PUNCT 但/ADV 今年/NOUN 第一/NUM 季度/NOUN 的/PART 实际/ADJ 亏损额/NOUN 仍/ADV 高达/VERB ３．０６亿/NUM 美元/NUM ，/PUNCT 高于/VERB 去年/NOUN 同期/NOUN 的/PART ３．０２亿/NUM 美元/NUM 。/PUNCT
+
+美国/PROPN 联合/ADJ 航空/NOUN 公司/NOUN 认为/VERB ，/PUNCT 这/PRON 主要/ADV 是/VERB 航空/NOUN 燃料/NOUN 价格/NOUN 处于/VERB 历史/NOUN 最高/ADJ 水平/NOUN 所/PART 致/VERB ，/PUNCT 高/ADJ 油价/NOUN 使得/VERB 公司/NOUN 今年/NOUN 第一/NUM 季度/NOUN 的/PART 航空/NOUN 燃料/NOUN 开支/NOUN 比/ADP 去年/NOUN 同期/NOUN 高出/VERB ３．１４亿/NUM 美元/NUM 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

@@ -1,0 +1,31 @@
+新华网/PROPN 兰州/PROPN ４月/NOUN １１日/NOUN 专电/VERB （/PUNCT 李东朝/PROPN ）/PUNCT
+从/ADP ４月/NOUN １１日/NOUN 零时/VERB 起/PART ，/PUNCT 兰州/PROPN 火车站/NOUN 将/ADV 实行/VERB 新/VERB 的/PART 列车/NOUN 运行表/NOUN ，/PUNCT 有/VERB １０余/NUM 趟/NUM 列车/NOUN 兰州/PROPN 运行/NOUN 时刻/NOUN 将/ADV 作/VERB 调整/NOUN 。/PUNCT
+
+具体/ADV 为/VERB ：/PUNCT 银川/NOUN －西宁Ｎ９０１/ADV 次/NUM 兰州/PROPN ６：２３/NOUN 到/ADV ，/PUNCT ６：３１/NOUN 开/VERB ；/PUNCT
+
+郑州/PROPN －/PUNCT 兰州/PROPN ／/PUNCT 西宁/PROPN ２００９/NOUN 次/NOUN 兰州/PROPN ６：４６/NOUN 到/CCONJ ，/PUNCT ６：５４/NOUN 开/VERB ；/PUNCT
+
+郑州/PROPN －/PUNCT 乌鲁木齐/PROPN [图/PROPN 库]/PROPN １０４５/NUM 次/NUM 兰州/PROPN ７：４８/NOUN 到/CCONJ ，/PUNCT ７：５８/NOUN 开/VERB ；/PUNCT
+
+西安/PROPN －/PUNCT 奎屯/PROPN １０４３/NOUN 次/NUM 兰州/PROPN ３：２１/NOUN 到/VERB ，/PUNCT ３：３１/NOUN 开/VERB ；/PUNCT
+
+西安/PROPN －/PUNCT 库尔勒/PROPN １０６７/NUM 次/NUM 兰州/PROPN ２：５５/NOUN 到/VERB ，/PUNCT ３：０５/NOUN 开/VERB ；/PUNCT
+
+泰州/PROPN －/PUNCT 兰州/PROPN Ｋ４１９/PROPN 次/NOUN 兰州/PROPN ２１：４６/NOUN 到/VERB ；/PUNCT
+
+上海/PROPN －/PUNCT 乌鲁木齐Ｔ５３/PROPN 次/NOUN 兰州/PROPN ２０：２５/NOUN 到/CCONJ ，/PUNCT ２０：３３/NOUN 开/VERB ；/PUNCT
+
+汉口/PROPN －/PUNCT 兰州/PROPN ２０２９/NOUN 次/NUM
+兰州/PROPN １７：１８/NOUN 到/VERB ；/PUNCT
+
+兰州/PROPN －嘉/NOUN 峪关/PROPN Ｎ/PROPN ９０７/NUM 次/NUM 兰州/PROPN ２０：００/NOUN 开/VERB ；/PUNCT
+
+兰州/PROPN －玉门Ｔ６５７/VERB 次/NOUN 兰州/PROPN ２１：５５/NOUN 开/VERB ；/PUNCT
+
+成都/PROPN －格尔木[/VERB 图库/PROPN ]/NOUN １０４９/NUM 次/NUM
+兰州/PROPN １４：４９/NOUN 到/CCONJ ，/PUNCT １４：５７/NOUN 开/VERB ；/PUNCT
+
+呼和浩特/PROPN [图/PROPN 库]/PROPN －/PUNCT 成都/PROPN １７１７／２０/NUM 次/NUM 兰州/PROPN ８：４３/NOUN 到/CCONJ ，/PUNCT ９：０６/NOUN 开/VERB ；/PUNCT
+
+兰州/PROPN －/PUNCT 乌鲁木齐Ｔ２９５/PROPN 次/NOUN 兰州/PROPN １６：１３/NOUN 开/VERB 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

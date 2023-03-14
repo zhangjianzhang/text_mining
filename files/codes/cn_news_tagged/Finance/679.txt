@@ -1,0 +1,11 @@
+上海/PROPN 豫园/PROPN 旅游/NOUN 商城/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股票/NOUN 价格/NOUN 已/ADV 连续/ADV 三/NUM 个/NUM 交易日/NOUN 达到/VERB 涨幅/NOUN 限制/VERB
+
+，/PUNCT 根据/ADP 有关/ADJ 规定/NOUN ，/PUNCT 公司/NOUN 特作/VERB 如下/ADV 公告/VERB ：/PUNCT
+
+公司/NOUN 目前/NOUN 不/ADV 存在/VERB 应/VERB 披露/VERB 而/ADV 未/ADV 披露/VERB 的/PART 重大/ADJ 事项/NOUN 。/PUNCT
+公司/NOUN 指定/VERB 的/PART 信息/NOUN 披露/NOUN 媒体/NOUN 为/VERB
+
+《/PUNCT 上海/PROPN 证券报/NOUN 》/PUNCT 、/PUNCT 《/PUNCT 中国/PROPN 证券报/NOUN 》/PUNCT 和/CCONJ 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN
+
+./PUNCT
+cn/ADV ，/PUNCT 请/VERB 广大/ADJ 投资者/NOUN 理性/ADJ 投资/NOUN ，/PUNCT 注意/VERB 投资/NOUN 风险/NOUN 。/PUNCT

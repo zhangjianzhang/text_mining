@@ -1,0 +1,90 @@
+很多/NUM 英国人/NOUN 常用/VERB 的/PART 习语/NOUN ，/PUNCT 我们/PRON 在/ADP 书本/NOUN 里/PART 是/VERB 学/VERB 不/ADV 到/VERB 的/PART 。/PUNCT
+解决/VERB 的/PART 一个/NUM 好/ADJ 办法/NOUN 就是/ADV 去/VERB 英国/PROPN 旅游/VERB 。/PUNCT
+如果/SCONJ 不/ADV 能/VERB 去/VERB 旅游/VERB 的话/PART ，/PUNCT 看看/VERB 我/PRON 给/ADP 大家/PRON 准备/VERB 的/PART 这/DET 顿/NUM “/PUNCT 习语/VERB 大餐/NOUN ”/PUNCT 也/ADV 是/VERB 不错/ADJ 的/PART 选择/NOUN 噢/PART ！/PUNCT
+
+1./NOUN Are/NOUN you/PRON all/ADV right/NOUN ?/PUNCT
+你好/VERB 吗/PART ？/PUNCT
+
+绝对/ADV 想/VERB 不/ADV 到/VERB “/PUNCT Are/NOUN you/PRON all/ADV right/NOUN ?/PUNCT ”/PUNCT
+还/ADV 可以/VERB 用来/VERB 打招呼/VERB 吧/PART ？/PUNCT
+其实/ADV 这/PRON 可是/ADV 英国人/NOUN 最/ADV 常用/VERB 的/PART 打招/NOUN 呼句子/NOUN ，/PUNCT 比/ADP “/PUNCT How/NOUN are/VERB
+
+you/PRON ?/PUNCT ”/PUNCT
+还要/ADV 流行/VERB 哦/PART ！/PUNCT
+例如/ADV ：/PUNCT
+
+Are/ADV you/PRON all/DET right/NOUN ,/PUNCT David/PROPN ?/PUNCT
+
+Fine/PROPN ,/PUNCT thank/VERB you/PRON ./PUNCT
+
+2/NUM ./PUNCT
+Cheers/PROPN !/PUNCT
+谢谢/VERB ，/PUNCT 再见/VERB ！/PUNCT
+
+我们/PRON 干杯/VERB 的/PART 时候/NOUN 常/ADV 说/VERB Cheers!/NOUN ，/PUNCT 以示/VERB 宾主尽欢/NOUN 。/PUNCT
+当/ADP 英国人/NOUN 下/PART 公车/NOUN 、/PUNCT 买/VERB 完/VERB 东西/NOUN 的/PART 时候/NOUN ，/PUNCT 他们/PRON 常常/ADV 对/ADP 司机/NOUN 和/CCONJ 售货员/NOUN 说/VERB “/PUNCT Cheer/NOUN s!/NOUN ”/PUNCT ，/PUNCT 来/PART 代替/VERB Thank/PROPN you/PRON
+
+和/CCONJ Goodbye/NOUN 。/PUNCT
+例如/ADV ：/PUNCT
+
+Five/PROPN pounds/NOUN fifty/VERB ,/PUNCT please/VERB ./PUNCT
+Cheers/PROPN !/PUNCT
+
+Cheers/PROPN !/PUNCT
+
+3/NUM ./PUNCT
+Give/VERB me/PRON a/NUM minute/NOUN !/PUNCT
+请/VERB 稍等/VERB 一会/NOUN ！/PUNCT
+
+说到/VERB “/PUNCT 稍等/ADJ 一会/NOUN ”/PUNCT ，/PUNCT 我们/PRON 立刻/ADV 想到/VERB 的/PART 就是/ADV wait/VERB a/PART minute/NOUN ，/PUNCT 意思/NOUN 也/ADV 是/VERB 不错/VERB 的/PART 。/PUNCT
+但是/ADV 英国人/NOUN 会/VERB 说/VERB “/PUNCT Give/NOUN me/PRON a/NUM minute!/NOUN ”/PUNCT ，/PUNCT
+例如/ADV ：/PUNCT
+
+Give/VERB me/PRON a/NUM minute/NOUN ,/PUNCT David/PROPN !/NOUN I/PRON will/VERB find/ADP the/DET map/NOUN for/VERB you/PRON ./PUNCT
+
+4./NUM I/NOUN am/VERB behind/ADP you/PRON ./PUNCT
+我/PRON 支持/VERB 你/PRON
+
+“/PUNCT I/PRON am/VERB behind/ADP you/PRON ./PUNCT ”/PUNCT
+这/DET 句/NUM 话/NOUN 真的/ADV 是/VERB 非常/ADV 明白/VERB 的/PART 表示/VERB 了/PART “/PUNCT 一个/NUM 成功/VERB 的/PART 男人/NOUN 背后/NOUN 必定/ADV 有/VERB 一个/NUM 女人/NOUN ”/PUNCT 的/PART 意思/NOUN 。/PUNCT
+说到/VERB “/PUNCT 我/PRON 支持/VERB 你/PRON ”/PUNCT ，/PUNCT 可能/ADV 很多/NUM 人/NOUN 都会/ADV 想到/VERB “/PUNCT
+I/PRON
+
+support/NOUN you/PRON ./PUNCT ”/PUNCT ，/PUNCT 可/ADV 就是/ADV 想/VERB 不/ADV 到/VERB “/PUNCT I/PRON am/VERB behind/ADP you/PRON ./PUNCT
+”/PUNCT 吧/PART 。/PUNCT
+例如/ADV ：/PUNCT
+
+Whatever/PROPN decision/NOUN you/PRON are/VERB going/VERB to/ADP make/NOUN ,/PUNCT I/PRON am/VERB behind/ADP you/PRON ./PUNCT
+
+5./NUM Do/NUM you/PRON really/VERB mean/NOUN it/NOUN ?/PUNCT
+此话/NOUN 当真/NOUN ？/PUNCT
+
+当/ADP 别人/NOUN 许诺/VERB 要/VERB 给/VERB 你/PRON 什么/DET 好处/NOUN 的/PART 时候/NOUN ，/PUNCT 你/PRON 一定/ADV 会/VERB 以为/VERB 是/VERB 天/NOUN 上掉/NOUN 馅饼/VERB 了/PART ，/PUNCT 所以/ADV 禁不住/NOUN 要/VERB 问/VERB 一/NUM 句/NUM ：/PUNCT Do/NUM you/PRON really/VERB mean/NOUN it/NOUN ?/PUNCT
+
+就是/ADV "此话/NOUN 当/VERB 真"/VERB 的/PART 意思/NOUN 。/PUNCT
+例如/ADV ：/PUNCT
+
+I/PRON can/VERB give/PROPN what/VERB you/PRON want/VERB ./PUNCT
+
+Do/ADV you/PRON really/VERB mean/NOUN it/NOUN ?/PUNCT
+
+Yes/PROPN ,/PUNCT I/PRON mean/NOUN it/PROPN !/PUNCT
+
+6/NUM ./PUNCT Get/VERB on/VERB with/NOUN it/NOUN !/NUM
+快点/VERB ！/PUNCT
+
+大家/PRON 一起/ADV 出去/VERB 玩/VERB ，/PUNCT 有/VERB 个人/NOUN 却/ADV 总是/ADV 磨磨蹭蹭/VERB 的/PART ，/PUNCT 害/VERB 得/PART 所有人/NOUN 都/ADV 要/VERB 赶/VERB 不/ADV 上车/VERB 。/PUNCT
+这时候/ADV 你/PRON 就/ADV 可以/VERB 说/VERB get/PRON on/ADP with/ADJ it/NOUN 来/PART 催促/VERB 他/PRON 。/PUNCT
+例如/ADV ：/PUNCT
+
+Get/VERB on/VERB with/ADJ it/NOUN ,/PUNCT we/NOUN have/PROPN no/NOUN time/NOUN left/VERB !/PUNCT
+
+7./NUM Get/VERB a/NUM move/NOUN on/NOUN !/NOUN 赶快/ADV 行动/NOUN 吧/PART !/PUNCT
+
+记得/VERB 看/VERB 战斗片/NOUN 的/PART 时候/NOUN ，/PUNCT 指挥/VERB 作战/NOUN 的/PART 军官/NOUN 总是/ADV 一边/ADV 跑/VERB 着/PART ，/PUNCT 一边/ADV 对/ADP 士兵/NOUN 大/ADV 喊/VERB ：/PUNCT
+Move!/NOUN Move!/NOUN Move!/NOUN
+
+就是/ADV "/PUNCT 赶快/ADV 行动/NOUN "/PUNCT 的/PART 意思/NOUN 。/PUNCT
+现在/NOUN 这个/DET 词/NOUN 在/ADP 口语/NOUN 中/PART 可是/ADV 非常/ADV 的/PART 流行/VERB ，/PUNCT 例如/ADV ：/PUNCT
+
+Get/VERB a/VERB move/NOUN on/NOUN and/CCONJ help/NUM yourself/NOUN to/ADP some/NOUN food/VERB !/PUNCT

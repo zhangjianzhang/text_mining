@@ -1,0 +1,64 @@
+本/DET 公司/NOUN 及其/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/VERB 、/PUNCT 完整/VERB ，/PUNCT 没有/VERB 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或/CCONJ 重大/ADJ 遗漏/NOUN 。/PUNCT
+
+2006/NUM 年/NUM 4/NUM 月/NUM 24/NOUN 日西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 审议/VERB 通过/VERB 了/PART 《/PUNCT 西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 说明书/NOUN 》/PUNCT 。/PUNCT
+2006/NOUN 年/NOUN 4/NUM 月/NUM 28/NUM 日刊登/PROPN 了/PART 《/PUNCT 西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/NOUN 改革/NOUN 方案/NOUN 实施/VERB 公告/NOUN 》/PUNCT 。/PUNCT
+股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 后/PART ，/PUNCT 公司/NOUN 股份/NOUN 结构/NOUN 发生/VERB 变化/NOUN ，/PUNCT 现/ADV 将/X 公司/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 后/PART 的/PART 股份/NOUN 结构/NOUN 变动/NOUN 情况/NOUN 公告/NOUN 如下/VERB ：/PUNCT
+
+一/NUM 、/PUNCT 公司/NOUN 实施/VERB 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 后/PART 的/PART 股份/NOUN 结构/NOUN 变动/VERB 具体/ADJ 情况/NOUN 见/VERB 下表/NOUN ：/PUNCT
+
+改革/VERB 前/ADJ                                                          /SPACE 改革/NOUN 后/PART
+
+股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (/PUNCT ％/NUM )/PROPN                                /SPACE 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (/PUNCT ％/NUM )/NOUN
+
+一/NUM 、/PUNCT 未/ADV 上市/VERB 流通/NOUN 股份/NOUN 合计/ADJ        /SPACE 343/NUM ,/PUNCT 200/NUM ,/NUM 000/NUM              /SPACE 54/NUM ./PUNCT
+79/NUM   /SPACE 一/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/ADJ    /SPACE 272/NUM ,/PUNCT 597/NUM ,/PUNCT 390/NUM              /SPACE 43/NUM ./PUNCT
+52/NUM
+
+国有/ADJ 法人股/NOUN                    /SPACE 343/NUM ,/PUNCT 200/NUM ,/NUM 000/NUM              /SPACE 54/NUM ./PUNCT
+79/NUM                 /SPACE 国有/ADJ 法人/NOUN 持股/ADJ    /SPACE 272/NUM ,/PUNCT 400/NUM ,/PUNCT 000/NUM
+
+社会/NOUN 法人股/NOUN                                                                         /SPACE 高管股/NOUN        /SPACE 197/NUM ,/PUNCT 390/NUM
+
+二/NUM 、/PUNCT 流通/NOUN 股份/NOUN 合计/VERB (含/NOUN 高管/NOUN 股)/PUNCT    /SPACE 283/NUM ,/PUNCT 200/NUM ,/PUNCT 000/NUM              /SPACE 45/NUM ./PUNCT
+21/NUM   /SPACE 二/NUM 、/PUNCT 无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/ADJ    /SPACE 353/NUM ,/PUNCT 802/NUM ,/PUNCT 610/NUM              /SPACE 56/NUM ./PUNCT
+48/NUM
+
+A股/NOUN                           /SPACE 283/NUM ,/PUNCT 200/NUM ,/PUNCT 000/NUM              /SPACE 45/NUM ./PUNCT
+21/NUM                          /SPACE A股/VERB    /SPACE 353/NUM ,/PUNCT 802/NUM ,/PUNCT 610/NUM
+
+三/NUM 、/PUNCT 股份/NOUN 总数/NOUN                  /SPACE 626/NUM ,/PUNCT 400/NUM ,/PUNCT 000/NUM             /SPACE 100/NUM ./PUNCT
+00/NUM                 /SPACE 三/NUM 、/PUNCT 股份/NOUN 总数/NOUN    /SPACE 626/NUM ,/PUNCT 400/NUM ,/PUNCT 000/NUM             /SPACE 100/NUM ./PUNCT
+00/NUM
+
+二/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NUM 股东/NOUN 持有/VERB 的/PART 流通/NOUN 股/NUM 流通/NOUN 时间表/NOUN
+
+股东/NOUN 名称/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (%/PUNCT )/NOUN   /SPACE 可/VERB 上市/VERB 流通/NOUN 时间/NOUN         /SPACE 承诺/NOUN 的/PART 限售/NOUN 条件/NOUN
+
+西飞/NOUN 集团/NOUN                 /SPACE 5/NUM     /SPACE 2007年/NOUN 5月/NOUN 9日/NOUN   /SPACE 在/ADP 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 之/PART 日起/NOUN ，/PUNCT 在/ADP 十二/NUM
+
+10/NUM     /SPACE 2008年/NOUN 5月/NOUN 9日/NOUN   /SPACE 个/NUM 月/NOUN 内/PART 不/ADV 上市/VERB 交易/NOUN 或者/CCONJ 转让/NOUN ；/PUNCT 在/ADP 前述/ADJ 期限/NOUN 届/NUM
+
+43/NUM ./PUNCT
+52/NUM     /SPACE 2009年/NOUN 5月/NOUN 9日/NOUN   /SPACE 满/VERB 后/PART ，/PUNCT 通过/ADP 证券/NOUN 交易所/NOUN 挂牌/VERB 交易/NOUN 出售/VERB 的/PART 股份/NOUN
+
+数量/NOUN 占/VERB 西飞/NOUN 国际/NOUN 股份/NOUN 总数/NOUN 的/PART 比例/NOUN 在/ADP 十二/NUM 个/NUM
+
+月/NOUN 内/PART 不/ADV 超过/VERB 百分之五/NUM ，/PUNCT 在/ADP 二十四/NUM 个/NUM 月/NOUN 内/PART 不/ADV 超/VERB
+
+过/PART 百分之十/NUM 。/PUNCT
+
+三/NUM 、/PUNCT 备查/NOUN 文件/NOUN
+
+1/NUM 、/PUNCT 西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 表决/NOUN 结果/NOUN 公告/VERB ；/PUNCT
+
+2/NUM 、/PUNCT 北京市/PROPN 嘉源/PROPN 律师/NOUN 事务所/NOUN 关于/ADP 西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 的/PART 法律/NOUN 意见书/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT 西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/NOUN 改革/NOUN 说明书/NOUN 。/PUNCT
+
+特此/ADV 公告/VERB 。/PUNCT
+
+西安/PROPN 飞机/NOUN 国际/NOUN 航空/NOUN 制造/VERB 股份/NOUN 有限/ADJ 公司/NOUN
+
+董/NOUN 事/NOUN 会/VERB
+
+二〇〇六年/PUNCT 五月/NOUN 九日/NOUN

@@ -1,0 +1,236 @@
+足彩/NOUN 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 赛果/NOUN
+
+队名/NOUN
+
+佛/NOUN
+
+罗/PROPN
+
+伦/PROPN
+
+国/NOUN
+
+米/NUM
+
+尤/ADV
+
+文/NOUN
+
+莱/PROPN
+
+切/VERB
+
+梅/PROPN
+
+西/NOUN
+
+纳/VERB
+
+帕/VERB
+
+尔/ADV
+
+玛/NOUN
+
+罗/PROPN
+
+马/PROPN
+
+乌/PROPN
+
+迪/NOUN
+
+内/PART
+
+阿/PROPN
+
+森/PROPN
+
+纳/VERB
+
+博/NOUN
+
+尔/ADV
+
+顿/NUM
+
+埃/PROPN
+
+弗/PROPN
+
+顿/NUM
+
+曼/PROPN
+
+联/VERB
+
+朴/VERB
+
+茨/NOUN
+
+茅/VERB
+
+西/NOUN
+
+汉/PROPN
+
+姆/VERB
+
+胜/VERB 负彩/NOUN
+
+3/NUM
+
+1/NUM
+
+3/NUM
+
+1/NUM
+
+0/NUM
+
+0/NUM
+
+3/NUM
+
+3/NUM
+
+3/NUM
+
+3/NUM
+
+1/NUM
+
+3/NUM
+
+0/NUM
+
+3/NUM
+
+详细/ADJ 比分/NOUN >>/NUM
+
+足彩/NOUN 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 开奖/NOUN 结果/NOUN
+
+一等奖/NUM
+
+2746/NOUN (注/NOUN )/NOUN
+
+8982/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+二等奖/NOUN
+
+48446/NUM (注/NOUN )/NOUN
+
+218/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+销售额/NOUN ：/PUNCT 55060766/NUM 元/NUM
+
+开奖/NOUN 详情/NOUN >>/NUM
+
+任选/NOUN 九/NUM 场/NUM 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 开奖/NOUN 结果/NOUN
+
+一等奖/NUM
+
+150536/NOUN (注/NOUN )/NOUN
+
+66/NUM (元/NOUN )/PROPN
+
+销售额/NOUN ：/PUNCT 15683736/NUM 元/NUM
+
+开奖/NOUN 详情/NOUN >>/NUM
+
+足彩/NOUN 任选/NOUN 九/NUM 场/NUM 玩法/NOUN 06031/NUM 期/NUM 冷门/NOUN 排行/VERB
+
+排名/VERB
+
+对阵/NOUN
+
+赛果/NOUN
+
+胜/VERB
+
+平/VERB
+
+负/ADV
+
+1/NUM
+
+西汉姆/PROPN 2-1/NUM 热刺/NOUN
+
+3/NUM
+
+6/NUM ./PUNCT
+91/NOUN
+
+15/NUM ./PUNCT
+14/NUM
+
+77/NUM ./PUNCT
+95/NUM
+
+评/VERB
+
+2/NUM
+
+埃弗顿/PROPN 2-2/PROPN
+西布朗/PROPN
+
+1/NUM
+
+79/NUM ./PUNCT 83/NUM
+
+17/NUM ./PUNCT 46/NUM
+
+2.72/NOUN
+
+评/VERB
+
+3/NUM
+
+国米/NOUN 1-1/NOUN 锡/NOUN 耶纳/PROPN
+
+1/NUM
+
+80/NUM ./PUNCT
+07/NUM
+
+18/NUM ./PUNCT
+00/NUM
+
+1./NOUN 93/NOUN
+
+评/VERB
+
+4/NUM
+
+梅西纳/PROPN 1-2/PROPN 恩波利/PROPN
+
+0/NUM
+
+45/NUM ./PUNCT
+49/NUM
+
+33/NUM ./NOUN 78/NUM
+
+20/NUM ./PUNCT 74/NUM
+
+评/VERB
+
+5/NUM
+
+莱切/PROPN 0-0/PROPN 切沃/VERB
+
+1/NUM
+
+7./NUM 76/NUM
+
+21/NUM ./PUNCT
+02/NUM
+
+71/NUM ./PUNCT
+22/NUM
+
+评/VERB
+
+胜/VERB 负彩/NOUN 冷门/NOUN 排行/VERB >>/NUM
+
+任选/NOUN 九/NUM 场/NUM 冷门/NOUN 排行/VERB >>/NUM

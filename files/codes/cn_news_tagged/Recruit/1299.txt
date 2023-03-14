@@ -1,0 +1,24 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN OBJECTIVE/NOUN 　　/SPACE A/NOUN position/NOUN in/ADP the/DET personnel/NOUN field/NOUN in/NOUN which/PROPN my/VERB experience/VERB and/CCONJ education/VERB will/NOUN have/NOUN valuable/VERB application/VERB ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN EX/PROPN PER/NOUN I/NOUN ENCE/NOUN 　　/SPACE VIR/NOUN GIN/NOUN I/PRON A/NOUN GEN/NOUN E/NOUN R/NOUN A/NOUN L/NOUN HOSPITA/PROPN L/NOUN ,/PUNCT Suffolk/PROPN ,/PUNCT V/NOUN A/NOUN 　　/SPACE Assistant/NOUN Personnel/NOUN Officer/PROPN ,/PUNCT 1990/NOUN -/PUNCT Present/PROPN 　　/SPACE Recruited/PROPN and/CCONJ trained/NOUN administrative/PROPN and/CCONJ clerical/NOUN staffs,ancillary/NOUN and/CCONJ works/NOUN department/NOUN staffs,professional/NOUN and/CCONJ technical/ADJ staffs/NOUN ./PUNCT
+　　/SPACE Supervised/PROPN Personnel/NOUN Assistant/PROPN ,/PUNCT Personnel/NOUN Clerk/NOUN and/CCONJ Secretary/NOUN ./PUNCT
+　　/SPACE Organized/ADV ,/PUNCT revised/VERB ,/PUNCT expanded/VERB and/CCONJ managed/NOUN induction/NOUN program/NOUN ./PUNCT
+　　/SPACE Evaluated/NOUN personnel/NOUN ./PUNCT
+　　/SPACE Conducted/NOUN disciplinary/NOUN and/CCONJ grievance/NOUN interviews/NOUN ./PUNCT
+　　/SPACE Signed/NOUN employees/VERB to/ADP contracts/NOUN ./PUNCT
+　　/SPACE Advised/NOUN staff/NOUN on/ADV conditions/NOUN of/ADP employment/VERB ,/PUNCT entitlements/VERB ,/PUNCT maternity/VERB leave,etc/NOUN ./PUNCT
+　　/SPACE SOUTHERN/NOUN CHARM/PROPN STORES/PROPN ,/PUNCT Roanoke/PROPN ,/PUNCT V/NOUN A/NOUN 　　/SPACE Assistant/NOUN Staff/PROPN Manager/PROPN ,/PUNCT 1986/NOUN -/PUNCT 1990/NOUN 　　/SPACE Recruited/NOUN and/CCONJ selected/NOUN employees/VERB ./PUNCT
+　　/SPACE Hired/PROPN personnel/NOUN and/CCONJ referred/PROPN for/ADP termination/NOUN ./PUNCT
+　　/SPACE Administered/PROPN wages/NOUN ,/PUNCT salary/NOUN and/CCONJ workmen's/PROPN compensation/PROPN ./PUNCT
+　　/SPACE Developed/PROPN staff/NOUN in/ADP various/VERB job/NOUN descriptions/NUM ./PUNCT
+　　/SPACE Performed/NOUN inductions/NOUN ./PUNCT
+　　/SPACE Supervised/PROPN personnel/NOUN clerk/VERB ./PUNCT
+　　/SPACE Served/PROPN as/ADP interim/NOUN Staff/PROPN Manager/PROPN at/ADV Raleigh/PROPN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE Y/NOUN A/NOUN L/NOUN E/NOUN UN/NOUN I/PRON VERSIT/PROPN Y/NOUN ,/PUNCT New/NOUN Haven/NOUN ,/PUNCT CT/PROPN 　　/SPACE Bachelor/NOUN of/ADP Science/PROPN in/ADP Sociology/PROPN ,/PUNCT 1996/NOUN 　　/SPACE COOK/PROPN COLLEGE/NOUN ,/PUNCT LOS/PROPN Angeles/VERB ,/PUNCT CA/PROPN 　　/SPACE Personnel/NOUN Management/PROPN Exams/PROPN ,/PUNCT 1985/NUM 　　/SPACE RE/PROPN FEREN/NOUN CES/PROPN 　　/SPACE Available/NOUN upon/VERB request/NOUN ./PUNCT
+　　/SPACE Clean/NOUN la/NOUN yout/VERB makes/NOUN resume/NOUN easy/NOUN to/NOUN read/PROPN ./PUNCT
+　　/SPACE Unrelated/PROPN work/NOUN experience/VERB is/VERB omitted/VERB ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT personnel/NOUN +/PUNCT Personnel/PROPN +/PUNCT Assistant/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+44/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

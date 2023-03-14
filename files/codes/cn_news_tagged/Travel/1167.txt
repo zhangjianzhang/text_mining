@@ -1,0 +1,12 @@
+美泉/NOUN
+
+市集/NOUN 广场/NOUN (Nurnberger/NOUN
+
+Hauptmark/PROPN t)/PUNCT 上/PART 的/PART 喷泉/NOUN 称为/VERB “/PUNCT 美泉/NOUN ”/PUNCT ，/PUNCT 其/PRON 柱内/NOUN 里/PART 有/VERB 一/NUM 只/NUM 神秘/ADJ 的/PART “/PUNCT 幸运/ADJ 指环/NOUN ”/PUNCT 。/PUNCT
+另/DET 一个/NUM 则/ADV 是/VERB “/PUNCT 婚姻/NOUN 回/VERB 旋处/NOUN ”/PUNCT (/PUNCT Ehekarnssel)/NOUN 。/PUNCT
+这个/DET 喷泉/NOUN 则/ADV 拥有/VERB 截然不同/VERB 的/PART 风格/NOUN 。/PUNCT
+它/PRON 的/PART 设计/NOUN 基础/NOUN 是/VERB 以/ADP 鞋匠/NOUN 诗人/NOUN 汉斯萨克斯(Hans/PROPN
+
+Sachs/PROPN )/PROPN 对/ADP “/PUNCT 婚姻/NOUN 生活/NOUN 苦/VERB 与/CCONJ 乐/NOUN ”/PUNCT 的/PART 诗歌/NOUN 寓意/NOUN 为/ADP 设计/NOUN 基础/NOUN 。/PUNCT
+
+推荐/VERB 景点/NOUN ：/PUNCT 玩具/NOUN 博物馆/NOUN     /SPACE 工匠/NOUN 广场/NOUN     /SPACE 皇帝/NOUN 堡/NOUN

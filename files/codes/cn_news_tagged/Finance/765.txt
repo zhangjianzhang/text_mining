@@ -1,0 +1,73 @@
+将/X 负债/NOUN 清零/VERB 的/PART 30岁/NUM 男士/NOUN 理财/NOUN 规划/NOUN
+
+小林/NOUN ，/PUNCT 30岁/NUM ，/PUNCT 单身/VERB 。/PUNCT
+财经/NOUN 大学/NOUN 本科/NOUN 毕业/VERB ，/PUNCT 对/ADP 金融/NOUN 比较/ADV 了解/VERB ,/PUNCT 现在/NOUN 苏州/PROPN 一家/PART 事业/NOUN 单位/NOUN 工作/VERB 。/PUNCT
+年收入/NOUN 6万/NUM 元/NUM ，/PUNCT 住房/NOUN 公积金/NOUN 1.5万/NUM 元/NUM 每年/ADV (到/NOUN 2006年/NOUN 帐户/NOUN 上/PART 已/ADV 有/VERB 5万/NUM 元/NUM )/NOUN 。/PUNCT
+小林/NOUN 工作/NOUN 优秀/VERB ，/PUNCT 是/VERB 单位/NOUN 优秀/ADJ 人才/NOUN ……/PUNCT [/PROPN 全/DET 文]/NOUN
+
+单身/ADJ 妈妈/NOUN 理财/VERB 子女/NOUN 教育/NOUN 规划/NOUN
+先行/ADV
+
+理财/NOUN 规划/NOUN ：/PUNCT 中产/ADJ 女士/NOUN 如何/ADV 组合/VERB 300万/NUM 元/NUM
+
+俩/NUM 人/NOUN 收入/VERB 过/PART 四千/NUM 两/NUM 年内/NUM 挪出/VERB 七万/NUM 婚礼/NOUN 钱/NOUN
+
+家庭/NOUN 年入/NOUN 8万/NOUN 如何/ADV 理财/VERB 才/ADV 好/VERB
+
+刚/ADV 毕业/VERB 两/NUM 地/NOUN 分居/VERB 家庭/NOUN 的/PART 5/NUM 年/NUM 理财/NOUN 计划/NOUN
+
+准新郎/NOUN 备战/VERB 婚礼/NOUN 要/VERB 理智/ADV 消费/VERB
+
+夫妻/NOUN 年入/NOUN 42万零/NUM 负债/NOUN 家庭/NOUN 理财/NOUN
+
+首/NUM 个/NUM 10万/NOUN 靠/ADP 毅力/NOUN 第二/NUM 个/NUM 10万/NUM 靠/VERB 方法/NOUN
+
+忍受/VERB 相思/NOUN 苦/NOUN 拼命/ADV 赚钱/VERB 高/ADJ 收入/NOUN 家庭/NOUN 如何/ADV 理财/VERB
+
+从/ADP 今天/NOUN 开始/VERB 理财/NOUN 目标/NOUN 是/VERB 五/NUM 年/NUM 一百万/NOUN
+
+月入/PROPN 2.8万/NOUN 全/DET 职/NOUN 妈妈/NOUN 精打细/NOUN 算巧/VERB 理财/NOUN
+
+2/NUM 套/NUM 公寓/NOUN 加/VERB 15万/NUM 元/NUM 存款/NOUN 等于/VERB 什么/PRON ？/PUNCT
+
+挣/VERB 700/NUM 花/VERB 2000/NUM 　/SPACE 毕业/VERB 第一/NUM 年/NUM 的/PART 理财/NOUN 规划/NOUN
+
+白领/NOUN 颠覆/VERB 传统/ADJ 　/SPACE 婚内/ADJ 分居/VERB 夫妇/NOUN 如何/ADV 规划/VERB 钱程/NOUN
+
+外来/ADJ 打工/NOUN 小两口/PROPN 的/PART 理财/NOUN 规划/NOUN
+
+搜狐/PROPN 理财案/PROPN 例库/NOUN
+
+月入/PROPN 2500/NUM 工薪/NOUN 家庭/NOUN 理财/NOUN 规划/NOUN
+
+洛阳/PROPN 三口/NOUN 之/PART 家/NOUN 的/PART 魅力/NOUN 理财/NOUN 生活/NOUN
+
+青年/NOUN 夫妇/NOUN 的/PART 日常/ADJ 理财/NOUN 之/PART 道/NOUN
+
+工薪/NOUN 阶层/NOUN 的/PART 理财/NOUN 方程式/NOUN
+
+上海/PROPN 工薪/NOUN 三年/ADV 买/VERB 两/NUM 套/NUM 房/NOUN 的/PART 理财/NOUN 历程/NOUN
+
+添丁/VERB 家庭/NOUN 的/PART 理财/NOUN 规划/NOUN
+
+硕士/NOUN 小两口/PROPN 的/PART 理财/NOUN 经验之谈/NOUN
+
+专家/NOUN 支招/VERB 白领丽人/VERB 的/PART 理财/NOUN 之/PART 道/NOUN
+
+外企/NOUN 白领/NOUN 夫妇/NOUN 的/PART 理财/NOUN 方案/NOUN
+
+高/ADJ 收入/NOUN 白领/NOUN 家庭/NOUN 理财/NOUN 规划/NOUN
+
+理财/NOUN 规划/NOUN 帮/ADP 你/PRON 设计/VERB 自己/PRON 的/PART 幸福/NOUN 晚年/NOUN
+
+25/NUM ～/ADV 35/NUM 岁/NUM 女/ADJ 白领/NOUN 十/NUM 年/NUM 理财/NOUN 路/NOUN
+
+30岁/NUM 普通/ADJ 男人/NOUN 的/PART 20年/NOUN 规划/NOUN
+
+19/NUM 岁/NUM 800/NUM 元/NUM 到/CCONJ 26/NUM 岁/NUM 200万7年/NUM 理财/NOUN 路/NOUN
+
+25/NUM 周岁/ADJ 年轻/ADJ 一代/NUM 的/PART 理财/NOUN 案例/NOUN 分享/VERB
+
+瞻前顾后/ADJ 理财/VERB 10/NUM 条/NUM 金律/PROPN
+
+理财/NOUN 也/ADV 要/VERB 有的放矢/VERB

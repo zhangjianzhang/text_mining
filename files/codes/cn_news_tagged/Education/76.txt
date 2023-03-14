@@ -1,0 +1,87 @@
+Shavuot/PROPN
+
+the/DET 5th/NOUN day/NOUN of/ADP Sivan/PROPN ,/PUNCT fifty/PROPN days/PROPN after/PROPN Passover/PROPN (Jewish/NUM world/VERB )/PROPN
+
+The/NOUN Yom/NOUN Tov/NOUN begins/PROPN at/ADP sundown/NOUN of/ADP the/DET 5th/NOUN day/PROPN of/ADP Sivan/VERB (息/NOUN 汪月/VERB ,/PUNCT
+
+即/ADV 犹太/NOUN 教历/NOUN 3月/NOUN ,/PUNCT 犹太/NOUN 国历/NOUN 9月/NOUN ,/PUNCT 在/ADP 公历/NOUN 5/NUM 、/PUNCT 6月/NUM 间/NUM ,/PUNCT 共/ADV 30/NUM 天/NUM )/VERB ,/PUNCT exactly/ADV fifty/VERB days/PROPN after/PROPN Passover/PROPN (/PUNCT 犹太教/NOUN 的/PART 逾越/NOUN 节)/PUNCT ./PUNCT
+
+Shavuot/PROPN ,/PUNCT the/DET Feast/NOUN of/ADP the/DET Weeks/NOUN ,/PUNCT is/VERB the/DET Jewish/PROPN holiday/PROPN celebrating/PROPN the/DET
+
+harvest/NOUN season/NOUN in/NOUN I/PRON srael/VERB ./PUNCT
+Shavuot/PROPN ,/PUNCT which/PROPN means/NOUN "/PUNCT weeks/PROPN "/PUNCT ,/PUNCT refers/PROPN to/ADP the/DET timing/NOUN
+of/ADP
+
+the/DET festival/NOUN which/PROPN is/VERB held/NOUN exactly/ADV 7/NUM weeks/NOUN after/PROPN Passover/PROPN ./PUNCT
+Shavuot/PROPN is/VERB known/PROPN also/VERB
+
+as/ADV Yom/NOUN Habikkurim/PROPN ,/PUNCT or/CCONJ "/PUNCT the/DET Day/NOUN of/ADP the/DET First/PROPN Fruits/NOUN "/PUNCT ,/PUNCT because/NOUN it/PROPN is/VERB the/DET time/NOUN the/DET
+
+farmers/PROPN of/ADP I/PRON srael/VERB would/PROPN bring/PROPN the/DET ir/NOUN first/ADV harvest/VERB to/ADP Jerusalem/PROPN as/ADP a/NUM token/NOUN of/ADP
+
+thanksgiving/NOUN ./PUNCT
+
+Shavuot/PROPN also/PROPN commemorates/PROPN the/DET anniversary/VERB of/ADP the/DET giving/NOUN of/ADP the/DET Ten/NOUN
+
+Commandments/VERB to/ADP Moses/PROPN (/PUNCT 十/NUM 诫/NUM ,/PUNCT 犹太教/NOUN 、/PUNCT 基督教/NOUN 的/PART 诫条/ADJ )/NOUN and/CCONJ the/DET I/NOUN sraelites/NOUN at/ADP Mount/PROPN Sinai/NOUN
+
+(/PUNCT 西奈山/PROPN ,/PUNCT 基督教/NOUN 《/PUNCT 圣经/NOUN 》/PUNCT 中/PART 记载/VERB 的/PART 上帝/PROPN 授予/VERB 摩西/PROPN 十/NUM 诫/NUM 之/PART 处/NOUN )/VERB ./PUNCT
+
+Many/ADV of/ADP the/DET traditions/NOUN and/CCONJ customs/NOUN of/ADP Shavuot/PROPN have/PROPN evolved/VERB
+from/ADP the/DET legends/NOUN
+
+and/CCONJ stories/ADJ describing/NOUN the/DET experiences/NOUN of/ADP the/DET I/PRON sraelites/NOUN at/ADP Mount/PROPN Sinai/NOUN ./PUNCT
+
+According/VERB to/ADP tradition/VERB the/DET I/PRON sraelites/NOUN actually/PROPN overslept/NOUN on/ADP the/DET morning/NOUN of/ADP God/NOUN 's/VERB
+
+visit/VERB ./PUNCT
+To/NOUN compensate/NOUN for/VERB this/PRON negligence/NOUN ,/PUNCT Jews/PROPN hold/NOUN a/PROPN vigil/NOUN on/ADP the/DET eve/NOUN
+of/ADP
+
+Shavuot/PROPN ./PUNCT
+They/PROPN stay/NOUN awake/NOUN from/ADP dusk/PROPN to/ADP dawn/VERB ,/PUNCT keeping/NOUN themselves/NOUN busy/NOUN with/ADP
+the/DET
+
+readings/NOUN of/ADP the/DET Torah/PROPN (律法/NOUN ，/PUNCT 圣经/NOUN 旧约/PROPN 之/PART 首/NUM 五/NUM 卷)/PUNCT and/CCONJ the/DET Talmud/NOUN (/PUNCT 犹太法/PROPN 典)/NOUN ./PUNCT
+A/NOUN digest/NOUN of/ADP readings/NOUN
+
+has/PROPN evolved/NOUN called/VERB Tikkun/PROPN Leil/PROPN Shavuot/PROPN ,/PUNCT the/DET "Restoration/NOUN of/ADP Shavuot/PROPN Eve/NOUN ,/PUNCT "/PUNCT which/PROPN
+
+includes/VERB selections/NOUN from/ADP the/DET Torah/NOUN ,/PUNCT the/DET Prophets/NOUN ,/PUNCT the/DET Talmud/NOUN ,/PUNCT and/CCONJ the/DET Zohar/PROPN
+
+(/PUNCT 《/PUNCT 光明篇/PROPN 》/PUNCT ,/PUNCT 犹太教/NOUN 神秘主义/VERB 对/ADP 摩西/PROPN 五/NUM 书/NOUN 的/PART 注疏/NOUN )/NOUN ./PUNCT
+
+Another/NOUN Shavuot/PROPN custom/VERB is/VERB the/DET eating/VERB of/ADP dairy/NOUN foods/VERB ./PUNCT
+One/NOUN explanation/VERB states/NOUN
+
+that/ADV this/PRON comes/PROPN from/ADP a/DET passage/NOUN in/ADP the/DET Torah/NOUN which/PROPN reads/NOUN :/PUNCT "/PUNCT
+And/NOUN He/ADP gave/PROPN us/VERB this/PRON
+
+land/PROPN ,/PUNCT a/NUM land/PROPN flowing/ADV with/ADV milk/NOUN and/CCONJ honey/PROPN "/PUNCT ./PUNCT
+
+Another/NOUN explanation/VERB comes/VERB from/ADP a/DET legend/PROPN stating/NOUN that/NOUN before/ADP the/DET visit/NOUN from/ADP
+
+God/VERB the/DET Jews/PROPN did/NOUN not/PROPN keep/VERB kosher/ADJ (指/NOUN 食物/NOUN 、/PUNCT 饮食店/NOUN 等/PART 合礼/VERB 的/PART ,/PUNCT 符合/VERB 犹太/NOUN 教规/NOUN 戒律/NOUN 的/PART )/NOUN or/CCONJ follow/VERB the/DET Kashrut/NOUN
+
+(dietary/NOUN )/NOUN laws/NOUN ./PUNCT
+It/NOUN was/NOUN on/ADP this/PRON first/VERB Shavuot/PROPN that/NOUN they/NOUN found/PROPN out/ADP that/NOUN the/DET ir/NOUN
+
+utensils/VERB were/PROPN nonkosher/NOUN and/CCONJ thus/NOUN unfit/PROPN for/PROPN use/NOUN ./PUNCT
+So/NOUN finding/VERB themselves/NOUN without/VERB
+
+kosher/PROPN meats/NOUN or/CCONJ utensils/PROPN the/DET I/PRON sraelites/NOUN were/PROPN forced/VERB to/ADP eat/NOUN only/ADP dairy/NOUN foods/VERB ./PUNCT
+
+Today/PROPN Jews/PROPN celebrate/NOUN Shavuot/PROPN
+by/ADP eating/VERB blintzes/ADV ,/PUNCT cheesecake/PROPN ,/PUNCT and/CCONJ o/ADP ther/NOUN dairy/NOUN
+
+dishes/PROPN ./PUNCT
+
+Another/NOUN legend/NOUN tells/VERB the/DET story/NOUN of/ADP the/DET I/NOUN sraelites/NOUN finding/VERB Mount/PROPN Sinai/NOUN
+
+blooming/NOUN and/CCONJ lush/VERB with/PRON greenery/VERB and/CCONJ flowers/NOUN ./PUNCT
+From/ADP this/PRON legend/VERB grew/PROPN the/DET custom/VERB to/ADP
+
+decorate/PROPN the/DET Jewish/PROPN home/NOUN and/CCONJ synagogue/NOUN with/ADP tree/NOUN branches/PROPN and/CCONJ flowers/NOUN ./PUNCT
+Some/NOUN
+
+temples/NOUN decorate/NOUN the/DET Torah/NOUN scrolls/NOUN with/VERB wreaths/NOUN of/ADP roses/NOUN ./PUNCT

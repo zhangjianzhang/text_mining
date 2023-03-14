@@ -1,0 +1,19 @@
+校内/NOUN 才艺/NOUN 展示/VERB 与/CCONJ 狂欢/NOUN
+
+校内/NOUN 才艺/NOUN 展示/VERB 与/CCONJ 狂欢/VERB 法国/PROPN 相/ADV 扑士/VERB
+
+模仿秀/NOUN 之/PART 黑方/NOUN 先锋/NOUN
+
+模仿秀/NOUN 之/PART 白方/ADJ 军团/NOUN
+
+校内/NOUN 才艺/NOUN 展示/VERB 与/CCONJ 狂欢/NOUN 中间/NOUN 绿衣/NOUN 舞者/NOUN 为/ADP 男士/NOUN 装扮/VERB ，/PUNCT 白衣/ADJ 歌者/NOUN 目的/NOUN 不是/ADV 卖/VERB 饮料/NOUN
+
+校内/NOUN 才艺/NOUN 展示/VERB 与/CCONJ 狂欢/NOUN 合影/VERB
+
+彩车/NOUN
+
+队伍/NOUN 过/VERB 繁华/ADJ 商业区/NOUN
+
+每年/ADV 3/NUM 月/NOUN ，/PUNCT 法国/PROPN 各地/NOUN 大学生/NOUN 都/ADV 要/VERB 举行/VERB 传统/ADJ 的/PART 大学生节/NOUN 。/PUNCT
+
+2/NUM

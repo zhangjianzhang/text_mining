@@ -1,0 +1,96 @@
+职务/NOUN
+
+姓名/NOUN
+
+政要/NOUN
+
+泰国/PROPN 卫生部/NOUN 部长/NOUN
+
+Suchai/PROPN Charoenratanakal/PROPN
+
+中国/PROPN 国家/NOUN 卫生部/NOUN 副部长/NOUN
+
+黄洁夫/PROPN
+
+中国/PROPN 科学/NOUN 与/CCONJ 技术部/NOUN 副部长/NOUN
+
+刘燕华/PROPN
+
+中国/PROPN 保险/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 主任/NOUN 助理/NOUN
+
+陈文辉/PROPN
+
+中国/PROPN 知识/NOUN 产权局/NOUN 局长/NOUN
+
+田力/NOUN 普/PROPN
+
+国际/NOUN 组织/NOUN 和/CCONJ 相关/ADJ 组织/NOUN
+
+欧盟/PROPN （/PUNCT EFPIA/PROPN ）/PUNCT 制药/NOUN 协会/NOUN 主席/NOUN
+
+Fran/NOUN z/NOUN B/NOUN ./PUNCT
+Humer/PROPN
+
+中国/PROPN 中医药/NOUN 管理局/NOUN 副局长/NOUN
+
+于/ADP 文明/NOUN */NOUN
+
+日本/PROPN 制药/NOUN 工业/NOUN 协会/NOUN 会长/NOUN
+
+青木/PROPN 初夫/NOUN
+
+商界/NOUN 领袖/NOUN
+
+美国/PROPN 昆泰/NOUN 公司/NOUN 首席/ADJ 执行官/NOUN
+
+DEN/PROPN NIS/NOUN GIL/NOUN L/NOUN I/PRON NG/PROPN
+
+日本/PROPN SANK/PROPN Y/NOUN O/NOUN 制药/NOUN 公司/NOUN 总经理/NOUN
+
+庄田隆/PROPN Takashi/PROPN Shoda(president/PROPN )/PROPN
+
+扬子/PROPN 江药业/PROPN 集团/NOUN 董事长/NOUN
+
+徐镜人/PROPN
+
+武田/NOUN 药品/NOUN 工业/NOUN 株式会社/NOUN CEO/NOUN
+
+武田/NOUN 国男/NOUN
+
+中国/PROPN 泰康/PROPN 人寿/NOUN 保险/NOUN 总经理/NOUN
+
+刘经纶/PROPN
+
+美国/PROPN GEN/PROPN ZYME/PROPN 公司/NOUN
+
+高级/ADJ 管理/NOUN 人员/NOUN
+
+中国/PROPN 复旦/PROPN 张江/PROPN 董事会/NOUN 主席/NOUN
+
+王海波/PROPN
+
+北京/PROPN 医药/NOUN 集团/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事长/NOUN
+
+卫华诚/NOUN
+
+牛津/PROPN 生物/NOUN 科学/NOUN 主席/NOUN
+
+Dr/NOUN ./PUNCT
+Alan/VERB Walton/PROPN 会议/NOUN 主持/VERB
+
+HBM/PROPN 生物/NOUN 风险/NOUN 投资/NOUN 主席/NOUN
+
+Dr/NOUN ./PUNCT
+Henry/VERB B/NOUN ./PUNCT
+Meier/PROPN
+
+维克/NOUN 多/NUM 健康/NOUN 集团/NOUN 执行/NOUN 主任/NOUN
+
+PE/NOUN TER/NOUN F/X ./PUNCT
+DRA/NOUN KE/NOUN ,/PUNCT PhD/PROPN
+
+德国/PROPN 安联/NOUN 集团/NOUN 首席/ADJ 执行官/NOUN
+
+Thomas/PROPN U/NOUN ./PUNCT
+W/NOUN ./PUNCT
+Putter/PROPN

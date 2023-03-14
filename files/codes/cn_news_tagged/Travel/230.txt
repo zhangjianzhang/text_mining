@@ -1,0 +1,7 @@
+辛迪·克劳馥/PROPN ：/PUNCT 私人/ADJ 雕塑/NOUN
+
+权力/NOUN 渠道/NOUN ：/PUNCT
+世界/NOUN 顶级/ADJ 名模/NOUN
+
+再有/NOUN 优势/NOUN 的/PART 身体/NOUN 资源/NOUN 也/ADV 难以/ADV 和/ADP 岁月/NOUN 抗争/NOUN ，/PUNCT 让/VERB 美好/ADJ 身体/NOUN 长存于世/VERB 的/PART 办法/NOUN 就是/ADV —/PUNCT 建立/VERB 雕塑/NOUN ，/PUNCT 让/VERB 身体/NOUN 进入/VERB 博物馆/NOUN 。/PUNCT
+这样/PRON 的/PART 念头/NOUN 每次/ADV 在/ADP 我/PRON 脑子/NOUN 里/PART 驰骋/VERB ，/PUNCT 我/PRON 都/ADV 禁不住/VERB 要/VERB 兴奋/VERB ，/PUNCT 我/PRON 想/VERB 这是/VERB 每个/DET 女人/NOUN 都/ADV 有的/VERB 疯狂/ADJ 想法/NOUN 。/PUNCT

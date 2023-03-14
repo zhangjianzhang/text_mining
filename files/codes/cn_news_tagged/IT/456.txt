@@ -1,0 +1,7 @@
+本/DET 报讯/NOUN （/PUNCT 记者/NOUN 熊海燕/PROPN ）/PUNCT
+昨天/NOUN ，/PUNCT 国内/NOUN 最/ADV 大/VERB 的/PART 宽带/ADJ 应用/NOUN 门户/NOUN 网站/NOUN ——/PUNCT 互联/ADJ 星空/NOUN 正式/ADV 升级/VERB 网站/NOUN 域名/NOUN ，/PUNCT 启用/NOUN vnet/VERB ./PUNCT
+cn/VERB 作为/VERB 互联/ADJ 星空/NOUN 网站/NOUN 的/PART 访问/NOUN 入口/NOUN 和/CCONJ 标识/NOUN 。/PUNCT
+之前/ADV 被/X 互联/VERB 星空/NOUN 使用/VERB 多年/NOUN 的/PART chinavnet/NOUN ./PUNCT com/PROPN 域名/NOUN 近日/NOUN 会/VERB 被/X 彻底/ADV 停用/VERB 。/PUNCT
+
+据/ADP 消息/NOUN 人士/NOUN 透露/VERB ，/PUNCT 互联/ADJ 星空/NOUN 新/ADJ 启用/VERB 的/PART vnet/NOUN ./PUNCT
+cn/VERB 域名/NOUN 是/VERB 从/ADP 域名/NOUN 投资者/NOUN 手中/NOUN 购入/VERB ，/PUNCT 具体/ADJ 价格/NOUN 不详/VERB 。/PUNCT

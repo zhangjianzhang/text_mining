@@ -1,0 +1,16 @@
+中华/PROPN 商务/NOUN 网讯/NOUN ：/PUNCT
+
+据/ADP 报道/NOUN ，/PUNCT 一季度/ADV ，/PUNCT 全国/ADJ 原油/NOUN 产量/NOUN ４５４５万/NUM 吨/NUM ，/PUNCT 同比/NOUN 增长/VERB １．７％/NUM ；/PUNCT 进口/NOUN 原油/NOUN ３３９１万/NUM 吨/NUM ，/PUNCT 增长/VERB ７．１％/NUM ；/PUNCT 原油/NOUN 加工量/PROPN ７３７２万/NUM 吨/NUM ，/PUNCT 增长/VERB ３．６％/NUM ，/PUNCT 其中/NOUN 汽油/NOUN 、/PUNCT 柴油/NOUN 产量/NOUN 分别/ADV 增长/VERB ３．１％/NUM 和/CCONJ ６．１％/NUM 。/PUNCT
+天然气/NOUN 产量/NOUN １５９亿/NUM 立方米/NUM ，/PUNCT 增长/VERB ３１．３％/NUM 。/PUNCT
+主要/ADJ 化工/NOUN 产品/NOUN 中/PART ，/PUNCT 烧碱/NOUN 、/PUNCT 纯碱/NUM 产量/NOUN 分别/ADV 增长/VERB ２１．３％/NUM 和/CCONJ １４％/NUM ，/PUNCT 化肥/NOUN 、/PUNCT 农药/NOUN 产量/NOUN 分别/ADV 增长/VERB １４．８％/NUM 和/CCONJ １６．４％/NUM 。/PUNCT
+
+同期/NOUN ，/PUNCT 国际/NOUN 原油/NOUN 价格/NOUN 高位/NOUN 徘徊/VERB ，/PUNCT ３月份/NOUN 布伦特/PROPN 原油/NOUN 平均/ADJ 价格/NOUN ６２．３/NUM 美元/NUM ／桶/VERB ，/PUNCT 比/ADP 上月/NOUN 上涨/VERB ０．３/NUM 美元/NUM ／桶/NOUN ，/PUNCT 同比/NOUN 上涨/VERB ９．２/NUM 美元/NUM ／桶/VERB ，/PUNCT 涨幅/NOUN 分别/ADV 为/VERB ０．５％/NUM 和/CCONJ １７．３％/NUM 。/PUNCT
+国内/NOUN 成品油/PROPN 价格/NOUN 于/ADP ３月/NOUN 下旬/NOUN 适当/ADV 上调/VERB 。/PUNCT
+我国/NOUN 石化/NOUN 行业/NOUN 实现/VERB 利润/NOUN １０２１亿/NUM 元/NUM ，/PUNCT 增长/VERB ２５％/NUM ；/PUNCT 其中/NOUN ，/PUNCT 化工/NOUN 行业/NOUN 利润/NOUN １８１亿/NUM 元/NUM ，/PUNCT 下降/VERB ２．９％/NUM 。/PUNCT
+
+制作/NOUN :/PUNCT 中华/PROPN 商务网/NOUN http:/NOUN ///PUNCT www.chinac/VERB cm/NOUN ./PUNCT
+com/PROPN
+
+作者/NOUN 声明/NOUN ：/PUNCT 在/ADP 本/DET 机构/NOUN 、/PUNCT 本人/PRON 所/PART 知情/VERB 的/PART 范围/NOUN 内/PART ,/PUNCT 本/DET 机构/NOUN 、/PUNCT 本人/NOUN 以及/CCONJ 财产/NOUN 上/PART 的/PART 利害/PROPN 关系人/NOUN 与/CCONJ 所述/NOUN 文章/NOUN 内容/NOUN 没有/VERB 利害/NOUN 关系/NOUN 。/PUNCT
+本版/NOUN 文章/NOUN 纯属/VERB 个人/NOUN 观点/NOUN ,/PUNCT 仅/ADV 供/VERB 参考/NOUN ,/PUNCT 文责自负/VERB 。/PUNCT
+读者/NOUN 据此/ADV 入市/VERB ,/PUNCT 风险/NOUN 自担/NOUN 。/PUNCT

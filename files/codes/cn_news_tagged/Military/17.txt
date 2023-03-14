@@ -1,0 +1,87 @@
+“/PUNCT 猎鹰/NOUN ”/PUNCT 试翼/NOUN ——/PUNCT 我国/NOUN 第三/NUM 代/NUM 高级/ADJ 教练机/NOUN 开始/VERB 试飞/VERB
+
+Chinese/PROPN Third/PROPN Generation/PROPN Training/PROPN Plane/NOUN
+
+Begins/PROPN Flight/NOUN Test/NOUN
+
+L/NOUN -/PUNCT 15/NUM 总/ADJ 设计师/NOUN 对/ADP 若干/NUM 问题/NOUN 的/PART 解答/NOUN
+
+An/NOUN Interview/NOUN with/VERB the/DET Chief/NOUN -/PUNCT Designer/PROPN of/ADP L/NOUN -/PUNCT 15/NUM
+
+崎岖/ADJ 的/PART “/PUNCT 太行/PROPN ”/PUNCT 之/PART 路/NOUN ——/PUNCT 我国/NOUN 新型/ADJ 大/ADJ 推力/NOUN 涡扇/PROPN 发动机/NOUN 的/PART 研制/NOUN 历程/NOUN
+
+Chinese/PROPN Home/NOUN Made/NOUN New/NOUN High/PROPN Thrust/PROPN Tur/NOUN bo/ADJ fan/NOUN Engine/PROPN Fielded/PROPN
+
+伊朗/PROPN ：/PUNCT 孤独/VERB 的/PART 圣战/NOUN
+
+Iran/PROPN Focus/PROPN :/PUNCT Will/NOUN Iran/ADJ Be/NOUN the/DET Next/NOUN Iraq/NOUN
+
+核萌芽/NOUN 的/PART 保护伞/NOUN ——/PUNCT 伊朗/PROPN 常规/ADJ 武装/NOUN 力量/NOUN 评介/VERB
+
+An/NOUN Assessment/NOUN :/PUNCT The/DET Conventional/NOUN Armed/NOUN Forces/PROPN of/ADP Iran/PROPN
+
+专题/NOUN ：/PUNCT 军用/ADJ 机器人/NOUN 技术/NOUN
+
+Military/PROPN Robots/NOUN Technology/PROPN
+
+科学/VERB 而/CCONJ 非/ADV 幻想/NOUN ——/PUNCT 美国/PROPN 军用/ADJ 机器人/NOUN 走向/VERB 战场/NOUN
+
+It/NOUN 's/VERB Not/PROPN Fiction/NOUN :/PUNCT U/NOUN ./PUNCT
+S/X Military/PROPN Robots/PROPN Go/ADJ To/NOUN War/NOUN
+
+机器人/NOUN 技术/NOUN 及其/CCONJ 军事/NOUN 应用/NOUN ——/PUNCT 访/VERB 北京/PROPN 航空/NOUN 航天/ADJ 大学/NOUN ITM/NOUN 实验室/NOUN
+
+Robotics/PROPN Technology/PROPN and/CCONJ Its/NOUN Military/PROPN Applications/NOUN
+
+维护/VERB 公众/NOUN 安全/NOUN 的/PART 机器人/NOUN 卫士/NOUN ——/PUNCT 武警/NOUN 装备/NOUN 专家/NOUN 谈/VERB 反恐机/NOUN 器人/NOUN
+
+On/NOUN the/DET Anti-Terror/NOUN Robots/NOUN :/PUNCT An/PRON Interview/NOUN with/ADV the/DET Researcher/NOUN from/ADP Chinese/PROPN
+
+People's/PROPN Armed/NOUN Police/PROPN Force/PROPN
+
+以/ADP 创新性/NOUN 思维/NOUN 发展/VERB 中国/PROPN 的/PART 拐弯/NOUN 枪/NOUN
+
+An/NOUN Innovation/NOUN :/PUNCT Chinese-Made/NOUN Corner/PROPN Shot/NOUN Weapon/NOUN System/NOUN
+
+“/PUNCT 探戈/NOUN 杀手/NOUN ”/PUNCT 演绎/VERB 美国/PROPN 未来/NOUN 潜艇/NOUN 技术/NOUN
+
+Tango/PROPN Bravo/PROPN Brings/PROPN Fundamental/PROPN Changes/PROPN to/ADP U/NOUN ./PUNCT
+S/NOUN Next/NOUN Generation/PROPN Submarine/PROPN
+
+展望/VERB 未来/NOUN 的/PART 军用/ADJ 无线局/ADJ 域网/NOUN
+
+Future/PROPN Military/PROPN Wireless/NOUN LA/NOUN N/NOUN :/PUNCT Wi-Fi/NOUN or/CCONJ WAPI/PROPN ,/PUNCT WiMA/PUNCT X/NOUN or/CCONJ McW/PROPN I/NOUN L/NOUN L/NOUN ?/PUNCT
+
+突破/VERB 生理/NOUN 耐受/NOUN 极限/VERB ——/PUNCT 欧美/PROPN 飞行员/NOUN 生命/NOUN 保障/NOUN 系统/NOUN 评介/NOUN
+
+The/DET Development/NOUN of/ADP Pilots/PROPN Life/VERB Support/NOUN System/NOUN in/ADP the/DET U/NOUN ./PUNCT
+S/X and/CCONJ Europe/PROPN
+
+不/ADV 走/VERB 别人/NOUN 走过/VERB 的/PART 弯路/NOUN ——/PUNCT 外军/VERB 信息化/NOUN 建设/NOUN 中/PART 的/PART 几点/NOUN 教训/NOUN
+
+Some/PROPN Lessons/PROPN Taken/PROPN from/ADP Informationization/NOUN Construction/NOUN of/ADP Foreign/PROPN Armed/NOUN
+
+Forces/PROPN
+
+飞速/ADV 扩展/VERB 的/PART 美国/PROPN 陆军/NOUN 无人机/NOUN 训练/NOUN
+
+The/DET Training/PROPN for/NOUN U/NOUN ./PUNCT S/X Army/VERB UAV/NOUN Rapidly/PROPN Expanded/PROPN
+
+美/PROPN 空军/NOUN 培养/VERB 专职/ADV 无/VERB 人/NOUN 机飞/NOUN 行员/VERB
+
+A/NOUN Career/NOUN Flying/PROPN UAVs/NOUN
+
+评析/VERB 美国/PROPN 两/NUM 份/NUM 防务/NOUN 评审/NOUN 报告/NOUN
+
+An/NOUN Contrast/NOUN :/PUNCT U/NOUN ./PUNCT S/NOUN Government/PROPN 06/NUM '/PROPN QD/NOUN R/NOUN Report/NOUN and/CCONJ A/NOUN Non/NOUN -/PUNCT Government/PROPN One/NOUN
+
+美国人/NOUN 看/VERB 日本/PROPN 国防/NOUN 工业/NOUN 发展/NOUN
+
+An/NOUN U/NOUN ./PUNCT S/X Point/PROPN of/ADP View/NOUN :/PUNCT The/DET Development/NOUN of/ADP Japanese/PROPN Defense/PROPN
+Industry/PROPN
+
+台湾岛/PROPN 及/CCONJ 周边/NOUN 海区/NOUN 的/PART 地理/NOUN 与/CCONJ 气候/NOUN
+
+Geographical/PROPN and/CCONJ Climatic/NOUN Survey/PROPN of/ADP Taiwan/PROPN I/NOUN sland/NOUN and/CCONJ Its/NOUN Circumjacent/NOUN Sea/NOUN
+
+Area/VERB

@@ -1,0 +1,55 @@
+旅馆/NOUN 住宿/NOUN     /SPACE 青年/NOUN 旅舍/NOUN 和/CCONJ 面向/VERB 青年人/NOUN 的/PART 旅舍/NOUN
+
+法兰克福/PROPN 青年/NOUN 旅社/NOUN JH/VERB Frankfurt/PROPN -/PUNCT 青年/NOUN 之/PART 家/NOUN Haus/NOUN der/NOUN Jugend/PROPN
+
+离/ADP 体育馆/NOUN 大概/ADV 6/NUM 公里/NUM
+
+地址/NOUN ：/PUNCT Deutschherrnufer街/PROPN
+12号/NOUN
+
+60594/NUM Frankfurt/PROPN //PUNCT
+Main/PROPN
+
+Tel/NOUN :/PUNCT 069/NUM //PUNCT 6100150/NUM
+
+Fax/VERB :/PUNCT 069/NUM //PUNCT 61001599/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT jugendherberge/PROPN -/PUNCT frankfurt/PROPN @t/PUNCT -/PUNCT
+online.de/NOUN
+
+联系人/NOUN :/PUNCT Rudolf/PROPN Kraus/PROPN 先生/NOUN
+
+价格/NOUN ：/PUNCT 欢迎/VERB 咨询/VERB
+
+最近/NOUN 的/PART 机场/NOUN ：/PUNCT 法兰克福/PROPN 机场/NOUN -/PUNCT 8/NUM km/NOUN
+
+最近/NOUN 的/PART 火车站/NOUN ：/PUNCT 法兰克福/PROPN 火车站/NOUN 2/NUM km/VERB
+
+最近/NOUN 的/PART 电车站/NOUN ：/PUNCT Lokalbahnh/PROPN of/ADP 站/NOUN -/PUNCT 500/NUM m/NOUN
+
+最近/NOUN 的/PART 地铁站/NOUN ：/PUNCT Südbahnh/NOUN of/ADP 站/NOUN -/PUNCT 800/NUM m/NOUN
+
+最近/NOUN 的/PART 公车站/NOUN ：/PUNCT Frankensteiner/NOUN Plat/NOUN z站/VERB 或者/CCONJ Jugendherberge站/PROPN -/PUNCT 50/NUM m/NUM
+
+地理/NOUN 位置/NOUN ：/PUNCT 在/ADP 美/PROPN 因河/NOUN 南岸/NOUN 中部/NOUN ，/PUNCT 步行/VERB 进城/VERB 10/NUM 分钟/NUM 。/PUNCT
+周围/NOUN 有/VERB 展览会/NOUN 场馆/NOUN 、/PUNCT 步行/NOUN 可/VERB 达/VERB 十五/NUM 个/NUM 博物馆/NOUN 。/PUNCT
+
+到达/VERB 方式/NOUN ：/PUNCT
+
+a/NOUN 、/PUNCT 坐车/NOUN ：/PUNCT 到达/VERB 法兰克福/PROPN 火车站/NOUN ，/PUNCT 在/ADP 底层/NOUN 月台/NOUN 乘坐/VERB 电车/NOUN 2，3，4，5，6路/NUM 都/ADV 可/VERB 到达/VERB Lokalbahnhof站/PROPN ，/PUNCT 然后/ADV 向/ADP 河边/NOUN 步行/VERB 8/NUM 分钟/NUM 即/ADV 到/VERB 。/PUNCT
+或者/ADV 在/ADP 中央/NOUN 火车站/NOUN 乘坐/VERB 46路/NUM 公车/NOUN 到达/VERB FrankensteinerPlat/NOUN z/NOUN 广场/NOUN 下车/VERB ，/PUNCT 往回/ADV 走/VERB 50/NUM 米/NUM 。/PUNCT
+
+b/NOUN 、/PUNCT 开车/NOUN ：/PUNCT BAB/PROPN 661/NUM 号/NUM 公路/NOUN ，/PUNCT 出发点/VERB Offenbach/PROPN -/PUNCT Kaiserlei/PROPN 方向/NOUN FFM/PROPN -/PUNCT Sachsenhausen/PROPN (B/PUNCT
+3/NUM )/NOUN 一直/ADV 直/ADV 走/VERB 直到/PUNCT 旅舍/NOUN 。/PUNCT
+停车场/NOUN ：/PUNCT Walter/PROPN -/PUNCT Kolb/PROPN -/PUNCT Stra/PROPN e街/NOUN 。/PUNCT
+
+中高级/ADJ 饭店/NOUN
+
+Hotel/PROPN Steigenberger/PROPN Frankfurter/PROPN Hof/NOUN
+
+离/VERB 体育场/NOUN 7/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 14/NUM 公里/NUM ，/PUNCT 是/VERB 五星级/ADJ 饭店/NOUN
+
+地址/NOUN ：/PUNCT 在/ADP Kaiserplat/PROPN z/PROPN 广场/NOUN
+
+费用/NOUN ：/PUNCT 143－362/NOUN 欧元/PROPN [详/PROPN 细]/NOUN

@@ -1,0 +1,50 @@
+十大/NOUN 职场/NOUN 人气/NOUN 企业/NOUN ：/PUNCT
+
+1．西门子/NOUN 公司/NOUN
+
+2/NUM ./PUNCT 联想/PROPN 研究院/NOUN
+
+3/NUM ./PUNCT 上海/PROPN 贝尔阿尔卡特/PROPN
+
+4./NUM IBM/PROPN
+
+5./NUM 中国/PROPN 惠普/PROPN 有限/ADJ 公司/NOUN
+
+6/NUM ./PUNCT 北京/PROPN 移动/NOUN 通信/NOUN 有限/ADJ 责任/NOUN 公司/NOUN
+
+7./NUM 华为/PROPN 技术/NOUN 有限/ADJ 公司/NOUN
+
+8/NUM ./PUNCT
+朗讯/PROPN 科技/NOUN 光/ADJ 网络/NOUN 有限/ADJ 公司/NOUN
+
+9/NUM ./PUNCT
+神州/PROPN 数码/NOUN 有限/ADJ 公司/NOUN
+
+10/NUM ./PUNCT 中粮/PROPN 可口可乐/PROPN 饮料/NOUN 有限/ADJ 公司/NOUN
+
+十大/NOUN 职场/NOUN 人气/NOUN 职位/NOUN ：/PUNCT
+
+1/NUM ．/PUNCT 销售/NOUN 代表/NOUN
+
+2/NUM ．/PUNCT 宽带/ADJ 增值/NOUN 业务/NOUN
+
+3/NUM ./PUNCT 市场/NOUN 公关/NOUN
+
+4/NUM ．/PUNCT 业务/NOUN 拓展/VERB 主管/NOUN
+
+5./NUM 项目/NOUN 开发/NOUN 人员/NOUN
+
+6/NUM ．/PUNCT 软件/NOUN 工程师/NOUN
+
+7./NUM 高级/ADJ 客户/NOUN 支持/VERB 工程师/NOUN
+
+8/NUM ./PUNCT
+营销/NOUN 策划/NOUN 经理/NOUN
+
+9/NUM ．/PUNCT 采购/NOUN 经理/NOUN
+
+10/NUM ./PUNCT
+软件/NOUN 测试/VERB 工程师/NOUN
+
+上/DET 一/NUM 页/NUM  /SPACE [/PROPN 1/NUM ]/NUM  /SPACE [/PROPN
+2/NUM ]/NOUN

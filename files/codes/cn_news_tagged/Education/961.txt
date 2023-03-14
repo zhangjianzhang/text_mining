@@ -1,0 +1,49 @@
+Still/PROPN water/PROPN runs/NOUN deep/PROPN ./PUNCT
+
+静水/PROPN 常/ADV 深/VERB 。/PUNCT
+
+Strike/PROPN the/DET iron/NOUN while/VERB it/NOUN is/VERB hot/NOUN ./PUNCT
+
+趁热打铁/VERB 。/PUNCT
+
+Success/NOUN belongs/NOUN to/ADP the/DET persevering/NOUN ./PUNCT
+
+坚持/VERB 就是/ADV 胜利/NOUN 。/PUNCT
+
+Take/DET things/NOUN as/ADP they/PROPN come/PROPN ./PUNCT
+
+既/ADV 来/VERB 之/PART ,/PUNCT 则/ADV 安之/VERB 。/PUNCT
+
+Talking/ADJ mends/NOUN no/NOUN holes/VERB ./PUNCT
+
+空谈无补/VERB 。/PUNCT
+
+Talk/NOUN of/ADP the/DET devil/NOUN and/CCONJ he/VERB will/NOUN appear/VERB ./PUNCT
+
+说/VERB 曹操/NOUN ,/PUNCT 曹操就到/PROPN 。/PUNCT
+
+Tall/PROPN trees/NOUN catch/ADJ much/NOUN wind/VERB ./PUNCT
+
+树大招风/PROPN 。/PUNCT
+
+Teach/PROPN o/ADP thers/PROPN by/ADP your/PRON example/VERB ./PUNCT
+
+躬亲/ADV 示范/VERB 。/PUNCT
+
+The/DET best/PROPN hearts/NOUN are/VERB always/NUM the/DET bravest/NOUN ./PUNCT
+
+无私者/VERB 无畏/VERB 。/PUNCT
+
+The/DET best/NOUN man/VERB stumbles/NOUN ./PUNCT
+
+伟人/NOUN 也/ADV 有/VERB 犯错/NOUN 时/PART 。/PUNCT
+
+The/DET cat/ADJ shuts/NOUN its/NOUN eyes/ADV when/VERB stealing/VERB ./PUNCT
+
+掩耳盗铃/VERB 。/PUNCT
+
+The/DET danger/PROPN past/NOUN and/CCONJ God/NOUN forgotten/VERB ./PUNCT
+
+过河拆桥/VERB 。/PUNCT
+
+来源/NOUN ：/PUNCT 大连/PROPN 日报/NOUN

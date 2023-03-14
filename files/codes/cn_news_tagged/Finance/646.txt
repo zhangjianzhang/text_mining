@@ -1,0 +1,11 @@
+中国/PROPN 凤凰/PROPN 第四/NUM 届/NUM 董事会/NOUN 第二/NUM 次/NUM 会议/NOUN 审议/VERB 的/PART 重大/ADJ 资产/NOUN 重组/NOUN 方案/NOUN 及/CCONJ 第四/NUM 届/NUM 董事/NOUN
+
+会/VERB 第五/NUM 次/NUM 会议/NOUN 关于/ADP 调整/VERB 公司/NOUN 与/ADP 中国/PROPN 长江/PROPN 航运/NOUN （/PUNCT 集团/NOUN ）/PUNCT 总公司/NOUN 重大/ADJ 资产/NOUN 置换/NOUN 交易/NOUN
+
+价格/NOUN 的/PART 议案/NOUN 已/ADV 获/VERB 中国/PROPN 证监会/NOUN 上市/ADJ 公司/NOUN 重组/VERB 审核/NOUN 委员会/NOUN 审核/VERB 通过/VERB ，/PUNCT 公司/NOUN 将/ADV 按照/ADP 证/NOUN
+
+监公司/NOUN 字[/NOUN 2001/NUM ]/NUM 105号/NUM 文件/NOUN 规定/NOUN 的/PART 程序/NOUN 实施/VERB 重组/NOUN 。/PUNCT
+
+根据/ADP 承诺/NOUN ，/PUNCT 中国/PROPN 长江/PROPN 航运/NOUN （/PUNCT 集团/NOUN ）/PUNCT 总公司/NOUN 正/ADV 准备/VERB 向/ADP 有关/ADJ 部门/NOUN 报送/ADJ 公司/NOUN 股权/NOUN
+
+分置/ADJ 改革/NOUN 方案/NOUN ，/PUNCT 一旦/SCONJ 获批/VERB ，/PUNCT 公司/NOUN 即将/ADV 启动/VERB 股权/NOUN 分置/ADJ 改革/NOUN 程序/NOUN 。/PUNCT

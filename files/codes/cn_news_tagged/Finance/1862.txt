@@ -1,0 +1,53 @@
+中国/PROPN 纺织品/NOUN 首季/NOUN 出口/NOUN 增长/NOUN 20%/NUM 商会/NOUN 否认/VERB 中国/PROPN 订单/NOUN 大量/ADV 流失/VERB
+
+来自/VERB 中国/PROPN 纺织品/NOUN 进出口/NOUN 商会/NOUN 的/PART 统计/NOUN 信息/NOUN 表明/VERB ，/PUNCT 第一/NUM 季度/NOUN 中国/PROPN 纺织品/NOUN 出口/NOUN 增长/VERB 20%/NUM 。/PUNCT
+昨日/NOUN ，/PUNCT 中国/PROPN 纺织品/NOUN 进出口/NOUN 商会/NOUN 副会长/NOUN 曹新宇/PROPN 接受/VERB 记者/NOUN 采访/NOUN 时/PART 称/VERB ，/PUNCT 继/ADP 中/PROPN 美/PROPN 纺织品/NOUN 反倾销/NOUN 第一/NUM 案/NOUN 终裁/NOUN 以/ADP 中国/PROPN 企业/NOUN 被/X 课以/NOUN 高/ADJ 惩罚性/NOUN 关税/NOUN 告终/NOUN 后/PART ，/PUNCT 欧盟/PROPN 委员会/NOUN 正/ADV 酝酿/VERB 对/ADP 中国/PROPN 8类/NOUN 纺织品/NOUN 进行/VERB 反倾销/NOUN 。/PUNCT
+
+纺织品/NOUN 配额/NOUN 价/NOUN 一路/ADV 走跌/VERB
+
+根据/ADP 第一/NUM 纺织网/NOUN 的/PART 统计/NOUN 数字/NOUN ，/PUNCT 截至/ADP 5月/NOUN 5日/NOUN ，/PUNCT 中国/PROPN 今年/NOUN 出口/VERB 欧美/PROPN 设限/VERB 纺织品/NOUN 中/PART 大多/NUM 类别/NOUN 清关率/NOUN 只有/ADV 百分之十几/NUM 。/PUNCT
+第一/NUM 纺织网/NOUN 销售部/NOUN 经理/NOUN 朱小元/PROPN 昨日/NOUN 称/VERB ，/PUNCT 纺织品/NOUN 出口/NOUN 配额/NOUN 总体/NOUN 价格/NOUN 趋势/NOUN 目前/NOUN 正/ADV 往下/ADV 走/VERB ，/PUNCT 有的/PRON 甚至/ADV 低于/VERB 招标/VERB 中标/ADJ 价格/NOUN 。/PUNCT
+“/PUNCT 4月/NOUN 28日/NOUN ，/PUNCT 参与/VERB 招标/VERB 的/PART 企业/NOUN 必须/VERB 交纳/VERB 保证金/NOUN ，/PUNCT 大部分/NUM 中介/NOUN 只好/ADV 低价/ADV 转让/VERB 配额/NOUN ，/PUNCT 保证/VERB 资金/NOUN 回笼/NOUN ，/PUNCT 导致/VERB 配额/NOUN 价格/NOUN 大幅/ADV 走低/VERB 。/PUNCT ”/PUNCT
+朱小元/PROPN 说/VERB 。/PUNCT
+
+由于/ADP 中国/PROPN 纺织品/NOUN 大量/ADV 出口/VERB ，/PUNCT 欧盟/PROPN 和/CCONJ 美国/PROPN 于/ADP 去年初/NOUN 对/ADP 中国/PROPN 纺织品/NOUN 实行/VERB 大棒/NOUN 政策/NOUN 。/PUNCT
+而/ADV 为了/ADP 限制/VERB 中国/PROPN 纺织品/NOUN 的/PART 出口/NOUN ，/PUNCT 商务部/NOUN 从/ADP 去年/NOUN 下半年/NOUN 起/PART ，/PUNCT 开始/VERB 对/ADP 中国/PROPN 出口/VERB 欧盟/PROPN 和/CCONJ 美国/PROPN 的/PART 部分/NUM 纺织品/NOUN 进行/VERB 配额/NOUN 管理/NOUN 。/PUNCT
+
+有/VERB 媒体/NOUN 报道/VERB ，/PUNCT 在/ADP 中国/PROPN 纺织品/NOUN 贸易/NOUN 受到/VERB 配额制/NOUN 的/PART 限制/NOUN 后/PART ，/PUNCT 包括/VERB 沃尔玛/PROPN 在内/PART 的/PART 采购商/NOUN ，/PUNCT 开始/VERB 把/X “/PUNCT 大单/NOUN ”/PUNCT 抛向/VERB 印度/PROPN 。/PUNCT
+从/ADP 今年/NOUN 2月/NOUN 起/PART ，/PUNCT 中国/PROPN 纺织品/NOUN 出口/NOUN 重地/VERB 浙江省/PROPN ，/PUNCT 纺织品/NOUN 出口/NOUN 呈现/VERB 史无前例/VERB 的/PART 下滑/NOUN 局面/NOUN 。/PUNCT
+就/ADV 连/ADV 一直/ADV 是/VERB 中国/PROPN 纺织品/NOUN 出口/VERB 的/PART “/PUNCT 拳头/ADJ 产品/NOUN ”/PUNCT 的/PART T恤/NOUN ，/PUNCT 今年/NOUN 也/ADV 出人意料/VERB 地/PART 遇冷/VERB ，/PUNCT T恤/NOUN 的/PART 出口/NOUN 配额/NOUN 竟然/ADV 也/ADV 出现/VERB 了/PART 剩余/NOUN 。/PUNCT
+
+商会/NOUN 否认/VERB 欧美/PROPN 买家/NOUN 丢失/VERB
+
+但/ADV 中国/PROPN 纺织品/NOUN 进出口/NOUN 商会/NOUN 副会长/NOUN 曹新宇/PROPN 表示/VERB ，/PUNCT “/PUNCT 没有/VERB 迹象/NOUN 表明/VERB 中国/PROPN 纺织品/NOUN 订单/NOUN 在/ADV 大量/ADV 流失/VERB 。/PUNCT ”/PUNCT
+他/PRON 昨日/NOUN 接受/VERB 时报/NOUN 记者/NOUN 采访/VERB 时/PART 说/VERB ，/PUNCT “/PUNCT 第一/NUM 季度/NOUN 中国/PROPN 纺织品/NOUN 出口/NOUN 增长/VERB 20%/NUM ，/PUNCT 这是/VERB 一个/ADV 平稳/ADJ 的/PART 增长/NOUN ，/PUNCT 而且/ADV 超出/VERB 了/PART 预期/NOUN 。/PUNCT
+刚刚/ADV 结束/VERB 的/PART 广交会/NOUN 上/PART ，/PUNCT 纺织品/NOUN 成交/NOUN 也/ADV 增长/VERB 了/PART 16%/NOUN 。/PUNCT ”/PUNCT
+至于/ADP 对/ADP 欧美/PROPN 国家/NOUN 的/PART 出口/NOUN ，/PUNCT 曹新宇/PROPN 也/ADV 认为/VERB ，/PUNCT 目前/NOUN 逐渐/ADV 恢复/VERB 至/VERB 正常/ADJ 水平/NOUN 。/PUNCT
+
+“/PUNCT 有人/VERB 以/ADP 纺织品/NOUN 清关率/NOUN 低/VERB ，/PUNCT 作为/ADP 国际/NOUN 买家/NOUN 大量/ADV 转移/VERB 的/PART 依据/NOUN ，/PUNCT 但是/ADV 我/PRON 认为/VERB 不/ADV 能/VERB 这样/ADV 笼统/VERB 地/PART 去/VERB 看待/VERB 。/PUNCT ”/PUNCT
+曹新宇/PROPN 说/VERB ，/PUNCT 去年/NOUN ，/PUNCT 在/ADP 欧美/PROPN 纺织品/NOUN 谈判/NOUN 的/PART 不/ADJ 明朗/ADJ 因素/NOUN 影响/VERB 下/PART ，/PUNCT 纺企/NOUN 产生/VERB 恐慌/NOUN 并/CCONJ 一度/ADV 抢闸/VERB 出口/VERB ，/PUNCT 一些/NUM 诸如/ADV 羽绒服/NOUN 等/PART 不是/ADV 销售/NOUN 季节/NOUN 的/PART 产品/NOUN 也/ADV 提前/ADV 出口/VERB 。/PUNCT
+“/PUNCT 因此/ADV 与/ADP 去年/NOUN 对比/NOUN 是/VERB 没有/VERB 意义/NOUN 的/PART ，/PUNCT 我们/PRON 可以/VERB 看到/VERB ，/PUNCT 今年/NOUN 纺织品/NOUN 理性/VERB 得/PART 多/VERB 。/PUNCT ”/PUNCT
+
+但/ADV 曹新宇/PROPN 承认/VERB ，/PUNCT 平稳/ADV 增长/NOUN 之下/PART 可能/ADV 存在/VERB 暗流/NOUN 。/PUNCT
+“/PUNCT 我们/PRON 已经/ADV 提醒/VERB 企业/NOUN ，/PUNCT 欧盟/PROPN 委员会/NOUN 可能/VERB 对/ADP 中国/PROPN 8类/NOUN 纺织品/NOUN 提起/VERB 反倾销/NOUN 调查/NOUN ”/PUNCT ，/PUNCT 曹新宇/PROPN 告诉/VERB 记者/NOUN ，/PUNCT 目前/NOUN 商会/NOUN 正在/ADV 跟踪/VERB 事态/NOUN 进展/NOUN 。/PUNCT
+欧盟/PROPN 一些/NUM 成员国/NOUN 已经/ADV 表达/VERB 了/PART 要求/VERB 对/ADP 华/PROPN 纺织品/NOUN 采取/VERB 措施/NOUN 的/PART 强烈/ADJ 意愿/NOUN ，/PUNCT 但是/ADV 欧盟/PROPN 内部/NOUN 目前/NOUN 意见/NOUN 仍/ADV 存有/VERB 较大/ADJ 分歧/NOUN ，/PUNCT 因此/ADV 什么/DET 时候/NOUN 正式/ADV 立案/VERB 尚存/VERB 变数/VERB 。/PUNCT
+
+8/NUM 类/NUM 纺织品/NOUN 被/X 列入/VERB 监测/NOUN 范围/NOUN
+
+类别/NOUN                                   /SPACE 海关/NOUN 编码/NOUN
+
+合纤/ADJ 短纤/NOUN 梭织布/NOUN                         /SPACE 第3/NUM 类/NUM
+
+男梭/NOUN 织衬衫/NOUN                             /SPACE 第8/NUM 类/NUM
+
+棉制/NOUN 毛巾布/NOUN 、/PUNCT 毛巾/NOUN                        /SPACE 第9/NUM 类/NUM
+
+袜类/PROPN                                   /SPACE 第12/NUM 类/NUM
+
+针织/ADV 内裤/VERB                               /SPACE 第13/NUM 类/NUM
+
+女梭/NOUN 织长/NOUN 短/ADJ 外套/NOUN 、/PUNCT 雨衣/NOUN 等/PART 女/ADJ 西装式/NOUN 上衣/VERB       /SPACE 第15/NUM 类/NUM
+
+女梭/NOUN 织套/PROPN 装/VERB                              /SPACE 第29/NUM 类/NUM
+
+亚麻/PROPN 或/CCONJ 苎麻/VERB 梭织/NOUN 织物/NOUN                       /SPACE 第117/NUM 类/NUM

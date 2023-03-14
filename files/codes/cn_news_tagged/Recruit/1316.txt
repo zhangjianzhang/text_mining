@@ -1,0 +1,31 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE BAC/NOUN KGROUN/PROPN D/NOUN SUM/NOUN MARY/PROPN 　　/SPACE Over/NOUN eleven/ADV years/VERB of/ADP extensive/VERB computer/electronics/NOUN experience/VERB ./PUNCT
+Versed/PROPN in/ADP both/PROPN digital/NOUN and/CCONJ analog/PROPN electronics/ADV withspecific/NOUN emphasis/VERB on/NOUN computer/NOUN hardware/PART //PUNCT software/NOUN ./PUNCT
+Special/PROPN expertise/NOUN in/ADP system/NOUN and/CCONJ component/NOUN evaluation/VERB ./PUNCT
+Network/NOUN supervisor/NOUN responsible/NOUN for/ADP installing/PROPN //PUNCT maintaining/VERB Arcnet/ADP LA/PROPN N/NOUN system/NOUN ./PUNCT Proficient/NOUN in/ADP assembly/PROPN and/CCONJ C/NOUN programming/NOUN languages/NOUN ./PUNCT
+Excelent/PROPN communication/NOUN skills/NOUN including/PROPN written/NOUN ,/PUNCT verbal/NOUN and/CCONJ interpersonal/NOUN ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN WOR/NOUN K/NOUN EX/NOUN PER/NOUN I/PRON ENCE/NOUN 　　/SPACE Stevenson/PROPN Data/NOUN Systems,Los/VERB Angeles/VERB ,/PUNCT CA/PROPN 1981/NUM -/PUNCT 1993/NUM 　　/SPACE Components/PROPN Evaluation/PROPN Engineer/PROPN 1992/NUM -/PUNCT 1993/NUM 　　/SPACE Responsible/NOUN for/ADP the/DET characterization/NOUN and/CCONJ evaluation/NOUN of/ADP ,/PUNCT and/CCONJ approved/ADJ vendors/NOUN list/NOUN for/PROPN :/PUNCT Power/PROPN supplies,oscillators,crystals/NOUN ,/PUNCT and/CCONJ programmable/VERB logic/PROPN used/NOUN in/ADP desktop/PROPN and/CCONJ laptop/PROPN computers/PROPN ./PUNCT
+Evaluated/NOUN and/CCONJ recommended/ADJ quality/NOUN components/PROPN that/NOUN increased/NOUN product/NOUN profitability/NOUN ./PUNCT
+Created/PROPN adn/NOUN developed/PROPN power/NOUN supply/NOUN test/NOUN plan/NOUN used/PROPN for/ADP evqluating/ADJ third/NOUN party/NOUN power/NOUN supplies/NOUN ./PUNCT
+Interacted/VERB with/PROPN vendors/VERB to/ADP resolve/NOUN problems/NOUN associated/ADP with/ADV components/VERB qualification/VERB ./PUNCT Technical/PROPN advisor/NUM for/PROPN Purchasing/NOUN ./PUNCT
+Promoted/INTJ to/ADP engineer/VERB II/PROPN ./PUNCT
+　　/SPACE Design/PROPN Evaluation/NOUN Engineer/PROPN 1990/NOUN -/PUNCT 1992/NUM 　　/SPACE Evaluated/PROPN new/NOUN computer/NOUN product/NOUN designs/VERB ,/PUNCT solving/NOUN environmental/NOUN problems/NOUN on/ADP prototype/NOUN computers/PROPN ./PUNCT
+Conducted/ADJ systems/NOUN analysis/PROPN on/ADP new/PROPN computer/NOUN profucts/VERB to/ADP ensure/NOUN hardware/VERB ,/PUNCT software/NOUN and/CCONJ mechanical/NOUN design/PROPN integrity/NOUN ./PUNCT
+Designed/NOUN hardware/NOUN and/CCONJ software/NOUN for/ADP PC/NOUN ,/PUNCT ISA/NOUN bus/PROPN programmable/VERB load/NOUN board/PROPN used/VERB for/ADP environmental/NOUN testing/VERB ./PUNCT
+Performed/NOUN reliability/NOUN lift/PROPN testing/NOUN on/NOUN computer/NOUN systems/NOUN ./PUNCT
+Installed/PROPN //PUNCT maintained/VERB 20/NUM user/VERB ./PUNCT
+Novell,Arcnet/NOUN LA/PROPN N/NOUN system/NOUN ./PUNCT
+Examined/PROPN system/NOUN and/CCONJ sub-system/PUNCT susceptibility/VERB to/ADP electrostatic/PROPN discharge/NOUN in/NOUN order/NOUN to/ADV meet/VERB IEC/PROPN -/PUNCT 801/NUM -2/NUM industry/NOUN standards/VERB ./PUNCT
+Analyzed/PROPN complete/PROPN power/NOUN and/CCONJ load/NOUN of/ADP computer/NOUN system/NOUN and/CCONJ subsystem/NOUN to/ADP verify/NOUN power/NOUN and/CCONJ load/NOUN estimations/VERB ./PUNCT
+　　/SPACE Assistant/NOUN Engineer/PROPN 1981/NOUN -/PUNCT 1990/NOUN 　　/SPACE Performed/NOUN extensive/ADV hardware/VERB evaluation/VERB ion/NOUN prototype/NOUN computers,tested/PRON prototype/NOUN units/VERB for/ADP timing/NOUN violation/NOUN using/VERB the/DET latest/NOUN state/NOUN -/PUNCT of/ADP -/PUNCT the-art/NOUN test/VERB equipment/VERB ,/PUNCT digital/NOUN oscilloscopes/NOUN and/CCONJ logic/PROPN analyzers/PROPN ./PUNCT
+Performed/NOUN emvironmental,ES/NOUN D/NOUN and/CCONJ a/NUM coustic/ADJ testing/NOUN ./PUNCT
+Designed/NOUN and/CCONJ built/PROPN a/NUM power/NOUN -/PUNCT up/PROPN test/NOUN used/VERB to/ADP test/NOUN prototype/NOUN computers/PROPN during/NOUN cold/PROPN boot/PROPN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE Bachelor/NOUN of/ADP Science/PROPN in/ADP Electrical/PROPN Engineering/NOUN 　　/SPACE --/PUNCT
+University/NOUN of/ADP Southern/PROPN California/PROPN 1990/NOUN 　　/SPACE Associate/NOUN in/ADP Engineering/PROPN Electronics/PROPN 　　/SPACE --/PUNCT
+University/NOUN of/ADP Southern/PROPN California/PROPN 1981/NOUN 　　/SPACE Job/NOUN descriptions/NOUN emphasize/NOUN candidate/VERB 's/VERB ac/NOUN comploshments/NOUN ./PUNCT
+　　/SPACE Work/NOUN history/PROPN is/VERB stated/NOUN in/ADP reverse/NOUN chronological/ADJ order/NOUN ,/PUNCT with/ADV most/NOUN recent/NOUN employment/NOUN listed/VERB first/VERB ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT system/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+18/NUM ,/PUNCT 209/NUM ,/PUNCT 755/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

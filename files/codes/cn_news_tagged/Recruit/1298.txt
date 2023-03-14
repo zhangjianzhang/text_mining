@@ -1,0 +1,27 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE EX/PROPN PER/NOUN I/PRON ENCE/NOUN :/PUNCT 　　/SPACE 1990/NOUN -/PUNCT Present/PROPN REGEN/PROPN CY/PROPN CORPO/PROPN RATION/NOUN ，/PUNCT Dallas/PROPN ,/PUNCT TX/PROPN 　　/SPACE Sales/PROPN Assistant/PROPN :/PUNCT Act/NOUN as/ADP liaison/PROPN between/VERB customer/NOUN and/CCONJ sales/NOUN representative/NOUN ./PUNCT
+Provide/VERB customer/NOUN service/NOUN via/ADP telephone/NOUN ./PUNCT
+Ascertain/PROPN order/NOUN accuracy/VERB ./PUNCT
+Track/PROPN and/CCONJ expedite/ADJ orders/NOUN ./PUNCT
+Cooperate/NOUN in/NOUN team/NOUN endeavors/VERB ./PUNCT
+　　/SPACE 1987/NOUN -/CCONJ 1990/NOUN THE/PROPN MUS/NOUN IC/PROPN MAKER/NOUN ,/PUNCT Inc/NOUN .,/PUNCT Houston/PROPN ,/PUNCT TX/PROPN 　　/SPACE Sales/PROPN Assistant/PROPN :/PUNCT Coordinated/PROPN sales/NOUN efforts/VERB of/ADP a/DET staff/NOUN of/ADP six/PRON for/ADP a/DET large/NOUN musical/NOUN instruments/ADV dealership/VERB ./PUNCT
+Developed/NOUN and/CCONJ maintained/ADJ working/NOUN relation/NOUN ships/VERB with/ADP manufacturers/NOUN and/CCONJ customers/NOUN ./PUNCT
+Supported/NOUN top/PROPN ac/ADP count/NOUN executives/VERB ./PUNCT
+Maintained/PROPN open/ADV files/VERB to/ADP ensure/NOUN greatest/VERB customer/NOUN satisfaction/NOUN ./PUNCT
+　　/SPACE 1985/NOUN -/NOUN 1987/NUM CITY/PROPN OF/PROPN D/NOUN A/NOUN L/NOUN LAS,TREA/PROPN SURER/NOUN S/X DEPARTME/PROPN NT/NOUN ,/PUNCT Dallas/PROPN ,/PUNCT TX/PROPN 　　/SPACE Research/PROPN Assistant/PROPN :/PUNCT Assisted/PROPN in/ADP the/DET collection/NOUN of/ADP delinquent/PROPN real/PROPN e/NOUN state/VERB ,/PUNCT personal/NOUN property/NOUN and/CCONJ motor/NOUN vehicle/ADV excise/VERB taxes/NOUN ./PUNCT
+Matched/PROPN instrument/NOUN of/ADP taking/PROPN against/VERB daily/NOUN tax/NOUN title/NOUN receipts/NOUN ./PUNCT
+Processed/PROPN petitions/NOUN of/ADP foreclosure/VERB for/ADP the/DET legal/NOUN section/NOUN and/CCONJ title/NOUN searches/VERB ./PUNCT
+　　/SPACE 1984/NOUN -/PUNCT 1985/NUM TRA/PROPN FFIC/NOUN A/NOUN N/NOUN D/NOUN P/NOUN A/NOUN R/X K/NOUN I/PRON NG/PROPN DEPARTME/PROPN NT/NOUN ,/PUNCT Dallas/PROPN ,/PUNCT TX/PROPN 　　/SPACE Senior/NOUN Claims/PROPN Investigator/PROPN :/PUNCT Investigated/PROPN and/CCONJ expedited/VERB claim/PROPN settlements/NOUN relating/VERB to/ADP ticket/NUM disputes/NOUN and/CCONJ information/NOUN request/NOUN ./PUNCT
+　　/SPACE 1983/NOUN -/PUNCT 1984/NOUN SHERMA/NOUN N/NOUN BANK/NOUN FOR/PROPN SAVING/NOUN ,/PUNCT Sherman/PROPN ,/PUNCT TX/PROPN 　　/SPACE Bank/NOUN Teller/PROPN :/PUNCT Interacted/PROPN with/PROPN customers/PROPN ,/PUNCT processed/PROPN all/DET money/NOUN and/CCONJ check/NOUN transactions,balanced/NOUN all/DET transactions/NOUN at/ADP the/DET end/NOUN of/ADP each/VERB shift/VERB ./PUNCT
+Operated/PROPN a/NUM Wang/NOUN Word/NOUN Processor/PROPN ,/PUNCT CRT/NOUN and/CCONJ TRW/PROPN terminal/NOUN ,/PUNCT and/CCONJ developed/NOUN a/NUM working/NOUN knowledge/VERB of/ADP money/NUM
+market/NOUN funds/VERB and/CCONJ TRA/PROPN ac/NOUN counts/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN :/PUNCT 　　/SPACE Austin/PROPN College/NOUN ,/PUNCT Sherman/PROPN ,/PUNCT TX/PROPN 　　/SPACE A/NOUN ./PUNCT
+S/X ./PUNCT
+Business/PROPN Management/PROPN ,/PUNCT 1983/NOUN 　　/SPACE Texas/PROPN Institute/NOUN of/ADP Banking/PROPN 　　/SPACE Completed/NOUN courses/PROPN in/ADP Bank/PROPN Organization/NOUN and/CCONJ Business/NOUN English/PROPN ,/PUNCT 1981/NUM ./PUNCT
+　　/SPACE Notice/PROPN :/PUNCT 　　/SPACE Education/NOUN is/VERB listed/NOUN towards/VERB bottom/PROPN of/ADP resume/PROPN because/NOUN candidate/PROPN 's/VERB practical/NUM experience/VERB outweighs/VERB his/PROPN //PUNCT her/PROPN degree/NOUN ./PUNCT
+　　/SPACE Reverse/NOUN chronological/NOUN format/ADJ focuses/NUM employer/NOUN 's/VERB attention/NOUN on/NOUN candidate/NOUN 's/VERB most/NOUN current/NOUN position/NOUN ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT customer/PROPN +/PUNCT Dallas/PROPN +/PUNCT Assistant/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+1/NUM ,/PUNCT 430/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

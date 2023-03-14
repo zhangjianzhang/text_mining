@@ -1,0 +1,102 @@
+连词/NOUN while/PROPN 除/ADP 具有/VERB “/PUNCT 当时/NOUN ”/PUNCT 、/PUNCT “/PUNCT 同时/NOUN ”/PUNCT 等/PART 意义/NOUN 外/PART ，/PUNCT 根据/ADP 上下文/NOUN 还有/CCONJ 以下/PRON 不同/ADJ 含义/NOUN 及其/CCONJ 不同/ADJ 译法/NOUN 。/PUNCT
+
+一/NUM 、/PUNCT 引导/VERB 时间/NOUN 状语/NOUN
+从/ADP 句/NUM
+
+译作/NOUN “/PUNCT 当/ADP ……/PUNCT 时/PART ”/PUNCT 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NUM Make/NUM hay/PRON while/CCONJ the/DET sun/NOUN shines/NOUN ./PUNCT
+
+趁着/ADP 有/VERB 太阳晒/NOUN 晒草/VERB 。/PUNCT
+（/PUNCT 乘机/NOUN 行事/VERB ，/PUNCT 抓紧/VERB 时机/NOUN 。/PUNCT ）/PUNCT
+
+2/NUM ./PUNCT We/NOUN must/NOUN work/NOUN hard/VERB to/ADP gain/PROPN more/ADP knowledge/PROPN while/PROPN we/NOUN are/VERB young/VERB ./PUNCT
+
+趁着/ADP 现在/NOUN 还/ADV 年轻/VERB ，/PUNCT 我们/PRON 必须/VERB 刻苦/ADV 学习/VERB ，/PUNCT 获得/VERB 更/ADV 多/NUM 的/PART 知识/NOUN 。/PUNCT
+
+二/NUM 、/PUNCT 引导/VERB 让步/NOUN 状语/NOUN
+从/ADP 句/NUM
+
+常/ADV 放/VERB 在/ADP 句/NOUN 首/NOUN ，/PUNCT 译作/NOUN “/PUNCT 尽管/SCONJ ”/PUNCT 、/PUNCT “/PUNCT 虽然/SCONJ ”/PUNCT ，/PUNCT 比/ADP al/ADJ though/NOUN 或/CCONJ though/NOUN 语气/NOUN 要/VERB 轻/VERB 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NUM While/PROPN I/PRON believe/PROPN it/NOUN is/VERB true/VERB ,/PUNCT I/PRON cannot/VERB prove/NOUN it/NOUN ./PUNCT
+
+虽然/SCONJ 我/PRON 相信/VERB 那/PRON 是/VERB 真的/VERB ，/PUNCT 但/ADV 我/PRON 无法/ADV 证明/VERB 。/PUNCT
+
+2/NUM ./PUNCT While/PROPN any/PROPN kind/VERB of/ADP a/DET thletic/NOUN shoe/PROPN can/VERB provide/ADV a/NUM certain/NOUN amount/VERB of/ADP rebound/VERB ,/PUNCT
+
+energy/VERB -/PUNCT return/PROPN sneakers/NOUN are/VERB designed/VERB to/ADP maximize/VERB this/PRON effect/VERB ./PUNCT
+
+虽然/SCONJ 任何/DET 一/NUM 种/NUM 运动鞋/NOUN 都/ADV 能/VERB 提供/VERB 一定/ADJ 的/PART 反/ADJ 弹力/NOUN ，/PUNCT 但/ADV 回力/NOUN 运动鞋/NOUN 能够/VERB 使/VERB 这种/DET 效果/NOUN 最大化/VERB 。/PUNCT
+
+三/NUM 、/PUNCT 引导/NOUN 条件/NOUN 状语/NOUN
+从/ADP 句/NUM
+
+相当于/VERB as/ADV long/NOUN as/NOUN ，/PUNCT 译作/VERB “/PUNCT 只要/SCONJ ”/PUNCT 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NUM While/NOUN there/NOUN is/VERB life/VERB ,/PUNCT there/NOUN is/VERB hope/VERB ./PUNCT
+
+有/VERB 生命/NOUN ，/PUNCT 就/ADV 有/VERB 希望/NOUN 。/PUNCT
+
+2/NUM ./PUNCT While/PROPN a/NUM spark/NOUN of/ADP life/VERB remains/NOUN ,/PUNCT
+it/NOUN is/VERB a/NUM doctor/NOUN 's/VERB duty/NOUN to/ADP save/VERB the/DET
+
+patient/NOUN ./PUNCT
+
+只要/SCONJ 病人/NOUN 还有/VERB 一息生机/NUM ，/PUNCT 医生/NOUN 就/ADV 有/VERB 责任/NOUN 挽救/NOUN 。/PUNCT
+
+四/NUM 、/PUNCT 引导/VERB 原因/NOUN 状语/VERB 从/ADP 句/NUM
+
+相当于/VERB since/NOUN ，/PUNCT 有/VERB “/PUNCT 既然/SCONJ ”/PUNCT 的/PART 意思/NOUN 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NOUN You'll/PROPN never/NOUN save/NOUN any/PROPN money/NOUN while/VERB you/PRON 're/NUM so/ADV extravagant/VERB ./PUNCT
+
+你/PRON 这么/ADV 奢侈/VERB ，/PUNCT 永远/ADV 存/VERB 不/ADV 下/VERB 钱/NOUN 来/VERB 。/PUNCT
+
+2/NUM ./PUNCT I'd/VERB like/PROPN
+to/ADP get/DET it/NOUN settled/NOUN today/PROPN while/PROPN we're/PUNCT at/ADV it/NOUN ./PUNCT
+
+既然/SCONJ 我们/PRON 着手/VERB 干/VERB 了/PART ，/PUNCT 我/PRON 想/VERB 今天/NOUN 就/ADV 把/X 它/PRON 干完/VERB 。/PUNCT
+
+五/NUM 、/PUNCT 连接/VERB 并列/VERB 句/NUM
+
+表示/VERB 对比/NOUN ，/PUNCT 相当于/VERB whereas/NOUN ，/PUNCT 译作/VERB “/PUNCT 而/ADV ”/PUNCT 、/PUNCT “/PUNCT 可是/VERB ”/PUNCT 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NUM An/NOUN out/ADP doors/NOUN man/VERB will/PROPN soon/NOUN become/PROPN pale/NOUN if/NOUN he/ADP changes/PROPN to/ADP an/NUM indoor/PROPN job/NOUN ,/PUNCT
+
+while/PROPN a/DET desk/VERB clerk/NOUN will/NOUN take/NOUN on/ADP a/DET tan/NOUN after/NOUN a/NUM short/NOUN vacation/VERB in/ADP the/DET sun/NOUN ./PUNCT
+
+从事/VERB 室外/NOUN 工作/NOUN 的/PART 人/NOUN 如果/SCONJ 调到/VERB 室内/NOUN 工作/NOUN ，/PUNCT 不久/NOUN 肤色/NOUN 就/ADV 会/VERB 变白/VERB ；/PUNCT 而/ADV 一个/NUM 伏案/NOUN 工作/NOUN 的/PART 文员/NOUN 出去/VERB 度/NUM 个/NUM 短假/NOUN ，/PUNCT 就/ADV 会/VERB 被/X 太阳/NOUN 变黑/VERB 。/PUNCT
+
+2/NUM ./PUNCT
+Motion/PROPN is/VERB absolute/ADJ while/PROPN stagnation/NOUN is/VERB relative/NOUN ./PUNCT
+
+运动/NOUN 是/VERB 绝对/VERB 的/PART ，/PUNCT 而/ADV 静止/VERB 是/VERB 相对/VERB 的/PART 。/PUNCT
+
+六/NUM 、/PUNCT 连接/VERB 并列/VERB 句/NUM
+
+表示/VERB 递进/NOUN ，/PUNCT 相当于/VERB and/ADP what/NOUN is/VERB more/VERB ,/PUNCT 译作/NOUN “/PUNCT 并且/ADV ”/PUNCT 、/PUNCT “/PUNCT 而且/ADV ”/PUNCT 。/PUNCT
+例如/ADV ：/PUNCT
+
+1./NOUN The/NOUN new/NOUN man/NOUN -/PUNCT
+made/NOUN fibres/NOUN are/VERB more/ADP hardwearing/ADJ than/NOUN natural/NOUN fibres/NOUN
+and/CCONJ
+
+greatly/PROPN reduce/NOUN mending/VERB ,/PUNCT while/PROPN good/PROPN ready/NOUN -/PUNCT made/NOUN clothes/NOUN are/VERB cheap/NOUN and/CCONJ
+
+plentiful/VERB ./PUNCT
+
+新/VERB 的/PART 人造/ADJ 纤维/NOUN 比/ADP 天然/ADJ 纤维/NOUN 耐磨/NOUN ，/PUNCT 因此/ADV 能/VERB 大大/ADV 减少/VERB 修补/NOUN 工作/NOUN ，/PUNCT 而且/ADV 做好/VERB 的/PART 衣服/NOUN 价廉物美/VERB ，/PUNCT 数量/NOUN 也/ADV 多/VERB 。/PUNCT
+
+2/NUM ./PUNCT Of/NOUN course/VERB ,/PUNCT I/PRON resolutely/ADV determined/VERB not/PROPN to/ADP marry/VERB ,/PUNCT while/PROPN I/PRON quite/NOUN forgot/VERB to/ADP
+
+consider/PROPN at/ADP all/DET that/NOUN great/NOUN rock/NOUN of/ADP disaster/NOUN in/ADP the/DET working-class/NOUN world/VERB --/PUNCT
+
+sickness/NOUN ./PUNCT
+
+当然/ADV ,/PUNCT 我/PRON 下定/VERB 决心/VERB 不/ADV 结婚/VERB ，/PUNCT 而且/CCONJ 把/X 工人阶级/NOUN 的/PART 巨大/ADJ 灾难/NOUN ——/PUNCT 疾病/NOUN ，/PUNCT 也/ADV 忘/VERB 得/PART 一干二净/VERB 。/PUNCT

@@ -1,0 +1,8 @@
+只/ADV 需/VERB 操作/VERB 电脑/NOUN ，/PUNCT 就/ADV 能/VERB 同时/ADV 完成/VERB 一个/NUM 零件/NOUN 的/PART 车/NOUN 、/PUNCT 铣/NOUN 、/PUNCT 刨床/NOUN 加工/NOUN ；/PUNCT 一个/ADV 员工/NOUN 就/ADV 能/VERB 完成/VERB 整台/ADJ 电视机/NOUN 装配/NOUN ……/PUNCT 记者/NOUN 从/ADP 昨天/NOUN 召开/VERB 的/PART 长宁区/PROPN 高/ADJ 技能/NOUN 人才/NOUN 建设/NOUN 论坛/NOUN 上/PART 获悉/VERB ，/PUNCT 综合/ADJ 素质/NOUN 达到/VERB 或/CCONJ 接近/VERB 世界/NOUN 先进/ADJ 水平/NOUN 的/PART 第三/NUM 代/NUM 灰领/VERB 职业/NOUN 已经/ADV 在/ADP 沪上/NOUN 诞生/VERB 。/PUNCT
+目前/NOUN ，/PUNCT 劳动/NOUN 部门/NOUN 已经/ADV 先后/ADV 开发/VERB 出/VERB 此类/PART 职业/NOUN 50多/NUM 个/NUM 。/PUNCT
+
+灰领/ADJ 职业/NOUN 被/X 定义/VERB 为/VERB 既/CCONJ 动手/VERB 又/ADV 动脑/VERB 的/PART 复合型/ADJ 人才/NOUN 。/PUNCT
+第三/NUM 代/NUM 灰领/VERB 职业/NOUN 的/PART 诞生/NOUN 源于/VERB 高新/ADJ 技术/NOUN 的/PART 发展/NOUN 、/PUNCT 产业/NOUN 能级/NOUN 的/PART 提升/NOUN 及/CCONJ 国外/NOUN 先进/ADJ 科技/NOUN 的/PART 引进/NOUN ，/PUNCT 如/ADV 制作/VERB 三维/ADJ 动画/NOUN 的/PART 电脑/NOUN 动画师/VERB 。/PUNCT
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　/SPACE 编辑/VERB ：/PUNCT 杨琳/PROPN     /SPACE 共/ADV 找到/VERB 23/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

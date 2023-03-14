@@ -1,0 +1,59 @@
+很多/NUM 外企/NOUN 在/ADP 当面/ADV 的/PART 面试/NOUN 之前/PART 会/VERB 有/VERB 一个/NUM 电话/NOUN 英语/NOUN 面试/VERB ，/PUNCT 时间/NOUN 一般/ADV 在/ADP 20~30/NUM 分钟/NUM 左右/PART ，/PUNCT 用以/VERB 核实/VERB 求职者/NOUN 的/PART 背景/NOUN 和/CCONJ 英文/NOUN 表达力/NOUN 。/PUNCT
+新/ADJ 东方/NOUN 求职/VERB 面试/VERB 英语/NOUN 研究/NOUN 专家/NOUN 冯颙/VERB 建议/NOUN ，/PUNCT 求职者/NOUN 在/ADP 投递/VERB 简历/NOUN 以后/PART 要/VERB 做好/VERB 各种/ADV 充分/VERB 的/PART 准备/NOUN 。/PUNCT
+
+准备/VERB 几/NUM 个/NUM 基本/ADJ 问题/NOUN
+
+如果/SCONJ 你/PRON 提前/ADV 知道/VERB 了/PART 电话/NOUN 面试/VERB 的/PART 时间/NOUN ，/PUNCT 则/ADV 可以/VERB 在/ADP 面试/NOUN 时/PART 把/X 简历/NOUN 、/PUNCT cover/NOUN letter/NOUN 放/VERB 在/ADP 你/PRON 旁边/NOUN 的/PART 桌子/NOUN 上/PART ，/PUNCT 直接/ADJ 运用/NOUN 里面/NOUN 的/PART 句子/ADJ 回答/NOUN 问题/NOUN 。/PUNCT
+一些/NUM 基本/ADJ 的/PART 问题/NOUN ，/PUNCT 你/PRON 可以/VERB 事先/ADV 准备/VERB 好/ADJ 答案/NOUN 。/PUNCT
+通常/ADV ，/PUNCT 在/ADP 电话/NOUN 英语/NOUN 面试/VERB 的/PART 时候/NOUN 会/VERB 提道/VERB ：/PUNCT
+
+Please/PROPN tell/VERB me/PRON something/NOUN unreflected/VERB at/ADP yourC/NOUN ./PUNCT
+V/NOUN .//NOUN about/PROPN yourself/PROPN //PUNCT your/PRON experience/VERB //PUNCT your/PRON activities/VERB ./PUNCT
+谈谈/VERB 你/PRON 简历/NOUN 中/PART 没有/VERB 提及/VERB 的/PART 一些/NUM 事情/NOUN //PUNCT 谈谈/VERB 你/PRON 自己/PRON //PUNCT 你/PRON 的/PART 经历/NOUN //PUNCT 你/PRON 参与/VERB 的/PART 活动/NOUN 。/PUNCT
+
+An/PRON example/VERB of/ADP team/NOUN work/NOUN ./PUNCT 举出/VERB 一个/ADV 你/PRON 参与/VERB 团体/NOUN 合作/VERB 的/PART 例子/NOUN 。/PUNCT
+
+Why/NOUN do/VERB you/PRON choose/VERB this/DET position/NOUN ？/PUNCT
+你/PRON 为什么/ADV 选择/VERB 这个/DET 职位/NOUN 。/PUNCT
+
+Why/NOUN should/PROPN we/NOUN hireyou/VERB ？/PUNCT
+为什么/ADV 我们/PRON 应该/VERB 雇用/VERB 你/PRON ？/PUNCT
+
+开放式/ADJ 讨论/VERB 如/ADV In/NOUN formation/VERB Technology/PROPN (/PUNCT 信息/NOUN 技术/NOUN )/VERB 或者/CCONJ theroleofuniversityinso鄄ciety/NOUN (/PUNCT 大学/NOUN 的/PART 社会/NOUN 角色/NOUN )等/PROPN ，/PUNCT 主要/ADJ 考查/NOUN 求职者/NOUN 的/PART 思维/NOUN 方式/NOUN 。/PUNCT
+
+自由/ADJ 提问/NOUN 。/PUNCT
+求职者/NOUN 可以/VERB 事先/ADV 准备/VERB 一些/NUM 问题/NOUN 去/PART 询问/VERB 面试官/NOUN 。/PUNCT
+
+听/VERB 不/ADV 清时/VERB 怎么办/VERB
+
+如果/SCONJ 有/VERB 话语/NOUN 没有/ADV 听/VERB 清楚/VERB ，/PUNCT 求职者/NOUN 不必/ADV 紧张/VERB ，/PUNCT 可以/VERB 镇定/VERB 地/PART 请求/VERB 再说/VERB 一/NUM 遍/NUM 。/PUNCT
+可以/VERB 用到/VERB 的/PART 句子/NOUN ：/PUNCT
+
+pardon/NOUN ?/PUNCT
+请/VERB 再说/VERB 一/NUM 遍/NUM
+
+Would/PROPN you/PRON please/VERB simplify/NOUN the/DET question/NOUN ？/PUNCT
+您/PRON 能/VERB 把/X 这个/DET 问题/NOUN 说/VERB 得/PART 简单/VERB 些/ADV 吗/PART ？/PUNCT
+
+Would/PROPN you/PRON please/NOUN say/NOUN iti/ADP nother/NOUN words/VERB ?/PUNCT
+您/PRON 能/VERB 用/VERB 别的/DET 话/NOUN 来/PART 表达/VERB 您/PRON 的/PART 意思/NOUN 吗/PART ？/PUNCT
+
+Would/PROPN you/PRON please/ADV speak/VERB a/DET little/NOUN bit/NOUN louder/PROPN ?/PUNCT
+I/PRON can/VERB not/PROPN hear/VERB you/PRON clearly/VERB ./PUNCT
+您/PRON 说话/VERB 声音/NOUN 能/VERB 大一/VERB 点/ADV 好/VERB 吗/PART ？/PUNCT
+我/PRON 听/VERB 不/ADV 清楚/VERB 。/PUNCT
+
+如何/ADV 应对/VERB 突袭/VERB 电话/NOUN 面试/VERB
+
+当/ADP 你/PRON 正在/ADV 球场/VERB 或者/CCONJ 公交车/NOUN 上/PART 突然/ADV 接到/VERB 了/PART 面试/NOUN 电话/NOUN ，/PUNCT 此时/NOUN 没有/VERB 任何/DET 准备/NOUN ，/PUNCT 建议/VERB 你/PRON 首先/ADV 试探/VERB 看看/VERB 是否/VERB 可以/VERB 给/ADP 你/PRON 个/NUM 准备/NOUN 时间/NOUN 稍后/ADV 再/ADV 进行/VERB 电话/NOUN 面试/NOUN 。/PUNCT
+可以/VERB 用到/VERB 的/PART 句子/NOUN ：/PUNCT
+
+May/NOUN I/PRON call/NOUN you/PRON back/PROPN half/PROPN an/NUM hour/NOUN l/NOUN ater/VERB ？/PUNCT
+May/NOUN I/PRON have/X your/PRON phone/NOUN number/NOUN and/CCONJ recall/VERB you/PRON ？/PUNCT
+
+如果/SCONJ 可以/VERB 赢得/VERB 时间/NOUN ，/PUNCT 你/PRON 应该/VERB 马上/ADV 赶/VERB 回去/VERB ，/PUNCT 摊开/NOUN 资料/NOUN 写出/VERB 一个/NUM 提纲/NOUN ，/PUNCT 从容/ADV 应答/VERB 。/PUNCT
+如果/SCONJ 对方/PRON 不/ADV 同意/VERB 推迟/VERB 时间/NOUN ，/PUNCT 你/PRON 应该/VERB 马上/ADV 找/VERB 个/NUM 安静/VERB 的/PART 地方/NOUN 坐/VERB 下来/VERB 开始/VERB 回答/VERB 。/PUNCT
+
+编辑/NOUN ：/PUNCT 杨琳/PROPN     /SPACE 共/ADV 找到/VERB 25/NUM ,/PUNCT 023/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

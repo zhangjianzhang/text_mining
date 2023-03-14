@@ -1,0 +1,22 @@
+IELTS/PROPN 写作/NOUN 部分/NOUN 的/PART 答题/NOUN 说明/VERB 从/ADP 2006年/NOUN 1月/NOUN 起/PART 将/ADV 有/VERB 调整/NOUN :/PUNCT
+
+从/ADP 2006年/NOUN 1月/NOUN 开始/PART ，/PUNCT IELTS/NOUN 考试/VERB 写作/NOUN 部分/NOUN 的/PART 答题/NOUN 说明/VERB 将/ADV 有/VERB 调整/NOUN 。/PUNCT
+变化/NOUN 的/PART 目的/NOUN 是/VERB 为了/ADP 帮助/VERB 考生/NOUN 更加/ADV 准确/VERB 的/PART 理解/VERB 写作/NOUN 要求/NOUN 。/PUNCT
+以下/PRON 列出/VERB 了/PART 具体/ADJ 变化/NOUN 和/CCONJ 调整/VERB 后/PART 的/PART 写作/NOUN 范例/NOUN 。/PUNCT
+
+[/PROPN 翻译稿/NOUN ,/PUNCT 仅/ADV 作/VERB 参考/NOUN ,/PUNCT 内容/NOUN 应/VERB 以/ADP 英文/NOUN 为/VERB 准]/NOUN
+
+Changes/PROPN to/ADP IELTS/PROPN Writing/NOUN rubrics/NOUN from/ADP January/NOUN 2006/NOUN
+
+From/ADP January/NOUN 2006/NOUN there/NOUN are/VERB a/NUM number/NOUN of/ADP changes/PROPN to/ADP the/DET IELTS/NOUN Writing/VERB
+
+rubrics/NOUN ./PUNCT
+These/PROPN changes/NOUN are/VERB to/ADP be/ADJ introduced/NOUN in/NOUN order/NOUN to/ADP further/NOUN clarify/NOUN what/VERB
+
+candidates/PROPN are/VERB expected/VERB to/ADP write/PROPN ./PUNCT
+The/DET changes/NOUN are/VERB outlined/VERB below/VERB ./PUNCT
+Overleaf/PROPN are/VERB
+
+examples/VERB of/ADP tasks/NOUN that/ADV include/VERB the/DET new/NOUN rubrics/NOUN ./PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 无忧雅思/VERB 网)/NOUN

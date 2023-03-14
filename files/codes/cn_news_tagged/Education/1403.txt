@@ -1,0 +1,334 @@
+【/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 英语网/NOUN 】/PUNCT
+
+汉语/NOUN 中/PART 有/VERB 象/NOUN 声词/NOUN ，/PUNCT 也/ADV 叫/VERB 摹声词/PROPN ，/PUNCT 顾名思义/ADV ，/PUNCT 指/VERB 那些/DET 模仿/VERB 自然/NOUN 声音/NOUN 的/PART 词/NOUN 。/PUNCT
+英语/NOUN 同样/ADV 有nomatopeia/VERB ，/PUNCT 它们/PRON 分别/ADV 归于/VERB 动词/NOUN 、/PUNCT 名词类/NOUN 。/PUNCT
+英语/NOUN 中/PART 有些/DET 字母/NOUN 的/PART 发音/NOUN 象征/VERB 某种/DET 气氛/NOUN 、/PUNCT 意境/NOUN ，/PUNCT 能/VERB 使/VERB 人/NOUN 产生/VERB 相应/ADJ 的/PART 联想/NOUN 。/PUNCT
+如s/ADV 是/VERB 咝音/NOUN 字母/NOUN ，/PUNCT 它/PRON 常常/ADV 和风/VERB 的/PART 飕飕声/PROPN 、/PUNCT 水/NOUN 的/PART 唰唰声/NOUN 、/PUNCT 蛇/NOUN 的/PART 咝咝声/PROPN 有/VERB 这样/ADJ 那样/VERB 的/PART 联系/NOUN ；/PUNCT m/NOUN 是/VERB 鼻音/NOUN 字母/NOUN ，/PUNCT 它/PRON 常常/ADV 表示/VERB 低沉/VERB 的/PART 声音/NOUN ，/PUNCT 如/ADV 人/NOUN 的/PART 窃窃私语/NOUN 、/PUNCT 虫子/NOUN 的/PART 嗡嗡声/NOUN 、/PUNCT 鸽子/ADJ 的/PART 咕咕声/NOUN 和/CCONJ 海啸声/PROPN ；/PUNCT h/PROPN 是/VERB 吐/VERB 气音/NOUN ，/PUNCT 它/PRON 常常/ADV 和/ADP 气喘/NOUN 、/PUNCT 费劲/NOUN 相/ADV 联系/VERB ，/PUNCT 如/ADV hurry/PROPN ,/PUNCT
+
+heave/NUM ,/PUNCT huge/VERB ,/PUNCT hurl/VERB ,/PUNCT hoist/PROPN ,/PUNCT hop/PROPN 。/PUNCT
+b/NOUN 和/CCONJ p是/NOUN 唇音/VERB 字母/NOUN ，/PUNCT 它/PRON 常常/ADV 表示/VERB 和/ADP 水/NOUN 有关/VERB 的/PART 的/PART 声音/NOUN ，/PUNCT 如/ADV boil/PROPN ,/PUNCT bubble/PROPN ,/PUNCT drip/NOUN ,/PUNCT
+
+drop/NOUN ,/PUNCT lap/NOUN ,/PUNCT plop/NOUN ,/PUNCT
+
+ripple/NOUN ；/PUNCT r/ADV 是/VERB 卷舌摩/NOUN 擦音/VERB ，/PUNCT 发音/NOUN 粗糙/VERB 生硬/NOUN ，/PUNCT 它/PRON 常常/ADV 表示/VERB 噪音/NOUN 和/CCONJ 其它/DET 令/VERB 人/NOUN 不/ADV 愉快/VERB 的/PART 声音/NOUN ，/PUNCT 如/ADV 洪水/NOUN 、/PUNCT 战争/NOUN 、/PUNCT 大/ADJ 破坏/NOUN 等/PART 。/PUNCT
+镶嵌/PROPN 进象/VERB 声词/NOUN ，/PUNCT 可/VERB 使/VERB 你/PRON 文章/NOUN 中/PART 的/PART 人物/NOUN 和/CCONJ 动作/NOUN ，/PUNCT 栩栩如生/NOUN ，/PUNCT 呼之欲出/VERB 。/PUNCT
+掌握/VERB 这些/DET 象/ADP 声词/NOUN 可/VERB 提高/VERB 你/PRON 攻克/VERB 英语/NOUN 的/PART 信心/NOUN ，/PUNCT 进而/ADV 增强/VERB 驾御/NOUN 语言/NOUN 的/PART 能力/NOUN ，/PUNCT 但/ADV 这/DET 类/NUM 词/NOUN 一般/ADJ 汉英/NOUN 词典/NOUN 又/ADV 很/ADV 难/ADV 查到/VERB ，/PUNCT
+
+故特/NOUN 撰此/VERB 文/NOUN ，/PUNCT 以备/ADV 您/PRON 不时之需/VERB 。/PUNCT
+
+一/NUM 、/PUNCT 万物之灵/NUM ——人/NUM 的/PART 声音/NOUN
+
+1/NUM ．/PUNCT 表示/VERB 人哭/NOUN 的/PART 象声/NOUN 词/NOUN
+
+cry/NOUN ：/PUNCT 哭/VERB ，/PUNCT 喊/VERB ，/PUNCT 未必/ADV 有/VERB 泪/NOUN 。/PUNCT
+
+Weep/NOUN ：/PUNCT 流泪/NOUN ，/PUNCT 哭泣/NOUN 。/PUNCT
+
+Wail/NOUN ：/PUNCT 大声/ADV 痛哭/VERB ，/PUNCT 尖叫/VERB 。/PUNCT
+
+Shed/NOUN ：/PUNCT 流泪/VERB 。/PUNCT
+
+Tears/PROPN ：/PUNCT 泪水/NOUN 。/PUNCT
+
+Howl/NOUN ：/PUNCT 大声/ADV 哭/VERB 。/PUNCT
+
+Blubber/PROPN ：/PUNCT 嚎啕大哭/VERB 。/PUNCT
+
+Whisper/NOUN ：/PUNCT 低语/VERB 。/PUNCT
+
+Sob/NOUN ：/PUNCT 啜泣/VERB ，/PUNCT 抽噎/VERB 。/PUNCT
+
+Pule/PROPN ：/PUNCT 小孩/NOUN 的/PART 呜咽/NOUN ，/PUNCT 抽泣/VERB 。/PUNCT
+
+2/NUM ．/PUNCT 表示/VERB 人笑/NOUN 的/PART 象声/NOUN 词/NOUN
+
+smile/VERB ：/PUNCT 微笑/ADJ
+
+laugh/VERB ：/PUNCT 大笑/PROPN
+
+grin/PROPN ：/PUNCT 露齿而笑/VERB
+
+simper/NOUN ：/PUNCT 假笑/VERB ，/PUNCT 傻笑/VERB
+
+smirk/NOUN ：/PUNCT 傻笑/NOUN ，/PUNCT 得意/VERB 地/PART 笑/VERB
+
+roar/NOUN =haw-haw/NOUN =/PROPN ha/VERB -/PUNCT ha/PROPN ：/PUNCT 哈哈大笑/PROPN
+
+guffaw/PROPN ：/PUNCT 哄笑/NOUN ，/PUNCT
+大笑/NOUN
+
+snort/NOUN ：/PUNCT 扑哧/VERB 一/ADV 笑/NOUN
+
+crow/PROPN ：/PUNCT
+婴儿/NOUN 的/PART 欢叫/NOUN
+
+burble/NOUN ：/PUNCT 窃笑/PROPN
+
+chuckle/NOUN ：/PUNCT 抿/VERB 嘴笑/NOUN ，/PUNCT 暗自/ADV 笑/VERB
+
+giggle/PROPN ：/PUNCT 咯/INTJ 咯/PART 地/PART 笑/VERB ，/PUNCT 傻笑/VERB
+
+titter/NOUN ：/PUNCT 窃笑/PROPN ，/PUNCT 傻笑/VERB ，/PUNCT 嗤嗤/NOUN 地/PART 笑/VERB
+
+snigger/NOUN =/PROPN snicker/NOUN ：/PUNCT
+窃笑/PROPN
+
+gurgle/PROPN ：/PUNCT 咯/PART 咯/PART 地/PART 笑/VERB
+
+3/NUM ．/PUNCT 表示/VERB 人/NOUN 说话/VERB 的/PART 象声/NOUN 词/NOUN
+
+boom/NOUN ：/PUNCT 瓮声瓮气/VERB ，/PUNCT 低/ADJ 沉有/VERB 回响/VERB 的/PART 声音/NOUN 。/PUNCT
+
+Roar/VERB ：/PUNCT 咆哮/NOUN ，/PUNCT 狮子/NOUN 般地/VERB 吼叫/VERB 。/PUNCT
+
+Snort/NOUN ：/PUNCT 发哼声/NOUN
+
+Grunt/PROPN ：/PUNCT
+哼哼声/INTJ ，/PUNCT 咕噜声/NOUN 。/PUNCT
+
+Squaw/PROPN k/NOUN ：/PUNCT 粗/VERB 而/PART 响/VERB 的/PART 叫声/NOUN ，/PUNCT 诉苦/NOUN 或/CCONJ 抗议/VERB 。/PUNCT
+
+Shriek/NOUN ：/PUNCT 尖叫声/ADV
+
+Mutter/PROPN ：/PUNCT 嘀嘀咕咕/PROPN ，/PUNCT 含糊/VERB 的/PART 低语/NOUN 声/NOUN
+
+Murmur/PRON ：/PUNCT 喃喃/NOUN 说话声/NOUN ，/PUNCT 隔壁/NOUN 的/PART 人/NOUN 语声/NOUN
+
+Mumble/PROPN ：/PUNCT 叽咕/NOUN ，/PUNCT 咕哝/NOUN
+
+Grumble/PROPN ：/PUNCT 肚子/NOUN 咕咕/NOUN 的/PART 叫声/NOUN ，/PUNCT 牢骚/NOUN
+
+Whisper/NOUN ：/PUNCT 低语/VERB ，/PUNCT 谣言/NOUN
+
+Hum/NOUN ：/PUNCT 哼/INTJ 曲子/NOUN 的/PART 声音/NOUN ，/PUNCT 犹豫/VERB 时/PART 的/PART 嗯嗯声/NOUN 。/PUNCT
+
+hum/PROPN and/CCONJ haw/NOUN ：/PUNCT 表示/VERB 犹豫/NOUN 或/CCONJ 支吾/NOUN 的/PART
+嗯嗯/INTJ 呃/INTJ
+呃/INTJ 声/NOUN
+
+chatter/NOUN ：/PUNCT 喋喋不休/VERB ，/PUNCT 震颤/NOUN 声/NOUN babble/NOUN ：/PUNCT 唠叨/NOUN ，/PUNCT 咿呀/ADJ 学语/NOUN
+
+gabble/NOUN ：/PUNCT 急促不清/PROPN 的话/PART 声/NOUN
+
+gibber/NOUN 和/CCONJ jabber/PROPN ：/PUNCT 同/ADP 上/NOUN
+
+prattle/NOUN ：/PUNCT 婴儿/NOUN 的/PART 喁喁学/NOUN 语声/NOUN
+
+chat/NOUN ：/PUNCT 聊天/VERB
+
+coo/PROPN ：/PUNCT 喁喁细语/PROPN
+
+bark/NOUN ：/PUNCT 叫骂/VERB ，/PUNCT 叫喊/VERB
+
+snarl/NOUN ：/PUNCT 咆哮/NOUN ，/PUNCT bellow/PROPN ：/PUNCT 怒吼声/NOUN
+
+shrill/NOUN ：/PUNCT
+尖声/ADV
+
+moan/NOUN ：/PUNCT 呻吟声/PROPN ，/PUNCT 悲叹声/NOUN
+
+stammer/NOUN ：/PUNCT 结巴/VERB
+
+二/NUM 、/PUNCT 特种/ADJ 语言/NOUN ——/PUNCT 动物/NOUN 的/PART 叫声/NOUN
+
+ape/NOUN （/PUNCT 猿/PROPN ）/PUNCT -----/VERB gibber/PROPN
+
+ass/PROPN （/PUNCT 驴/PROPN ）/PUNCT ---/PUNCT bray/ADV
+
+bee/PROPN （/PUNCT 蜜蜂/NOUN ）/PUNCT -/PUNCT ----hum/NOUN ,/PUNCT bu/ADJ zz/PROPN ,/PUNCT drone/NOUN
+
+bird/PROPN （/PUNCT 鸟/NOUN ）/PUNCT -----twitter/NOUN ,/PUNCT chirp/PROPN ,/PUNCT chirrup/PROPN
+
+bull(/PROPN 公牛/NOUN )/NOUN -----/NOUN bellow/PROPN ,/PUNCT low/PROPN
+
+beetle/PROPN （/PUNCT 甲虫/PROPN ）/PUNCT -----/VERB drone/NOUN
+
+calf/PROPN （/PUNCT 小牛/PROPN ）/PUNCT -----/VERB bleat/PROPN
+
+cat/NOUN （/PUNCT 猫/NOUN ）/PUNCT -----/NOUN miaow/VERB ，/PUNCT miaou/INTJ ,/PUNCT meow/NOUN ，/PUNCT purr/NOUN
+
+camel/PROPN （/PUNCT 骆驼/PROPN ）/PUNCT -/PUNCT ----grunt/VERB
+
+chicken/NOUN （/PUNCT 小鸡/NOUN ）/PUNCT -----/VERB cheep/PROPN
+
+cricket/PROPN （/PUNCT 蟋蟀/PROPN ）/PUNCT -/PUNCT ----chirp/INTJ
+
+dog/NOUN （/PUNCT 狗/NOUN ）/PUNCT -----/VERB bark/PROPN ，/PUNCT yelp/VERB ，/PUNCT snarl/NOUN ，/PUNCT growl/VERB
+
+duck/PROPN （/PUNCT 鸭子/PROPN ）/PUNCT -----/VERB quack/VERB
+
+donkey/PROPN （/PUNCT 驴/NOUN ）/PUNCT -----/VERB bray/NOUN ，/PUNCT heehaw/VERB
+
+elephant/VERB （/PUNCT 大象/PROPN ）/PUNCT
+-----/VERB trumpet/NOUN
+
+fly/NOUN （/PUNCT 苍蝇/NOUN ）/PUNCT ---/PUNCT bu/ADJ zz/PROPN
+
+fox/PROPN （/PUNCT 狐狸/NOUN ）/PUNCT -----/NOUN yelp/VERB
+
+frog/PROPN （/PUNCT 青蛙/NOUN ）/PUNCT -/PUNCT ----croak/NOUN
+
+goat/PROPN （/PUNCT 山羊/PROPN ）/PUNCT -----/VERB bleat/PROPN
+
+goose/PROPN （/PUNCT 鹅/NOUN ）/PUNCT -----/VERB crackle/VERB ，/PUNCT
+gaggle/PROPN
+
+hen/PROPN （/PUNCT 母鸡/NOUN ）/PUNCT -----/VERB crackle/VERB ，/PUNCT cluck/PROPN ，/PUNCT chuck/PROPN ，/PUNCT chuckle/PROPN
+
+horse/VERB （/PUNCT 马/NOUN ）/PUNCT -----/VERB neigh/PROPN ，/PUNCT whinniy/VERB ，/PUNCT nicker/NOUN
+
+jackal/PROPN （/PUNCT 豺/NOUN ）/PUNCT -/PUNCT ----howl/INTJ
+
+lark/NOUN （/PUNCT 云雀/PROPN ）/PUNCT -----/VERB warble/VERB
+
+lion/NOUN （/PUNCT 狮子/NOUN ）/PUNCT -----/NOUN roar/VERB
+
+monkey/PROPN （/PUNCT 驴/NOUN ）/PUNCT -----/NOUN chatter/VERB ,/PUNCT screech/NOUN ,/PUNCT gibber/VERB ,/PUNCT
+
+mosquito/PROPN （/PUNCT 蚊子/NOUN ）/PUNCT -----/VERB hum/PROPN ，/PUNCT buzz/PROPN ，/PUNCT drone/NOUN
+
+mouse/PROPN （/PUNCT 老鼠/NOUN ）/PUNCT -----/VERB squeak/VERB ，/PUNCT peep/PROPN
+
+parrot/NOUN （/PUNCT 鹦鹉/NOUN ）/PUNCT -----/VERB talk/NOUN
+
+pig/NOUN （/PUNCT 猪/NOUN ）/PUNCT -/PUNCT ----grunt/VERB
+
+tiger/NOUN （/PUNCT 老虎/NOUN ）/PUNCT --/PUNCT --/PUNCT growl/VERB
+
+wolf/PROPN （/PUNCT 狼/NOUN ）/PUNCT -----/VERB howl/VERB ，/PUNCT
+
+growl/VERB
+
+三/NUM 、/PUNCT 天生/NOUN 的/PART 音乐家/NOUN ——/PUNCT 鸟鸣/NOUN 的/PART 声音/NOUN
+
+由于/ADP 表示/VERB 鸟/NOUN 的/PART 叫声/NOUN 的/PART 单词/NOUN 往往/ADV 含有/VERB 字母C/PROPN ，/PUNCT 故/ADV ，/PUNCT 有人/VERB 把/X C称/NOUN 为/VERB “/PUNCT 鸟鸣/NOUN 字母/NOUN ”/PUNCT 。/PUNCT
+
+Crow/PROPN （/PUNCT 乌鸦/PROPN ）/PUNCT -/PUNCT ----caw/INTJ
+
+geese/PROPN （/PUNCT 鹅/NOUN ）/PUNCT --/PUNCT --/PUNCT crackle/NOUN
+
+swans/NOUN （/PUNCT 天鹅/NOUN ）/PUNCT --/PUNCT --/PUNCT chant/NOUN
+
+chicken/NOUN （/PUNCT 小鸡/NOUN ）/PUNCT --/PUNCT --/PUNCT
+cheep/PROPN
+
+magpies/NOUN （/PUNCT 喜鹊/NOUN ）/PUNCT
+-----/VERB chatter/VERB
+
+swallows/NOUN （/PUNCT 燕子/NOUN ）/PUNCT -/PUNCT ----chirp/INTJ
+
+hens/PROPN （/PUNCT 母鸡/NOUN ）/PUNCT -----/VERB chuck/VERB
+
+pigeons/NOUN （/PUNCT 鸽子/NOUN ）/PUNCT -----/VERB coo/PROPN
+
+ravens/NOUN （/PUNCT 渡鸦/PROPN ）/PUNCT -/PUNCT ----croak/NOUN
+
+cocks/PROPN （/PUNCT 公鸡/NOUN ）/PUNCT -/PUNCT ----crow/INTJ
+
+cuckoos/PROPN （/PUNCT 杜鹃/VERB ，/PUNCT 布谷鸟/PROPN ）/PUNCT -----/VERB cuckoo/PROPN
+
+四/NUM 、/PUNCT 天籁/NOUN 之/PART 声/NOUN （/PUNCT 此处/PRON 主要/ADV 指非/VERB 生命/NOUN 的/PART 声音/NOUN ）/PUNCT
+
+Babble/PROPN ：/PUNCT 潺潺声/NOUN ，/PUNCT 叽叽喳喳/VERB 。/PUNCT
+Hear/ADP the/DET babble/PROPN of/ADP many/NOUN voices/VERB ./PUNCT
+
+cling-clang/PROPN
+
+click/NOUN ：/PUNCT 轻微/VERB 的/PART 尖声/NOUN ，/PUNCT 咔嗒声/VERB 。/PUNCT
+The/DET click/NOUN of/ADP a/NUM s/NOUN witch/VERB ;/VERB He/ADP saluted/NOUN with/ADP a/NUM click/NOUN of/ADP his/PROPN
+
+heels/VERB ./PUNCT
+
+clan/PROPN k/PUNCT ：/PUNCT 低沉/ADJ 的/PART 金属声/NOUN ,/PUNCT 叮/ADV 当声/VERB ；/PUNCT clang/PROPN ：/PUNCT 金属/NOUN 敲击/VERB 的/PART 声音/NOUN ,/PUNCT 叮/ADV 当声/VERB ；/PUNCT
+
+Creak/PROPN ：/PUNCT 嘎吱声/PROPN （/PUNCT 松动/VERB 的/PART 门铰链/NOUN 及木/ADJ 地板/NOUN ）/PUNCT 。/PUNCT
+A/NOUN creaky/NOUN floor/NOUN -/PUNCT
+board/PROPN
+
+Crack/PROPN ：/PUNCT 爆裂/NOUN 声/NOUN ，/PUNCT 劈啪声/NOUN 。/PUNCT
+A/NOUN crack/NOUN of/ADP pistol/PROPN shot/VERB ./PUNCT
+
+Crash/NOUN ：/PUNCT 撞击声/NOUN ，/PUNCT 破裂/VERB 声/NOUN ，/PUNCT 坠落声/VERB 。/PUNCT
+The/DET crash/NOUN of/ADP dishes/PROPN being/VERB dropped/NOUN ./PUNCT
+
+Flop/NOUN ：/PUNCT 扑通/VERB 一/NUM 声/NOUN 。/PUNCT
+Fall/PROPN flop/NOUN in/NOUN to/ADP the/DET water/NOUN ./PUNCT
+
+Gurgle/PROPN ：/PUNCT 汩汩声/PROPN ，/PUNCT 婴儿/NOUN 咯/PART 咯/NOUN 的/PART 笑声/NOUN 。/PUNCT
+The/NOUN water/NOUN gurgled/PROPN as/VERB it/ADP ran/PROPN down/NOUN the/DET plug-hole/NOUN ./PUNCT
+
+Hoot/NOUN ：/PUNCT 猫头鹰/NOUN 的/PART 叫声/NOUN ，/PUNCT 汽笛/NOUN 、/PUNCT 喇叭/NOUN 的/PART 声响/NOUN 。/PUNCT
+The/DET driver/PUNCT hooted/ADV at/ADP the/DET sheep/NOUN in/ADP the/DET road/NOUN ./PUNCT
+
+Hum/NOUN ：/PUNCT 昆虫/NOUN 的/PART 营营声/NOUN ,/PUNCT 嗡嗡声/NOUN ；/PUNCT 人/NOUN 犹豫/VERB 时/PART 的/PART 嗯嗯声/NOUN 。/PUNCT
+The/DET hum/PROPN of/ADP the/DET bees/NOUN ./PUNCT
+
+hush/NOUN ：/PUNCT 让/VERB 安静/VERB 的/PART 声音/NOUN
+
+Jingle/PROPN ：/PUNCT 硬币/NOUN 、/PUNCT 钥匙/NOUN 等/PART 金属/NOUN 的/PART 叮当声/NOUN ；/PUNCT
+
+jangle/PROPN ：/PUNCT 刺耳/ADJ 的/PART 声音/NOUN （/PUNCT 多/NUM 金属声/PROPN ）/PUNCT
+The/DET fire-alarm/ADJ kept/NOUN jangling/PROPN ./PUNCT
+
+Murmur/PRON ：/PUNCT 低沉/VERB 、/PUNCT 持续/VERB 而/CCONJ 不/ADV 清/VERB 的/PART 声音/NOUN ，/PUNCT 隔壁/NOUN 的/PART 人/NOUN 语声/NOUN 。/PUNCT
+The/DET distant/PROPN murmur/NOUN of/ADP the/DET sea/NOUN ./PUNCT
+
+The/DET murmur/NOUN of/ADP the/DET voices/NOUN from/ADP next/NOUN room/NOUN ./PUNCT
+
+pit/NOUN -/PUNCT a/NUM -/PUNCT pit/NOUN ：/PUNCT 噼啪声/NOUN 。/PUNCT
+the/DET pit/NOUN -/PUNCT a/NOUN -/PUNCT pit/NOUN of/ADP the/DET rain/NOUN on/ADP the/DET roof/NOUN ./PUNCT
+
+purl/NOUN ：/PUNCT 潺潺/NOUN 的/PART 流水声/NOUN 。/PUNCT
+a/NUM purling/ADJ brook/NOUN ./PUNCT
+（/PUNCT 潺潺/VERB 的/PART 溪流/NOUN ）/PUNCT
+
+rattle/NOUN ：/PUNCT 短促/VERB 而/PART 尖利/VERB 的/PART 声音/NOUN ，/PUNCT 如/ADV 瓶子/NOUN 的/PART 哐啷/NOUN 哐啷声/NOUN ，/PUNCT 机关枪/NOUN 的/PART 咯咯声/NOUN 。/PUNCT
+
+rat-a-rat/NOUN ,/PUNCT rat/NOUN -/PUNCT
+tat/PROPN ,/PUNCT rat/NOUN -/PUNCT tat/PROPN -/PUNCT
+tat/PROPN ,/PUNCT rat/NOUN -/PUNCT tat/PROPN -/PUNCT too/ADV ,,/PUNCT （/PUNCT 敲门/VERB 的/PART ）/PUNCT 砰砰声/NOUN 。/PUNCT
+
+rub/NOUN -/PUNCT a/NUM -/PUNCT dub/NOUN ：/PUNCT （/PUNCT 鼓/NOUN 的/PART ）/PUNCT 咚/VERB 咚声/NOUN 。/PUNCT
+
+Rustle/PROPN ,/PUNCT rustling/ADV
+：/PUNCT 轻而爽/PROPN 的/PART 声音/NOUN 。/PUNCT
+The/DET rustle/NOUN of/ADP banknotes/PROPN ./PUNCT
+
+Roll/NOUN ：/PUNCT 持续/VERB 而/PART 平稳/VERB 的/PART 震动声/NOUN 。/PUNCT
+The/DET distant/NOUN roll/NOUN of/ADP thunder/NOUN ./PUNCT
+
+Rumble/NOUN ：/PUNCT 低沉/VERB 而/ADV 持续/VERB 的/PART 声音/NOUN ，/PUNCT 咚咚/VERB （/PUNCT 鼓/PROPN ）/PUNCT 声/NOUN ，/PUNCT （/PUNCT 饿肚子/PROPN ）/PUNCT 咕咕声/NOUN 等/PART 。/PUNCT
+The/DET rumble/NOUN of/ADP drums/NOUN ./PUNCT
+
+sizzle/NOUN ：/PUNCT 咝咝声/PROPN （/PUNCT 如/ADV 煎炸声/NOUN ）/PUNCT
+
+Snap/NOUN ：/PUNCT 快门声/NOUN ，/PUNCT 开/VERB 、/PUNCT 关/VERB 的/PART 声音/NOUN ，/PUNCT 突然/ADV 咬住/VERB 的/PART 声音/NOUN ，/PUNCT 厉声/VERB （/PUNCT 说话/VERB ）/PUNCT 。/PUNCT
+The/DET lid/NOUN shut/VERB with/ADV a/NUM snap/VERB ./PUNCT
+
+Sough/NOUN ：/PUNCT 细小/ADJ 的/PART 声音/NOUN ，/PUNCT 飒飒声/VERB ，/PUNCT 瑟瑟声/PROPN 。/PUNCT
+The/DET sough/NOUN of/ADP the/DET wind/NOUN in/ADP the/DET woods/VERB ./PUNCT
+
+Splash/PROPN ：/PUNCT 溅泼声/PROPN 。/PUNCT
+He/NOUN fell/VERB in/NOUN to/ADP the/DET lake/NOUN with/ADP a/NUM splash/VERB ./PUNCT
+
+splash/NOUN ,/PUNCT plump：沉重/NOUN 的/PART 物体/NOUN 突然/ADV 坠地/VERB 的/PART 声音/NOUN 。/PUNCT
+He/ADJ sat/NOUN down/NOUN in/ADP the/DET chair/NOUN with/ADV a/NUM plump/VERB ./PUNCT
+
+Thud/NOUN ：/PUNCT 撞击/VERB 软物/NOUN 的/PART 沉闷/VERB 的/PART 声响/NOUN （/PUNCT 撞击/VERB 软物/NOUN ，/PUNCT 砰然/NOUN 落下/VERB ）/PUNCT 。/PUNCT
+The/DET car/PROPN hit/PROPN the/DET farmer/NOUN with/ADV a/NUM sickening/NOUN
+
+thud/NOUN ./PUNCT
+
+Thu/NOUN mp/VERB ：/PUNCT 重击声/PROPN 。/PUNCT
+The/DET sack/NOUN of/ADP cement/VERB hit/PROPN the/DET ground/NOUN with/ADV a/NUM thump/VERB ./PUNCT
+
+to/ADP ot/NOUN ：/PUNCT 号角/NOUN 、/PUNCT 喇叭/NOUN 等/PART 的/PART 嘟嘟声/NOUN 。/PUNCT
+The/DET driver/NOUN tooted/NOUN his/PROPN horn/VERB as/ADV he/VERB approached/VERB the/DET bend/NOUN ./PUNCT
+
+Totter/PROPN ：/PUNCT snigger/NOUN ,/PUNCT fizz/PROPN ：/PUNCT 嘶嘶声/PROPN ，/PUNCT 噼啪声/NOUN 。/PUNCT
+The/DET fizz/VERB of/ADP a/NUM firework/NOUN 。/PUNCT
+
+Zoom/NOUN ：/PUNCT 飞行器/NOUN 、/PUNCT 汽车/NOUN 在/ADP 快速/ADV 移动/VERB 时/PART 的/PART 嗡嗡声/NOUN 。/PUNCT
+The/DET jet/NOUN zoomed/PROPN lower/PROPN over/VERB our/NOUN heads/PROPN ./PUNCT
+
+2/NUM

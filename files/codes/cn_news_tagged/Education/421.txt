@@ -1,0 +1,901 @@
+Word/NOUN 　/SPACE List/PROPN 　/SPACE 4/NUM
+
+一/NUM 、/PUNCT 词汇/NOUN 自测/NOUN ：/PUNCT 请/VERB 写出/VERB 下列/ADJ 单词/NOUN 的/PART 汉语/NOUN 意思/NOUN 。/PUNCT
+
+151/NUM ./PUNCT accurate/VERB 152/NUM ./PUNCT
+accuse/PROPN 153/NUM ./PUNCT
+alternative/VERB
+
+154/NUM ./PUNCT
+altitude/ADV 155/NUM ./PUNCT
+bom/PROPN b/NOUN 156/NUM ./PUNCT
+bond/PROPN
+
+157/NUM ./PUNCT
+cheat/PROPN 　/SPACE 158/NUM ./PUNCT
+cheerful/NOUN 　/SPACE 159/NUM ./PUNCT
+collection/NOUN
+
+160/NUM ./PUNCT
+collective/VERB 　 /SPACE 161/NUM ./PUNCT
+compound/PROPN 　/SPACE 162/NUM ./PUNCT
+comprehensive/PROPN
+
+163/NUM ./PUNCT
+destination/PROPN 　/SPACE 164/NUM ./PUNCT
+destroy/PROPN 165/NUM ./PUNCT
+dynamic/PROPN
+
+166/NUM ./PUNCT
+edition/VERB 　 /SPACE 167/NUM ./PUNCT
+effective/VERB 　 /SPACE 168/NUM ./PUNCT
+efficient/NOUN
+
+169/NUM ./PUNCT
+evaporate/VERB 170/NUM ./PUNCT
+even/VERB 　/SPACE 171/NUM ./PUNCT
+finance/NOUN
+
+172/NUM ./PUNCT
+fine/PROPN 　 /SPACE 173/NUM ./PUNCT
+grand/PROPN 174/NUM ./PUNCT
+grand/PROPN
+
+175/NUM ./PUNCT
+immense/PROPN 　/SPACE 176/NUM ./PUNCT
+immigrant/PROPN 　 /SPACE 177/NUM ./PUNCT
+layer/VERB
+
+178/NUM ./PUNCT
+leak/VERB 　/SPACE 179/NUM ./PUNCT
+means/NOUN 　/SPACE 180/NUM ./PUNCT
+meanwhile/NOUN
+
+181/NUM ./PUNCT
+noticeable/NOUN 　 /SPACE 182/NUM ./NOUN
+novel/NOUN 　/SPACE 183/NUM ./PUNCT
+pause/NOUN
+
+184/NUM ./PUNCT
+payment/ADV 185/NUM ./PUNCT
+prejudice/NOUN 　 /SPACE 186/NUM ./PUNCT
+preliminary/NOUN
+
+187/NUM ./PUNCT
+rebel/PROPN 188/NUM ./PUNCT
+recall/NOUN 　 /SPACE 189/NUM ./PUNCT
+salary/VERB
+
+190/NUM ./PUNCT
+sale/VERB 191/NUM ./PUNCT
+simplify/NOUN 192/NUM ./PUNCT
+sincere/NOUN
+
+193/NUM ./PUNCT
+temper/NOUN 　 /SPACE 194/NUM ./PUNCT
+temporary/NOUN 195/NUM ./PUNCT ty/NOUN pe/VERB
+
+196/NUM ./PUNCT
+typical/NOUN 　/SPACE 197/NUM ./PUNCT
+underground/PROPN 　 /SPACE 198/NUM ./PUNCT
+underline/PROPN
+
+199/NUM ./PUNCT
+witness/NOUN 　/SPACE 200/NUM ./PUNCT
+worship/VERB
+
+二/NUM 、/PUNCT 词汇/NOUN 过关/VERB ：/PUNCT 熟记/NOUN 下列/ADJ 单词/NOUN 的/PART 汉语/NOUN 意思/NOUN 及其/CCONJ 用法/NOUN 。/PUNCT
+
+accurate/VERB a/NUM ./PUNCT
+准确/VERB 的/PART ，/PUNCT 精确/ADJ 的/PART
+
+an/NOUN ～/PUNCT
+watch/ADV 一块/ADV 走/VERB 时/PART 准确/VERB 的/PART 手表/NOUN
+
+accuse/PROPN vt/VERB ./PUNCT
+①/NUM 指责/VERB ②/NUM 指控/NOUN
+
+～/PUNCT someone/NOUN of/ADP having/PROPN broken/PROPN his/NOUN words/NOUN 指责/VERB 某人/PRON 不/ADV 守/VERB 诺言/NOUN
+
+～/PUNCT someone/NOUN of/ADP smuggling/NOUN arms/ADV 指控/VERB 某人/PRON 走私/NOUN 军火/NOUN
+
+alternative/PROPN n/NOUN ./PUNCT
+①供/NOUN 选择/VERB 的/PART 东西/NOUN ②取舍/VERB ，/PUNCT
+抉择/NOUN
+
+the/DET ～/PUNCT
+of/ADP going/VERB to/ADP the/DET picnic/NOUN or/CCONJ going/VERB to/ADP the/DET museum/NOUN 两/NUM 种/NUM 选择/NOUN ：/PUNCT 去/VERB 野餐/NOUN ，/PUNCT 或/CCONJ 去/VERB 博物馆/NOUN
+
+have/PROPN no/NOUN o/CCONJ ther/NOUN ～/PUNCT
+别无选择/VERB
+
+a/NUM ./PUNCT
+两者/PRON 择一/VERB 的/PART ，/PUNCT 供选/VERB 的/PART
+
+the/DET ～/PUNCT plans/NOUN of/ADP giving/PROPN a/DET dance/NOUN or/CCONJ going/VERB to/ADP the/DET opera/NOUN 举行/VERB 舞会/NOUN 或/CCONJ 去/VERB 听/VERB 歌剧/NOUN 的/PART 可供/ADJ 选择/NOUN 的/PART 计划/NOUN
+
+altitude/ADJ n/NOUN ./PUNCT
+高度/ADV ，/PUNCT 海拔/NOUN
+
+fly/NOUN at/ADP an/NOUN ～/PUNCT
+of/ADP 40/NUM 000/NUM feet/ADJ 飞行/NOUN 高度/NOUN 为/VERB 40/NUM 000/NUM 英尺/NUM
+
+bom/PROPN b/NOUN n/NOUN ./PUNCT
+炸弹/NOUN
+
+a/NUM ～/PUNCT explosion/NOUN 炸弹/NOUN 爆炸/VERB
+
+vt/VERB ./PUNCT
+轰炸/VERB ，/PUNCT 投弹于/NOUN
+
+～/PUNCT
+some/NOUN Chechen/PROPN strongholds/VERB 轰炸/VERB 车臣/PROPN 的/PART 一些/NUM 据点/NOUN
+
+bond/PROPN n/NOUN ./PUNCT
+①/NUM 公债/NOUN ，/PUNCT 债券/NOUN ②/NUM 联结/VERB ，/PUNCT 联系/VERB
+
+sell/NOUN ～s/NOUN to/VERB get/PROPN money/NOUN for/ADP a/NOUN new/NOUN airport/PROPN 出售/VERB 债券/NOUN 来/PART 为/ADP 新/ADJ 机场/NOUN 筹资/VERB
+
+the/DET strong/NOUN ～/PUNCT
+of/ADP the/DET ir/VERB friendship/PROPN 他们/PRON 之间/PART 牢固/ADJ 的/PART 友谊/NOUN
+
+cheat/NOUN vt/VERB ./PUNCT
+欺骗/VERB ，/PUNCT 骗取/VERB
+
+～/PUNCT someone/NOUN out/PROPN of/ADP his/PROPN money/VERB 骗/VERB 走/VERB 某人/PRON 的/PART 钱/NOUN
+
+vi/VERB ./PUNCT
+行骗/VERB ，/PUNCT 作弊/VERB
+
+～/PUNCT
+in/ADP the/DET race/NOUN 在/ADP 赛跑/NOUN 中/PART 投机/VERB 取巧/VERB
+
+n/NOUN ./PUNCT
+①/NUM 欺骗/VERB ，/PUNCT 欺诈/PROPN 行为/NOUN ②/NUM 骗子/NOUN
+
+a/NUM shameful/NOUN ～/PUNCT 见不得人/VERB 的/PART 欺骗/NOUN 勾当/NOUN
+
+a/NUM place/ADJ where/NOUN ～s/PROPN can/VERB 餿/VERB survive/NOUN for/VERB long/PROPN 一个/NUM 骗子/NOUN 难以/ADV 长久/ADV 存身/VERB 的/PART 地方/NOUN
+
+cheerful/PROPN a/ADV ./PUNCT
+愉快/VERB 的/PART ，/PUNCT 高兴/VERB 的/PART
+
+wear/PROPN a/NUM more/NOUN ～/PUNCT expression/VERB than/NOUN usual/VERB 露出/VERB 不同/VERB 寻常/NOUN 的/PART 高兴/NOUN 表情/NOUN
+
+collection/NOUN n/NOUN ./PUNCT
+①/NUM 收集/VERB ，/PUNCT 采集/VERB ②/NUM 收藏/NOUN
+
+stamp/NOUN ～/PUNCT
+邮票/NOUN 收集/VERB
+
+have/PROPN a/NUM rich/PROPN coin/PROPN ～/PUNCT 收集/VERB 很多/NUM 硬币/NOUN
+
+collective/VERB a/NUM ./PUNCT
+集体/NOUN 的/PART ，/PUNCT 共同/ADJ 的/PART
+
+make/NOUN a/VERB ～/PUNCT effort/VERB 全体/DET 共同/ADV 努力/VERB
+
+n/NOUN ./PUNCT
+团体/NOUN ，/PUNCT 集体/NOUN
+
+the/DET worker/NOUN 餾/NOUN ～/PUNCT
+全体/DET 工人/NOUN
+
+compound/ADJ n/NOUN ./PUNCT
+化合物/NOUN ，/PUNCT 混合物/NOUN
+
+a/NUM ～/PUNCT of/ADP hydrogen/PROPN and/CCONJ oxygen/PROPN 氢氧化/VERB 合物/NOUN
+
+a/NUM ./PUNCT 化合/VERB 的/PART ，/PUNCT
+复合/VERB 的/PART
+
+a/NUM ～/PUNCT word/NOUN 复合词/NOUN
+
+comprehensive/PROPN a/PART ./PUNCT
+广泛/VERB 的/PART ，/PUNCT 综合/ADJ 的/PART
+
+a/NUM ～/PUNCT ecological/ADJ nature/NOUN reserve/NOUN 综合性/ADJ 生态/NOUN 自然/NOUN 保护区/NOUN
+
+destination/PROPN n/NOUN ./PUNCT
+目的地/NOUN ，/PUNCT
+终点/ADV
+
+arrive/NUM at/ADP the/PRON ～/PUNCT 到达/VERB 目的地/NOUN
+
+destroy/PROPN vt/VERB ./PUNCT
+①/NUM 破坏/VERB ，/PUNCT 毁灭/VERB ②/NOUN 消灭/VERB
+
+a/NUM city/VERB ～ed/PUNCT by/ADP an/PROPN atomic/PROPN bomb/PROPN 被/X 一/NUM 颗/NUM 原子弹/NOUN 毁坏/VERB 了/PART 的/PART 城市/NOUN
+
+beat/PROPN and/CCONJ ～/PUNCT
+the/DET enemy/NOUN 打败/VERB 并/CCONJ 消灭/VERB 敌人/NOUN
+
+dynamic/PROPN a/VERB ./PUNCT ①有/PRON 活力/NOUN 的/PART ②动力/NOUN 的/PART ，/PUNCT 动态/VERB 的/PART
+
+a/NUM ～/PUNCT and/CCONJ capable/PROPN man/ADP 一个/NUM 有/VERB 活力/NOUN 、/PUNCT 有/VERB 能力/NOUN 的/PART 人/NOUN
+
+the/DET ～/PUNCT current/NOUN of/ADP air/PROPN 动态/NOUN 气流/NOUN
+
+edition/VERB n/NOUN ./PUNCT
+版/NOUN ，/PUNCT 版本/NOUN
+
+the/DET first/NOUN ～/PUNCT
+of/ADP “/PUNCT Robinson/PROPN Crusoe/PROPN ”/PUNCT 《/PUNCT 鲁滨/NOUN 孙漂/NOUN 流记/NOUN 》/PUNCT 第一/NUM 版/NUM
+
+effective/VERB a/PART ./PUNCT
+有效/VERB 的/PART ，/PUNCT
+生效/VERB 的/PART
+
+take/NOUN ～/PUNCT measures/NOUN 采取/VERB 有效/ADJ 措施/NOUN
+
+efficient/VERB n/NOUN ./PUNCT
+效率/NOUN 高/VERB 的/PART ，/PUNCT 有/VERB 能力/NOUN 的/PART
+
+an/NOUN ～/PUNCT
+typist/NOUN 效率/NOUN 高/VERB 的/PART 打字员/NOUN
+
+evaporate/VERB v/VERB ./PUNCT
+(使/NOUN )蒸/PROPN 发/VERB ，/PUNCT (使/NOUN )挥/PROPN 发/VERB
+
+～/PUNCT
+the/DET sea/NOUN to/ADP form/VERB clouds/VERB 蒸发/VERB 海洋/NOUN 中/PART 的/PART 水形/NOUN 成云/NOUN
+
+even/VERB a/PART ./PUNCT ①均匀/NOUN 的/PART ②平/NOUN 的/PART ，/PUNCT 平坦/ADJ 的/PART ③/NUM 相等/ADJ 的/PART ，/PUNCT 均等/ADJ 的/PART ④/NUM 双数/ADJ 的/PART ，/PUNCT
+
+偶数/VERB 的/PART
+
+～/PUNCT
+breathing/NOUN 均匀/VERB 的/PART 呼吸/NOUN
+
+the/DET ～/PUNCT surface/NOUN of/ADP the/DET table/NOUN 表面/NOUN 很/ADV 平/VERB 的/PART 桌子/NOUN
+
+～/PUNCT
+scores/NOUN 得/VERB 分相/VERB 等/PART
+
+～/PUNCT
+numbers/PROPN 偶数/NOUN
+
+finance/ADJ n/NOUN ./PUNCT
+财政/NOUN ，/PUNCT 金融/NOUN
+
+the/DET Ministry/PROPN of/ADP Finance/PROPN 财政部/NOUN
+
+v/VERB ./PUNCT
+(为/NOUN ……/PUNCT )/PROPN 筹措/VERB 资金/NOUN
+
+～/PUNCT
+the/DET trip/NOUN to/ADP Boston/PROPN 筹措/VERB 去/VERB 波士顿/PROPN 的/PART 旅费/NOUN
+
+fine/PROPN n/NOUN ./PUNCT
+罚金/VERB ，/PUNCT 罚款/NOUN
+
+pay/NOUN a/NUM ～/PUNCT of/ADP 200/NUM dollars/NOUN 付/VERB 200/NUM 美元/NUM 的/PART 罚金/NOUN
+
+vt/VERB ./PUNCT
+处/NOUN ……/PUNCT 以/ADP 罚金/NOUN
+
+be/PROPN ～d/PUNCT 100/NUM dollars/NOUN for/ADP speeding/NOUN 因/ADP 超速/ADV 开车/VERB 而/PART 被/X 罚/VERB 100/NUM 美元/NUM
+
+grand/PROPN a/PROPN ./PUNCT
+①宏伟/NOUN 的/PART ，/PUNCT 壮丽/VERB 的/PART ②/NUM 重大/VERB 的/PART ，/PUNCT
+主要/ADJ 的/PART ③豪华/NOUN 的/PART
+
+a/NUM ～/PUNCT cathedral宏伟/VERB 的/PART 大/ADJ 教堂/NOUN
+
+the/DET ～/PUNCT entrance/VERB of/ADP this/PRON building/VERB 这/DET 幢/NUM 大楼/NOUN 的/PART 主要/ADJ 入口/NOUN
+
+live/NOUN in/ADP a/NUM ～/NOUN style/NOUN 过/VERB 着/PART 豪华/VERB 的/PART 生活/NOUN
+
+grant/PROPN n/NOUN ./PUNCT
+拨款/VERB
+
+～s/NOUN from/ADP the/DET local/NOUN government/PROPN 当地/NOUN 政府/NOUN 的/PART 拨款/NOUN
+
+vt/NOUN ./PUNCT
+授予/VERB ，/PUNCT 同意/VERB ，/PUNCT 准予/VERB
+
+～/PUNCT someone/NOUN permission/NOUN to/ADP drain/NUM the/DET swamp/NOUN 准许/VERB 某人/PRON 排干/VERB 沼泽/NOUN
+
+immense/VERB a/PART ./PUNCT
+广大/ADJ 的/PART ，/PUNCT 巨大/ADJ 的/PART
+
+gaze/VERB at/ADP the/DET ～/PUNCT sea/NOUN 凝视/VERB 着/PART 无边/ADV 无际/VERB 的/PART 大海/NOUN
+
+immigrant/VERB n/NOUN ./PUNCT
+移民/VERB ，/PUNCT 侨民/NOUN
+
+blame/NOUN ～s/PROPN for/ADP rising/NOUN unemployment/VERB 把/X 失业率/NOUN 上升/VERB 归咎于/VERB 住在/VERB 该国/PROPN 的/PART 移民/NOUN
+
+a/NUM ./PUNCT
+(/PUNCT 从/ADP 外国/NOUN )移/PROPN 来/VERB 的/PART ，/PUNCT 移民/VERB 的/PART
+
+be/PROPN hostile/VERB to/ADP the/DET ～/PUNCT population/NOUN 对/ADP 移民/NOUN 不/ADV 友好/VERB
+
+layer/NOUN n/NOUN ./PUNCT
+层/NUM ，/PUNCT 层次/NOUN
+
+a/NUM board/PROPN with/PROPN four/VERB ～s/NOUN 有/VERB 四/NUM 层/NUM 的/PART 木板/NOUN
+
+leak/VERB vi/VERB ./PUNCT
+①漏/NOUN ，/PUNCT 渗/VERB ②泄漏/NOUN ，/PUNCT 走漏/VERB
+
+a/NUM tap/NOUN ～ing/NOUN badly/PROPN 漏水/VERB 很/ADV 厉害/VERB 的/PART 水龙头/NOUN
+
+～/PUNCT
+out/ADP news/PROPN 泄漏/VERB 消息/NOUN
+
+n/NOUN ./PUNCT
+①/NUM 漏洞/VERB ，/PUNCT 裂缝/VERB ②泄漏/NOUN ，/PUNCT 漏/VERB 出量/NOUN
+
+a/NUM ～/NOUN in/ADP the/DET pipe/NOUN 管道/NOUN 的/PART 裂缝/NOUN
+
+gas/NOUN ～/PUNCT
+煤气/NOUN 泄漏/VERB
+
+means/NOUN n/NOUN ./PUNCT
+方法/NOUN ，/PUNCT 手段/NOUN
+
+take/VERB all/DET possible/NOUN ～/PUNCT
+采取/VERB 一切/DET 可能/NOUN 的/PART 方法/NOUN
+
+～/PUNCT
+of/ADP transportation/NOUN 交通/NOUN 工具/NOUN
+
+meanwhile/NOUN ad/VERB ./PUNCT
+与此同时/ADV
+
+～/PUNCT ，/PUNCT his/PROPN wife/VERB prepares/NOUN supper/VERB 与此同时/ADV ，/PUNCT 他/PRON 的/PART 妻子/NOUN 准备/NOUN 晚饭/NOUN
+
+noticeable/NOUN a/NUM ./PUNCT
+显而易见/VERB 的/PART
+
+a/NUM ～/PUNCT difference/NOUN 明显/VERB 的/PART 不同/VERB
+
+novel/VERB n/NOUN ./PUNCT (长/ADJ 篇)/NOUN 小说/NOUN adj/VERB ./PUNCT
+新颖/VERB 的/PART ，/PUNCT 新奇/ADJ 的/PART
+
+prefer/NOUN detective/NOUN stories/NOUN to/ADP ～s/NOUN 不/ADV 喜欢/VERB 长篇/ADJ 小说/NOUN 而/PART 喜欢/VERB 阅读/VERB 侦探/NOUN 小说/NOUN
+
+a/NUM ～/PUNCT appearance/PROPN 新颖/VERB 的/PART 外形/NOUN
+
+pause/NOUN vi.／n/NOUN ./PUNCT
+暂停/VERB ，/PUNCT 中止/VERB
+
+～/PUNCT
+for/ADP breath/PROPN 停下/VERB 喘口/ADJ 气/NOUN
+
+a/NUM ～/NOUN in/ADP the/DET match/NOUN 比赛/NOUN 中/PART 的/PART 暂停/VERB
+
+payment/NOUN n/NOUN ./PUNCT
+①/NOUN 支付/VERB ，/PUNCT 付款/VERB ②/NUM 支付/VERB 的/PART 款项/NOUN
+
+demand/NOUN immediate/NOUN ～/PUNCT
+of/ADP the/DET debt/NOUN 要求/VERB 立即/ADV 还清/VERB 债款/VERB
+
+make/NOUN ten/NOUN monthly/NOUN ～s/NOUN of/ADP 20/NUM pounds/NOUN 分/VERB 10/NUM 个/NUM 月/NOUN 付款/VERB ，/PUNCT 每月/ADV 付/VERB 20/NUM 英镑/NUM
+
+prejudice/ADJ n/NOUN ./PUNCT
+偏见/VERB ，/PUNCT
+成见/NOUN
+
+～/PUNCT
+against/VERB foreigners/VERB 对/ADP 外国人/NOUN 的/PART 偏见/NOUN
+
+preliminary/NOUN a/NUM ./PUNCT 预备/VERB 的/PART ，/PUNCT
+初步/ADJ 的/PART
+
+pass/NOUN the/DET ～/PUNCT examinations/NOUN 通过/ADP
+初试/ADJ
+
+rebel/NOUN n/NOUN ./PUNCT
+反叛/NOUN 分子/NOUN ，/PUNCT
+反对者/NOUN
+
+a/NUM ～/PUNCT army/NOUN 叛军/NOUN
+
+vi/VERB ./PUNCT
+①/NOUN 反叛/VERB ，/PUNCT 造反/VERB ②/NUM 反对/NOUN ，/PUNCT 不服/ADV 从/ADP
+
+～/PUNCT
+against/VERB the/DET dictator/NOUN 反抗/VERB 独裁者/NOUN
+
+～/PUNCT
+against/VERB army/PROPN discipline/PROPN 不服/ADV 从/ADP 军纪/NOUN
+
+recall/ADV vt/VERB ./PUNCT
+①/NUM 回忆/VERB ，/PUNCT 回想/VERB ②/NUM 召回/NOUN ，/PUNCT 撤消/VERB ，/PUNCT 收回/NOUN
+
+～/PUNCT
+the/DET child/NOUN hood/NOUN 回忆/VERB
+童年/NOUN
+
+～/PUNCT an/DET ambassador/PROPN from/ADP abroad/PROPN 从/ADP 国外/NOUN 召回/VERB 大使/NOUN
+
+salary/VERB n/NOUN ./PUNCT
+薪金/NOUN ，/PUNCT 薪水/NOUN
+
+rece/NOUN ive/NOUN a/NUM ～/PUNCT
+of/ADP 500/NUM pounds/NOUN a/NUM month/NOUN 每月/ADJ 工资/NOUN 500/NUM 英镑/NUM
+
+sale/VERB n/NOUN ./PUNCT
+①卖/NOUN ，/PUNCT 出售/VERB ②/NUM 廉价/ADV 出售/VERB ③(/PUNCT 常/ADJ pl/NOUN ./PUNCT
+)/PROPN 销售额/NOUN
+
+cash/PROPN ～/PUNCT 现金/NOUN 买卖/NOUN
+
+a/NUM ～/NOUN on/ADP TV/PROPN sets/VERB 电视机/NOUN 大/ADV 减价/NOUN
+
+today＇s/NOUN satisfactory/VERB ～s/NOUN 今天/NOUN 令/VERB 人/NOUN 满意/VERB 的/PART 销售额/NOUN
+
+simplify/NOUN vt/VERB ./PUNCT
+简化/VERB
+
+～/PUNCT approval/PROPN procedures/NOUN 简化/VERB 审批/NOUN 手续/NOUN
+
+sincere/NOUN a/NUM ./PUNCT 诚挚/ADJ 的/PART ，/PUNCT 真诚/VERB 的/PART
+，/PUNCT 诚恳/VERB 的/PART
+
+have/PROPN a/NOUN ～/PUNCT desire/NOUN to/ADP help/NUM 真心/ADJ 诚意/NOUN 地/PART 想/VERB 帮忙/VERB
+
+temper/ADJ n/NOUN ./PUNCT
+脾气/NOUN ，/PUNCT 情绪/NOUN
+
+in/ADP a/NUM bad/PROPN ～/PUNCT 情绪/NOUN 不/ADV 好/VERB
+
+temporary/NOUN a/NUM ./PUNCT
+暂时/ADJ 的/PART ，/PUNCT
+临时/ADJ 的/PART
+
+～/PUNCT
+address/NOUN 临时/ADJ 住址/NOUN
+
+ty/NOUN pe/VERB n/NOUN ./PUNCT
+①类型/VERB ，/PUNCT 种类/NOUN ，/PUNCT 品种/NOUN ②铅/NOUN 字/NOUN
+
+various/VERB ～s/NOUN of/ADP car/PROPN 各种/ADJ 型号/NOUN 的/PART 车/NOUN
+
+print/NOUN a/NUM book/NOUN in/ADP large/NOUN ～/PUNCT 用/ADP 大号/NOUN 字体/NOUN 印刷/VERB 一/NUM 本书/NOUN
+
+vt/VERB ./PUNCT
+用/ADP 打字机/NOUN 打/VERB
+
+～/PUNCT a/NOUN contract/NOUN 打/VERB 一/NUM 份/NUM 合同/NOUN
+
+vi/VERB ./PUNCT
+打字/VERB
+
+～/PUNCT
+very/ADP well/PROPN 打字/VERB 打/VERB 得/PART 很/ADV 好/VERB
+
+typical/NOUN a/NUM ./PUNCT
+典型/VERB 的/PART ，/PUNCT 有/VERB 代表性/NOUN 的/PART
+
+the/DET mountain/NOUN scenery/NOUN ～/PUNCT
+of/ADP Guilin/PROPN 桂林/PROPN 很/ADV 有/VERB 代表性/NOUN 的/PART 山景/NOUN
+
+underground/PROPN a/PART ./PUNCT ①地/NOUN (面/NOUN )下/PROPN 的/PART ②/NUM 秘密/ADJ 的/PART ，/PUNCT 不/ADV 公开/VERB 的/PART
+
+～/PUNCT
+passage/NOUN 地下/ADJ 通道/NOUN
+
+～/PUNCT
+organizations/NOUN 秘密/ADV 组织/VERB
+
+ad/ADV ./PUNCT
+①/NUM 在/VERB 地/PART (面/NOUN )下/PROPN ②/NUM 秘密/VERB 地/PART
+
+spend/VERB most/NOUN of/ADP someone＇s/ADJ time/NOUN ～/PUNCT 在/ADP 地下/NOUN 度过/VERB 大部分/NUM 的/PART 时间/NOUN
+
+pass/NOUN on/ADP news/PROPN ～/PUNCT 秘密/ADV 传播/VERB 消息/NOUN
+
+n/NOUN ./PUNCT
+地铁/NOUN
+
+go/NOUN by/NOUN ～/NOUN 乘/VERB 地铁/NOUN
+
+underline/PROPN vt/VERB ./PUNCT
+①/NUM 强调/VERB ②/NUM 在/VERB ……/PUNCT
+下面/NOUN 画线/NOUN
+
+～/PUNCT
+several/VERB points/NOUN in/NOUN one餾/NOUN talk/NOUN 在/ADP 讲话/NOUN 中/PART 强调/VERB 几点/NOUN
+
+～/PUNCT
+the/DET unnecessary/PROPN words/NOUN 在/ADP 多余/ADJ 的/PART 词/NOUN 下面/NOUN 画线/NOUN
+
+witness/NOUN n/NOUN ./PUNCT
+①/NUM 目击者/NOUN ②证人/NOUN ，/PUNCT 见证人/NOUN
+
+～es/PUNCT of/ADP the/DET accident/NOUN 事故/NOUN 目击者/NOUN
+
+a/NUM ～/PUNCT summoned/NOUN to/ADP appear/DET in/ADP court/PROPN 一/NUM 位/NUM 被/X 传唤/VERB 出庭/VERB 的/PART 证人/NOUN
+
+vt/VERB ./PUNCT
+①/NUM 目击/VERB ，/PUNCT 注意/VERB 到/VERB ②/NOUN 做/VERB ……/PUNCT 的/PART 证人/NOUN
+
+～/PUNCT
+the/DET robbing/NOUN of/ADP the/DET bank/PROPN 目睹/NOUN 银行/NOUN 抢劫/VERB
+
+～/PUNCT the/DET truth/NOUN of/ADP one＇s/ADP statement/NOUN 证明/VERB 某人/PRON 的/PART 陈述/NOUN 真实/VERB
+
+worship/VERB n/NOUN .//NOUN vt/VERB ./PUNCT
+①/NOUN 崇拜/VERB ，/PUNCT 崇敬/VERB ②敬奉/NOUN ，/PUNCT 信奉/NOUN
+
+～/PUNCT
+Bill/NOUN Gates/PROPN 崇拜/VERB 比尔•盖茨/PUNCT
+
+～/PUNCT
+God/VERB 膜拜/VERB 上帝/PROPN
+
+三/NUM 、/PUNCT 词汇/NOUN 验收/NOUN ：/PUNCT 从/ADP A/NOUN 、/PUNCT B/NOUN 、/PUNCT C/NOUN 、/PUNCT D/NOUN 四/NUM 个/NUM 选项/NOUN 中/PART 选出/VERB 正确/VERB 的/PART 单词/NOUN 来/PART 完成/VERB 句子/ADJ (如/NOUN 未能/ADV 选对/NOUN ，/PUNCT 请/VERB 回到/VERB “/PUNCT 词汇/NOUN 过关/VERB ”/PUNCT
+
+部分/NOUN 继续/VERB 熟记/VERB 该/DET 词)/NOUN 。/PUNCT
+
+1./NOUN The/DET teacher/NOUN lost/NOUN his/NOUN just/NOUN because/NOUN that/NOUN student/NOUN was/NOUN ten/NOUN minutes/NOUN late/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+mood/NUM B/NOUN ./PUNCT
+temper/NOUN 　/SPACE C/NOUN ./PUNCT
+passion/NOUN 　/SPACE D/NOUN ./PUNCT
+mind/NOUN
+
+2/NUM ./PUNCT Scandinavian/PROPN countries/NOUN are/VERB 　 /SPACE welfare/ADV states/VERB ，/PUNCT where/NOUN taxes/NOUN are/VERB high/PROPN and/CCONJ
+
+many/ADJ social/NOUN services/NOUN are/VERB free/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+tropical/NOUN 　/SPACE B/NOUN ./PUNCT
+typical/NOUN C/NOUN ./PUNCT
+obvious/VERB D/NOUN ./PUNCT
+transparent/NOUN
+
+3/NUM ./PUNCT For/NOUN three/PROPN successive/NOUN years/VERB ，/PUNCT the/DET annual/ADP 　 /SPACE of/ADP increase/PROPN has/PROPN been/NOUN over/VERB
+
+9%/PUNCT ./PUNCT
+
+A/NOUN ./PUNCT
+rate/ADJ B/NOUN ./PUNCT
+pace/NOUN C/NOUN ./PUNCT
+step/NOUN D/NOUN ./PUNCT
+ratio/NOUN
+
+4./NUM My/ADJ son/NOUN was/NOUN practicing/NOUN on/CCONJ an/PROPN old/NOUN typewriter/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+typing/NOUN B/NOUN ./PUNCT
+counting/PROPN C/NOUN ./PUNCT
+sewing/NOUN D/NOUN ./PUNCT
+writing/VERB
+
+5./NUM He/NUM was/NOUN engaged/VERB at/ADP a/NUM 　 /SPACE of/ADP 100/NUM 000/NUM dollars/NOUN a/NUM year/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+savings/VERB B/NOUN ./PUNCT
+salary/VERB C/NOUN ./PUNCT deposit/NOUN D/NOUN ./PUNCT
+commission/VERB
+
+6/NUM ./PUNCT
+Henry/INTJ bought/PROPN a/NUM telescope/NOUN to/ADP 　 /SPACE the/DET stars/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+worship/VERB B/NOUN ./PUNCT
+observe/NOUN C/NOUN ./PUNCT
+witness/NOUN D/X ./PUNCT
+measure/NOUN
+
+7./NUM We/NUM have/NOUN an/NOUN 　 /SPACE amount/ADV of/ADP work/NOUN to/ADP do/VERB if/NOUN we/NOUN want/VERB to/ADP finish/VERB it/NOUN on/NOUN time/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+exact/NUM B/NOUN ./PUNCT
+exclusive/VERB 　/SPACE C/NOUN ./PUNCT
+immense/NOUN 　/SPACE D/NOUN ./PUNCT
+intensive/VERB
+
+8/NUM ./PUNCT
+He/VERB is/VERB good/ADV at/ADP answering/ADJ that/NOUN 　 /SPACE of/ADP questions/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+variety/VERB B/NOUN ./PUNCT
+trial/NOUN C/NOUN ./PUNCT
+figure/VERB D/X ./PUNCT
+ty/NOUN pe/VERB
+
+9/NUM ./PUNCT
+We＇d/NOUN like/PROPN to/ADP 　 /SPACE a/NUM table/NOUN for/ADP five/PROPN for/ADP dinner/NOUN this/PRON evening/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+grant/PROPN B/NOUN ./PUNCT
+reserve/PROPN 　/SPACE C/NOUN ./PUNCT
+retain/NOUN 　 /SPACE D/X ./PUNCT
+oc/PROPN cupy/PROPN
+
+10/NUM ./PUNCT
+The/DET President/NOUN 　 /SPACE Congress/NOUN of/ADP the/DET delay/NUM in/ADP passing/NOUN his/PROPN bill/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+scolded/NOUN 　/SPACE B/NOUN ./PUNCT
+criticized/NOUN 　/SPACE C/NOUN ./PUNCT
+scared/PROPN 　/SPACE D/NOUN ./PUNCT
+accused/PROPN
+
+11/NUM ./PUNCT
+You/PRON should/ADV hire/VERB a/NUM more/NOUN 　 /SPACE manager/NOUN than/VERB the/DET one/NOUN you/PRON currently/VERB have/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+sufficient/NOUN 　/SPACE B/NOUN ./PUNCT
+effective/VERB 　/SPACE C/NOUN ./PUNCT
+efficient/NOUN 　 /SPACE D/NOUN ./PUNCT
+respective/PROPN
+
+12/NUM ./PUNCT
+It/NOUN is/VERB quite/NOUN 　 /SPACE of/ADP beginners/NOUN to/ADP forget/VERB to/ADP use/NOUN an/NOUN article/NOUN before/VERB a/NUM
+
+noun/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+specify/NOUN B/NOUN ./PUNCT
+modest/NOUN C/NOUN ./PUNCT
+typical/NOUN D/NOUN ./PUNCT
+vigorous/VERB
+
+13/NUM ./PUNCT
+The/DET mountain/NOUN is/VERB of/ADP 2/NUM 000/NUM me/NOUN tres/NOUN above/NOUN sea/NOUN level/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+height/NOUN B/NOUN ./PUNCT
+altitude/ADJ C/NOUN ./PUNCT
+at/VERB tribute/ADJ D/NOUN ./PUNCT
+dimension/VERB
+
+14/NUM ./PUNCT
+This/PRON is/VERB a/NUM public/ADJ holiday/PROPN —/PUNCT there/NOUN is/VERB no/NOUN 　 /SPACE of/ADP rubbish/PROPN today/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+combination/NOUN B/NOUN ./PUNCT
+separation/NOUN C/NOUN ./PUNCT
+collection/NOUN D/NOUN ./PUNCT
+assembly/PROPN
+
+15/NUM ./PUNCT
+Bronze/PROPN is/VERB a/NUM 　 /SPACE metal/NOUN made/NOUN of/ADP copper/PROPN and/CCONJ tin/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+complex/NOUN B/NOUN ./PUNCT
+compound/NOUN C/NOUN ./PUNCT
+fluid/VERB D/NOUN ./PUNCT
+dynamic/PROPN
+
+16/NUM ./PUNCT
+This/DET medicine/NOUN is/VERB against/NOUN cancer/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+effective/VERB B/NOUN ./PUNCT
+efficient/NOUN C/NOUN ./PUNCT
+evident/VERB D/NOUN ./PUNCT
+remarkable/PROPN
+
+17/NUM ./PUNCT
+The/DET daughter/NOUN went/NOUN shopping/NOUN ;/VERB ，/PUNCT her/NOUN mother/NOUN cooked/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+once/ADV in/VERB a/NOUN whileB/NOUN ./PUNCT from/ADP time/NOUN to/ADP timeC/VERB ./PUNCT
+rarely/NOUN D/NOUN ./PUNCT
+meanwhile/NOUN
+
+18/NUM ./PUNCT
+The/DET old/ADJ building/ADJ was/NOUN surrounded/VERB by/ADP an/PROPN enormous/VERB garden/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+grant/PROPN B/NOUN ./PUNCT
+grand/PROPN C/NOUN ./PUNCT
+utmost/NOUN D/NOUN ./PUNCT
+ul/VERB timate/NOUN
+
+19/NUM ./PUNCT After/PROPN a/DET 　 /SPACE he/ADP continued/NOUN his/NOUN story/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+process/VERB B/NOUN ./PUNCT
+trial/NOUN C/NOUN ./PUNCT
+pause/NOUN D/NOUN ./PUNCT
+ratio/ADV
+
+20/NUM ./PUNCT
+Paul/PROPN strongly/NOUN denied/NOUN that/NOUN he/ADP was/NOUN guilty/NOUN of/ADP innocent/NOUN customers/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+robbing/ADJ B/NOUN ./PUNCT
+deriving/NOUN C/NOUN ./PUNCT
+grasping/VERB D/NOUN ./PUNCT
+cheating/VERB
+
+21/NUM ./PUNCT
+We/NOUN should/VERB make/NOUN every/ADV effort/VERB to/ADP develop/PROPN 　 /SPACE energy/NOUN sources/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+dense/NOUN B/NOUN ./PUNCT
+favourable/NOUN C/NOUN ./PUNCT
+preferable/NOUN D/NOUN ./PUNCT
+alternative/VERB
+
+22/NUM ./PUNCT
+The/DET building/NOUN is/VERB said/NOUN 　 /SPACE in/ADP a/NUM fire/ADJ two/NOUN weeks/PROPN a/NUM go/NOUN ./PUNCT
+
+A/X ./PUNCT
+to/ADP have/PROPN destroyed/NOUN 　/SPACE B/NOUN ./PUNCT
+that/ADV was/NOUN destroyed/PROPN
+
+C/NOUN ./PUNCT
+to/ADP have/PROPN been/PROPN destroyed/PROPN 　/SPACE D/NOUN ./PUNCT
+to/ADP be/PROPN destroyed/PROPN
+
+23/NUM ./PUNCT
+A/NOUN man/NOUN 　 /SPACE her/PROPN for/NUM ￡/VERB 80/NUM by/CCONJ selling/PROPN her/PROPN a/NUM watch/ADJ which/PROPN
+did/PROPN not/PROPN work/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+concealed/NOUN B/NOUN ./PUNCT
+revealed/NOUN C/NOUN ./PUNCT
+cheated/NOUN D/NOUN ./PUNCT
+exposed/VERB
+
+24/NUM ./PUNCT
+She/NOUN was/NOUN 　 /SPACE in/ADP spite/NOUN of/ADP her/PROPN illness/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+satisfactory/VERB B/NOUN ./PUNCT
+cheerful/NOUN 　 /SPACE C/NOUN ./PUNCT
+cheering/PROPN 　/SPACE D/NOUN ./PUNCT
+content/VERB
+
+25/NUM ./PUNCT
+We/NOUN won/NOUN the/DET game/NOUN through/VERB a/NOUN 　 /SPACE effort/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+collective/NOUN 　 /SPACE B/NOUN ./PUNCT
+personal/NOUN 　/SPACE C/NOUN ./PUNCT
+staff/NOUN D/NOUN ./PUNCT
+private/VERB
+
+26/NUM ./PUNCT
+To/NOUN spend/VERB one/NOUN night/NOUN at/ADP one/NOUN of/ADP those/NOUN 　 /SPACE hotels/VERB in/ADP the/DET downtown/NOUN are/VERB a/NUM will/NOUN
+
+cost/NOUN you/PRON more/ADV than/NOUN $/NOUN 100/NUM ./PUNCT
+
+A/NOUN ./PUNCT
+extra/NOUN 　 /SPACE B/NOUN ./PUNCT brilliant/NOUN C/NOUN ./PUNCT royal/NOUN D/NOUN ./PUNCT
+grand/PROPN
+
+27/NUM ./NOUN
+A/NOUN paperback/NOUN of/ADP a/DET book/NOUN is/VERB much/ADJ cheaper/ADJ than/NOUN a/NUM hardback/PROPN edition/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+edition/VERB B/NOUN ./PUNCT copy/PROPN C/NOUN ./PUNCT version/VERB D/NOUN ./PUNCT
+ty/NOUN pe/VERB
+
+28/NUM ./PUNCT
+Qingdao/PROPN ，/PUNCT being/VERB a/NUM famous/NOUN summer/NOUN ，/PUNCT is/VERB very/VERB crowded/PROPN in/NOUN summer/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+resort/ADJ B/NOUN ./PUNCT region/NOUN C/NOUN ./PUNCT
+spot/NOUN D/NOUN ./PUNCT
+bond/PROPN
+
+29/NUM ./PUNCT
+The/DET statistical/NOUN figures/PRON in/ADP that/NOUN report/NOUN are/VERB not/PROPN ./PUNCT
+You/PRON should/PROPN not/PROPN refer/VERB
+
+to/ADP them/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+direct/NOUN B/NOUN ./PUNCT
+precise/NOUN C/NOUN ./PUNCT
+accurate/VERB D/NOUN ./PUNCT
+perfect/NOUN
+
+30/NUM ./PUNCT
+Petrol/PROPN is/VERB very/VERB light/VERB ，/PUNCT and/CCONJ it/NOUN 　 /SPACE easily/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+spreads/NOUN B/NOUN ./PUNCT
+scatters/NOUN C/NOUN ./PUNCT
+spills/NOUN D/NOUN ./PUNCT
+evaporates/VERB
+
+31/NUM ./PUNCT
+The/DET ship/NOUN was/NOUN badly/VERB and/CCONJ they/NOUN had/NOUN to/ADP return/NOUN to/ADP the/DET port/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+leaking/NOUN B/NOUN ./PUNCT
+leaning/NOUN C/NOUN ./PUNCT
+penetrating/NOUN D/NOUN ./PUNCT
+spreading/NOUN
+
+32/NUM ./PUNCT
+Most/VERB train/NOUN tickets/NOUN arefor/NUM two/NOUN to/ADP five/PROPN days/NOUN ，/PUNCT depending/NOUN on/ADP the/DET distance/NOUN
+
+you/PRON travel/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+legal/NOUN B/NOUN ./PUNCT
+efficient/NOUN 　/SPACE C/NOUN ./PUNCT
+suitable/NOUN 　/SPACE D/NOUN ./PUNCT
+valid/NOUN
+
+33/NUM ./PUNCT We/NOUN will/VERB settle/NOUN the/DET dispute/NOUN by/ADP peaceful/PROPN 　 /SPACE ./PUNCT
+
+A/NOUN ./PUNCT
+means/NOUN B/NOUN ./PUNCT
+manners/NOUN 　 /SPACE C/NOUN ./PUNCT
+rules/VERB D/NOUN ./PUNCT
+paths/NOUN
+
+34/NUM ./PUNCT
+When/PROPN the/DET federal/NOUN government/PROPN refused/PROPN this/PRON request/NOUN ，/PUNCT the/DET Southern/PROPN states/NOUN
+
+./PUNCT
+
+A/NOUN ./PUNCT
+rebelled/ADJ B/NOUN ./PUNCT
+roused/PROPN C/NOUN ./PUNCT
+aroused/NOUN D/NOUN ./PUNCT
+awoke/VERB
+
+35/NUM ./PUNCT
+The/DET government/NOUN 　 /SPACE the/DET m/PUNCT permission/NOUN to/ADP leave/NOUN the/PRON country/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+supplied/NOUN B/NOUN ./PUNCT
+granted/NOUN C/NOUN ./PUNCT
+allowed/ADJ D/NOUN ./PUNCT
+admitted/ADV
+
+36/NUM ./PUNCT
+I/PRON shall/NOUN 　 /SPACE my/VERB order/NOUN for/ADP a/NOUN new/PROPN coat/PROPN because/NOUN my/VERB wife/VERB has/PROPN bought/PROPN me/PRON one/NOUN
+
+from/ADP abroad/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+stress/NOUN B/NOUN ./PUNCT
+stretch/NOUN 　 /SPACE C/NOUN ./PUNCT recall/VERB D/NOUN ./PUNCT
+retire/NOUN
+
+37/NUM ./PUNCT
+He/VERB was/NOUN one/VERB of/ADP the/DET of/ADP the/DET accident/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+arrivals/ADJ B/NOUN ./PUNCT
+giants/PROPN C/NOUN ./PUNCT
+witnesses/VERB 　/SPACE D/NOUN ./PUNCT
+rece/NOUN ivers/PROPN
+
+38/NUM ./PUNCT
+In/NOUN some/NOUN parts/NOUN of/ADP the/DET world/NOUN ，/PUNCT goats/NOUN ，/PUNCT rather/ADJ than/NOUN cows/VERB ，/PUNCT serve/VERB as/VERB a/NUM vital/NOUN
+
+of/ADP milk/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+resource/NOUN B/NOUN ./PUNCT
+fountain/VERB C/NOUN ./PUNCT
+source/NOUN D/NOUN ./PUNCT
+out/ADP come/PROPN
+
+39/NUM ./PUNCT
+The/DET storage/NOUN 　 /SPACE of/ADP this/PRON reservoir/NOUN is/VERB two/NUM million/NOUN cubic/NOUN meters/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+sale/VERB B/NOUN ./PUNCT
+facility/ADJ 　/SPACE C/NOUN ./PUNCT
+quantity/VERB D/NOUN ./PUNCT
+capacity/PROPN
+
+40/NUM ./PUNCT
+Farming/PROPN demands/NOUN 　 /SPACE forecasts/VERB of/ADP the/DET weather/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+definite/PROPN 　/SPACE B/NOUN ./PUNCT
+accurate/PROPN C/NOUN ./PUNCT approximate/NOUN D/NOUN ./PUNCT
+positive/NOUN
+
+Key/NOUN :/PUNCT 　/SPACE 1/NUM —/PUNCT 10/NUM BBA/PROPN ABB/PROPN CDBD/NOUN 11/NUM —/PUNCT 20/NUM 　/SPACE CCBCB/PUNCT 　/SPACE ADBCD/NOUN
+
+21/NUM —/PUNCT 30/NUM D/NOUN CCBADAA/PROPN CD/NOUN 31/NUM —/PUNCT 40/NUM 　/SPACE ADAA/NOUN B/NOUN 　/SPACE CCCDB/NOUN

@@ -1,0 +1,26 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE SUM/NOUN MARY/PROPN OF/PROPN QUALI/NOUN FICATION/PROPN S/NOUN 　　/SPACE Demonstrated/NOUN ability/PROPN in/ADP the/DET provision/NOUN of/ADP sales/NOUN support/NOUN services/VERB ./PUNCT
+Includes/NOUN e/NOUN stablishment/NOUN of/ADP the/DET client/NOUN base,extensive/ADJ customer/NOUN servicing,telemarketing,cold/PUNCT calling/NOUN and/CCONJ sales/NOUN territory/NOUN development/VERB ./PUNCT
+　　/SPACE Consistently/NOUN met/exce/PUNCT eded/PROPN sales/NOUN goals/PROPN and/CCONJ instituted/NOUN sales/PROPN programs;sales/PROPN increased/PROPN from/ADP $/NOUN 8/NUM to/NUM $/NOUN 25/NUM million/NOUN ./PUNCT
+　　/SPACE Thorough/PROPN knowledge/VERB of/ADP management/NOUN production/NOUN ;assure/VERB timely/NOUN and/CCONJ accurate/NOUN presentation/NOUN of/ADP goods;adept/PROPN at/ADP coordinating/PROPN delivery/NOUN processes,organization/NOUN of/ADP delivery/NOUN schedules/NOUN and/CCONJ monitoring/NOUN delivery/NOUN personnel/NOUN ./PUNCT
+　　/SPACE Extensive/NOUN experience/VERB in/ADV facilitating/VERB operational/NOUN procedures/NOUN ,/PUNCT Respond/PROPN to/ADP customer/VERB complaint/VERB s;resolve/NOUN problem/VERB element/NUM s;interact/VERB with/ADP credit/NOUN department/VERB to/ADP ascertain/PROPN customer/NOUN ac/ADP count/NOUN status/VERB ./PUNCT Handle/PROPN sourcing/NOUN of/ADP vendors,contract/VERB negotiation/PROPN ,/PUNCT purchasing,correspondence/NOUN ,/PUNCT ac/ADP count/NOUN adjustments/NOUN and/CCONJ inventory/ADJ control/NOUN ./PUNCT
+　　/SPACE Exceptional/PROPN communication/NOUN //PUNCT interpersonal/ADJ and/CCONJ organizational/NOUN skills/NOUN ./PUNCT
+　　/SPACE EX/PROPN PER/NOUN I/PRON ENCE/NOUN 　　/SPACE 1989/NOUN -/PUNCT Present/PROPN OX/PROPN BRID/NOUN GE/NOUN ,/PUNCT INC/PROPN ./PUNCT
+　　/SPACE Interface/VERB with/VERB merchandising/NUM personnel,at/NUM all/DET levels/VERB ,/PUNCT and/CCONJ provide/VERB technical/ADJ information/NOUN on/ADP company/PROPN products/NOUN and/CCONJ services/NOUN ./PUNCT
+　　/SPACE Interact/NOUN with/ADV customers,providing/PROPN advice/VERB in/ADP the/DET selection/NOUN of/ADP products/NOUN ./PUNCT
+Monitor/PROPN production/NOUN to/ADP ensure/NOUN realization/NOUN of/ADP customer/PROPN specifications/NOUN ./PUNCT
+　　/SPACE Collaborate/PROPN with/ADV contracting/VERB merchandisers/PROPN for/ADP contract/PROPN negotiation/PROPN on/CCONJ supplies/NOUN ./PUNCT
+Conduct/PROPN extensive/ADJ materials/NOUN costing/NOUN processes/VERB ./PUNCT
+　　/SPACE Coordinate/PROPN delivery/NOUN schedules/NOUN and/CCONJ monitor/PROPN delivery/NOUN personnel/NOUN ./PUNCT
+　　/SPACE Organize/NOUN promotional/PROPN demonstration/NOUN activities/ADJ for/ADP home/NOUN and/CCONJ Hew/NOUN York/PROPN marketing/ADJ office/NOUN ./PUNCT
+　　/SPACE Respond/PROPN to/ADP and/CCONJ resolve/NOUN customer/NOUN complaints/VERB ./PUNCT
+　　/SPACE Manage/NOUN office/NOUN operations/NOUN and/CCONJ produce/NOUN correspondence/NOUN ./PUNCT
+　　/SPACE Control/NOUN stock/NOUN and/CCONJ conduct/PROPN purchasing/NOUN procedures/NOUN ./PUNCT
+　　/SPACE Assist/NOUN sales/NOUN department/NOUN in/ADP e/ADJ stablishing/NOUN client/VERB base/sales/NUM territories/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE 1993/NOUN -/PUNCT Present/PROPN PROPHET/NOUN JUN/PROPN IOR/PROPN COLLEGE/NOUN 　　/SPACE Associate/PROPN Degree/NUM Program/PROPN 　　/SPACE Computer/PROPN Operations/NOUN Program/NOUN :/PUNCT Lotus/PROPN 1-2/NUM -3/NUM ,/PUNCT Database/PROPN III,Typing/VERB ,/PUNCT Word/NOUN -/PUNCT processing(/NOUN Multimate)/NOUN ,/PUNCT Business/PROPN Math/PROPN ,/PUNCT S/NOUN peech/NOUN Communication/NOUN ,/PUNCT Introduction/VERB to/ADP Computers/PROPN and/CCONJ English/PROPN Composition/NOUN ./PUNCT
+　　/SPACE Notice/PROPN 　　/SPACE Background/PROPN summary/VERB accentuates/VERB candidate/NOUN 's/VERB acquired/PROPN professional/ADJ skills/NOUN and/CCONJ impressive/PROPN track/NOUN record/PROPN ./PUNCT
+　　/SPACE Listing/PROPN relevant/NOUN courses/PROPN adds/ADJ weight/NOUN to/ADP candidate/VERB 's/VERB educational/ADJ credentials/NOUN ./PUNCT 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 简历/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+5/NUM ,/PUNCT 474/NUM ,/PUNCT 793/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

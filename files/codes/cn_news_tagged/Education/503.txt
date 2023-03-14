@@ -1,0 +1,152 @@
+Oxford/PROPN and/CCONJ Cambridge/PROPN are/VERB the/DET oldest/NOUN and/ADP most/NOUN famous/NOUN universities/NOUN in/NOUN
+
+Brita/NOUN in/NOUN ,/PUNCT and/ADV there/NOUN has/PROPN always/PROPN been/NOUN a/NUM great/NOUN rivalry/NOUN between/VERB the/DET two/NOUN institutions/NOUN ./PUNCT
+
+But/NOUN the/DET most/NOUN public/ADJ competition/NOUN between/VERB the/DET two/NOUN is/VERB the/DET annual/VERB Boat/PROPN Race/NOUN ./PUNCT
+The/DET
+
+2006/NOUN Boat/PROPN Race/NOUN will/NOUN take/NOUN place/NOUN on/CCONJ 2nd/NOUN April/PROPN ,/PUNCT and/ADV will/VERB be/ADP the/DET 152nd/NUM race/NOUN of/ADP its/PROPN
+
+kind/VERB ./PUNCT
+
+Both/NOUN universities/PROPN are/VERB located/NUM near/ADJ rivers/NOUN ,/PUNCT and/CCONJ rowing/NOUN is/VERB a/NUM popular/NOUN and/CCONJ
+
+prestigious/NOUN sport/NOUN ./PUNCT
+The/DET very/ADJ first/ADP race/NOUN took/NOUN place/NOUN in/NOUN 1829/NUM ,/PUNCT when/PROPN a/NUM Cambridge/PROPN
+
+student/NOUN challenged/PROPN a/NUM school/NOUN -/PUNCT friend/VERB studying/VERB at/ADV Oxford/PROPN ./PUNCT
+Ever/NOUN since/VERB ,/PUNCT the/DET defeated/PROPN
+
+team/NOUN from/ADP the/DET p/NOUN revious/NOUN year/VERB challenges/NOUN the/DET opposition/NOUN to/ADP a/NUM rematch/NOUN ./PUNCT
+The/DET only/NOUN
+
+times/NOUN when/PROPN no/NOUN Boat/PROPN Races/PROPN took/NOUN place/ADJ were/NOUN during/NOUN the/DET Firs/NOUN and/CCONJ Second/PROPN World/PROPN
+
+Wars/NOUN ./PUNCT
+
+The/DET race/NOUN is/VERB between/VERB two/ADP crews/NOUN of/ADP eight/VERB oarsmen/VERB ,/PUNCT each/VERB led/PROPN by/ADP a/NOUN cox/NOUN ,/PUNCT who/NOUN
+
+steers/VERB ,/PUNCT and/CCONJ gives/PROPN com/PROPN mands/NOUN to/ADP the/DET rowers/NOUN ./PUNCT
+Since/PROPN 1836/NUM ,/PUNCT the/DET rowing/NOUN eights/VERB have/PROPN
+
+worn/PROPN different/NOUN shades/NOUN of/ADP blue/PROPN –/PUNCT Oxford/PROPN wear/PROPN dark/NOUN blue/NOUN and/CCONJ Cambridge/PROPN light/NOUN blue/NOUN ./PUNCT
+
+As/NOUN a/NUM result/NOUN ,/PUNCT the/DET rowers/NOUN are/VERB known/PROPN as/VERB the/DET Blues/NOUN ./PUNCT
+
+The/DET Boat/PROPN Race/NOUN was/NOUN initially/NOUN held/PRON on/ADP the/DET River/NOUN Thames/PROPN at/ADP Westminster/PROPN in/NOUN
+
+central/VERB London/PROPN ,/PUNCT but/PROPN due/NOUN to/ADV overcrowding/VERB ,/PUNCT it/ADV was/NOUN moved/VERB to/ADP further/NOUN upstream/PROPN near/NOUN
+
+Putney/PROPN ,/PUNCT in/ADP South/PROPN West/NOUN London/PROPN ,/PUNCT and/CCONJ the/DET course/NOUN is/ADP just/PROPN under/PROPN 5/NUM miles/NUM long/VERB ./PUNCT
+The/DET
+
+average/PROPN race/PROPN time/NOUN is/VERB 20/NUM minutes/NUM ,/PUNCT but/ADV the/DET record/ADV is/VERB just/PROPN over/VERB 16/NUM minutes/NUM ./PUNCT
+
+Over/PROPN the/DET years/VERB that/VERB the/DET two/ADP universities/NOUN have/NOUN gone/NOUN head/NOUN -/PUNCT to/ADP -/PUNCT head/NOUN on/ADP the/DET
+
+river/NOUN ,/PUNCT Oxford/PROPN have/NOUN won/NOUN 70/NUM times/VERB ,/PUNCT and/CCONJ Cambridge/PROPN have/NOUN had/PROPN 77/NUM wins/VERB ./PUNCT
+Only/PROPN once/VERB there/NOUN
+
+was/NOUN a/NUM dead/NOUN heat/NOUN ./PUNCT
+There/PROPN have/NOUN been/NOUN three/PROPN oc/PROPN casions/NOUN when/PROPN one/NOUN of/ADP the/DET boats/NOUN sank/NOUN and/CCONJ
+
+forfeited/VERB the/DET race/NOUN ./PUNCT
+
+The/DET race/NOUN is/VERB a/NUM very/ADJ popular/ADJ spectator/NOUN event/VERB ,/PUNCT with/ADV around/ADV 250/NUM ,/PUNCT 000/NUM people/NOUN
+
+going/VERB to/ADP the/DET Thames/PROPN to/ADP watch/VERB ,/PUNCT and/CCONJ several/NOUN million/NOUN more/NOUN watching/NOUN on/NOUN
+
+television/NOUN ./PUNCT
+
+The/DET training/NOUN for/ADP the/DET race/NOUN is/VERB very/VERB tough/NOUN ,/PUNCT and/CCONJ rowers/PROPN start/NOUN practising/NOUN in/NOUN
+
+September/PROPN in/ADJ order/NOUN to/ADP try/NOUN to/ADP win/PROPN a/NUM place/NOUN on/ADP the/DET Blue/NOUN Boats/NOUN ./PUNCT
+Those/PROPN who/NOUN don/PROPN ’t/VERB ’/PUNCT
+
+quite/VERB make/NOUN the/DET grade/VERB become/PROPN the/DET reserve/NOUN team/NOUN ,/PUNCT who/NOUN race/NOUN before/ADP the/DET main/NOUN teams/NOUN on/NOUN
+
+race/NOUN day/PROPN ./PUNCT
+Who/NOUN will/NOUN win/NOUN this/PRON year/VERB ?/PUNCT
+
+rivalry/PROPN
+
+竞争/NOUN 对手/NOUN
+
+institutions/NOUN
+
+（/PUNCT 牛津/PROPN 和/CCONJ 剑桥/PROPN ）/PUNCT 大学/NOUN ；/PUNCT 机构/NOUN
+
+of/ADP its/PROPN kind/NOUN
+
+此类/ADV
+
+rowing/NOUN
+
+划船/VERB
+
+prestigious/NOUN
+
+享誉/VERB 高/VERB 的/PART
+
+challenged/PROPN
+
+挑战/VERB
+
+opposition/NOUN
+
+对手/NOUN
+
+rematch/NOUN
+
+再次/ADV 比赛/NOUN
+
+crews/NOUN
+
+划艇/VERB 队员/NOUN
+
+oarsmen/VERB
+
+划桨人/NOUN
+
+initially/PROPN
+
+开始/VERB ；/PUNCT
+最初/ADV
+
+overcrowding/NOUN
+
+过分/ADV 拥挤/VERB 的/PART
+
+upstream/PROPN
+
+逆流/NOUN
+
+record/ADV
+
+纪录/NOUN
+
+head/VERB -/PUNCT to/ADP -/PUNCT head/VERB
+
+并驾齐驱/VERB
+
+a/NUM dead/NOUN heat/NOUN
+
+同时/ADV 抵达/VERB 终点/NOUN
+
+forfeited/VERB
+
+弃权;/NOUN 放弃/VERB
+
+spectator/PROPN
+
+观赏者/NOUN
+
+make/NOUN the/DET grade/NOUN
+
+拔尖/VERB
+
+reserve/NOUN team/NOUN
+
+预备队/NOUN
+
+来源/NOUN ：/PUNCT VOA/PROPN 慢速/ADJ 英语/NOUN 网/NOUN

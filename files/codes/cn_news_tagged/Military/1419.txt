@@ -1,0 +1,5 @@
+中新网/PROPN 2月/NOUN 23日/NOUN 电/NOUN
+
+俄/PROPN 联邦/NOUN 安全局/NOUN 局长/NOUN 尼古拉·帕特鲁舍夫/PROPN 21日/NOUN 表示/VERB ，/PUNCT 由于/ADP 收到/VERB 车臣/PROPN 武装/NOUN 分子/NOUN 计划/VERB 夺取/VERB 俄/PROPN 核潜艇/NOUN 的/PART 情报/NOUN ，/PUNCT 安全/NOUN 部门/NOUN 已经/ADV 加强/VERB 对/ADP 海军/NOUN 基地/NOUN 的/PART 安全/NOUN 保卫/NOUN 措施/NOUN 。/PUNCT
+
+据/ADP 香港/PROPN 媒体/NOUN 引述/VERB 报道/NOUN ，/PUNCT 尼古拉·帕特鲁舍夫/PROPN 说/VERB ，/PUNCT 抢夺/VERB 核潜艇/NOUN 的/PART 计划/NOUN 最初/ADV 由/ADP 车臣/PROPN 非法/ADJ 武装/NOUN 头目/NOUN 马斯哈多夫/PROPN 制定/VERB ，/PUNCT 不过/ADV 马斯哈多夫/PROPN 本人/PRON 已/ADV 于/ADP 去年/NOUN 三月/NOUN 在/ADP 俄军/NOUN 的/PART 一/NUM 次/NUM 特别/ADJ 行动/NOUN 中/PART 被/X 击毙/VERB 。/PUNCT

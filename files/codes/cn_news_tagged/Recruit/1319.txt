@@ -1,0 +1,32 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN EX/PROPN PER/NOUN I/NOUN ENCE/NOUN 　　/SPACE 1985/NOUN -/PUNCT Present/PROPN L/NOUN E/NOUN Y/NOUN N/NOUN E/NOUN R/NOUN CORPO/PROPN RATION/NOUN ,/PUNCT Lake/PROPN Charles/PROPN ,/PUNCT LA/PROPN 　　/SPACE Industrial/PROPN Engineer/PROPN 　　/SPACE Provide/NOUN floor/VERB support/NOUN engineering/NOUN in/ADP printed/NOUN wire/NOUN assembly/PROPN (PWA/ADV )/NOUN and/CCONJ subsystem/NOUN assembly/PROPN (S/PUNCT SA)/PROPN areas/VERB ./PUNCT
+　　/SPACE Purchase/NOUN capital/NOUN equipment/VERB ./PUNCT
+Interface/VERB with/ADV vendors/VERB ./PUNCT
+Justify/PROPN expenditures/VERB ./PUNCT
+　　/SPACE Design/ADJ plant/NOUN la/NOUN yout/VERB fixtures/VERB ,/PUNCT and/ADV flow/VERB charts/NOUN of/ADP material/NOUN ./PUNCT
+　　/SPACE Program/NOUN automatic/ADV equipment/VERB ./PUNCT
+　　/SPACE Write/NOUN process/NOUN sheets/NOUN and/CCONJ rework/NOUN procedures/NOUN ./PUNCT
+　　/SPACE Recommend/NOUN changes/PROPN to/ADP product/VERB to/ADP allow/PROPN ease/VERB of/ADP manufacture/NOUN ./PUNCT
+　　/SPACE Implement/PROPN design/PROPN changes/PROPN ./PUNCT
+Inititate/NOUN methods/NOUN and/CCONJ process/NOUN improvements/VERB ./PUNCT
+　　/SPACE Troubleshoot/PROPN problems/NOUN ./PUNCT
+Effect/PROPN disposition/NOUN or/CCONJ rejection/NOUN of/ADP material/NOUN ./PUNCT
+　　/SPACE Provide/NOUN assistance/VERB to/ADP all/DET o/ADP ther/NOUN departments/NUM ./PUNCT
+　　/SPACE 1984/NOUN PRUD/NUM ENCE/NOUN D/NOUN ./PUNCT
+MCHARRI/ADJ SON/NOUN L/NOUN ABORATORY/PROPN ,/PUNCT Ruston/PROPN ,/PUNCT LA/PROPN 　　/SPACE Engineering/NOUN Assistant/NOUN 　　/SPACE Conducted/ADJ variety/NOUN of/ADP tests/ADJ including/NOUN Tensile/NOUN ./PUNCT
+Compression/PROPN ,/PUNCT and/CCONJ creep/ADJ tests/NOUN on/CCONJ molded/NOUN parts/NOUN ./PUNCT
+　　/SPACE Responsible/NOUN for/ADP production/NOUN of/ADP plastic/PROPN test/NOUN specimens/NOUN ,/PUNCT and/CCONJ mounting/NOUN polishing/NOUN ,/PUNCT and/CCONJ microscopic/NOUN analysis/VERB ./PUNCT
+　　/SPACE Designed/NOUN tools/NOUN and/CCONJ fixtures/PROPN for/ADP Instron/PROPN machine/NOUN ./PUNCT
+　　/SPACE 1982/NOUN //PUNCT 83/NOUN DUCHESS/NOUN COM/NOUN P/NOUN ON/NOUN E/NOUN NTS,Baton/ADV Rouge/NOUN ,/PUNCT LA/PROPN 　　/SPACE Molding/PROPN Room/NOUN Attendant/NOUN ,/PUNCT 1983/NOUN 　　/SPACE Operated/NOUN and/CCONJ maintained/NOUN machine/ADP producing/NOUN e/NOUN poxy/NOUN preforms/VERB ./PUNCT
+　　/SPACE Maintained/PROPN records/NOUN on/VERB inventory,loss/VERB of/ADP material/NOUN ,/PUNCT and/ADV quality/VERB control/NOUN ./PUNCT
+　　/SPACE Machine/PROPN shop/NOUN attendant/VERB ,/PUNCT 1982/NOUN 　　/SPACE Operated/NOUN lathes/VERB ,/PUNCT milling/NOUN and/CCONJ grinding/VERB machines;monitored/NOUN welding/NOUN and/CCONJ heat/PROPN treatments/NOUN ./PUNCT
+　　/SPACE Read/VERB blueprints/VERB ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE LOYOLA/PROPN UN/PROPN I/PRON VERSIT/PROPN Y/NOUN AT/NOUN NEW/PROPN ORLEANS/NOUN ,/PUNCT College/PROPN of/ADP Engineering/NOUN ,/PUNCT New/NOUN Orleans/NOUN ,/PUNCT LA/PROPN 　　/SPACE Bachelor/NOUN of/ADP Science/PROPN Degree/PROPN in/ADP Industrial/PROPN Technology/PROPN ,/PUNCT 1985/NUM 　　/SPACE Minor/NOUN concentration/NOUN in/NOUN computer/NOUN science/VERB ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN AFFILIATION/VERB S/X //PUNCT CERTI/PROPN FICATION/PUNCT S/NOUN 　　/SPACE Member/NOUN ,/PUNCT Society/PROPN of/ADP Manufacturing/PROPN Engineers/NOUN ,/PUNCT Leaner/PROPN Management/PROPN Club/PROPN Certified/NOUN Manufacturing/PROPN Technologist/PROPN and/CCONJ Solderer/PROPN ./PUNCT
+　　/SPACE NOTIC/PROPN E/NOUN 　　/SPACE Relevant/NOUN Work/NUM experience/VERB is/VERB emphasized/VERB while/PROPN o/ADP ther/NOUN positions/NOUN are/VERB de-emphasized/NOUN ./PUNCT
+　　/SPACE Chronological/PROPN format/PROPN illustrates/ADP a/NUM clear/PROPN career/NOUN path/NOUN ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT material/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+2/NUM ,/PUNCT 055/NUM ,/PUNCT 382/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

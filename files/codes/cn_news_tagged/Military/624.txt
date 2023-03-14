@@ -1,0 +1,32 @@
+起飞/VERB 瞬间/NOUN
+
+起飞/VERB 瞬间(/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 空中/NOUN 雄姿/NOUN
+
+空中/NOUN 雄姿(/PUNCT 摄影/NOUN ：/PUNCT 刀锋)落/NOUN 地/NOUN 瞬间/VERB
+
+落地/NOUN 瞬间/NOUN (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 降落/VERB 后滑/NOUN 向/ADP 主席台/NOUN
+
+降落/VERB 后滑/NOUN 向/ADP 主席/NOUN 台(/PROPN 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 向/ADP 旁边/NOUN 拍摄/VERB 的/PART 记者们/NOUN 示意/VERB
+
+飞行员/NOUN 向/ADP 旁边/NOUN 拍摄/VERB 的/PART 记者们/NOUN 示意/VERB (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 架梯/NOUN 接机/VERB 瞬间/NOUN
+
+架梯/NOUN 接机/VERB 瞬间(/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 地面/NOUN 工作/NOUN 人员/NOUN 上前/VERB 询问/VERB
+
+地面/NOUN 工作/NOUN 人员/NOUN 上前/VERB 询问(/VERB 摄影/NOUN ：/PUNCT 刀锋)/PROPN 地面/NOUN 人员/NOUN 辅助/VERB 检测/VERB 仪表/VERB 状态/NOUN
+
+地面/NOUN 人员/NOUN 辅助/VERB 检测/VERB 仪表/NOUN 状态/NOUN (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 地面/NOUN 人员/NOUN 递上/VERB 飞行/NOUN 记录本/NOUN
+
+地面/NOUN 人员/NOUN 递上/NOUN 飞行/NOUN 记录/NOUN 本(/PROPN 摄影/NOUN ：/PUNCT 刀锋)/PROPN 地面/NOUN 工作/NOUN 人员/NOUN 准备/VERB 撤离/VERB
+
+地面/NOUN 工作/NOUN 人员/NOUN 准备/VERB 撤离/VERB (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 走出/VERB 机舱/NOUN
+
+飞行员/NOUN 走出/VERB 机舱/NOUN (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 接受/VERB 献花/NOUN
+
+飞行员/NOUN 接受/VERB 献花(/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 向/ADP 在场/ADJ 人员/NOUN 挥手/VERB 致意/VERB
+
+飞行员/NOUN 向/ADP 在场/ADJ 人员/NOUN 挥手/VERB 致意/VERB ，/PUNCT 现场/NOUN 一/NUM 片/NUM 欢呼(/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 列队/VERB
+
+飞行员/NOUN 列队/VERB (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN 飞行员/NOUN 向/ADP 国防科/NOUN 工委/NOUN 刘云川/PROPN 主任/NOUN 汇报/VERB 飞行/NOUN 情况/NOUN
+
+飞行员/NOUN 向/ADP 国防科/NOUN 工委/NOUN 刘云川/PROPN 主任/NOUN 汇报/VERB 飞行/NOUN 情况/NOUN (/PUNCT 摄影/NOUN ：/PUNCT 刀锋)/PROPN
+2/NUM

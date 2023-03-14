@@ -1,0 +1,187 @@
+【/PUNCT 来源/NOUN ：/PUNCT 沈阳/PROPN 新/ADJ 东方/NOUN 学校/NOUN 】/PUNCT
+【/PUNCT 作者/NOUN ：/PUNCT 赵丽/PROPN 】/PUNCT
+
+大纲/NOUN 要求/VERB
+
+《/PUNCT 大学/NOUN 英语/NOUN 教学/NOUN 大纲/NOUN 》/PUNCT 对/ADP 四级/NUM 词汇/NOUN 的/PART 要求/NOUN 是/VERB ：/PUNCT “/PUNCT 领会式/NOUN 掌握/VERB 4200/NUM 单词/NOUN (/PUNCT 其中/NOUN 复用式/NOUN 掌握/VERB 的/PART 单词/NOUN 为/VERB 2500/NUM )/NUM ，/PUNCT 以及/CCONJ 由/ADP 这些/DET 词/NOUN 构成/VERB 的/PART 常用/ADJ 词组/NOUN 1600/NUM 条(/NOUN 中学/NOUN 所/PART 掌握/VERB 的/PART 词/NOUN 和/CCONJ 词组/NOUN 均/ADV 包括/VERB 在/ADP 内)/NOUN ，/PUNCT 并且/ADV 有/VERB 按照/ADP 基本/ADJ 构词/NOUN 法识/NOUN 别/ADV 生词/VERB 的/PART 能力/NOUN 。/PUNCT ”/PUNCT
+
+四级/NUM 考试/NOUN 在/ADP 2003年/NOUN 6月/NOUN 给/ADP 考生/NOUN 带来/VERB 的/PART 巨大/ADJ 的/PART 震撼/NOUN ，/PUNCT 因为/ADP 尽管/SCONJ 语/NOUN 法题/NOUN 的/PART 比重/NOUN 自/ADP 2001年/NOUN 起/NUM 逐年/ADJ 递减/NOUN ，/PUNCT 但/ADV 从/ADP 突然/ADV 消失/VERB 着实/ADV 出乎/VERB 人们/NOUN 意料/VERB ，/PUNCT 9月/NOUN 北京/PROPN 考题/NOUN 又/ADV 只/ADV 出现/VERB 3/NUM 道语/NOUN 法题/NOUN ，/PUNCT 12月/NOUN 最/ADV 新题/VERB 为/VERB 2/NUM 道/NUM ，/PUNCT 2004年/NOUN 出现/VERB 一道/ADV ./PUNCT
+可见/VERB 语法/NOUN 不/ADV 再/ADV 作为/VERB 词汇/NOUN 与/CCONJ 结构/NOUN 部分/NOUN 的/PART 考点/NOUN ，/PUNCT 而/ADV 词/NOUN 汇题/VERB 成为/VERB 主流/NOUN 。/PUNCT
+所以/ADV 我们/PRON 要/VERB 全力/ADV 以付/VERB 攻克/VERB 词汇/NOUN ,/PUNCT 因为/ADP 词汇/NOUN 是/VERB 一切/PRON 的/PART 基础/NOUN ./PUNCT
+离开/VERB 了/PART 词汇/NOUN ,/PUNCT 阅读/VERB 任/VERB 你/PRON 有/VERB 多少/NUM 技巧/NOUN 都会/NOUN 英雄/NOUN 无用武之地/VERB ,/PUNCT 然而/ADV 阅读/VERB 如果/SCONJ 拿/VERB 不/ADV 到/VERB 分/NOUN ,/PUNCT 想/VERB 过/PART 四级/NOUN 则/ADV 难上加难/VERB ,/PUNCT 可以/VERB 这样/ADV 讲/VERB :/PUNCT
+
+得/PART 阅读者/VERB 得/VERB 四级/NUM ./PUNCT
+
+阅读/VERB 的/PART 重要性/NOUN 不言而喻/VERB 。/PUNCT
+阅读/VERB 过关/VERB 了/PART ，/PUNCT 完形/NOUN 填空/VERB 、/PUNCT 简答/NOUN 也/ADV 就/ADV 都/ADV 不是/ADV 问题/NOUN 了/PART 。/PUNCT
+写作/NOUN 离开/VERB 了/PART 词汇/NOUN ，/PUNCT 巧妇难为无米之炊/VERB 。/PUNCT
+而/ADV 词汇/NOUN 结构/NOUN 本身/PRON 作为/ADP 四级/ADJ 考试/NOUN 的/PART 必/ADJ 答题/NOUN 占/VERB 了/PART 15/NUM 分/NUM 的/PART 分值/NOUN 更/ADV 是/VERB 你/PRON 过级/VERB 的/PART 保障/NOUN ./PUNCT
+
+如果/SCONJ 能/VERB 将/X 历年/NOUN 真题/NOUN 中/PART 相关/ADJ 题目/NOUN 整理/VERB 出来/VERB ，/PUNCT 则/ADV 基本/ADV 可以/VERB 覆盖/VERB 考查/NOUN 的/PART 范围/NOUN 。/PUNCT
+单词/NOUN 题/NOUN 除了/ADP 极/ADV 少量/VERB 的/PART 搭/VERB 配题/NOUN （/PUNCT 选项/VERB 为/VERB 介词/NOUN ，/PUNCT 要求/VERB 与/ADP 题干/NOUN 中/PART 动词/ADV 搭/VERB 配)/NOUN ，/PUNCT 全部/ADV 是/VERB 单词/NOUN 辨/VERB 义题/NOUN 。/PUNCT
+
+1./NOUN 精研/VERB 历年/NOUN 全/DET 真题/NOUN 。/PUNCT
+切勿/NOUN 简单/VERB 地/PART 认为/VERB 考过/NOUN 的/PART 题毫/NOUN 无/VERB 价值/NOUN 可/VERB 言/VERB ，/PUNCT 恰恰/ADV 相反/VERB ，/PUNCT 因为/ADP 四级/NUM 考试/NOUN 是/VERB 一/NUM 项/NUM 标准化/ADJ 的/PART 命题/ADJ 考试/NOUN ，/PUNCT 某/DET 一/NUM 种/NUM 题型/NOUN 如果/SCONJ 特别/ADV 有/VERB 针对性/NOUN ，/PUNCT 或者/CCONJ 其/PRON 答案/NOUN 被/X 多数/NUM 考生/NOUN 选错/NOUN ，/PUNCT 那/ADV 就/ADV 证明/VERB 该/DET 题/NOUN 的/PART 效度/NOUN 和/CCONJ 信度/NOUN 较/ADV 高/VERB ，/PUNCT 重考/VERB 的/PART 机率/NOUN 相对来说/ADV 也/ADV 就/ADV 大/VERB 一些/NUM 。/PUNCT
+例如/ADV ：/PUNCT 90/NOUN 年/NOUN 1月/NOUN 的/PART 42/NUM 题/NOUN 和/CCONJ 97年/NOUN 6月/NOUN 的/PART 33/NUM 题/NOUN ；/PUNCT 95年/NOUN 1月/NOUN 的/PART 49/NUM 题/NOUN 和/CCONJ 97年/NOUN 1月/NOUN 的/PART 36/NUM 题/NOUN ：/PUNCT 98年/NOUN 1月/NOUN 的/PART 42/NUM 题/NOUN 和/CCONJ 2000年/NOUN 6月/NOUN 的/PART 46题/NUM 等等/PART 。/PUNCT
+
+2/NUM ./PUNCT 熟悉/VERB 常/ADV 考/VERB 的/PART 词汇/NOUN 题型/VERB 。/PUNCT
+
+3/NUM ./PUNCT 应该/VERB 多/ADV 阅读/VERB ，/PUNCT 甚至/ADV 背诵/VERB 一些/NUM 经典/ADJ 句型/NOUN 和/CCONJ 篇章/NOUN 。/PUNCT
+《/PUNCT 21/NUM 世纪/NOUN 报/NOUN 》/PUNCT 、/PUNCT 《/PUNCT 新/ADJ 概念/NOUN 英语/NOUN 》/PUNCT 三/NUM 、/PUNCT 四册/NOUN 。/PUNCT
+
+4/NUM ．/PUNCT 掌握/VERB 考点/NOUN 词/NOUN ，/PUNCT 四级/NUM 常/ADJ 考词/NOUN 一共/ADV 只有/ADV 700多/NUM 个/NUM ，/PUNCT 在/ADP 我/PRON 主页/NOUN 上/PART 有/VERB 四级/NUM 词频/NOUN 下载/VERB
+
+http:/NOUN ///PUNCT teacherzhaoli/VERB ./PUNCT
+126.com/NOUN ,/PUNCT 也/ADV 可以/VERB 购买/VERB 《/PUNCT 新东方/PROPN 大学/NOUN 英语/NOUN 词汇/NOUN 课堂/NOUN 》/PUNCT 或/CCONJ 《/PUNCT 四级/NOUN 词汇/NOUN 串记/VERB 》/PUNCT 里面/NOUN 讲解/VERB 的/PART 词汇/NOUN 有/VERB 1400多/NUM 个/NUM ,/PUNCT 是/VERB 四/NUM 、/PUNCT 六级/NUM 高/VERB 频词/NOUN ./PUNCT 因为/ADP 现在/NOUN 四级/ADV 改革/VERB 后/PART ,/PUNCT 只/ADV 考/VERB 词汇/NOUN ,/PUNCT 很多/NUM 六级/NOUN 高/ADJ 频词/NOUN 在/ADP 四级/NOUN 中/PART 做为/ADP 每年/ADV 新/ADV 加入/VERB 四级/NUM 考点/NOUN 的/PART 词汇/NOUN ,/PUNCT 所以/ADV 考/VERB 四级/NUM 的/PART 同学/NOUN ,/PUNCT 要/VERB 认真/ADV 听/VERB 《/PUNCT 新东方/PROPN 大学/NOUN 英语/NOUN 词汇/NOUN 课堂/NOUN 》/PUNCT ---/PUNCT 我/PRON 大学/NOUN 词汇班/PROPN 的/PART 讲课/NOUN 录音/NOUN
+
+四级/NUM 词/NOUN 汇题/NOUN 中/PART 重点/ADJ 考词/NOUN 词汇/NOUN 如下/VERB ：/PUNCT 冲刺/PROPN 阶段/NOUN 重点/NOUN 背诵/VERB
+
+出现/VERB 8/NUM 次/NUM credit/NOUN
+
+出现/VERB 7/NUM 次/NUM entitle/ADJ raise/NOUN range/NOUN
+
+出现/VERB 6/NUM 次/NUM abandon/PROPN access/NOUN adopt/NOUN charge/NOUN cultivate/NOUN exhaust/NOUN extensive/VERB grant/PROPN leak/VERB
+
+present/PROPN regardless/NOUN of/ADP reserve/PROPN
+
+出现/VERB 5/NUM 次/NUM acquire/ADJ adapt/PROPN assemble/VERB associate/NOUN attend/VERB available/NUM expand/ADV id/VERB entical/NOUN
+
+insert/PROPN intensive/NOUN involve/PROPN matter/PROPN preferable/NOUN promote/PROPN regulate/NOUN replace/NOUN retain/NOUN split/PROPN
+
+transfer/VERB transmission/NOUN transport/NOUN
+
+出现/VERB 4/NUM 次/NUM ac/ADP cumulate/PROPN acknowledge/ADJ affect/PROPN arouse/NOUN assist/VERB benefit/ADV bring/VERB up/PROPN change/NOUN
+
+confuse/PROPN considerable/PROPN convention/NOUN crack/PROPN disposal/PROPN dissolve/NOUN distance/NOUN effect/VERB
+
+emergency/ADV exaggerate/ADV expense/ADV fare/VERB fault/NOUN in/ADP spite/NOUN of/ADP incident/NOUN inform/NOUN install/ADJ
+
+interval/PROPN lively/NOUN pace/NOUN particular/NOUN perform/NOUN precaution/NOUN provide/NOUN rate/NOUN recognition/VERB
+
+regular/NOUN relate/NOUN relief/NOUN rigid/NOUN scold/NOUN settle/NOUN shift/NOUN specific/VERB status/VERB stick/NOUN stretch/NOUN
+
+tend/NOUN time-consumed/VERB transform/NOUN transmit/NOUN vision/VERB
+
+出现/VERB 3/NUM 次/NUM absence/NUM
+ac/ADP company/NOUN accuse/PROPN ac/ADP quaint/ADP aggressive/NOUN aimed/VERB alter/PROPN amaze/VERB
+
+ambitious/PROPN amuse/NOUN appointment/VERB approve/VERB arise/NOUN arrange/NOUN artificial/PROPN assume/PROPN assure/NOUN
+
+attach/NOUN at/ADP tribute/ADP bare/NOUN bargain/PROPN barrier/PROPN blan/PROPN k/PROPN burst/PROPN cancel/PROPN clumsy/PROPN come/PROPN out/CCONJ
+
+complete/PROPN concern/NOUN conflict/NOUN considerate/PROPN consult/NOUN consume/PROPN contact/VERB continually/NOUN
+
+contract/PROPN contribute/ADJ coordinate/NOUN cost/NOUN crisis/PROPN damage/PROPN decisive/NOUN declined/PROPN decrease/PROPN
+
+deliver/NOUN demand/NOUN dense/PROPN dispute/PROPN edge/PROPN equipped/ADV event/VERB exception/NOUN exchange/VERB exhibit/VERB
+
+exploit/NOUN exposure/NOUN feature/VERB flexible/PROPN flow/PROPN focused/NOUN follow/PROPN guarantee/NOUN guide/VERB halting/VERB
+
+harsh/VERB hint/PROPN hollow/ADP impression/PROPN indispensable/PROPN inevitable/PROPN inquire/VERB insured/VERB issue/NOUN
+
+justify/PROPN lack/PROPN lead/NOUN length/NOUN manner/NOUN mild/VERB miss/ADP mission/NOUN mobile/NOUN mood/NUM multiply/NOUN neglect/NOUN
+
+now/PROPN that/NOUN oc/ADP casion/NOUN payments/VERB peculiar/NOUN plunge/NOUN preparation/PROPN press/NOUN progress/NOUN proper/VERB
+
+prospect/PROPN provision/NOUN put/NOUN down/NOUN put/NOUN up/PROPN puzzle/NOUN rank/PROPN refuse/NOUN regard/NOUN register/NOUN release/PROPN
+
+result/NOUN retreat/NOUN reward/NOUN rise/VERB route/PROPN scope/VERB shrink/NOUN slight/NOUN smooth/VERB special/VERB spot/NOUN sque/NOUN eze/NOUN
+
+strain/NOUN strike/NOUN suit/VERB tedious/NOUN unstable/VERB urgent/PROPN vacant/VERB view/NOUN witness/NOUN yield/VERB
+
+出现/VERB 过/PART 2/NUM 次/NUM absorbed/NOUN abstract/NOUN ac/ADP count/NOUN accurate/VERB ade/NOUN quate/NOUN affair/ADV anxiety/VERB
+appeal/PROPN
+
+applicable/PROPN approachable/PROPN arrival/PROPN article/PROPN assessment/ADV at/ADP intervals/PROPN at/ADP length/NOUN
+
+automatically/ADJ award/VERB backs/PROPN battle/PROPN Besides/PROPN blowing/PROPN border/NOUN bored/PROPN boundary/PROPN bring/PROPN
+
+about/PROPN bring/NOUN around/ADV bring/VERB out/PROPN build/VERB up/PROPN But/NOUN for/ADP called/PROPN of/ADP f/PROPN calling/VERB for/ADP calling/NOUN in/NOUN
+
+calling/NOUN on/ADV calling/VERB up/NUM campaign/PROPN capacity/PROPN careful/PROPN case/PROPN certain/NOUN closed/PROPN down/NOUN
+
+combating/ADJ come/PROPN along/PROPN come/PROPN on/ADP come/PROPN round/NOUN comes/PROPN around/ADV to/ADP comes/PROPN on/VERB to/VERB comes/NOUN to/ADP
+
+comes/PROPN up/ADV to/ADP comparatively/PROPN compose/NOUN confinement/ADP conse/NOUN quently/VERB consider/NOUN consistent/NOUN
+
+constant/PROPN contain/PROPN content/NOUN continuous/NOUN contrary/VERB copying/PROPN critical/NOUN cursed/PROPN cuts/NOUN down/NOUN
+
+decorated/PROPN deliberate/NOUN deny/NOUN depression/NOUN derive/PROPN despair/PROPN desperation/NOUN Despite/PROPN
+
+diplomatic/PROPN directed/NOUN disappeared/NOUN discarded/NOUN discipline/PROPN discouraged/NOUN dismissal/PROPN
+
+distress/NOUN diverse/PROPN dot/NOUN drifting/NOUN drop/NOUN dynamic/NOUN eager/ADV echo/VERB edition/NOUN editorial/VERB
+
+efficient/NOUN embraces/VERB employ/VERB enclose/NOUN endure/VERB enlarging/VERB enormous/VERB entertained/PROPN escape/VERB
+
+even/NUM though/NOUN evidence/NOUN excess/ADV exclamation/VERB exclusive/VERB excuse/VERB expectations/VERB expose/VERB
+
+extent/NOUN extra/NOUN extremely/VERB failure/NOUN faith/VERB fancy/NOUN fantasy/NOUN fashions/NOUN fatigue/NOUN favor/NOUN
+
+favorable/PROPN favorite/ADJ fees/NOUN fence/NOUN fierce/VERB flaw/VERB forceful/NOUN fortunate/NOUN gap/NOUN gather/NOUN generous/PROPN
+
+get/PROPN across/VERB get/PROPN away/VERB get/ADV of/ADP f/NOUN get/PROPN over/VERB gets/ADV on/ADP with/PROPN governing/NOUN grips/PROPN grown/PROPN guilty/NOUN
+
+hard/VERB heroic/PROPN id/VERB entify/NOUN If/NOUN only/ADP ignore/NOUN imagination/VERB i/ADP mitating/VERB impact/NOUN impose/NOUN in/ADP all/DET
+
+in/NOUN brief/VERB In/NOUN case/VERB of/ADP in/ADP doubt/PROPN in/ADP harmony/PROPN in/NOUN particular/NOUN in/ADP short/NOUN incline/PROPN include/VERB
+
+increase/PROPN influential/PROPN injure/ADP innocent/NOUN insight/NOUN intelligent/VERB intention/NOUN interrupting/NOUN
+
+jam/NOUN joint/PROPN last/PROPN leap/VERB leng/NUM
+then/NOUN
+lessened/NOUN lie/NOUN light/NOUN likely/PROPN maintain/NOUN march/NOUN margin/VERB
+
+mark/NOUN materials/ADJ mature/NOUN meaningful/NOUN mess/NOUN minimum/ADP motion/NOUN move/PROPN normal/NOUN notion/VERB object/VERB
+
+oblige/NOUN obstacle/ADP obvious/PROPN offense/NOUN offer/VERB o/ADV mit/NOUN on/ADP the/DET contrary/VERB on/ADP the/DET o/ADP ther/NOUN hand/NOUN
+
+only/ADV if/VERB optional/NOUN order/NOUN original/ADV out/ADP look/PROPN overall/ADP overtaking/VERB particles/NOUN past/NOUN patch/NOUN
+
+path/ADJ Penetrating/NOUN Perceiving/NOUN persist/NOUN phrase/PROPN pioneer/NOUN pledge/PROPN possibility/NOUN prediction/NOUN
+
+preference/NOUN premature/NOUN presentation/NOUN Preserving/NOUN p/NOUN revailing/NOUN p/NOUN revent/NOUN principle/NOUN prior/NOUN
+
+probability/NOUN proceed/NOUN profession/NOUN projected/PROPN proportions/NOUN propose/PROPN publish/NOUN pulled/VERB out/PROPN
+
+pulled/PROPN over/ADP pulled/NOUN through/NOUN pulled/VERB up/PROPN purchase/ADP put/NOUN away/ADJ put/NOUN of/ADP f/PROPN put/NOUN over/VERB puts/VERB up/NUM
+
+with/ADP question/NOUN rather/ADJ than/NOUN recession/NOUN recover/ADJ reduce/NOUN regain/VERB reject/NOUN rejection/PROPN
+
+relieve/ADJ remedy/NOUN remove/NOUN reproduction/ADV request/ADP require/NOUN rescue/NOUN resist/NOUN resort/PROPN
+
+responsible/NOUN restrain/PROPN restriction/NOUN revival/PROPN rewrite/PROPN roar/VERB roughly/PROPN rub/PROPN rude/NOUN ruling/PROPN
+
+sample/NOUN scale/PROPN scene/NOUN schedule/NOUN scrape/NOUN scream/VERB secure/NOUN seek/NOUN sensible/NOUN sensitive/NOUN set/NOUN
+
+aside/PROPN set/NOUN back/PROPN set/NOUN of/ADP f/PROPN set/NOUN out/PROPN shadow/NOUN shielded/NOUN shortcomings/NOUN slide/NOUN slim/NOUN solid/NOUN
+
+source/NOUN speculations/NOUN spoil/NOUN spread/NOUN spring/NOUN up/NUM stakes/NOUN standard/VERB step/NOUN struggle/NOUN stuff/NOUN
+
+substances/NOUN substantial/NOUN substitute/NOUN succession/NOUN suitable/NOUN suppose/ADP survival/NOUN sustain/NOUN
+
+synthetically/NOUN takes/NOUN over/ADP tame/NOUN tense/NOUN thickness/NOUN tips/NOUN tired/ADP touch/NOUN trace/NOUN translate/NOUN
+
+trend/ADP trouble/ADP turned/NOUN down/NOUN turned/NOUN of/ADP f/ADP turned/NOUN up/NUM unceasingly/PROPN vary/NOUN vigorous/VERB virtue/VERB
+
+went/NOUN of/ADP f/PROPN whistle/PROPN widening/NOUN
+
+5．2005年/NOUN 12月/NOUN 四级/NUM 真题/ADV 到/VERB teacherzhaoli/NOUN ./PUNCT
+126.com/NUM 上/PART 下载/VERB ：/PUNCT 请/VERB 同学们/NOUN 背/VERB 过上/VERB 重点/NOUN 词汇/NOUN 后/PART ，/PUNCT 做/VERB 2005/NOUN 12月份/NOUN 的/PART 词汇/NOUN 真题/NOUN ，/PUNCT 下期/NOUN 将/ADV 做/VERB 词汇/NOUN 最新/ADV 考题/VERB 详解/NOUN 。/PUNCT
+
+(/PUNCT 赵丽/PROPN ，/PUNCT 主讲/VERB 科目/NOUN ：/PUNCT SAT/PROPN TOEFL/PROPN 考研/VERB CET6/NOUN CET4/NOUN NMET/PROPN
+
+UC/PROPN 5500/NUM UC/NOUN 8000/NUM
+GMAT/NOUN
+
+GRE/NOUN ；/PUNCT 新东方/PROPN 教育/NOUN 科技/NOUN 集团/NOUN 十/NUM 周年/NOUN 校庆/NOUN -/PUNCT 特别/ADV 贡献奖/VERB 获得者/NOUN ，/PUNCT 2001/NOUN -/PUNCT 2005/NOUN 各/DET 年度/NOUN 新/ADJ 东方/NOUN 教育/NOUN 科技/NOUN 集团/NOUN 优秀/ADJ 老师/NOUN ，/PUNCT 原/ADJ 广州/PROPN 新东方/PROPN 教师/NOUN 委员会/NOUN 执行/NOUN 主任/NOUN ，/PUNCT 新/ADJ 东方人/NOUN 称/VERB “/PUNCT 词汇王/NOUN ”/PUNCT ，/PUNCT 独创/VERB 的/PART 教学/NOUN 方法/NOUN 和/CCONJ 理念/NOUN ，/PUNCT 培养/VERB 数十万/NUM 学子/NOUN 。/PUNCT
+出版/NOUN 书籍/NOUN ：/PUNCT 《/PUNCT 新/ADJ 东方/PROPN 大学/NOUN 词汇/NOUN 高分/VERB 突破/VERB 》/PUNCT 世界/NOUN 图书/NOUN 出版社/NOUN
+
+畅销书/NOUN 2004年/NOUN 9月/NOUN 上市/VERB 2005年/NOUN 2月/NOUN 第二/NUM 次/NUM 印刷/VERB ，/PUNCT 《/PUNCT 新/ADJ 东方/PROPN 大学/NOUN 四级/NUM 词汇/NOUN 串记/VERB 》/PUNCT 新/ADJ 东方/NOUN 大愚/NOUN 文化/NOUN 传播/NOUN 公司/NOUN
+
+畅销书/NOUN ，/PUNCT 《/PUNCT 点评/NOUN 四级/NOUN 历年/NOUN 真题/NOUN 》/PUNCT 新/ADJ 东方/NOUN 大愚/NOUN 文化/NOUN 传播/NOUN 公司/NOUN ，/PUNCT 《/PUNCT 点评/NOUN 六级/NUM 历年/NOUN 真题/NOUN 》/PUNCT 新/ADJ 东方/NOUN 大愚/NOUN 文化/NOUN 传播/NOUN 公司/NOUN ，/PUNCT 《/PUNCT SAT词汇/PROPN 串记/VERB 》/PUNCT 新/ADJ 东方/NOUN 大愚/NOUN 文化/NOUN 传播/NOUN 公司/NOUN
+
+即将/ADV 出版/VERB ；/PUNCT 出版/NOUN 软件/NOUN ：/PUNCT 《/PUNCT 新/ADJ 东方/PROPN 大学/NOUN 英语/NOUN 词汇/NOUN 课堂/NOUN 》/PUNCT 新/ADJ 东方/NOUN 明日/NOUN 科技/NOUN 出品/NOUN
+
+经典/ADJ 畅销/ADJ 软件/NOUN ，/PUNCT 《/PUNCT 新/ADJ 东方/PROPN 大学/NOUN 四级/NOUN 30/NUM 天/NUM 90/NUM 分/VERB 突破/NOUN 》/PUNCT 词汇/NOUN 部分/NOUN ，/PUNCT 《/PUNCT 新/ADJ 东方/PROPN 大学/NOUN 英语/NOUN 六级/NUM 40/NUM 天/NUM 突破/NOUN 》/PUNCT 词汇/NOUN 部分/NOUN 。/PUNCT
+)/PROPN

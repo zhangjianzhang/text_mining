@@ -1,0 +1,78 @@
+Sweden/PROPN is/VERB a/NUM land/PROPN of/ADP contrasts/NOUN （/PUNCT 反差/NOUN 很/ADV 大/VERB ）/PUNCT
+;/ADV in/ADP the/DET north/VERB ,/PUNCT where/NOUN forests/VERB fade/NOUN in/VERB to/ADP
+
+frozen/PROPN ground/PROPN （/PUNCT 森林/NOUN 逐渐/ADV 消失/VERB 为/VERB 冰冻/VERB 的/PART 土地/NOUN ）/PUNCT ,/PUNCT the/DET influence/NOUN of/ADP tradition/NOUN and/CCONJ folklore/NOUN is/VERB strong/NOUN ./PUNCT
+
+In/NOUN the/DET milder/NOUN （/PUNCT 气候/NOUN 比较/ADV 温和/VERB ）/PUNCT ,/PUNCT more/ADV fertile/VERB （/PUNCT 土壤/NOUN 更加/ADV 肥沃/VERB ）/PUNCT
+south/NOUN ,/PUNCT the/DET customs/NOUN （/PUNCT 风俗/NOUN ）/PUNCT are/VERB basically/NOUN
+
+those/NOUN of/ADP continental/PROPN Europe/PROPN （/PUNCT 欧洲/PROPN 大陆/NOUN ）/PUNCT ./PUNCT
+
+In/NOUN Sweden/PROPN ,/PUNCT legends/NOUN （/PUNCT 传说/NOUN ）/PUNCT
+exist/PROPN in/NOUN people's/NOUN everyday/NOUN life/NOUN （/PUNCT 日常/ADJ 生活/NOUN ）/PUNCT ./PUNCT
+Hunting/PROPN
+
+legends/VERB ,/PUNCT for/ADP example/VERB ,/PUNCT tell/PROPN how/PROPN men/NOUN have/PROPN been/ADJ turned/NOUN in/NOUN to/ADP beasts/PROPN by/VERB magic/VERB ./PUNCT
+It/NOUN is/VERB
+
+thought/NOUN unlucky/VERB to/ADP see/VERB a/NUM hare/NOUN in/ADP the/DET morning/NOUN but/PROPN to/ADP meet/VERB a/NUM wolf/NOUN or/CCONJ a/NUM bear/NOUN is/VERB
+an/ADJ
+
+omen/NOUN that/ADV hunting/VERB will/NOUN be/NOUN
+
+good/PROPN （/PUNCT 人们/NOUN 认为/VERB 一大早/NOUN 看到/VERB 野兔/NOUN 是/VERB 会/VERB 倒霉/VERB 的/PART ，/PUNCT 但/ADV 如果/SCONJ 碰到/VERB 狼/NOUN 或/CCONJ 熊则/NOUN 是/VERB 一个/ADV 好/ADJ 兆头/NOUN ，/PUNCT 因为/ADP 它/PRON 将/ADV 预示/VERB 着/PART 狩猎/NOUN 的/PART 顺利/NOUN ）/PUNCT ./PUNCT
+
+And/NOUN there/NOUN are/VERB some/NOUN ancient/NOUN customs/NOUN about/NOUN birth/NOUN ./PUNCT
+When/VERB a/NUM child/VERB is/VERB born/VERB ,/PUNCT the/DET
+
+women/NOUN of/ADP the/DET family/NOUN must/NOUN carry/PROPN it/NOUN three/PROPN times/NOUN （/PUNCT 三圈/PROPN ）/PUNCT around/PROPN its/NOUN parent/NOUN s'/PUNCT
+hearth/PROPN （/PUNCT 壁炉/VERB ）/PUNCT
+
+and/CCONJ then/NOUN examine/ADV it/VERB for/NOUN birth/PROPN marks/NOUN （/PUNCT 胎记/NOUN ）/PUNCT ./PUNCT
+If/NOUN child/VERB is/VERB covered/PROPN in/ADP the/DET membrane/NOUN ,/PUNCT
+
+that/NOUN means/NOUN it/ADP will/NOUN always/PROPN be/PROPN ac/ADP companied/NOUN by/ADP a/NUM guardian/NOUN spirit/PROPN （/PUNCT 守护神/NOUN ）/PUNCT ./PUNCT
+It/NOUN is/VERB feared/PROPN
+
+that/NOUN children/VERB who/NOUN lack/PROPN the/DET protection/NOUN of/ADP a/DET guardian/NOUN spirit/NOUN may/PROPN be/ADJ stolen/NOUN by/ADP
+
+witches/NOUN （/PUNCT 女巫/NOUN ）/PUNCT and/CCONJ turned/NOUN in/NOUN to/ADP disembodied/NOUN spirits/NOUN （/PUNCT 变成/VERB 游魂/NOUN ）/PUNCT ./PUNCT
+
+A/NOUN country/PROPN wedding/PROPN （/PUNCT 乡村/NOUN 婚礼/NOUN ）/PUNCT
+in/ADP Sweden/PROPN is/VERB also/PROPN very/ADJ interesting/NOUN ./PUNCT
+It/NOUN is/VERB
+
+celebrated/NOUN with/DET traditional/NOUN festivities/VERB ./PUNCT
+The/DET bridegroom/PROPN （/PUNCT 新郎/NOUN ）/PUNCT
+must/NOUN formally/ADJ a/NUM sk/NOUN
+
+for/ADP the/DET bride/PROPN 's/VERB hand/PROPN （/PUNCT 正式/ADV 向/ADP 新娘/NOUN 求婚/VERB ）/PUNCT
+in/ADP the/DET barn/NOUN （/PUNCT 谷仓/PROPN ）/PUNCT ,/PUNCT because/NOUN this/PRON is/VERB where/NOUN the/DET
+
+dowry/PROPN （/PUNCT 嫁妆/VERB ）/PUNCT is/VERB stored/VERB ./PUNCT
+On/NOUN the/DET wedding/VERB day/PROPN the/DET women/NOUN of/ADP the/DET family/NOUN help/VERB the/DET bride/PROPN
+
+to/ADP dress/PROPN in/ADP national/VERB costume/PROPN （/PUNCT 民族/NOUN 服装/NOUN ）/PUNCT ,/PUNCT which/PROPN includes/VERB silver/NOUN jewelry/PROPN （/PUNCT 银制/NOUN 的/PART 饰物/NOUN ）/PUNCT
+and/CCONJ a/NUM
+
+bridal/PROPN crown/PROPN （/PUNCT 新娘/NOUN 花冠/NOUN ）/PUNCT ./PUNCT
+Meanwhile/NOUN friends/NOUN and/CCONJ male/NOUN relations/NOUN （/PUNCT 男性/NOUN 亲戚/NOUN ）/PUNCT wait/PROPN in/ADP the/DET
+
+kitchen/VERB ,/PUNCT drinking/NOUN beer/VERB ./PUNCT
+When/VERB the/DET bride/PROPN is/VERB ready/NOUN （/PUNCT 准备/VERB 就绪/VERB ）/PUNCT ,/PUNCT all/DET the/DET relatives/NOUN （/PUNCT 亲戚/NOUN ）/PUNCT
+and/CCONJ
+
+guests/ADV form/VERB a/NUM procession/NOUN ,/PUNCT which/PROPN is/VERB led/PROPN by/ADP young/VERB men/NOUN on/ADV horseback/NOUN ./PUNCT
+They/PROPN meet/ADV the/DET
+
+groom/NOUN 's/VERB procession/NOUN （/PUNCT 新郎/NOUN 一方/NOUN 的/PART 迎亲/NOUN 队伍/NOUN ）/PUNCT
+at/ADP the/DET church/NOUN and/CCONJ greetings/NOUN ,/PUNCT symbolizing/NOUN the/DET
+
+kinship/PROPN which/PROPN now/NOUN unites/PROPN the/DET two/NOUN families/NOUN （/PUNCT 象征/VERB 着/PART 连接/VERB 彼此/PRON 的/PART 亲戚/NOUN 关系/NOUN 正式/ADV 形成/VERB ）/PUNCT ,/PUNCT are/VERB
+
+exchanged/VERB （/PUNCT 互相/ADV 祝贺/VERB ）/PUNCT ./PUNCT
+When/VERB the/DET wedding/NOUN service/NOUN （/PUNCT 仪式/NOUN ）/PUNCT ends/VERB ,/PUNCT the/DET guests/NOUN go/VERB to/ADP the/DET bride/PROPN 's/VERB
+
+house/PROPN for/ADP the/DET marriage/NOUN feast/VERB （/PUNCT 婚宴/NOUN ）/PUNCT ./PUNCT
+
+来源/NOUN :/PUNCT 现代/ADJ 教学/NOUN 网/NOUN

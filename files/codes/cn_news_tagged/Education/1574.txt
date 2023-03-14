@@ -1,0 +1,118 @@
+personnel/NOUN system/NOUN 人事/NOUN 制度/NOUN
+
+personnel/ADJ management/NOUN 人事/NOUN 管理/NOUN
+
+office/NOUN hour/PROPN 办公/NOUN 时间/NOUN
+
+company/PROPN time/NOUN 工作/NOUN 时间/NOUN
+
+work/NOUN hour/NOUN 工作/NOUN 时间/NOUN
+
+eight/VERB -/PUNCT hour/PROPN shift/NOUN 八/NUM 小时/NOUN 工作制/NOUN
+
+shift/PROPN 轮班/NOUN
+
+morning/NOUN session/NOUN 上午/NOUN 班/NOUN
+
+evening/night/NOUN shift/NOUN 小/VERB //PUNCT 大夜/NOUN 班/NOUN
+
+day/PROPN shift/NOUN 日班/NOUN
+
+attendance/PROPN book/NOUN 签到/VERB
+本/DET
+
+late/NOUN book/PROPN 迟到/VERB 本/NUM
+
+day/PROPN of/ADP f/PROPN 休息日/NOUN
+
+coffee/VERB break/PROPN 上班/VERB 中/PART 的/PART 休息/NOUN 时间/NOUN
+
+work/NOUN day/PROPN 工作日/NOUN
+
+working/NOUN condition/NOUN 工作/NOUN 环境/NOUN
+
+work/PROPN permit/NOUN 工作证/NOUN
+
+work/NOUN overtime/VERB 加班/VERB
+
+holiday/PROPN rotation/NOUN 节假/VERB 日轮/NOUN 流值/NOUN 班/NOUN
+
+traveling/NOUN allowance/VERB (for/PUNCT official/VERB trip)/NOUN 差旅费/NOUN
+
+payroll/ADJ 工资/NOUN 册/VERB
+
+salary/VERB 薪水/NOUN （/PUNCT 指付/VERB 给/VERB 一个/NUM 人/NOUN 的/PART 固定/ADJ 劳动/NOUN 补偿/NOUN ）/PUNCT
+
+wage/PROPN 工资/NOUN （/PUNCT 为/ADP 劳动/NOUN 或/CCONJ 服务所/NOUN 付/VERB 的/PART 报酬/NOUN ，/PUNCT 尤指/ADV 按/ADP 小时/NOUN 、/PUNCT 天数/NOUN 、/PUNCT 周/PROPN 或/CCONJ 按/ADP 工作量/NOUN 所/PART 付/VERB 的/PART 薪酬/NOUN ）/PUNCT
+
+salary/VERB raise/NOUN 加薪/VERB
+
+windfall/PROPN 外快/NOUN
+
+annual/VERB pension/NOUN 年薪/NOUN
+
+year/VERB -/PUNCT
+end/ADV bonus/ADJ 年终/NOUN 奖/NOUN
+
+bonus/ADJ 奖金/NOUN
+
+premium/NOUN 红利/NOUN
+
+overtime/VERB pay/NOUN 加班费/NOUN
+
+punch/NOUN the/DET clock/NOUN 打卡/VERB
+
+time/NOUN recorder/NOUN 打卡机/NOUN
+
+sneak/VERB out/NOUN 开溜/VERB
+
+internship/PROPN 实习/VERB
+
+on/ADP probation/NOUN 试用/VERB
+
+probation/NOUN staff/NOUN 试用/VERB 人员/NOUN
+
+agreement/PROPN
+of/ADP employment/NOUN 聘书/NOUN
+
+evaluation/VERB of/ADP employee/ADJ 员工/NOUN 考核/VERB
+
+employee/ADV evaluation/VERB form/VERB 考核表/NOUN
+
+merit/NOUN pay/NOUN 绩效/ADV 工资/NOUN
+
+dock/PROPN pay/NOUN 扣薪/VERB
+
+unpaid/NOUN leave/PROPN 无薪/ADV 假/ADV
+
+before-tax/PROPN salary/VERB 税前/NOUN 薪水/NOUN
+
+income/ADP tax/NOUN 所得税/NOUN
+
+take-home/NUM pay/NOUN //PUNCT after/PROPN -/PUNCT tax/PROPN salary/NOUN 税后/NOUN 净薪/NOUN
+
+release/NOUN pay/NOUN 遣散费/PROPN
+
+severance/NOUN pay/NOUN 解雇费/VERB
+
+salary/NOUN deduction/NOUN 罚薪/VERB
+
+casual/PROPN leave/NOUN 事假/NOUN
+
+sick/PROPN leave/NOUN 病假/NOUN
+
+“/PUNCT 五/NUM 险/NOUN 一/NUM 金/NOUN ”/PUNCT
+
+endowment/VERB insurance/NOUN 养老/VERB 保险/NOUN
+
+medical/NOUN insurance/NOUN 医疗/NOUN 保险/NOUN
+
+unemployment/NOUN insurance/NOUN 失业/NOUN 保险/NOUN
+
+employment/NOUN injury/VERB insurance/NOUN 工伤/NOUN 保险/NOUN
+
+maternity/NOUN insurance/NOUN 生育/NOUN 保险/NOUN
+
+housing/VERB fund/PROPN 住房/NOUN 公积金/NOUN
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

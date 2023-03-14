@@ -1,0 +1,462 @@
+世上/NOUN 无/VERB 绝招/NOUN ，/PUNCT 无/VERB 招胜/VERB 有/VERB 招/NOUN 。/PUNCT
+
+写作/NOUN 绝招/NOUN 一/NUM （/PUNCT 如何/ADV 写好/VERB 开头/NOUN 和/CCONJ 结尾/NOUN ）/PUNCT
+写作/NOUN 绝招/NOUN 一/NUM （/PUNCT 如何/ADV 写好/VERB 开头/NOUN 和/CCONJ 结尾/NOUN ）/PUNCT
+
+一/NUM 开头/VERB 万能/PROPN 公式/NOUN ：/PUNCT
+
+1./NUM 开头/NOUN 万能/PROPN 公式/VERB 一/NUM ：/PUNCT 名人/NOUN 名言/NOUN 有人/VERB 问/VERB 了/PART ，/PUNCT “/PUNCT 我/PRON 没有/ADV 记住/VERB 名言/NOUN ，/PUNCT 怎么办/VERB ？/PUNCT
+尤其/ADV 是/VERB 英语/NOUN 名言/NOUN ？/PUNCT ”/PUNCT ，/PUNCT 很/ADV 好/ADV 办/VERB ：/PUNCT
+编/INTJ ！/PUNCT
+原理/NOUN ：/PUNCT 我们/PRON 看到/VERB 的/PART 东西/NOUN 很多/NUM 都/ADV 是/VERB 创造/VERB 出来/VERB 的/PART ，/PUNCT 包括/VERB 我们/PRON 欣赏/VERB 的/PART 文章/NOUN 也/ADV 是/VERB ，/PUNCT 所以/ADV 尽管/SCONJ 编/VERB ，/PUNCT 但是/ADV 一定/ADV 要/VERB 听/VERB 起来/VERB 很/ADV 有/VERB 道理/NOUN 呦/PART ！/PUNCT
+而且/ADV 没准/ADV 将来/NOUN 我们/PRON 就是/ADV 名人/NOUN 呢/PART ！/PUNCT
+对/VERB 吧/PART ？/PUNCT
+经典/ADJ 句型/NOUN ：/PUNCT A/NOUN
+
+prover/VERB b/NOUN says/NOUN ，/PUNCT “/PUNCT You/PRON are/VERB only/NOUN young/VERB once/VERB ./PUNCT ”/PUNCT
+（/PUNCT 适用于/VERB 已/ADV 记住/VERB 的/PART 名言/NOUN ）/PUNCT
+It/NOUN goes/NOUN without/ADP saying/NOUN that/ADV
+
+we/NOUN cannot/VERB be/ADJ young/NOUN forever/NOUN ./PUNCT
+（/PUNCT 适用于/VERB 自编/NOUN 名言/NOUN ）/PUNCT 更/ADV 多/NUM 经典/ADJ 句型/NOUN ：/PUNCT As/NUM everyone/VERB knows/NOUN ，/PUNCT No/ADV one/ADV can/VERB deny/NOUN
+
+that/VERB …/PUNCT
+
+2/NUM ./PUNCT
+开头/VERB 万能/PROPN 公式/VERB 二/NUM ：/PUNCT 数字/NOUN 统计/NOUN 原理/NOUN ：/PUNCT 要/VERB 想/VERB 更/ADV 有/VERB 说服力/NOUN ，/PUNCT 就/ADV 应该/VERB 用/ADP 实际/ADJ 的/PART 数字/NOUN 来/PART 说明/VERB 。/PUNCT
+原则/NOUN 上/PART 在/ADP 议论文/NOUN 当中/PART 不/ADV 应该/VERB 出现/VERB 虚假/ADJ 数字/NOUN 的/PART ，/PUNCT 可是/ADV 在/ADP 考试/VERB 的/PART 时候/NOUN 哪/PART 管/VERB 那/DET 三七二十一/NUM ，/PUNCT 但/ADV 编无妨/NOUN ，/PUNCT 只要/SCONJ 我/PRON 有/VERB 东西/NOUN 写/VERB 就/ADV 万事大吉/VERB 了/PART 。/PUNCT
+所以/ADV 不妨/ADV 试用/VERB 下面/NOUN 的/PART 句型/NOUN ：/PUNCT According/NOUN
+
+to/ADP a/DET recent/NOUN survey/VERB ，/PUNCT about/VERB 78/NUM ./PUNCT 9%/PUNCT of/ADP the/DET college/NOUN students/VERB wanted/NOUN to/ADP further/VERB the/DET ir/NOUN
+
+study/NOUN after/ADV the/DET ir/VERB graduation/NOUN ./PUNCT
+
+看起来/ADV 这个/DET 数字/NOUN 文邹邹/NOUN 的/PART ，/PUNCT 其实/ADV 都/ADV 是/VERB 编造/VERB 出来/VERB 的/PART ，/PUNCT
+下面/NOUN 随便/ADV 几/NUM 个/NUM 题目/NOUN 我们/PRON 都/ADV 可以/VERB 这样/ADV 编造/VERB ：/PUNCT
+Honesty/PROPN
+
+根据/ADP 最近/NOUN 的/PART 一/NUM 项/NUM 统计/NOUN 调查/NOUN 显示/VERB ，/PUNCT 大学生/NOUN 向/ADP 老师/NOUN 请假/VERB 的/PART 理由/NOUN 当中/PART 78%/NOUN 都/ADV 是/VERB 假/VERB 的/PART 。/PUNCT
+Travel/PROPN by/ADP Bike/PROPN
+
+根据/ADP 最近/NOUN 的/PART 一/NUM 项/NUM 统计/NOUN 调查/NOUN 显示/VERB ，/PUNCT 85%/NOUN 的/PART 人/NOUN 在/ADP 近/ADV 距离/VERB 旅行/NOUN 的/PART 时候/NOUN 首选/ADJ 的/PART 交通/NOUN 工具/NOUN 是/VERB 自行车/NOUN 。/PUNCT
+Youth/PROPN
+
+根据/ADP 最近/NOUN 的/PART 一/NUM 项/NUM 统计/NOUN 调查/NOUN 显示/VERB ，/PUNCT 在/ADP 某个/DET 大学/NOUN ，/PUNCT 学生/NOUN 的/PART 课余/NOUN 时间/NOUN 的/PART 70%/NOUN 都/ADV 是/VERB 在/ADP 休闲/NOUN 娱乐/NOUN 。/PUNCT
+Five-day/NOUN Work/NOUN Week/NOUN Better/PROPN than/NOUN
+
+Six/NOUN -/PUNCT
+day/PROPN Work/NOUN ？/PUNCT
+
+根据/ADP 最近/NOUN 的/PART 一/NUM 项/NUM 统计/NOUN 调查/NOUN 显示/VERB ，/PUNCT 98%/NOUN 的/PART 人/NOUN 同意/VERB 每周五/ADV 天/NUM 工作日/NOUN 。/PUNCT
+更/ADV 多/NUM 句型/NOUN ：/PUNCT A/NOUN recent/NOUN statistics/NOUN shows/VERB that/VERB …/PUNCT
+
+二/NUM 结尾/NOUN 万能/PROPN 公式/NOUN ：/PUNCT
+
+1./NUM 结尾/NOUN 万能/PROPN 公式/NOUN 一/NUM ：/PUNCT 如此/ADJ 结论/NOUN
+
+说完/VERB 了/PART ，/PUNCT 毕竟/ADV 要/VERB 归纳/VERB 一番/ADV ，/PUNCT 相信/VERB 各位/PRON 都/ADV 有/VERB 这样/ADJ 的/PART 经历/NOUN ，/PUNCT 领导/NOUN 长篇大论/VERB ，/PUNCT 到/ADP 最后/ADV 终于/ADV 冒出/VERB 个/NUM “/PUNCT 总而言之/NOUN ”/PUNCT 之类/NOUN 的话/PART ，/PUNCT 我们/PRON 马上/ADV 停止/VERB 开小差/NOUN ，/PUNCT 等待/VERB 领导/NOUN 说/VERB 结束语/NOUN 。/PUNCT
+也就是说/ADV ，/PUNCT 开头/NOUN 很/ADV 好/VERB ，/PUNCT 也/ADV 必然/ADV 要/VERB 有/VERB 一个/ADV 精彩/ADJ 的/PART 结尾/NOUN ，/PUNCT 让/VERB 读者/NOUN 眼前/NOUN 一/ADV 亮/VERB ，/PUNCT 这样/ADV ，/PUNCT 你/PRON 就/ADV 可以/VERB 拿/VERB 高分/NOUN 了/PART ！/PUNCT
+比如/ADV 下面/NOUN 的/PART 例子/NOUN ：/PUNCT
+
+Obviously/PROPN （/PUNCT 此/PRON 为/VERB 过渡/NOUN 短语/NOUN ）/PUNCT ，/PUNCT we/NOUN can/VERB draw/PROPN the/DET conclusion/NOUN that/NOUN good/PROPN manners/NOUN arise/VERB from/ADP
+
+politeness/NOUN and/CCONJ respect/VERB for/PROPN o/ADP thers/VERB ./PUNCT
+
+如果/SCONJ 读者/NOUN 很/ADV 难/VERB “/PUNCT 显/VERB 而/PART 见/VERB 之/PART ”/PUNCT ，/PUNCT 但/ADV 说/VERB 无妨/VERB ，/PUNCT 就/ADV 当/ADP 读者/NOUN 的/PART 眼光/NOUN 太/ADV 浅/VERB 罢了/PART ！/PUNCT
+
+更/ADV 多/NUM 过渡/NOUN 短语/NOUN ：/PUNCT to/ADP sum/VERB up/VERB ，/PUNCT in/ADP conclusion/NOUN ，/PUNCT in/ADV brief/VERB ，/PUNCT on/ADV ac/ADP count/NOUN of/ADP this/PRON ，/PUNCT thus/NOUN
+
+更/ADV 多/NUM 句型/NOUN ：/PUNCT
+Thus/NOUN ，/PUNCT it/NOUN can/VERB be/ADJ concluded/PROPN that/VERB …/PUNCT
+，/PUNCT Therefore/PROPN ，/PUNCT we/NOUN can/VERB find/VERB that/VERB …/PUNCT
+
+2/NUM ./PUNCT
+结尾/VERB 万能/PROPN 公式/NOUN 二/NUM ：/PUNCT 如此/ADV 建议/VERB
+
+如果说/SCONJ “/PUNCT 如此/ADJ 结论/NOUN ”/PUNCT 是/VERB 结尾/VERB 最/ADV 没用/VERB 的/PART 废话/NOUN ，/PUNCT 那么/ADV “/PUNCT 如此/ADV 建议/NOUN ”/PUNCT 应该/VERB 是/VERB 最/ADV 有/VERB 价值/NOUN 的/PART 废话/NOUN 了/PART ，/PUNCT 因为/ADP 这里/PRON 虽然/SCONJ 也/ADV 是/VERB 废话/NOUN ，/PUNCT 但是/ADV 却/ADV 用/VERB 了/PART 一个/NUM 很/ADV 经典/ADJ 的/PART 虚拟/ADJ 语气/NOUN 的/PART 句型/NOUN 。/PUNCT
+拽/VERB ！/PUNCT
+
+Obviously/PROPN ，/PUNCT it/NOUN is/VERB high/PROPN time/NOUN that/ADV we/NOUN took/NOUN some/NOUN measures/VERB to/ADP solve/NOUN the/DET
+
+problem/VERB ./PUNCT
+
+这里/PRON 的/PART 虚拟/ADJ 语气/NOUN 用/VERB 得/PART 很/ADV 经典/VERB ，/PUNCT 因为/ADP 考官/NOUN 本来/ADV 经常/ADV 考/VERB 这个/DET 句型/NOUN ，/PUNCT 而/ADV 如果/SCONJ 我们/PRON 自己/PRON 写/VERB 出来/VERB ，/PUNCT 你/PRON 说/VERB 考官/NOUN 会/VERB 怎么/ADV 想/VERB 呢/PART ？/PUNCT
+更/ADV 多/NUM 句型/NOUN ：/PUNCT
+
+Accordingly/PROPN ，/PUNCT I/PRON recommend/VERB that/ADV some/NOUN measures/VERB be/ADJ taken/NOUN ./PUNCT
+
+Conse/NOUN quently/VERB ，/PUNCT to/ADP solve/NOUN the/DET problem/VERB ，/PUNCT some/NOUN measures/VERB should/VERB be/VERB taken/NOUN ./PUNCT
+
+写作/NOUN 绝/ADJ 招二/NOUN （/PUNCT 写作/VERB 的/PART 七/NUM 项/NUM 基本/ADJ 原则/NOUN ）/PUNCT
+写作/NOUN 绝/ADJ 招二/NOUN （/PUNCT 写作/VERB 的/PART 七/NUM 项/NUM 基本/ADJ 原则/NOUN ）/PUNCT
+
+一/NUM 、/PUNCT 长短/NOUN 句/NUM 原则/NOUN
+
+工作/NOUN 还/ADV 得/VERB 一/NUM 张/NUM 一/NUM 驰/NOUN 呢/PART ，/PUNCT 老/ADV 让/VERB 读者/NOUN 读/VERB 长/ADJ 句/NUM ，/PUNCT 累死人/NOUN ！/PUNCT
+写/VERB 一个/NUM 短小/NOUN 精辟/VERB 的/PART 句子/NOUN ，/PUNCT 相反/ADV ，/PUNCT 却/ADV 可以/VERB 起到/VERB 画龙点睛/VERB 的/PART 作用/NOUN 。/PUNCT
+而且/ADV 如果/SCONJ 我们/PRON 把/X 短句/NOUN 放/VERB 在/ADP 段首/NOUN 或者/CCONJ 段末/NOUN ，/PUNCT 也/ADV 可以/VERB 揭示/VERB
+主题/NOUN
+：/PUNCT
+As/NOUN
+
+a/NUM creature/NOUN ，/PUNCT I/PRON eat/VERB ；/PUNCT as/ADV a/NUM man/NOUN ，/PUNCT I/PRON read/VERB ./PUNCT
+Although/PROPN one/NOUN action/PROPN is/VERB to/ADP meet/ADV the/DET primary/NOUN
+
+need/NOUN of/ADP my/VERB body/NOUN and/CCONJ the/DET o/ADP ther/NOUN is/VERB to/ADP satisfy/NOUN the/DET intellectual/ADP need/NOUN of/ADP mind/NOUN ，/PUNCT they/PROPN
+
+are/VERB in/ADP a/NUM way/NOUN quite/VERB similar/NOUN ./PUNCT
+
+如此/ADV 可见/VERB ，/PUNCT 长短/NOUN 句/NUM 结合/VERB ，/PUNCT 抑扬顿挫/VERB ，/PUNCT 岂不爽哉/VERB ？/PUNCT
+牢记/NOUN ！/PUNCT
+
+强烈/ADJ 建议/NOUN ：/PUNCT 在/ADP 文章/NOUN 第一/NUM 段/NUM （/PUNCT 开头/VERB ）/PUNCT 用/VERB 一长一短/NOUN ，/PUNCT 且/ADV 先/ADV 长/VERB 后/PART 短/VERB ；/PUNCT 在/ADP 文章/NOUN 主体/NOUN 部分/NOUN ，/PUNCT 要/VERB 先/ADV 用/VERB 一个/NUM 短/ADJ 句/NUM 解释/VERB 主要/ADJ 意思/NOUN ，/PUNCT 然后/ADV 在/ADP 阐述/VERB 几/NUM 个/NUM 要点/NOUN 的/PART 时候/NOUN 采用/VERB 先/ADV 短/ADJ 后长/NOUN 的/PART 句群/NOUN 形式/NOUN ，/PUNCT 定/ADV 会/VERB 让/VERB 主体/NOUN 部分/NOUN 妙笔生辉/VERB ！/PUNCT
+文章/NOUN 结尾/VERB 一般/ADV 用/ADP 一长一短/NOUN 就/ADV 可以/VERB 了/PART 。/PUNCT
+
+二/NUM 、/PUNCT 主题/NOUN 句/NUM 原则/NOUN
+
+国有/ADJ 其君/NOUN ，/PUNCT 家/NOUN 有/VERB 其主/NOUN ，/PUNCT 文章/NOUN 也/ADV 要/VERB 有/VERB 其主/NOUN 。/PUNCT
+否则/ADV 会/VERB 给/ADP 人/NOUN 造成/VERB “/PUNCT 群龙无首/NOUN ”/PUNCT 之/PART 感/NOUN ！/PUNCT
+相信/VERB 各位/PRON 读/VERB 过/PART 一些/NUM 破烂/ADJ 文学/NOUN ，/PUNCT 故意/ADV 把/X 主体/NOUN 隐藏/VERB 在/ADP 文章/NOUN 之内/PART ，/PUNCT 结果/ADV 造成/VERB 我们/PRON 稀里糊涂/VERB ！/PUNCT
+不知所云/VERB ！/PUNCT
+所以/ADV 奉劝/VERB 各位/PRON 一定/ADV 要/VERB 写/VERB 一个/NUM 主题/NOUN 句/NOUN ，/PUNCT 放/VERB 在/ADP 文章/NOUN 的/PART 开头/NOUN （/PUNCT 保险型/NOUN ）/PUNCT 或者/CCONJ 结尾/NOUN ，/PUNCT 让/VERB 读者/NOUN 一目了然/VERB ，/PUNCT 必/ADV 会/VERB 平安无事/VERB ！/PUNCT
+
+特别/ADJ 提示/NOUN ：/PUNCT 隐藏/VERB 主体/NOUN 句/NOUN 可是/ADV 要/VERB 冒险/VERB 的/PART ！/PUNCT
+
+To/NOUN begin/NOUN with/VERB ，/PUNCT you/PRON must/NOUN work/ADV hard/VERB
+at/ADP your/PRON lessons/PROPN and/CCONJ be/PROPN fully/VERB prepared/PROPN
+
+before/VERB the/DET exam/NOUN （/PUNCT 主题句/NOUN ）/PUNCT 。/PUNCT
+Without/PROPN sufficient/NOUN preparation/VERB ，/PUNCT you/PRON can/VERB hardly/NOUN expect/VERB to/ADP
+
+answer/ADV all/DET the/DET questions/NOUN correctly/NOUN ./PUNCT
+
+三/NUM 、/PUNCT 一/NUM 二/NUM 三/NUM 原则/NOUN
+
+领导/NOUN 讲话/NOUN 总是/ADV 第一/NUM 部分/NUM 、/PUNCT 第一/NUM 点/NUM 、/PUNCT 第二/NUM 点/NUM 、/PUNCT 第三/NUM 点/NUM 、/PUNCT 第二/NUM 部分/NOUN 、/PUNCT 第一/NUM 点/NUM …/PUNCT
+
+如此/ADV 罗嗦/VERB 。/PUNCT
+可/ADV 毕竟/ADV 还是/ADV 条理/NOUN 清楚/VERB 。/PUNCT
+考/VERB 官们/NOUN 看/VERB 文章/NOUN 也/ADV 必然/ADV 要/VERB 通过/ADP 这些/DET 关键性/ADJ 的/PART “/PUNCT 标签/NOUN ”/PUNCT 来/PART 判定/VERB 你/PRON 的/PART 文章/NOUN 是否/VERB 结构/NOUN 清楚/VERB ，/PUNCT 条理/VERB 自然/NOUN 。/PUNCT
+破解/NOUN 方法/NOUN 很/ADV 简单/VERB ，/PUNCT 只要/SCONJ 把/X 下面/NOUN 任何/DET 一/NUM 组/NUM 的/PART 词汇/NOUN 加入/VERB 到/VERB 你/PRON 的/PART 几/NUM 个/NUM 要点/NOUN 前/PART 就/ADV 清楚/VERB 了/PART 。/PUNCT
+
+1/NUM ）/PUNCT first/VERB ，/PUNCT second/NOUN ，/PUNCT third/NOUN ，/PUNCT last/PROPN （/PUNCT 不/ADV 推荐/VERB ，/PUNCT 原因/NOUN ：/PUNCT 俗/NOUN ）/PUNCT
+
+2/NUM ）/PUNCT firstly/VERB ，/PUNCT secondly/NOUN ，/PUNCT thirdly/VERB ，/PUNCT finally/VERB （/PUNCT 不/ADV 推荐/VERB ，/PUNCT
+原因/NOUN ：/PUNCT 俗/NOUN ）/PUNCT
+
+3/NUM ）/PUNCT the/DET first/NOUN ，/PUNCT the/DET second/NOUN ，/PUNCT the/DET third/NOUN ，/PUNCT the/DET last/NOUN （/PUNCT 不/ADV 推荐/VERB ，/PUNCT 原因/NOUN ：/PUNCT 俗/NOUN ）/PUNCT
+
+4/NUM ）/PUNCT in/ADP the/DET first/NOUN place/NOUN ，/PUNCT in/ADP the/DET second/NOUN place/VERB ，/PUNCT in/ADP the/DET third/NOUN place/NOUN ，/PUNCT
+
+lastly/NOUN （/PUNCT 不/ADV 推荐/VERB ，/PUNCT 原因/NOUN ：/PUNCT 俗/NOUN ）/PUNCT
+
+5/NUM ）/PUNCT to/ADP begin/NOUN with/VERB ，/PUNCT then/VERB ，/PUNCT furthermore/VERB ，/PUNCT finally/VERB （/PUNCT 强烈/ADV 推荐/VERB ）/PUNCT
+
+6/NUM ）/PUNCT to/ADP start/NOUN with/VERB ，/PUNCT next/VERB ，/PUNCT in/ADV addition/VERB ，/PUNCT finally/ADV （/PUNCT 强烈/ADV 推荐/VERB ）/PUNCT
+
+7/NUM ）/PUNCT first/VERB and/CCONJ foremost/VERB ，/PUNCT besides/ADV ，/PUNCT last/PROPN but/PROPN not/PROPN least/PROPN （/PUNCT 强烈/ADV 推荐/VERB ）/PUNCT
+8/NUM ）/PUNCT most/NOUN important/PROPN
+
+of/ADP
+
+all/PRON ，/PUNCT moreover/VERB ，/PUNCT finally/ADV
+
+9/NUM ）/PUNCT on/ADP the/DET one/NOUN hand/NOUN ，/PUNCT on/ADP the/DET o/ADP ther/NOUN hand/NOUN （/PUNCT 适用/VERB 于/ADP 两点/NOUN 的/PART 情况/NOUN ）/PUNCT
+
+10/NUM ）/PUNCT
+for/PROPN one/NOUN thing/NOUN ，/PUNCT for/ADP another/NOUN thing/NOUN （/PUNCT 适用/VERB 于/ADP 两点/NOUN 的/PART 情况/NOUN ）/PUNCT
+
+建议/NOUN ：/PUNCT 不仅仅/ADV 在/ADP 写作/NOUN 中/PART 注意/VERB ，/PUNCT 平时/ADV 说话/VERB 的/PART 时候/NOUN 也/ADV 应该/VERB 条理/VERB 清楚/VERB ！/PUNCT
+
+四/NUM 、/PUNCT 短语/NOUN 优先/VERB 原则/NOUN
+
+写作/NOUN 时/PART ，/PUNCT 尤其是/ADV 在/ADP 考试/NOUN 时/PART ，/PUNCT 如果/SCONJ 使用/VERB 短语/NOUN ，/PUNCT 有/VERB 两/NUM 个/NUM 好处/NOUN ：/PUNCT 其一/NOUN 、/PUNCT 用/ADP 短语/NOUN 会/VERB 使/VERB 文章/NOUN 增加/VERB 亮点/NOUN ，/PUNCT 如果/SCONJ 老师们/NOUN 看到/VERB 你/PRON 的/PART 文章/NOUN 太/ADV 简单/VERB ，/PUNCT 看/VERB 不/ADV 到/VERB 一个/NUM 自己/PRON 不/ADV 认识/VERB 的/PART 短语/NOUN ，/PUNCT 必然/ADV 会/VERB 看/VERB 你/PRON 低/ADJ 一等/ADV 。/PUNCT
+相反/ADV ，/PUNCT 如果/SCONJ 发现/VERB 亮点/NOUN -/PUNCT 精彩/ADJ 的/PART 短语/NOUN ，/PUNCT 那么/ADV 你/PRON 的/PART 文章/NOUN 定/ADV 会/VERB 得/VERB 高分/VERB 了/PART 。/PUNCT
+其二/NOUN 、/PUNCT 关键/ADJ 时刻/NOUN 思维/NOUN 短路/VERB ，/PUNCT 只有/ADV 凑字数/NOUN ，/PUNCT 怎么办/VERB ？/PUNCT
+用/ADP 短语/NOUN 是/VERB 一个/NUM 办法/NOUN ！/PUNCT
+比如/ADV ：/PUNCT
+
+I/PRON cannot/VERB bear/PROPN it/NOUN ./PUNCT
+
+可以/VERB 用/ADP 短语/NOUN 表达/VERB ：/PUNCT I/PRON cannot/VERB put/NOUN up/VERB with/ADV it/NOUN ./PUNCT
+
+I/PRON want/NUM it/NOUN ./PUNCT
+
+可以/VERB 用/ADP 短语/NOUN 表达/VERB ：/PUNCT I/PRON am/VERB looking/NOUN forward/VERB to/ADP it/NOUN ./PUNCT
+
+这样/ADJ 字数/NOUN 明显/ADV 增加/VERB ，/PUNCT 表达/NOUN 也/ADV 更/ADV 准确/VERB 。/PUNCT
+
+五/NUM 、/PUNCT 多/NUM 实少/NOUN 虚原/NOUN
+则/ADV
+
+原因/NOUN 很/ADV 简单/VERB ，/PUNCT 写/VERB 文章/NOUN 还是/ADV 应该/VERB 写/VERB 一些/NUM 实际/ADJ 的/PART 东西/NOUN ，/PUNCT 不要/ADV 空话/ADV 连篇/VERB 。/PUNCT
+这就/ADV 要求/VERB 一定/ADV 要/VERB 多/ADV 用/VERB 实词/NOUN ，/PUNCT 少/ADV 用/VERB 虚词/NOUN 。/PUNCT
+我/PRON 这里/PRON 所/PART 说/VERB 的/PART 虚词/NOUN 就是/ADV 指/VERB 那些/DET 比较/ADV 大/ADJ 的/PART 词/NOUN 。/PUNCT
+比如/ADV 我们/PRON 说/VERB 一个/NUM 很/ADV 好的/VERB 时候/NOUN ，/PUNCT 不/ADV 应该/VERB 之/PART 说/VERB nice/NOUN 这样/ADV 空洞/ADJ 的/PART 词/NOUN ，/PUNCT 应该/VERB 使用/VERB 一些/NUM 诸如generous/NOUN ，/PUNCT
+
+humorous/PROPN ，/PUNCT interesting/PROPN ，/PUNCT smart/VERB ，/PUNCT gentle/PROPN ，/PUNCT warm/PROPN -/PUNCT hearted/INTJ ，/PUNCT
+hospital/PROPN
+
+之类/NOUN 的/PART 形象词/NOUN 。/PUNCT
+再/ADV 比如/ADV ：/PUNCT
+
+走出/VERB 房间/NOUN ，/PUNCT general/VERB 的/PART 词/NOUN 是/VERB ：/PUNCT walk/NOUN out/ADP of/ADP the/DET room/NOUN
+
+但是/ADV 小偷/NOUN 走出/VERB 房间/NOUN 应该/VERB 说/VERB ：/PUNCT slip/NOUN out/VERB of/ADP the/DET room/NOUN
+
+小姐/NOUN 走出/VERB 房间/NOUN 应该/VERB 说/VERB ：/PUNCT sail/NOUN out/VERB of/ADP the/DET room/NOUN
+
+小孩/NOUN 走出/VERB 房间/NOUN 应该/VERB 说/VERB ：/PUNCT dance/NOUN out/VERB of/ADP the/DET room/NOUN
+
+老人/NOUN 走出/VERB 房间/NOUN 应该/VERB 说/VERB ：/PUNCT stagger/PROPN out/PROPN of/ADP the/DET room/NOUN
+
+所以/ADV 多/ADV 用/VERB 实词/NOUN ，/PUNCT 少/ADV 用/VERB 虚词/NOUN ，/PUNCT 文章/NOUN 将/ADV 会/VERB 大放异彩/VERB ！/PUNCT
+
+六/NUM 、/PUNCT 多/NUM 变句式/NOUN 原则/NOUN
+
+1/NUM ）/PUNCT 加法/PROPN （/PUNCT 串联/VERB ）/PUNCT
+
+都/ADV 希望/VERB 写下/VERB 很/ADV 长/ADJ 的/PART 句子/NOUN ，/PUNCT 像/ADP 个/NUM 老外/NOUN 似的/ADV ，/PUNCT 可/ADV 就是/ADV 怕/VERB 写错/NOUN ，/PUNCT 怎么办/VERB ，/PUNCT 最/ADV 保险/ADJ 的/PART 写长/NOUN 句/NOUN 的/PART 方法/NOUN 就是/ADV 这些/PRON ，/PUNCT 可以/VERB 在/ADP 任何/DET 句子/NOUN 之间/PART 加and/VERB ，/PUNCT
+
+但/ADV 最好/ADV 是/VERB 前后/NOUN 的/PART 句子/NOUN 又/ADV 先后/ADV 关系/VERB 或者/CCONJ 并列/VERB 关系/NOUN 。/PUNCT
+比如说/ADV ：/PUNCT
+
+I/PRON enjoy/VERB music/NOUN and/CCONJ he/NOUN is/VERB fond/NOUN of/ADP playing/NOUN guitar/VERB ./PUNCT
+
+如果/SCONJ 是/VERB 二者/NOUN 并列/VERB 的/PART ，/PUNCT 我们/PRON 可以/VERB 用/ADP 一个/NUM 超级/ADJ 句式/NOUN ：/PUNCT
+
+Not/PROPN only/ADP the/DET fur/VERB coat/PROPN is/VERB soft/NOUN ，/PUNCT but/ADV it/NOUN is/VERB also/PROPN warm/PROPN ./PUNCT
+
+其它/DET 的/PART 短语/NOUN 可以/VERB 用/VERB ：/PUNCT
+
+besides/VERB ，/PUNCT furthermore/VERB ，/PUNCT likewise/VERB ，/PUNCT moreover/VERB
+
+2/NUM ）/PUNCT 转折/VERB （/PUNCT 拐弯抹角/PROPN ）/PUNCT
+
+批评/VERB 某人/PRON 缺点/VERB 的/PART 时候/NOUN ，/PUNCT 我们/PRON 总习惯/NOUN 先/ADV 拐弯抹角/VERB 说说/VERB 他/PRON 的/PART 优点/NOUN ，/PUNCT 然后/ADV 转入/VERB 正题/NOUN ，/PUNCT 再说/VERB 缺点/VERB ，/PUNCT 这种/DET 方式/NOUN 虽然/SCONJ 阴险/VERB 了/PART 点/NOUN ，/PUNCT 可/ADV 毕竟/ADV 还/ADV 比较/ADV 容易/ADV 让/VERB 人/NOUN 接受/VERB 。/PUNCT
+所以/ADV 呢/PART ，/PUNCT 我们/PRON 说话/VERB 的/PART 时候/NOUN ，/PUNCT 只要/SCONJ 在/ADP 要点/NOUN 之前/PART 先/ADV 来/VERB 点/NUM 废话/NOUN ，/PUNCT 注意/VERB 二者/NOUN 之间/PART 用/VERB 个/NUM 专/ADV 这次/ADV 就/ADV 够/VERB 了/PART 。/PUNCT
+
+The/DET car/PROPN was/NOUN quite/NOUN old/VERB ，/PUNCT yet/NOUN it/VERB was/NOUN in/VERB excellent/NOUN condition/VERB ./PUNCT
+
+The/DET coat/PROPN was/NOUN thin/NOUN ，/PUNCT but/ADV it/ADP was/NOUN warm/VERB ./PUNCT
+
+更/ADV 多/NUM 的/PART 短语/NOUN ：/PUNCT
+
+despite/PROPN that/VERB ，/PUNCT still/NOUN ，/PUNCT however/VERB ，/PUNCT nevertheless/NOUN ，/PUNCT in/ADP spite/NOUN of/ADP ，/PUNCT despite/PROPN ，/PUNCT
+
+not/PROPN with/ADV standing/VERB
+
+3/NUM ）/PUNCT 因果/NOUN （/PUNCT so/ADV ，/PUNCT so/ADV ，/PUNCT so/ADV ）/PUNCT
+
+昨天/NOUN 在/ADP 街上/NOUN 我/PRON 看到/VERB 了/PART 一个/NUM 女孩/NOUN ，/PUNCT 然后/ADV 我/PRON 主动/ADV 搭讪/VERB ，/PUNCT 然后/ADV 我们/PRON 去/VERB 咖啡厅/PROPN ，/PUNCT 然后/ADV 我们/PRON 认识/VERB 了/PART ，/PUNCT 然后/ADV 我们/PRON 成为/VERB 了/PART 朋友/NOUN …/PUNCT
+可见/ADV ，/PUNCT 讲/VERB 故事/NOUN 的/PART 时候/NOUN 我们/PRON 总要/NOUN 追求/VERB 先后/NOUN 顺序/NOUN ，/PUNCT 先/ADV 什么/PRON ，/PUNCT 后/ADV 什么/PRON ，/PUNCT 所以/ADV 然后/ADV 这个/DET 词/NOUN 就/ADV 变得/VERB 很/ADV 常见/VERB 了/PART 。/PUNCT
+其实/ADV 这个/DET 词/NOUN 表示/VERB 的/PART 是/VERB 先后/VERB 或/CCONJ 因果/VERB 关系/NOUN ！/PUNCT
+
+The/DET snow/VERB began/VERB to/ADP fall/VERB ，/PUNCT so/ADV we/VERB went/VERB home/NOUN ./PUNCT
+
+更/ADV 多/NUM 短语/NOUN ：/PUNCT
+
+then/PROPN ，/PUNCT therefore/NOUN ，/PUNCT conse/NOUN quently/VERB ，/PUNCT ac/VERB cordingly/PROPN ，/PUNCT hence/PRON ，/PUNCT as/ADV a/NUM result/NOUN ，/PUNCT for/ADP
+
+this/PRON
+
+reason/PROPN ，/PUNCT
+so/ADV that/ADV
+
+4/NUM ）/PUNCT 失衡/VERB 句/NUM （/PUNCT 头重脚轻/VERB ，/PUNCT 或者/CCONJ 头轻/NOUN 脚重/NOUN ）/PUNCT
+
+有些/DET 人/NOUN 脑袋/NOUN 大/VERB ，/PUNCT 身体/NOUN 小/VERB ，/PUNCT 或者/CCONJ 有些/DET 人/NOUN 脑袋/NOUN 小/VERB ，/PUNCT 身体/NOUN 大/VERB ，/PUNCT 虽然/SCONJ 我们/PRON 不/ADV 希望/VERB 长成/NOUN 这个/DET 样子/NOUN ，/PUNCT 可/ADV 如果/SCONJ 真的/ADV 是/VERB 这样/VERB 了/PART ，/PUNCT 也/ADV 就/ADV 必然/ADV 会/VERB 吸引/VERB 别人/PRON 的/PART 注意力/NOUN 。/PUNCT
+文章/NOUN 中/PART 如果/SCONJ 出现/VERB 这样/PRON 的/PART 句子/NOUN ，/PUNCT 就/ADV 更/ADV 会/VERB 让/VERB 考官/NOUN 看到/VERB 你/PRON 的/PART 句子/NOUN 与众不同/VERB 。/PUNCT
+其实/ADV 就是/ADV 主语/NOUN 从/ADP 句/NOUN ，/PUNCT 表语/VERB 从/ADP 句/NOUN ，/PUNCT 宾语/NOUN 从/ADP 句/NUM 的/PART 变形/NOUN 。/PUNCT
+
+举例/VERB ：/PUNCT This/PRON is/VERB what/NOUN I/PRON can/VERB do/VERB ./PUNCT
+
+Whe/NOUN ther/NOUN he/ADP can/VERB go/VERB with/DET us/NOUN or/CCONJ not/PROPN is/VERB not/PROPN sure/NOUN ./PUNCT
+
+同样/ADV 主语/NOUN 、/PUNCT 宾语/NOUN 、/PUNCT 表语/NOUN 可以/VERB 改成/VERB 如下/ADJ 的/PART 复杂/ADJ 成分/NOUN ：/PUNCT
+
+When/VERB to/ADP go/NOUN ，/PUNCT Why/NOUN he/VERB goes/NOUN away/VERB …/PUNCT
+
+5/NUM ）/PUNCT 附加/VERB （/PUNCT 多此一举/VERB ）/PUNCT
+
+如果/SCONJ 有/VERB 了/PART 老婆/NOUN ，/PUNCT 总会/NOUN 遇到/VERB 这样/PRON 的/PART 情况/NOUN ，/PUNCT 当/ADP 你/PRON 再/ADV 讲/VERB 某/DET 个人/NOUN 的/PART 时候/NOUN ，/PUNCT 她/PRON 会/VERB 插/VERB 一/NUM 句/NUM 说/VERB ，/PUNCT 我/PRON 昨天/NOUN 见/VERB 过/PART 他/PRON ；/PUNCT 或者说/ADV ，/PUNCT 就是/ADV 某/DET 某某/NOUN ，/PUNCT 如果/SCONJ 把/X 老婆/NOUN 的话/PART 插入/VERB 到/VERB 我们/PRON 的话/PART 里面/NOUN ，/PUNCT 那/PRON 就是/ADV 定语/VERB 从/ADP 句/NOUN 和/ADP 同位/NOUN 语从句/NOUN 或者是/CCONJ 插入语/NOUN 。/PUNCT
+
+The/DET man/NOUN whom/VERB you/PRON met/NOUN yesterday/NOUN is/VERB a/NUM friend/VERB of/ADP mine/PROPN ./PUNCT
+
+I/PRON don't/NOUN enjoy/VERB that/NOUN book/PROPN you/PRON are/VERB reading/VERB ./PUNCT
+
+Mr/ADV liu/NOUN ，/PUNCT our/NOUN oral/PROPN English/PROPN teacher/NOUN ，/PUNCT is/VERB easy-going/VERB ./PUNCT
+
+其实/ADV 很/ADV 简单/VERB ，/PUNCT 同/ADP 位语/NOUN ——/PUNCT 要/VERB 解释/VERB 的/PART 东西/NOUN 删除/VERB 后/PART 不/ADV 影响/VERB 整个/DET 句子/ADJ 的/PART 构成/NOUN ；/PUNCT 定语/VERB 从/ADP 句/NOUN -/PUNCT 借用/VERB 之前/PART 的/PART 关键词/NOUN 并且/ADV 用/ADP 其/PRON 重新/ADV 组成/VERB 一个/NUM 句子/ADV 插入/VERB 其中/NOUN ，/PUNCT
+但是/ADV whom/NOUN or/CCONJ
+
+that/NOUN 关键词/NOUN 必须/VERB 要/VERB 紧跟/VERB 在/ADP 先行词/NOUN 之前/PART 。/PUNCT
+
+6/NUM ）/PUNCT 排比/VERB （/PUNCT 排山/VERB 倒/VERB 海句/NOUN ）/PUNCT
+
+文学/NOUN 作品/NOUN 中/PART 最/ADV 吸引/VERB 人/NOUN 的/PART 地方/NOUN 莫过于/VERB 此/PRON ，/PUNCT 如果/SCONJ 非要/ADV 让/VERB 你/PRON 的/PART 文章/NOUN 更加/ADV 精彩/VERB 的话/PART ，/PUNCT 那么/ADV 我/PRON 希望/VERB 你/PRON 引用/VERB 一个个/NOUN 的/PART 排/NOUN 比/ADP 句/NOUN ，/PUNCT 一个个/ADV 得/VERB 对/VERB 偶句/NOUN ，/PUNCT 一个个/NUM 的/PART 不定式/NOUN ，/PUNCT 一个个/ADV 地词/NOUN ，/PUNCT 一个个/NUM 的/PART 短语/NOUN ，/PUNCT 如此/ADV 表达/VERB 将/ADV 会/VERB 使/VERB 文章/NOUN 有/VERB 排山倒海/NOUN 之/PART 势/NOUN ！/PUNCT
+
+Whe/NOUN ther/NOUN your/PRON tastes/NOUN are/VERB modern/NOUN or/CCONJ traditional/NOUN ，/PUNCT sophisticated/NOUN or/CCONJ simple/NOUN ，/PUNCT
+
+there/NOUN is/VERB plenty/NOUN in/ADP London/PROPN for/ADP you/PRON ./PUNCT
+
+Nowadays/VERB ，/PUNCT energy/NOUN can/VERB be/ADP obtained/NOUN through/ADP various/NOUN sources/VERB such/VERB as/VERB oil/NOUN ，/PUNCT
+
+coal/VERB ，/PUNCT natural/NOUN gas/PROPN ，/PUNCT solar/NOUN heat/VERB ，/PUNCT the/DET wind/NOUN and/CCONJ ocean/NOUN tides/NOUN ./PUNCT
+
+We/NOUN have/NOUN got/PROPN to/ADP study/NOUN hard/VERB ，/PUNCT to/ADP enlarge/PROPN our/NOUN scope/VERB of/ADP knowledge/PROPN ，/PUNCT to/ADP
+
+realize/NOUN
+
+our/NOUN potentials/VERB and/CCONJ to/ADP pay/NOUN for/PROPN our/NOUN life/NUM ./PUNCT
+（/PUNCT 气势/NOUN 恢宏/NOUN ）/PUNCT
+
+要/VERB 想/VERB 写出/VERB 如此/ADV 气势/NOUN 恢宏/NOUN 的/PART 句子/NOUN 非用/ADV 排比/VERB 不可/VERB ！/PUNCT
+
+七/NUM 、/PUNCT 挑战/NOUN 极限/NOUN 原则/NOUN
+
+既然/SCONJ 十/NUM 挑战/NOUN 极限/VERB ，/PUNCT 必然/ADV 是/VERB 比较/ADV 难/VERB 的/PART ，/PUNCT 但是/ADV 并非/VERB 不可/ADV 攀/VERB ！/PUNCT
+
+原理/NOUN ：/PUNCT 在/ADP 学生/NOUN 的/PART 文章/NOUN 中/PART ，/PUNCT 很少/ADV 发现/VERB 诸如/ADV 独立/ADJ 主格/NOUN 的/PART 句子/NOUN ，/PUNCT 其实/ADV 也/ADV 很/ADV 简单/VERB ，/PUNCT 只要/SCONJ 花上/VERB 5/NUM 分钟/NUM 的/PART 时间/NOUN 看看/VERB 就/ADV 可以/VERB 领会/VERB ，/PUNCT 它/PRON 就是/ADV 分词/VERB 的/PART 一/NUM 种/NUM 特殊/ADJ 形式/NOUN ，/PUNCT 分词/VERB 要求/VERB 主语/NOUN 一致/VERB ，/PUNCT 而/ADV 独立/ADV 主格/VERB 则/ADV 不然/VERB 。/PUNCT
+比如/ADV ：/PUNCT
+
+The/DET weather/NOUN being/NOUN fine/PROPN ，/PUNCT a/NUM large/NOUN number/NOUN of/ADP people/NOUN went/VERB to/ADP climb/PROPN
+the/DET
+
+Western/PROPN
+
+Hills/PROPN ./PUNCT
+
+A/NOUN frica/NOUN is/VERB the/DET second/NOUN largest/VERB continent/NOUN ，/PUNCT its/PROPN size/NOUN being/VERB about/PROPN three/PROPN
+
+times/VERB
+
+that/NOUN of/ADP China/PROPN ./PUNCT
+
+如果/SCONJ 您/PRON 可/ADV 一些/NUM 出/VERB 这样/PRON 的/PART 句子/NOUN ，/PUNCT 不得/ADV 高分/VERB 才/ADV 怪/VERB ！/PUNCT
+
+写作/NOUN 绝招/NOUN 三/NUM （/PUNCT 文章/NOUN 主体/NOUN 段落/NOUN 三大/NUM 杀手锏/NOUN ）/PUNCT
+
+一/NUM 、/PUNCT 举/VERB 实例/NOUN
+
+思维/NOUN 短路/NOUN ，/PUNCT 举/VERB 实例/NOUN ！/PUNCT
+提出/VERB 一个/NUM 观点/NOUN ，/PUNCT 举/VERB 实例/NOUN ！/PUNCT
+提出/VERB 一个/NUM 方案/NOUN ，/PUNCT 举/VERB 实例/NOUN ！/PUNCT
+而且者/PROPN 也/ADV 是/VERB 我们/PRON 揭示/VERB 一个/ADV 观点/NOUN 最好/VERB 的/PART 方式/NOUN ，/PUNCT 任何/DET 情况/NOUN 下/PART ，/PUNCT 只要/SCONJ 我们/PRON 无法/ADV 继续/VERB 文章/NOUN ，/PUNCT 不管三七二十一/VERB ，/PUNCT 尽管/SCONJ 举/VERB 例子/NOUN ！/PUNCT
+
+In/NOUN order/NOUN to/ADP at/ADP tract/NOUN more/ADP customers/VERB ，/PUNCT advertisers/PROPN have/PROPN adopted/NOUN every/VERB
+
+possible/NOUN simulative/NOUN factor/PROPN in/ADJ making/NOUN ads/NOUN ，/PUNCT such/NOUN as/VERB sound/NOUN ，/PUNCT light/VERB ，/PUNCT
+
+colours/VERB ，/PUNCT
+
+cartoon/PROPN films/NOUN and/CCONJ human/VERB perfor/NOUN mance/VERB ./PUNCT
+For/NOUN instance/NOUN ，/PUNCT to/ADP advertise/VERB a/NUM
+
+certain/NOUN
+
+food/VERB ，/PUNCT advertisers/PROPN will/VERB a/NUM sk/NOUN an/ADJ actor/NOUN or/CCONJ actress/PROPN to/ADP sit/NOUN at/ADP a/NUM table/NOUN and/CCONJ
+
+devour/VERB the/DET seemingly/NOUN delicious/NOUN food/NOUN while/ADP they/PROPN fime/NOUN him/PRON or/CCONJ her/NOUN ./PUNCT
+
+更/ADV 多/NUM 句型/NOUN ：/PUNCT
+
+To/NOUN take/VERB …/PUNCT
+as/ADV an/ADJ example/VERB ，/PUNCT One/NOUN example/VERB is/VERB …/PUNCT ，/PUNCT Another/NOUN example/VERB is/VERB …/PUNCT ，/PUNCT
+for/ADP
+
+example/VERB
+
+二/NUM 、/PUNCT 做/VERB 比较/NOUN 方法/NOUN ：/PUNCT
+
+写完/VERB 一个/NUM 要点/NOUN ，/PUNCT 比较/ADV 与/ADP 之/PRON 相似/VERB 的/PART ；/PUNCT 又/ADV 写/VERB 完/VERB 一个/NUM 要点/NOUN ，/PUNCT 再/ADV 比较/ADV 与/ADP 之/PRON 相反/VERB 的/PART ；/PUNCT
+
+世界/NOUN 上/PART 没有/VERB 同样/ADJ 的/PART 指纹/NOUN ，/PUNCT 没有/VERB 相同/ADJ 的/PART 树叶/NOUN ，/PUNCT 文章/NOUN 亦/ADV 同/VERB ，/PUNCT 只有/ADV 通过/VERB 比较/ADV ，/PUNCT 你/PRON 才/ADV 会/VERB 发现/VERB 二者/NOUN 的/PART 相同点/NOUN （/PUNCT through/ADJ comparison/NOUN ）/PUNCT 和/CCONJ 不同点/NOUN （/PUNCT through/NOUN
+
+contrast/PROPN ）/PUNCT 。/PUNCT
+下面/NOUN 是/VERB 一些/NUM 短语/NOUN ：/PUNCT
+
+相似/VERB 的/PART 比较/ADV
+：/PUNCT
+
+in/NOUN comparison/VERB ，/PUNCT likewise/VERB ，/PUNCT similarly/NOUN ，/PUNCT in/ADP the/DET same/NOUN manner/NOUN
+
+相反/VERB 的/PART 比较/NOUN
+：/PUNCT
+
+on/ADP the/DET o/ADP ther/NOUN hand/NOUN ，/PUNCT conversely/PROPN ，/PUNCT whereas/PROPN ，/PUNCT while/PROPN ，/PUNCT instead/PROPN ，/PUNCT nevertheless/NOUN ，/PUNCT
+
+in/NOUN
+
+contrast/VERB ，/PUNCT on/ADP the/DET contrary/VERB ，/PUNCT compared/VERB with/VERB …/PUNCT ，/PUNCT …/PUNCT
+
+三/NUM 、/PUNCT 换言之/NOUN 没/ADV 话说/VERB 了/PART ，/PUNCT 可以/VERB 换/VERB 一句话/NOUN 再说/VERB ，/PUNCT 让/VERB 你/PRON 的/PART 文章/NOUN 在/ADV 多/VERB 一些/NUM 字/NOUN ，/PUNCT 或者/CCONJ 文邹邹/NOUN 地/PART 说/VERB ，/PUNCT 是/VERB 让/VERB 读者/NOUN 更/ADV 充分/VERB 的/PART 理解/VERB 你/PRON 的/PART 观点/NOUN 。/PUNCT
+
+实际/ADV 就是/ADV 重复/ADV 重复/VERB 再/ADV 重复/VERB ！/PUNCT
+下面/NOUN 的/PART 句子/NOUN 实际上/ADV 就/ADP 三/NUM 个/NUM 字/NOUN I/PRON love/VERB you/PRON ！/PUNCT
+
+I/PRON am/VERB enthusiastic/ADV about/VERB you/PRON ./PUNCT
+That/PRON is/VERB to/VERB say/NOUN ，/PUNCT I/PRON love/NOUN you/PRON ./PUNCT
+
+I/PRON am/VERB wild/PROPN about/PROPN you/PRON ./PUNCT
+In/NOUN o/ADV ther/NOUN words/VERB ，/PUNCT I/PRON have/NOUN fallen/PROPN in/NOUN love/NOUN with/ADV you/PRON ./PUNCT
+
+或者/CCONJ 上面/NOUN 我们/PRON 举/VERB 过/PART 的/PART 例子/NOUN ：/PUNCT I/PRON cannot/VERB bear/PROPN it/NOUN ./PUNCT
+
+可以/VERB 用/ADP 短语/NOUN 表达/VERB ：/PUNCT I/PRON cannot/VERB put/NOUN up/VERB with/ADV it/NOUN ./PUNCT
+
+因此/ADV 可以/VERB 这样/ADV 说/VERB ：/PUNCT I/PRON cannot/VERB bear/PROPN it/NOUN ./PUNCT
+That/PRON is/VERB to/VERB say/NOUN ，/PUNCT I/PRON cannot/VERB put/NOUN up/ADV
+with/ADP it/NOUN or/CCONJ I/PRON
+
+am/VERB
+
+fed/NOUN up/ADV with/ADV it/NOUN ./PUNCT
+
+更/ADV 多/NUM 短语/NOUN ：/PUNCT
+
+in/ADP more/ADV difficult/NOUN language/VERB ，/PUNCT in/ADP simpler/NOUN words/VERB ，/PUNCT put/NOUN it/ADP more/NOUN simply/PROPN
+
+英语/NOUN 写作/NOUN 要/VERB 诀twenty/NOUN -/PUNCT word/NOUN formula/VERB
+
+agreement/PROPN ：/PUNCT 主语/NOUN 和/CCONJ 谓语/VERB 在/ADP 人称/NOUN 、/PUNCT 数/NUM 上/PART 的/PART 一致/NOUN ，/PUNCT 关系/NOUN 代词/NOUN 与/ADP 先行词/NOUN 的/PART 一致/NOUN 。/PUNCT
+
+ambiguity/NOUN ：/PUNCT 尽量/ADV 不/ADV 去/VERB 使用/VERB 可能/VERB 引起/VERB 歧义/NOUN 的/PART 词语/NOUN 或/CCONJ 句子/VERB 。/PUNCT
+
+brief/VERB ：/PUNCT 文章/NOUN “/PUNCT 简为/ADV 贵/VERB ”/PUNCT ，/PUNCT 要/VERB 抓住/VERB 要点/NOUN ，/PUNCT 简明/ADV 扼要/VERB 。/PUNCT
+
+coherence/NOUN ：/PUNCT 文理/NOUN 通顺/NOUN ，/PUNCT 前后/ADV 连贯/VERB 。/PUNCT
+
+development/NOUN ：/PUNCT 主题/NOUN 的/PART 发挥/NOUN 应当/VERB 充分/VERB 、/PUNCT 合理/VERB 、/PUNCT 正确/VERB 。/PUNCT
+
+division/NOUN ：/PUNCT 词汇/NOUN 、/PUNCT 句子/NOUN 、/PUNCT 段落/NOUN 要/VERB 分配/VERB 使用/VERB 得当/VERB ，/PUNCT 划分/VERB 要/VERB 清楚/VERB ，/PUNCT 避免/VERB 使用/VERB 重复/ADJ 字句/NOUN 和/CCONJ 种子/NOUN 片段/NOUN 。/PUNCT
+
+figures/PRON ：/PUNCT 正确/ADV 合理/ADV 使用/VERB 各类/ADJ 修辞/NOUN 格式/NOUN 。/PUNCT
+
+inflated/PROPN diction/NOUN ：/PUNCT 不/ADV 使用/VERB 做作/VERB 的/PART 语言/NOUN 。/PUNCT
+
+key/NOUN ：/PUNCT 用/ADP 适当/ADJ 的/PART 关键词/NOUN 突出/ADJ 主题/NOUN ，/PUNCT 每/DET 段/NUM 都/ADV 应有/VERB 主题/NOUN 句/NOUN 。/PUNCT
+
+logical/NOUN ：/PUNCT 内容/NOUN 要/VERB 符合/VERB 逻辑/NOUN 。/PUNCT
+
+message/NOUN ：/PUNCT 信息/NOUN 要/VERB 新鲜/VERB 、/PUNCT 确实/ADV 、/PUNCT 可信/VERB 。/PUNCT
+
+om/ADV it/NOUN ：/PUNCT 合理/ADJ 删除/VERB 多余/NOUN 的/PART 不/ADV 必要/ADJ 部分/NOUN 。/PUNCT
+
+proposition/NOUN ：/PUNCT 主张/NOUN 、/PUNCT 观点/NOUN 、/PUNCT 论述/VERB 要/VERB 清楚/VERB 肯切/VERB 、/PUNCT 合情/NOUN 入理/VERB 。/PUNCT
+
+punctuation/NOUN ：/PUNCT 正确/ADV 适时/ADV 使用/VERB 标点/NOUN 符号/NOUN 。/PUNCT
+
+relevant/NOUN ：/PUNCT 文章/NOUN 一定/ADV 要/VERB 要/VERB 题/VERB 。/PUNCT
+
+sentence/NOUN pattern/NOUN ：/PUNCT 句型/ADV 要/VERB 尽量/ADV 多样化/VERB 。/PUNCT
+
+straight/NOUN ：/PUNCT 开门见山/VERB ，/PUNCT 直来直去/VERB 。/PUNCT
+
+style/NOUN ：/PUNCT 文体/NOUN 恰切/VERB ，/PUNCT 适合/VERB 内容/NOUN 要求/NOUN 。/PUNCT
+
+tense/NOUN ：/PUNCT 动词/NOUN 时态/NOUN 要/VERB 正确/VERB 、/PUNCT 一致/VERB 、/PUNCT 变化/NOUN 合理/VERB 。/PUNCT
+
+the/DET me/NOUN ：/PUNCT 选题/NOUN 得当/VERB ，/PUNCT 主题/NOUN 突出/VERB 。/PUNCT
+
+来源/NOUN ：/PUNCT zikao/PROPN 365/NUM

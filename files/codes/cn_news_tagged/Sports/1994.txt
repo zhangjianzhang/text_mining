@@ -1,0 +1,10 @@
+新华网/PROPN 布鲁塞尔/PROPN ５月/NOUN ５日/NOUN 电/NOUN （/PUNCT 记者/NOUN 潘革平/PROPN ）/PUNCT
+比利时/PROPN 足球/NOUN 甲级/ADJ 联赛/NOUN ５日/NOUN 结束/VERB 了/PART ２００５年/NOUN ／/PUNCT ２００６年/NOUN 赛季/NOUN 的/PART 全部/DET 比赛/NOUN 。/PUNCT
+安德莱赫/PROPN 特队/ADV 在/ADP 当晚/NOUN 举行/VERB 的/PART 最后/ADJ 一/NUM 轮/NUM 比赛/NOUN 中/PART 主场/NOUN ３：０战/NOUN
+胜祖尔/VERB 特瓦/ADJ 雷根队/NOUN ，/PUNCT 以/ADP ７０/NUM 分/NUM 的/PART 最高/ADJ 总/ADJ 积分/NOUN 夺得/VERB 冠军/NOUN 。/PUNCT
+　　/SPACE 这是/ADV 安德莱赫特/PROPN 俱乐部/NOUN 成立/VERB 来/PART 获得/VERB 的/PART 第二十八/NUM 个/NUM 比/ADP 甲联赛/NOUN 冠军/NOUN 。/PUNCT
+标准/NOUN 列日队/PROPN 以/ADP ５分之差/NOUN 获得/VERB 亚军/NOUN 。/PUNCT
+　　/SPACE 最近/NOUN 一/NUM 段/NUM 时间/NOUN 来/VERB 一直/ADV 被/X 假球/VERB 丑闻/NOUN 困扰/VERB 的/PART 拉鲁维尔队/PROPN 仅/ADV 积２６分/VERB ，/PUNCT 在/ADP １８/NUM 支/NUM 甲级队/NOUN 中/PART 排名/VERB 最后/ADV ，/PUNCT 降级/VERB 早已/ADV 成/VERB 定局/NOUN 。/PUNCT
+排/VERB 在/ADP 倒数/NOUN 第二/NUM 位/NUM 的/PART 利亚斯队/NOUN ，/PUNCT 则/ADV 还有/VERB 机会/NOUN 与/CCONJ 三/NUM 支/NUM 乙级队/NOUN 展开/VERB 最后/ADJ 一/NUM 轮/NUM 争夺/NOUN 。/PUNCT
+　　/SPACE 效力/VERB 于/ADP 比尔肖特队/VERB 的/PART 尼日利亚籍/PROPN 球员/NOUN 托辛·多孙穆/PROPN 以/ADP １８/NUM 个/NUM 进球/NOUN 赢得/VERB 本/DET 赛季/NOUN 最佳/ADJ 射手/NOUN 的/PART 称号/NOUN 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

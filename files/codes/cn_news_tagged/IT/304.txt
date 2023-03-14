@@ -1,0 +1,23 @@
+【eNet/NUM 硅谷/VERB 动力/NOUN 消息/NOUN 】/PUNCT
+美国/PROPN 东部/NOUN 时间/NOUN 5月/NOUN 8日/NOUN （/PUNCT 北京/PROPN 时间/NOUN 5月/NOUN 9日/NOUN ）/PUNCT 消息/NOUN ：/PUNCT 苹果/NOUN 公司/NOUN 首席/ADJ 代表/NOUN 律师/NOUN 日前/NOUN 离开/VERB 了/PART 苹果/NOUN 公司/NOUN ，/PUNCT 她/PRON 是/VERB 近/ADV 几/NUM 个/NUM 月/NOUN 来/PART 离开/VERB 苹果/NOUN 公司/NOUN 的/PART 第三/NUM 位/NUM 高级/ADJ 人才/NOUN 。/PUNCT
+
+苹果/NOUN 公司/NOUN 在/ADP 星期一/NOUN 证实/VERB 了/PART 总/ADJ 顾问/NOUN Nancy/PROPN Heinen/NOUN 的/PART 离职/NOUN ，/PUNCT 但是/ADV 没有/ADV 透露/VERB 她/PRON 是/VERB 何时/PRON 以及/CCONJ 因为/ADP 何种/ADJ 原因/NOUN 而/PART 离开/VERB 的/PART 。/PUNCT
+Nancy/PROPN
+
+Heinen/PROPN 是/VERB 苹果/NOUN 公司/NOUN 职位/NOUN 最/ADV 高/VERB 的/PART 女性/NOUN 高管/NOUN 。/PUNCT
+
+苹果/NOUN 公司/NOUN 发言人/NOUN Steve/PROPN Dowling/PROPN 说/VERB ：/PUNCT “/PUNCT Nancy/PROPN Heinen/PROPN 不/ADV 再/ADV 是/VERB 苹果/NOUN 公司/NOUN 的/PART 一员/NOUN 。/PUNCT
+我们/PRON 已经/ADV 开始/VERB 物色/VERB 新/VERB 的/PART 公司/NOUN 总/ADJ 顾问/NOUN 人选/NOUN 。/PUNCT
+
+公司/NOUN 首席/ADJ 财务官/NOUN Peter/PROPN Oppenheimer/NOUN 将/ADV 暂时/ADV 负责/VERB 监督/VERB 苹果/NOUN 公司/NOUN 的/PART 法律/NOUN 部门/NOUN 工作/VERB 。/PUNCT ”/PUNCT
+
+在/ADP Heinen/NOUN 之前/PART ，/PUNCT 苹果/NOUN 公司/NOUN 旗/NOUN 下i/VERB Pod/NOUN 分公司/NOUN 首席/ADJ 执行官/NOUN 兼/CCONJ 苹果/NOUN 公司/NOUN 硬件/NOUN 高管/NOUN
+Jon/NOUN
+
+Rubinstein/PROPN 和/CCONJ 公司/NOUN 首席/ADJ 软件/NOUN 技术官/PROPN Avie/VERB
+
+Tevanian/PROPN 已经/ADV 相继/ADV 离开/VERB 了/PART 苹果/NOUN 公司/NOUN 。/PUNCT
+Tevanian/PROPN 在/ADP 星期一/NOUN 加入/VERB 了/PART Tellme/PROPN Networks/PROPN 公司/NOUN 董事会/NOUN 。/PUNCT
+
+在/ADP 宣布/VERB Heinen/PROPN 离职/VERB 的/PART 消息/NOUN 之前/PART 不久/ADV ，/PUNCT 苹果/NOUN 公司/NOUN 刚刚/ADV 在/ADP 英国/PROPN 法庭/NOUN 取得/VERB 了/PART 一/NUM 场/NUM 重大/VERB 的/PART 胜利/NOUN 。/PUNCT
+法官/NOUN 最终/ADV 判决/VERB 苹果/NOUN 公司/NOUN 可以/VERB 在/ADP 其iTunes/ADJ 音乐/NOUN 商店/NOUN 中/PART 继续/VERB 使用/VERB 苹果/NOUN 商标/NOUN 。/PUNCT

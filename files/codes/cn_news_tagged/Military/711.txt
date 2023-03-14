@@ -1,0 +1,11 @@
+舰炮/VERB 开火/VERB
+
+海上/NOUN 编队/NOUN
+
+投放/VERB 深水/ADJ 炸弹/NOUN
+
+双/NUM 37/NUM 毫米/CCONJ 高射炮/NOUN
+
+阳春/NOUN 三月/NOUN 正是/VERB 海上/NOUN 练兵/VERB 的/PART 好/ADJ 季节/NOUN 。/PUNCT
+东海/PROPN 舰队/NOUN 某/DET 支队/NOUN 为/ADP 确实/ADV 履行/VERB 好新/ADJ 时期/NOUN 新/ADJ 阶段/NOUN 的/PART 历史/NOUN 使命/NOUN ，/PUNCT 他们/PRON 将/X 部队/NOUN 拉到/VERB 陌生/ADJ 海域/NOUN 进行/VERB 实弹/ADJ 射击/NOUN 训练/NOUN ，/PUNCT 从难从严/VERB 从/ADP 险摔/NOUN 打/VERB 部队/NOUN ，/PUNCT 着力/ADV 强化/VERB 官兵们/NOUN 战斗/NOUN 精神/NOUN ，/PUNCT 提高/VERB 部队/NOUN 应急/ADJ 机动/ADJ 作战/NOUN 能力/NOUN 。/PUNCT
+作者/NOUN ：/PUNCT 毛昭胜/PROPN

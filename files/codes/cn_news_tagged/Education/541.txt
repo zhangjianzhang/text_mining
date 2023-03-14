@@ -1,0 +1,539 @@
+1./NUM With/NUM the/DET _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT of/ADP Mary/NOUN ,/PUNCT all/DET the/DET girl/PROPN students/NOUN are/VERB eager/VERB to/ADP go/VERB to/ADP the/DET
+
+party/NOUN ./PUNCT
+
+A.exhibition/VERB B.exception/PUNCT C.exce/PUNCT pt/NOUN D/NOUN ./PUNCT
+reception/VERB
+
+2/NUM ./PUNCT Although/PROPN the/DET trffic/NOUN is/VERB not/PROPN busy/NOUN ,/PUNCT he/ADP likes/VERB to/ADP drive/PROPN at/ADP a/NOUN _/PUNCT __/PUNCT
+__/PUNCT
+__/PUNCT
+
+speed/NOUN ./PUNCT
+
+A.spare/VERB B/NOUN ./PUNCT
+fast/NOUN C/NOUN ./PUNCT
+moderate/NOUN D/NOUN ./PUNCT
+moral/NOUN
+
+3/NUM ./PUNCT All/NOUN the/DET memories/NOUN of/ADP his/PROPN child/VERB hood/NOUN had/NOUN _/PUNCT __/PUNCT __/PUNCT __/PUNCT from/ADP his/PROPN mind/NOUN by/ADP the/DET time/NOUN
+
+he/VERB was/NOUN 65/NUM ./PUNCT
+
+A/NOUN ./PUNCT
+faded/VERB B.illustrated/PUNCT C/NOUN ./PUNCT
+comfined/PROPN D/NOUN ./PUNCT
+concerned/NOUN
+
+4./NUM This/DET river/NOUN is/VERB so/ADV big/ADV that/ADV it/NOUN is/VERB impossible/NOUN to/ADV build/VERB a/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT
+under/PROPN it/NOUN
+
+without/ADP modern/NOUN technology/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+canal/VERB B.tunnel/NOUN C.channel/PUNCT D/NOUN ./PUNCT
+cable/PROPN
+
+5./NUM The/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT is/VERB nearly/PROPN dead/VERB ,/PUNCT so/ADV I/PRON can/VERB not/PROPN start/NOUN the/DET car/PROPN again/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+bean/NOUN B/NOUN ./PUNCT
+beam/PROPN C.bake/PUNCT D/NOUN ./PUNCT
+battery/VERB
+
+6/NUM ./PUNCT
+When/NOUN making/NOUN modern/NOUN cameras/NOUN ,/PUNCT people/NOUN began/VERB to/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT
+plastics/PROPN for/ADP
+
+metal/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+surround/NOUN B/NOUN ./PUNCT
+substance/NOUN C/NOUN ./PUNCT
+stretch/NOUN D/NOUN ./PUNCT
+substitute/NOUN
+
+7./NUM With/NUM the/DET help/NOUN of/ADP the/DET government/VERB ,/PUNCT a/NUM large/NOUN number/NOUN of/ADP people/NOUN ---_______/PART
+
+after/PROPN the/DET flood/NOUN in/ADV 1991/NUM ./PUNCT
+
+A/NOUN ./PUNCT
+survived/NOUN B/NOUN ./PUNCT
+suspended/NOUN C/NOUN ./PUNCT
+suffered/VERB D/NOUN ./PUNCT
+subfected/NOUN
+
+8/NUM ./PUNCT
+He/VERB always/ADP has/PROPN a/NUM lot/NOUN of/ADP _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT id/VERB eas/NOUN in/NOUN his/PROPN mind/NOUN ,/PUNCT and/CCONJ sometimes/NOUN we/NOUN do/VERB
+
+not/PROPN even/NUM know/NOUN what/VERB he/PART is/VERB thinding/NOUN about/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+novel/NOUN B.spoil/ADP C.acce/PROPN ptable/NOUN D.additional/PUNCT
+
+9/NUM ./PUNCT Please/PROPN be/ADJ serious/NOUN ./PUNCT
+I/PRON am/VERB not/PROPN __/PUNCT __/PUNCT
+__/PUNCT _./PUNCT
+You/PROPN should/PROPN consider/PROPN it/NOUN carefully/PROPN
+
+A/NOUN ./PUNCT
+sorting/ADJ B/NOUN ./PUNCT
+joking/PROPN C/NOUN ./PUNCT
+counting/VERB D/NOUN ./PUNCT
+comparing/VERB
+
+10/NUM ./PUNCT
+We/NOUN do/VERB
+not/PROPN have/PROPN a/NOUN _/PUNCT __/PUNCT __/PUNCT __/PUNCT school/NOUN in/NOUN our/NOUN institute/VERB ./PUNCT
+The/DET highest/PROPN degree/NOUN we/NOUN
+
+provide/NOUN for/ADP the/DET students/NOUN is/VERB a/NUM B/NOUN ./PUNCT
+A/NOUN ./PUNCT
+and/ADV a/NOUN B/NOUN ./PUNCT
+S/X ./PUNCT ./PUNCT
+
+A/NOUN ./PUNCT
+continue/PROPN B/NOUN ./PUNCT
+bay/PROPN C.assistance/NOUN D.graduate/PUNCT
+
+11/NUM ./PUNCT
+In/ADV the/DET United/NOUN States/NOUN ,/PUNCT the/DET foreign/NOUN policy/NOUN is/VERB decided/NOUN by/ADP the/DET __/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+
+government/VERB ,/PUNCT not/PROPN by/CCONJ each/ADV state/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+federal/VERB B/NOUN ./PUNCT
+figure/NOUN C.scientific/PUNCT D/X ./PUNCT
+service/NOUN
+
+12/NUM ./PUNCT
+He/VERB works/NOUN in/ADP our/NOUN university/VERB as/ADV a/NUM visiting/NOUN __/PUNCT __/PUNCT
+__/PUNCT _,/ADV
+not/PROPN as/VERB a/NUM formal/ADJ
+
+faculty/ADJ member/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+traditional/NOUN B.scholar/NUM C.nurse/NOUN D/NOUN ./PUNCT
+pilot/NOUN
+
+13/NUM ./PUNCT
+When/VERB you/PRON fill/VERB in/ADV the/DET application/VERB form/VERB ,/PUNCT please/NOUN use/PROPN your/PRON _/PUNCT __/PUNCT __/PUNCT __/PUNCT
+address/NOUN
+
+so/ADV that/ADJ we/NOUN can/VERB contact/VERB you/PRON easily/ADV later/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+policy/NOUN B.plain/PUNCT C.permanent/PUNCT D/NOUN ./PUNCT
+principal/NOUN
+
+14/NUM ./PUNCT
+John/PROPN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT
+to/ADP be/NOUN a/NUM polite/ADJ man/NOUN ./PUNCT
+But/NOUN in/ADJ fact/NOUN he/VERB is/VERB very/ADJ rude/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+pretends/NOUN B.assures/NOUN C.affords/PUNCT D/X ./PUNCT
+melts/VERB
+
+15/NUM ./PUNCT
+We/NOUN can/VERB not/PROPN trust/NOUN him/PROPN any/PROPN more/NOUN because/NOUN he/VERB often/NOUN __/PUNCT __/PUNCT
+__/PUNCT __/PUNCT his/PROPN duty/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+owes/NOUN B.spoils/PUNCT C.deserts/NOUN D.neglects/PUNCT
+
+16/NUM ./PUNCT
+In/ADV order/NOUN to/ADP increase/PROPN our/NOUN out/PROPN put/NOUN ,/PUNCT we/NOUN need/VERB to/ADP import/NOUN more/VERB production/VERB
+
+__/PUNCT __/PUNCT __/PUNCT _./PUNCT
+
+A/NOUN ./PUNCT
+facilities/NOUN B/NOUN ./PUNCT
+hens/VERB C.votes/PUNCT D.artists/NOUN
+
+17/NUM ./PUNCT
+When/NOUN a/NUM spacecraft/NOUN travels/VERB ,/PUNCT one/NOUN of/ADP the/DET major/NOUN problems/NOUN is/VERB reentry/NOUN in/VERB to/ADP the/DET
+
+Earth/NOUN ’/PUNCT s/NOUN __/PUNCT __/PUNCT
+__/PUNCT _./PUNCT
+
+A/NOUN ./PUNCT
+surface/NOUN B.atmosphere/PUNCT C.attitude/PUNCT D.bent/PUNCT
+
+18/NUM ./PUNCT
+This/DET river/NOUN forms/PROPN a/NUM natural/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT between/VERB China/PROPN and/CCONJ Korea/PROPN ./PUNCT
+
+A/X ./PUNCT
+boundary/ADJ B/NOUN ./PUNCT
+string/NOUN C.spot/PUNCT D/NOUN ./PUNCT
+zone/PROPN
+
+19/NUM ./PUNCT
+She/NOUN is/VERB already/NOUN 16years/NUM old/NOUN ./PUNCT
+But/ADV she/VERB _______as/NOUN if/VERB she/VERB were/PROPN still/VERB a/NUM little/VERB
+
+girl/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+believes/PROPN B.absorbs/PUNCT
+C.accrses/NOUN D.be/NUM haves/VERB
+
+20/NUM ./PUNCT
+We/NOUN are/VERB _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT at/ADP the/DET rapid/NOUN progress/NOUN Mark/ADP has/PROPN made/NOUN in/ADP this/PRON semester/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+distinguished/NOUN B.annoyed/PUNCT C.astonished/PROPN D.scored/NOUN
+
+21/NUM ./PUNCT
+The/DET doctors/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT the/DET medicines/NOUN to/ADP the/DET people/NOUN in/ADP the/DET flood/NOUN area/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+distributed/NOUN B/NOUN ./PUNCT
+packed/VERB C.prayed/NUM D/X ./PUNCT
+under/PROPN took/NOUN
+
+22/NUM ./PUNCT
+Much/VERB of/ADP the/DET news/PROPN provided/NOUN by/ADP this/PROPN newspaper/NOUN is/VERB __/PUNCT __/PUNCT __/PUNCT
+_,/NOUN not/PROPN foreign/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+domestic/NOUN B/NOUN ./PUNCT
+strain/NOUN C/NOUN ./PUNCT
+purchase/VERB D/NOUN ./PUNCT
+murder/NOUN
+
+23/NUM ./PUNCT
+He/VERB tried/NOUN to/ADP _______relations/NOUN with/VERB his/PROPN former/VERB wife/NOUN but/PROPN he/NOUN failed/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+measure/NOUN B/NOUN ./PUNCT maintain/NOUN C/NOUN ./PUNCT
+shelter/NOUN D/NOUN ./PUNCT
+reply/NOUN
+
+24/NUM ./PUNCT
+He/VERB _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT to/ADP study/NOUN harder/VERB in/ADP the/DET future/NOUN so/ADV that/NOUN he/VERB could/PROPN have/PROPN more/VERB
+
+opportunities/ADV to/ADP find/NOUN a/NUM better/PROPN job/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+resolved/NOUN B/NOUN ./PUNCT
+resorted/NOUN C/NOUN ./PUNCT
+requested/ADJ D/NOUN ./PUNCT
+reserved/NOUN
+
+25/NUM ./PUNCT
+The/VERB _/PUNCT __/PUNCT __/PUNCT __/PUNCT work/NOUN continued/NOUN for/ADP more/ADP than/VERB a/NUM week/VERB but/PROPN there/ADP was/NOUN still/VERB no/NOUN
+
+sign/NOUN of/ADP the/DET missing/NOUN boy/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+research/NOUN B/NOUN ./PUNCT
+rescue/PROPN
+C.vessel/PROPN D.vast/PUNCT
+
+26/NUM ./PUNCT
+Many/ADJ kinds/NOUN of/ADP animals/ADV are/VERB believed/VERB to/ADP have/PROPN _________/NOUN from/ADP the/DET earth/VERB
+
+A/NOUN ./PUNCT
+withdrawn/VERB B.vanished/NOUN C/NOUN ./PUNCT
+found/PROPN D/NOUN ./PUNCT
+hung/PROPN
+
+27/NUM ./PUNCT
+The/DET engineers/NOUN in/VERB this/PRON lab/NOUN spent/NOUN several/VERB weeks/NOUN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+the/DET ir/NOUN plans/NOUN for/ADP
+
+the/DET new/NOUN bicycle/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+counting/VERB B/NOUN ./PUNCT
+stripping/PROPN C.elaborating/PUNCT D/NOUN ./PUNCT
+casting/VERB
+
+28/NUM ./PUNCT
+Pine/NOUN trees/NOUN are/VERB usually/NOUN believed/VERB to/NOUN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT cold/PROPN weather/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+guard/VERB B.accomplish/NOUN C.roar/NOUN D/NOUN ./PUNCT
+endure/NOUN
+
+29/NUM ./PUNCT
+Free/ADJ medical/NOUN service/NOUN is/VERB _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT to/ADP nearly/PROPN all/DET the/DET college/NOUN students/NOUN in/NOUN
+
+China/PROPN ./PUNCT
+
+A/NOUN ./PUNCT
+favorite/ADJ B/NOUN ./PUNCT
+available/VERB C.convenient/NOUN D/NOUN ./PUNCT
+average/NOUN
+
+30/NUM ./PUNCT After/PROPN working/NOUN for/ADP twenty/NOUN hours/PROPN without/ADP any/PROPN rest/VERB ,/PUNCT the/DET doctors/NOUN were/PROPN
+
+__/PUNCT __/PUNCT __/PUNCT _./PUNCT
+
+A/NOUN ./PUNCT
+exhausted/ADJ B/NOUN ./PUNCT
+mounted/NOUN C/NOUN ./PUNCT
+wrapped/VERB D/NOUN ./PUNCT
+restored/PROPN
+
+31/NUM ./PUNCT
+The/DET college/NOUN students/NOUN in/ADP China/PROPN are/VERB _/PUNCT __/PUNCT __/PUNCT __/PUNCT from/ADP smoking/NOUN on/NOUN campus/PROPN because/NOUN
+
+this/PRON will/NOUN do/VERB the/DET m/NOUN no/NOUN good/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+discouraged/NOUN B.observed/PUNCT C.obeyed/NOUN D.obtained/PUNCT
+
+32/NUM ./PUNCT
+Professor/PROPN Smith/PROPN is/VERB also/PROPN the/DET _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT of/ADP the/DET international/VERB program/NOUN office/NOUN ./PUNCT
+
+If/NOUN you/PRON have/PUNCT any/PROPN problem/VERB when/PROPN you/PRON study/VERB here/PRON ,/PUNCT you/PRON may/PROPN go/VERB to/ADP him/PROPN for/PROPN help/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+detective/NOUN B/NOUN ./PUNCT
+president/NOUN C/NOUN ./PUNCT
+manager/NOUN D/NOUN ./PUNCT
+director/PROPN
+
+33/NUM ./PUNCT
+We/NOUN won/NOUN ’t/VERB allow/PROPN any/PROPN foreign/NOUN country/VERB to/PART _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT in/NOUN our/NOUN internal/PROPN
+
+affairs/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+devote/NOUN B/NOUN ./PUNCT
+district/NOUN C.interfere/PUNCT D/NOUN ./PUNCT
+wander/ADV
+
+34/NUM ./PUNCT
+We/NOUN can/VERB not/PROPN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT all/DET the/DET magazines/NOUN together/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+route/ADV B.draw/NOUN C.thread/PUNCT D/NOUN ./PUNCT
+bind/ADV
+
+35/NUM ./PUNCT
+What/NOUN he/NOUN said/VERB in/ADP the/DET meeting/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT everybody/VERB present/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+disgusted/PROPN B/NOUN ./PUNCT
+dismissed/PROPN C.disposed/PUNCT D.eliminated/INTJ
+
+36/NUM ./PUNCT
+Some/PROPN lazy/NOUN men/NOUN would/PROPN rather/VERB _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT than/NOUN work/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+indicate/PROPN B.declare/NOUN C.solve/PUNCT D/NOUN ./PUNCT
+starve/NOUN
+
+37/NUM ./PUNCT
+This/DET boy/PROPN was/NOUN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT for/ADP what/NOUN he/ADP had/PROPN done/NOUN in/ADP the/DET class/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+scolded/NOUN B/NOUN ./PUNCT
+overcome/PROPN C.inclined/PUNCT D/NOUN ./PUNCT
+displayed/NOUN
+
+38/NUM ./PUNCT
+Some/NOUN states/NOUN in/ADP the/DET United/ADJ States/PROPN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT people/NOUN to/ADP carry/VERB guns/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+apply/NOUN B/NOUN ./PUNCT
+charm/PROPN C.ignore/PUNCT D/NOUN ./PUNCT
+forbid/PROPN
+
+39/NUM ./PUNCT
+Carelessness/NOUN made/NOUN him/NUM fall/VERB in/ADP his/PROPN job/NOUN __/PUNCT __/PUNCT
+__/PUNCT _./PUNCT
+
+A/NOUN ./PUNCT
+interview/NOUN B/NOUN ./PUNCT
+intention/NOUN C/NOUN ./PUNCT stomach/NOUN D/NOUN ./PUNCT
+stocking/NOUN
+
+40/NUM ./PUNCT
+Sometimes/NOUN it/ADP is/VERB very/VERB difficult/VERB to/NOUN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT some/NOUN of/ADP the/DET English/PROPN words/NOUN ./PUNCT
+
+Even/DET the/DET native/NOUN speaker/NOUN can/VERB not/PROPN help/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+decrease/PROPN B/NOUN ./PUNCT
+create/PROPN C.define/NOUN D.delight/PUNCT
+
+41/NUM ./PUNCT
+Students/PROPN with/PROPN _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT problems/NOUN may/PROPN apply/VERB for/ADP student/NOUN loans/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+economic/NOUN B/NOUN ./PUNCT
+financial/NOUN C/NOUN ./PUNCT
+male/NOUN D.economical/PUNCT
+
+42/NUM ./PUNCT
+Both/PROPN sugar/NOUN and/CCONJ salt/NOUN can/VERB __/PUNCT __/PUNCT
+__/PUNCT in/ADV water/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+desert/NOUN B.absor/PUNCT b/NOUN C.dissolve/PUNCT D/NOUN ./PUNCT
+involve/PROPN
+
+43/NUM ./PUNCT
+I/PRON have/NOUN
+not/PROPN heard/PROPN anything/VERB from/ADP him/PROPN since/NOUN his/NOUN __/PUNCT __/PUNCT
+__/PUNCT _./PUNCT
+
+A/NOUN ./PUNCT
+departure/NOUN B/NOUN ./PUNCT
+fault/NOUN C/NOUN ./PUNCT
+foundation/VERB D.acciptance/NOUN
+
+44/NUM ./PUNCT
+Without/NOUN a/PROPN proper/ADJ education/NOUN ,/PUNCT people/NOUN could/VERB _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT all/DET kinds/NOUN
+of/ADP
+
+crimes/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+conduct/NOUN B/NOUN ./PUNCT
+stoop/NOUN C/NOUN ./PUNCT
+commit/PROPN D/NOUN ./PUNCT
+sweat/VERB
+
+45/NUM ./PUNCT
+Several/PROPN loudspeakers/NOUN are/VERB _/PUNCT __/PUNCT __/PUNCT __/PUNCT from/ADP the/DET ceiling/NOUN and/CCONJ we/NOUN can/VERB hear/ADP the/DET
+
+speaker/NOUN very/VERB clearly/VERB ./PUNCT
+
+A/NOUN ./PUNCT
+connected/ADJ B/NOUN ./PUNCT
+sustained/NOUN C.associated/PUNCT D/X ./PUNCT
+suspended/NOUN
+
+46/NUM ./PUNCT
+This/DET morning/NOUN in/ADP the/DET class/NOUN ,/PUNCT our/NOUN teacher/NOUN lost/NOUN his/NOUN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT at/ADP last/PROPN because/NOUN
+
+he/VERB could/PROPN not/PROPN stand/NOUN any/PROPN more/VERB ./PUNCT
+
+A/X ./PUNCT
+temper/NOUN B.terror/NOUN C.verse/NOUN D/NOUN ./PUNCT
+contain/PROPN
+
+47/NUM ./PUNCT
+It/NOUN is/VERB not/PROPN ---_______/VERB for/VERB me/PRON to/ADP return/PROPN all/DET the/DET books/PROPN to/ADP the/DET library/NOUN now/NOUN
+
+because/NOUN I/PRON still/NOUN need/VERB some/NOUN of/ADP the/DET m/PUNCT for/ADP my/NOUN research/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+continuous/PROPN B/NOUN ./PUNCT
+difficult/NOUN C.convenient/NOUN D/NOUN ./PUNCT
+sufficient/NOUN
+
+48/NUM ./PUNCT
+When/NOUN traveling/NOUN alone/NOUN in/ADP the/DET mountains/NOUN ,/PUNCT you/PRON ’d/VERB better/ADV take/VERB a/NUM _/PUNCT __/PUNCT __/PUNCT
+__/PUNCT with/PRON
+
+you/PRON in/ADP case/VERB you/PRON get/VERB lost/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+compass/PROPN B/NOUN ./PUNCT
+compress/VERB C/NOUN ./PUNCT complse/ADJ D/NOUN ./PUNCT
+campus/PROPN
+
+49/NUM ./PUNCT
+As/NOUN a/NUM teacher/NOUN ,/PUNCT you/PRON should/VERB not/PROPN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT the/DET students/NOUN from/ADP a/DET sking/NOUN questions/NOUN
+
+in/NOUN class/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+ruin/PROPN B/NOUN ./PUNCT restrain/PROPN C.import/PUNCT D.impose/PUNCT
+
+50/NUM ./PUNCT
+If/NOUN you/PRON have/PUNCT any/PROPN problems/NOUN during/NOUN your/PRON study/VERB here/PRON ,/PUNCT please/ADV do/VERB not/PROPN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+
+to/ADP call/NOUN me/PRON for/ADP help/NOUN
+
+A/NOUN ./PUNCT
+hesitate/PROPN B.despair/PUNCT C.urge/PUNCT D/NOUN ./PUNCT
+request/NOUN
+
+答案/NOUN ：/PUNCT
+
+1./NUM B/NOUN 2/NUM ./PUNCT
+C/NOUN 3/NUM ./NOUN A/NOUN 4./NUM B/NOUN 5./NUM D/X 6/NUM ./PUNCT
+D/NOUN 7./NUM A/X 8/NUM ./PUNCT
+A/NOUN 9/NUM ./PUNCT
+B/NOUN 10/NUM ./PUNCT
+D/NOUN 11/NUM ./PUNCT
+A/NOUN 12/NUM ./NOUN
+B/NOUN 13/NUM ./PUNCT
+C/NOUN 14/NUM ./PUNCT
+A/NOUN 15/NUM ./PUNCT
+D/X 16/NUM ./PUNCT
+A/NOUN 17/NUM ./PUNCT
+B/NOUN
+
+18/NUM ./PUNCT
+A/NOUN 19/NUM ./PUNCT
+D/NOUN 20/NUM ./PUNCT
+C/NOUN 21/NUM ./PUNCT
+A/NOUN 22/NUM ./PUNCT
+A/NOUN 23/NUM ./PUNCT
+B/NOUN 24/NUM ./PUNCT
+A/NOUN 25/NUM ./PUNCT
+B/NOUN 26/NUM ./NOUN
+B/NOUN 27/NUM ./PUNCT
+C/NOUN 28/NUM ./NOUN
+D/NOUN 29/NUM ./PUNCT
+B/NOUN 30/NUM ./NOUN
+A/NOUN 31/NUM ./PUNCT
+A/NUM 32/NUM ./PUNCT
+D/NUM 33/NUM ./PUNCT
+C/NOUN
+
+34/NUM ./PUNCT D/NUM 35/NUM ./PUNCT
+A/NOUN 36/NUM ./PUNCT
+D/NUM 37/NUM ./PUNCT
+A/NOUN 38/NUM ./PUNCT
+D/NUM 39/NUM ./PUNCT
+A/NOUN 40/NUM ./PUNCT
+C/NOUN 41/NUM ./NOUN
+B/NOUN 42/NUM ./PUNCT
+C/NOUN 43/NUM ./PUNCT
+A/NOUN 44/NUM ./PUNCT
+C/NOUN 45/NUM ./PUNCT
+D/NOUN 46/NUM ./PUNCT
+A/NOUN 47/NUM ./PUNCT
+C/NOUN 48/NUM ./PUNCT
+A/NOUN 49/NUM ./NOUN
+B/NOUN
+
+50/NUM ./PUNCT
+A/NOUN

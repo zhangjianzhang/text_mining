@@ -1,0 +1,8 @@
+二○○六年/NOUN 四月/NOUN 七日/NOUN ，/PUNCT 中国/PROPN 领先/VERB 的/PART 在线/ADJ 媒体/NOUN 、/PUNCT 搜索/NOUN 和/CCONJ 移动/NOUN 增值/NOUN 服务/NOUN 提供/VERB 商搜狐/PROPN 公司/NOUN 宣布/VERB ，/PUNCT 搜狐网/NOUN 旅游/NOUN 频道/NOUN 与/CCONJ 永邦/PROPN 传媒/NOUN （/PUNCT 玩家/VERB 旅游网/NOUN ）/PUNCT 正式/ADV 签署/VERB 旅行社/NOUN 行业/NOUN 独家/ADJ 广告/NOUN 代理/NOUN 合作/NOUN 的/PART 合同/NOUN 。/PUNCT
+自此/NOUN 后/PART 的/PART 一/NUM 年/NUM ，/PUNCT 由/ADP 永邦/PROPN 传媒/NOUN 独家/ADV 代理/VERB 搜狐网/NOUN 旅游/NOUN 频道/NOUN 旅行社/NOUN 行业/NOUN 广告/NOUN 。/PUNCT
+欢迎/VERB 广大/ADJ 旅行社/NOUN 行业/NOUN 的/PART 合作/NOUN 伙伴/NOUN 就/ADV 在/ADP 搜狐网/NOUN 投放/VERB 广告/NOUN 的/PART 事宜/NOUN 与/CCONJ 永邦/PROPN 传媒/NOUN 进行/VERB 接洽/NOUN 。/PUNCT
+联系/VERB 电话/NOUN 为/VERB ：/PUNCT ０１０－９６０９６１１８/PROPN ，/PUNCT 或者/CCONJ 与/ADP 旅游/NOUN 频道/NOUN 相关/ADJ 人员/NOUN 联系/NOUN ，/PUNCT 电话/NOUN ０１０－６２７２６８５７/PROPN 。/PUNCT
+
+此前/ADV ，/PUNCT 搜狐/PROPN 旅游/NOUN 频道/NOUN 与/CCONJ 前/ADJ 合作/NOUN 伙伴/NOUN 北京/PROPN 泛旅/VERB 神州/PROPN 网络/NOUN 技术/NOUN 有限/ADJ 公司/NOUN 的/PART 合约/NOUN 已经/ADV 于/ADP 二○○六年/NOUN 四月/NOUN 五日/NOUN 到期/VERB ，/PUNCT 双方/PRON 合约/NOUN 解除/VERB 。/PUNCT
+
+特此/ADJ 声明/NOUN ！/PUNCT

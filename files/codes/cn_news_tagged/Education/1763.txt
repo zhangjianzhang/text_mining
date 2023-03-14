@@ -1,0 +1,81 @@
+winner/NOUN 优胜者/NOUN
+
+record/VERB holder/PROPN 纪录/NOUN 保持者/NOUN
+
+cut/NOUN the/DET record/NOUN 打破/VERB 纪录/NOUN
+
+record/PROPN breaker/PROPN 打破/VERB 创造者/NOUN
+
+set/NOUN a/NUM new/NOUN record/NOUN 创造/VERB 新/ADJ 纪录/NOUN
+
+world/VERB record/NOUN 世界/NOUN 纪录/NOUN
+
+champion/PROPN 冠军/NOUN
+
+runner/NOUN -/PUNCT up/NOUN //PUNCT
+the/DET 2nd/NUM place/NUM 亚军/NOUN
+
+third/NOUN place/NOUN //PUNCT the/DET 3rd/NUM place/NUM 季军/NOUN
+
+medalist/NOUN 奖牌/NOUN 获得者/NOUN
+
+gold/PROPN medalist/NOUN 金牌/NOUN 获得者/NOUN
+
+silver/NOUN medalist/NOUN 银牌/NOUN 获得者/NOUN
+
+bronze/PROPN medalist/VERB 铜牌/NOUN 获得者/NOUN
+
+last/PROPN eight/ADV 取得/VERB 决赛权/NOUN 的/PART 八/NUM 名/NUM 选手/NOUN
+
+final/PROPN result/NOUN 决赛/NOUN 成绩/NOUN
+
+to/ADP tal/DET points/NOUN 总分/NOUN
+
+placement/NOUN //PUNCT ranking/NOUN 名次/NOUN ，/PUNCT 排名/VERB
+
+final/PROPN placing/NOUN 决赛/NOUN 名次/NOUN
+
+medal/PROPN tally/NOUN 奖牌榜/NOUN
+
+lost/NOUN to/ADP 败给/VERB
+
+defeat/NOUN 击败/VERB
+
+win/PROPN title/NOUN 夺魁/VERB
+
+go/VERB for/ADP gold/PROPN 夺取/VERB 金牌/NOUN
+
+defend/PROPN title/NOUN 卫冕/NOUN
+
+road/PROPN to/ADP 进军/VERB
+
+victory/NOUN and/CCONJ ceremony/awarding/PROPN ceremony/PROPN 颁奖/NOUN 仪式/NOUN
+
+The/ADV victory/VERB ceremony/PROPN for/PROPN …/PUNCT
+will/PROPN now/NOUN take/PROPN place/NOUN 颁奖/NOUN 仪式/NOUN 现在/NOUN 开始/VERB
+
+announce/NOUN results/NOUN 公布/VERB 成绩/NOUN
+
+The/DET medals/NOUN will/VERB be/ADJ presented/NOUN in/ADP descending/NOUN order/NOUN -/PUNCT 1/NUM st/NOUN ,/PUNCT 2nd/NOUN ,/PUNCT 3rd/NOUN ./PUNCT
+
+按/ADP 第一/NUM 名/NUM 、/PUNCT 第二/NUM 名/NUM 、/PUNCT 第三/NUM 名/NUM 顺序/NOUN 颁发/VERB 奖牌/NOUN 。/PUNCT
+
+raise/NOUN national/PROPN flag/NOUN and/CCONJ play/PROPN national/PROPN anthe/PROPN m/NOUN 升/VERB 国旗/NOUN ，/PUNCT 奏/VERB 国歌/NOUN
+
+mount/NOUN the/DET rostrum/NOUN 登上/VERB 颁奖台/NOUN
+
+sportsmanship/NOUN trophy/VERB 风格/NOUN 奖/NOUN
+
+fair/PROPN play/PROPN trophy/VERB 公平/ADJ 竞赛奖/NOUN
+
+cup/NOUN //PUNCT trophy/VERB 奖杯/NOUN
+
+prize/NOUN money/NOUN 奖金/NOUN
+
+prize/trophy/award/PUNCT 奖品/NOUN
+
+awarding/NOUN //PUNCT to/ADP present/NOUN prize/NOUN 颁发/VERB 奖品/NOUN
+
+title/NOUN 称号/NOUN
+
+undertake/NOUN laps/NOUN of/ADP honor/PROPN 绕场/VERB 一/NUM 周/NUM 向/ADP 观众/NOUN 致意/VERB

@@ -1,0 +1,568 @@
+进球/NOUN （/PUNCT 点/NUM ）/PUNCT
+
+球员/NOUN
+
+球队/NOUN
+
+7/NUM
+
+郑智/PROPN
+
+山东鲁/NOUN 能/VERB
+
+7/NUM (/PUNCT 3/NUM )/NOUN
+
+扬戈维奇/PROPN
+
+大连/PROPN 实德/NOUN
+
+6/NUM
+
+李金羽/PROPN
+
+山东鲁/NOUN 能/VERB
+
+5/NUM (/PUNCT 2/NUM )/NOUN
+
+耶利奇/PROPN
+
+厦门/PROPN 蓝狮/NOUN
+
+4/NUM (/PUNCT 1/NUM )/NOUN
+
+吉奥森/PROPN
+
+武汉/PROPN 光谷/VERB
+
+3/NUM
+
+曹添堡/NOUN
+
+长春亚/PROPN 泰/PROPN
+
+3/NUM
+
+高健/ADJ
+
+长春亚/PROPN 泰/PROPN
+
+3/NUM
+
+拉米雷斯/PROPN
+
+上海/PROPN 申花/VERB
+
+3/NUM
+
+韦利波尔/PROPN
+
+重庆力/NOUN 帆/VERB
+
+3/NUM
+
+科内/PROPN 塞/VERB
+
+北京/PROPN 国安/NOUN
+
+3/NUM
+
+张效瑞/PROPN
+
+上海/PROPN 联城/NOUN
+
+3/NUM
+
+日科夫/ADV
+
+山东鲁/NOUN 能/VERB
+
+3/NUM
+
+郑斌/PROPN
+
+武汉/PROPN 光谷/VERB
+
+3/NUM
+
+徐亮/PROPN
+
+辽宁队/PROPN
+
+3/NUM
+
+韩鹏/PROPN
+
+山东鲁/NOUN 能/VERB
+
+3/NUM
+
+姜宁/PROPN
+
+青岛/PROPN 中/PART
+能/VERB
+
+3/NUM
+
+埃尔韦斯/PROPN
+
+长春亚/PROPN 泰/PROPN
+
+3/NUM
+
+吴伟安/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+3/NUM (/PUNCT 1/NUM )/NOUN
+
+达科/NOUN
+
+重庆力/NOUN 帆/VERB
+
+3/NUM (/PUNCT 2/NUM )/NOUN
+
+邹侑/NOUN 根/VERB
+
+厦门/PROPN 蓝狮/NOUN
+
+2/NUM
+
+闫相/PROPN 闯/VERB
+
+北京/PROPN 国安/NOUN
+
+2/NUM
+
+常琳/PROPN
+
+上海/PROPN 联城/NOUN
+
+2/NUM
+
+姜坤/PROPN
+
+上海/PROPN 联城/NOUN
+
+2/NUM
+
+吴承瑛/PROPN
+
+西安/PROPN 国际/NOUN
+
+2/NUM
+
+忻峰/NOUN
+
+深圳/PROPN 金威/NOUN
+
+2/NUM
+
+许博/PROPN
+
+沈阳金/PROPN 德/PROPN
+
+2/NUM
+
+堤亚/NOUN 戈/PROPN
+
+上海/PROPN 联城/NOUN
+
+2/NUM
+
+曲波/NOUN
+
+青岛/PROPN 中/PART
+能/VERB
+
+2/NUM
+
+杨福生/PROPN
+
+沈阳金/PROPN 德/PROPN
+
+2/NUM
+
+尤万科维奇/NOUN
+
+上海/PROPN 申花/VERB
+
+2/NUM
+
+杨林/PROPN
+
+上海/PROPN 联城/NOUN
+
+2/NUM
+
+郭辉/NOUN
+
+辽宁队/PROPN
+
+1/NUM
+
+肖战波/PROPN
+
+上海/PROPN 申花/VERB
+
+1/NUM
+
+维森/NOUN
+特/ADV
+
+西安/PROPN 国际/NOUN
+
+1/NUM
+
+吴庆/PROPN
+
+重庆力/NOUN 帆/VERB
+
+1/NUM
+
+权磊/NOUN
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+谭斯/PROPN
+
+武汉/PROPN 光谷/VERB
+
+1/NUM
+
+佐里奇/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+杨善平/PROPN
+
+辽宁队/PROPN
+
+1/NUM
+
+丹尼尔/PROPN
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+陈涛/VERB
+
+沈阳金/PROPN 德/PROPN
+
+1/NUM
+
+季铭义/NOUN
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+杜震宇/PROPN
+
+长春亚/PROPN 泰/PROPN
+
+1/NUM
+
+高明/ADJ
+
+长春亚/PROPN 泰/PROPN
+
+1/NUM
+
+吕征/PROPN
+
+山东鲁/NOUN 能/VERB
+
+1/NUM
+
+阿德拉尔/PROPN 多/ADV
+
+上海/PROPN 联城/NOUN
+
+1/NUM
+
+唐京/PROPN
+
+长春亚/PROPN 泰/PROPN
+
+1/NUM
+
+黎斐/NOUN
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+李建华/PROPN
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+徐云龙/PROPN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+叶张根/PROPN
+
+西安/PROPN 国际/NOUN
+
+1/NUM
+
+阎嵩/VERB
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+胡兆军/PROPN
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+肇俊哲/NOUN
+
+辽宁队/PROPN
+
+1/NUM
+
+普科/PROPN
+
+沈阳金/PROPN 德/PROPN
+
+1/NUM
+
+黄凤涛/PROPN
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+张永海/PROPN
+
+辽宁队/PROPN
+
+1/NUM
+
+于/ADP 贵君/VERB
+
+沈阳金/PROPN 德/PROPN
+
+1/NUM
+
+郜林/PROPN
+
+上海/PROPN 申花/VERB
+
+1/NUM
+
+王栋/NOUN
+
+长春亚/PROPN 泰/PROPN
+
+1/NUM
+
+张天罡/PROPN
+
+厦门/PROPN 蓝狮/NOUN
+
+1/NUM
+
+张烁/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+邹捷/VERB
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+奥里欧/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+曹阳/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+杨昊/PROPN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+周海滨/PROPN
+
+山东鲁/NOUN 能/VERB
+
+1/NUM
+
+王文华/PROPN
+
+武汉/PROPN 光谷/VERB
+
+1/NUM
+
+贾文鹏/PROPN
+
+重庆力/NOUN 帆/VERB
+
+1/NUM
+
+王军/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+周熠/PROPN
+
+武汉/PROPN 光谷/VERB
+
+1/NUM
+
+李本舰/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+陆博/NOUN 飞/VERB
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+霍智宇/PROPN
+
+重庆力/NOUN 帆/VERB
+
+1/NUM
+
+李毅/PROPN
+
+深圳/PROPN 金威/NOUN
+
+1/NUM
+
+王圣/PROPN
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+李玮峰/PROPN
+
+上海/PROPN 申花/VERB
+
+1/NUM
+
+黄希扬/PROPN
+
+重庆力/NOUN 帆/VERB
+
+1/NUM
+
+赵作峻/PROPN
+
+西安/PROPN 国际/NOUN
+
+1/NUM
+
+陶伟/NOUN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+黄勇/NOUN
+
+西安/PROPN 国际/NOUN
+
+1/NUM
+
+刘俊威/PROPN
+
+青岛/PROPN 中/PART
+能/VERB
+
+1/NUM
+
+蒿俊/NOUN 闵/ADV
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM
+
+刘志青/PROPN
+
+上海/PROPN 联城/NOUN
+
+1/NUM
+
+高大卫/PROPN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+刘健(/PUNCT 青岛/PROPN )/PROPN
+
+青岛/PROPN 中/PART
+能/VERB
+
+1/NUM
+
+李尧/PROPN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+黄博文/PROPN
+
+北京/PROPN 国安/NOUN
+
+1/NUM
+
+赵旭日/PROPN
+
+大连/PROPN 实德/NOUN
+
+1/NUM
+
+卢彦/PROPN
+
+天津康/NOUN 师傅/NOUN
+
+1/NUM (/PUNCT 1/NUM )/NOUN
+
+阿尤/NOUN
+
+西安/PROPN 国际/NOUN
+
+1/NUM (/PUNCT 1/NUM )/NOUN
+
+李彦/PROPN
+
+西安/PROPN 国际/NOUN
+
+乌龙球/PROPN
+
+杜苹/PROPN
+
+西安/PROPN 国际/NOUN

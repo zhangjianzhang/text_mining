@@ -1,0 +1,8 @@
+中新社/NOUN 澳门/PROPN 三月/NOUN 二十一日/NOUN 电/NOUN
+
+据/ADP 澳门/PROPN 统计/NOUN 暨/CCONJ 普查局/PROPN 资料/NOUN 显示/VERB ，/PUNCT 今年/NOUN 二月/NOUN 入境/VERB 澳门/PROPN 旅客/NOUN 总数/NOUN 高达/VERB 一百七十七万三千九百二十六/NUM 人次/NUM ，/PUNCT 较/ADP 去年/NOUN 同月/NOUN 增加/VERB 百分之十六点五/NUM 。/PUNCT
+
+由于/ADP 农历/NOUN 新年/NOUN 假期/NOUN 延续/VERB 至/ADP 二月/NOUN 初/PART ，/PUNCT 来自/VERB 中国/PROPN 大陆/NOUN 旅客/NOUN 达/VERB 一百万零六千二百七十五/NUM 人次/NUM ，/PUNCT 明显/ADV 增加/VERB 百分之二十点九/NUM ，/PUNCT 香港/PROPN 旅客/NOUN 亦/ADV 上升/VERB 百分之十点四/NUM 。/PUNCT
+
+澳门/PROPN 三大/NUM 客源/NOUN 当中/PART ，/PUNCT 以/ADP 中国/PROPN 大陆/NOUN 旅客/NOUN 所/PART 占/VERB 比重/NOUN 最/ADV 高/VERB ，/PUNCT 达/VERB 百分之五十六点七/NUM ；/PUNCT 其中/NOUN 以/ADP 个人/NOUN 游方式/NOUN 来/VERB 澳/PROPN 的/PART 内地/NOUN 旅客/NOUN 占/VERB 中国/PROPN 大陆/NOUN 旅客/NOUN 百分之五十六点二/NUM 。/PUNCT
+香港/PROPN 及/CCONJ 中国/PROPN 台湾/PROPN 旅客/NOUN 分别/ADV 占/VERB 旅客/NOUN 总数/NOUN 百分之三十点八/NUM 及/CCONJ 百分之六点三/NUM 。/PUNCT

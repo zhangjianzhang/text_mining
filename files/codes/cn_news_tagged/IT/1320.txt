@@ -1,0 +1,13 @@
+正/ADV 计划/VERB 在/ADP 全/DET 公司/NOUN 范围/VERB 内部署/NOUN 多重/ADJ 商务/NOUN 应用/NOUN
+
+2006年/NOUN 3月/NOUN 20日/NOUN ，/PUNCT 世界/NOUN 领先/VERB 的/PART 商务/NOUN 智能/NOUN 软件/NOUN 供应商/NOUN MicroStrategy/PROPN 宣布/VERB ，/PUNCT 美国/PROPN 最/ADV 大/VERB 的/PART 医药/NOUN 服务/NOUN 公司/NOUN 之一Amerisour/PART ceBengen/NOUN 选择/VERB 了/PART MicroStrategy/PROPN 来/PART 支持/VERB 他们/PRON 的/PART 商务/NOUN 智能/NOUN 计划/NOUN ，/PUNCT 该/DET 计划/NOUN 将/ADV 对/ADP 公司/NOUN 内/PART 的/PART 多/NUM 个/NUM 领域/NOUN 提供/VERB 报表/NOUN 和/CCONJ 分析/NOUN 的/PART 支持/NOUN 。/PUNCT
+
+使用/VERB MicroStrategy/PROPN 后/PART ，/PUNCT 成千上万/NUM 的/PART 用户/NOUN 将/ADV 能够/VERB 改善/VERB 他们/PRON 的/PART 关于/ADP 销售/NOUN 、/PUNCT 供应商/NOUN 、/PUNCT 客户/NOUN 、/PUNCT 供应链/NOUN 管理/NOUN 、/PUNCT 财务/NOUN 和/CCONJ 其它/DET 关键/ADJ 领域/NOUN 的/PART 报表/NOUN 和/CCONJ 分析/NOUN 能力/NOUN 。/PUNCT
+他们/PRON 选择/VERB MicroStrategy/PROPN 的/PART 原因/NOUN ，/PUNCT 正是/VERB 因为/ADP MicroStrategy/PROPN 支持/VERB 大数/NOUN 据量/ADJ 环境/NOUN 的/PART 能力/NOUN 和/CCONJ 即时/ADV 分析/VERB 的/PART 能力/NOUN 。/PUNCT
+
+“/PUNCT 通过/ADP MicroStrategy/PROPN ，/PUNCT 我们/PRON 将/ADV 对/ADP 企业/NOUN 价值链/NOUN 有/VERB 了/PART 真正/ADJ 的/PART 企业/NOUN 战略/NOUN 视角/NOUN ，/PUNCT 它/PRON 提供/VERB 了/PART 管理/NOUN 人员/NOUN 对/ADP 运作/NOUN 更/ADV 深入/VERB 的/PART 洞察力/NOUN ，/PUNCT 以及/CCONJ 帮助/VERB 我们/PRON 更/ADV 高效/ADV 纵览/VERB 全/DET 公司/NOUN 的/PART 可/ADJ 操作/VERB 数据/NOUN ”/PUNCT ，/PUNCT Amerisour/PROPN ceBergen/NOUN 的/PART 高级/ADJ 副总裁/NOUN 兼/CCONJ 首席/ADJ 信息官/NOUN Thomas/PROPN H/NOUN ./PUNCT
+Murphy/PROPN 说/VERB ：/PUNCT “/PUNCT 我们/PRON 已经/ADV 使用/VERB MicroStrategy/PROPN 很多/NUM 年/NUM 了/PART ，/PUNCT 这/PRON 帮助/VERB 我们/PRON 变得/VERB 更/ADV 高效/VERB ，/PUNCT 我们/PRON 发现/VERB MicroStrategy/PROPN 的/PART 单一/ADJ 元/ADJ 数据库/NOUN 和/CCONJ 目标/NOUN 再/ADV 使用/VERB ，/PUNCT 减少/VERB 了/PART 我们/PRON 的/PART 管理/NOUN 成本/NOUN 。/PUNCT
+MicroStrategy/PROPN 是/VERB 非常/ADV 适合/VERB 我们/PRON 这样/ADJ 企业级/NOUN 的/PART 分析型/NOUN 报表/NOUN 环境/NOUN 的/PART 。/PUNCT ”/PUNCT
+
+“/PUNCT 我们/PRON 很/ADV 高兴Amerisour/VERB ceBergen/PROPN 选择/VERB 了/PART MicroStrategy/PROPN 来/PART 支持/VERB 他们/PRON 新/VERB 的/PART 战略性/ADJ 企业级/NOUN 商务/NOUN 智能/NOUN 项目/NOUN ，/PUNCT ”/PUNCT MicroStratetgy/PROPN COO/NOUN Sanju/PROPN K/NOUN ./PUNCT
+Bansal/PROPN 说/VERB ：/PUNCT “/PUNCT MicroStrategy/PROPN 的/PART 技术/NOUN 是/VERB 极其/ADV 适合/VERB 财富/NOUN 500/NUM 强/VERB 的/PART 大/ADJ 企业/NOUN 获得/VERB 企业/NOUN 全面/ADV 认识/VERB 的/PART 工具/NOUN ，/PUNCT 可以/VERB 用来/VERB 帮助/VERB 改进/VERB 客户/NOUN 服务/NOUN 、/PUNCT 提高/VERB 运作/NOUN 效率/NOUN ，/PUNCT 并/CCONJ 挖掘/VERB 出新/VERB 的/PART 利润/NOUN 增长点/NOUN 。/PUNCT ”/PUNCT

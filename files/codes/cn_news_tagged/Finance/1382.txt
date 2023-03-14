@@ -1,0 +1,93 @@
+德师/PROPN 报(/NOUN 审)/NOUN 字(/NOUN 06/NUM )/NOUN 第O/NUM 0025/NUM 号/NUM
+
+厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN ：/PUNCT
+
+我们/PRON 接受/VERB 委托/NOUN ，/PUNCT 依据/ADP 《/PUNCT 中国/PROPN 注册/ADJ 会计师/NOUN 独立/ADV 审计/NOUN 准则/NOUN 》/PUNCT 审计/VERB 了/PART 厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT “/PUNCT 贵/ADJ 公司/NOUN ”/PUNCT )/PROPN 2005/NUM 年/NOUN 12/NUM 月/NOUN 31/NUM 日/PROPN 公司/NOUN 及/CCONJ 合并/VERB 的/PART 资产/NOUN 负债/NOUN 表及/VERB 2005/NUM 年度/NOUN 公司/NOUN 及/CCONJ 合并/NOUN 的/PART 利润表/NOUN 和/CCONJ 现金/NOUN 流量/NOUN 表/NOUN ，/PUNCT 并/CCONJ 于/ADP 2006/NOUN 年/NOUN 5/NUM 月/NOUN 8/NUM 日/NUM 签发/VERB 了/PART 德师/PROPN 报(/NOUN 审)/NOUN 字(/NOUN 06/NUM )/NOUN 第P/NUM 1029/NUM 号/NOUN 无/VERB 保留/ADJ 意见/NOUN 的/PART 审计/NOUN 报告/NOUN 。/PUNCT
+
+根据/ADP 中国/PROPN 证监会/NOUN 、/PUNCT 国务院/NOUN 国资委/NOUN 《/PUNCT 关于/ADP 规范/VERB 上市/NOUN 公司/NOUN 与/ADP 关联/NOUN 方资金/NOUN 往来/NOUN 及/CCONJ 上市/NOUN 公司/NOUN 对外/ADV 担保/VERB 若干/NUM 问题/NOUN 的/PART 通知/NOUN 》/PUNCT 的/PART 要求/NOUN ，/PUNCT 贵/ADJ 公司/NOUN 编制/VERB 了/PART 后附/NOUN 的/PART 截至/ADP 2005/NUM 年/NUM 12/NUM 月/NOUN 31日/NUM 贵/ADJ 公司/NOUN 2005/NUM 年度/NOUN 控股/ADJ 股东/NOUN 及/CCONJ 其它/DET 关联/NOUN 方/NOUN 资金/NOUN 占用/NOUN 情况/NOUN 汇总/VERB 表(/VERB 以下/PART 简称/VERB “/PUNCT 汇总表/NOUN ”/PUNCT )/VERB 。/PUNCT
+
+如实/ADV 编制/VERB 和/CCONJ 对外/ADJ 披露汇/NOUN 总表/NOUN 并/CCONJ 确保/VERB 其/PRON 真实性/NOUN 、/PUNCT 合法性/NOUN 及/CCONJ 完整性/NOUN 是/VERB 贵/ADJ 公司/NOUN 的/PART 责任/NOUN 。/PUNCT
+我们/PRON 对汇/NOUN 总表/NOUN 所/PART 载/VERB 资料/NOUN 与/ADP 我/PRON 所/PART 审计/VERB 贵/ADJ 公司/NOUN 截至/ADP 2005/NUM 年/NUM 12/NUM 月/NOUN 31/NUM 日止/NOUN 年度/NOUN 财务/NOUN 报告/NOUN 时/PART 所/PART 复核/VERB 的/PART 会计/NOUN 资料/NOUN 和/CCONJ 经/ADP 审计/NOUN 的/PART 财务/NOUN 报告/NOUN 的/PART 相关/ADJ 内容/NOUN 进行/VERB 了/PART 核对/NOUN ，/PUNCT 在/ADP 所有/DET 重大/ADJ 方面/NOUN 没有/ADV 发现/VERB 不/ADV 一致/VERB 。/PUNCT
+除了/ADP 对/ADP 贵/ADJ 公司/NOUN 实施/VERB 截至/ADP 2005/NUM 年/NUM 12/NUM 月/NOUN 31/NUM 日止/NOUN 年度/NOUN 会计/NOUN 报表/NOUN 审计/NOUN 中/PART 所/PART 执行/VERB 的/PART 对关/NOUN 联方/NOUN 交易/NOUN 有关/VERB 的/PART 审计/NOUN 程序/NOUN 外/PART ，/PUNCT 我们/PRON 并未/ADV 对汇/VERB 总表/NOUN 所/PART 载/VERB 数据/NOUN 执行/VERB 额外/ADJ 的/PART 审计/NOUN 程序/NOUN 。/PUNCT
+
+本函/PROPN 仅/ADV 作为/VERB 贵/ADJ 公司/NOUN 向/ADP 中国/PROPN 证监会/NOUN 呈报/VERB 截至/ADP 2005/NUM 年/NUM 12/NUM 月/NUM 31/NUM 日止/NOUN 年度/NOUN 控股/ADJ 股东/NOUN 及/CCONJ 其它/DET 关联/NOUN 方/NOUN 资金/NOUN 占用/NOUN 情况/NOUN 之/PART 用/NOUN ，/PUNCT 未经/ADP 本/DET 所/NOUN 书面/ADV 同意/VERB ，/PUNCT 不得/ADV 用作/VERB 任何/DET 其它/DET 目的/NOUN 。/PUNCT
+
+德勤/PROPN 华永/PROPN 会计师/NOUN 事务所/NOUN 有限/ADJ 公司/NOUN
+
+2006/NUM 年/NOUN 5/NUM 月/NOUN 8/NUM 日/NUM
+
+厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2005/NUM 年度/NOUN 控股/ADJ 股东/NOUN 及/CCONJ 其它/DET 关联/NOUN 方/NOUN 资金/NOUN 占用/NOUN 情况/NOUN 汇总表/VERB
+
+单位/NOUN ：/PUNCT 万元/NOUN
+
+资金/NOUN 占用/NOUN 方类/NOUN 别/VERB          /SPACE 资金/NOUN 占用/NOUN 方名/NOUN 称/VERB                  /SPACE 占用/NOUN 方/NOUN 与/CCONJ 上市/NOUN 公/ADJ  /SPACE 上市/VERB 公司/NOUN 核算/NOUN 的/PART    /SPACE 2005年/NOUN 期/NUM 初/PART       /SPACE 2005/NOUN 年度/NOUN 占用/NOUN 累计/ADV 发生/VERB 金额/NOUN  /SPACE 2005/NOUN 年度/NOUN 占用/NOUN   /SPACE 2005年/NOUN 度偿/VERB 还/ADV   /SPACE 2005年/NOUN 期末/NOUN 占/VERB    /SPACE 占用/NOUN 形成/VERB 原因/NOUN         /SPACE 占用/NOUN 性质/NOUN
+
+司/NOUN 的/PART 关联/NOUN 关系/NOUN      /SPACE 会计/NOUN 科目/PROPN       /SPACE 占用/VERB 资金/NOUN 余额/NOUN     /SPACE (/PUNCT 不/ADV 含/VERB 占用/NOUN 资金/NOUN 利息/NOUN )/NOUN        /SPACE 资金/NOUN 的/PART 利息/NOUN     /SPACE 累计/ADV 发生/VERB 金额/NOUN   /SPACE 用/ADP 资金/NOUN 余额/NOUN
+
+控股/ADJ 股东/NOUN 、/PUNCT 实际控/NOUN                                                           /SPACE 应收/NOUN 帐款/NOUN          /SPACE 2/NUM ,/PUNCT 990/NUM                /SPACE 9/NUM ,/PUNCT 187/NUM                   /SPACE -/PUNCT
+            /SPACE (/PUNCT 8/NUM ,/PUNCT 433/NUM )/NOUN       /SPACE 3/NUM ,/PUNCT 744/NUM             /SPACE 产品/NOUN 销售/NOUN     /SPACE 经营性/NOUN 占用/VERB
+
+制人/NOUN 及其/CCONJ 附属/ADJ 企业/NOUN   /SPACE 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN                   /SPACE 最终/ADV 控股/ADJ 公司/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB            /SPACE 726/NUM               /SPACE 11/NUM ,/PUNCT 229/NUM                   /SPACE -/PUNCT            /SPACE (/PUNCT 11/NUM ,/PUNCT 199/NUM )/NOUN         /SPACE 756/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+美国/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN                   /SPACE 同一/NOUN 最终/ADJ 控股/ADJ 公司/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB              /SPACE 1/NUM                    /SPACE 1/NUM                   /SPACE -/PUNCT
+                /SPACE (/PUNCT 1/NUM )/PROPN           /SPACE 1/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN               /SPACE 同一/NOUN 最终/ADJ 控股/ADJ 公司/NOUN     /SPACE 应收/VERB 帐款/VERB          /SPACE 5/NUM ,/PUNCT 579/NUM               /SPACE 27/NUM ,/PUNCT 155/NUM                   /SPACE -/PUNCT            /SPACE (/PUNCT 22/NUM ,/PUNCT 612/NUM )/NOUN      /SPACE 10/NUM ,/PUNCT 122/NUM             /SPACE 产品/NOUN 销售/NOUN     /SPACE 经营性/NOUN 占用/VERB
+
+关键/ADJ 管理/NOUN 人员/NOUN 与其/CCONJ 关系/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB            /SPACE 165/NUM                  /SPACE 961/NUM                   /SPACE -/PUNCT
+            /SPACE (/PUNCT 1/NUM ,/PUNCT 015/NUM )/NOUN         /SPACE 111/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN       /SPACE 密切/VERB 的/PART 家庭/NOUN 成员/NOUN 直接/ADV 控制/VERB 的/PART 公司/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB         /SPACE 10/NUM ,/PUNCT 146/NUM                  /SPACE 266/NUM                   /SPACE -/PUNCT
+            /SPACE (/PUNCT 1/NUM ,/PUNCT 942/NUM )/NOUN       /SPACE 8/NUM ,/PUNCT 470/NUM   /SPACE 资金/NOUN 拆借/NOUN ，/PUNCT 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN                                    /SPACE 应收/VERB 帐款/NOUN            /SPACE
+0/NUM ./PUNCT
+4/NUM                  /SPACE 3.1/NUM                   /SPACE -/PUNCT                 /SPACE (/PUNCT 3/NUM )/NOUN         /SPACE 0.5/NUM             /SPACE 产品/NOUN 销售/NOUN     /SPACE 经营性/NOUN 占用/VERB
+
+同一/NOUN 最终/ADJ 控股/ADJ 公司/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB            /SPACE 349/NUM               /SPACE 21/NUM ,/PUNCT 658/NUM                   /SPACE -/PUNCT               /SPACE (/PUNCT 373/NUM )/NOUN      /SPACE 21/NUM ,/PUNCT 634/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+台湾/PROPN 灿宝/VERB 股份/NOUN 有限/ADJ 公司/NOUN               /SPACE 同一/NOUN 最终/ADJ 控股/ADJ 公司/NOUN   /SPACE 其它/PRON 应/VERB 收款/VERB              /SPACE 3/NUM                   /SPACE －/PUNCT                  /SPACE －/PUNCT                 /SPACE (/PUNCT 3/NUM )/NOUN           /SPACE -/PUNCT             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+小计/PROPN                                                                                      /SPACE 19/NUM ,/PUNCT 959/NUM ./PUNCT
+4/NUM             /SPACE 70/NUM ,/PUNCT 460/NUM ./PUNCT
+1/NUM                                /SPACE (/PUNCT 45/NUM ,/PUNCT 581/NUM )/NOUN    /SPACE 44/NUM ,/PUNCT 838/NUM ./PUNCT
+5/NUM
+
+(续/NOUN )/NOUN
+
+厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2005/NUM 年度/NOUN 控股/ADJ 股东/NOUN 及/CCONJ 其它/DET 关联/NOUN 方/NOUN 资金/NOUN 占用/NOUN 情况/NOUN 汇总表/VERB －续/VERB
+
+单位/NOUN ：/PUNCT 万元/NOUN
+
+资金/NOUN 占用/NOUN                             /SPACE 资金/NOUN 占用/NOUN         /SPACE 占用/NOUN 方/NOUN 与/CCONJ 上市/NOUN 公司/NOUN 的/PART  /SPACE 上市/ADJ 公司/NOUN 核算/NOUN 的/PART     /SPACE 2005年/NOUN 期/NUM 初/PART  /SPACE 2005/NOUN 年度/NOUN 占用/NOUN 累计/ADV 发生/VERB 金额/NOUN   /SPACE 2005/NOUN 年度/NOUN 占用/NOUN    /SPACE 2005年/NOUN 度偿/VERB 还/ADV     /SPACE 2005年/NOUN 期末/NOUN 占/VERB   /SPACE 占用/NOUN 形成/VERB 原因/NOUN       /SPACE 占用/NOUN 性质/NOUN
+
+方类/NOUN 别/VERB                               /SPACE 方名/NOUN 称/VERB           /SPACE 关联/NOUN 关系/NOUN               /SPACE 会计/NOUN 科目/NOUN      /SPACE 占用/VERB 资金/NOUN 余额/NOUN   /SPACE (/PUNCT 不/ADV 含/VERB 占用/NOUN 资金/NOUN 利息/NOUN )/NOUN         /SPACE 资金/NOUN 的/PART 利息/NOUN      /SPACE 累计/ADV 发生/VERB 金额/NOUN     /SPACE 用/ADP 资金/NOUN 余额/NOUN
+
+上市/ADJ 公司/NOUN 的/PART 子/NOUN                /SPACE 上海/PROPN 灿坤/VERB 实业/NOUN 有限/ADJ 公司/NOUN       /SPACE 子公司/NOUN             /SPACE 其它/DET 应/VERB 收款/VERB            /SPACE
+1/NUM ,/PUNCT 136/NUM             /SPACE 205/NUM                      /SPACE -/PUNCT            /SPACE (/PUNCT 1/NUM ,/PUNCT 172/NUM )/NOUN           /SPACE 169/NUM             /SPACE 代垫/NOUN 款项/NOUN    /SPACE 非经营性/ADV 占用/VERB
+
+公司/NOUN 及其/CCONJ 附属/VERB                /SPACE 漳州/PROPN 灿坤/VERB 实业/NOUN 有限/ADJ 公司/NOUN       /SPACE 子公司/NOUN             /SPACE 其它/DET 应/VERB 收款/VERB           /SPACE 11/NUM ,/PUNCT 226/NUM          /SPACE 17/NUM ,/PUNCT 004/NUM                      /SPACE -/PUNCT            /SPACE (/PUNCT 20/NUM ,/PUNCT 637/NUM )/PROPN         /SPACE 7/NUM ,/PUNCT 593/NUM   /SPACE 代收/VERB 货款/NOUN 和/CCONJ 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+企业/NOUN                        /SPACE 漳州/PROPN 灿坤/VERB 南港/PROPN 电器/NOUN 有限/ADJ 公司/NOUN   /SPACE 子公司/NOUN             /SPACE 其它/DET 应/VERB 收款/VERB                /SPACE -/PUNCT             /SPACE 188/NUM                      /SPACE -/PUNCT               /SPACE (/PUNCT 148/NUM )/PROPN            /SPACE 40/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+厦门/PROPN 灿坤/VERB 科技/NOUN 有限/ADJ 公司/NOUN       /SPACE 子公司/NOUN             /SPACE 其它/DET 应/VERB 收款/VERB              /SPACE 282/NUM             /SPACE 504/NUM                      /SPACE -/PUNCT                /SPACE (/PUNCT 70/NUM )/NOUN           /SPACE 716/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+厦门/PROPN 灿坤/VERB 电通/NOUN 有限/ADJ 公司/NOUN       /SPACE 子公司/NOUN   /SPACE 短期/NOUN 投资/NOUN 和/CCONJ 其它/DET 应/VERB 收款/VERB           /SPACE 36/NUM ,/PUNCT 163/NUM         /SPACE 108/NUM ,/PUNCT 071/NUM                    /SPACE 650/NUM            /SPACE (/PUNCT 53/NUM ,/PUNCT 414/NUM )/NOUN        /SPACE 91/NUM ,/PUNCT 470/NUM   /SPACE 资金/NOUN 拆借/NOUN 和/CCONJ 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+上海/PROPN 灿宝/VERB 电子/NOUN 有限/ADJ 公司/NOUN       /SPACE 子公司/NOUN             /SPACE 其它/DET 应/VERB 收款/VERB               /SPACE 84/NUM           /SPACE 1/NUM ,/PUNCT 316/NUM                      /SPACE -/PUNCT                   /SPACE -/PUNCT         /SPACE 1/NUM ,/PUNCT 400/NUM             /SPACE 代垫/NOUN 款项/NOUN   /SPACE 非经营性/ADV 占用/VERB
+
+小计/PROPN                        /SPACE -/PUNCT                               /SPACE -/PUNCT                      /SPACE -/PUNCT           /SPACE 48/NUM ,/PUNCT 891/NUM         /SPACE 127/NUM ,/PUNCT 288/NUM                    /SPACE 650/NUM            /SPACE (/PUNCT 75/NUM ,/PUNCT 441/NUM )/NOUN       /SPACE 101/NUM ,/PUNCT 388/NUM
+
+关联/VERB 自然人/NOUN 及其/CCONJ 控制/NOUN 的/PART 法人/NOUN    /SPACE 不/ADV 适用/VERB                     /SPACE 不/ADV 适用/VERB                 /SPACE 不/ADV 适用/VERB           /SPACE 不/ADV 适用/VERB          /SPACE 不/ADV 适用/VERB                 /SPACE 不/ADV 适用/VERB              /SPACE 不/ADV 适用/VERB        /SPACE 不/ADV 适用/VERB               /SPACE 不/ADV 适用/VERB         /SPACE 不/ADV 适用/VERB
+
+其它/DET 关联人/NOUN 及其/CCONJ 附属/ADJ 企业/NOUN      /SPACE 不/ADV 适用/VERB                     /SPACE 不/ADV 适用/VERB                 /SPACE 不/ADV 适用/VERB           /SPACE 不/ADV 适用/VERB          /SPACE 不/ADV 适用/VERB                 /SPACE 不/ADV 适用/VERB              /SPACE 不/ADV 适用/VERB        /SPACE 不/ADV 适用/VERB               /SPACE 不/ADV 适用/VERB         /SPACE 不/ADV 适用/VERB
+
+总计/ADV                        /SPACE -/PUNCT                               /SPACE -/PUNCT                      /SPACE -/PUNCT         /SPACE 68/NUM ,/PUNCT 850/NUM ./PUNCT
+4/NUM       /SPACE 197/NUM ,/PUNCT 748/NUM ./PUNCT
+1/NUM                    /SPACE 650/NUM           /SPACE (/PUNCT 121/NUM ,/PUNCT 022/NUM )/PROPN     /SPACE 146/NUM ,/PUNCT 226/NUM ./PUNCT
+5/NUM
+
+此/DET 表/NOUN 已/ADV 于/ADP 2006/NOUN 年/NUM 5/NUM 月/NOUN 8/NUM 日获/NOUN 董事会/NOUN 批准/VERB 。/PUNCT
+
+企业/NOUN 负责人/NOUN ：/PUNCT 蔡渊松/PROPN 主管/NOUN 会计/NOUN 工作/NOUN 的/PART 负责人/NOUN ：/PUNCT
+林志鸿/PROPN 会计/NOUN 机构/NOUN 负责人/NOUN ：/PUNCT 林志鸿/PROPN

@@ -1,0 +1,229 @@
+足彩/VERB 进球/VERB 玩法/VERB 06023/NUM 期/NUM 赛果/NOUN
+
+队名/NOUN
+
+佛/NOUN
+
+罗/PROPN
+
+伦/PROPN
+
+雷/PROPN
+
+吉/PROPN
+
+纳/VERB
+
+国/NOUN
+
+米/NUM
+
+锡/NOUN
+
+耶/INTJ
+
+纳/VERB
+
+尤/ADV
+
+文/NOUN
+
+巴/PROPN
+
+勒/VERB
+
+莫/ADV
+
+梅/PROPN
+
+西/NOUN
+
+纳/VERB
+
+恩/INTJ
+
+波/NOUN
+
+利/VERB
+
+帕/VERB
+
+尔/ADV
+
+玛/NOUN
+
+AC/PROPN
+
+米/NUM
+
+兰/ADV
+
+罗/PROPN
+
+马/PROPN
+
+特/ADV
+
+雷/PROPN
+
+维/NOUN
+
+进球/VERB 彩/NOUN
+
+3/NUM +/PUNCT
+
+2/NUM
+
+1/NUM
+
+1/NUM
+
+2/NUM
+
+1/NUM
+
+1/NUM
+
+2/NUM
+
+2/NUM
+
+3/NUM +/PUNCT
+
+1/NUM
+
+0/NUM
+
+详细/ADJ 比分/NOUN >>/NUM
+
+足彩/VERB 进球/VERB 玩法/VERB 06023/NUM 期/NUM 开奖/NOUN 结果/NOUN
+
+一等奖/NUM
+
+3/NUM (注/NOUN )/NOUN
+
+920203/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+二等奖/NOUN
+
+41/NUM (注/NOUN )/NOUN
+
+14428/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+三等奖/PROPN
+
+655/NUM (注/NOUN )/NOUN
+
+903/NUM (元/NOUN //PUNCT 注)/PUNCT
+
+销售额/NOUN ：/PUNCT 6162080/NUM 元/NUM
+
+开奖/NOUN 详情/NOUN >>/NUM
+
+足彩/VERB 进球/VERB 玩法/VERB 06023/NUM 期/NUM 冷门/NOUN 排行/VERB
+
+排名/VERB
+
+球队/NOUN
+
+进球数/NOUN
+
+3/NUM +/PUNCT
+
+2/NUM
+
+1/NUM
+
+0/NUM
+
+1/NUM
+
+雷吉纳/PROPN
+
+2/NUM
+
+1./NOUN 13/NOUN
+
+6/NUM ./PUNCT 69/NUM
+
+42/NUM ./PUNCT
+57/NUM
+
+49/NUM ./PUNCT
+60/NUM
+
+评/VERB
+
+2/NUM
+
+帕尔马/NOUN
+
+2/NUM
+
+3/NUM ./PUNCT 38/NUM
+
+13/NUM ./PUNCT 72/NUM
+
+46/NUM ./PUNCT
+80/NUM
+
+36/NUM ./PUNCT 09/NOUN
+
+评/VERB
+
+3/NUM
+
+罗马/PROPN
+
+1/NUM
+
+46/NUM ./PUNCT
+14/NUM
+
+33/NUM ./NUM
+36/NUM
+
+17/NUM ./PUNCT 57/NUM
+
+2/NUM ./PUNCT 93/NUM
+
+评/VERB
+
+4/NUM
+
+国米/NOUN
+
+1/NUM
+
+35/NUM ./PUNCT
+50/NUM
+
+36/NUM ./PUNCT 38/NUM
+
+22/NUM ./PUNCT
+80/NUM
+
+5./NUM 32/NUM
+
+评/VERB
+
+5/NUM
+
+恩波利/PROPN
+
+2/NUM
+
+11/NUM ./PUNCT
+85/NUM
+
+28/NUM ./PUNCT
+47/NUM
+
+40/NUM ./PUNCT
+04/NUM
+
+19/NUM ./PUNCT 64/NUM
+
+评/VERB
+
+详细/ADJ 冷门/NOUN 排行/VERB >>/NUM

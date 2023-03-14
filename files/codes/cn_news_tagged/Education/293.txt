@@ -1,0 +1,44 @@
+求职/NOUN 信/NOUN 也/ADV 是/VERB 简历/NOUN 中/PART 的/PART 一个/NUM 重要/ADJ 组成/NOUN 。/PUNCT
+我们/PRON 已经/ADV 介绍/VERB 过/PART 英语/NOUN 求职/NOUN 信应/NOUN 包括/VERB 的/PART 几/NUM 个/NUM 要素/NOUN ，/PUNCT
+
+但是/ADV 不同/ADJ 类型/NOUN 求职/NOUN 信/NOUN 的/PART 写作/NOUN 有/VERB 不同/VERB 的/PART 特点/NOUN ，/PUNCT 因此/ADV 我们/PRON 将/ADV 推出/VERB 一个/NUM 求职/NOUN 信/NOUN 的/PART 系列/NOUN 范文/NOUN 供/VERB 大家/PRON 参考/VERB 。/PUNCT
+
+下面/NOUN 是/VERB 一/NUM 封/NUM 经由/ADP 熟人/NOUN 介绍/VERB 、/PUNCT 申请/VERB 职位/NOUN 的/PART 求职信/NOUN 。/PUNCT
+
+Dear/VERB Mr/NOUN ./PUNCT
+Morgan/PROPN ,/PUNCT
+
+Fillip/PROPN Stiller/NOUN advised/ADV me/PRON of/ADP a/NUM foreman/ADJ position/NOUN that/NOUN 's/VERB available/VERB at/ADP your/PRON
+
+company/NOUN ./PUNCT
+From/ADP my/VERB enclosed/NOUN ré/NOUN sumé/VERB ,/PUNCT you/PRON will/VERB find/NOUN that/VERB my/VERB experience/VERB meets/VERB the/DET
+
+requirements/ADV you/PRON 've/NUM outlined/PROPN for/ADP the/DET position/NOUN ./PUNCT
+
+As/ADV the/DET former/VERB manager/NOUN of/ADP a/DET small/NOUN business/NOUN ,/PUNCT I/PRON appreciate/VERB the/DET importance/NOUN
+of/ADP a/DET
+
+following/PROPN that/NOUN comes/PROPN from/ADP the/DET recommendations/NOUN of/ADP satisfied/NOUN clients/VERB ./PUNCT
+I/PRON am/VERB
+
+considered/VERB a/NUM diplomatic/PROPN manager/NOUN ,/PUNCT which/PROPN enables/VERB me/PRON to/ADP get/PROPN along/VERB well/ADV with/ADV
+
+clients/NOUN ,/PUNCT supervisors/NOUN ,/PUNCT and/CCONJ staff/NOUN ./PUNCT
+My/PRON ability/VERB to/ADP maintain/NOUN high/PROPN morale/NOUN among/PROPN
+
+workers/PROPN increases/VERB retention/NOUN and/CCONJ contributes/PROPN to/ADP safety/VERB ,/PUNCT a/NOUN crucial/PROPN factor/NOUN
+in/ADP the/DET
+
+success/NOUN of/ADP construction/NOUN work/NOUN ./PUNCT
+
+I/PRON would/PROPN welcome/VERB the/DET opportunity/NOUN for/ADP a/DET personal/ADJ interview/NOUN with/ADP you/PRON at/ADP your/PRON
+
+convenience/NOUN ./PUNCT
+
+Sincerely/PROPN ,/PUNCT
+
+Allan/PROPN Everson/PROPN
+
+Enclosed/PROPN :/PUNCT ré/NOUN sumé/NOUN
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

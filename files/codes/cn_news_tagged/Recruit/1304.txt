@@ -1,0 +1,27 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE SKILLS/PROPN :/PUNCT 　　/SPACE Typing/PROPN 65/NUM +/PUNCT w/NOUN pm/NOUN ./PUNCT
+　　/SPACE Strong/NOUN knowledge/VERB of/ADP general/PROPN ac/VERB counting/PROPN procedures/NOUN ./PUNCT
+　　/SPACE Ability/PROPN to/ADP work/PROPN under/PROPN pressure/NOUN in/ADP a/NUM fast-paced/NOUN environment/NOUN and/CCONJ manage/NOUN multiple/NOUN tasks/NOUN ./PUNCT
+　　/SPACE Ability/PROPN to/ADP work/NOUN independently/ADV with/ADP good/NOUN organizational/VERB and/CCONJ communication/NOUN skills/NOUN ./PUNCT
+　　/SPACE Experience/NOUN working/NOUN for/ADP a/DET large/NOUN corporation/VERB ./PUNCT
+　　/SPACE Professional/PROPN appearance/PROPN and/CCONJ attitude/NOUN ./PUNCT
+　　/SPACE EX/PROPN PER/NOUN I/PRON ENCE/NOUN :/PUNCT 　　/SPACE 1989/NOUN -/PUNCT Present/PROPN CARTE/NOUN R/NOUN TRUST/PROPN 　　/SPACE Office/NOUN Clerk/PROPN 　　/SPACE Transcribe/NOUN statements/NOUN form/VERB insureds,type/VERB letters/PROPN to/ADP attorneys,insureds/NOUN ,/PUNCT and/CCONJ o/ADP ther/NOUN insurance/NOUN companies/VERB ./PUNCT Manage/ADJ timely/NOUN payment/NOUN of/ADP worker/NOUN 's/VERB compensation/NOUN checks/PROPN and/CCONJ the/DET timely/NOUN filing/VERB of/ADP workers/PROPN '/ADJ compensation/NOUN forms;type/NOUN confidential/VERB material/VERB such/NOUN as/ADV employee/ADV appraisals/VERB for/ADP the/DET Claims/PROPN Manager/PROPN ./PUNCT
+Extensive/PROPN workload/NOUN on/VERB IBM/PROPN 3090/NUM processing/NOUN insurance/NOUN claims/PROPN ,/PUNCT payments/VERB ,/PUNCT and/ADV recovery/NOUN checks/VERB ./PUNCT
+Print/NOUN checks/VERB to/ADP insureds/VERB and/CCONJ vendors/VERB ./PUNCT
+Answer/PROPN telephone/NOUN inquiries/NOUN from/ADP insureds,claimants/NOUN ,/PUNCT and/CCONJ agents/NOUN ./PUNCT
+　　/SPACE 1985/NOUN -/PUNCT 1989/NOUN FEDER/NOUN A/NOUN L/NOUN UN/NOUN ION/NOUN I/PRON NSURANC/NOUN E/NOUN CO/NOUN ./PUNCT
+　　/SPACE Clerical/NOUN Supervisor/PROPN 　　/SPACE Supervised/PROPN the/DET clerical/NOUN staff/NOUN consisting/VERB of/ADP three/PROPN clerical/NOUN employees/VERB ./PUNCT
+Acted/NOUN in/ADP the/DET capacity/VERB of/ADP Administrative/PROPN to/ADP the/DET Claims/NOUN Manager,typed/DET letters/PROPN to/ADP attorneys,insureds/PRON ,/PUNCT etc/PROPN .,/PUNCT and/CCONJ handled/PROPN special/NOUN projects/NOUN and/CCONJ reports/NOUN from/ADP the/DET Boston/NOUN office/NOUN ./PUNCT
+　　/SPACE 1981/NOUN -/PUNCT 1985/NOUN MAPLEROOT/PROPN HIGH/PROPN SCHOOL/PROPN 　　/SPACE Payroll/PROPN Clerk/PROPN 　　/SPACE Handled/PROPN a/ADP monthly/PROPN payroll/VERB for/ADP 500/NUM hourly/NOUN employees/VERB ./PUNCT
+Prepared/PROPN quarterly/NOUN federal/VERB withholding/VERB tax/NOUN returns/NOUN and/CCONJ labor/NOUN statistics/NOUN report/VERB ./PUNCT
+　　/SPACE EDUCATION/NOUN :/PUNCT 　　/SPACE H/NOUN ./PUNCT
+S/INTJ ./PUNCT
+Diploma/PROPN 　　/SPACE Certificate/NOUN in/NOUN Word/NOUN Perfect/PROPN 5.1/NUM 　　/SPACE Certificate/NOUN in/ADP Lotus/PROPN 1-2/NUM -3/PUNCT 　　/SPACE COMPU/NOUN TER/PROPN S/NOUN :/PUNCT 　　/SPACE Word/NOUN Perfect/PROPN 5.1/NUM ,/PUNCT Lotus/PROPN 1-2/PUNCT -3/NOUN ,/PUNCT E/NOUN -/PUNCT
+Mail/PROPN ,/PUNCT IBM/PROPN System/NOUN 　　/SPACE RE/VERB FEREN/NOUN CES/NOUN :/PUNCT 　　/SPACE Furnished/PROPN upon/VERB request/NOUN ./PUNCT
+　　/SPACE Skills/PROPN section/NOUN focuses/NOUN employer/NOUN 's/VERB attention/NOUN on/NOUN candidate/NOUN 's/VERB relevant/ADJ qualifications/NOUN ./PUNCT
+　　/SPACE Work/NOUN experience/VERB is/VERB emphasized/VERB ,/PUNCT while/PROPN limited/NOUN education/VERB is/VERB de-emphasized/NUM ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT insureds/VERB +/PUNCT checks/PROPN +/PUNCT Ability/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+224/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

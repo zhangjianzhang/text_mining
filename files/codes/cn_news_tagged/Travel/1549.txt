@@ -1,0 +1,10 @@
+宫殿/NOUN Haus/PROPN Bodelschwingh/PROPN
+
+中世纪/NOUN 的/PART 水上/NOUN 宫殿/NOUN ，/PUNCT 建于/VERB 13世纪/NUM ，/PUNCT 是/VERB 多特蒙德/ADJ 最/ADV 大/VERB 最/ADV 著名/VERB 的/PART 水上/NOUN 城堡/NOUN 。/PUNCT
+整个/DET 建筑/NOUN 基于/ADP 坚实/VERB 的/PART 橡木柱/NOUN 上/PART ，/PUNCT 结合/VERB 了/PART 所有/DET 建筑/NOUN 时代/NOUN 的/PART 风格/NOUN 。/PUNCT
+
+多特蒙德/PROPN 具有/VERB 1100多/NUM 年/NUM 的/PART 历史/NOUN ，/PUNCT 这里/PRON 还有/CCONJ 许多/NUM 这样/ADJ 的/PART 水上/NOUN 宫殿/NOUN 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+多特蒙德/ADJ 音乐厅/NOUN     /SPACE 圣莱恩奥尔/NOUN 第教/NUM 堂/NUM     /SPACE >>/NUM >多/PUNCT 特蒙德/NOUN 旅行/NOUN 小/ADJ 贴士/NOUN

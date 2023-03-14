@@ -1,0 +1,47 @@
+在/ADP 北京/PROPN 、/PUNCT 上海/PROPN 、/PUNCT 广州/PROPN 等/PART 大/ADJ 城市/NOUN 生活/VERB 着/PART 这样/ADJ 一/NUM 群/NUM 年轻人/NOUN ，/PUNCT 他们/PRON 来自/VERB 中/PROPN 、/PUNCT 小/ADJ 城镇/NOUN ，/PUNCT 却/ADV 没有/VERB 所在地/NOUN 户口/NOUN ，/PUNCT 一般/ADV 受/VERB 过/PART 高中/NOUN （/PUNCT 中专/NOUN 、/PUNCT 职业/NOUN 高中/NOUN ）/PUNCT 以上/PART 教育/NOUN ，/PUNCT 大部分/NUM 有/VERB 专科/NOUN 以上/PART 学历/NOUN ，/PUNCT 收入/NOUN 不/ADV 高/VERB ，/PUNCT 却/ADV 依然/ADV 坚守/VERB 在/ADP 大/ADJ 城市/NOUN 。/PUNCT
+他们/PRON 被/X 称为/VERB “/PUNCT 普通/ADJ 城市/NOUN 流动/ADJ 知青/VERB ”/PUNCT 。/PUNCT
+
+你/PRON 怎么/ADV 看待/VERB “/PUNCT 普通/ADJ 城市/NOUN 流动/ADJ 知青/NOUN ”/PUNCT ？/PUNCT
+
+1/NUM 、/PUNCT 你/PRON 认为/VERB 流动/ADJ 知青/NOUN 群体/NOUN 产生/VERB 的/PART 最/ADV 重要/ADJ 原因/NOUN 是/VERB ：/PUNCT
+
+社会/NOUN 流动/NOUN 加剧/VERB
+
+大学生/NOUN 分配/NOUN 制度/NOUN 取消/NOUN 及/CCONJ 大学/NOUN 扩招/NOUN
+
+个人/NOUN 自由/ADV 选择/VERB 空间/NOUN 增大/VERB
+
+国人/NOUN 思想/NOUN 观念/NOUN 的/PART 开放/NOUN
+
+2/NUM 、/PUNCT 你/PRON 认为/VERB 流动/ADV 知青/VERB 的/PART 社会/NOUN 地位/NOUN 如何/VERB ？/PUNCT
+
+现在/NOUN 不/ADV 高/VERB ，/PUNCT 但/ADV 肯定/ADV 会/VERB 越来越/ADV 好/VERB
+
+这个/DET 群体/NOUN 很/ADV 难/ADV 成为/VERB 社会/NOUN 主流/NOUN
+
+比上不足/VERB ，/PUNCT 比下有余/VERB
+
+无法/ADV 作/VERB 整体/ADJ 估计/NOUN ，/PUNCT 每个/DET 人/NOUN 的/PART 未来/NOUN 不/ADV 一样/VERB
+
+3/NUM 、/PUNCT 你/PRON 是否/VERB 愿意/VERB 为/ADP 改变/VERB 自己/PRON 的/PART 生活/NOUN 状况/NOUN 而/PART 成为/VERB 流动/ADJ 知青/NOUN ？/PUNCT
+
+很/ADV 羡慕/VERB ，/PUNCT 有/VERB 机会/NOUN 愿意/VERB 尝试/VERB
+
+佩服/VERB 他们/PRON 的/PART 拼搏/NOUN 精神/NOUN ，/PUNCT 但/ADV 不/ADV 会/VERB 加入/VERB
+
+不/ADV 值得/VERB ，/PUNCT 不如/VERB 在家/VERB 过/PART 安稳/VERB 的/PART 生活/NOUN
+
+不/ADV 愿意/VERB ，/PUNCT 但/ADV 别无选择/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+本次/ADV 调查/NOUN 由/ADP 中国/PROPN 青年/NOUN 报委托/NOUN 搜狐/PROPN 文化/NOUN 频道/NOUN 进行/VERB ，/PUNCT 调查/NOUN 结果/NOUN 将/ADV 登载/VERB 在/ADP 4月/NOUN 6日/NOUN 的/PART 中国/PROPN 青年/NOUN 报上/VERB 。/PUNCT
+
+多谢/NUM 各位/DET 网友/NOUN 的/PART 投票/NOUN ！/PUNCT

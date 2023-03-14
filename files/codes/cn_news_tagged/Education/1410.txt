@@ -1,0 +1,113 @@
+有/VERB 相当/ADV 一部分/NUM 英语/NOUN 成语/NOUN 和/CCONJ 汉语/NOUN 里/PART 的/PART 成语/NOUN 或/CCONJ 词组/NOUN 相通/VERB ，/PUNCT 其/PRON 用法/NOUN 和/CCONJ 表达/NOUN 方式/NOUN 几乎/ADV 完全/ADV 一样/VERB ，/PUNCT 可以/VERB 逐词/ADV 对/ADP 译/VERB 出来/VERB ；/PUNCT 这/DET 类/NUM 成语/NOUN 比较/ADV 容易/ADV 为/ADP 我们/PRON 所/PART 接受/VERB ，/PUNCT 特别/ADV 适合/VERB 于/ADP 初涉/ADJ 英语/NOUN 成语/NOUN 的/PART 同志/NOUN 学习/NOUN 。/PUNCT
+
+(/PUNCT 1/NUM )/NOUN bad/PROPN egg坏蛋/VERB ，/PUNCT 歹徒/NOUN 。/PUNCT
+
+Trust/PROPN him/DET nothing/VERB ；/PUNCT he/VERB is/VERB a/NUM bad/PROPN egg/NOUN 。/PUNCT
+别信/VERB 他/PRON ，/PUNCT 他/PRON 是/VERB 个/NUM 坏蛋/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN crocodile/PROPN tears/PROPN 鳄鱼/VERB 的/PART 眼泪/NOUN ，/PUNCT 假/ADV 慈悲/VERB 。/PUNCT
+
+Don/NOUN 't/NOUN weep/NOUN crocodile/PROPN tears/PROPN with/VERB his/NOUN misfortune/VERB ./PUNCT
+I/PRON know/NOUN you/PRON have/PRON
+always/PROPN
+
+detested/NOUN him/PRON and/CCONJ are/VERB only/NOUN too/ADV happy/NOUN
+to/ADP see/VERB him/DET get/PROPN in/VERB to/PRON
+
+trouble/VERB 。/PUNCT
+别假/VERB 惺惺/VERB 地/PART 为/ADP 他/PRON 的/PART 不幸/NOUN 难过/VERB 了/PART ，/PUNCT 我/PRON 知道/VERB 你/PRON 一直/ADV 讨厌/VERB 他/PRON ，/PUNCT 看到/VERB 他/PRON 倒霉/VERB ，/PUNCT 心里/NOUN 可/VERB 高兴/VERB 哩/PROPN ！/PUNCT
+
+(3)cry/NOUN wolf/VERB 呼喊/NOUN “/PUNCT 狼/NOUN 来/VERB 了/PART ”/PUNCT ，/PUNCT 发假/VERB 情报/NOUN 。/PUNCT
+
+That/PRON politician/VERB cries/NOUN wolf/NOUN in/NOUN every/NOUN s/NUM peech/NOUN he/VERB makes/NOUN 。/PUNCT
+那个/DET 政治家/NOUN 在/ADP 他/PRON 的/PART 每篇/ADJ 演说/NOUN 中都/PART 发假/VERB 警报/NOUN 。/PUNCT
+
+(/PUNCT 4/NUM )/NUM (/PUNCT that/NOUN is/VERB )/PROPN easier/PROPN said/PROPN than/NOUN done/PROPN 说/VERB 起来/VERB 容易/ADV 做/VERB 起来/VERB 难/VERB 。/PUNCT
+
+Easier/PROPN said/NOUN than/NOUN done/PROPN ，/PUNCT let/NOUN 's/VERB pay/NOUN more/NOUN attention/VERB to/ADP practice/NOUN ./PUNCT
+
+说/VERB 起来/VERB 容易/ADV 做/VERB 起来/VERB 难/VERB ，/PUNCT 让/VERB 我们/PRON 多/ADV 注意/VERB 些/NUM 实践/NOUN 吧/PART ！/PUNCT
+
+(5/NUM )/NOUN fish/NOUN in/ADP troubled/NOUN waters/PROPN 混水摸鱼/VERB ，/PUNCT 乘人之危/VERB 。/PUNCT
+
+He's/NOUN always/ADJ been/NOUN good/PROPN at/ADP fishing/PROPN in/ADP troubled/PROPN waters/VERB ;/ADV he/VERB made/NOUN a/NUM lot/NOUN of/ADP money/NOUN
+
+by/ADP buying/VERB houses/NOUN that/NOUN were/NOUN bombed/PROPN in/ADP the/DET
+
+war/NOUN ./PUNCT
+他/PRON 总是/ADV 善于/VERB 乘人之危/VERB 大/ADJ 捞一把/NOUN ，/PUNCT 他/PRON 靠/ADP 购买/VERB 在/ADP 战争/NOUN 中/PART 遭过/VERB 轰炸/VERB 的/PART 房屋/NOUN 而/PART 赚/VERB 了/PART 大量/NUM 的/PART 钱财/NOUN 。/PUNCT
+
+(6/NOUN )/NOUN fish/PROPN out/PROPN of/ADP water/PROPN 离/ADP 水/NOUN 之/PART 鱼/NOUN ，/PUNCT 不得其所/VERB 。/PUNCT
+
+She/NOUN felt/VERB like/PROPN a/NUM fish/NOUN of/ADP water/PROPN at/ADP the/DET evening/VERB party/NOUN because/NOUN she/NOUN knew/NOUN no/NOUN one/NOUN ./PUNCT
+
+她/PRON 在/ADP 晚会/NOUN 上/PART 感到/VERB 很/ADV 局促/VERB ，/PUNCT 因为/ADP 她/PRON 一个/NUM 人/NOUN 也/ADV 不/ADV 认识/VERB 。/PUNCT
+
+(7/NOUN )/PROPN gives/PROPN someone/NOUN an/ADJ inch/VERB and/CCONJ he/ADP will/VERB take/NOUN an/ADJ ell/NOUN 得寸进尺/VERB 。/PUNCT
+
+If/NOUN you/PRON give/PROPN those/NOUN people/NOUN an/ADV inch/VERB ，/PUNCT they'll/ADV take/NOUN an/ADJ ell/NOUN ；/PUNCT we/NOUN told/NOUN the/DET m/PUNCT they/NOUN
+
+might/VERB use/NOUN our/NOUN side/NOUN path/PROPN to/ADP reach/PROPN the/DET ir/NOUN garden/NOUN ，/PUNCT now/PROPN they/PROPN have/PRON fenced/NOUN in/ADP the/DET path/NOUN
+
+so/ADV that/ADJ we/NOUN cannot/VERB use/NOUN it/NOUN
+
+ourselves/VERB ./PUNCT
+那些/DET 人/NOUN 就是/ADV 得寸进尺/VERB ；/PUNCT 我们/PRON 对/ADP 他们/PRON 说/VERB ，/PUNCT 他们/PRON 可以/VERB 经过/VERB 我们/PRON 的/PART 小道/NOUN 进/VERB 他们/PRON 的/PART 花园/NOUN ，/PUNCT 现在/NOUN 他们/PRON 已/ADV 在/ADP 小道/NOUN 上/PART 修起/VERB 了/PART 篱笆/NOUN ，/PUNCT 以致/ADV 我们/PRON 自己/PRON 也/ADV 无法/ADV 走/VERB 这/DET 条/NUM 小路/NOUN 过去/VERB 了/PART 。/PUNCT
+
+(8/NOUN )/PROPN go/NOUN west/VERB 上/VERB 西天/NOUN ，/PUNCT 死/VERB ，/PUNCT 失败/VERB 。/PUNCT
+
+Poor/NOUN John/NOUN was/NOUN one/NOUN of/ADP those/NOUN who/NOUN went/NOUN west/VERB in/ADP the/DET
+
+explosion/VERB ./PUNCT
+可怜/VERB 的/PART 约翰/PROPN 是/VERB 在/ADP 这次/ADV 爆炸/VERB 中魂/PROPN 归西天/NOUN 的/PART 人物/NOUN 之一/NOUN 。/PUNCT
+
+(/PUNCT 9/NUM )/NOUN in/ADP a/DET word/NOUN 一句话/NOUN ，/PUNCT
+简而言之/PROPN
+
+I/PRON have/NOUN no/NOUN time/NOUN to/ADP tell/PRON you/PRON the/DET whole/NOUN story/NOUN ,/PUNCT in/ADP a/NUM word/NOUN ,/PUNCT they/PROPN become/NOUN hostile/PROPN
+
+to/ADP each/VERB o/VERB ther/NOUN 。/PUNCT
+我/PRON 没/VERB 时间/NOUN 把/X 全部/ADV 经过/VERB 告诉/VERB 你/PRON ，/PUNCT 一句话/NOUN ，/PUNCT 他们/PRON 相互/ADV 成/VERB 了/PART 仇敌/NOUN 。/PUNCT
+
+(/PUNCT 10)lose/NUM face/NOUN 丢脸/VERB ；/PUNCT 失面子/NOUN 。/PUNCT
+
+Certain/PROPN country/PROPN often/VERB loses/NOUN face/NOUN in/NOUN regard/NOUN to/ADP its/PROPN relations/NOUN with/ADV small/NOUN weak/VERB
+
+countries/NOUN on/ADV ac/ADP count/NOUN of/ADP its/PROPN dirty/NOUN tricks/NOUN 某个/DET 国家/NOUN 在/ADP 与/ADP 弱小/VERB 国家/NOUN 交往/VERB 中/PART 因/ADP 其/PRON 使用/VERB 卑鄙/ADJ 手段/NOUN 而/PART 总是/ADV 丢脸/VERB 。/PUNCT
+
+(/PUNCT 11/NUM )odds/NOUN and/CCONJ ends/NOUN 零零碎碎/VERB 。/PUNCT
+
+What/PROPN shall/NOUN we/NOUN do/VERB with/ADP all/DET those/NOUN odds/VERB and/CCONJ ends/NOUN ？/PUNCT
+我们/PRON 用/ADP 那些/DET 残余/ADJ 的/PART 东西/NOUN 可/VERB 做/VERB 什么/PRON 呢/PART ？/PUNCT
+
+(/PUNCT 12)play/NOUN with/ADV fire/NOUN 玩火/NOUN ，/PUNCT 作/VERB 无谓/ADJ 而/CCONJ 危险/VERB 的/PART 事/NOUN 。/PUNCT
+
+He/ADP who/NOUN plays/VERB with/ADV fire/NOUN gets/PROPN burned/VERB ．/PUNCT
+玩火者/PROPN 必/ADV 自焚/VERB 。/PUNCT
+
+(/PUNCT 13/NUM )/NOUN strike/NOUN while/VERB the/DET iron/NOUN is/VERB hot/PROPN 趁热打铁/VERB 。/PUNCT
+
+Father/PROPN is/VERB in/ADP a/NUM good/PROPN mood/NOUN at/ADP the/DET moment/NOUN ．/PUNCT
+Strike/PROPN while/PROPN the/DET iron/NOUN is/VERB hot/PROPN and/CCONJ a/NUM sk/NOUN
+
+him/PROPN to/ADP let/NOUN you/PRON go/VERB to/ADP the/DET circus/NOUN ./PUNCT
+这时/NOUN 父亲/NOUN 的/PART 情绪/NOUN 很/ADV 好/VERB ，/PUNCT 乘/VERB 此/DET 机会/NOUN 求/VERB 他/PRON 让/VERB 你/PRON 去/VERB 看/VERB 马戏/NOUN 。/PUNCT
+
+(/PUNCT 14/NUM )/NOUN there/NOUN ’/PUNCT s/NOUN no/NOUN smoke/NOUN without/ADP fire/NOUN 无火/ADV 不/ADV 冒烟/VERB ；/PUNCT 无风不起浪/VERB 。/PUNCT
+
+The/DET story/NOUN is/VERB all/DET over/NOUN the/DET to/ADP wn/NOUN ./PUNCT
+It/NOUN is/VERB being/VERB spread/NOUN by/ADP someone/NOUN or/CCONJ by/CCONJ some/NOUN
+
+people/NOUN ./PUNCT
+There's/NOUN no/NOUN smoke/NOUN without/ADV fire/VERB ./PUNCT
+这个/DET 传说/NOUN 遍及/VERB 全城/NOUN ，/PUNCT 有人/VERB 或/CCONJ 有些/DET 人/NOUN 还/ADV 在/ADV 散布/VERB 。/PUNCT
+真是/ADV 无火不冒烟/VERB 。/PUNCT
+
+(/PUNCT 15/NUM )/NUM a/NUM thorn/NOUN in/ADP the/DET flesh/NOUN (side/NOUN )肉/PROPN 中刺/PROPN ；/PUNCT 棘手/VERB 的/PART 事/NOUN ，/PUNCT 不断/ADV 使/VERB 某人/PRON 烦恼/NOUN 的/PART 根源/NOUN 。/PUNCT
+
+(l/NOUN 6/NUM )/NUM The/DET memory/NOUN of/ADP this/PRON act/NOUN will/VERB be/ADP a/NUM thorn/NOUN in/ADP the/DET flesh/NOUN for/ADP the/DET rest/NOUN
+of/ADP
+
+your/PRON life/VERB ，/PUNCT my/VERB boy/PROPN ./PUNCT
+这种/DET 行动/NOUN 会/VERB 使/VERB 你/PRON 不断/ADV 引起/VERB 回忆/NOUN 。/PUNCT
+使/VERB 你/PRON 终生/ADV 烦恼/VERB ，/PUNCT 我/PRON 的/PART 朋友/NOUN 。/PUNCT

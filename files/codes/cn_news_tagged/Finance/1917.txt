@@ -1,0 +1,40 @@
+全国/NOUN 共/ADV 接待/VERB 游客/NOUN １．４６亿/NUM 人次/NUM
+
+实现/VERB 旅游/NOUN 收入/NOUN ５８５亿/NUM 元/NUM
+
+本报/PROPN 北京/PROPN ５月/NOUN ８日/NOUN 讯/NOUN 记者/NOUN 许志峰/PROPN 报道/VERB ：/PUNCT 今天/NOUN ，/PUNCT 全国/ADJ 假日/NOUN 办/VERB 发布/VERB 《/PUNCT ２００６年/NOUN “/PUNCT 五一/NOUN ”/PUNCT 黄金周/PROPN 旅游/NOUN 统计/NOUN 报告/NOUN 》/PUNCT 。/PUNCT
+今年/NOUN “/PUNCT 五一/NOUN ”/PUNCT 黄金周/NOUN 期间/NOUN ，/PUNCT 全国/NOUN 共/ADV 接待/VERB 旅游者/NOUN １．４６亿/NUM 人次/NUM ，/PUNCT 比/ADP ２００５年/NOUN “/PUNCT 五一/NOUN ”/PUNCT 黄金周/NOUN 增长/VERB ２０．０％/NUM ；/PUNCT 实现/VERB 旅游/NOUN 收入/NOUN ５８５亿/NUM 元/NUM ，/PUNCT 比/ADP ２００５年/NOUN 同期/NOUN 增长/VERB ２５．２％/NUM ；/PUNCT 旅游者/NOUN 人均/ADJ 花费/VERB 支出/NOUN ４０１/NUM 元/NUM 。/PUNCT
+
+据悉/ADV ，/PUNCT 在/ADP 全国/NOUN 接待/VERB 的/PART １．４６亿/NUM 人次/NUM 旅游者/NOUN 中/PART ，/PUNCT 过夜/VERB 旅游者/NOUN （/PUNCT 仅/ADV 限住/VERB 宾馆/NOUN 饭店/NOUN 和/CCONJ 旅馆/NOUN 招待所/NOUN ）/PUNCT 为/VERB ３８８４万/NUM 人次/NUM ，/PUNCT 比/ADP ２００５年/NOUN 同期/NOUN 增长/VERB ２４．１％/NUM ；/PUNCT 一日游/NUM 游客/NOUN 为/VERB １．０７亿/NUM 人次/NUM ，/PUNCT 比/ADP ２００５年/NOUN 同期/NOUN 增长/VERB １８．６％/NUM 。/PUNCT
+
+３９/NUM 个/NUM 重点/ADJ 旅游/NOUN 城市/NOUN 实现/VERB 旅游/NOUN 收入/NOUN ２４２亿/NUM 元/NUM ；/PUNCT 其他/DET 旅游/NOUN 城市/NOUN 和/CCONJ 景区/NOUN 实现/VERB 旅游/NOUN 收入/NOUN ３０５亿/NUM 元/NUM 。/PUNCT
+纳入/VERB 全国/ADJ 假日/NOUN 旅游/NOUN 统计/NOUN 预报/NOUN 体系/NOUN 的/PART ３９/NUM 个/NUM 重点/ADJ 旅游/NOUN 城市/NOUN 共/ADV 接待/VERB 游客/NOUN ５２２５万/NUM 人次/NUM 。/PUNCT
+纳入/VERB 全国/ADJ 假日/NOUN 旅游/NOUN 统计/NOUN 预报/NOUN 体系/NOUN 的/PART １１６/NUM 个/NUM 旅游/NOUN 景区/NOUN （/PUNCT 点/NOUN ）/PUNCT 共/ADV 接待/VERB ２１０６．５２万/NUM 人次/NUM ，/PUNCT 门票/NOUN 收入/NOUN ７．８２亿/NUM 元/NUM 。/PUNCT
+
+事故/NOUN 死亡/NOUN 人数/NOUN 较/ADV 去年/NOUN 增加/VERB
+
+非法/ADJ 飞行/VERB 造成/VERB 两/NUM 起/NUM 事故/NOUN
+
+本报/PROPN 北京/PROPN ５月/NOUN ８日/NOUN 讯/NOUN 记者/NOUN 彭嘉陵/PROPN 今天/NOUN 从/ADP 全国/NOUN 安全/NOUN 生产/NOUN 视频/NOUN 会议/NOUN 上/PART 获悉/VERB ：/PUNCT 今年/NOUN “/PUNCT 五一/NOUN ”/PUNCT 黄金周/NOUN 期间/NOUN ，/PUNCT 各类/DET 事故/NOUN 起数/VERB 和/CCONJ 死亡/NOUN 人数/NOUN ，/PUNCT 均/ADV 比/ADP 去年/NOUN 同期/NOUN 有所/VERB 增加/NOUN 。/PUNCT
+其中/NOUN ，/PUNCT 煤矿/NOUN 和/CCONJ 道路/NOUN 交通/NOUN 各/ADV 发生/VERB 一起/ADV 特大/ADJ 事故/NOUN 。/PUNCT
+５月/NOUN ２日/NOUN ，/PUNCT 贵州省/PROPN 毕节/PROPN 地区/NOUN 威宁/PROPN 彝族/NOUN 回族/NOUN 苗族/NOUN 自治县/NOUN 东风镇/PROPN 一/NUM 非法/ADJ 采煤/NOUN 窝点/NOUN 发生/VERB 瓦斯/NOUN 燃烧/VERB 事故/NOUN ，/PUNCT １５/NUM 人/NOUN 死亡/VERB ；/PUNCT ５月/NOUN ６日/NOUN ，/PUNCT 西藏/PROPN 自治区/NOUN 昌都/PROPN 地区/NOUN 客运/NOUN 公司/NOUN 一/NUM 客车/NOUN 翻下/VERB 悬崖/NOUN ，/PUNCT １０/NUM 人/NOUN 死亡/VERB 。/PUNCT
+
+节日/NOUN 期间/NOUN ，/PUNCT 通用/PROPN 轻型/ADJ 飞机/NOUN 发生/VERB ２/NUM 起/NUM 事故/NOUN ，/PUNCT 死亡/VERB ２/NUM 人/NOUN ，/PUNCT ３/NUM 人/NOUN 受伤/VERB 。/PUNCT
+两/NUM 起/NUM 事故/NOUN 均/ADV 为/ADP 非法/ADV 飞行/VERB 造成/VERB 的/PART 。/PUNCT
+但/ADV “/PUNCT 五一/NOUN ”/PUNCT 期间/NOUN 也/ADV 有/VERB “/PUNCT 亮点/NOUN ”/PUNCT ，/PUNCT 公众/NOUN 聚集/VERB 场所/NOUN 、/PUNCT 大部分/NUM 行业/NOUN 和/CCONJ 领域/NOUN 、/PUNCT 大部分/NUM 地区/NOUN 未/ADV 发生/VERB 重特大/ADJ 伤亡/NOUN 事故/NOUN 。/PUNCT
+
+铁路/NOUN 发送/VERB 旅客/NOUN 创新/NOUN 高/VERB
+
+民航/NOUN 安全/NOUN 运送/VERB 旅客/NOUN 三百零五万/NUM 人次/NUM
+
+本报/PROPN 北京/PROPN ５月/NOUN ８日/NOUN 讯/NOUN 记者/NOUN 欧阳洁/PROPN 今天/NOUN 从/ADP 铁道部/NOUN 假日/NOUN 办/VERB 获悉/NOUN ：/PUNCT ４月/NOUN ２８日/NOUN 至/CCONJ ５月/NOUN ７日/NOUN ，/PUNCT 全国/ADJ 铁路/NOUN 共/ADV 发送/VERB 旅客/NOUN ４２００多万/NUM 人次/NUM ，/PUNCT 同比/ADV 增加/VERB ４００万/NUM 人次/NUM ，/PUNCT 创/VERB 历史/NOUN 同期/NOUN 最高/ADJ 纪录/NOUN 。/PUNCT
+由于/ADP 运能/NOUN 安排/NOUN 合理/VERB ，/PUNCT 全国/NOUN 各/DET 主要/ADJ 旅游/NOUN 景区/NOUN 车站/NOUN 没有/ADV 发生/VERB 客流/NOUN 积压/NOUN 。/PUNCT
+
+今年/NOUN 黄金周/PROPN 铁路/NOUN 运输/NOUN 呈现/VERB 出/VERB ：/PUNCT 一/NUM 是/VERB 客流量/NOUN 居高不下/VERB ，/PUNCT 铁路/NOUN 日均/ADJ 客流量/NOUN 高达/VERB ４２０多万/NUM 人次/NUM 。/PUNCT
+二/NUM 是/VERB 长途/ADJ 客流/NOUN 走势/NOUN 强劲/VERB 。/PUNCT
+黄金周/PROPN 期间/NOUN 发送/VERB 长途/ADJ 旅客/NOUN １４００万/NUM 人次/NUM ，/PUNCT 同比/NOUN 增长/VERB １０％/NUM 以上/PART 。/PUNCT
+三/NUM 是/VERB 客货/NOUN 运输/NOUN 实现/VERB “/PUNCT 双赢/NOUN ”/PUNCT 。/PUNCT
+
+又/ADV 讯/VERB 记者/NOUN 白天亮/PROPN 今天/NOUN 从/ADP 民航/NOUN 总局/NOUN 获悉/VERB ：/PUNCT 今年/NOUN “/PUNCT 五一/NOUN ”/PUNCT 黄金周/NOUN 期间/NOUN ，/PUNCT 全民/NOUN 航共/NOUN 运送/VERB 旅客/NOUN ３０５万/NUM 人次/NUM ，/PUNCT 比/ADP 去年/NOUN 同期/NOUN 增加/VERB ２９万/NUM 人次/NUM ，/PUNCT 同比/NOUN 增长/VERB １０．５％/NUM 。/PUNCT
+
+“/PUNCT 五一/NOUN ”/PUNCT 黄金周/NOUN 期间/NOUN ，/PUNCT 民航/NOUN 共/ADV 发送/VERB 执行/NOUN 航班/NOUN ２７５７３/NUM 班/NUM ，/PUNCT 同比/NOUN 增长/VERB １１％/NUM 。/PUNCT

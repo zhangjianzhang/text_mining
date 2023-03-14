@@ -1,0 +1,16 @@
+盖尔森基兴/PROPN 旅游/NOUN 咨询/NOUN 处/NOUN     /SPACE 格尔森/NOUN 基兴/NOUN 咨询/NOUN 处/NOUN
+
+地址/NOUN ：/PUNCT 火车站/NOUN 街Bahnhofstr/NOUN ./PUNCT
+55/NOUN -/PUNCT 65号/NOUN >>/NUM >盖尔森/PROPN 基兴/PROPN 交通/NOUN 指南/NOUN
+
+入口处/VERB 在/ADP Auguststrasse街/PROPN 1号/NOUN
+
+45879/NUM
+Gelsenkirchen/PROPN
+
+Tel.:/PRON 0209/NUM //PUNCT 95/NOUN 19/NOUN 7/NUM -/PUNCT 0/NUM
+
+Fax/VERB :/PUNCT 0209/NUM //PUNCT 95/NOUN 19/NUM 710/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT in/ADP fo/NOUN @/PUNCT stadt/NOUN marketing.de/NOUN ；/PUNCT Web/NOUN :/PUNCT www.stadt/ADV marketing.de/NOUN

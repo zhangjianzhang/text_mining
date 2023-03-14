@@ -1,0 +1,39 @@
+个/NUM 人/NOUN 简/NOUN 历/VERB 　　/SPACE 个人/NOUN 概况/NOUN :/PUNCT 　　/SPACE 求职/NOUN 意向/NOUN :/PUNCT ____________________/PRON (/PUNCT 可以/VERB 是/VERB 一个/NUM 与/ADP 多/NUM 个/NUM )/NOUN 　　/SPACE 姓名/NOUN :/PUNCT ________________/VERB 性别/NOUN :/PUNCT __/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+　　/SPACE 出生/VERB 年月/VERB :/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN __/PUNCT 日/PROPN 健康/ADJ 状况/NOUN :/PUNCT ___________/DET 　　/SPACE 年龄/NOUN :/PUNCT __/PUNCT
+__/PUNCT 岁/NOUN 学历/NOUN :/PUNCT ____________________/ADP 　　/SPACE 毕业/NOUN 院校/NOUN :/PUNCT _______________/NOUN 专业/NOUN :/PUNCT ____________________/ADP 　　/SPACE 工作/NOUN 年限/NOUN :/PUNCT __/PUNCT
+__/PUNCT
+年/NOUN 　　/SPACE 联系/NOUN 方式/NOUN :/PUNCT 　　/SPACE 电子/NOUN 邮件/NOUN :/PUNCT _______________/NOUN 手机/NOUN :/PUNCT ____________________/ADP 　　/SPACE 家庭/NOUN 电话/NOUN :/PUNCT _______________/NOUN 传呼/NOUN :/PUNCT ____________________/ADP 　　/SPACE 通信/NOUN 地址/NOUN :/PUNCT _______________/NUM 邮编/NOUN :/PUNCT ____________________/ADP 　　/SPACE 教育/NOUN 背景/NOUN :/PUNCT 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN --/PUNCT __/PUNCT __/PUNCT 年/NOUN ___________/PUNCT 大学/NOUN __________/PROPN 专业/NOUN (请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN --/PUNCT __/PUNCT __/PUNCT 年/NOUN ___________/PUNCT 大学/NOUN __________/PROPN 专业/NOUN (可/NOUN 将/ADV 在/ADP 学/VERB 的/PART 业余/ADJ 课程/NOUN 写/NOUN 上/PART )/NOUN 　　/SPACE 工作/NOUN 经验/NOUN :/PUNCT 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN --/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN ___________/NOUN 公司/NOUN _/PUNCT _________/NOUN 部门/NOUN _/PUNCT _________/NOUN 工作/NOUN 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN --/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN ___________/NOUN 公司/NOUN _/PUNCT _________/NOUN 部门/NOUN _/PUNCT _________/NOUN 工作/NOUN 　　/SPACE (请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 此处/PRON 应为/ADP 整/DET 篇/NUM 简历/NOUN 的/PART 核心/NOUN 内容/NOUN ,/PUNCT 应聘者/PROPN 可以/VERB 着重/ADV 叙述/VERB 此项/PRON ,/PUNCT 并/ADV 根据/ADP 个人/NOUN 工作/NOUN 情况/NOUN 不同/VERB 而/CCONJ 重点/NOUN 突出/VERB 说明/VERB 工作/NOUN 具体/ADJ 内容/NOUN 与/CCONJ 经历/NOUN ，/PUNCT 尤其是/ADV 与/ADP 求职/NOUN 目标/NOUN 相关/VERB 的/PART 工作/NOUN 经历/NOUN ；/PUNCT 一定/ADV 要/VERB 说出/VERB 最/ADV 主要/VERB 、/PUNCT 最/ADV 有/VERB 说服力/NOUN 的/PART 工作/NOUN 经历/NOUN 和/CCONJ 最/ADV 具/NUM 证明性/NOUN 的/PART 为/ADP 公司/NOUN 获取/VERB 的/PART 利润/NOUN 和/CCONJ 相关/ADJ 成绩/NOUN ；/PUNCT 说明/VERB 的/PART 语气/NOUN 要/VERB 坚定/VERB 、/PUNCT 积极/VERB 、/PUNCT 有力/VERB ；/PUNCT 具体/ADJ 的/PART 工作/NOUN 、/PUNCT 能力/NOUN 等/PART 证明/NOUN 材料/NOUN 等/PART ；/PUNCT 写/VERB 工作/NOUN 经验/NOUN 时/PART ，/PUNCT 一般/ADV 是/VERB 先/ADV 写/VERB 近期/NOUN 的/PART ，/PUNCT 然后/ADV 按照/ADP 年代/NOUN 的/PART 顺序/NOUN 依次/ADV 写出/VERB 。/PUNCT
+最近/NOUN 的/PART 工作/NOUN 经验/NOUN 是/VERB 很/ADV 重要/VERB 的/PART 。/PUNCT
+在/ADP 每/DET 一/NUM 项/NUM 工作/NOUN 经历/NOUN 中/PART 先/ADV 写/VERB 工作/NOUN 日期/NOUN ，/PUNCT 接着/ADV 是/VERB 工作/NOUN 单位/NOUN 和/CCONJ 职务/NOUN 。/PUNCT
+在/ADP 这个/DET 部分/NOUN 需要/VERB 注意/VERB 的/PART 一点/ADV 是/VERB ，/PUNCT 陈述/VERB 了/PART 个人/NOUN 的/PART 资格/NOUN 和/CCONJ 能力/NOUN 经历/NOUN 之后/PART ，/PUNCT 不要/ADV 太/ADV 提及/VERB 个人/NOUN 的/PART 需求/NOUN 、/PUNCT 理想/NOUN 等/PART 。/PUNCT
+　　/SPACE 英语/NOUN 水平/NOUN :/PUNCT 　　/SPACE */NOUN 基本/ADJ 技能/NOUN :/PUNCT 听/VERB 、/PUNCT 说/VERB 、/PUNCT 读/VERB 、/PUNCT 写/NOUN 能力/NOUN ../PUNCT ../X ../PUNCT
+　　/SPACE */NOUN 标准/NOUN 测试/VERB
+:/PUNCT 国家/NOUN 四/NUM 、/PUNCT 六级/NUM ;TOEFL;GRE/NOUN ../PUNCT ../X ../PUNCT
+　　/SPACE 计算机/NOUN 水平/NOUN :/PUNCT 　　/SPACE 编程/NOUN 、/PUNCT 操作/NOUN 应用/NOUN 系统/NOUN 、/PUNCT 网络/NOUN 、/PUNCT 数据库/NOUN ../PUNCT ../X ../NUM
+(请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 业余/ADV 爱好/VERB :/PUNCT 　　/SPACE __________________________________________________/NUM 　　/SPACE 个性/NOUN 特点/NOUN :/PUNCT 　　/SPACE ___________________________________/NOUN （/PUNCT 请/VERB 描述/VERB 出/VERB 自己/PRON 的/PART 个性/NOUN 、/PUNCT 工作/NOUN 态度/NOUN 、/PUNCT 自我/PRON 评价/NOUN 等/PART ）/PUNCT
+　　/SPACE 另/ADV ：/PUNCT 　　/SPACE (/PUNCT 如果/SCONJ 你/PRON 还有/CCONJ 什么/DET 要/VERB 写/VERB 上去/VERB 的/PART ，/PUNCT 请/VERB 填写/NOUN 在/VERB 这里/PRON ！/PUNCT
+)/PROPN 　　/SPACE */PROPN 附言/VERB :/PUNCT (请/NOUN 写出/VERB 你/PRON 的/PART 希望/NOUN 或/CCONJ 总结/VERB 此/DET 简历/NOUN 的/PART 一/NUM 句/NUM 精炼/NOUN 的话/PART !/PUNCT
+)/PROPN 　　/SPACE 例如/ADV :/PUNCT 相信/VERB 您/PRON 的/PART 信任/NOUN 与/ADP 我/PRON 的/PART 实力/NOUN 将/ADV 为/ADP 我们/PRON 带来/VERB 共同/ADJ 的/PART 成功/NOUN !/PUNCT 或/CCONJ 希望/VERB 我/PRON 能/VERB 为/ADP 贵/ADJ 公司/NOUN 贡献/VERB 自己/PRON 的/PART 力量/NOUN !/PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 工作/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+194/NUM ,/PUNCT 095/NUM ,/PUNCT 998/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 简历/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+5/NUM ,/PUNCT 474/NUM ,/PUNCT 793/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 经验/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+0/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

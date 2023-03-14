@@ -1,0 +1,5 @@
+牐犘/NOUN 疟/ADV ㄑ叮/VERB 记者/NOUN 廖奇/PROPN ）/PUNCT
+昨天/NOUN ，/PUNCT ２６３/NUM 网络/NOUN 通信/NOUN 宣布/VERB 正式/ADJ 剥离/NOUN 所属/VERB ２６３/NUM 在线/NOUN 业务/NOUN ，/PUNCT 所/PART 剥离/VERB 的/PART ２６３/NUM 在线/NOUN 业务/NOUN 由/ADP 北京/PROPN 首都/NOUN 在线/ADJ 信息/NOUN 服务/NOUN 有限/ADJ 公司/NOUN 接手/VERB 运营/NOUN 和/CCONJ 管理/NOUN 。/PUNCT
+２６３/NUM 综合/ADJ 通信/NOUN 定位/NOUN 点心/VERB 增值/ADJ 业务/NOUN 、/PUNCT ２６３/NUM 在线/ADJ 定位/NOUN 分类/ADJ 信/NOUN 供应商/NOUN ，/PUNCT 二者/NOUN 的/PART 区别/NOUN 定位/NOUN 也/ADV 使得/VERB 市场/NOUN 围绕/VERB ２６３/NUM 定位/NOUN 不/ADV 清/VERB 的/PART 传言顿/NOUN 时/PART 烟消云散/VERB 。/PUNCT
+
+牐牥/NOUN 凑眨/VERB 玻叮/NOUN 吃/VERB 谙吆/NOUN 停玻/VERB 叮/ADV 惩络/VERB 通信/NOUN 的/PART 各自/PRON 定位/NOUN ：/PUNCT 新/ADJ ２６３/NUM 网络/NOUN 通信/NOUN 将/X 专注于/NOUN 诸如/ADV 主叫/NOUN 接入/VERB 、/PUNCT 多方/ADV 通信/VERB 、/PUNCT 主叫/NOUN 长途/NOUN 、/PUNCT 梦网/NOUN 业务/NOUN 等/PART 电信/NOUN 增值/VERB 服务/VERB ，/PUNCT 以及/CCONJ 网络/NOUN 通话/NOUN 软件/NOUN 、/PUNCT 存储/NOUN 转发/NOUN 等/PART 互联网/NOUN 通信/NOUN 增值/ADJ 服务/NOUN 的/PART 综合/ADJ 通信/NOUN 业务/NOUN 。/PUNCT

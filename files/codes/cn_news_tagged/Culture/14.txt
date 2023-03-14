@@ -1,0 +1,45 @@
+《/PUNCT 大长今/NOUN 》/PUNCT 调查/VERB
+
+1/NUM 、/PUNCT 你/PRON 看/VERB 《/PUNCT 大长/NOUN 今/NOUN 》/PUNCT 吗/PART ？/PUNCT
+
+不/ADV 看/VERB
+
+赶上/VERB 就/ADV 看/VERB
+
+正在/ADV 追着/VERB 看/VERB
+
+看/VERB 过/PART n遍/NOUN
+
+2/NUM 、/PUNCT 《/PUNCT 大长今/NOUN 》/PUNCT 吸引/VERB 你/PRON 的/PART 是/VERB
+
+情节/NOUN 曲折/VERB ，/PUNCT 悬念/NOUN 迭起/NOUN
+
+俊男/NOUN 靓女/VERB 美食/NOUN
+
+爱情/NOUN 亲情/NOUN 友情/NOUN 感人/VERB ，/PUNCT
+台词/PROPN 经典/ADJ
+
+励志/NOUN 向上/VERB ，/PUNCT 善/ADV 和美/NOUN 打动/VERB 人心/NOUN
+
+3/NUM 、/PUNCT 你/PRON 认为/VERB 日韩剧/NOUN 成功/VERB 在/ADP 哪里/PRON
+
+细节/NOUN 取胜/VERB ，/PUNCT 平淡/NOUN 中/PART 见/VERB 真情/NOUN
+
+情节/NOUN 设计/NOUN 合理/VERB ，/PUNCT 戏剧性/NOUN 强/VERB
+
+人物/NOUN 立体/ADV 丰满/VERB ，/PUNCT 贴近/VERB 生活/NOUN ，/PUNCT 比较/ADV 真实/VERB
+
+演员/NOUN 表演/VERB 分寸/NOUN 适当/VERB ，/PUNCT 不/ADV 夸张/VERB
+
+包含/VERB 很多/NUM 时尚/ADJ 元素/NOUN ，/PUNCT 画面/NOUN 唯美/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/ADJ }搜/NUM 狗/NOUN (/PUNCT www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 人物/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB 28/NUM ,/PUNCT 456/NUM ,/PUNCT 427/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

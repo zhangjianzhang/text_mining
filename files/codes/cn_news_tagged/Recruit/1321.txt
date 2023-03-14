@@ -1,0 +1,28 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE OBJECTIVE/NOUN :/PUNCT 　　/SPACE To/NOUN contribute/ADJ developed/NOUN customer/NOUN relations/NOUN and/CCONJ administrative/PROPN skills/NOUN to/ADP a/DET challenging/VERB in/NOUN a/NUM hotel/NOUN ./PUNCT
+　　/SPACE SUM/NOUN MARY/PROPN OF/PROPN QUALI/NOUN FICATION/PUNCT S/NOUN :/PUNCT 　　/SPACE Developed/PROPN interpersonal/ADJ skills/NOUN ,/PUNCT having/VERB dealt/NOUN with/ADP a/NUM diversity/NOUN of/ADP clients/NOUN ,/PUNCT professionals/NOUN and/CCONJ staff/NOUN members/NOUN ./PUNCT
+　　/SPACE Detail/NOUN -/PUNCT and/CCONJ goal-oriented/NOUN ./PUNCT
+　　/SPACE Function/NOUN well/ADV in/ADP high/PROPN -/PUNCT stress/NOUN atmosphere/VERB ./PUNCT
+　　/SPACE Knowledgeable/PROPN on/ADP both/PROPN EECO/PROPN and/CCONJ APTEC/PROPN computers/PROPN systems/NOUN ./PUNCT
+　　/SPACE CAREE/PROPN R/NOUN HISTO/PROPN R/NOUN Y/NOUN 　　/SPACE 1992/NOUN -/PUNCT Present/PROPN THE/NOUN OL/NOUN I/PRON VER/NOUN HOTEL/NOUN ,/PUNCT Whitewater/PROPN ,/PUNCT KS/PROPN 　　/SPACE Hotel/NOUN Clerk/NOUN 　　/SPACE Resolved/NOUN guests/ADV '/ADV needs/VERB ./PUNCT
+Controlled/PROPN reservation/NOUN input/PROPN utilizing/PROPN EECO/PROPN computer/NOUN system/NOUN ./PUNCT
+Handled/PROPN incoming/PROPN calls/PROPN ./PUNCT
+Maintained/PROPN daily/NOUN reports/NOUN involving/ADJ return/NOUN guests/VERB ，/PUNCT corporate/PROPN ac/PART counts/NOUN ,/PUNCT and/CCONJ suite/NOUN rentals/NOUN ./PUNCT
+Inspected/NOUN rooms/PROPN ./PUNCT
+　　/SPACE 1988/NOUN -/PUNCT 1991/NOUN WALDEN/NOUN HOTEL/NOUN ,/PUNCT Walton/PROPN ,/PUNCT KS/PROPN 　　/SPACE Hotel/NOUN Clerk/PROPN 　　/SPACE Trained/NOUN personnel.Handled/NOUN telephone,international/ADJ fax/NOUN and/CCONJ telex/NOUN bookings/NOUN ./PUNCT
+Maintained/PROPN daily/NOUN and/CCONJ monthly/PROPN reports/VERB tracking/NOUN demands/NOUN and/CCONJ guaranteed/NOUN no/NOUN -/PUNCT show/NOUN billing/VERB ./PUNCT
+Utilized/PROPN APTEC/PROPN computer/NOUN for/ADP inputting/NOUN group/PROPN booking/PROPN and/CCONJ lists/NOUN ./PUNCT
+　　/SPACE 1986/NOUN -/PUNCT 1987/NUM WALDEN/NOUN HOTEL/NOUN ,/PUNCT Walton/PROPN ,/PUNCT KS/PROPN 　　/SPACE Sales/PROPN Associate/PROPN 　　/SPACE Assisted/NOUN customers/NOUN ./PUNCT
+Maintained/PROPN stock/NOUN ./PUNCT
+Opened/PROPN //PUNCT closed/NOUN shop.Tracked/VERB best/VERB selling/VERB novels/NOUN ,/PUNCT and/CCONJ made/NOUN recommendations/NOUN to/ADP customers/PROPN ./PUNCT
+　　/SPACE 1983/NOUN -/PUNCT 1985/NUM BETHEL/PROPN COLLEGE/NOUN ,/PUNCT North/PROPN Newton/PROPN ,/PUNCT KS/PROPN 　　/SPACE Secretary/PROPN 　　/SPACE Responsible/NOUN for/ADP general/PROPN clerical/NOUN duties/VERB ./PUNCT
+Resolved/NOUN inquiries/VERB ./PUNCT
+Assisted/NOUN in/ADP locating/NOUN guest/VERB speakers/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE BETHANY/NOUN COLLEGE,Lindsborg/PUNCT ,/PUNCT KS/PROPN 　　/SPACE Bachelor/NOUN of/ADP Science/PROPN ;Sociology/ADV ,/PUNCT 1983/NOUN 　　/SPACE PREFEREN/PROPN CES/PROPN 　　/SPACE Furnished/PROPN upon/VERB request/NOUN ./PUNCT
+　　/SPACE Candidate/PROPN 's/VERB customer/PROPN relations/NOUN and/CCONJ administrative/PROPN skills,essential/NOUN in/ADP the/DET hotel/hospitality/ADJ field/NOUN ,/PUNCT are/VERB emphasized/VERB throughout/VERB the/DET resume/NOUN ./PUNCT
+　　/SPACE Education/NOUN is/VERB de-emphasized/NOUN because/NOUN candidate/PROPN 's/VERB work/NOUN history/PROPN is/VERB strong/NOUN ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT skills/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+944/NUM ,/PUNCT 348/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

@@ -1,0 +1,61 @@
+Sandy/NOUN Bin/ADV 15/NUM //PUNCT F,TOWA/NOUN RD/NOUN ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+
+OBJECTIVE/PROPN
+
+To/NOUN contribute/ADJ managerial/NOUN skills/NOUN to/ADP a/DET challenging/ADJ position/NOUN as/ADP a/NUM recruiter/NOUN ./PUNCT
+
+SUM/NOUN MARY/NOUN OF/PROPN QUALI/NOUN FICATION/PROPN S/NOUN
+
+Extensive/PROPN public/ADJ relations/NOUN work/NOUN ,/PUNCT dealing/VERB with/ADV all/DET levels/VERB of/ADP employment/VERB ./PUNCT
+
+Self/PROPN -/PUNCT motivated/NOUN ;able/VERB to/ADP organize,analyze/PROPN and/CCONJ meet/VERB operational/NOUN deadlines/NOUN ./PUNCT
+
+Respond/PROPN well/ADV in/ADP high/PROPN -/PUNCT pressure/NOUN atmosphere/VERB ./PUNCT
+
+Capable/PROPN of/ADP handing/VERB a/NUM diversity/NOUN of/ADP responsibilities/NOUN simultaneously/VERB ./PUNCT
+
+EX/PROPN PER/NOUN I/PRON ENCE/NOUN
+
+NORMA/PROPN N/NOUN DEPARTMEN/PROPN T/NOUN STORES/PROPN ,/PUNCT New/NOUN London/PROPN ,/PUNCT CT/PROPN
+
+Manager/PROPN of/ADP Executive/NOUN Recruitment/NOUN ,/PUNCT 6/NUM //PUNCT 87/NUM -/PUNCT 1/NUM //PUNCT 94/NUM
+
+Oversaw/PROPN college/NOUN recruiting/NOUN process/VERB ,/PUNCT annual/VERB budget/PROPN $/NOUN 75/NUM ,/NUM 000/NUM ./PUNCT
+Presented/NOUN campus/PROPN recruitment/NOUN workshops/VERB ;/ADP developed/NOUN internship/NOUN program/NOUN ./PUNCT
+Hired/PROPN //PUNCT recruited/PROPN support/NOUN and/CCONJ merchandising/NOUN staff.Organized/VERB senior/NOUN executive/VERB involvement/VERB ./PUNCT
+Rece/VERB ived/NOUN award/VERB for/NOUN overall/ADP achievement/VERB and/ADV out/ADJ standing/PROPN perfor/NOUN mance/NOUN in/VERB Human/NUM Resources/NOUN ,/PUNCT 3/NUM //PUNCT 92/NUM ./PUNCT
+
+Department/VERB Manager/PROPN ,/PUNCT 9/NUM //PUNCT 85/NUM -/PUNCT 6/NUM //PUNCT 87/NUM
+
+Merchandised/PROPN children's/NOUN clothing/PROPN and/CCONJ accessories/NOUN ./PUNCT
+Analy/NOUN zed/NOUN //PUNCT marketed/NOUN $/NOUN 2/NUM million/NOUN inventory/NOUN ./PUNCT
+Coordinated/PROPN inventory/PROPN control.Trained/VERB //PUNCT developed/NOUN staff/NOUN of/ADP 15/NUM sales/NUM associates/PROPN in/ADP customer/NOUN services/ADJ skills/NOUN and/CCONJ selling/NOUN techniques/VERB ./PUNCT
+Achieved/PROPN 20%/NUM sales/NOUN increase/PROPN over/VERB one/NOUN year/VERB period/NOUN ./PUNCT
+Chosen/ADJ manager/NOUN of/ADP the/DET year/VERB for/ADP excellence/NOUN in/NOUN execution/NOUN of/ADP responsibilities/NOUN ,/PUNCT 1986/NUM ./PUNCT
+
+SEI/PROPN NFEL/PROPN D'S/PUNCT Redding/PROPN ,/PUNCT CT/PROPN
+
+Selling/PROPN Supervisor/PROPN Trainee/PROPN ,/PUNCT 6/NUM //PUNCT 85/NUM -/PUNCT 8/NUM //PUNCT 85/NUM
+
+Coordinated/PROPN merchandising/NOUN and/CCONJ overall/ADJ appearance/PROPN of/ADP Men's/PROPN Department/PROPN ./PUNCT
+Evaluated/NOUN sales/NOUN data/NOUN ./PUNCT
+Controlled/PROPN inventory/PROPN and/CCONJ placement/NOUN of/ADP incoming/PROPN merchandise.Executed/NOUN price/NOUN revisions/NOUN ./PUNCT
+
+EDUCATION/NOUN
+
+CONNECTICUT/PROPN COLLEGE/NOUN ,/PUNCT New/NOUN London/PROPN ,/PUNCT CT/PROPN
+
+B/NOUN ./PUNCT
+A/NOUN .,/PUNCT Spanish/PROPN Modified/NOUN with/DET Government/PROPN Studies/NOUN ,/PUNCT May/NOUN 1987/NOUN
+
+NOTIC/PROPN E/NOUN
+
+Specific/PROPN contributions/NOUN display/NOUN candidate/NOUN 's/VERB achievements/NUM and/CCONJ problem/VERB -/PUNCT solving/NOUN abilities/VERB ./PUNCT
+
+Specific/PROPN dates/PROPN of/ADP employment/NOUN (month/VERB and/CCONJ year/VERB )/NOUN are/VERB id/VERB eal/NOUN for/ADP candidates/PROPN with/DET no/NOUN gaps/NOUN in/NOUN work/NOUN history/VERB ./PUNCT
+
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT inventory/PROPN +/PUNCT sales/PROPN +/PUNCT year/VERB ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+13/NUM ,/PUNCT 726/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

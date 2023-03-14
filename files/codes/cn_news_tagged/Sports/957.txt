@@ -1,0 +1,1158 @@
+足彩/NOUN 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 赛果/NOUN
+
+队名/NOUN
+
+佛/NOUN
+
+罗/PROPN
+
+伦/PROPN
+
+国/NOUN
+
+米/NUM
+
+尤/ADV
+
+文/NOUN
+
+莱/PROPN
+
+切/VERB
+
+梅/PROPN
+
+西/NOUN
+
+纳/VERB
+
+帕/VERB
+
+尔/ADV
+
+玛/NOUN
+
+罗/PROPN
+
+马/PROPN
+
+乌/PROPN
+
+迪/NOUN
+
+内/PART
+
+阿/PROPN
+
+森/PROPN
+
+纳/VERB
+
+博/NOUN
+
+尔/ADV
+
+顿/NUM
+
+埃/PROPN
+
+弗/PROPN
+
+顿/NUM
+
+曼/PROPN
+
+联/VERB
+
+朴/VERB
+
+茨/NOUN
+
+茅/VERB
+
+西/NOUN
+
+汉/PROPN
+
+姆/VERB
+
+胜/VERB 负彩/NOUN
+
+3/NUM
+
+1/NUM
+
+3/NUM
+
+1/NUM
+
+0/NUM
+
+0/NUM
+
+3/NUM
+
+3/NUM
+
+3/NUM
+
+3/NUM
+
+1/NUM
+
+3/NUM
+
+0/NUM
+
+3/NUM
+
+详细/ADJ 比分/NOUN >>/NUM
+
+足彩/NOUN 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 开奖/NOUN 结果/NOUN
+
+一等奖/NUM
+
+2746/NOUN (注/NOUN )/NOUN
+
+8982/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+二等奖/NOUN
+
+48446/NUM (注/NOUN )/NOUN
+
+218/NOUN (元/NOUN //PUNCT 注)/PUNCT
+
+销售额/NOUN ：/PUNCT 55060766/NUM 元/NUM
+
+开奖/NOUN 详情/NOUN >>/NUM
+
+任选/NOUN 九/NUM 场/NUM 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 开奖/NOUN 结果/NOUN
+
+一等奖/NUM
+
+150536/NOUN (注/NOUN )/NOUN
+
+66/NUM (元/NOUN )/PROPN
+
+销售额/NOUN ：/PUNCT 15683736/NUM 元/NUM
+
+开奖/NOUN 详情/NOUN >>/NUM
+
+足彩/NOUN 胜/VERB 负玩法/NOUN 06031/NUM 期/NUM 冷门/NOUN 排行/VERB
+
+排名/VERB
+
+对阵/NOUN
+
+赛果/NOUN
+
+胜/VERB
+
+平/VERB
+
+负/ADV
+
+1/NUM
+
+西汉姆/PROPN 2-1/NUM 热刺/NOUN
+
+3/NUM
+
+21/NUM ./PUNCT
+19/NUM
+
+28/NUM ./PUNCT
+03/NUM
+
+50/NUM ./PUNCT
+78/NUM
+
+评/VERB
+
+2/NUM
+
+梅西纳/PROPN 1-2/PROPN 恩波利/PROPN
+
+0/NUM
+
+36/NUM ./PUNCT
+08/NUM
+
+37/NUM ./PUNCT
+29/NUM
+
+26/NUM ./PUNCT
+63/NUM
+
+评/VERB
+
+3/NUM
+
+国米/NOUN 1-1/NOUN 锡/NOUN 耶纳/PROPN
+
+1/NUM
+
+65/NUM ./PUNCT
+14/NUM
+
+28/NUM ./PUNCT
+66/NUM
+
+6/NUM ./PUNCT 20/NUM
+
+评/VERB
+
+4/NUM
+
+埃弗顿/PROPN 2-2/PROPN
+西布朗/PROPN
+
+1/NUM
+
+57/NUM ./PUNCT
+46/NUM
+
+30/NUM ./PUNCT
+76/NUM
+
+11/NUM ./PUNCT
+79/NUM
+
+评/VERB
+
+5/NUM
+
+莱切/PROPN 0-0/PROPN 切沃/VERB
+
+1/NUM
+
+19/NUM ./PUNCT 27/NUM
+
+33/NUM ./PUNCT 15/NUM
+
+47/NUM ./PUNCT
+58/NUM
+
+评/VERB
+
+胜/VERB 负彩/NOUN 冷门/NOUN 排行/VERB >>/NUM
+
+任选/NOUN 九/NUM 场/NUM 冷门/NOUN 排行/VERB >>/NUM
+
+对阵/NOUN
+
+彩果/NOUN
+
+搜狐/PROPN 网友/NOUN 胜负/NOUN 倾向/NOUN
+
+胜/VERB //PUNCT 平/NOUN //PUNCT 负(/VERB %)/PUNCT
+
+预测/VERB
+
+02/NUM
+
+国米vs锡耶纳/NOUN
+
+1/NUM
+
+79/NUM ./PUNCT
+86/NUM
+
+16/NUM ./PUNCT
+51/NUM
+
+3/NUM ./PUNCT 62/NUM
+
+3/NUM
+
+14/NUM
+
+西/NOUN 汉姆vs/NOUN 热刺/NOUN
+
+3/NUM
+
+19/NUM ./PUNCT
+86/NUM
+
+27/NUM ./PUNCT
+59/NUM
+
+52/NUM ./PUNCT
+55/NUM
+
+0/NUM
+
+11/NUM
+
+埃弗顿/PROPN vs西布朗/PROPN
+
+1/NUM
+
+69/NUM ./NOUN
+14/NUM
+
+22/NUM ./PUNCT
+53/NUM
+
+8/NUM ./PUNCT 33/NUM
+
+3/NUM
+
+05/NUM
+
+梅西纳vs恩/PROPN 波利/PROPN
+
+0/NUM
+
+38/NUM ./PUNCT
+53/NUM
+
+36/NUM ./PUNCT
+95/NUM
+
+24/NUM ./PUNCT
+52/NUM
+
+31/NUM
+
+04/NUM
+
+莱切vs/PROPN 切沃/VERB
+
+1/NUM
+
+14/NUM ./PUNCT 85/NUM
+
+32/NUM ./PUNCT 38/NUM
+
+52/NUM ./PUNCT
+77/NUM
+
+01/NUM
+
+08/NUM
+
+乌迪内vs卡利亚/PROPN
+
+3/NUM
+
+52/NUM ./PUNCT
+88/NUM
+
+35/NUM ./PUNCT
+50/NUM
+
+11/NUM ./PUNCT
+62/NUM
+
+31/NUM
+
+10/NUM
+
+博尔顿/NOUN vs/VERB 伯明翰/PROPN
+
+3/NUM
+
+59/NUM ./PUNCT
+74/NUM
+
+28/NUM ./PUNCT
+19/NUM
+
+12/NUM ./PUNCT
+07/NUM
+
+3/NUM
+
+13/NUM
+
+朴茨/VERB 茅vs/VERB 利物浦/NOUN
+
+0/NUM
+
+12/NUM ./PUNCT 76/NUM
+
+23/NUM ./PUNCT
+17/NUM
+
+64/NUM ./PUNCT 07/NUM
+
+0/NUM
+
+06/NUM
+
+帕尔玛vsA/NOUN C米兰/NOUN
+
+0/NUM
+
+8/NUM ./PUNCT 25/NUM
+
+17/NUM ./PUNCT 47/NUM
+
+74/NUM ./PUNCT
+28/NUM
+
+0/NUM
+
+03/NUM
+
+尤文vs/ADV 巴勒莫/PROPN
+
+3/NUM
+
+79/NUM ./PUNCT 83/NUM
+
+15/NUM ./PUNCT 34/NUM
+
+4./NUM 83/NUM
+
+3/NUM
+
+09/NOUN
+
+阿森纳vs/PROPN 维冈/PROPN
+
+3/NUM
+
+86/NUM ./PUNCT 15/NUM
+
+10/NUM ./PUNCT 58/NUM
+
+3/NUM ./PUNCT 27/NUM
+
+3/NUM
+
+12/NUM
+
+曼联/NOUN vs/ADV 查尔顿/VERB
+
+3/NUM
+
+86/NUM ./PUNCT 73/NUM
+
+10/NUM ./PUNCT 15/NUM
+
+3/NUM ./PUNCT 12/NUM
+
+3/NUM
+
+01/NUM
+
+佛罗伦vs/PROPN 雷吉纳/PROPN
+
+3/NUM
+
+88/NUM ./PUNCT 57/NUM
+
+9.27/VERB
+
+2/NUM ./PUNCT 16/NUM
+
+3/NUM
+
+07/NUM
+
+罗马vs特/PROPN 雷维/VERB
+
+3/NUM
+
+90/NUM ./PUNCT
+31/NUM
+
+7./NUM 32/NUM
+
+2/NUM ./PUNCT 37/NUM
+
+3/NUM
+
+对阵/NOUN
+
+彩果/NOUN
+
+欧洲/PROPN 网友/NOUN 胜负/NOUN 倾向/NOUN
+
+胜/VERB //PUNCT 平/NOUN //PUNCT 负(/VERB %)/PUNCT
+
+预测/VERB
+
+14/NUM
+
+西/NOUN 汉姆vs/NOUN 热刺/NOUN
+
+3/NUM
+
+21/NUM ./PUNCT 48/NUM
+
+29/NUM ./PUNCT
+95/NUM
+
+48/NUM ./PUNCT
+57/NUM
+
+0/NUM
+
+05/NUM
+
+梅西纳vs恩/PROPN 波利/PROPN
+
+0/NUM
+
+35/NUM ./PUNCT
+80/NUM
+
+38/NUM ./PUNCT
+28/NUM
+
+25/NUM ./PUNCT
+91/NOUN
+
+31/NUM
+
+02/NUM
+
+国米vs锡耶纳/NOUN
+
+1/NUM
+
+60/NUM ./PUNCT
+35/NUM
+
+26/NUM ./PUNCT
+68/NUM
+
+12/NUM ./PUNCT
+97/NUM
+
+3/NUM
+
+11/NUM
+
+埃弗顿/PROPN vs西布朗/PROPN
+
+1/NUM
+
+51/NUM ./PUNCT
+61/NUM
+
+28/NUM ./PUNCT
+00/NUM
+
+20/NUM ./PUNCT 38/NUM
+
+3/NUM
+
+04/NUM
+
+莱切vs/PROPN 切沃/VERB
+
+1/NUM
+
+12/NUM ./PUNCT
+18/NUM
+
+33/NUM ./NOUN
+14/NUM
+
+54/NUM ./PUNCT
+68/NUM
+
+01/NUM
+
+08/NUM
+
+乌迪内vs卡利亚/PROPN
+
+3/NUM
+
+48/NUM ./PUNCT 48/NUM
+
+35/NUM ./PUNCT
+58/NUM
+
+15/NUM ./PUNCT
+94/NUM
+
+31/NUM
+
+10/NUM
+
+博尔顿/NOUN vs/VERB 伯明翰/PROPN
+
+3/NUM
+
+50/NUM ./PUNCT
+00/NUM
+
+30/NUM ./PUNCT
+04/NUM
+
+19/NUM ./PUNCT
+96/NUM
+
+31/NUM
+
+13/NUM
+
+朴茨/VERB 茅vs/VERB 利物浦/NOUN
+
+0/NUM
+
+17/NUM ./PUNCT 94/NUM
+
+27/NUM ./PUNCT
+88/NUM
+
+54/NUM ./PUNCT
+18/NUM
+
+0/NUM
+
+09/NOUN
+
+阿森纳vs/PROPN 维冈/PROPN
+
+3/NUM
+
+64/NUM ./PUNCT
+71/NUM
+
+19/NUM ./PUNCT 56/NUM
+
+15.73/NOUN
+
+3/NUM
+
+12/NUM
+
+曼联/NOUN vs/ADV 查尔顿/VERB
+
+3/NUM
+
+67/NUM ./PUNCT 45/NUM
+
+19/NUM ./PUNCT 57/NUM
+
+12/NUM ./PUNCT 98/NUM
+
+3/NUM
+
+06/NUM
+
+帕尔玛vsA/NOUN C米兰/NOUN
+
+0/NUM
+
+7.5/NUM
+
+21/NUM ./PUNCT
+21/NUM
+
+71/NUM ./PUNCT
+30/NUM
+
+0/NUM
+
+03/NUM
+
+尤文vs/ADV 巴勒莫/PROPN
+
+3/NUM
+
+72/NUM ./PUNCT
+41/NUM
+
+16/NUM ./PUNCT
+05/NUM
+
+11/NUM ./PUNCT 54/NUM
+
+3/NUM
+
+01/NUM
+
+佛罗伦vs/PROPN 雷吉纳/PROPN
+
+3/NUM
+
+75/NUM ./PUNCT
+68/NUM
+
+13/NUM ./PUNCT 72/NUM
+
+10/NUM ./PUNCT 60/NUM
+
+3/NUM
+
+07/NUM
+
+罗马vs特/PROPN 雷维/VERB
+
+3/NUM
+
+79/NUM ./PUNCT
+58/NUM
+
+14/NUM ./PUNCT
+59/NUM
+
+5./NOUN 84/NUM
+
+3/NUM
+
+对阵/NOUN
+
+彩果/NOUN
+
+欧洲/PROPN 平均/NOUN 胜负/NOUN 倾向/NOUN
+
+胜/VERB //PUNCT 平/NOUN //PUNCT 负(/VERB %)/PUNCT
+
+预测/VERB
+
+14/NUM
+
+西/NOUN 汉姆vs/NOUN 热刺/NOUN
+
+3/NUM
+
+周五/NOUN
+
+23/NUM
+
+27/NUM
+
+50/NUM
+
+0/NUM
+
+周六/NOUN
+
+22/NUM
+
+26/NUM
+
+52/NUM
+
+周日/NOUN
+
+22/NUM
+
+26/NUM
+
+52/NUM
+
+02/NUM
+
+国米vs锡耶纳/NOUN
+
+1/NUM
+
+周五/NOUN
+
+66/NUM
+
+24/NUM
+
+10/NUM
+
+3/NUM
+
+周六/NOUN
+
+66/NUM
+
+24/NUM
+
+10/NUM
+
+周日/NOUN
+
+66/NUM
+
+24/NUM
+
+10/NUM
+
+11/NUM
+
+埃弗顿/PROPN vs西布朗/PROPN
+
+1/NUM
+
+周五/NOUN
+
+57/NUM
+
+26/NUM
+
+17/NUM
+
+3/NUM
+
+周六/NOUN
+
+59/NUM
+
+25/NUM
+
+15/NUM
+
+周日/NOUN
+
+57/NUM
+
+26/NUM
+
+17/NUM
+
+05/NUM
+
+梅西纳vs恩/PROPN 波利/PROPN
+
+0/NUM
+
+周五/NOUN
+
+39/NUM
+
+34/NUM
+
+27/NUM
+
+31/NUM
+
+周六/NOUN
+
+39/NUM
+
+34/NUM
+
+27/NUM
+
+周日/NOUN
+
+39/NUM
+
+34/NUM
+
+27/NUM
+
+04/NUM
+
+莱切vs/PROPN 切沃/VERB
+
+1/NUM
+
+周五/NOUN
+
+17/NUM
+
+29/NUM
+
+54/NUM
+
+0/NUM
+
+周六/NOUN
+
+17/NUM
+
+29/NUM
+
+54/NUM
+
+周日/NOUN
+
+17/NUM
+
+29/NUM
+
+54/NUM
+
+08/NUM
+
+乌迪内vs卡利亚/PROPN
+
+3/NUM
+
+周五/NOUN
+
+51/NUM
+
+33/NUM
+
+16/NUM
+
+31/NUM
+
+周六/NOUN
+
+51/NUM
+
+33/NUM
+
+16/NUM
+
+周日/NOUN
+
+51/NUM
+
+33/NUM
+
+16/NUM
+
+13/NUM
+
+朴茨/VERB 茅vs/VERB 利物浦/NOUN
+
+0/NUM
+
+周五/NOUN
+
+18/NUM
+
+26/NUM
+
+56/NUM
+
+0/NUM
+
+周六/NOUN
+
+18/NUM
+
+25/NUM
+
+57/NUM
+
+周日/NOUN
+
+18/NUM
+
+25/NUM
+
+57/NUM
+
+10/NUM
+
+博尔顿/NOUN vs/VERB 伯明翰/PROPN
+
+3/NUM
+
+周五/NOUN
+
+59/NUM
+
+25/NUM
+
+15/NUM
+
+3/NUM
+
+周六/NOUN
+
+59/NUM
+
+25/NUM
+
+15/NUM
+
+周日/NOUN
+
+59/NUM
+
+25/NUM
+
+16/NUM
+
+06/NUM
+
+帕尔玛vsA/NOUN C米兰/NOUN
+
+0/NUM
+
+周五/NOUN
+
+9/NUM
+
+21/NUM
+
+70/NUM
+
+0/NUM
+
+周六/NOUN
+
+9/NUM
+
+21/NUM
+
+70/NUM
+
+周日/NOUN
+
+9/NUM
+
+20/NUM
+
+70/NUM
+
+09/NOUN
+
+阿森纳vs/PROPN 维冈/PROPN
+
+3/NUM
+
+周五/NOUN
+
+74/NUM
+
+17/NUM
+
+9/NUM
+
+3/NUM
+
+周六/NOUN
+
+74/NUM
+
+17/NUM
+
+9/NUM
+
+周日/NOUN
+
+74/NUM
+
+17/NUM
+
+8/NUM
+
+12/NUM
+
+曼联/NOUN vs/ADV 查尔顿/VERB
+
+3/NUM
+
+周五/NOUN
+
+75/NUM
+
+17/NUM
+
+8/NUM
+
+3/NUM
+
+周六/NOUN
+
+75/NUM
+
+17/NUM
+
+8/NUM
+
+周日/NOUN
+
+75/NUM
+
+17/NUM
+
+8/NUM
+
+03/NUM
+
+尤文vs/ADV 巴勒莫/PROPN
+
+3/NUM
+
+周五/NOUN
+
+78/NUM
+
+15/NUM
+
+7/NUM
+
+3/NUM
+
+周六/NOUN
+
+78/NUM
+
+15/NUM
+
+7/NUM
+
+周日/NOUN
+
+78/NUM
+
+15/NUM
+
+7/NUM
+
+01/NUM
+
+佛罗伦vs/PROPN 雷吉纳/PROPN
+
+3/NUM
+
+周五/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM
+
+3/NUM
+
+周六/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM
+
+周日/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM
+
+07/NUM
+
+罗马vs特/PROPN 雷维/VERB
+
+3/NUM
+
+周五/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM
+
+3/NUM
+
+周六/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM
+
+周日/NOUN
+
+82/NUM
+
+13/NUM
+
+5/NUM

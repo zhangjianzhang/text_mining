@@ -1,0 +1,129 @@
+序号/NOUN
+
+考点/NOUN 名称/NOUN
+
+考点/NOUN 地址/NOUN
+
+考场/VERB 序号/NOUN
+
+考场/VERB 数/NUM
+
+级别/NOUN
+
+报名/VERB 县区/NOUN
+
+01/NUM
+
+海口/PROPN 旅游/NOUN 职业/NOUN 学校/NOUN
+
+海口市/PROPN 白龙北路/PROPN 1号/NOUN
+
+001/NUM -/NUM 045/NUM
+
+45/NUM
+
+中级/ADJ
+
+第一/NUM 报名点/NOUN 、/PUNCT   /SPACE 第二/NUM 报名点/NOUN 、/PUNCT 海口/PROPN 、/PUNCT 文昌/NOUN 、/PUNCT 定安/NOUN 、/PUNCT 琼海/NOUN 、/PUNCT 万宁/NOUN 、/PUNCT 澄迈/NOUN 、/PUNCT 屯昌/NOUN 、/PUNCT 儋州/PROPN 、/PUNCT 白沙/NOUN 、/PUNCT 临高/NOUN 、/PUNCT 昌江/PROPN 、/PUNCT 洋浦/PROPN 、/PUNCT 琼中/PROPN
+
+02/NUM
+
+海南省/PROPN 高级/ADJ 技工/NOUN 学校/NOUN
+
+海口/PROPN 市府/NOUN 城路/NOUN 大园路/NOUN
+7号/NUM
+
+001/NUM -/CCONJ 042/NUM
+
+42/NUM
+
+中级/ADJ
+
+03/NUM
+
+海口市/PROPN 第一/NUM 职业/NOUN 中学/NOUN
+
+海口市/PROPN 大同路/NOUN 26号/NUM
+
+001/NUM -/CCONJ 032/NUM
+
+32/NUM
+
+中级/ADJ
+
+04/NUM
+
+海口市/PROPN 第四/NUM 中学/NOUN
+
+海口市/PROPN 白龙南路/PROPN 18号/NUM
+
+001/NUM -/NUM 069/NUM
+
+69/NUM
+
+初级/ADJ
+
+05/NUM
+
+海口市/PROPN 第十/NUM 中学/NOUN
+
+海口市/PROPN 和平南路/PROPN 12号/NOUN
+
+001/NUM -/PUNCT 044/NUM
+
+44/NUM
+
+初级/ADJ
+
+06/NUM
+
+海口市/PROPN 第七/NUM 中学/NOUN
+
+海口市/PROPN 美舍路/PROPN
+4号/NOUN
+
+001/NUM -/CCONJ 037/NUM
+
+37/NUM
+
+初级/ADJ
+
+07/NUM
+
+海口市/PROPN 经济/NOUN 技术/NOUN 学院/NOUN
+
+海口市/PROPN 国兴/NOUN 大道/NOUN 文坛路/NOUN 2号/NOUN
+
+001/NUM -/CCONJ 046/NUM
+
+46/NUM
+
+初级/ADJ
+
+08/NUM
+
+三亚市/PROPN 实验/NOUN 中学/NOUN （/PUNCT 一中/NOUN ）/PUNCT
+
+三亚市/PROPN 河东/NOUN
+一路/ADV
+
+001/NUM -/CCONJ 037/NUM
+
+37/NUM
+
+初级/ADJ
+
+三亚/PROPN 、/PUNCT 陵水/NOUN 、/PUNCT 保亭/NOUN 、/PUNCT 东方/NOUN 、/PUNCT 五指山/NOUN 、/PUNCT 乐东/ADJ
+
+08/NUM
+
+三亚市/PROPN 实验/NOUN 中学/NOUN （/PUNCT 一中/NOUN ）/PUNCT
+
+三亚市/PROPN 河东/NOUN
+一路/ADV
+
+038/NUM -/PUNCT 057/NUM
+
+d/NOUN
+
+s/NOUN

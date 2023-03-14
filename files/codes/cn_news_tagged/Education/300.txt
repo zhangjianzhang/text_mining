@@ -1,0 +1,127 @@
+Chinese/PROPN and/CCONJ Americans/PROPN literally/VERB view/VERB the/DET world/VERB differently/VERB ，/PUNCT ac/ADP cording/VERB to/ADP a/VERB
+
+new/PROPN study/VERB ，/PUNCT which/PROPN found/PROPN that/ADP the/DET two/NOUN grou/PROPN ps/NOUN tend/NOUN to/ADP move/ADV the/DET ir/NOUN eyes/ADJ in/NOUN distinctly/PROPN
+
+different/NOUN patterns/VERB when/PROPN looking/VERB at/ADP pictures/NOUN ./PUNCT
+
+“/PUNCT It/NOUN people/NOUN are/VERB literally/NOUN looking/VERB at/ADP the/DET world/VERB differently/VERB ，/PUNCT we/NOUN think/VERB
+it/NOUN would/PROPN
+
+be/ADJ natural/NOUN for/ADP the/DET m/NOUN to/ADP explain/VERB the/DET world/VERB in/ADP different/NOUN ways/VERB ，/PUNCT ”/PUNCT
+said/PROPN Richard/PROPN
+
+Nisbett/NOUN ，/PUNCT a/NUM psychologist/NOUN at/ADP the/DET University/NOUN of/ADP Michigan/PROPN ./PUNCT
+
+Over/PROPN the/DET past/NOUN decade/NOUN ，/PUNCT research/NOUN by/ADP Nisbett/PROPN and/CCONJ his/PROPN colleagues/VERB has/PROPN surprised/VERB
+
+social/NOUN scientists/NOUN with/ADP numerous/NOUN studies/NOUN showing/NOUN that/ADV Westerners/NOUN and/CCONJ East/NOUN Asians/NOUN
+
+think/NOUN differently/VERB ./PUNCT
+
+Westerners/PROPN tend/NOUN to/ADP be/ADJ analytical/NOUN and/CCONJ pay/NOUN more/ADV attention/VERB to/ADP the/DET key/NOUN ，/PUNCT or/CCONJ focal/NOUN
+
+objects/NOUN in/ADP a/NOUN scene/NOUN —/PUNCT for/PROPN example/VERB ，/PUNCT concentration/NOUN on/ADP the/DET woman/NOUN in/ADP the/DET “/PUNCT Mona/NOUN
+
+Lisa/PROPN ”/PUNCT ，/PUNCT as/ADV opposed/NOUN to/ADP the/DET rocks/NOUN and/CCONJ sky/NOUN behind/ADV her/NOUN ./PUNCT
+
+“/PUNCT East/NOUN Asians/NOUN ，/PUNCT by/ADP contrast/VERB ，/PUNCT tend/NOUN to/ADP look/PROPN at/ADP the/DET whole/NOUN picture/NOUN and/CCONJ rely/NOUN on/ADP
+
+contextual/PROPN information/NOUN when/PROPN making/NOUN decisions/NOUN and/CCONJ judgments/NOUN about/PROPN what/VERB they/PROPN see/VERB ，/PUNCT ”/PUNCT
+
+Nisbett/NOUN said/VERB ./PUNCT
+
+The/DET new/NOUN study/NOUN was/NOUN designed/VERB to/ADP determine/VERB if/VERB the/DET difference/NOUN in/ADP the/DET thought/NOUN
+
+processes/NOUN of/ADP East/NOUN Asians/PROPN and/CCONJ Westerners/PROPN affects/NOUN how/PROPN each/CCONJ group/PROPN physically/NOUN looks/NOUN
+
+at/ADP the/DET world/VERB ./PUNCT
+To/NOUN find/VERB out/PROPN ，/PUNCT the/DET researchers/NOUN measured/NOUN eye/PROPN movements/NOUN of/ADP 45/NUM U/NOUN ./PUNCT
+S/X ./PUNCT
+and/ADV
+
+Chinese/PROPN students/VERB as/ADP they/PROPN looked/VERB at/ADP photographs/NOUN that/ADV featured/VERB single/NOUN focal/NOUN
+
+objects/NOUN against/VERB complex/PROPN backgrounds/PROPN ./PUNCT
+For/NOUN example/VERB ，/PUNCT one/ADP image/PROPN showed/PROPN a/NUM tiger/NOUN by/ADP a/NUM
+
+stream/NOUN in/ADP a/NUM forest/NOUN ./PUNCT
+Another/NOUN image/PROPN showed/PROPN a/NUM fighter/PROPN jet/NOUN flying/VERB over/ADP a/NUM mountainous/NOUN
+
+landscape/VERB ./PUNCT
+
+“/PUNCT When/PROPN test/NOUN subjects/NOUN looked/VERB at/ADP the/DET pictures/NOUN ，/PUNCT differences/NOUN emerged/NOUN between/VERB the/DET
+
+U/NOUN ./PUNCT
+S/X ./PUNCT
+and/ADV Chinese/PROPN students/VERB within/PROPN the/DET first/ADJ second/NOUN of/ADP an/PROPN average/NOUN viewing/VERB ，/PUNCT ”/PUNCT
+
+Nisbett/NOUN said/VERB ./PUNCT
+“/PUNCT Americans/PROPN look/NOUN at/ADP the/DET focal/NOUN object/NOUN more/NOUN quickly/NOUN and/CCONJ spend/VERB more/NOUN
+
+time/NOUN looking/VERB at/ADP it/NOUN ，/PUNCT ”/PUNCT
+he/INTJ said/VERB ./PUNCT
+“/PUNCT The/DET Chinese/PROPN have/PROPN more/ADP saccades/NOUN （/PUNCT jerky/NOUN eye/NOUN
+
+movements/NOUN ）/PUNCT ./PUNCT
+They/PROPN move/ADV the/DET ir/NOUN eyes/ADV more/VERB ，/PUNCT especially/VERB back/PROPN and/CCONJ forth/VERB between/VERB the/DET
+
+object/NOUN and/CCONJ the/DET background/NOUN field/NOUN ./PUNCT ”/PUNCT
+
+The/DET finding/ADJ suggests/ADJ that/NOUN East/NOUN Asians/PROPN literally/NOUN spend/VERB more/ADJ time/NOUN putting/NOUN
+
+objects/NOUN in/VERB to/ADP context/NOUN than/ADJ Americans/PROPN do/VERB ./PUNCT
+The/DET differences/NOUN are/VERB not/PROPN just/PROPN reflected/NOUN
+
+in/ADP how/PROPN individuals/PROPN recall/NOUN and/CCONJ report/NOUN the/DET ir/NOUN memories/NOUN but/CCONJ in/ADP how/PROPN they/PROPN physically/NOUN
+
+see/NOUN an/NOUN image/NOUN in/ADP the/DET first/NOUN place/NOUN ./PUNCT
+
+Nisbett/NOUN says/NOUN that/ADV any/NOUN explanation/VERB for/ADP the/DET cultural/NOUN differences/NOUN is/VERB ，/PUNCT
+at/ADP this/PRON
+
+point/NOUN ，/PUNCT speculation/NOUN ./PUNCT
+However/PROPN ，/PUNCT he/ADP and/CCONJ his/NOUN colleagues/NOUN suggest/VERB that/VERB the/DET differences/NUM
+
+may/PROPN be/ADJ rooted/NOUN in/ADP social/NOUN practices/NOUN that/ADJ stretch/NOUN back/PROPN thous/NOUN ands/VERB of/ADP years/VERB ./PUNCT
+
+“/PUNCT Westerners/PROPN are/VERB taught/NOUN to/ADP pay/NOUN attention/VERB to/ADP objects/NOUN that/NOUN are/VERB important/VERB to/ADP
+
+them/VERB ，/PUNCT to/ADP have/PROPN goals/PROPN that/NOUN they/NOUN can/VERB follow/VERB ，/PUNCT ”/PUNCT
+he/INTJ said/VERB ./PUNCT
+“/PUNCT East/NOUN Asians/PROPN are/VERB more/VERB likely/PROPN
+
+to/ADP pay/NOUN attention/VERB to/ADP the/DET social/NOUN field/NOUN ./PUNCT ”/PUNCT
+
+By/NOUN John/PROPN Roach/NOUN
+
+一/NUM 顶/NUM 最/ADV 新/VERB 的/PART 研究/NOUN 表明/VERB ，/PUNCT 中国人/NOUN 和/ADP 美国人/NOUN 的/PART 世界观/NOUN 的确/ADV 不同/VERB 。/PUNCT
+研究/NOUN 表明/VERB 当/ADP 这/DET 两/NUM 个/NUM 民族/NOUN 的/PART 人/NOUN 在/ADP 注视/VERB 图画/NOUN 时/PART ，/PUNCT 他们/PRON 使用/VERB 眼神/NOUN 的/PART 方式/NOUN 截然不同/VERB 。/PUNCT
+
+“/PUNCT 如果/SCONJ 人们/NOUN 的/PART 世界观/NOUN 的确/ADV 不/ADV 一样/VERB ，/PUNCT 我们/PRON 认为/VERB 他们/PRON 用/ADP 不同/ADJ 方式/NOUN 解释/VERB 事物/NOUN 也/ADV 就/ADV 不足为奇/VERB 了/PART ，/PUNCT ”/PUNCT 密歇根/PROPN 大学/NOUN 的/PART 心理学家/NOUN 理查德·尼斯伯特/VERB 说/VERB 。/PUNCT
+
+在/ADP 过去/NOUN 的/PART 十多/NUM 年中/PART ，/PUNCT 由/ADP 尼斯伯特/NOUN 和/ADP 同事们/NOUN 进行/VERB 的/PART 研究/NOUN 使/VERB 社会/NOUN 科学界/NOUN 大吃一惊/VERB ，/PUNCT 大量/NUM 的/PART 研究/NOUN 成果/NOUN 表明/VERB 西方人/NOUN 和/CCONJ 东亚人/PROPN 的/PART 思维/NOUN 方式/NOUN 确实/ADV 不同/VERB 。/PUNCT
+
+西方人/PROPN 倾向于/VERB 分析/VERB 问题/NOUN ，/PUNCT 更加/ADV 注意/VERB 某/DET 一/NUM 现场/NOUN 的/PART 关键/NOUN 或/CCONJ 焦点/NOUN 问题/NOUN ——/PUNCT 例如/ADV 他们/PRON 会/VERB 更加/ADV 留意/VERB 蒙娜丽莎/PROPN 本人/PRON ，/PUNCT 而/ADV 非/VERB 她/PRON 后面/NOUN 的/PART 岩石/NOUN 和/CCONJ 天空/NOUN 。/PUNCT
+
+“/PUNCT 与此相反/VERB ，/PUNCT 当/ADP 东亚人/PROPN 对/ADP 所/PART 看到/VERB 的/PART 画像/NOUN 做出/VERB 判断/NOUN 和/CCONJ 决定/NOUN 时/PART ，/PUNCT 他们/PRON 则/ADV 倾向于/VERB 看/VERB 整个/DET 画像/NOUN ，/PUNCT 并/CCONJ 借助于/VERB 背景/NOUN 信息/NOUN ，/PUNCT ”/PUNCT 尼斯伯特/PROPN 说/VERB 。/PUNCT
+
+新/VERB 的/PART 研究/NOUN 被/X 设计/VERB 采断/VERB 定/VERB 在/ADP 东亚人/PROPN 和/CCONJ 西方人/NOUN 之间/PART 存在/VERB 的/PART 思维/NOUN 过程/NOUN 上/PART 的/PART 差异/NOUN 是否/VERB 会/VERB 影响/VERB 到/VERB 他们/PRON 如何/ADV 从/ADP 自身/PRON 看待/VERB 事物/NOUN 。/PUNCT
+为了/ADP 能够/VERB 得出/VERB 结论/NOUN ，/PUNCT 当/ADP 45/NUM
+
+位/NUM 美国/PROPN 学生/NOUN 和/CCONJ 中国/PROPN 学生/NOUN 在/ADP 审视/VERB 复杂/VERB 背景/NOUN 下/PART 能够/VERB 反映/VERB 单个/NOUN 焦点/NOUN 物体/VERB 的/PART 时候/NOUN ，/PUNCT 研究/NOUN 人员/NOUN 对/ADP 他们/PRON 的/PART 眼波/NOUN 运动/NOUN 进行/VERB 了/PART 测量/NOUN 。/PUNCT
+例如/ADV ，/PUNCT 有/VERB 一/NUM 张/NUM 老虎/NOUN 在/ADP 森林/NOUN 中小溪/NOUN 旁/PART 的/PART 照片/NOUN 。/PUNCT
+另/DET 一/NUM 张/NUM 是/VERB 战斗机/NOUN 飞越/VERB 高山/NOUN 时/PART 的/PART 照片/NOUN 。/PUNCT
+
+“/PUNCT 当/ADP 受试者/NOUN 看/VERB 这些/DET 照片/NOUN 的/PART 时候/NOUN ，/PUNCT 美国/PROPN 学生/NOUN 和/CCONJ 中国/PROPN 学生/NOUN 通常/ADV 在/ADP 观看/VERB 的/PART 第一/NUM 秒/NUM 钟内/NOUN 就/ADV 表现/VERB 出/VERB 他们/PRON 之间/PART 的/PART 差异/NOUN ，/PUNCT ”/PUNCT 尼斯波特/PROPN 说/VERB 。/PUNCT
+“/PUNCT 美国人/NOUN 更/ADV 快/VERB 地/PART 把/X 视线/NOUN 移到/VERB 画面/NOUN 前景/NOUN 中/PART 的/PART 主要/ADJ 物体/NOUN 上/PART ，/PUNCT 其/PRON 视线/NOUN 停留/VERB 在/ADP 上面/NOUN 的/PART 时间/NOUN 也/ADV 更/ADV 长/VERB ，/PUNCT ”/PUNCT 他/PRON 说/VERB 。/PUNCT
+“/PUNCT 中国人/NOUN 则/ADV 有/VERB 更/ADV 多/NUM 的/PART 快速/ADJ 眼波/NOUN 运动/NOUN 。/PUNCT
+他们/PRON 会/VERB 更/ADV 经常/VERB 地/PART 移动/VERB 视线/NOUN ，/PUNCT 尤其是/ADV 在/ADP 物体/NOUN 和/CCONJ 背景/NOUN 的/PART 前后/NOUN 之间/PART 。/PUNCT ”/PUNCT
+
+结果/NOUN 表明/VERB ：/PUNCT 东亚人/PROPN 显然/ADV 要/VERB 比/ADP 美国人/NOUN 花费/VERB 更/ADV 多/NUM 时间/NOUN 将/X 物体/NOUN 放入/VERB 背景/NOUN 之中/PART 。/PUNCT
+这些/DET 差别/NOUN 并不/ADV 仅仅/ADV 表现/VERB 在/ADP 个体/NOUN 如何/ADV 回忆/VERB 和/CCONJ 报告/VERB 他们/PRON 的/PART 记忆/NOUN 内容/NOUN 上/PART ，/PUNCT 而且/ADV 还/ADV 表现/VERB 在/ADP 他们/PRON 如何/ADV 在/ADP 第一/NUM 地点/NOUN 观察/VERB 一个/NUM 图画/NOUN 的/PART 时候/NOUN 。/PUNCT
+
+尼斯伯特/PROPN 说/VERB ，/PUNCT 从/ADP 这个/DET 角度/NOUN 看/VERB ，/PUNCT 任何/DET 对/ADP 文化/NOUN 差异/NOUN 的/PART 解释/NOUN 都/ADV 是/VERB 一/NUM 种/NUM 推测/NOUN 。/PUNCT
+然而/ADV ，/PUNCT 他/PRON 和/CCONJ 同事/NOUN 暗示/VERB 说/VERB ，/PUNCT 差异/NOUN 或许/ADV 扎根于/PROPN 数千/NUM 年/NUM 来/PART 的/PART 社会/NOUN 实践/NOUN 活动/NOUN 之中/PART 。/PUNCT
+
+“/PUNCT 西方人/PROPN 被/X 教育/VERB 要/VERB 注意/VERB 对/ADP 他们/PRON 来说/PART 重要/VERB 的/PART 物体/NOUN ，/PUNCT 要/VERB 有/VERB 能够/VERB 遵循/VERB 的/PART 目标/NOUN ，/PUNCT ”/PUNCT 他/PRON 说/VERB 。/PUNCT
+“/PUNCT 东亚人/PROPN 更/ADV 可能/VERB 对/ADP 社会/NOUN 领域/NOUN 给予/VERB 关注/NOUN 。/PUNCT ”/PUNCT

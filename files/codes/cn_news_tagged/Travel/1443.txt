@@ -1,0 +1,10 @@
+城市/NOUN 博物馆/NOUN Städtisches/PROPN Museum/X
+
+这/DET 座/NUM 城市/NOUN 博物馆/NOUN 的/PART 独到之处/NOUN 在于/VERB 它/PRON 收藏/VERB 着/PART 很多/NUM 动力学/NOUN 的/PART 艺术品/NOUN 。/PUNCT
+这里/PRON 陈列/VERB 了/PART 德国/PROPN 和/CCONJ 世界/NOUN 上/PART 著名/ADJ 艺术家/NOUN 的/PART 约/ADV 60/NUM 件/NUM 作品/NOUN ，/PUNCT 用光/NOUN 和/CCONJ 色彩/NOUN 的/PART 演示/NOUN 吸引/VERB 了/PART 参观者/NOUN 的/PART 目光/NOUN 。/PUNCT
+这里/PRON 还/ADV 常年/ADV 举办/VERB 有关/ADP 印象派/NOUN 、/PUNCT 表现主义/VERB 的/PART 艺术/NOUN 展览/NOUN ，/PUNCT 也/ADV 有/VERB 当代/ADJ 艺术/NOUN 作品/NOUN 。/PUNCT
+很/ADV 值得/VERB 参观/VERB 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+霍尔斯特宫/NOUN     /SPACE 诺德斯坦/PROPN 公园/NOUN

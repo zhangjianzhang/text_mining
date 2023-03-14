@@ -1,0 +1,4 @@
+北京市/PROPN 2006/NUM 年度/NOUN 会计/NOUN 专业/NOUN 技术/NOUN 资格/NOUN 考试/NOUN 准考证/NOUN ，/PUNCT 将/ADV 于/ADP 2006年/NOUN 5月/NOUN 10日/NOUN 上午/NOUN 09/NOUN :/PUNCT 30/NUM ，/PUNCT 在/ADP 北京/PROPN 人事/NOUN 考试网/NOUN （/PUNCT http:/X ///PUNCT www.bjpta/NOUN ./PUNCT
+gov.cn/wsbm/wsbm/ADV _/PUNCT przkz.asp/NOUN ）/PUNCT 开始/VERB 打印/VERB 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 财考网/NOUN ）/PUNCT

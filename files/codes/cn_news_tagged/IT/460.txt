@@ -1,0 +1,15 @@
+牐犘/NOUN 疟/ADV ㄑ叮/VERB 记者/NOUN 廖奇/PROPN ）/PUNCT
+昨天/NOUN ，/PUNCT 记者/NOUN 了解/VERB 到/VERB ，/PUNCT 在/ADP 不到/ADV 一/NUM 年/NUM 的/PART 时间/NOUN 里/PART ，/PUNCT 英国/PROPN 手机/NOUN 铃声/NOUN 及/CCONJ 游戏/NOUN 制造商/NOUN ＭｏｎｓｔｅｒＭｏｂ/PROPN 投入/VERB ２０亿/NUM 元/NUM 人民币/NOUN ，/PUNCT 在/ADP 华/PROPN 上演/VERB 了/PART 并购/VERB “/PUNCT 帽子/NOUN 戏法/NOUN ”/PUNCT 。/PUNCT
+
+牳据/VERB ＷＴＯ/NOUN 《/PUNCT 服务/NOUN 贸易/NOUN 总协定/NOUN 》/PUNCT ，/PUNCT 外资/NOUN 可/VERB 采取/VERB 合资/ADJ 的/PART 方式/NOUN 进入/VERB 中国/PROPN 电信/NOUN 市场/NOUN ，/PUNCT 并/ADV 提供/VERB 相关/ADJ 的/PART 电信/NOUN 服务/NOUN 。/PUNCT
+ＭｏｎｓｔｅｒＭｏｂ/PROPN 公司/NOUN 在/ADP 不到/ADV 一/NUM 年/NUM 的/PART 时间/NOUN 里/PART ，/PUNCT 投入/VERB ２０亿/NUM 元/NUM 人民币/NOUN 完成/VERB 了/PART 三宗屡/NUM 屡刷/NUM 新/ADJ 中国/PROPN 最/ADV 大/VERB 的/PART ＳＰ/NOUN 并购案/NOUN 纪录/NOUN 的/PART 交易/NOUN 。/PUNCT
+昨天/NOUN 记者/NOUN 获悉/VERB ，/PUNCT 该/DET 公司/NOUN 已/ADV 宣布/VERB ，/PUNCT 通过/ADP 发行/VERB 新/ADJ 股/NOUN 的/PART 方式/NOUN ，/PUNCT 以/ADP ８１５０万/NUM 美元/NUM （/PUNCT ４６５０万/NOUN ）/PUNCT 的/PART 价格/NOUN 收购/VERB 北京/PROPN 万讯通/PROPN 科技/NOUN 发展/NOUN 有限/ADJ 公司/NOUN 。/PUNCT
+
+犠懿/NUM 可/VERB 柙谟/VERB ⒐兰/NOUN 开斯特郡/VERB 的/PART ＭｏｎｓｔｅｒＭｏｂ，/NUM 是/VERB 全球/NOUN 最/ADV 大/VERB 的/PART 手机/NOUN 游戏/NOUN 及/CCONJ 铃声/NOUN 制造商/NOUN 、/PUNCT 欧洲/PROPN 最/ADV 大/VERB 的/PART ＳＰ/NOUN 。/PUNCT
+现在/NOUN 该/DET 公司/NOUN 在/ADP ２５/NUM 个/NUM 国家/NOUN 和/CCONJ 地区/NOUN 有/VERB 运营/NOUN 业务/NOUN ，/PUNCT 每月/ADV 订户/NOUN 达/VERB １３００万/NUM 。/PUNCT
+自/ADP 去年/NOUN ８月/NOUN 起/PART ，/PUNCT 该/DET 公司/NOUN 将/X 触角/NOUN 伸/VERB 向/ADP 了/PART 中国/PROPN ，/PUNCT 先后/ADV 收购/VERB 了/PART 三/NUM 家/NUM ＳＰ/NOUN ，/PUNCT 总/ADJ 金额/NOUN 达/VERB ２．６亿/NUM 美元/NUM （/PUNCT 约/ADV 合/VERB 人民币/NOUN ２０亿/NUM 元/NUM ）/PUNCT 。/PUNCT
+他们/PRON 首先/ADV 是/VERB 以/ADP １亿/NUM 美元/NUM 收购/VERB 联东/NOUN 伟业/NOUN （/PUNCT Ａｔｏｐ/NOUN Ｃｅｎｔｕｒｙ/PROPN ）/PUNCT １００％/NUM 股权/NOUN ，/PUNCT 紧接着/ADV 又/ADV 甩出/VERB ８０００万/NUM 美元/NUM 收购/VERB 手机/NOUN 游戏/NOUN 公司/NOUN 杭州/PROPN 联梦/NOUN （/PUNCT Ｍ/NOUN Ｄｒｅａｍ/PROPN ）/PUNCT ，/PUNCT 直到/ADP 最近/NOUN 以/ADP ８１５０万/NUM 美元/NUM 收购/VERB 在/ADP 中国/PROPN ２７/NUM 个/NUM 省市/NOUN 有/VERB 业务/NOUN 的/PART 万讯通/PROPN 公司/NOUN （/PUNCT Ｗ－Ｉｎｆｉｎｉｔｙ/PROPN Ｃｏｍｍｕｎｉｃａｔｉｏｎｓ/PROPN ）/PUNCT 。/PUNCT
+据/ADP 了解/NOUN ，/PUNCT 这/DET 三/NUM 家/NUM ＳＰ/VERB 在/ADP 国内/NOUN 排名/NOUN 前列/NOUN ，/PUNCT 月/NOUN 销售额/NOUN 均/ADV 不少/NUM 于/ADP １０００万/NUM 元/NUM 人民币/NOUN 。/PUNCT
+ＭｏｎｓｔｅｒＭｏｂ/ADV 凭借/ADP 这些/DET 收购/NOUN 不仅/ADV 迅速/ADV 完成/VERB 了/PART 自己/PRON 在/ADP 全球/NOUN 最/ADV 大/ADJ 电信/NOUN 市场/NOUN 的/PART 布局/NOUN ，/PUNCT 更/ADV 计划/VERB 把/X 上述/ADJ 公司/NOUN 整合/VERB 上市/VERB 。/PUNCT
+
+犑率/ADJ 瞪希/NOUN 觊觎/VERB 中国/PROPN 电信/NOUN 市场/NOUN 不仅/ADV ＭｏｎｓｔｅｒＭｏｂ/VERB 一家/NOUN ，/PUNCT 以/ADP 一/NUM 首/NUM 《/PUNCT 疯狂/ADJ 青蛙/NOUN （/PUNCT Ｃｒａｚｙ/PROPN Ｆｒｏｇ/NOUN ）/PUNCT 》/PUNCT 手机/NOUN 铃声/NOUN 风靡/VERB 欧洲/PROPN 的/PART 德国/PROPN ＪＡＭＳＴＥＲ/PROPN 公司/NOUN ，/PUNCT 最近/NOUN 就/ADV 试图/VERB 以/ADP 分期/NOUN 的/PART 方式/NOUN 收购/VERB 北京/PROPN 联丰/ADJ 通信/VERB ，/PUNCT 据传/ADV 这/DET 一/NUM 收购/NOUN 将/ADV 在/ADP 年内/NOUN 完成/VERB ，/PUNCT 收购/NOUN 金额/NOUN 也/ADV 在/VERB 千万/NUM 美元/NUM 以上/PART 。/PUNCT

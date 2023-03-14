@@ -1,0 +1,11 @@
+【/PUNCT 赛迪/NOUN 网讯/PROPN 】/PUNCT
+4月/NOUN 28日/NOUN 消息/NOUN 雅虎/PROPN 周四/NOUN 宣布/VERB ，/PUNCT 其/PRON 在线/ADJ 服务/NOUN 已/ADV 新增/VERB 了/PART Alta/NOUN Vista/PROPN 公司/NOUN 名/NOUN 为/VERB Babble/PROPN Fish/NOUN 的/PART 翻译/NOUN 服务/NOUN 。/PUNCT
+
+据/ADP 法新社/PROPN 报道/VERB ，/PUNCT 雅虎Babelfish/PROPN 服务/VERB 一/NUM 次/NUM 可以/VERB 翻译/VERB 多达/VERB 150/NUM 个/NUM 单词/NOUN ，/PUNCT 覆盖/VERB 38/NUM 个/NUM 语种/NOUN 。/PUNCT
+据/ADP 雅虎/PROPN 称/VERB ，/PUNCT 网页/NOUN 也/ADV 可以/VERB 根据/ADP 需要/VERB 被/X 翻译/VERB 成/VERB 其它/DET 语言/NOUN 。/PUNCT
+
+Babel/PROPN
+
+Fish/PROPN 翻译/NOUN 服务/NOUN 此前/ADV 就/ADV 已/ADV 存在/VERB ，/PUNCT 它/PRON 最初/ADV 由/ADP 位于/VERB 美国/PROPN 加州/PROPN 的/PART 技术/NOUN 公司/NOUN Alta/NOUN Vista/ADV 创建/VERB ，/PUNCT 不过/ADV 今天/NOUN 的/PART 版本/NOUN 新/ADV 增加/VERB 了/PART 包括/VERB 简体/VERB 中文/NOUN 和/CCONJ 繁体/NOUN 中文/NOUN 在内/PART 的/PART 另外/DET 五/NUM 种/NUM 语言/NOUN 。/PUNCT
+
+有/VERB 兴趣/NOUN 的/PART 用户/NOUN 可以/VERB 到/VERB 网站/NOUN http:/NOUN ///PUNCT babelfish.yahoo.com/ADV 尝试/VERB 一下/ADV 这项/DET 新/ADJ 服务/NOUN 。/PUNCT

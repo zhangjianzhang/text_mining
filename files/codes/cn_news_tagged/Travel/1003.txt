@@ -1,0 +1,4 @@
+继/ADP 本月/ADV ２６日/NOUN 汽油/NOUN 价格/NOUN 每/DET 吨/NUM 上调/NOUN ３００/NUM 元/NUM 后/PART 国家/NOUN 发改委/NOUN 日前/NOUN 又/ADV 发布/VERB 公告/NOUN 指出/VERB ，/PUNCT 根据/ADP 近期/NOUN 国内/NOUN 航空/NOUN 煤油/NOUN 价格/NOUN 变动/VERB 情况/NOUN ，/PUNCT 经/ADP 国务院/NOUN 批准/VERB 国家/NOUN 发展/NOUN 改革委/NOUN 、/PUNCT 民航/NOUN 总局/NOUN 适当/ADV 调整/VERB 现行/ADJ 国内/NOUN 航线/NOUN 旅客/NOUN 运输/NOUN 燃油/NOUN 附加费/NOUN 收取/VERB 标准/NOUN ８００/NUM 公里/NUM 以下/PART 航线/NOUN 由/ADP 每/DET 位/NUM 旅客/NOUN ２０/NUM 元/NUM 调整/VERB 为/VERB ３０/NUM 元/NUM ８００/NUM 公里/NUM 以上/PART 航线/NOUN 由/ADP 每/DET 位/NUM 旅客/NOUN ４０/NUM 元/NUM 调整/VERB 为/VERB ６０/NUM 元/NUM 。/PUNCT
+执行/NOUN 时间/NOUN 暂定/VERB 为/VERB ２００６年/NOUN ４月/NOUN １０日/NOUN 至/CCONJ １０月/NOUN １０日/NOUN 。/PUNCT
+
+同时/ADV 为/ADP 缓解/VERB 铁路/NOUN 货运/NOUN 价格/NOUN 偏/ADV 低/VERB 的/PART 矛盾/NOUN 自/ADP ４月/NOUN １０日/NOUN 起/PART 国家/NOUN 铁路/NOUN 货物/NOUN 统一/NOUN 运价/NOUN 由/ADP 现行/ADJ 平均/ADV 每/DET 吨公里/NOUN ８．６１分/NUM 调整/VERB 至/ADP ９．０５分/NOUN 平均/ADV 每/DET 吨公里/NOUN 提高/VERB 了/PART ０．４４分/NUM 。/PUNCT

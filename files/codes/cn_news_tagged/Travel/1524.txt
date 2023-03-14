@@ -1,0 +1,34 @@
+住宿/NOUN 介绍/VERB          /SPACE 法兰克福/PROPN 的/PART 旅馆/NOUN 层次/NOUN 分明/VERB ，/PUNCT 旅行者/NOUN 大都/ADV 能/VERB 在/ADP 这里/PRON 找到/VERB 合适/ADJ 自己/PRON 的/PART 旅馆/NOUN 。/PUNCT
+格调/ADJ 高雅/VERB 的/PART 迎宾馆/NOUN 费用/NOUN 较/ADV 高/VERB ；/PUNCT 博览会/NOUN 会场/NOUN 附近/PART 有/VERB 适合/ADJ 商务/NOUN 和/CCONJ 团体/NOUN 旅客/NOUN 的/PART 马丽特/PROPN 饭店/NOUN ；/PUNCT 在/ADP 火车/NOUN 总站/NOUN 对面/NOUN 有/VERB 钻石/NOUN 王冠/PROPN 旅店/NOUN ，/PUNCT 博览会/NOUN 期间/NOUN 价格/NOUN 上调/NOUN ；/PUNCT 不/ADV 懂/VERB 英语/NOUN 和/CCONJ 德语/NOUN 的/PART 游客/NOUN 能/VERB 在/ADP 可里/ADJ 司多/NOUN 饭店/NOUN 入住/VERB ；/PUNCT 需要/VERB 感受/VERB 一下/ADV 留学生/NOUN 心情/NOUN 的话/PART ，/PUNCT 则/ADV 可以/VERB 去/VERB Persion/NOUN Backer/NOUN 看一看/NOUN 。/PUNCT
+    /SPACE 旅馆/NOUN 住宿/NOUN     /SPACE 青年/NOUN 旅舍/NOUN 和/CCONJ 面向/VERB 青年人/NOUN 的/PART 旅舍/NOUN
+
+法兰克福/PROPN 青年/NOUN 旅社/NOUN JH/VERB Frankfurt/PROPN -/PUNCT 青年/NOUN 之/PART 家/NOUN Haus/NOUN der/NOUN Jugend/PROPN
+
+离/ADP 体育馆/NOUN 大概/ADV 6/NUM 公里/NUM >>/NUM >法/PUNCT
+兰克福/PROPN 交通/NOUN 指南/NOUN
+
+地址/NOUN ：/PUNCT Deutschherrnufer街/PROPN
+12号/NOUN
+
+60594/NUM Frankfurt/PROPN //PUNCT
+Main/PROPN
+
+Tel/NOUN :/PUNCT 069/NUM //PUNCT 6100150/NUM
+
+Fax/VERB :/PUNCT 069/NUM //PUNCT 61001599/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT jugendherberge/PROPN -/PUNCT frankfurt/PROPN @t/PUNCT -/PUNCT
+online.de/NOUN
+
+联系人/NOUN :/PUNCT Rudolf/PROPN Kraus/PROPN 先生/NOUN [详/PROPN 细]/NOUN
+
+中高级/ADJ 饭店/NOUN
+
+Hotel/PROPN Steigenberger/PROPN Frankfurter/PROPN Hof/NOUN
+
+离/VERB 体育场/NOUN 7/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 14/NUM 公里/NUM ，/PUNCT 是/VERB 五星级/ADJ 饭店/NOUN
+
+地址/NOUN ：/PUNCT 在/ADP Kaiserplat/PROPN z/PROPN 广场/NOUN
+
+费用/NOUN ：/PUNCT 143－362/NOUN 欧元/PROPN [详/PROPN 细]/NOUN

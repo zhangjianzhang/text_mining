@@ -1,0 +1,29 @@
+Sandy/NOUN Bin/ADV 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE OBJECTIVE/PROPN 　　/SPACE A/NOUN career/NOUN in/ADV Personnel/NOUN Management/PROPN //PUNCT Administration/NOUN ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN EX/PROPN PER/NOUN I/NOUN ENCE/NOUN 　　/SPACE TENNESSEE/PROPN PAROLE/PROPN BOA/PROPN R/X D/X ,/PUNCT Memphis/PROPN ,/PUNCT T/NOUN N/NOUN 　　/SPACE 1991/NOUN -/PUNCT Present/PROPN Director/PROPN of/ADP Human/PROPN Resources/NOUN and/CCONJ Staff/PROPN Development/PROPN 　　/SPACE Develop/PROPN and/CCONJ implement/NOUN policy/NOUN ./PUNCT
+Provide/PROPN leadership/PROPN in/ADP the/DET areas/VERB of/ADP personnel,payroll,labor/ADJ relations/NOUN ,/PUNCT training/VERB ,/PUNCT and/CCONJ affirmative/ADJ action/NOUN ./PUNCT
+Administer/PROPN personnel/payroll/NOUN system/VERB to/ADP meet/ADJ management/NOUN and/CCONJ employee/ADV needs/VERB ./PUNCT
+Consult/NOUN with/ADJ chairmen/NOUN ,/PUNCT Executive/NOUN Director/NOUN ,/PUNCT managerial/NOUN staff,and/NOUN supervisors/NOUN to/ADP ensure/NOUN policy/NOUN compliance/VERB with/ADV applicable/ADV statutes/VERB ,/PUNCT rules/VERB ,/PUNCT and/CCONJ regulations/NOUN ./PUNCT
+Advance/PROPN agency/NOUN Affirmative/PROPN action/PROPN plan/NOUN ./PUNCT
+Determine/PROPN appropriate/PROPN grievance/PROPN procedures/NOUN relief;resolve/NOUN labor/NOUN disputes/VERB ./PUNCT
+Act/NOUN as/ADP liaison/PROPN for/ADP regulatory/NOUN agencies/NOUN :/PUNCT EOHS/PROPN ,/PUNCT OER/PROPN ,/PUNCT DPA/NOUN ,/PUNCT State/PROPN Office/NOUN of/ADP A/NOUN ./PUNCT
+A/NOUN .,/PUNCT and/CCONJ PE/NOUN R/X A/NOUN ./PUNCT
+Maintain/PROPN staff/NOUN training/VERB program/NOUN ./PUNCT
+Interface/VERB with/ADP Legal/PROPN staff/NOUN in/ADV dealing/VERB with/PROPN progressive/NOUN discipline/PROPN and/CCONJ grievances/NOUN ./PUNCT
+　　/SPACE WILMON/NOUN T/NOUN I/PRON NSURANC/NOUN E/NOUN CO/NOUN ./PUNCT
+,/PUNCT Nashville/NOUN ,/PUNCT T/NOUN N/NOUN 　　/SPACE 1987/NOUN -/PUNCT 1991/NOUN Director/PROPN of/ADP Human/PROPN Resources/NOUN 　　/SPACE Maintained/PROPN smooth/NOUN work/NOUN -/PUNCT flow;supervised/PROPN claim/PROPN adjudication/NOUN ;/ADJ performed/NOUN claim/PROPN payment/NOUN internal/PROPN audits/PROPN ;/ADV coordinated/NOUN activity/VERB with/ADP reinsurance/NOUN carriers/VERB ./PUNCT
+Hired/terminated/INTJ ,/PUNCT trained/NOUN ,/PUNCT oversaw/VERB ,/PUNCT and/CCONJ delegated/NOUN personnel/NOUN ./PUNCT
+Determined/PROPN technical/NOUN decisions/NOUN and/CCONJ payments/NOUN ./PUNCT
+Responsible/PROPN for/VERB computer/NOUN maintenance/NOUN (/PUNCT IBM/PROPN Series/PROPN I)/NOUN and/CCONJ updating/NOUN personnel/NOUN files/VERB to/ADP ensure/NOUN compliance/VERB with/PROPN state/local/NOUN regulations/NOUN pertaining/VERB to/ADP holidays,vacations,etc/PROPN ./PUNCT
+　　/SPACE 1984/NOUN -/PUNCT 1987/NUM Central/PROPN Personnel/PROPN Officer/PROPN 　　/SPACE Coordinated/PROPN statewide/NOUN reclassification/NOUN study/VERB ;organized/ADV questionnaires/VERB ,/PUNCT individual/NOUN interviews/NOUN and/CCONJ desk/NOUN audits/VERB ./PUNCT
+Evaluated/PROPN //PUNCT analyzed/PROPN study/NOUN data/NOUN ;rewrote/ADJ job/NOUN descriptions;prepared/NUM study/NOUN package/NOUN for/ADP legislative/NOUN approval.Established/NOUN related/NOUN managerial/PROPN files/VERB ./PUNCT
+Dealt/PROPN with/ADP diverse/NOUN personnel-related/NOUN projects/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE Milligan/VERB College/PROPN ,/PUNCT T/NOUN N/NOUN 　　/SPACE Course/PROPN work/NOUN in/ADP Personnel/NOUN Management/NOUN and/CCONJ Human/ADJ Resources/NOUN ,/PUNCT 1990/NOUN -/PUNCT Present/PROPN 　　/SPACE Tennessee/PROPN Weslevan/NOUN College/NOUN ,/PUNCT Nashville/NOUN ,/PUNCT T/NOUN N/NOUN 　　/SPACE B/NOUN ./PUNCT
+A/NOUN ./PUNCT
+Degree/NOUN ,/PUNCT Management/PROPN ,/PUNCT 1980/NUM 　　/SPACE Action/NOUN verbs/VERB give/PROPN job/NOUN descriptions/NUM punch/NOUN ./PUNCT
+　　/SPACE Continuing/PROPN education/NOUN indicates/NOUN candidate/NOUN 's/VERB ongoing/PROPN commitment/VERB to/ADP his/PROPN //PUNCT her/PROPN career/VERB ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT personnel/NOUN +/PUNCT Personnel/PROPN +/PUNCT Resources/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+33/NUM ,/PUNCT 708/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

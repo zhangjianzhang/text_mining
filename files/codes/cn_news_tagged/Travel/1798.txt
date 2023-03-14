@@ -1,0 +1,67 @@
+这是/VERB 第三/NUM 届/NUM 每年/ADV 一度/VERB 的/PART 自行车/NOUN 大赛/NOUN 。/PUNCT
+原本/ADV 大赛/NOUN 规定/VERB ，/PUNCT 参赛/VERB 的/PART 运动员/NOUN 都/ADV 必须/VERB 赤身裸体/VERB 。/PUNCT
+但是/ADV 为了/ADP 让/VERB 公众/NOUN 可以/VERB 接受/VERB ，/PUNCT 本次/ADV 大赛/VERB 允许/VERB 参赛者/NOUN 将/X 身上/NOUN 涂上/VERB 各种/ADJ 颜色/NOUN ——/PUNCT 给/ADP 自己/PRON 穿上/VERB 各色/ADJ “/PUNCT 运动服/NOUN ”/PUNCT 。/PUNCT
+
+比赛/NOUN 开始/VERB 时/PART ，/PUNCT 警察/NOUN 向/ADP 参赛者/NOUN 提出/VERB 警告/NOUN ，/PUNCT 不要/ADV 惹事生非/VERB 。/PUNCT
+尽管/SCONJ 参赛/VERB 运动员/NOUN 裸体/NOUN 不/ADV 在/ADP 警察/NOUN 管辖/VERB 范围/NOUN 之内/PART ，/PUNCT 但是/ADV 参赛/VERB 运动员/NOUN 必须/VERB 戴头盔/NOUN ，/PUNCT 防止/VERB 发生/VERB 意外/ADJ 情况/NOUN 。/PUNCT
+即便/SCONJ 那些/DET 步行/VERB 参赛/VERB 的/PART 运动员/NOUN ，/PUNCT 也/ADV 戴上/VERB 了/PART 草帽/NOUN ，/PUNCT 下半身/NOUN 用/ADP 树枝/PROPN 掩盖/VERB 。/PUNCT
+
+参加/VERB 比赛/NOUN 的/PART 运动员/NOUN 并非/VERB 等闲之辈/VERB ，/PUNCT 他们/PRON 中/PART 有/VERB 音乐家/NOUN 、/PUNCT 画家/NOUN 、/PUNCT 旅行家/NOUN 等/PART 。/PUNCT
+音乐家/NOUN 凯特林/PROPN 和/CCONJ 妻子/NOUN 罗斯/PROPN 与/CCONJ 两/NUM 个/NUM 孩子/NOUN 一道/ADV 参加/VERB 了/PART 本次/ADV 裸体/NOUN 自行车/NOUN 比赛/NOUN 。/PUNCT
+
+这次/ADV 自行车/NOUN 大赛/NOUN 的/PART 主要/ADJ 目标/NOUN 是/VERB 唤醒/VERB 人们/NOUN 保护/VERB 环境/NOUN ，/PUNCT 回归/VERB 自然/VERB 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+裸体/ADJ 彩绘/NOUN 自行车赛/VERB
+
+大千世界/NOUN 无奇不有/VERB ，/PUNCT 在/ADP 美国/PROPN 举行/VERB 的/PART 裸体/NOUN 彩绘/NOUN 自行车赛/VERB 上/PART ，/PUNCT 车手/NOUN 不/ADV 分/VERB 男女/NOUN 全裸/ADV 上阵/VERB ，/PUNCT 不过/ADV 要求/NOUN 都/ADV 是/VERB 在/ADP 身体/NOUN 上/PART 用/ADP 染料/NOUN 绘上/VERB 美丽/VERB 的/PART 图案/NOUN 。/PUNCT
+
+据/ADP 美国/PROPN 媒体/NOUN 3月/NOUN 14日/NOUN 报道/VERB ，/PUNCT 来自/VERB 美国/PROPN 各地/NOUN 的/PART 大约/ADV 100/NUM 名/NUM 各个/DET 年龄段/NOUN 的/PART 自行车/NOUN 运动员/NOUN 参加/VERB 了/PART 在/ADP 金湾/PROPN 举行/VERB 的/PART 自行车/NOUN 大赛/NOUN ，/PUNCT 主要/ADJ 目标/NOUN 是/VERB 唤醒/VERB 人们/NOUN 保护/VERB 环境/NOUN ，/PUNCT 回归/VERB 自然/NOUN 。/PUNCT
+2/NUM

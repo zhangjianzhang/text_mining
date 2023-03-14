@@ -1,0 +1,121 @@
+2005/NOUN -/PUNCT 2006/NOUN 赛/NOUN 季意/NOUN 甲联赛/NOUN 第37/NUM 轮/NUM
+
+时间/NOUN
+
+主队/VERB 射手/NOUN
+
+主队/NOUN
+
+比分/NOUN
+
+客队/NOUN
+
+客队/VERB 射手/NOUN
+
+全场/ADV
+
+25/NUM ’/PUNCT 费奥/PROPN 雷/NOUN 27/NUM ’/PUNCT 64/NUM ’/PUNCT 托尼/PROPN 34/NUM ’/PUNCT 约根森/PROPN 65/NUM ’/PUNCT 博季诺夫/VERB
+
+佛罗伦萨/PROPN
+
+5/NUM -2/PUNCT
+
+雷吉纳/PROPN
+
+81/NUM ’/PUNCT 84/NUM ’/PUNCT 阿莫鲁索/NOUN
+
+全场/ADV
+
+60/NUM ’/PUNCT 克鲁兹/PROPN
+
+国际/NOUN 米兰/NOUN
+
+1-1/NUM
+
+锡/VERB 耶纳/PROPN
+
+90/NOUN ’/PUNCT 加斯塔蒂罗/PROPN
+
+全场/ADV
+
+31/NUM ’/PUNCT 内德维德/PROPN 51/NUM ’/PUNCT 伊布/PROPN
+
+尤文图斯/PROPN
+
+2-1/NUM
+
+巴勒莫/PROPN
+
+62/NUM ’/PUNCT 戈蒂斯/PROPN
+
+全场/ADV
+
+莱切/PROPN
+
+0-0/PROPN
+
+切沃/VERB
+
+全场/ADV
+
+89/NUM ’/PUNCT 诺塞利诺/PROPN
+
+梅西纳/PROPN
+
+1-2/NUM
+
+恩波利/PROPN
+
+3/NUM ’/PUNCT 70/NUM ’/PUNCT 波齐/PROPN
+
+全场/ADV
+
+54/NUM ’/PUNCT 88/NUM ’/PUNCT 科拉迪/PROPN
+
+帕尔玛/PROPN
+
+2-3/NUM
+
+AC米兰/PUNCT
+
+29/NUM ’/PUNCT 加图/VERB 索/VERB 43/NUM ’/PUNCT 卡福/VERB 56/NUM ’/PUNCT 西多/NOUN 夫/NOUN
+
+全场/ADV
+
+36/NUM ’/PUNCT 托马西/PROPN
+
+罗马/PROPN
+
+1-0/NOUN
+
+特雷维索/PROPN
+
+全场/ADV
+
+15/NUM ’/PUNCT 亚昆塔/PROPN 68/NUM ’/PUNCT 巴雷托/PROPN
+
+乌迪内斯/PROPN
+
+2-0/NOUN
+
+卡利亚里/PROPN
+
+全场/ADV
+
+30/NUM ’/PUNCT 费兰特/PROPN
+
+阿斯科利/PROPN
+
+1/NUM -/PUNCT 4/NUM
+
+拉齐奥/PROPN
+
+6/NUM ’/PUNCT 斯滕达尔/PROPN 多/ADV 11/NUM ’/PUNCT 奥多/PROPN 20/NUM ’/PUNCT 潘德夫/PROPN 54/NUM ’/PUNCT 罗基/PROPN
+
+全场/ADV
+
+利沃诺/PROPN
+
+0-0/PROPN
+
+桑普多利亚/PROPN

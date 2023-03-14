@@ -1,0 +1,655 @@
+【/PUNCT 来源/NOUN ：/PUNCT 北京/PROPN 太奇/NOUN 培训/VERB 学校/NOUN 】/PUNCT
+
+2007/NOUN 北京/PROPN 太奇/NOUN 培训/VERB 学校/NOUN 考研/VERB 英语/NOUN 强化/NOUN 班/NOUN 授课/PROPN 讲/VERB 义(/NOUN 四/NUM )/NOUN
+
+I./PROPN Use/NOUN of/ADP English/PROPN (Cloze/NOUN )/PROPN 内部/NOUN 资料/NOUN 翻印/NOUN 必究/NOUN
+
+Business/NOUN and/CCONJ government/PROPN leaders/NOUN also/PROPN consider/PROPN the/DET inflation/NOUN rate/NOUN to/ADP be/DET an/PROPN
+
+important/PROPN general/PROPN indicator/PROPN ./PUNCT
+Inflation/NOUN is/VERB a/NUM period/NOUN of/ADP increased/PROPN 1/NUM that/NOUN causes/VERB
+
+rapid/NOUN rises/NOUN in/NOUN prices/NOUN ./PUNCT
+When/PROPN your/PRON money/VERB buys/PROPN 2/NUM goods/PROPN so/ADV that/ADV you/PRON get/VERB less/NOUN for/ADP the/DET
+
+same/NOUN amount/VERB of/ADP money/VERB 3/NUM before/NOUN ,/PUNCT inflation/VERB is/VERB the/DET problem/VERB ./PUNCT
+There/PROPN is/VERB a/NUM general/PROPN rise/NOUN
+
+4/NUM the/NUM price/NOUN of/ADP goods/PROPN and/CCONJ services/NOUN ./PUNCT
+Your/PRON money/NOUN buys/NOUN less/NOUN ./PUNCT
+Sometimes/PROPN people/NOUN 5/NUM
+
+inflation/VERB as/NOUN a/NUM time/NOUN when/PROPN “/PUNCT a/NUM dollar/NOUN is/VERB not/PROPN worth/VERB a/NUM dollar/NOUN any/NOUN more/NOUN ./PUNCT ”/PUNCT
+
+Inflation/NOUN is/VERB a/NUM problem/VERB for/ADP all/DET consumers/PROPN ./PUNCT
+People/NOUN who/NOUN live/NOUN on/ADP a/NUM fixed/VERB income/NOUN
+
+are/VERB 6/NUM the/NUM most/NOUN ./PUNCT
+Retired/NOUN people/NOUN ,/PUNCT for/ADP instance/NOUN ,/PUNCT cannot/VERB 7/NUM on/CCONJ an/PROPN increase/NOUN in/ADP income/NOUN
+
+as/ADP prices/ADJ rise/NOUN ./PUNCT
+Elderly/PROPN people/NOUN who/NOUN don/PROPN ’t/VERB work/NOUN face/VERB serious/NOUN problems/NOUN in/NOUN
+
+stretching/VERB the/DET ir/NOUN incomes/ADV to/ADP 8/NUM the/NUM ir/NOUN need/VERB s/NOUN in/ADJ time/NOUN of/ADP inflation/VERB ./PUNCT
+9/NUM income/NOUN or/CCONJ any/PROPN
+
+fixed/PROPN income/NOUN usually/PROPN does/NOUN not/PROPN rise/NOUN as/ADP fast/NOUN as/ADV prices/NOUN ./PUNCT
+Many/NOUN retired/NOUN people/NOUN must/X
+
+cut/VERB the/DET ir/NOUN spending/NOUN to/ADP 10/NUM rising/NOUN prices/NOUN ./PUNCT
+In/NOUN many/ADV 11/NUM they/NOUN must/NOUN stop/NOUN buying/VERB some/NOUN
+
+necessary/PROPN ite/NOUN ms/ADV ,/PUNCT such/NOUN as/VERB food/NOUN and/CCONJ clothing/NOUN ./PUNCT
+
+Even/PROPN for/ADP working/NOUN people/NOUN whose/PROPN incomes/PROPN are/VERB going/VERB up/NOUN ,/PUNCT inflation/NOUN can/VERB be/ADP
+a/NUM
+
+problem/VERB 12/NUM the/DET cost/NOUN of/ADP living/NOUN rises/NOUN ,/PUNCT too/ADV ./PUNCT
+People/NOUN who/NOUN work/NOUN must/NOUN have/PROPN even/VERB more/VERB
+
+money/NUM to/ADP 13/NUM the/DET ir/NOUN standard/NOUN of/ADP living/VERB ./PUNCT
+Just/PROPN buying/VERB the/DET things/NOUN they/PROPN need/VERB 14/NUM more/VERB ./PUNCT
+
+When/PROPN incomes/PROPN do/VERB not/PROPN keep/VERB pace/VERB with/PROPN rising/NOUN prices/VERB ,/PUNCT the/DET standard/NOUN of/ADP living/NOUN goes/NOUN
+
+down/NOUN ./PUNCT
+People/NOUN may/PROPN be/ADV earning/VERB the/DET same/NOUN 15/NUM of/CCONJ money/NOUN ,/PUNCT but/ADV they/NOUN are/VERB not/PROPN living/VERB as/ADV
+
+well/PROPN because/NOUN they/PROPN are/VERB not/PROPN able/PROPN to/ADP buy/NOUN 16/NUM many/NOUN goods/NOUN and/CCONJ services/NOUN ./PUNCT
+
+Government/PROPN units/NOUN 17/NUM information/NOUN about/PROPN prices/NOUN in/ADP our/NOUN economy/VERB and/CCONJ publish/NOUN it/NOUN
+
+as/ADV price/NOUN indexes/PROPN from/ADP which/PROPN the/DET rate/NOUN of/ADP change/NOUN can/VERB be/ADV determined/VERB ./PUNCT
+A/NOUN price/NOUN index/VERB
+
+18/NUM changes/NOUN in/NOUN prices/NOUN using/VERB the/DET price/NOUN for/ADP a/DET given/NOUN year/VERB as/VERB the/DET base/NOUN ./PUNCT
+The/DET base/NOUN
+
+price/NOUN is/VERB set/NOUN 19/NUM 100/NUM ,/PUNCT and/CCONJ the/DET o/ADP ther/NOUN prices/NOUN are/VERB 20/NUM as/NUM a/NUM percentage/NOUN of/ADP the/DET base/NOUN
+
+price/NOUN ./PUNCT
+(/PUNCT 321/NUM word/NOUN s)/PUNCT
+
+1./NUM A/NUM ./PUNCT
+demanding/NOUN B/NOUN ./PUNCT
+spending/NOUN C/NOUN ./PUNCT
+consuming/VERB D/NOUN ./PUNCT
+borrowing/ADV
+
+2/NUM ./PUNCT A/NOUN ./PUNCT
+a/NUM few/NOUN B/NOUN ./PUNCT
+more/NOUN C/NOUN ./PUNCT
+fewer/VERB D/NOUN ./PUNCT
+a/VERB little/VERB
+
+3/NUM ./PUNCT A/NOUN ./PUNCT
+than/VERB B/NOUN ./PUNCT
+like/NOUN C/NOUN ./PUNCT
+since/NOUN D/NOUN ./PUNCT
+as/ADV
+
+4./NUM A/NUM ./PUNCT
+in/ADJ B/NOUN ./PUNCT
+for/VERB C/NOUN ./PUNCT
+at/VERB D/NOUN ./PUNCT
+to/ADP
+
+5./NUM A/NOUN ./PUNCT
+render/ADJ B/NOUN ./PUNCT
+depict/NOUN C/NOUN ./PUNCT
+describe/VERB D/NOUN ./PUNCT
+assume/PROPN
+
+6/NUM ./PUNCT A/NOUN ./PUNCT
+hurt/NOUN B/NOUN ./PUNCT
+undermined/NOUN C/NOUN ./PUNCT
+damaged/PROPN D/NOUN ./PUNCT
+spoiled/NOUN
+
+7./NUM A/X ./PUNCT
+depend/NOUN B/NOUN ./PUNCT
+rest/NOUN C/NOUN ./PUNCT
+rely/PROPN D/NOUN ./PUNCT
+count/VERB
+
+8/NUM ./PUNCT A/NOUN ./PUNCT
+acquire/VERB B/NOUN ./PUNCT
+obtain/NOUN C/NOUN ./PUNCT
+meet/VERB D/NOUN ./PUNCT
+suit/VERB
+
+9/NUM ./PUNCT A/NOUN ./PUNCT
+Government/PROPN B/NOUN ./PUNCT
+Development/PROPN C/NOUN ./PUNCT
+Retirement/NOUN D/NOUN ./PUNCT
+Employment/PROPN
+
+10/NUM ./PUNCT A/NOUN ./PUNCT
+put/NOUN up/ADV with/VERB B/NOUN ./PUNCT
+keep/VERB up/ADV with/ADP C/NOUN ./PUNCT
+fall/VERB in/NOUN with/VERB D/X ./PUNCT
+get/PRON on/VERB with/PROPN
+
+11/NUM ./PUNCT A/NOUN ./PUNCT
+oc/PROPN casions/NOUN B/NOUN ./PUNCT
+cases/NOUN C/NOUN ./PUNCT
+positions/VERB D/NOUN ./PUNCT
+situations/VERB
+
+12/NUM ./PUNCT A/NOUN ./PUNCT
+although/ADJ B/NOUN ./PUNCT
+if/NOUN C/NOUN ./PUNCT
+when/PROPN D/NOUN ./PUNCT
+because/NOUN
+
+13/NUM ./PUNCT A/NOUN ./PUNCT
+keep/VERB up/NUM B/NOUN ./PUNCT
+keep/VERB to/ADP C/NOUN ./NOUN
+reckon/NOUN on/VERB D/NOUN ./PUNCT
+reckon/ADV with/VERB
+
+14/NUM ./PUNCT A/NOUN ./PUNCT
+spends/NOUN B/NOUN ./PUNCT
+costs/NOUN C/NOUN ./PUNCT
+consumes/PROPN D/NOUN ./PUNCT
+wastes/PROPN
+
+15/NUM ./PUNCT
+A/NOUN ./PUNCT
+number/NOUN B/NOUN ./PUNCT
+portion/NOUN C/NOUN ./PUNCT
+amount/DET D/NOUN ./PUNCT
+sum/NOUN
+
+16/NUM ./PUNCT
+A/NOUN ./PUNCT
+so/ADV B/NOUN ./PUNCT
+too/ADV C/NOUN ./PUNCT
+that/NOUN D/NOUN ./PUNCT
+as/ADV
+
+17/NUM ./PUNCT A/NOUN ./PUNCT
+acce/NUM pt/NOUN B/NOUN ./PUNCT
+attain/PROPN C/NOUN ./PUNCT
+utilize/PROPN D/NOUN ./PUNCT
+gather/NOUN
+
+18/NUM ./PUNCT
+A/NOUN ./PUNCT
+measures/PRON B/NOUN ./PUNCT
+estimates/ADJ C/NOUN ./PUNCT
+assesses/NOUN D/NOUN ./PUNCT
+evaluates/VERB
+
+19/NUM ./PUNCT A/NOUN ./PUNCT
+against/VERB B/NOUN ./PUNCT
+at/ADP C/NOUN ./PUNCT
+by/ADP D/NOUN ./PUNCT
+on/VERB
+
+20/NUM ./PUNCT A/NOUN ./PUNCT
+reported/ADJ B/NOUN ./PUNCT
+designated/PROPN C/NOUN ./PUNCT
+decided/NOUN D/NOUN ./PUNCT
+publicized/VERB
+
+II/PROPN ./PUNCT
+选择/VERB 搭/VERB 配题/VERB
+
+Directions/NOUN ：/PUNCT
+
+The/DET following/NOUN paragraphs/NOUN are/VERB given/PRON in/ADP a/NUM wrong/NOUN order/NOUN ./PUNCT
+For/NOUN Questions/PROPN 41/NUM —/PUNCT 45/NUM ,/PUNCT
+
+you/PRON are/VERB required/VERB to/ADP reorganize/PROPN these/NOUN paragraphs/NOUN in/NOUN to/ADP a/DET coherent/NOUN article/NOUN by/CCONJ
+
+choosing/NOUN from/ADP the/DET list/NOUN A—E/NOUN to/ADP fill/PROPN in/NOUN each/VERB numbered/VERB box/NOUN ./PUNCT
+The/DET first/NOUN and/CCONJ the/DET last/NUM
+
+paragraphs/VERB have/PROPN been/NOUN placed/VERB for/ADP you/PRON in/VERB Boxes/PROPN ./PUNCT
+Mark/NOUN your/NOUN answers/ADV on/ADP ANS/PROPN WE/NOUN R/X SHEET/X
+
+1./NUM (/PUNCT 10/NUM point/NOUN s)/PUNCT
+
+[A/PUNCT ]/NOUN “/PUNCT I/PRON just/VERB don/PROPN ’t/VERB know/ADJ how/NOUN to/ADP motivate/NOUN the/DET m/NOUN to/ADP do/VERB a/NUM better/PROPN job/NOUN ./PUNCT
+We/NOUN ’/PUNCT re/NOUN in/ADP a/NUM
+
+budget/PROPN crunch/NOUN and/CCONJ I/PRON have/NOUN absolutely/PROPN no/NOUN financial/NOUN rewards/NOUN at/ADP my/VERB disposal/NOUN ./PUNCT
+In/ADV
+
+fact/NOUN ,/PUNCT we’ll/PROPN probably/PROPN have/PROPN to/ADP lay/NOUN some/NOUN people/NOUN of/ADP f/PROPN in/ADP the/DET near/NOUN future/NOUN ./PUNCT
+It/NOUN ’/PUNCT s/NOUN hard/VERB
+
+for/ADP me/PRON to/ADP make/DET the/DET job/NOUN interesting/NOUN and/CCONJ challenging/VERB because/NOUN it/NOUN isn/NOUN ’t/VERB —/PUNCT it/PROPN ’/PUNCT s/NOUN
+
+boring/PROPN ,/PUNCT routine/ADJ paperwork/NOUN ,/PUNCT and/CCONJ there/NOUN isn/NOUN ’t/VERB much/VERB you/PRON can/VERB do/VERB about/PROPN it/NOUN ./PUNCT
+
+[B/NUM ]/NUM “/PUNCT Finally/PROPN ,/PUNCT I/PRON can/VERB ’/PUNCT t/NOUN say/NOUN to/ADP the/DET m/PUNCT that/VERB the/DET ir/VERB promotions/NOUN will/NOUN hinge/PROPN on/ADP the/DET
+
+excellence/VERB of/ADP the/DET ir/NOUN paperwork/NOUN ./PUNCT
+First/PROPN of/ADP all/PRON ,/PUNCT they/PROPN know/NOUN it/NOUN ’/PUNCT s/NOUN not/PROPN true/VERB ./PUNCT
+If/NOUN the/DET ir/NOUN
+
+perfor/NOUN mance/NOUN is/VERB ade/NOUN quate/NOUN ,/PUNCT most/NOUN are/VERB more/NOUN likely/VERB to/ADP get/PROPN promoted/NOUN just/PROPN by/ADP staying/VERB on/ADP
+
+the/DET force/VERB a/NUM certain/NOUN number/NOUN of/ADP years/PROPN than/VERB for/VERB some/NOUN specific/VERB out/ADP standing/PROPN act/VERB ./PUNCT
+
+Second/PROPN ,/PUNCT they/PROPN were/PROPN trained/NOUN to/ADP do/VERB the/DET job/NOUN they/PROPN do/VERB out/PROPN in/ADP the/DET streets/NOUN ,/PUNCT not/PROPN to/VERB fill/VERB
+
+out/PROPN forms/PROPN ./PUNCT
+All/NOUN through/VERB the/DET ir/NOUN career/NOUN it/NOUN is/VERB the/DET arrests/NOUN and/CCONJ interventions/NOUN that/NOUN get/NOUN
+
+noticed/VERB ./PUNCT
+
+[C/NUM ]/NUM “/PUNCT I’ve/PUNCT got/PROPN a/NUM real/NOUN problem/VERB with/ADV my/VERB officers/PROPN ./PUNCT
+They/PROPN come/PROPN on/ADP the/DET force/VERB as/NOUN
+
+young/VERB ,/PUNCT inexperienced/NOUN men/NOUN ,/PUNCT and/CCONJ we/NOUN send/VERB the/DET m/NOUN out/NOUN on/ADP the/DET street/NOUN ,/PUNCT
+either/NOUN in/NOUN cars/VERB or/CCONJ
+
+on/ADP a/NUM beat/NOUN ./PUNCT
+They/PROPN seem/NOUN to/ADP like/PROPN the/DET contact/NOUN they/NOUN have/ADV with/ADV the/DET public/NOUN ,/PUNCT the/DET action/NOUN
+
+involved/PROPN in/ADP crime/NOUN p/NOUN revention/NOUN ,/PUNCT and/CCONJ the/DET apprehension/PROPN of/ADP criminals/PROPN ./PUNCT
+They/PROPN also/PROPN like/PROPN
+
+helping/NOUN people/NOUN out/ADP at/PROPN fires/NOUN ,/PUNCT accidents/VERB ,/PUNCT and/CCONJ o/ADP ther/NOUN emergencies/VERB ．/PUNCT
+
+[D/NUM ]/NUM “/PUNCT Some/NOUN people/NOUN have/PROPN suggested/NOUN a/PROPN number/NOUN of/ADP things/NOUN like/PROPN using/VERB conviction/NOUN
+
+records/NOUN as/ADV a/NUM perfor/NOUN mance/NOUN criterion/NOUN ./PUNCT
+However/PROPN ,/PUNCT we/NOUN know/NOUN that/VERB ’/PUNCT s/VERB not/PROPN fair/NOUN —/PUNCT too/ADV many/ADV
+
+o/ADP ther/NOUN things/NOUN are/VERB involved/NOUN ./PUNCT
+Bad/NUM paperwork/NOUN increases/VERB the/DET chance/NOUN that/ADV you/PRON lose/NOUN in/ADP
+
+court/PROPN ,/PUNCT but/PROPN good/PROPN paperwork/NOUN doesn/PROPN ’t/VERB necessarily/ADJ mean/NOUN you/PRON ’/PUNCT ll/NOUN win/NOUN ./PUNCT
+We/NOUN tried/NOUN setting/VERB
+
+up/ADJ team/NOUN competitions/NOUN based/PROPN on/ADP the/DET excellence/NOUN of/ADP the/DET reports/NOUN ,/PUNCT but/ADV the/DET guys/NOUN caught/NOUN
+
+on/VERB to/VERB that/NUM pretty/NOUN quickly/VERB ./PUNCT
+No/ADV one/ADV was/NOUN getting/VERB any/PROPN ty/NOUN pe/NOUN of/ADP reward/PROPN for/ADP winning/PROPN the/DET
+
+competition/VERB ,/PUNCT and/CCONJ they/NOUN figured/NOUN why/PROPN should/PROPN they/PROPN labor/NOUN when/VERB there/ADP was/NOUN no/NOUN
+
+pay/NOUN of/VERB f/PROPN ./PUNCT
+
+[E/PROPN ]/NOUN “/PUNCT The/DET problem/NOUN occurs/NOUN when/PROPN they/PROPN get/PROPN back/PROPN to/ADP the/DET station/NOUN ./PUNCT
+They/PROPN hate/VERB to/ADP do/VERB
+
+the/DET paperwork/NOUN ,/PUNCT and/CCONJ because/NOUN they/NOUN dislike/NUM it/VERB ,/PUNCT the/DET job/NOUN is/VERB frequently/ADJ put/NOUN of/ADP f/PROPN or/CCONJ
+
+done/NOUN inade/NOUN quately/VERB ./PUNCT
+This/DET lack/PROPN of/ADP attention/VERB hurts/PROPN us/VERB later/NOUN on/NOUN when/PROPN we/NOUN get/PRON to/ADP
+
+court/PROPN ./PUNCT
+We/NOUN need/VERB clear/VERB ,/PUNCT factual/NOUN reports/VERB ./PUNCT
+They/PROPN must/NOUN be/PROPN highly/PROPN detailed/PROPN
+and/CCONJ
+
+unambiguous/PROPN ./PUNCT
+As/NOUN soon/ADJ as/NOUN one/NOUN part/NOUN of/ADP a/NUM report/NOUN is/VERB shown/NOUN to/ADP be/PROPN inade/NOUN quate/NOUN or/CCONJ
+
+incorrect/VERB ,/PUNCT the/DET rest/NOUN of/ADP the/DET report/NOUN is/VERB suspect/VERB ./PUNCT
+Poor/NOUN reporting/NOUN probably/NOUN causes/PROPN us/VERB
+
+to/ADP lose/NOUN more/ADP cases/NOUN than/NOUN any/PROPN o/ADP ther/NOUN factor/VERB ./PUNCT
+
+[F/NUM ]/NOUN
+“/PUNCT So/NOUN I/PRON just/VERB don/PROPN ’t/VERB know/NOUN what/VERB to/ADP do/VERB ./PUNCT
+I’ve/VERB been/PROPN groping/VERB in/ADP the/DET dark/NOUN in/ADV a/NUM
+
+number/NOUN of/ADP years/VERB ./PUNCT
+And/ADV I/PRON hope/PROPN that/VERB this/PRON seminar/NOUN will/VERB shed/NOUN some/NOUN light/NOUN on/ADP this/PRON
+
+problem/VERB of/ADP mine/PROPN and/CCONJ help/NUM me/PRON out/ADP in/NOUN my/VERB future/NOUN work/NOUN ./PUNCT ”/PUNCT
+
+[G/PROPN ]/NOUN A/NOUN large/NOUN metropolitan/NOUN city/PROPN government/ADP was/NOUN putting/NOUN on/ADP a/NOUN number/NOUN
+of/ADP
+
+seminars/VERB for/VERB administrators/PRON ,/PUNCT managers/NOUN and/CCONJ //PUNCT or/CCONJ executives/NOUN of/ADP various/NOUN
+departments/NUM
+
+throughout/ADP the/DET city/VERB ./PUNCT
+At/NOUN one/NOUN of/ADP these/NOUN sessions/NOUN the/DET topic/VERB to/ADP be/ADJ discussed/PROPN was/NOUN
+
+motivation/NOUN --/PUNCT
+how/PROPN we/NOUN can/VERB get/PROPN public/ADJ servants/NOUN motivated/NOUN to/ADP do/VERB a/NUM good/PROPN job/NOUN ./PUNCT
+The/DET
+
+difficulty/PROPN of/ADP a/DET police/NOUN captain/PROPN became/PROPN the/DET central/PROPN focus/NOUN of/ADP the/DET discussion/NOUN ./PUNCT
+
+Order/NOUN :/PUNCT
+
+G/PROPN 41/NUM ./NUM
+42/NUM ./PUNCT
+43/NUM ./PUNCT
+44/NUM ./PUNCT
+45/NUM ./PUNCT
+F/X
+
+课外/NOUN 作业/NOUN （/PUNCT 课/NOUN 上/PART 不/ADV 讲/VERB ，/PUNCT 下次/ADV 课/NOUN 提供/VERB 答案/NOUN ）/PUNCT
+
+Directions/NOUN :/PUNCT
+
+The/DET following/NOUN paragraphs/NOUN are/VERB given/PRON in/ADP a/NUM wrong/NOUN order/NOUN ./PUNCT
+For/NOUN Questions/PROPN 1/NUM -/PUNCT 5/NUM ,/PUNCT you/PRON
+
+are/VERB required/VERB to/ADP reorganize/PROPN these/NOUN paragraphs/VERB
+
+in/NOUN to/ADP a/DET coherent/NOUN article/NOUN by/CCONJ choosing/PROPN from/ADP the/DET list/NOUN A/NOUN -/PUNCT E/NOUN to/ADP fill/NOUN in/NOUN each/VERB
+
+numbered/VERB box/NOUN ./PUNCT
+The/DET first/NOUN and/CCONJ the/DET last/NOUN paragraphs/VERB have/PROPN been/NOUN
+
+placed/NOUN for/ADP you/PRON in/VERB Boxes/PROPN ./PUNCT
+Mark/NOUN your/NOUN answers/ADV on/ADP ANS/PROPN WE/NOUN R/X SHEET/PROPN 1./NOUN (/PUNCT 10/NUM
+
+point/NOUN s)/PUNCT
+
+[A/PUNCT ]/NUM
+These/PROPN silent/VERB ,/PUNCT zero-emission/PROPN gadgets/NOUN have/NOUN long/NOUN been/NOUN used/VERB in/ADP NASA/PROPN
+
+spacecraft/NOUN ./PUNCT
+They/PROPN represent/NOUN the/DET great/NOUN hope/NOUN of/ADP many/NOUN environmentalists/VERB to/ADP power/NOUN the/DET
+
+first/ADV mass-produced/VERB electric/PROPN car/PROPN ./PUNCT
+
+[B/NUM ]/NOUN Whe/NOUN ther/NOUN they/NOUN are/VERB used/VERB to/ADP run/NOUN cars/NOUN and/CCONJ buses/PROPN or/CCONJ to/VERB make/NOUN electricity/VERB for/ADP
+
+o/ADP ther/NOUN applications/VERB ,/PUNCT fuel/NOUN cells/PROPN operate/NOUN by/ADP converting/PROPN hydrogen/VERB to/ADP electricity/PROPN
+
+without/NOUN combustion/VERB ./PUNCT
+They/PROPN are/VERB akin/PROPN to/ADP continuously/NOUN -/PUNCT recharging/NOUN batteries/NOUN ./PUNCT
+Hydrogen/PROPN
+
+and/CCONJ oxygen/PROPN are/VERB fed/NOUN in/ADV to/ADP a/DET stack/NOUN of/ADP plates/PROPN that/NOUN create/VERB electricity/VERB ,/PUNCT with/ADV harmless/NOUN
+
+water/PROPN vapor/VERB as/VERB the/DET by/NOUN -/PUNCT product/VERB ./PUNCT
+
+[C/NUM ]/NUM While/PROPN batteries/NOUN alone/NOUN haven/NOUN ’/PUNCT t/NOUN supplied/NOUN the/DET perfor/NOUN mance/NOUN most/NOUN drivers/PROPN
+
+want/VERB ,/PUNCT proponents/PROPN believe/PROPN that/NOUN fuel/VERB cells/NOUN ,/PUNCT probably/NOUN combined/NOUN with/ADV batteries/NOUN ,/PUNCT hold/NOUN
+
+the/DET promise/VERB of/ADP perfor/NOUN mance/VERB ,/PUNCT range/NOUN and/CCONJ better/PROPN mileage/NOUN compared/VERB with/ADV today/NOUN ’/PUNCT s/NOUN
+
+internal/PROPN combustion/NOUN engines/VERB ./PUNCT
+
+[D/NUM ]/NUM If/NOUN they/NOUN work/VERB ,/PUNCT methanol/NOUN fuel/NOUN cells/NOUN could/PROPN be/ADV a/NOUN major/ADJ breakthrough/PROPN in/NOUN
+
+energy/NOUN consumption/NOUN and/CCONJ conservation/NOUN ./PUNCT
+The/DET brave/PROPN new/PROPN technology/NOUN could/PROPN drastically/NUM
+
+cut/NOUN air/PROPN pollution/NOUN from/ADP auto/ADJ emissions/NOUN and/CCONJ o/ADP ther/NOUN sources/VERB ./PUNCT
+
+[E/PROPN ]/PUNCT
+The/DET size/NOUN and/CCONJ weight/NOUN of/ADP fuel/NOUN cells/NOUN have/NOUN always/ADJ been/NOUN problems/NOUN ./PUNCT
+New/PRON
+
+fuel-cell/NOUN technology/NOUN promises/VERB to/ADP solve/NOUN those/NOUN issues/VERB ./PUNCT
+
+[F/NUM ]/NOUN
+Fuel/NOUN cells/NOUN can/VERB use/NOUN various/NOUN sources/VERB of/ADP hydrogen/VERB ,/PUNCT including/PROPN a/NUM simple/NOUN tank/PROPN
+
+of/ADP compressed/PROPN gas/NOUN ./PUNCT
+But/NOUN methanol/VERB ,/PUNCT a/DET liquid/NOUN usually/PROPN produced/NOUN from/ADP natural/NOUN gas/NOUN ,/PUNCT is/VERB
+
+a/NUM much/VERB more/ADP efficient/VERB way/NOUN to/ADP store/NOUN hydrogen/VERB ./PUNCT
+This/PRON is/VERB why/PROPN the/DET first/NOUN wave/PROPN of/ADP fuel/VERB
+
+cells/PROPN in/NOUN cars/VERB will/PROPN likely/PROPN use/NOUN an/NOUN indirect/PROPN methanol/NOUN fuel/NOUN cell/VERB ,/PUNCT in/ADV which/PROPN the/DET
+
+methanol/NOUN passes/NOUN through/VERB a/NUM mechanis/NOUN m/PUNCT called/PROPN a/NUM “/PUNCT reformer/NOUN ”/PUNCT ,/PUNCT which/PROPN ex/NOUN tracts/NOUN
+the/DET
+
+hydrogen/VERB ./PUNCT
+
+[G/PROPN ]/NOUN A/NOUN new/NOUN ,/PUNCT lightweight/NOUN fuel/VERB cell/PROPN that/NOUN runs/NOUN on/ADP methanol/NOUN may/PROPN one/NOUN day/PROPN power/NOUN
+
+your/PRON
+electric/NOUN car/PROPN ./PUNCT
+Sooner/PROPN still/VERB ,/PUNCT the/DET new/NOUN cell/PROPN may/PROPN fuel/NOUN smaller/NOUN devices/PROPN such/VERB as/VERB
+
+your/PRON lap/NOUN -/PUNCT top/NOUN computer/NOUN or/CCONJ mobile/VERB phone/NOUN ./PUNCT
+
+Order/NOUN :/PUNCT
+
+G/PROPN 41/NUM ./NUM
+42/NUM ./PUNCT
+43/NUM ./PUNCT
+44/NUM ./PUNCT
+45/NUM ./PUNCT
+F/X
+
+III/NOUN ./PUNCT
+English/PROPN -/PUNCT Chinese/PROPN Translation/NOUN
+
+1/NUM )/NOUN It/NOUN is/VERB the/DET business/NOUN of/ADP the/DET scientist/VERB to/ADP ac/ADP cumulate/PROPN knowledge/VERB about/PROPN the/DET
+
+universe/NOUN and/CCONJ all/DET that/NOUN is/VERB in/ADP it/NOUN ,/PUNCT and/ADV to/ADP find/VERB ,/PUNCT if/NOUN he/NOUN is/VERB able/VERB ,/PUNCT common/PROPN factors/ADV which/PROPN
+
+underlie/PROPN and/CCONJ ac/ADP count/VERB for/ADP the/DET facts/NOUN that/NOUN he/ADP knows/NOUN ./PUNCT
+He/NOUN chooses/VERB ,/PUNCT when/PROPN he/VERB can/VERB ,/PUNCT the/DET
+
+method/VERB of/ADP the/DET “/PUNCT controlled/NOUN experiment/NOUN ”/PUNCT ./PUNCT
+If/NOUN he/VERB wants/VERB to/ADP find/VERB out/ADP the/DET effect/NOUN of/ADP
+
+light/NOUN on/CCONJ growing/PROPN plants/VERB ,/PUNCT he/VERB takes/NOUN many/ADV plants/VERB ,/PUNCT as/ADV alike/NOUN as/ADV possible/NOUN ./PUNCT
+Some/NOUN he/VERB
+
+stands/NOUN in/ADP the/DET sun/NOUN ,/PUNCT some/NOUN in/ADP the/DET shade/NOUN ,/PUNCT some/NOUN in/ADP the/DET dark/NOUN ,/PUNCT all/DET the/DET time/NOUN keeping/VERB all/DET
+
+o/ADP ther/NOUN conditions/NOUN (temperature/NOUN ,/PUNCT moisture/NOUN ,/PUNCT nourishment/VERB )/PROPN the/DET same/NOUN ./PUNCT
+In/NOUN this/PRON way/NOUN ,/PUNCT by/ADP
+
+keeping/VERB o/ADP ther/NOUN conditions/VERB constant/VERB ,/PUNCT and/ADV by/ADP varying/VERB the/DET light/NOUN only/VERB ,/PUNCT the/DET effect/NOUN
+of/ADP
+
+light/NOUN on/ADP the/DET plants/NOUN can/VERB be/ADJ clearly/PROPN seen/VERB ./PUNCT
+2/NUM )/NOUN This/DET method/NOUN of/ADP using/VERB “/PUNCT controls/NOUN ”/PUNCT can/VERB
+
+be/PROPN applied/NOUN to/ADP a/DET variety/VERB of/ADP situations/NOUN ,/PUNCT and/CCONJ can/NOUN be/ADV used/VERB to/ADP find/VERB the/DET answers/ADV to/ADP
+
+questions/NOUN as/ADV widely/PROPN different/NOUN as/ADP “/PUNCT Must/PROPN moisture/NOUN be/ADJ present/VERB if/NOUN iron/NOUN is/VERB to/ADP rust/NOUN ?/PUNCT ”/PUNCT
+
+and/CCONJ “/PUNCT Which/PROPN variety/VERB of/ADP beans/PROPN gives/PROPN the/DET greatest/ADP yield/NOUN in/NOUN one/NOUN season/NOUN ?/PUNCT ”/PUNCT
+
+In/NOUN the/DET course/VERB of/ADP his/PROPN inquiries/VERB the/DET scientist/NOUN may/NOUN find/NOUN what/NOUN he/PART thinks/NOUN is/VERB one/NOUN
+
+common/NOUN explanation/VERB for/ADP an/ADJ increasing/NOUN number/NOUN of/ADP facts/VERB ./PUNCT
+The/VERB explanation/VERB ,/PUNCT if/VERB it/NOUN
+
+seems/NOUN consistently/NOUN to/ADP fit/VERB the/DET various/NOUN facts/VERB ,/PUNCT is/VERB called/PROPN a/NUM hy/NOUN pothesis/NOUN ./PUNCT
+If/NOUN a/NUM
+
+hy/NOUN pothesis/ADJ continues/NOUN to/ADP stand/NOUN the/DET test/NOUN of/ADP numerous/NOUN experiments/NOUN and/CCONJ remains/NOUN
+
+unshaken/VERB ,/PUNCT it/ADP becomes/NOUN a/NUM law/NOUN ./PUNCT
+
+3/NUM )/NUM The/DET scientist/NOUN is/VERB always/ADP most/NOUN gratified/VERB to/ADP find/NOUN that/VERB an/ADJ underlying/NOUN
+
+“/PUNCT explanation/NOUN ”/PUNCT of/ADP many/ADJ phenomena/NOUN suggests/NOUN in/NOUN its/PROPN turn/VERB the/DET possibility/NOUN of/ADP proving/PROPN
+
+its/NOUN own/NOUN accuracy/PROPN or/CCONJ falsity/NOUN by/CCONJ a/PROPN suitably/NOUN arranged/PROPN critical/NOUN experiment/VERB ./PUNCT
+He/ADV is/VERB
+
+also/PROPN gratified/NOUN when/PROPN his/NOUN “/PUNCT explanation/VERB ”/PUNCT ,/PUNCT if/VERB true/NOUN ,/PUNCT points/ADV to/ADP a/ADP new/NOUN series/NOUN
+of/ADP
+
+experiments/NOUN designed/NOUN to/ADP answer/ADV a/NUM new/NOUN set/NOUN of/ADP questions/NOUN ./PUNCT
+For/NOUN the/DET curiosity/NOUN of/ADP the/DET
+
+scientist/NOUN is/VERB never/NOUN satisfied/NOUN ./PUNCT
+
+The/DET evidence/NOUN as/VERB to/ADP the/DET vastness/NOUN of/ADP the/DET universe/NOUN and/CCONJ the/DET complexity/NOUN of/ADP its/PROPN
+
+arrangements/PROPN continues/NOUN to/ADP grow/NOUN at/ADP an/NUM amazing/NOUN rate/VERB ./PUNCT
+The/DET gap/NOUN between/VERB what/VERB we/NOUN know/NOUN
+
+and/CCONJ all/DET that/NOUN can/VERB be/ADP known/PROPN seems/NOUN not/PROPN to/ADP diminish/VERB ,/PUNCT but/PROPN rather/NOUN to/ADP increase/ADV with/VERB
+
+every/ADJ new/NOUN discovery/NOUN ./PUNCT
+Fresh/PROPN unexplored/PROPN regions/NOUN are/VERB forever/NOUN opening/ADV out/VERB ./PUNCT
+
+4/NUM )/NUM The/DET rapidity/NOUN of/ADP the/DET increase/NOUN of/ADP scientific/NOUN knowledge/VERB ,/PUNCT in/ADP the/DET nineteenth/NOUN
+
+and/CCONJ twentieth/NOUN centuries/VERB ,/PUNCT is/VERB a/NUM pt/NOUN to/ADP give/PROPN students/NOUN and/CCONJ teachers/NOUN the/DET impression/NOUN
+
+that/ADJ no/NOUN sooner/NOUN is/VERB a/NUM problem/VERB stated/NOUN than/VERB the/DET answer/ADV is/VERB forthcoming/VERB ./PUNCT
+A/NOUN more/NOUN
+
+detailed/PROPN study/VERB of/ADP the/DET history/PROPN of/ADP science/VERB corrects/PROPN the/DET impression/NOUN that/NOUN
+
+fundamental/PROPN discoveries/NOUN are/VERB made/NOUN with/VERB dramatic/PROPN suddenness/NOUN ./PUNCT
+Even/DET in/NOUN our/NOUN present/VERB
+
+age/ADJ no/NOUN less/NOUN than/NOUN fifty/NOUN years/NOUN separate/VERB the/DET discovery/NOUN of/ADP radioactivity/NOUN
+from/ADP the/DET
+
+explosion/NOUN of/ADP the/DET first/VERB atomic/PROPN bomb/VERB ./PUNCT
+Much/VERB of/ADP the/DET fundamental/PROPN information/NOUN which/PROPN
+
+now/NOUN enables/VERB us/VERB to/ADP control/PROPN the/DET onset/NOUN and/CCONJ duration/PROPN of/ADP disease/PROPN was/NOUN known/VERB a/NUM century/NOUN
+
+a/NUM go/NOUN ./PUNCT
+
+5/NUM )/NUM The/DET teacher/NOUN ,/PUNCT giving/VERB his/NOUN brief/VERB ac/NOUN counts/NOUN of/ADP scientific/VERB discovery/VERB ,/PUNCT is/VERB
+
+liable/PROPN to/ADP forget/PROPN the/DET long/NOUN periods/NOUN of/ADP misunderstanding/VERB ,/PUNCT of/ADP false/PROPN hy/VERB
+potheses/NOUN and/CCONJ
+
+general/PROPN uncertainty/PROPN ,/PUNCT which/PROPN almost/NOUN invariably/VERB precede/VERB the/DET clear/ADJ statement/NOUN
+of/ADP
+
+scientific/VERB truth/NOUN ./PUNCT
+(/PUNCT 486/NUM word/NOUN s)/PUNCT
+
+IV/NOUN ./PUNCT
+Writing/VERB Practice/PROPN
+
+Directions/NOUN :/PUNCT
+
+Your/PRON are/VERB preparing/NOUN for/NOUN an/PROPN English/PROPN test/NOUN and/CCONJ are/VERB in/NOUN need/NOUN of/ADP some/NOUN reference/NOUN
+
+books/PROPN ./PUNCT
+Write/NOUN a/NUM letter/NOUN to/ADP the/DET sales/NOUN department/NOUN of/ADP a/DET bookstore/NOUN to/ADP a/DET sk/NOUN for/NOUN :/PUNCT
+
+1/NUM )/PROPN detailed/PROPN information/NOUN about/PROPN the/DET books/PROPN you/PRON want/VERB ,/PUNCT
+
+2/NUM )/NOUN methods/NOUN of/ADP payment/NOUN ,/PUNCT
+
+3/NUM )/NOUN time/NOUN and/CCONJ way/NOUN of/ADP delivery/NOUN ./PUNCT
+
+Sample/PROPN :/PUNCT
+
+Dear/VERB Sir/NOUN //PUNCT Madam/PROPN ,/PUNCT
+
+Allow/PROPN me/PRON to/ADP introduce/PROPN myself/ADV ./PUNCT
+My/PRON name/NOUN is/VERB Li/NOUN Ming/VERB ./PUNCT
+At/NOUN present/NOUN I/PRON ’/PUNCT m/NOUN preparing/NOUN
+
+for/ADP a/DET national/PROPN English/PROPN test/NOUN ./PUNCT
+Therefore/PROPN ,/PUNCT I/PRON badly/PROPN need/VERB a/NUM good/PROPN dictionary/PROPN ./PUNCT
+
+能否/VERB 请/VERB 您/PRON 告诉/VERB 我/PRON 一些/NUM 有关/ADJ 词典/NOUN 的/PART 情况/NOUN 。/PUNCT
+您/PRON 的/PART 书店/NOUN 里/PART 现在/NOUN 有些/DET 什么/DET 词典/NOUN ？/PUNCT
+哪/DET 一/NUM 本/NUM 最/ADV 符合/VERB 我/PRON 的/PART 需要/NOUN ？/PUNCT
+Besides/PROPN ,/PUNCT I/PRON also/VERB want/NOUN to/ADP know/NOUN how/NOUN I/PRON
+
+will/NOUN pay/NOUN for/CCONJ it/NOUN ./PUNCT
+请/VERB 您/PRON 告诉/VERB 我/PRON 是/VERB 用/ADP 现金/NOUN 还是/CCONJ 支票/VERB 支付/VERB 书款/NOUN 。/PUNCT
+By/NOUN the/DET way/NOUN ,/PUNCT if/VERB everything/NOUN goes/NOUN smoothly/VERB ,/PUNCT when/PROPN
+
+can/VERB I/PRON get/VERB the/DET dictionary/PROPN ?/PUNCT
+您/PRON 用/ADP 什么/DET 方式/NOUN 把/X 书转/NOUN 给/VERB 我/PRON 呢/PART ？/PUNCT
+
+Thank/PROPN you/PRON very/VERB much/NOUN for/ADP your/PRON time/NOUN ./PUNCT
+I/PRON ’/PUNCT m/X looking/NOUN forward/VERB to/ADP hearing/VERB from/ADP you/PRON
+
+soon/NOUN ./PUNCT
+
+Yours/PROPN faithfully/VERB ,/PUNCT
+
+Li/NOUN Ming/NOUN
+
+作业/NOUN ：/PUNCT 1./NUM 复习/VERB 本/DET 单元/NOUN 内容/NOUN ，/PUNCT 配合/VERB “/PUNCT 复习/NOUN 指导/NOUN ”/PUNCT 迅速/ADV 浏览/VERB 其中/NOUN 的/PART 语法/NOUN 和/CCONJ 词汇/NOUN ，/PUNCT 为/ADP 完形/NOUN 、/PUNCT 英译汉/PROPN 打/VERB 好/ADJ 基础/NOUN 。/PUNCT
+
+2/NUM ./PUNCT 做/VERB “/PUNCT 复习/NOUN 指导/NOUN ”/PUNCT 中/PART 相关/ADJ “/PUNCT 完形/NOUN ”/PUNCT 和/CCONJ “/PUNCT 英译汉/PROPN ”/PUNCT 练习/NOUN 。/PUNCT
+
+3/NUM ./PUNCT 背记/VERB 本/DET 单元/NOUN 应用文/VERB 。/PUNCT
+
+赠言/NOUN ：/PUNCT 有志者事竟成/VERB 。/PUNCT
+(/PUNCT Where/NOUN there/NOUN is/VERB a/NUM will/NOUN there/NOUN is/VERB a/NUM way/NOUN ./PUNCT
+)/PROPN
+
+选择/VERB 搭/VERB 配题/VERB 参考/NOUN 译文/NOUN (课/NOUN 外练/NOUN 习)/PUNCT
+
+也许/ADV 有一天/ADV 你/PRON 的/PART 电动/NOUN 小轿车/PROPN 会/VERB 用/ADP 一/NUM 种/NUM 新型/ADJ 的/PART 、/PUNCT 以/ADP 甲醇/NOUN 为/VERB 燃料/NOUN 的/PART 轻型/ADJ 燃料/NOUN 电池/NOUN 作/VERB 动力/NOUN 。/PUNCT
+
+这种/DET 新/ADJ 电池/NOUN 可能/ADV 不久后/ADV 还/ADV 可以/VERB 为/ADP 你/PRON 的/PART 便携式/ADJ 电脑/NOUN 或/CCONJ 移动/NOUN 电话/NOUN 等/PART 小型/ADJ 设备/NOUN 提供/VERB 燃料/NOUN 。/PUNCT
+
+一旦/SCONJ 投入/VERB 使用/NOUN ，/PUNCT 甲醇/NOUN 燃料/NOUN 电池/NOUN 可能/VERB 是/VERB 在/ADP 能源/NOUN 消耗/NOUN 和/CCONJ 能源/NOUN 储存/NOUN 方面/NOUN 的/PART 一个/NUM 重大/ADJ 突破/NOUN 。/PUNCT
+这种/DET 引人注目/VERB 的/PART 新/ADJ 技术/NOUN 能/VERB 极/ADV 大地/NOUN 减少/VERB 汽车/NOUN 尾气/NOUN 和/CCONJ 其它/DET 原因/NOUN 造成/VERB 的/PART 空气/NOUN 污染/NOUN 。/PUNCT
+
+燃料/NOUN 电池/NOUN 无论是/ADV 用来/VERB 驱动/VERB 小轿车/PROPN 和/CCONJ 公共/ADJ 汽车/NOUN ，/PUNCT 还是/ADV 用作/VERB 其它/DET 设备/NOUN 的/PART 电源/NOUN ，/PUNCT 工作/NOUN 时/PART 都/ADV 不/ADV 需/VERB 燃料/NOUN 就/ADV 把/X 氢转化/NOUN 为电/VERB 。/PUNCT
+它/PRON 类似于/VERB 在/ADP 连续/ADV 充电/VERB 的/PART 电池/NOUN ，/PUNCT
+
+氢和氧/NOUN 被/X 输入/VERB 一/NUM 堆/NUM 发电/VERB 的/PART 多/NUM 层/NUM 板片/NOUN 装置/NOUN ，/PUNCT 同时/ADV 排出/VERB 无害/ADJ 的/PART 水蒸气/NOUN 作为/VERB 副产品/NOUN 。/PUNCT
+
+这种/DET
+低/ADJ 噪音/NOUN 、/PUNCT 无排/ADV 放物/VERB 的/PART 小/ADJ 玩意儿/NOUN 早就/ADV 在/ADP 美国/PROPN 航空/NOUN 航天局/PROPN 的/PART 航天器/NOUN 上/PART 派上/VERB 了/PART 用场/NOUN 。/PUNCT
+很多/NUM 环保主义者/NOUN 对/ADP 它/PRON 寄予/VERB 厚望/NOUN ，/PUNCT
+
+期待/VERB 它/PRON 能/VERB 为首/VERB 批/VERB 大量/ADV 生产/VERB 的/PART 电动/ADJ 小轿车/PROPN 提供/VERB 动力/NOUN 。/PUNCT
+
+尽管/SCONJ 仅/ADV 靠蓄/VERB 电池/NOUN 不/ADV 能/VERB 满足/VERB 大多数/NUM 驾驶员/NOUN 对/ADP 车子/NOUN 工作/NOUN 性能/NOUN 的/PART 需要/NOUN ，/PUNCT 但/ADV 倡导者们/NOUN 认为/VERB ，/PUNCT 燃料/NOUN 电池/NOUN ，/PUNCT
+
+也许/ADV 加上/VERB 蓄电池/NOUN ，/PUNCT 在/ADP 车子/NOUN 性能/NOUN 、/PUNCT 行驶/NOUN 路程/NOUN 、/PUNCT 耗油量/NOUN 等/PART 方面/NOUN 有望/ADV 胜过/VERB 现在/NOUN 使用/VERB 的/PART 内燃机/NOUN 。/PUNCT
+
+燃料/NOUN 电池/NOUN 的/PART 大小/NOUN 和/CCONJ 重量/NOUN 一直/ADV 是/VERB 没有/ADV 解决/VERB 的/PART 问题/NOUN 。/PUNCT
+新/VERB 的/PART 燃料/NOUN 电池/NOUN 技术/NOUN 可望/ADV 解决/VERB 这些/DET 问题/NOUN 。/PUNCT
+
+燃料/NOUN 电池/NOUN 能/VERB 使用/VERB 各种/ADJ 来源/NOUN 的/PART 氢气/NOUN ，/PUNCT 包括/VERB 一/NUM 种/NUM 简单/ADJ 的/PART 压缩气/ADJ 储罐/NOUN 。/PUNCT
+
+但/ADV 通常/ADV 从/ADP 天然气/NOUN 中/PART 产生/VERB 的/PART 一/NUM 种/NUM 液体/NOUN ─—/VERB 甲醇/NOUN ─—/ADV 能/VERB 跟/ADP 有效/VERB 地/PART 储存氢/VERB 。/PUNCT
+这就/PRON 是/VERB 为什麽/ADV 在/ADP 小轿车/PROPN 中/PART 首批/ADV 使用/VERB 的/PART 很/ADV 可能/VERB 是/VERB 一/NUM 种/NUM 间接/ADJ 的/PART 甲醇/NOUN 燃料/NOUN 电池/NOUN 。/PUNCT
+在/ADP 该/DET 电池/NOUN 中/PART ，/PUNCT
+
+甲醇/NOUN 里/PART 的/PART 氢/NOUN 通过/VERB 一个/ADV 叫做/VERB “/PUNCT 重整器/NOUN ”/PUNCT 的/PART 机械/NOUN 装置/NOUN 被/X 提取/VERB 出来/VERB 。/PUNCT
+
+帮助/VERB 你/PRON 学习/VERB 记忆单词/VERB 的/PART 有效/ADJ 方法/NOUN --/PUNCT
+同根词/NOUN 解析/VERB
+
+lat/NOUN [拉丁语/NOUN 词根/NOUN ]/ADV 带有/VERB ，/PUNCT 产生/VERB ，/PUNCT 进行/VERB
+
+*/NOUN relate/NOUN [re/PROPN 回/NUM +/PUNCT lat/NOUN 带/VERB +/PUNCT e]/ADV vi/VERB ./PUNCT
+(to)/ADV 有/VERB 关联/NOUN vt/NOUN ./PUNCT
+1./NUM 使/VERB 互相/ADV 关联/VERB 2/NUM ./PUNCT
+叙述/VERB ，/PUNCT 讲述/VERB */NOUN relation/NOUN n/NOUN ./PUNCT
+1./NUM
+
+关系/NOUN ，/PUNCT 联系/VERB 2/NUM ./PUNCT 亲属/NOUN ，/PUNCT 亲戚/NOUN */NOUN relation/NOUN ship/VERB n/NOUN ./PUNCT
+关系/NOUN ，/PUNCT 联系/VERB */NOUN relative/PROPN a/PROPN ./PUNCT 相对/ADV 的/PART ，/PUNCT 比较/ADV 的/PART n/NOUN ./PUNCT
+亲属/NOUN ，/PUNCT 亲戚/NOUN */NOUN relativity/NOUN
+
+n/NOUN ./PUNCT
+相对论/NOUN ，/PUNCT 相关性/VERB */NOUN relevant/NOUN a/NUM ./PUNCT
+相关/ADJ 的/PART */NOUN irrelevant/PROPN a/PART ./PUNCT
+不着边际/VERB 的/PART */NOUN correlate/PROPN [/PROPN cor=con/NOUN 共同/VERB +/PUNCT
+
+relate/ADV 关联/VERB ]/NOUN vt/VERB ./PUNCT
+使/VERB 相互/ADV 关联/NOUN v/VERB ./PUNCT
+(/PUNCT to/ADV ,/PUNCT with/ADV )/VERB 和/CCONJ …/PUNCT
+相关/ADJ */NOUN correlation/NOUN n/NOUN ./PUNCT
+相互/ADV 关系/VERB ，/PUNCT 相关/ADJ （/PUNCT 性/NOUN ）/PUNCT
+
+*/PROPN translate/PROPN [trans/PROPN 转移/VERB +/PUNCT lat/NOUN 产生/VERB +/PUNCT e/NOUN --/PUNCT --/PUNCT 换/VERB 一/NUM 种/NUM 语言/NOUN 说/VERB 出来/VERB ]/NOUN v/VERB ./PUNCT
+翻译/VERB */NOUN translation/PRON n/NOUN ./PUNCT
+1./NUM
+
+翻译/NOUN ，/PUNCT 译/VERB 2/NUM ./PUNCT
+译文/VERB ，/PUNCT 译本/NOUN
+
+*/PROPN translator/NOUN n/NOUN ./PUNCT
+译者/NOUN

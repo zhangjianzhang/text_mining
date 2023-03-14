@@ -1,0 +1,7 @@
+牐犘/NOUN 疟/ADV ㄑ叮/VERB 记者/NOUN 廖奇/PROPN ）/PUNCT
+昨天/NOUN ，/PUNCT 国内/NOUN 最/ADV 大/VERB 的/PART 宽带/ADJ 应用/NOUN 门户/NOUN 网站/NOUN ——/PUNCT 互联/ADJ 星空/NOUN 宣布/VERB 正式/ADV 启用/NOUN ｖｎｅｔ．ｃｎ/ADV 作为/VERB 网站/NOUN 访问/NOUN 入口/NOUN 和/CCONJ 惟一/ADJ 标识/NOUN 。/PUNCT
+而/ADV 之前/ADV 使用/VERB 多年/ADV 的/PART ｃｈｉｎａｖｎｅｔ．ｃｏｍ/NOUN 域名/NOUN 已/ADV 被/X 指向/VERB 新/ADJ 域名/NOUN ，/PUNCT 据悉/ADV 近日/NOUN 将/ADV 被/X 彻底/ADV 停用/VERB 。/PUNCT
+
+牸钦/NOUN 叽/NOUN 又/ADV 泄/VERB 电信/NOUN 方面/NOUN 获悉/VERB ，/PUNCT 互联/ADV 星空/NOUN 新/ADJ 启用/VERB 的/PART ｖｎｅｔ．ｃｎ域/DET 名/NOUN 是/VERB 由/ADP 域名/NOUN 投资者/NOUN 手中/NOUN 购得/VERB 。/PUNCT
+专家/NOUN 分析/VERB ，/PUNCT 作为/ADP 国内/NOUN 最/ADV 大/VERB 的/PART 宽带/ADJ 应用/NOUN 门户/NOUN 网站/NOUN ，/PUNCT 互联星/ADV 空此/NOUN 举/VERB 绝非/NOUN 偶然/VERB 。/PUNCT
+之前/ADV 中国/PROPN 电信/NOUN 已经/ADV 启用/VERB 了/PART “/PUNCT ｂｎｅｔ．ｃｎ/NOUN ”/PUNCT 作为/VERB 其/PRON 商务/NOUN 领航/NOUN 服务/NOUN 的/PART 网上/ADJ 标识/NOUN ，/PUNCT 购入/VERB 启用/VERB “/PUNCT ｖｎｅｔ．ｃｎ/VERB ”/PUNCT 后/PART ，/PUNCT 中国/PROPN 电信/NOUN 的/PART 增值/ADJ 业务/NOUN 已经/ADV 形成/VERB 了/PART 一/NUM 套/NUM 系统/NOUN 的/PART 网络/NOUN 标识/NOUN 。/PUNCT

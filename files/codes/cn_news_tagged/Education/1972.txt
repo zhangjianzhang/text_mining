@@ -1,0 +1,129 @@
+【/PUNCT 来源/NOUN ：/PUNCT 搜狐/PROPN 教育/NOUN 社区/NOUN 】/PUNCT
+
+理解/VERB 短文/ADJ 内容/NOUN 本末/NOUN 倒置/NOUN ，/PUNCT 不/ADV 知何/VERB 为主/VERB ，/PUNCT 何为/ADV 次/ADV ，/PUNCT 应该/VERB 抓住/VERB 哪些/DET 内容/NOUN ，/PUNCT 哪些/DET 内容/NOUN 与/CCONJ 解题/NOUN 有关/VERB 。/PUNCT
+我们/PRON 知道/VERB ，/PUNCT 每篇/ADV 短文/NOUN 从/ADP 结构/NOUN 思路/NOUN 的/PART 角度/NOUN 看/VERB 大都/ADV 相仿/VERB 。/PUNCT
+
+阅读/VERB 理解/NOUN 中/PART 85%/NOUN 的/PART 题目/NOUN 以/ADP 短文/ADJ 主题/NOUN 及/CCONJ 要点/NOUN 为/VERB 命题/NOUN 标的/NOUN ，/PUNCT 只有/SCONJ 15%/NUM 的/PART 试题/NOUN 问及/VERB 细节/NOUN ，/PUNCT 其中/NOUN 又/ADV 有/VERB 相当/ADJ 一部分/NUM 试题/NOUN 是/VERB 词汇/NOUN 语义/NOUN 方面/NOUN 的/PART 试题/NOUN 。/PUNCT
+而/ADV 我们/PRON 在/ADP 六级/NUM 考前/NOUN 强化/VERB 班上/NOUN 发现/VERB ，/PUNCT 相当/ADV 多/NUM 的/PART 考生/NOUN 在/ADP 阅读/VERB 时/PART 比较/ADV 偏重/VERB 细节/NOUN 及/CCONJ 个别/ADJ 词句/NOUN 的/PART 理解/NOUN 而/PART 对/ADP 短文/NOUN 的/PART 主题/NOUN 及/CCONJ 支持/NOUN 主题/NOUN 的/PART 要点/NOUN 却/ADV 反而/ADV 比较/ADV 模糊/VERB ，/PUNCT 这种/ADV “/PUNCT 见树不见林/PROPN ”/PUNCT 的/PART 阅读/NOUN 习惯/NOUN 大大/ADV 影响/VERB 了/PART 考生/NOUN 的/PART 阅读/NOUN 理解/NOUN 深度/NOUN 和/CCONJ 答题/NOUN 正确率/NOUN ，/PUNCT 最后/ADV 往往/ADV 拣/VERB 的/PART 是/VERB “/PUNCT 芝麻/PROPN ”/PUNCT ，/PUNCT 丢/VERB 的/PART 是/VERB “/PUNCT 西瓜/NOUN ”/PUNCT 。/PUNCT
+所以/ADV ，/PUNCT 为了/ADP 获取/VERB 阅读/VERB 高分/NOUN ，/PUNCT 考生/NOUN 务必/ADV 改变/VERB 这样/PRON 的/PART 阅读/NOUN 习惯/NOUN 。/PUNCT
+
+不/ADV 熟悉/VERB 解题/NOUN 思路/NOUN 。/PUNCT
+在/ADP 六级/NUM 考前/NOUN 强化/VERB 班上/NOUN ，/PUNCT 我们/PRON 还/ADV 发现/VERB ，/PUNCT 考生/NOUN 在/ADP 阅读/VERB 短文/NOUN 后/PART 的/PART 解题/NOUN 过程/NOUN 也/ADV 缺乏/VERB 清晰/ADJ 和/CCONJ 科学/ADJ 的/PART 思路/NOUN ，/PUNCT 往往/ADV 凭/ADP 印象/NOUN 盲目/ADV 猜题/VERB 。/PUNCT
+对于/ADP 六级/NUM 考试/NOUN 这样/ADV 较/ADP 高难/NOUN 层次/NOUN 的/PART 阅读/NOUN 理解/NOUN 考试/NOUN ，/PUNCT 仍/ADV 沿用/VERB 高考/NOUN 或/CCONJ 四级/NOUN 时/PART 的/PART 解题/NOUN 习惯/NOUN 已经/ADV 难以/ADV 招架/VERB 。/PUNCT
+针对/ADP 六级/NUM 阅读/VERB 我们/PRON 提供/VERB 这样/PRON 的/PART 解题/NOUN 思路/NOUN
+：/PUNCT
+
+抓/VERB 主题/NOUN →/NOUN 归纳/NOUN 要点/NOUN →理/PUNCT 清/PROPN 文章/NOUN 结构/NOUN 层次/NOUN →阅/PUNCT 读题/VERB 干→/NOUN 根据/ADP 题/NOUN 干/VERB 关键词/NOUN 确定/VERB 答案/NOUN 所在/VERB 短文/ADJ 部位/NOUN →/VERB 从/ADP 排除/VERB 干扰/VERB 项入/NOUN 手→/NOUN 确定/VERB 最终/ADJ 答案/NOUN →/VERB 回到/VERB 短文/NOUN 、/PUNCT 对/ADP 照题/NOUN 干/VERB 验证/VERB 。/PUNCT
+
+不/ADV 熟悉/VERB 命题/NOUN 规律/NOUN 和/CCONJ 答题/NOUN 技巧/NOUN 。/PUNCT
+任何/DET 一类/NUM 考试/NOUN 或/CCONJ 题项/NOUN 都/ADV 有/VERB 其/PRON 命题/ADJ 规律/NOUN ，/PUNCT 六级/NUM 阅读/VERB 更/ADV 不/ADV 例外/VERB ，/PUNCT 它/PRON 包括/VERB 选/VERB 什么样/ADJ 题材/NOUN 和/CCONJ 体裁/NOUN 的/PART 短文/NOUN ，/PUNCT 出/VERB 什么样/ADJ 类型/NOUN 的/PART 试题/NOUN ；/PUNCT 不同/ADJ 的/PART 题材/NOUN 、/PUNCT 体裁/NOUN 就/ADV 有/VERB 不同/ADJ 的/PART 阅读/VERB 理解/NOUN 和/CCONJ 解题/NOUN 方法/NOUN ，/PUNCT 不同/ADJ 的/PART 题型/NOUN 更/ADV 需要/VERB 与/ADP 之/PRON 相/ADV 对应/VERB 的/PART 解题/NOUN 技巧/NOUN 。/PUNCT
+
+另外/ADV ，/PUNCT 考生/NOUN 在/ADP 考前/NOUN 的/PART 阅读/NOUN 准备/NOUN 过程/NOUN 中/PART ，/PUNCT 还/ADV 应/VERB 重点/ADV 注意/VERB 加强/VERB 以下/PRON 几/NUM 个/NUM 方面/NOUN 的/PART 训练/NOUN ：/PUNCT
+
+1蓖乜/NUM 泶驶/NUM 恪⑹/VERB 煜び/PROPN 锓ǎ/VERB
+
+2/NUM 弊/NOUN ⒁庥/PUNCT 锲/NOUN 层次/NOUN 上/PART 阅读/VERB 理解/NOUN 能力/NOUN 的/PART 提高/NOUN 。/PUNCT
+包括/VERB 归纳/VERB 短文/ADJ 主题/NOUN ，/PUNCT 理清/NOUN 上下文/NOUN 逻辑/NOUN 关系/NOUN ，/PUNCT 通过/ADP 概括/NOUN 得出/VERB 结论/NOUN ，/PUNCT 理解/VERB 比喻/NOUN 、/PUNCT 反语/VERB 的/PART 意义/NOUN ，/PUNCT 判断/VERB 作者/NOUN 的/PART 语气/NOUN 、/PUNCT 态度/NOUN ，/PUNCT 预测/VERB 上下文/PROPN 等/PART 综合/ADJ 能力/NOUN 。/PUNCT
+
+不同/ADJ 类型/NOUN 文章/NOUN 的/PART 阅读/NOUN 理解/NOUN 技巧/NOUN
+
+不同/ADJ 体裁/NOUN 的/PART 短文/NOUN 有/VERB 其/PRON 不同/ADJ 的/PART 段落/NOUN 组织/NOUN 方式/NOUN 和/CCONJ 脉络/NOUN 层次/NOUN ，/PUNCT 也/ADV 就/ADV 有/VERB 不同/ADJ 的/PART 阅读/VERB 理解/NOUN 方式/NOUN ，/PUNCT 了解/VERB 短文/ADJ 的/PART 不同/ADJ 体裁/NOUN 及其/CCONJ 相应/ADJ 的/PART 文章/NOUN 脉络/NOUN 结构/NOUN ，/PUNCT 有利于/VERB 考生/NOUN 对/ADP 短文/NOUN 进行/VERB 意流/NOUN 层次/NOUN 的/PART 分析/NOUN 从而/ADV 加深/VERB 对/ADP 短文/NOUN 的/PART 理解/NOUN ，/PUNCT 并/CCONJ 能/VERB 最大/ADJ 限度/NOUN 地/PART 读懂/NOUN 较/ADV 难/VERB 的/PART 文章/NOUN 。/PUNCT
+六级/NUM 考试/NOUN 的/PART 阅读/NOUN 理解/NOUN 部分/NOUN 一般/ADV 只有/ADV 说明文/VERB 和/CCONJ 论述/VERB 文/NOUN 两/NUM 种/NUM 较难/ADJ 的/PART 文体/NOUN 。/PUNCT
+
+说明/VERB 文/NOUN
+
+说明/VERB 文多/NOUN 见于/NOUN 人文/NOUN 、/PUNCT 自然/NOUN 等/PART 科普/NOUN 读物/NOUN ，/PUNCT 常/ADV 通过/ADP 定义/NOUN 、/PUNCT 比较/NOUN 、/PUNCT 对照/NOUN 等/PART 写作/NOUN 手法/NOUN 对/ADP 事物/NOUN 的/PART 性状/NOUN 、/PUNCT 特征/NOUN 、/PUNCT 演变/NOUN 、/PUNCT 结果/NOUN 或/CCONJ 其/PRON 相互/PRON 之间/PART 的/PART 关系/NOUN 进行/VERB 解释/NOUN 或/CCONJ 揭示/NOUN 。/PUNCT
+
+说明文/VERB 的/PART 第一/NUM 句/NUM 通常/ADV 为/ADP 主题/NOUN 句/VERB ，/PUNCT 开宗明义/VERB 、/PUNCT 点明/VERB 全文/NOUN 要/VERB 说明/VERB 的/PART 对象/NOUN ，/PUNCT 如上所述/VERB ，/PUNCT 说明文/VERB 的/PART 行文/NOUN 方式/NOUN 有/VERB 其/PRON 特点/NOUN ，/PUNCT 即/ADV 主要/ADV 有/VERB 比较/ADV 、/PUNCT 对照/NOUN 和/CCONJ 分类/NOUN 几/NUM 种/NUM 格式/NOUN ，/PUNCT 每篇/ADV 短文/NOUN 以/ADP 一/NUM 种/NUM 为主/VERB ，/PUNCT 有时/ADV 几/NUM 种/NUM 兼用/NOUN 。/PUNCT
+
+阅读/VERB 说明/VERB 文要/NOUN 抓住/VERB 文章/NOUN 的/PART 主题/NOUN ，/PUNCT 弄清/VERB 短文/ADJ 的/PART 段落/NOUN 组织/NOUN 方式/NOUN 与/CCONJ 行文/NOUN 格式/VERB ，/PUNCT 同时/ADV 还要/ADV 把握/VERB 各/DET 层次/NOUN (/PUNCT 或/CCONJ 自然/NOUN 段)/NOUN 的/PART 要点/NOUN 及其/CCONJ 与/ADP 短文/ADJ 主题/NOUN 的/PART 内在/ADJ 关系/NOUN 。/PUNCT
+
+论述/NOUN 文/NOUN
+
+论述/NOUN 文是/NOUN 所有/DET 文体/NOUN 中/PART 比较/ADV 难/ADV 理解/VERB 的/PART 一/NUM 种/NUM ，/PUNCT 主要/ADV 因为/ADP 这/DET 类/NUM 文章/NOUN 往往/ADV 渗透/VERB 着/PART 作者/NOUN 的/PART 个人/NOUN 观点/NOUN 和/CCONJ 态度/NOUN ，/PUNCT 观点/NOUN 和/ADP 事实/NOUN 相互/ADV 混杂/VERB ，/PUNCT 读者/NOUN 难以/ADV 分辨/VERB 。/PUNCT
+
+作者/NOUN 的/PART 观点/NOUN 态度/NOUN 有时/ADV 通过/ADP 旗帜/NOUN 鲜明/VERB 的/PART 论点/NOUN 明述/NOUN ，/PUNCT 有时/ADV 则/ADV 通过/ADP 论证/NOUN 或/CCONJ 驳论/VERB 暗示/VERB ，/PUNCT 理解/NOUN 后/PART 一类/NUM 论/NUM 述文/NOUN 比/ADP 前/DET 一类/NUM 更/ADV 难/VERB ，/PUNCT 因为/ADP 这/DET 一类/NUM 短文/NOUN 往往/ADV 层次/NOUN 交叠/VERB ，/PUNCT 思路/NOUN 错综/VERB 。/PUNCT
+
+阅读/VERB 论述/NOUN 文要/NOUN 从/ADP 该/DET 文体/NOUN 的/PART 写作/NOUN 和/CCONJ 结构/NOUN 特点/NOUN 入手/VERB ，/PUNCT 注意/VERB 以下/DET 四/NUM 个/NUM 方面/NOUN ：/PUNCT
+
+1/NUM 、/PUNCT 抓住/VERB 短文/ADJ 的/PART 论点/NOUN ，/PUNCT 论据/NOUN 并/CCONJ 明确/VERB 作者/NOUN 用以/VERB 论证/NOUN 的/PART 是/VERB 归纳/NOUN 、/PUNCT 类推/NOUN 还是/CCONJ 演绎/NOUN ；/PUNCT
+
+2/NUM 、/PUNCT 论述/VERB 文通/NOUN 常立/NOUN 中/PART 有/VERB 驳/NOUN 、/PUNCT 驳中/VERB 有立/VERB ，/PUNCT 阅读/VERB 中/PART 要/VERB 特别/ADV 注意/VERB 其中/NOUN 的/PART 反驳/NOUN 内容/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT 抓住/VERB 论证/NOUN 中/PART 表示/VERB 因果/NOUN (because/NOUN ，/PUNCT as/VERB a/NUM result/NOUN ，/PUNCT therefore/NOUN 等/PART )/NOUN 、/PUNCT 递进/VERB (moreover/NOUN ，/PUNCT in/ADP
+
+addition/VERB 等)/PUNCT 和/CCONJ 转折/VERB (but/PUNCT ，/PUNCT however/VERB 等/PART )/NOUN 的/PART 意流/NOUN 转换/VERB 信号/NOUN 词/NOUN ；/PUNCT
+
+4/NUM 、/PUNCT 注意/VERB 作者/NOUN 使用/VERB 的/PART 表达/VERB 自己/PRON 赞同/VERB 、/PUNCT 反对/VERB 等/PART 感情/NOUN 色彩/NOUN 的/PART 形容词/NOUN 、/PUNCT 副词/NOUN 或/CCONJ 句型/NOUN 。/PUNCT
+
+预测/NOUN 能力/NOUN 与/CCONJ 难文/NOUN
+
+碰到/VERB 难读/NOUN 的/PART 短文/NOUN ，/PUNCT 首先/ADV 要/VERB 确立/VERB 自信/NOUN ，/PUNCT 冷静/VERB 地/PART 读/VERB 下去/VERB ，/PUNCT 要/VERB 充分/ADV 利用/VERB 短文/ADV 中上下句/VERB 的/PART 互释/NOUN 作用/NOUN ，/PUNCT 不必/ADV 为/ADP 个别/NUM 晦涩/VERB 的/PART 难词/NOUN 、/PUNCT 难句/NOUN 或/CCONJ 概念/NOUN 所/PART 束缚/VERB ，/PUNCT 可/VERB 通过/ADP 对/ADP 上下/NOUN 文(/VERB 特别是/ADV 下/DET 文)/PUNCT 的/PART 理解/NOUN 来/PART 领悟/VERB 个别/ADJ 难词/NOUN 、/PUNCT 难/VERB 句/NUM 的/PART 大意/NOUN 从而/ADV 获得/VERB 对/ADP 有关/ADJ 概念/NOUN 的/PART 理解/NOUN 。/PUNCT
+同时/ADV 要/VERB 充分/ADV 运用/VERB 阅读/VERB 理解/NOUN 的/PART 微技能/NOUN 和/CCONJ 意流/NOUN 层次/NOUN 分析/VERB 等/PART 技巧/NOUN ，/PUNCT 在/ADP 阅读/NOUN 中/PART 积极/ADV 预测/VERB 、/PUNCT 及时/ADV 归纳/VERB 、/PUNCT 分析/NOUN 层次/NOUN 、/PUNCT 各个击破/VERB 。/PUNCT
+
+其次/ADV ，/PUNCT 了解/VERB 难文/NOUN 的/PART 类型/NOUN ，/PUNCT 也/ADV 有助于/VERB 我们/PRON 对症下药/NOUN 攻克/VERB 难关/NOUN ，/PUNCT 短文/NOUN 难读/NOUN 不外乎/VERB 以下/PRON 几/NUM 种/NUM 原因/NOUN ：/PUNCT
+
+1倍/NOUN 涛/NOUN 纳婕/NOUN 暗奶/NOUN 獠淖/NOUN ㄒ敌/VERB 郧浚/VERB 话题/NOUN 生疏/VERB ；/PUNCT
+
+2/NUM 倍/NUM 涛/NOUN 牡幕/VERB 疤/NOUN 馍婕/NOUN 氨冉/VERB 闲樾/NOUN 的/PART 人文/NOUN 科学/NOUN ，/PUNCT 读/VERB 来/PART 费解/VERB ；/PUNCT
+
+3/NUM 倍/NUM 涛/NOUN 牡奶/NOUN 宀媒/NOUN 夏眩/NOUN 结构/NOUN 错综/VERB ，/PUNCT 层次/NOUN 复杂/VERB ；/PUNCT
+
+4/NUM 倍/NUM 涛闹/NOUN 卸辔/NOUN 结构/NOUN 复杂/VERB 的/PART 长/ADJ 句/NOUN ，/PUNCT 理/VERB 不/ADV 清/VERB 句子/VERB 基本/ADJ 结构/NOUN ；/PUNCT
+
+5/NUM 倍/NUM 涛闹/PROPN 杏行/ADP 矶嗌/VERB 僻词/NOUN 和/CCONJ 成语/NOUN ，/PUNCT 等等/PART 。/PUNCT
+
+六级/NUM 考试/NOUN 中/PART 阅读/VERB 时/PART 一定/ADV 要/VERB 善于/VERB 在/ADP 理解/VERB 已/ADV 知/VERB 信息/NOUN 的/PART 基础/NOUN 上/PART 对/ADP 随之/ADV 可能/VERB 出现/VERB 的/PART 信息/NOUN 进行/VERB 积极/ADJ 预测/NOUN 。/PUNCT
+预测/NOUN 时/PART ，/PUNCT 应/VERB 学会/VERB 借助/VERB 主题/NOUN 句/NOUN 、/PUNCT 关联/NOUN 词语/NOUN 等/PART 篇章/ADJ 信息/NOUN 来/PART 提高/VERB 预测/NOUN 的/PART 准确性/NOUN 。/PUNCT
+
+如/ADV ，/PUNCT 有/VERB 一/NUM 篇/NUM 短文/NOUN 以/ADP 这样/ADJ 一/NUM 句/NUM 开头/NOUN ：/PUNCT
+
+Many/ADJ people/NOUN believe/PROPN the/DET glare/PROPN from/ADP snow/VERB causes/PROPN snowblindness/NOUN ./PUNCT
+
+Yet/NUM …/PUNCT
+这里/PRON 根据/ADP 表示/VERB 转折/VERB 的/PART 关联/NOUN 词Yet/PROPN ，/PUNCT 预测/VERB 到/VERB 下面/NOUN 可能/VERB 出现/VERB 的/PART 是/VERB 主题/NOUN 句/NOUN ，/PUNCT 又/ADV 必然/ADV 要/VERB 否定/VERB 本/DET 句/NUM 中/PART 许多/NUM 人/NOUN 的/PART 观点/NOUN ，/PUNCT 即/VERB snowblindness/NOUN (雪/NOUN 盲)/PUNCT 可能/ADV 由/ADP glare/PROPN
+
+from/ADP snow/VERB 以外/PART 的/PART 其它/DET 原因/NOUN 引起/VERB 。/PUNCT
+原文/NOUN 紧接着/VERB 的/PART 是/VERB ：/PUNCT Yet/NOUN ，/PUNCT dark/NOUN glasses/PROPN or/CCONJ not/PROPN ，/PUNCT they/NOUN
+find/ADP themselves/VERB
+
+suffering/NOUN from/ADP headaches/NOUN and/CCONJ watering/NOUN eyes/VERB ，/PUNCT and/CCONJ even/NUM snowblindness/NOUN ，/PUNCT when/PROPN exposed/VERB
+
+to/ADP several/VERB hours/NOUN of/ADP “/PUNCT snow/VERB light/VERB ”/PUNCT ./PUNCT
+
+据此/DET 主题/NOUN ，/PUNCT 我们/PRON 可以/VERB 比较/ADV 有/VERB 把握/VERB 地/PART 预测/VERB 到/VERB 下文/NOUN 将/ADV 着墨于/VERB 引起/VERB “/PUNCT 雪盲/NOUN ”/PUNCT 的/PART 真正/ADJ 原因/NOUN ，/PUNCT 原文/NOUN 如下/VERB ：/PUNCT
+
+The/DET United/VERB States/PROPN Army/PROPN has/PROPN now/NOUN determined/PROPN that/NOUN glare/VERB from/ADP snow/ADJ does/NOUN not/PROPN
+
+cause/PROPN snowblindness/NOUN in/ADP troops/NOUN in/ADP a/NUM snow/VERB -/PUNCT covered/PROPN country/PROPN ./PUNCT
+Rather/VERB ,/PUNCT a/NUM man/NOUN ’/PUNCT s/NOUN eyes/ADV
+
+frequently/VERB find/VERB nothing/VERB to/ADP focus/PROPN on/NOUN in/NOUN a/NUM broad/NOUN expanse/NOUN of/ADP barren/PROPN snow/VERB -/PUNCT covered/PROPN
+
+terrain/NOUN ./PUNCT
+So/NOUN his/PROPN gaze/VERB continually/PROPN shifts/NOUN and/CCONJ jumps/PROPN back/PROPN and/CCONJ forth/VERB
+over/ADP the/DET entire/VERB
+
+landscape/PROPN in/NOUN search/NOUN of/ADP something/NOUN to/ADP look/PROPN at/VERB ./PUNCT
+Finding/PROPN nothing/VERB hour/PROPN after/PROPN hour/NOUN ，/PUNCT
+the/DET
+
+eyes/ADV never/NOUN stop/NOUN searching/NOUN and/CCONJ the/DET eyeballs/VERB become/PROPN sore/NOUN and/CCONJ the/DET eye/NOUN muscles/VERB ache/VERB ./PUNCT
+
+Nature/PROPN offsets/NOUN this/PRON irritation/NOUN
+by/ADP producing/PROPN more/NOUN and/CCONJ more/NOUN fluid/NOUN which/PROPN covers/PROPN the/DET
+
+eyeball/VERB ./PUNCT
+The/DET fluid/NOUN covers/PROPN the/DET eyeball/NOUN in/ADP increasing/NOUN quantity/NOUN until/PROPN vision/VERB
+
+blurs/NOUN ，/PUNCT then/NOUN is/VERB obscured/NOUN ，/PUNCT and/CCONJ the/DET result/NOUN is/VERB to/VERB tal/PRON ，/PUNCT even/NUM though/NOUN
+
+temporary/VERB ，/PUNCT snowblindness/NOUN ./PUNCT
+
+［/PUNCT 专家/NOUN 点拨/NOUN ］/PUNCT 预测/NOUN 不/ADV 一定/ADV 总是/ADV 正确/VERB ，/PUNCT 它/PRON 需要/VERB 在/ADP 继续/VERB 阅读/VERB 中予/NOUN 以/ADP 肯定/VERB 、/PUNCT 否定/VERB 或/CCONJ 修正/NOUN 。/PUNCT
+上例/VERB 中/PART 下文/NOUN 的/PART 内容/NOUN 与/CCONJ 预测/NOUN 相近/VERB ，/PUNCT 表示/VERB 理解/NOUN 过程/NOUN 正确/VERB 。/PUNCT
+如/ADV 预测/NOUN 与/ADP 下文/NOUN 不/ADV 一致/VERB ，/PUNCT 则/ADV 有/VERB 两/NUM 种/NUM 可能/NOUN ：/PUNCT ①/NUM 对/ADP 前面/NOUN 内容/NOUN 的/PART 理解/NOUN 有/VERB 偏差/NOUN ；/PUNCT ②据/NOUN 以/ADP 预测/VERB 的/PART 那/DET 部分/NUM 语言/NOUN 信息/NOUN 可能/VERB 有/VERB 多种/NOUN 不同/ADJ 理解/NOUN ，/PUNCT 因而/ADV 可/VERB 据/ADP 以/PART 作出/VERB 多种/NOUN 不同/VERB 的/PART 预测/NOUN 。/PUNCT
+无论/ADV 是/ADV 哪/DET 一/NUM 种/NUM 情况/NOUN ，/PUNCT 都/ADV 有/VERB 必要/NOUN 重新/ADV 审阅/VERB 前文/VERB ，/PUNCT 或/CCONJ 纠正/VERB 理解/VERB 偏差/NOUN 、/PUNCT 或/CCONJ 领悟/VERB 其中/NOUN 特殊/ADJ 含义/NOUN ，/PUNCT 调整/VERB 理解/NOUN 思路/NOUN 。/PUNCT
+
+预测/VERB 有/VERB 顺向/NOUN 预测/VERB 和/CCONJ 逆向/ADV 预测/VERB 两/NUM 种/NUM ，/PUNCT 如/ADV 上例/VERB 。/PUNCT
+所谓/ADJ 逆向/ADJ 预测/NOUN ，/PUNCT 实为/NOUN 预测/VERB 的/PART 一/NUM 种/NUM 特殊/ADJ 形式/NOUN ，/PUNCT 应用/VERB 于/ADP 已/ADV 知/VERB 下文/NOUN 要/VERB 推知/VERB 上文/NOUN 的/PART 场合/NOUN 。/PUNCT

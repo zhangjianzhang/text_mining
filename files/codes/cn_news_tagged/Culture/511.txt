@@ -1,0 +1,7 @@
+日前/NOUN 辽宁/PROPN 教育/NOUN 出版社/NOUN 吉尼斯/PROPN 申报/NOUN 中心/NOUN 又/ADV 传出/VERB 一/NUM 条/NUM 好/ADJ 消息/NOUN ，/PUNCT 那/PRON 就是/ADV 英国/PROPN 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 有限/ADJ 公司/NOUN 的/PART 中文/NOUN 网站/NOUN 已经/ADV 正式/ADV 开通/VERB ，/PUNCT 中国人/NOUN 可以/VERB 直接/ADV 浏览/VERB 中文版/NOUN 的/PART 网站/NOUN 。/PUNCT
+此/DET 网站/NOUN 由/ADP 英国/PROPN 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 有限/ADJ 公司/NOUN 与其/ADV 在/ADP 中国/PROPN 的/PART 惟一/ADJ 代理/ADJ 机构/NOUN 辽宁/PROPN 教育/NOUN 出版社/NOUN 共同/ADV 主办/VERB 。/PUNCT
+网站/NOUN 以/ADP 中文/NOUN 提供/VERB 几百/NUM 条/NUM 精选/NOUN 的/PART 吉尼斯/PROPN 世界/NOUN 纪录/NOUN ，/PUNCT 专门/ADV 介绍/VERB 了/PART 吉尼斯/PROPN 的/PART 历史/NOUN ，/PUNCT 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 有限/ADJ 公司/NOUN 的/PART 概况/NOUN 和/CCONJ 精彩/ADJ 图片/NOUN 。/PUNCT
+在/ADP 网站/NOUN 上/PART 还有/VERB 对/ADP 常见/ADJ 问题/NOUN 的/PART 解答/NOUN ，/PUNCT 最/ADV 重要/VERB 的/PART 是/VERB 可以/VERB 直接/ADV 在/ADP 网上/NOUN 申报/VERB 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 。/PUNCT
+这是/ADV 辽宁/PROPN 教育/NOUN 出版社/NOUN 与/CCONJ 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 有限/ADJ 公司/NOUN 合作/VERB 的/PART 进一步/ADJ 深入/NOUN 。/PUNCT
+相信/VERB 此/DET 网站/NOUN 的/PART 开通/NOUN 将/ADV 会/VERB 大大/ADV 方便/VERB 中国人/NOUN 了解/VERB 《/PUNCT 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 大全/NOUN 》/PUNCT 的/PART 内容/NOUN 和/CCONJ 申报/VERB 吉尼斯/PROPN 世界/NOUN 纪录/NOUN ，/PUNCT 促进/VERB 吉尼斯/PROPN 在/ADP 中国/PROPN 的/PART 发展/NOUN 。/PUNCT
+　　/SPACE 吉尼斯/PROPN 中文/NOUN 网站/NOUN 地址/NOUN 为/VERB ：/PUNCT http:/X ///PUNCT www.guinnessworldrecords.com/X //PUNCT cn/NOUN 　　/SPACE 即/ADV 在/ADP 吉尼斯/PROPN 世界/NOUN 纪录/NOUN 的/PART 英文/NOUN 网站/NOUN 后/PART 加上/VERB cn/NOUN

@@ -1,0 +1,365 @@
+进球/NOUN （/PUNCT 点/NUM ）/PUNCT
+
+球员/NOUN
+
+球队/NOUN
+
+7/NUM
+
+提科/VERB
+
+浙江/PROPN 绿城/NOUN
+
+5/NUM
+
+杨朋峰/PROPN
+
+广州/PROPN 医药/NOUN
+
+4/NUM (/PUNCT 2/NUM )/NOUN
+
+克劳迪/PROPN
+
+青岛/PROPN 海信/NOUN
+
+3/NUM
+
+维多维奇/PROPN
+
+北京/PROPN 宏登/VERB
+
+3/NUM
+
+卡尔潘/PROPN
+
+江苏/PROPN 舜天/NOUN
+
+3/NUM
+
+尹/PROPN 优优/VERB
+
+江苏/PROPN 舜天/NOUN
+
+3/NUM
+
+唐海/PROPN
+
+成都/PROPN 五/NUM 牛/NOUN
+
+2/NUM
+
+肖智/PROPN
+
+南京/PROPN 有/VERB 有/VERB
+
+2/NUM
+
+卢琳/PROPN
+
+广州/PROPN 医药/NOUN
+
+2/NUM
+
+余顺平/PROPN
+
+江苏/PROPN 舜天/NOUN
+
+2/NUM
+
+姚冰/NOUN
+
+河南/PROPN 建业/VERB
+
+2/NUM
+
+贾伟/PROPN
+
+北京/PROPN 宏登/VERB
+
+2/NUM
+
+黄磊/PROPN
+
+山西路/PROPN 虎/NOUN
+
+2/NUM
+
+罗德里格斯/PROPN
+
+山西路/PROPN 虎/NOUN
+
+2/NUM
+
+王羿/PROPN
+
+成都/PROPN 五/NUM 牛/NOUN
+
+2/NUM (/PUNCT 1/NUM )/NOUN
+
+林久克/PROPN
+
+南京/PROPN 有/VERB 有/VERB
+
+2/NUM
+
+张波/PROPN
+
+青岛/PROPN 海利丰/PROPN
+
+1/NUM
+
+张树栋/PROPN
+
+延边队/NOUN
+
+1/NUM
+
+文虎/NOUN 一/NUM
+
+延边队/NOUN
+
+1/NUM
+
+赵铭/PROPN
+
+延边队/NOUN
+
+1/NUM
+
+于洋/VERB
+
+青岛/PROPN 海信/NOUN
+
+1/NUM
+
+郑伟/PROPN
+
+上海/PROPN 群英/NOUN
+
+1/NUM
+
+罗彤亮/PROPN
+
+湖南/PROPN 湘军/PROPN
+
+1/NUM
+
+路鸣/NOUN
+
+北京/PROPN 宏登/VERB
+
+1/NUM
+
+林震/PROPN
+
+北京/PROPN 宏登/VERB
+
+1/NUM
+
+温小明/PROPN
+
+广州/PROPN 医药/NOUN
+
+1/NUM
+
+赖仕程/PROPN
+
+江苏/PROPN 舜天/NOUN
+
+1/NUM
+
+王琛/PROPN
+
+湖南/PROPN 湘军/PROPN
+
+1/NUM
+
+张远杰/PROPN
+
+湖南/PROPN 湘军/PROPN
+
+1/NUM
+
+吴坪枫/PROPN
+
+江苏/PROPN 舜天/NOUN
+
+1/NUM
+
+陶飞/ADV
+
+南京/PROPN 有/VERB 有/VERB
+
+1/NUM
+
+王锋庆/PROPN
+
+湖南/PROPN 湘军/PROPN
+
+1/NUM
+
+桑托斯/PROPN
+
+成都/PROPN 五/NUM 牛/NOUN
+
+1/NUM
+
+李勇/PROPN
+
+成都/PROPN 五/NUM 牛/NOUN
+
+1/NUM
+
+李明(/PROPN 山东/PROPN )/PROPN
+
+上海/PROPN 群英/NOUN
+
+1/NUM
+
+王金旭/PROPN
+
+青岛/PROPN 海信/NOUN
+
+1/NUM
+
+沈刘曦/PROPN
+
+浙江/PROPN 绿城/NOUN
+
+1/NUM
+
+邹游/NOUN
+
+广州/PROPN 医药/NOUN
+
+1/NUM
+
+舒马/ADV 赫(/ADJ 罗)/PROPN
+
+广州/PROPN 医药/NOUN
+
+1/NUM
+
+奥兰多/PROPN
+
+浙江/PROPN 绿城/NOUN
+
+1/NUM
+
+于大宝/NOUN
+
+青岛/PROPN 海利丰/PROPN
+
+1/NUM
+
+陈波/NOUN
+
+江苏/PROPN 舜天/NOUN
+
+1/NUM
+
+桑德/NOUN
+
+青岛/PROPN 海信/NOUN
+
+1/NUM
+
+徐文斌/PROPN
+
+上海/PROPN 群英/NOUN
+
+1/NUM
+
+陈栋/PROPN
+
+上海/PROPN 群英/NOUN
+
+1/NUM
+
+郑林国/PROPN
+
+延边队/NOUN
+
+1/NUM
+
+王博/NOUN
+
+南昌/PROPN 八一/NOUN
+
+1/NUM
+
+顾中庆/PROPN
+
+南昌/PROPN 八一/NOUN
+
+1/NUM
+
+蔡楚川/PROPN
+
+浙江/PROPN 绿城/NOUN
+
+1/NUM
+
+黄隆/PROPN
+
+浙江/PROPN 绿城/NOUN
+
+1/NUM
+
+李龙/PROPN
+
+上海/PROPN 群英/NOUN
+
+1/NUM
+
+吉尔伯特/PROPN
+
+江苏/PROPN 舜天/NOUN
+
+1/NUM
+
+刘翔/PROPN
+
+河南/PROPN 建业/VERB
+
+1/NUM
+
+陆峰/PROPN
+
+河南/PROPN 建业/VERB
+
+1/NUM
+
+汪嵩/PROPN
+
+成都/PROPN 五/NUM 牛/NOUN
+
+1/NUM
+
+曲圣卿/NOUN
+
+南京/PROPN 有/VERB 有/VERB
+
+1/NUM
+
+李潍良/PROPN
+
+南京/PROPN 有/VERB 有/VERB
+
+1/NUM
+
+崔光浩/PROPN
+
+南京/PROPN 有/VERB 有/VERB
+
+1/NUM
+
+马成/PROPN
+
+浙江/PROPN 绿城/NOUN
+
+1/NUM (/PUNCT 1/NUM )/NOUN
+
+丹尼洛夫/PROPN
+
+北京/PROPN 宏登/VERB

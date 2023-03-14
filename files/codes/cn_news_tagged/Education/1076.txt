@@ -1,0 +1,71 @@
+None/NOUN are/VERB so/ADV blind/PROPN as/ADP those/NOUN who/NOUN
+
+won't/PROPN see/VERB ./PUNCT
+
+视而不见/VERB 。/PUNCT
+
+None/NOUN are/VERB so/VERB deaf/PROPN as/ADJ those/NOUN who/NOUN
+
+won't/PROPN hear/NOUN ./PUNCT
+
+充耳不闻/VERB 。/PUNCT
+
+No/ADV news/PROPN is/VERB good/ADV news/PROPN ./PUNCT
+
+没有/VERB 消息/NOUN 就是/ADV 好/ADJ 消息/NOUN 。/PUNCT
+
+No/ADV one/NOUN can/VERB call/NOUN back/PROPN yesterday/VERB ./PUNCT
+
+昨日/NOUN 不/ADV 会/VERB 重现/VERB 。/PUNCT
+
+No/ADJ pains/NOUN ,/PUNCT no/NOUN gains/NOUN ./PUNCT
+
+没有/ADV 付出/VERB 就/ADV 没有/VERB 收获/NOUN 。/PUNCT
+
+No/ADV pleasure/NOUN without/VERB pain/VERB ./PUNCT
+
+没有/ADV 苦/VERB 就/ADV 没有/VERB 乐/NOUN 。/PUNCT
+
+No/ADV rose/ADV without/ADP a/DET thorn/NOUN ./PUNCT
+
+没有/VERB 不/ADV 带刺/VERB 的/PART 玫瑰/NOUN 。/PUNCT
+
+No/ADV sweet/VERB without/VERB sweat/VERB ./PUNCT
+
+先苦/PROPN 后甜/NOUN 。/PUNCT
+
+No/ADV smoke/NOUN without/ADV fire/VERB ./PUNCT
+
+无风不起浪/VERB 。/PUNCT
+
+Nothing/PROPN brave/PROPN ,/PUNCT nothing/VERB have/PROPN ./PUNCT
+
+不入虎穴/VERB ，/PUNCT 焉得虎子/VERB 。/PUNCT
+
+Nothing/PROPN dries/PROPN sooner/NOUN than/NOUN
+
+a/NUM tear/NOUN ./PUNCT
+
+眼泪/NOUN 干/VERB 得/PART 最/ADV 快/VERB 。/PUNCT
+
+Nothing/PROPN in/ADP the/DET world/NOUN is/VERB difficult/NOUN
+
+for/PROPN one/NOUN who/NOUN sets/VERB his/NOUN mind/NOUN to/ADP it/NOUN ./PUNCT
+
+世上无难事/VERB ，/PUNCT 只怕有心人/VERB 。/PUNCT
+
+Nothing/PROPN is/VERB difficult/NOUN to/ADP the/DET man/NOUN
+
+who/NOUN will/PROPN try/NOUN ./PUNCT
+
+世上无难事/NOUN ，/PUNCT 只要/SCONJ 肯/VERB 登攀/VERB 。/PUNCT
+
+Nothing/PROPN seek/NOUN ,/PUNCT nothing/VERB find/VERB ./PUNCT
+
+没有/ADV 追求/VERB 就/ADV 没有/VERB 收获/NOUN 。/PUNCT
+
+Not/NOUN to/ADP advance/PROPN is/VERB to/ADP go/VERB back/PROPN ./PUNCT
+
+不进则退/VERB 。/PUNCT
+
+来源/NOUN ：/PUNCT 大连/PROPN 日报/NOUN

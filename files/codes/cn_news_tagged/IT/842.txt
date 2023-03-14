@@ -1,0 +1,19 @@
+[赛/PROPN 迪/ADJ 网讯/PROPN ]/NOUN 5月/NOUN 7日/NOUN 消息/NOUN ，/PUNCT 一些/NUM 独立/ADJ 软件/NOUN 开发者/NOUN 日前/NOUN 开发/VERB 出/VERB 一/NUM 款/NUM 软件/NOUN ，/PUNCT 可以/VERB 使/VERB 微软Office/NOUN 格式/NOUN 文件/NOUN 在/ADP 标准化/ADV 开放/VERB 文档/NOUN 格式OpenDocument/NOUN 环境/NOUN 中/PART 打开/VERB ，/PUNCT 使得/VERB 此前/ADV 相互/ADV 独立/VERB 的/PART 两/NUM 种/NUM 应用/NOUN 环境/NOUN 实现/VERB 兼容/NOUN 。/PUNCT
+
+据/ADP 国外/NOUN 媒体/NOUN 报道/VERB ，/PUNCT OpenDocument/PROPN 基金会/NOUN 创始人/NOUN 、/PUNCT OpenOffice.org/NOUN 开放/NOUN 源/VERB 项目/NOUN 的/PART 参与者/NOUN 加里·爱德/PROPN 华兹/PROPN 工程师/NOUN 本周四/NOUN 在/ADP Groklaw/PROPN 网站/NOUN 上/PART 讨论/VERB 了/PART 两/NUM 种/NUM 软件/NOUN 的/PART 兼容/NOUN 问题/NOUN 。/PUNCT
+利用/VERB 部分/NUM 软件/NOUN 开发者/NOUN 编写/VERB 的/PART 程序/NOUN ，/PUNCT 可以/VERB 将/X Office/NOUN 文档/NOUN 格式/NOUN 转化/VERB 为/VERB OpenDocument格式/PROPN 。/PUNCT
+微软/PROPN 曾/ADV 表示/VERB ，/PUNCT Office/NOUN 2007/NOUN 不/ADV 会/VERB 对/ADP 　/SPACE OpenDocument/NOUN 提供/VERB 支持/NOUN
+
+分析/NOUN 人士/NOUN 指出/VERB ，/PUNCT 使用/VERB 上述/ADJ 新/ADJ 开发/NOUN 的/PART 软件/NOUN 插件/VERB ，/PUNCT 用户/NOUN 可/VERB 偶尔/ADV 在/ADP OpenDocument/PROPN 环境/NOUN 下/PART 使用/VERB 微软/PROPN 的/PART 产品/NOUN ，/PUNCT 从/ADP 长远/NOUN 来看/PART ，/PUNCT 上述/ADJ 文档/NOUN 标准/NOUN 的/PART 广泛/ADJ 推广/NOUN 可以/VERB 减少/VERB 人们/NOUN 对于/ADP 微软/PROPN 产品/NOUN 的/PART 依赖/NOUN 。/PUNCT
+爱德华兹/NOUN 表示/VERB ，/PUNCT 新/ADJ 软件/NOUN 播放/VERB 开发/NOUN 历时/VERB 一/NUM 年/NUM ，/PUNCT 上周/NOUN 刚刚/ADV 完成/VERB 首次/ADJ 测试/NOUN ，/PUNCT 可以/VERB 在/ADP 微软Office/NOUN 环境/NOUN 下/PART 处理/VERB OpenDocument格式/PROPN （/PUNCT ODF/PROPN ）/PUNCT 格式/PROPN 文档/VERB 。/PUNCT
+
+如果/SCONJ 上述/ADJ 插件/VERB 的/PART 功能/NOUN 与/CCONJ 描述/NOUN 中/PART 的/PART 一致/NOUN ，/PUNCT 那么/ADV 这/PRON 将/ADV 为/ADP 微软/PROPN 与/CCONJ OpenDocument/PROPN 支持者/NOUN 之间/PART 的/PART 较量/NOUN 增加/VERB 新/VERB 的/PART 变数/NOUN 。/PUNCT
+OpenDocument/PROPN 最近/NOUN 引起/VERB 了/PART 各个/DET 政府/NOUN 的/PART 广泛/ADJ 关注/NOUN 。/PUNCT
+
+微软/PROPN 曾/ADV 表示/VERB ，/PUNCT 即将/ADV 于/ADP 今年底/NOUN 推出/VERB 的/PART Office/NOUN 2007/NOUN 不/ADV 会/VERB 支持/VERB OD/VERB F格式/NOUN ，/PUNCT 微软/PROPN 高层/NOUN 表示/VERB ，/PUNCT 目前/NOUN 的/PART 相关/ADJ 需求/NOUN 并/ADV 不大/VERB ，/PUNCT 并且/ADV 与/ADP 微软/PROPN 产品/NOUN 相比OpenDocument/VERB 的/PART 功能/NOUN 非常/ADV 有限/VERB 。/PUNCT
+业界/NOUN 一/NUM 名/NUM 分析师/NOUN 斯蒂芬·奥格兰迪/PROPN 表示/VERB ，/PUNCT 拥有/VERB 第三方/NUM 产品/NOUN 可以/VERB 在/ADP OpenDocument/PROPN 环境/NOUN 下/PART 保存/VERB Office/NOUN 文档/NOUN ，/PUNCT 因此/ADV 大大/ADV 有利于/VERB OpenDocument/PROPN 系列/ADJ 产品/NOUN 的/PART 市场/NOUN 推广/NOUN 。/PUNCT
+
+OpenDocument/PROPN 是/VERB 开/VERB 放源/VERB 桌面/NOUN 应用/NOUN 产品/NOUN OpenOffice/PROPN 最/ADV 基本/ADJ 的/PART 内容/NOUN ，/PUNCT 以下/PRON 环境/NOUN 中都/PART 提供/VERB 支持/NOUN ，/PUNCT 包括/VERB KOffice/PROPN 、/PUNCT Sun/NOUN Microsystems/PROPN 的/PART StarOffice/PROPN 和/CCONJ IBM/PROPN 的/PART Workplace/NOUN 等/PART 。/PUNCT
+
+本周五/NOUN ，/PUNCT 微软/PROPN 信息/NOUN 工作者/NOUN 商业/NOUN 部门/NOUN 总经理/NOUN 阿兰·亚兹/PROPN 表示/VERB ，/PUNCT 微软/PROPN 没有/ADV 参与/VERB 上述/ADJ 插件/NOUN 的/PART 开发/NOUN ，/PUNCT 不过/ADV 他/PRON 也/ADV 表示/VERB ，/PUNCT 对于/ADP 该/DET 插件/VERB 他/PRON 也/ADV 丝毫/ADV 不/ADV 感到/VERB 惊奇/VERB 。/PUNCT
+亚兹/PROPN 表示/VERB ：/PUNCT “/PUNCT 事实上/ADV 我们/PRON 一直/ADV 希望/VERB 第三方/PROPN 开发/VERB 出/VERB 可/VERB 实现/VERB 不同/ADJ 文档/NOUN 之间/PART 转移/VERB 的/PART 工具/NOUN ”/PUNCT 。/PUNCT

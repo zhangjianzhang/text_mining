@@ -1,0 +1,8 @@
+记者/NOUN １８日/NOUN 从/ADP 铁道部/NOUN 了解/VERB 到/VERB ，/PUNCT 铁道部/NOUN 日前/NOUN 要求/VERB 全/DET 铁路/NOUN 系统/NOUN 抓好/VERB 第六/NUM 次/NUM 大面积/ADJ 提速/NOUN 基础/NOUN 工程/NOUN 改造/NOUN 和/CCONJ 机车/NOUN 车辆/NOUN 准备/VERB 工作/VERB ，/PUNCT 修订/VERB 完善/VERB 相关/ADJ 规章/NOUN 制度/NOUN ，/PUNCT 确保/VERB 今年/NOUN １０月/NOUN １日/NOUN 前/PART 铁路/NOUN 第六/NUM 次/NUM 大/ADJ 提速/NOUN 的/PART 各项/ADJ 准备/NOUN 工作/NOUN 全部/ADV 到位/VERB 。/PUNCT
+
+铁路/NOUN 第六/NUM 次/NUM 大/ADJ 提速/NOUN 将/ADV 首次/ADV 在/ADP 既有/VERB 提速/NOUN 干线/NOUN 开行/VERB 时速/NOUN ２００/NUM 公里/NUM 动车组/NOUN ，/PUNCT 以及/CCONJ 时速/NOUN １２０/NUM 公里/NUM 、/PUNCT 载重/ADJ ５０００/NUM 吨/NUM 货运/NOUN 重载/ADJ 列车/NOUN 。/PUNCT
+
+铁道部/NOUN 表示/VERB ，/PUNCT 铁路/NOUN 部门/NOUN 将/ADV 全力/ADV 做好/VERB 时速/NOUN ２００/NUM 公里/NUM 动车组/NOUN 和/CCONJ 大功率/NOUN 机车/NOUN 运行/NOUN 试验/NOUN ，/PUNCT 加快/VERB 时速/NOUN １２０/NUM 公里/NUM 提速/NOUN 货车/NOUN 的/PART 改造/NOUN 进度/NOUN ，/PUNCT 确保/VERB 安全/NOUN 可靠/VERB 地/PART 投入/VERB 运营/NOUN 。/PUNCT
+
+目前/NOUN ，/PUNCT 铁路/NOUN 部门/NOUN 正/ADV 抓紧/VERB 组织/NOUN 制订/VERB 时速/NOUN ２００/NUM 公里/NUM 条件/NOUN 下/PART 的/PART 技术/NOUN 标准/NOUN 、/PUNCT 作业/NOUN 标准/NOUN 和/CCONJ 规章/NOUN 办法/NOUN ，/PUNCT 同时/ADV 深入/ADV 研究/VERB 确定/VERB 客货/NOUN 产品/NOUN 结构/NOUN 、/PUNCT 列车/NOUN 开行/NOUN 、/PUNCT 车流/NOUN 径路/VERB 和/CCONJ 编组/NOUN 计划/NOUN 的/PART 调整/NOUN 方案/NOUN 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

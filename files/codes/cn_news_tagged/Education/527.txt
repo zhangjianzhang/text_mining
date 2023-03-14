@@ -1,0 +1,156 @@
+IELTS/PROPN 写作/NOUN 部分/NOUN 的/PART 答题/NOUN 说明/VERB 从/ADP 2006年/NOUN 1月/NOUN 起/PART 将/ADV 有/VERB 调整/NOUN :/PUNCT
+
+从/ADP 2006年/NOUN 1月/NOUN 开始/PART ，/PUNCT IELTS/NOUN 考试/VERB 写作/NOUN 部分/NOUN 的/PART 答题/NOUN 说明/VERB 将/ADV 有/VERB 调整/NOUN 。/PUNCT
+变化/NOUN 的/PART 目的/NOUN 是/VERB 为了/ADP 帮助/VERB 考生/NOUN 更加/ADV 准确/VERB 的/PART 理解/VERB 写作/NOUN 要求/NOUN 。/PUNCT
+以下/PRON 列出/VERB 了/PART 具体/ADJ 变化/NOUN 和/CCONJ 调整/VERB 后/PART 的/PART 写作/NOUN 范例/NOUN 。/PUNCT
+
+IELTS/PROPN 学术/NOUN 类/NOUN 写作/NOUN 任务/NOUN 1/NUM
+
+IELTS/PROPN 培训/VERB 类/NUM 写作/NOUN 任务/NOUN 1/NUM
+
+为/ADP 大学/NOUN 讲师/VERB 写/VERB 一/NUM 篇/NUM 报告/NOUN ，/PUNCT 介绍/VERB 以下/ADJ 信息/NOUN 。/PUNCT
+
+已/ADV 改为/VERB ：/PUNCT
+
+通过/ADP 选择/NOUN 和/CCONJ 描述/VERB 主要/ADJ 特征/NOUN ，/PUNCT 对/ADP 信息/NOUN 进行/VERB 概括/NOUN 总结/NOUN ，/PUNCT 并/ADV 作/VERB 相应/ADJ 比较/NOUN 。/PUNCT
+
+你/PRON 无需/ADV 写出/VERB 自己/PRON 的/PART 地址/NOUN 。/PUNCT
+
+已/ADV 改为/VERB ：/PUNCT
+
+你/PRON 无需/ADV 写出/VERB 任何/DET 地址/NOUN 。/PUNCT
+
+IELTS/PROPN 学术/NOUN 类/NOUN 写作/NOUN 任务/NOUN 2/NUM
+
+IELTS/PROPN 培训/VERB 类/NUM 写作/NOUN 任务/NOUN 1/NUM
+
+向/ADP 一个/ADV 受/VERB 过/PART 教育/NOUN 但/ADV 不/ADV 具备/VERB 涉及/VERB 下列/ADJ 题目/NOUN 专业/NOUN 知识/NOUN 的/PART 读者/NOUN 写/VERB 一/NUM 篇/NUM 书面/ADJ 的/PART 议论/NOUN 或/CCONJ 案例/NOUN 。/PUNCT
+
+你/PRON 需要/VERB 用/ADP 自己/PRON 的/PART 观点/NOUN 、/PUNCT 知识/NOUN 和/CCONJ 经历/NOUN 并/CCONJ 结合/VERB 例子/NOUN 以及/CCONJ 相关/ADJ 论证/NOUN 来/PART 支撑/VERB 你/PRON 的/PART 论点/NOUN 。/PUNCT
+
+已/ADV 改为/VERB ：/PUNCT
+
+围绕/VERB 以下/ADJ 主题/NOUN 作文/NOUN ：/PUNCT
+
+给出/VERB 你/PRON 回答/VERB 的/PART 理由/NOUN ，/PUNCT 包括/VERB 任何/DET 从/ADP 你/PRON 自己/PRON 的/PART 知识/NOUN 或/CCONJ 亲身/ADV 经历/NOUN 所/PART 获得/VERB 的/PART 相关/ADJ 例子/NOUN 。/PUNCT
+
+注意/VERB ：/PUNCT 学术/NOUN 写作/NOUN 部分/NUM 要求/VERB 考生/NOUN 在/ADP 写作/NOUN 风格/NOUN 上/PART 与/ADP 学术/NOUN 氛围/NOUN 一致/VERB 。/PUNCT
+因此/ADV ，/PUNCT 要求/VERB 考生/NOUN 写作/NOUN 语体/NOUN 正式/ADV 规范/VERB 。/PUNCT
+
+给出/VERB 你/PRON 回答/VERB 的/PART 理由/NOUN ，/PUNCT 包括/VERB 任何/DET 从/ADP 你/PRON 亲身/ADV 经历/VERB 所/PART 获得/VERB 的/PART 相关/ADJ 例子/NOUN 。/PUNCT
+
+已/ADV 改为/VERB ：/PUNCT
+
+给出/VERB 你/PRON 回答/VERB 的/PART 理由/NOUN ，/PUNCT 包括/VERB 任何/DET 从/ADP 你/PRON 自己/PRON 的/PART 知识/NOUN 或/CCONJ 亲身/ADV 经历/NOUN 所/PART 获得/VERB 的/PART 相关/ADJ 例子/NOUN 。/PUNCT
+
+[/PROPN 翻译稿/NOUN ,/PUNCT 仅/ADV 作/VERB 参考/NOUN ,/PUNCT 内容/NOUN 应/VERB 以/ADP 英文/NOUN 为/VERB 准]/NOUN
+
+Changes/PROPN to/ADP IELTS/PROPN
+
+Writing/PROPN rubrics/NOUN from/ADP January/NOUN 2006/NOUN
+
+From/ADP January/NOUN 2006/NOUN there/NOUN
+
+are/VERB a/NUM number/NOUN of/ADP changes/PROPN to/ADP the/DET IELTS/NOUN Writing/NOUN rubrics/NOUN ./PUNCT
+These/PROPN changes/NOUN are/VERB to/VERB be/NOUN
+
+introduced/NOUN in/NOUN order/NOUN to/ADP further/NOUN clarify/NOUN what/NOUN candidates/PROPN are/VERB expected/VERB to/ADP write/PROPN ./PUNCT
+
+The/DET changes/NOUN are/VERB outlined/VERB below/VERB ./PUNCT
+Overleaf/PROPN are/VERB examples/VERB of/ADP tasks/NOUN that/ADV include/VERB the/DET
+
+new/NOUN rubrics/NOUN ./PUNCT
+
+IELTS/PROPN Academic/NOUN
+
+Writing/VERB Task/VERB 1/NUM
+
+IELTS/PROPN General/PROPN
+
+Training/PROPN Writing/NOUN
+Task/NOUN 1/NUM
+
+Write/NOUN a/NUM report/NOUN
+
+for/ADP a/DET university/NOUN lecturer/NOUN describing/NOUN the/DET information/NOUN
+
+below/VERB ./PUNCT
+
+has/PROPN been/NOUN replaced/NOUN
+with/PROPN
+
+Summarise/PROPN the/DET
+
+information/NOUN by/CCONJ selecting/NOUN and/CCONJ reporting/VERB the/DET main/NOUN features/NOUN ,/PUNCT and/CCONJ make/NOUN comparisons/VERB
+
+where/NOUN relevant/VERB ./PUNCT
+
+You/PRON do/VERB NOT/PROPN
+
+need/VERB to/ADP write/PROPN your/PRON own/NOUN address/VERB ./PUNCT
+
+has/PROPN been/NOUN replaced/NOUN
+with/PROPN
+
+You/PRON do/VERB NOT/PROPN
+
+need/VERB to/ADP write/PROPN any/NOUN addresses/VERB ./PUNCT
+
+IELTS/PROPN Academic/NOUN
+
+Writing/VERB Task/VERB 2/NUM
+
+IELTS/PROPN General/PROPN
+
+Training/PROPN Writing/NOUN
+Task/VERB 2/NUM
+
+Present/PROPN a/NUM
+
+written/PROPN argument/VERB or/CCONJ case/NOUN to/ADP an/PROPN educated/VERB reader/NOUN with/ADP no/NOUN specialist/NOUN knowledge/VERB
+of/ADP
+
+the/DET following/NOUN topic/NOUN ./PUNCT
+
+You/PROPN should/PROPN use/NOUN
+
+your/PRON own/NOUN id/VERB eas/NOUN ,/PUNCT knowledge/VERB and/CCONJ experience/VERB and/CCONJ support/NOUN your/PRON arguments/VERB with/PRON
+
+examples/VERB and/CCONJ relevant/NOUN evidence/VERB ./PUNCT
+
+has/PROPN been/NOUN replaced/NOUN
+with/PROPN
+
+Write/NOUN about/PROPN
+
+the/DET following/NOUN topic/NOUN :/PUNCT
+
+Give/NOUN reasons/NOUN
+
+for/ADP your/PRON answer/VERB and/CCONJ include/ADJ any/PROPN relevant/NOUN examples/ADP from/ADP your/PRON own/NOUN knowledge/PROPN or/CCONJ
+
+experience/VERB ./PUNCT
+
+It/NOUN is/VERB
+
+important/PROPN to/ADP note/PROPN that/NOUN in/ADP the/DET Academic/NOUN Writing/NOUN module/NOUN candidates/PROPN are/VERB expected/VERB to/ADP
+
+write/NOUN in/ADP a/NUM style/NOUN appropriate/VERB to/ADP an/DET academic/NOUN context/VERB ./PUNCT
+The/DET writing/NOUN should/VERB
+
+therefore/NOUN be/NOUN formal/VERB ./PUNCT
+
+Give/NOUN reasons/NOUN
+
+for/ADP your/PRON answer/VERB and/CCONJ include/ADJ any/PROPN relevant/NOUN examples/ADP from/ADP your/PRON experience/VERB ./PUNCT
+
+has/PROPN been/NOUN replaced/NOUN
+with/PROPN
+
+Give/NOUN reasons/NOUN
+
+for/ADP your/PRON answer/VERB and/CCONJ include/ADJ any/PROPN relevant/NOUN examples/ADP from/ADP your/PRON own/NOUN knowledge/PROPN or/CCONJ
+
+experience/VERB ./PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 无忧雅思/VERB 网)/NOUN

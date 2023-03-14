@@ -1,0 +1,59 @@
+Absolutely/PROPN ！/PUNCT
+——/PUNCT 绝对/ADV 正确/VERB ！/PUNCT
+
+Adorable!/NOUN ——/PUNCT 可爱/VERB 极了/VERB ！/PUNCT
+
+Amazing!/NOUN ——/PUNCT 太/ADV 神/VERB 了/PART ！/PUNCT
+
+Anytime/PROPN !/PUNCT
+——/PUNCT 随时/ADV 吩咐/VERB ！/PUNCT
+
+Almost!/NOUN ——/PUNCT 差不多/VERB 了/PART ！/PUNCT
+
+Awful!/NOUN ——/PUNCT 好/VERB 可怕/VERB 呀/PART ！/PUNCT
+
+After/PROPN you/PRON ./PUNCT
+——/PUNCT 您/PRON 先/ADV 。/PUNCT
+
+About/PROPN when/VERB ?/PUNCT
+——/PUNCT 大约/ADV 何时/VERB ？/PUNCT
+
+All/PROPN set/NOUN ?/PUNCT
+——/PUNCT 一切/DET 妥当/NOUN ？/PUNCT
+
+Allow/PROPN me!/PUNCT ——/PUNCT 让/VERB 我/PRON 来/VERB ！/PUNCT
+
+Baloney/PROPN !/PUNCT ——/PUNCT 胡扯/PROPN ！/PUNCT
+荒谬/VERB ！/PUNCT
+
+Behave!/NOUN ——/PUNCT 放尊/VERB 重点/NOUN ！/PUNCT
+
+Bing/NOUN o!/NOUN ——/PUNCT 中/PROPN 了/PART ！/PUNCT
+
+Boring!/PROPN ——/PUNCT 真/ADV 无聊/VERB ！/PUNCT
+
+Bravo!/NOUN ——/PUNCT 太/ADV 棒/VERB 了/PART ！/PUNCT
+
+Bullshit!/NOUN ——/PUNCT 胡说/PROPN ！/PUNCT
+
+Cheer/NOUN s!/NOUN ——/PUNCT 干杯/NOUN ！/PUNCT
+
+Congratulation/NOUN s!/NOUN ——/PUNCT 恭喜/VERB 啊/PART ！/PUNCT
+
+Correct/NOUN !/PUNCT
+——/PUNCT 对/VERB 的/PART ！/PUNCT
+
+Crazy/NOUN !/PUNCT ——/PUNCT 疯/VERB 了/PART ！/PUNCT
+
+Damn!/ADV ——/PUNCT
+该死/INTJ 的/PART ！/PUNCT
+
+Deal!/NOUN ——/PUNCT 一言为定/NOUN ！/PUNCT
+
+Definitely/PROPN !/PUNCT ——/PUNCT 当然/ADV ！/PUNCT
+
+Disgusting!/VERB ——/PUNCT 好/ADV 恶心/VERB 呀/PART ！/PUNCT
+
+Drat!/NOUN ——/PUNCT 讨厌/VERB ！/PUNCT
+
+来源/NOUN :/PUNCT 英语/NOUN 联盟/NOUN

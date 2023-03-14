@@ -1,0 +1,301 @@
+海螺/PROPN 沟景区/NOUN 管理局/NOUN
+
+金鼎/PROPN 国际/NOUN 旅行社/NOUN
+
+甘孜州/PROPN 旅游局/NOUN
+
+金山/PROPN 旅行社/NOUN
+
+天地人/NOUN 旅行社/NOUN
+
+九寨沟/PROPN 网络/NOUN 国际/NOUN 旅行社/NOUN ../PUNCT
+
+光大/NOUN 旅行社/NOUN
+
+华蓥山/PROPN 旅行社/NOUN
+
+交通/NOUN 旅行社/NOUN
+
+黄金/ADJ 旅行社/NOUN
+
+杰宇/PROPN 旅行社/NOUN
+
+阿坝州/PROPN 九寨沟/PROPN 神鹰/NOUN 旅行/NOUN ../PUNCT
+
+黄花梨/PROPN 度假村/NOUN
+
+灵泉/ADJ 风景区/NOUN
+
+大/ADJ 英死/NOUN 海/NOUN
+
+九寨沟/PROPN 春秋/PROPN 旅行社/NOUN 有限/VERB ../PUNCT
+
+乐山/PROPN 金鹰山/NOUN 庄景区/PROPN
+
+阿坝州/PROPN 九寨沟/PROPN 青年/NOUN 旅行/NOUN ../PUNCT
+
+乐山/PROPN 是/VERB 嘉州/NOUN 宾馆/NOUN
+
+阿坝州/PROPN 西部/NOUN 青年/NOUN 旅行社/NOUN ../PUNCT
+
+南充市/PROPN 西山/PROPN 风景区/NOUN 管理局/NOUN
+
+北湖/PROPN 宾馆/NOUN
+
+九寨沟县/NOUN 九龙/NOUN 宾馆/NOUN
+
+华荣/PROPN 酒店/NOUN
+
+酒/NOUN 都/ADV 饭店/NOUN
+
+九寨/NOUN 沟格/NOUN 桑宾馆/PROPN
+
+天津/PROPN 经典/ADJ 假期/NOUN 国际/NOUN 旅行社/NOUN
+
+天泰/NOUN 假日/NOUN 温泉/NOUN 高尔夫/NOUN 俱乐/VERB
+
+四川/PROPN 商旅/NOUN 旅行社/NOUN 有限/ADJ 公司/NOUN
+
+秦皇岛市/PROPN 海港区/PROPN 旅游/VERB 开/VERB ../PUNCT
+
+新疆华/PROPN 凌大/NOUN 饭店/NOUN 有/VERB 限责/NOUN ../PUNCT
+
+龙胜/PROPN 各族/PROPN 自治县/NOUN 旅游局/NOUN
+
+海口/PROPN 花开四季/NOUN 温泉/PROPN 海景/NOUN ../PUNCT
+
+兰州/PROPN 天涯/NOUN 旅行社/NOUN
+
+上海/PROPN 旅行社/NOUN 有限/ADJ 公司/NOUN
+
+海洋/NOUN 国际/NOUN 旅行社/NOUN 总社/NOUN
+
+黑龙江省/PROPN 漠河/NOUN 旅游局/NOUN
+
+兰州/PROPN 驼铃/NOUN 旅行社/NOUN
+
+福建/PROPN 莆田/PROPN 湄洲岛/PROPN 国家/NOUN 旅/NOUN ../PUNCT
+
+河北省/PROPN 昌黎县/PROPN 旅游局/NOUN
+
+青岛市/PROPN 旅游局/NOUN
+
+青岛/PROPN 胶南市/NOUN 旅游局/NOUN
+
+青岛市/PROPN 开发区/NOUN 旅游局/NOUN
+
+青岛/PROPN 海底/NOUN 世界/NOUN
+
+济南市/PROPN 旅游局/NOUN
+
+烟台市/NOUN 旅游局/NOUN
+
+宁波市/PROPN 旅游局/NOUN
+
+威海/PROPN 刘公岛/PROPN 博览园/NOUN
+
+河北省/PROPN 石家庄市/PROPN 旅游局/NOUN
+
+河北省/PROPN 正定县/PROPN 文物/NOUN 旅游局/NOUN
+
+河北省/PROPN 平山县/PROPN 旅游局/NOUN
+
+河北省/PROPN 赵县/PROPN 文物/NOUN 旅游局/NOUN
+
+广州市/PROPN 旅游局/NOUN
+
+浙江省/PROPN 舟山/PROPN 旅游局/NOUN
+
+河北省/PROPN 秦皇岛/PROPN 市山/NOUN 海关/NOUN ../PUNCT
+
+桐庐县/ADJ 风景/NOUN 旅游局/NOUN
+
+河北省/PROPN 秦皇岛市/PROPN 北戴河/PROPN ../PUNCT
+
+富阳市/PROPN 风景/NOUN 旅游局/NOUN
+
+徐州市/PROPN 旅游局/NOUN
+
+马鞍山市/PROPN 旅游局/NOUN
+
+扬州市/PROPN 旅游局/NOUN
+
+镇江市/PROPN 旅游局/NOUN
+
+南京市/PROPN 旅游局/NOUN
+
+上海市/PROPN 徐汇区/PROPN 旅游/NOUN 管理局/NOUN
+
+长岛县/PROPN 旅游局/NOUN
+
+威海市/PROPN 旅游局/NOUN
+
+齐齐哈尔市/PROPN 旅游局/NOUN
+
+海南/PROPN 民间/NOUN 旅行社/NOUN 有限/ADJ 公司/NOUN
+
+烟台/PROPN 海峡/NOUN 国际/NOUN 旅行社/NOUN
+
+中国/PROPN 甲午战争/PROPN 博物馆/NOUN
+
+余姚市/PROPN 旅游局/NOUN
+
+绍兴市/PROPN 文化/NOUN 旅游/NOUN 集团/NOUN 有/VERB ../PUNCT
+
+桂林市/PROPN 漓江/VERB 游览/NOUN 开发/NOUN 总公/NOUN
+
+九寨沟/PROPN 风景/NOUN 名胜区/NOUN 管理局/NOUN
+
+西双版纳州/PROPN 旅游局/NOUN
+
+深圳市/PROPN 旅游局/NOUN
+
+张家界市旅游局/PROPN
+
+长沙市/PROPN 旅游局/NOUN
+
+乌鲁木齐/PROPN 前海/NOUN 旅行社/NOUN 有/VERB ../PUNCT
+
+秦皇岛/PROPN 国际/NOUN 旅行社/NOUN 有限/ADJ 公/NOUN
+
+茂名市/PROPN 放鸡岛/NOUN 旅游/VERB 开发/VERB ../PUNCT
+
+江门市/PROPN 旅游局/NOUN
+
+中山市/NOUN 旅游局/NOUN
+
+南海市/PROPN 旅游局/NOUN
+
+洛阳/PROPN 石化/NOUN 宏达/PROPN 实业/NOUN 总公/NOUN ../PUNCT
+
+同业/NOUN 旅游/NOUN 联盟/NOUN
+
+河北省/PROPN 秦皇岛/PROPN 市山/NOUN 海关/NOUN ../PUNCT
+
+宁夏/PROPN 职工/NOUN 旅行社/NOUN
+
+宁夏/PROPN 海外/NOUN 旅游/NOUN 总公司/NOUN
+
+青海/PROPN 海外/NOUN 国际/NOUN 旅行社/NOUN 有/VERB ../PUNCT
+
+福州市/PROPN 旅游局/NOUN
+
+福建省/PROPN 康辉/NOUN 国际/NOUN 旅行社/NOUN
+
+厦门市/PROPN 旅游局/NOUN
+
+厦门市/PROPN 思明/NOUN 旅游/NOUN 园林局/NOUN
+
+厦门市/PROPN 同安区/NOUN 旅游局/NOUN
+
+厦门/PROPN 建发/VERB 国际/NOUN 旅行社/NOUN 有/VERB ../PUNCT
+
+宁夏/PROPN 管/VERB 大/ADJ 旅行社/NOUN
+
+重庆市/PROPN 黔江区/NOUN 旅游局/NOUN
+
+重庆/PROPN 兴澳海底世界/NOUN 生物/NOUN ../PUNCT
+
+珠海市/PROPN 旅游局/NOUN
+
+韶关市/ADJ 旅游局/NOUN
+
+佛山市/PROPN 旅游局/NOUN
+
+银川/NOUN 驼铃/NOUN 旅游/NOUN 文化/NOUN 传播/NOUN ../PUNCT
+
+淮南市/PROPN 旅游局/NOUN
+
+阜阳市/PROPN 旅游局/NOUN
+
+六安市/NOUN 旅游局/NOUN
+
+淮北市/PROPN 旅游局/NOUN
+
+贵阳市/PROPN 旅游局/NOUN
+
+遵义市/PROPN 旅游局/NOUN
+
+安顺市/PROPN 旅游局/NOUN
+
+毕节/PROPN 地区/NOUN 旅游局/NOUN
+
+六盘水市/NUM 旅游局/NOUN
+
+黔西南州/VERB 旅游局/NOUN
+
+黔东南州/PROPN 旅游局/NOUN
+
+黔南州/PROPN 旅游局/NOUN
+
+延安市/PROPN 旅游局/NOUN
+
+汉阳陵/NOUN 博物苑/NOUN 工程/NOUN 指挥部/NOUN
+
+海口市/PROPN 旅游局/NOUN
+
+万宁市/PROPN 旅游局/NOUN
+
+北京/PROPN 校官/NOUN 方队/NOUN 教育/NOUN 咨询/NOUN ../PUNCT
+
+陵水县/NOUN 旅游局/NOUN
+
+昌平区/NOUN 十三陵/PROPN 特区/NOUN 办事处/NOUN
+
+海南/PROPN 兴华园/NOUN 旅行社/NOUN 有限/ADJ 公/NOUN
+
+昌平/PROPN 旅游/NOUN 行业/NOUN 协会/NOUN
+
+北京雍/PROPN 和/CCONJ 宫/NOUN
+
+湘西/PROPN 自治州/NOUN 旅游局/NOUN
+
+湖南/PROPN 永州市/PROPN 旅游局/NOUN
+
+吉安市/PROPN 旅游局/NOUN
+
+乌鲁木齐市/PROPN 康乐/NOUN 假期/NOUN 旅/NOUN ../PUNCT
+
+湖北/PROPN 森林/NOUN 旅游社/NOUN
+
+武汉/PROPN “/PUNCT 百姓/NOUN 游/VERB ”/PUNCT 旅行社/NOUN ../PUNCT
+
+武汉/PROPN 铁路/NOUN 旅游/NOUN 总公司/NOUN
+
+东风/PROPN 电动/ADJ 车辆/NOUN 股份/NOUN 有限/ADJ 公/NOUN
+
+长江/PROPN 轮船/VERB 海外/NOUN 旅游/NOUN 总公司/NOUN
+
+长江/PROPN 三峡/PROPN 旅游/NOUN 总公司/NOUN
+
+宜昌/PROPN 三峡/PROPN 环坝/NOUN 旅游/NOUN 发展/NOUN 集/VERB
+
+湖北省/PROPN 海外/NOUN 旅游/NOUN 集团/NOUN 有/VERB ../PUNCT
+
+武汉市/PROPN 木兰/PROPN 天池/NOUN
+
+武汉市/PROPN 海外/NOUN 旅游/NOUN 有/VERB 限责/NOUN ../PUNCT
+
+神农架/PROPN 旅游/NOUN 发展/NOUN 集团/NOUN 有/VERB ../PUNCT
+
+保山市/NOUN 隆阳区/PROPN 旅游局/NOUN
+
+云南省/PROPN 保山市/NOUN 旅游局/NOUN
+
+云南/PROPN 柏联/PROPN 和顺/NOUN 旅游/NOUN 文化/NOUN ../PUNCT
+
+腾冲县/PROPN 旅游局/NOUN
+
+云南省/PROPN 迪庆/PROPN 藏族/PROPN 自治州/NOUN ../PUNCT
+
+海南/PROPN 猴岛/NOUN 旅业/NOUN 发展/NOUN 有限/ADJ 公/NOUN
+
+福建/PROPN 师范/NOUN 大学/NOUN 旅游/NOUN 学院/NOUN
+
+长春市/PROPN 旅游/NOUN 培训/NOUN 中心/NOUN
+
+长春/PROPN 大学/NOUN 旅游/NOUN 学院/NOUN
+
+乐山/PROPN 职业/NOUN 技术/NOUN 学院/NOUN 旅游/NOUN 系/NOUN
+
+首/NUM 页/NUM |/PUNCT 上/VERB 一/NUM 页/NUM |/PUNCT 下/DET 一/NUM 页/NUM

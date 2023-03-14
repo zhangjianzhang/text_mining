@@ -1,0 +1,761 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/ADJ 和/CCONJ 完整/VERB ,/PUNCT 对/ADP 公告/NOUN 的/PART 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或者/CCONJ 重大/ADJ 遗漏/NOUN 负连带/NOUN 责任/NOUN 。/PUNCT
+
+重要/ADJ 内容/NOUN 提示/NOUN
+
+1/NUM 、/PUNCT 流通/NOUN 股/NUM 股东/NOUN 每/ADV 持有/VERB 10/NUM 股流/NOUN 通股/NOUN 将/ADV 获得/VERB 非流/ADJ 通股/NOUN 支付/VERB 的/PART 3/NUM ./PUNCT
+0/NUM 股/NUM 对价/ADJ 股份/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 流通/NOUN 股/NUM 股东/NOUN 本次/NOUN 获得/VERB 的/PART 对价/NOUN 股份/NOUN 不/ADV 需要/VERB 纳税/VERB 。/PUNCT
+
+3/NUM 、/PUNCT 方案/NOUN 实施/VERB 股权/NOUN 登记/NOUN 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 10日/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 对价/NOUN 股份/NOUN 上市/ADJ 交易日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 12日/NOUN 。/PUNCT
+
+5/NUM 、/PUNCT 2006年/NOUN 5月/NOUN 12日/NOUN 当日/NOUN 复牌/VERB ,/PUNCT 当日/NOUN 公司/NOUN 股票/NOUN 不/ADV 计算/VERB 除权/NOUN 参考价/NOUN 、/PUNCT 不/ADV 设涨/VERB 跌幅/NOUN 限制/VERB 、/PUNCT 不/ADV 纳入/VERB 指数/NOUN 计算/NOUN 。/PUNCT
+
+6/NUM 、/PUNCT 自/ADP 2006年/NOUN 5月/NOUN 12日/NOUN (/PUNCT 与/ADP 复牌/PROPN 日/PROPN 相同/ADJ )起/PROPN ,/PUNCT 公司/NOUN 股票/NOUN 简称/NOUN 由/ADP "浦/NOUN 发/VERB 银行/NOUN "变/VERB 更为/ADV "G浦/NOUN 发"/VERB ,/PUNCT 股票/NOUN 代码/NOUN "/PUNCT 600000/NUM "/PUNCT 保持/VERB 不/ADV 变/VERB 。/PUNCT
+
+一/NUM 、/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 通过/ADP 情况/NOUN
+
+上海/PROPN 浦东/PROPN 发展/NOUN 银行/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/NOUN "浦/ADV 发/VERB 银行/NOUN "/PUNCT 或/CCONJ "/PUNCT 公司/NOUN ")/ADJ 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 已经/ADV 2006年/NOUN 4月/NOUN 6日/NOUN 召开/VERB 的/PART 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 审议/VERB 通过/VERB 。/PUNCT
+
+二/NUM 、/PUNCT 上海市/PROPN 国有/ADJ 资产/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 批复/NOUN 情况/NOUN
+
+上海市/PROPN 国有/ADJ 资产/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 于/ADP 2006年/NOUN 3月/NOUN 31日/NOUN 下发/VERB 了/PART 《/PUNCT 关于/ADP 上海/PROPN 浦东/PROPN 发展/NOUN 银行/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 有关/ADJ 问题/NOUN 的/PART 批复/NOUN 》/PUNCT (/PUNCT 沪/PROPN 国资/NOUN 委产/NOUN ［/PUNCT 2006/NUM ］/PUNCT 261/NUM 号/NUM )/NOUN ,/PUNCT 批准/VERB 公司/NOUN 实施/VERB 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 。/PUNCT
+
+三/NUM 、/PUNCT 中国/PROPN 银行业/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 批复/NOUN 情况/NOUN
+
+中国/PROPN 银行业/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 于/ADP 2006年/NOUN 4月/NOUN 29日/NOUN 下发/VERB 了/PART 《/PUNCT 中国/PROPN 银行业/NOUN 监督/NOUN 管理/NOUN 委员/NOUN 关于/ADP 上海/PROPN 浦东/PROPN 发展/NOUN 银行/NOUN 股权/NOUN 分置/ADV 改革/VERB 有关/ADJ 问题/NOUN 的/PART 批复/NOUN 》/PUNCT (/PUNCT 银监/NOUN 复[/PUNCT 2006/NUM ]/NUM 98号/NOUN )/NOUN ,/PUNCT 同意/VERB 公司/NOUN 进行/VERB 股权/NOUN 分置/ADJ 改革/NOUN 。/PUNCT
+
+四/NUM 、/PUNCT 股权/NOUN 分置/ADV 改革/NOUN 对价/NOUN 方案/NOUN
+
+1/NUM 、/PUNCT 对价/NOUN 方案/NOUN ：/PUNCT 浦发/NOUN 银行/NOUN 非流/ADV 通股/VERB 股东/NOUN 以/PART 向/ADP 方案/NOUN 实施/VERB 股权/NOUN 登记日/NOUN 登记/VERB 在册/VERB 的/PART 全体/DET 流通/NOUN 股/NUM 股东/NOUN 支付/VERB 股票/NOUN 的/PART 方式/NOUN 作为/VERB 对价/ADJ 安排/NOUN ,/PUNCT 浦发/NOUN 银行/NOUN 流通/VERB 股/NUM 股东/NOUN 每/ADV 持有/VERB 10/NUM 股流/NOUN 通股/NOUN 将/X 获付/VERB 3/NUM 股/NUM 股票/NOUN 。/PUNCT
+各/DET 非/VERB 流通/NOUN 股/NUM 股东/NOUN 支付/VERB 股票/NOUN 的/PART 数量/NOUN 按/ADP 各自/PRON 持有/VERB 非流/ADV 通股/VERB 的/PART 比例/NOUN 确定/VERB ；/PUNCT 对价/NOUN 安排/VERB 执行/VERB 后/PART ,/PUNCT 非流/ADV 通股/VERB 股东/NOUN 持有/VERB 的/PART 非流/ADJ 通股/NOUN 股份/NOUN 即/ADV 获得/VERB 上市/VERB 流通权/NOUN ,/PUNCT 流通/NOUN 股/NUM 股东/NOUN 获付/VERB 的/PART 股票/NOUN 总数/NOUN 为/VERB 2.7亿/NUM 股/NUM 。/PUNCT
+
+2/NUM 、/PUNCT 流通/NOUN 股/NUM 股东/NOUN 本次/NOUN 获得/VERB 的/PART 对价/NOUN 股份/NOUN 不/ADV 需要/VERB 纳税/VERB 。/PUNCT
+
+3/NUM 、/PUNCT 获付/VERB 对价/VERB 的/PART 对象/NOUN 和/CCONJ 范围/NOUN ：/PUNCT 截至/ADP 2006年/NOUN 5月/NOUN 10日/NOUN 下午/NOUN 上海/PROPN 证券/NOUN 交易所/NOUN 收市/VERB 后/PART ,/PUNCT 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 分公司/NOUN 登记/VERB 在册/VERB 的/PART 全体/DET 浦发/NOUN 银行/NOUN 流通/VERB 股/NUM 股东/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 非流/ADV 通股/VERB 股东/NOUN 承诺/NOUN 事项/NOUN ：/PUNCT
+
+根据/ADP 《/PUNCT 上市/ADJ 公司/NOUN 股权/NOUN 分置/NOUN 改革/NOUN 管理/NOUN 办法/NOUN 》/PUNCT 的/PART 规定/NOUN ,/PUNCT 浦发/NOUN 银行/NOUN 非流/ADV 通股/VERB 股东/NOUN 的/PART 承诺/NOUN 事项/NOUN 如下/VERB ：/PUNCT 自/ADP 改革/NOUN 方案/NOUN 实施/VERB 之/PART 日/NOUN 起/VERB ,/PUNCT 非流/ADV 通股/VERB 股东/NOUN 持有/VERB 的/PART 原非流/NOUN 通股/NOUN 股份/NOUN ,/PUNCT 在/ADP 十二/NUM 个/NUM 月/NOUN 内/PART 不得/VERB 上市/VERB 交易/NOUN 或者/CCONJ 转让/NOUN ；/PUNCT 持有/VERB 浦发/NOUN 银行/NOUN 股份/NOUN 总数/NOUN 百分之五/NUM 以上/PART 的/PART 原非/ADJ 流通/NOUN 股/NUM 股东/NOUN ,/PUNCT 在/ADP 上述/ADJ 限售期/NOUN 届满/VERB 后/PART ,/PUNCT 通过/ADP 证券/NOUN 交易所/NOUN 挂牌/VERB 交易/NOUN 出售/VERB 原/ADJ 非流/ADJ 通股/NOUN 股份/NOUN ,/PUNCT 出售/VERB 数量/NOUN 占/VERB 浦发/NOUN 银行/NOUN 股份/NOUN 总数/NOUN 的/PART 比例/NOUN 在/ADP 十二/NUM 个/NUM 月/NOUN 内/PART 不得/VERB 超过/VERB 百分之五/NUM ,/PUNCT 在/ADP 二十四/NUM 个/NUM 月/NOUN 内/PART 不得/VERB 超过/VERB 百分之十/NUM 。/PUNCT
+
+5/NUM 、/PUNCT 对价/ADV 安排/VERB 执行/VERB 情况/NOUN 表/VERB
+
+执行/VERB 对价/ADJ 安排/NOUN 前/ADJ                             /SPACE 本次/NOUN 执行/VERB 数量/NOUN                                  /SPACE 执行/VERB 对价/ADJ 安排/NOUN 后/PART
+
+序号/NOUN                         /SPACE 执行/VERB 对价/ADJ 安排/NOUN 的/PART 股东/NOUN 名称/NOUN   /SPACE 持/VERB 股数/NOUN (/PUNCT 股)/PUNCT   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN   /SPACE 本次/NOUN 执行/VERB 对价/ADJ 安排/VERB 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 本次/NOUN 执行/VERB 对价/NOUN 安排/VERB 现金/NOUN 金额/NOUN
+(元/NOUN )/NOUN   /SPACE 持/VERB 股数/NOUN (/PUNCT 股)/PUNCT   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN
+
+1/NOUN                              /SPACE 上海/PROPN 国际/NOUN 集团/NOUN 有限/ADJ 公司/NOUN    /SPACE 978490000/NUM         /SPACE 24/NUM ./PUNCT
+99%/VERB                       /SPACE 88969254/NUM
+                             /SPACE 0/NUM    /SPACE 889520746/NUM
+        /SPACE 22/NUM ./PUNCT 72/NUM
+%/PUNCT
+
+2/NUM                          /SPACE 上海/PROPN 国际/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 公司/NOUN    /SPACE 348500000/NUM          /SPACE 8/NUM ./PUNCT
+90%/VERB                       /SPACE 31208955/NUM                              /SPACE 0/NUM    /SPACE 317291045/NUM          /SPACE 8/NUM ./PUNCT
+11%/VERB
+
+3/NUM                            /SPACE 上海/PROPN 上/PART 实(/ADJ 集团/NOUN )/NOUN 有限/ADJ 公司/NOUN    /SPACE 190500000/NUM          /SPACE 4./NUM 87%/NOUN
+                      /SPACE 17059701/NUM                              /SPACE 0/NUM    /SPACE 173440299/NUM          /SPACE 4./NUM 43%/NOUN
+
+4/NUM                              /SPACE 花旗/NOUN 银行/NOUN 海外/NOUN 投资/NOUN 公司/NOUN    /SPACE 180750000/NUM          /SPACE 4./NUM 62/NUM %/PUNCT                       /SPACE 16186567/NOUN                              /SPACE 0/NUM    /SPACE 164563433/NUM          /SPACE 4./NUM 20%/NOUN
+
+5/NUM                          /SPACE 中国/PROPN 烟草/NOUN 总公司/NOUN 江苏省/PROPN 公司/NOUN     /SPACE 57450000/NUM          /SPACE 1./NUM 46%/NUM                        /SPACE 5144776/NUM                              /SPACE 0/NUM     /SPACE 52305224/NUM          /SPACE 1./NUM 34/NUM
+%/PUNCT
+
+6/NUM                          /SPACE 云南/PROPN 国际/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 公司/NOUN     /SPACE 45146000/NUM          /SPACE 1./NUM 15%/NUM                        /SPACE 4042925/NUM
+                             /SPACE 0/NUM     /SPACE 41103075/NUM          /SPACE 1./NUM 05/NUM
+%/PUNCT
+
+7/NUM                                      /SPACE 国家/NOUN 电网/NOUN 公司/NOUN     /SPACE 45000000/NUM          /SPACE 1./NUM 15%/NUM                        /SPACE 4029851/NUM                              /SPACE 0/NUM     /SPACE 40970149/NUM          /SPACE 1./NUM 05/NUM
+%/PUNCT
+
+8/NUM                                  /SPACE 华北/PROPN 电网/NOUN 有限/ADJ 公司/NOUN     /SPACE 45000000/NUM          /SPACE 1./NUM 15%/NUM                        /SPACE 4029851/NUM                              /SPACE 0/NUM     /SPACE 40970149/NUM          /SPACE 1./NUM 05/NUM
+%/PUNCT
+
+9/NUM                                      /SPACE 上海市/PROPN 邮政局/NOUN     /SPACE 40402500/NUM          /SPACE 1./NUM 03/NUM %/PUNCT                        /SPACE 3618134/NUM                              /SPACE 0/NUM     /SPACE 36784366/NUM          /SPACE 0/NUM ./PUNCT
+94/NUM %/PUNCT
+
+10/NUM                       /SPACE 中国/PROPN 电信/NOUN 集团/NOUN 上海市/PROPN 电信/NOUN 公司/NOUN     /SPACE 39451500/NUM          /SPACE 1./NUM 01/NOUN %/PUNCT                        /SPACE 3532970/NUM                              /SPACE
+0/NUM     /SPACE 35918530/NUM          /SPACE 0/NUM ./PUNCT
+92%/VERB
+
+11/NUM                                 /SPACE 百联/NOUN 集团/NOUN 有限/ADJ 公司/NOUN     /SPACE 37500000/NUM          /SPACE 0/NUM ./PUNCT
+96%/NOUN                        /SPACE 3358209/NOUN
+                             /SPACE 0/NUM     /SPACE 34141791/NUM          /SPACE 0/NUM ./PUNCT
+87%/PROPN
+
+12/NUM                   /SPACE 上海/PROPN 上实/VERB 国际/NOUN 贸易/NOUN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN     /SPACE 37500000/NUM          /SPACE 0/NUM ./PUNCT
+96%/NOUN                        /SPACE 3358209/NOUN
+                             /SPACE 0/NUM     /SPACE 34141791/NUM          /SPACE 0/NUM ./PUNCT
+87%/PROPN
+
+13/NUM                         /SPACE 上海/PROPN 友谊/NOUN 集团/NOUN 股份/NOUN 有限/ADJ 公司/NOUN     /SPACE 36000000/NUM          /SPACE 0/NUM ./PUNCT
+92%/VERB                        /SPACE 3223881/NUM                              /SPACE 0/NUM     /SPACE 32776119/NUM          /SPACE 0.84%/PUNCT
+
+14/NUM                                   /SPACE 上海市/PROPN 电力/NOUN 公司/NOUN     /SPACE 34500000/NUM          /SPACE
+0/NUM ./PUNCT
+88%/VERB                        /SPACE 3089552/NUM                              /SPACE 0/NUM     /SPACE 31410448/NUM          /SPACE 0/NUM ./PUNCT
+80%/VERB
+
+15/NUM                         /SPACE 国联/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 责任/NOUN 公司/NOUN     /SPACE 32000000/NUM          /SPACE 0/NUM ./PUNCT
+82/NUM %/PUNCT                        /SPACE 2865672/NOUN                              /SPACE 0/NUM     /SPACE 29134328/NUM          /SPACE 0.74%/PUNCT
+
+16/NUM                             /SPACE 上海/PROPN 久联/NOUN 集团/NOUN 有限/ADJ 公司/NOUN     /SPACE 30000000/NUM          /SPACE 0/NUM ./PUNCT
+77/NUM %/PUNCT                        /SPACE 2686567/NOUN                              /SPACE 0/NUM     /SPACE 27313433/NUM          /SPACE 0/NUM ./PUNCT
+70%/VERB
+
+17/NUM                             /SPACE 华宝/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 公司/NOUN     /SPACE 30000000/NUM          /SPACE 0/NUM ./PUNCT
+77/NUM %/PUNCT                        /SPACE 2686567/NOUN                              /SPACE 0/NUM     /SPACE 27313433/NUM          /SPACE 0/NUM ./PUNCT
+70%/VERB
+
+18/NUM                           /SPACE 上海/PROPN 一百/NUM (/PUNCT 集团/NOUN )/NOUN 有限/ADJ 公司/NOUN     /SPACE 24108168/NUM          /SPACE 0/NUM ./PUNCT
+62/NUM %/PUNCT                        /SPACE 2158940/NUM
+                             /SPACE 0/NUM     /SPACE 21949228/NUM          /SPACE 0/NUM ./PUNCT
+56%/ADV
+
+19/NUM                   /SPACE 温州/PROPN 地方/NOUN 铁路/NOUN 房地产/NOUN 开发/NOUN 有限/ADJ 公司/NOUN     /SPACE 24000000/NUM          /SPACE
+0/NUM ./PUNCT 61%/NOUN                        /SPACE 2149254/NUM                              /SPACE 0/NUM     /SPACE 21850746/NUM          /SPACE 0/NUM ./PUNCT
+56%/ADV
+
+20/NUM                           /SPACE 苏州市/PROPN 营财/NOUN 投资/NOUN 集团/NOUN 公司/NOUN     /SPACE 22500000/NUM          /SPACE 0.58%/PUNCT                        /SPACE 2014925/NUM
+                             /SPACE 0/NUM     /SPACE 20485075/NUM          /SPACE 0/NUM ./PUNCT
+53/NUM %/PUNCT
+
+21/NUM                 /SPACE 中国/PROPN 石化/NOUN 上海/PROPN 石油/NOUN 化工/NOUN 股份/NOUN 有限/ADJ 公司/NOUN     /SPACE 22500000/NUM          /SPACE 0.58%/PUNCT
+                       /SPACE 2014925/NUM
+                             /SPACE 0/NUM     /SPACE 20485075/NUM          /SPACE 0/NUM ./PUNCT
+52%/NOUN
+
+22/NUM                         /SPACE 中海/NOUN 石油/NOUN 投资/NOUN 控股/NOUN 有限/ADJ 公司/NOUN     /SPACE 22500000/NUM          /SPACE 0.58%/PUNCT
+                       /SPACE 2014925/NUM
+                             /SPACE 0/NUM     /SPACE 20485075/NUM          /SPACE 0/NUM ./PUNCT
+52%/NOUN
+
+23/NUM                   /SPACE 北京/PROPN 九鼎/PROPN 房地产/NOUN 开发/NOUN 有限/ADJ 责任/NOUN 公司/NOUN     /SPACE 16500000/NUM          /SPACE 0/NUM ./PUNCT
+42%/NUM                        /SPACE 1477612/NUM                              /SPACE 0/NUM     /SPACE 15022388/NUM          /SPACE 0.38%/PUNCT
+
+24/NUM                         /SPACE 宝钢/PROPN 集团/NOUN 上海/PROPN 五钢/NUM 有限/ADJ 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343284/NUM
+                             /SPACE
+0/NUM     /SPACE 13656716/NUM          /SPACE 0.35%/PUNCT
+
+25/NUM                   /SPACE 上海/PROPN 东方/NOUN 明珠(/PUNCT 集团/NOUN )/PROPN 股份/NOUN 有限/ADJ 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343284/NUM                              /SPACE 0/NUM     /SPACE 13656716/NUM          /SPACE 0.35%/PUNCT
+
+26/NUM                             /SPACE 国金/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343284/NUM
+                             /SPACE
+0/NUM     /SPACE 13656716/NUM          /SPACE 0.35%/PUNCT
+
+27/NUM                 /SPACE 江苏省/PROPN 国有/ADJ 资产/NOUN 经营/NOUN (控/NOUN 股)/PUNCT 有限/ADJ 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+28/NUM                                 /SPACE 上海/PROPN 宝钢/PROPN 集团/NOUN 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+29/NUM                               /SPACE 上海/PROPN 科技/NOUN 发展/NOUN 基金会/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+30/NUM                     /SPACE 上海/PROPN 静安/VERB 国有/ADJ 资产/NOUN 经营/NOUN 有限/ADJ 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+31/NUM                         /SPACE 上海/PROPN 闵行/PROPN 联合/ADJ 发展/NOUN 有限/ADJ 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+32/NUM                                       /SPACE 上海/PROPN 铁路局/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+33/NUM                     /SPACE 中国/PROPN 石化/NOUN 上海/PROPN 高桥/NOUN 石油/NOUN 化工/NOUN 公司/NOUN     /SPACE 15000000/NUM          /SPACE 0.38%/PUNCT                        /SPACE 1343283/NUM                              /SPACE 0/NUM     /SPACE 13656717/NUM          /SPACE 0.35%/PUNCT
+
+34/NUM                               /SPACE 上海市/PROPN 青浦区/PROPN 财政局/NOUN     /SPACE 13110000/NUM          /SPACE 0.34%/NUM                        /SPACE
+1174030/NOUN                              /SPACE 0/NUM     /SPACE 11935970/NUM          /SPACE 0/NUM ./PUNCT
+31/NUM
+%/PUNCT
+
+35/NUM     /SPACE 南京市/PROPN 国有/ADJ 资产/NOUN 投资/NOUN 管理/NOUN 控股/NOUN (集/NOUN 团)/NOUN 有限/ADJ 责任/NOUN 公司/NOUN     /SPACE 12000000/NUM          /SPACE 0/NUM ./PUNCT
+31/NUM %/PUNCT                        /SPACE 1074627/NUM                              /SPACE 0/NUM     /SPACE 10925373/NUM          /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+36/NUM                           /SPACE 上海/PROPN 城开/NOUN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN     /SPACE 12000000/NUM          /SPACE
+0/NUM ./PUNCT
+31/NUM %/PUNCT                        /SPACE 1074627/NUM                              /SPACE 0/NUM     /SPACE 10925373/NUM          /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+37/NUM                   /SPACE 上海/PROPN 锦江/VERB 国际/NOUN 酒店/NOUN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN     /SPACE 12000000/NUM          /SPACE
+0/NUM ./PUNCT
+31/NUM %/PUNCT                        /SPACE 1074627/NUM                              /SPACE 0/NUM     /SPACE 10925373/NUM          /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+38/NUM                         /SPACE 上海/PROPN 同创/NOUN 企业/NOUN 发展/NOUN 有限/ADJ 公司/NOUN     /SPACE 12000000/NUM          /SPACE 0/NUM ./PUNCT
+31/NUM %/PUNCT                        /SPACE 1074627/NUM                              /SPACE 0/NUM     /SPACE 10925373/NUM          /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+39/NUM                   /SPACE 浙江省/PROPN 国际/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 责任/NOUN 公司/NOUN     /SPACE 12000000/NUM          /SPACE 0/NUM ./PUNCT
+31/NUM %/PUNCT                        /SPACE 1074627/NUM                              /SPACE 0/NUM     /SPACE 10925373/NUM          /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+40/NUM                             /SPACE 交通/NOUN 银行/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 9000000/NUM          /SPACE 0/NUM ./PUNCT
+23%/NUM                         /SPACE 805970/NUM                              /SPACE 0/NUM      /SPACE 8194030/NUM          /SPACE 0/NUM ./PUNCT
+21%/NUM
+
+41/NUM                             /SPACE 上海/PROPN 爱建/PROPN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 9000000/NUM          /SPACE 0/NUM ./PUNCT
+23%/NUM                         /SPACE 805970/NUM                              /SPACE 0/NUM      /SPACE 8194030/NUM          /SPACE 0/NUM ./PUNCT
+21%/NUM
+
+42/NUM                             /SPACE 上海市/PROPN 华亭/PROPN (/PUNCT 集团/NOUN )/PROPN 公司/NOUN      /SPACE 9000000/NUM          /SPACE 0/NUM ./PUNCT
+23%/NUM                         /SPACE 805970/NUM                              /SPACE 0/NUM      /SPACE 8194030/NUM          /SPACE 0/NUM ./PUNCT
+21%/NUM
+
+43/NUM                             /SPACE 中国/PROPN 高新/ADJ 投资/NOUN 集团/NOUN 公司/NOUN      /SPACE 9000000/NUM          /SPACE 0/NUM ./PUNCT
+23%/NUM                         /SPACE 805970/NUM                              /SPACE 0/NUM      /SPACE 8194030/NUM          /SPACE 0/NUM ./PUNCT
+21%/NUM
+
+44/NUM                             /SPACE 浙江省/PROPN 房地产/NOUN 开发/NOUN 公司/NOUN      /SPACE 8400000/NUM          /SPACE 0/NUM ./PUNCT
+22%/NUM                         /SPACE 752239/NUM                              /SPACE 0/NUM      /SPACE 7647761/NUM          /SPACE 0/NUM ./PUNCT
+20%/VERB
+
+45/NUM                               /SPACE 华联/PROPN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+46/NUM                           /SPACE 江苏/PROPN 三房巷/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+47/NUM                             /SPACE 江苏/PROPN 阳光/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+48/NUM                                 /SPACE 江阴/PROPN 钢厂/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+49/NUM                                     /SPACE 江阴市/PROPN 财政局/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+50/NUM                               /SPACE
+上海市/PROPN 闵行区/PROPN 财政局/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+51/NUM                             /SPACE 上海/PROPN 得/VERB 强/ADJ 实业/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+52/NUM                         /SPACE 上海/PROPN 纺织/NOUN 财务/NOUN 技术/NOUN 投资/NOUN 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+53/NUM           /SPACE 上海/PROPN 虹桥/PROPN 经济/NOUN 技术/NOUN 开发区/NOUN 联合/ADJ 发展/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+54/NUM                     /SPACE 上海/PROPN 锦江/VERB 国际/NOUN 旅游/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+55/NUM                               /SPACE 上海市/PROPN 金山区/PROPN 财政局/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+56/NUM                             /SPACE 上海/PROPN 文化/NOUN 广播/NOUN 影视/NOUN 集团/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+57/NUM                         /SPACE 苏州/PROPN 国际/NOUN 发展/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+58/NUM                                     /SPACE 苏州市/PROPN 财政局/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+59/NUM                               /SPACE 苏州/PROPN 丝绸/NOUN 发展/NOUN 总公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+60/NUM             /SPACE 上海市/PROPN 漕河泾/ADJ 新兴/ADJ 技术/NOUN 开发区/NOUN 发展/NOUN 总公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+61/NUM                         /SPACE 中国/PROPN 航空/NOUN 工业/NOUN 第二/NUM 集团/NOUN 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+62/NUM                         /SPACE 中国/PROPN 航空/NOUN 工业/NOUN 第一/NUM 集团/NOUN 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+63/NUM                     /SPACE 中核/NOUN 苏阀/PROPN 科技/NOUN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM                         /SPACE 671642/NUM                              /SPACE 0/NUM      /SPACE 6828358/NUM          /SPACE 0/NUM ./PUNCT
+17%/NUM
+
+64/NUM                             /SPACE 温州龙/PROPN 旺/VERB 化工/NOUN 有限/ADJ 公司/NOUN      /SPACE 6750000/NUM          /SPACE 0/NUM ./PUNCT
+17%/NOUN                         /SPACE 604478/NUM                              /SPACE 0/NUM      /SPACE 6145522/NUM          /SPACE 0/NUM ./PUNCT
+16%/PUNCT
+
+65/NUM                                     /SPACE 秦山/PROPN 核电/NOUN 公司/NOUN      /SPACE 6000000/NUM          /SPACE 0.15%/PUNCT                         /SPACE 537313/NUM                              /SPACE 0/NUM      /SPACE 5462687/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM
+
+66/NUM                         /SPACE 上海/PROPN 邦联/VERB 科技/NOUN 实业/NOUN 有限/ADJ 公司/NOUN      /SPACE 6000000/NUM          /SPACE 0.15%/PUNCT                         /SPACE 537313/NUM                              /SPACE 0/NUM      /SPACE 5462687/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM
+
+67/NUM                                       /SPACE 上海/PROPN 造币/NOUN 厂/NOUN      /SPACE 6000000/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM                         /SPACE
+537313/NUM                              /SPACE 0/NUM      /SPACE 5462687/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM
+
+68/NUM                               /SPACE 浙江省/PROPN 财务/NOUN 开发/NOUN 公司/NOUN      /SPACE 6000000/NUM          /SPACE 0.15%/PUNCT                         /SPACE 537313/NUM                              /SPACE 0/NUM      /SPACE 5462687/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM
+
+69/NUM                   /SPACE 北京/PROPN 鼎泰/ADJ 房地产/NOUN 开发/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 5891832/NUM          /SPACE 0.15%/PUNCT                         /SPACE 527627/NUM
+                             /SPACE 0/NUM      /SPACE 5364205/NUM          /SPACE 0/NUM ./PUNCT
+14%/NUM
+
+70/NUM                         /SPACE 上海/PROPN 邦联/VERB 资产/NOUN 管理/NOUN 有限/ADJ 公司/NOUN      /SPACE 5000000/NUM          /SPACE 0/NUM ./PUNCT
+13%/NUM
+                        /SPACE 447761/NUM                              /SPACE 0/NUM      /SPACE 4552239/NUM          /SPACE 0/NUM ./PUNCT
+12%/NUM
+
+71/NUM               /SPACE 东方/PROPN 国际/NOUN 集团/NOUN 上海市/PROPN 对外贸易/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+72/NUM                             /SPACE 南京/PROPN 苏逸/PROPN 实业/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+73/NUM                         /SPACE 宁波/PROPN 海田/PROPN 国际/NOUN 贸易/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+74/NUM                                 /SPACE 杉杉/PROPN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+75/NUM                       /SPACE 上海/PROPN 航空/NOUN 工业/NOUN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+76/NUM                     /SPACE 上海/PROPN 泓泰/PROPN 汽车/NOUN 销售/NOUN 服务/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+77/NUM                   /SPACE 绍兴市/NOUN 工业/NOUN 国有/ADJ 资本/NOUN 经营/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+78/NUM                     /SPACE 上海/PROPN 盛勤/NOUN 襄阳/NOUN 酒店/NOUN 管理/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+79/NUM                   /SPACE 浙江/PROPN 中国/PROPN 轻纺城/PROPN 集团/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+80/NUM                 /SPACE 中国/PROPN 石化/NOUN 镇海/NOUN 炼油/NOUN 化工/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+81/NUM                             /SPACE 中国/PROPN 光大/NOUN 银行/NOUN 上海/PROPN 分行/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+82/NUM                         /SPACE 中国/PROPN 上海/PROPN 外轮/NOUN 代理/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/NOUN                         /SPACE 402985/NUM                              /SPACE 0/NUM      /SPACE 4097015/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+83/NUM                             /SPACE 温州/PROPN 航空/NOUN 实业/NOUN 有限/ADJ 公司/NOUN      /SPACE 3750000/NUM          /SPACE 0/NUM ./PUNCT
+10%/PROPN                         /SPACE 335821/NUM                              /SPACE 0/NUM      /SPACE 3414179/NUM          /SPACE 0/NUM ./PUNCT
+09/NOUN
+%/PUNCT
+
+84/NUM                       /SPACE 大众/NOUN 交通/NOUN (/PUNCT 集团/NOUN )/PROPN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+85/NUM                                 /SPACE 凤凰/PROPN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+86/NUM                             /SPACE 华泰/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 376120/NUM                              /SPACE 0/NUM      /SPACE 2623880/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+87/NUM                       /SPACE 江南/PROPN 造/VERB 船(/NOUN 集团/NOUN )/PROPN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+88/NUM                             /SPACE 江苏/PROPN 交通/NOUN 控股/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+89/NUM                                   /SPACE 江苏省/PROPN 电力/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+90/NOUN                       /SPACE 江苏省/PROPN 对外/ADJ 经贸/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+91/NOUN                               /SPACE 宁波港/ADJ 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+92/NUM                         /SPACE 宁波/PROPN 开发/NOUN 投资/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+93/NUM                       /SPACE 宁波市/PROPN 工艺品/NOUN 进出口/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+94/NUM                     /SPACE 上海/PROPN 佳盈/VERB 科拓/PROPN 企业/NOUN 发展/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+95/NUM                             /SPACE 上海/PROPN 强生/ADJ 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+96/NOUN                             /SPACE 上海市/PROPN 东湖(/PUNCT 集团/NOUN )/PROPN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+97/NUM                                   /SPACE 上海/PROPN 微型/ADJ 轴承厂/ADJ      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+98/NUM                         /SPACE 上海/PROPN 杏花/VERB 楼(/NOUN 集团/NOUN )/PROPN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+99/NUM                                       /SPACE 上海/PROPN 印钞厂/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+100/NUM        /SPACE 中国/PROPN 人民/NOUN 解放军/NOUN 上海/PROPN 警备区/NOUN 云峰/NOUN 综合/ADJ 服务/NOUN 中心/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+101/NUM                            /SPACE 上海/PROPN 住/VERB 总(/NOUN 集团/NOUN )/PROPN 总公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+102/NUM                          /SPACE 上海/PROPN 市政/NOUN 工程/NOUN 设计/NOUN 研究院/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+103/NUM                        /SPACE 上海/PROPN 物资/NOUN 贸易/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+104/NUM                                /SPACE 跃进/VERB 汽车/NOUN 集团/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+105/NUM                                /SPACE 华东/PROPN 电网/NOUN 有限/ADJ 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+106/NUM            /SPACE 中国/PROPN 石化/NOUN 集团/NOUN 金陵/PROPN 石油/NOUN 化工/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+107/NUM            /SPACE 中国/PROPN 石化/NOUN 集团/NOUN 扬子/NOUN 石油/NOUN 化工/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+108/NUM                                    /SPACE 舟山市/PROPN 财政局/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+08/NUM %/PUNCT                         /SPACE 268657/NUM                              /SPACE 0/NUM      /SPACE 2731343/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+109/NUM                    /SPACE 中国人/NOUN 保控股/NOUN 公司/NOUN 上海市/PROPN 分公司/NOUN      /SPACE 2700000/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM %/PUNCT                         /SPACE 241791/NOUN                              /SPACE 0/NUM      /SPACE 2458209/NUM          /SPACE 0.06%/PUNCT
+
+110/NUM                                /SPACE 杭州/PROPN 钢铁/NOUN 集团/NOUN 公司/NOUN      /SPACE 2400000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 214925/NUM                              /SPACE 0/NUM      /SPACE 2185075/NUM          /SPACE 0.06%/PUNCT
+
+111/NUM                              /SPACE 浙江省/PROPN 电力/NOUN 开发/NOUN 公司/NOUN      /SPACE 2400000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 214925/NUM                              /SPACE 0/NUM      /SPACE 2185075/NUM          /SPACE 0.06%/PUNCT
+
+112/NUM                          /SPACE 浙江省/PROPN 经济/NOUN 建设/NOUN 投资/NOUN 公司/NOUN      /SPACE 2400000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 214925/NUM                              /SPACE 0/NUM      /SPACE 2185075/NUM          /SPACE 0.06%/PUNCT
+
+113/NUM                          /SPACE 浙江省/PROPN 丝绸/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 2400000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 214925/NUM                              /SPACE 0/NUM      /SPACE 2185075/NUM          /SPACE 0.06%/PUNCT
+
+114/NUM                        /SPACE 浙江/PROPN 物产/NOUN 金属/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 2400000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 214925/NUM                              /SPACE 0/NUM      /SPACE 2185075/NUM          /SPACE 0.06%/PUNCT
+
+115/NOUN                                /SPACE 解放/VERB 日报/NOUN 报业/NOUN 集团/NOUN      /SPACE 2250000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 201492/NUM                              /SPACE 0/NUM      /SPACE 2048508/NUM          /SPACE 0.05%/PUNCT
+
+116/NUM                              /SPACE 上海/PROPN 锅炉厂/NOUN 有限/ADJ 公司/NOUN      /SPACE 2250000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 201492/NUM                              /SPACE 0/NUM      /SPACE 2048508/NUM          /SPACE 0.05%/PUNCT
+
+117/NUM                            /SPACE 上海/PROPN 文广/NOUN 新闻/NOUN 传媒/NOUN 集团/NOUN      /SPACE 2250000/NUM          /SPACE 0.06%/PUNCT                         /SPACE 201492/NUM                              /SPACE 0/NUM      /SPACE 2048508/NUM          /SPACE 0.05%/PUNCT
+
+118/NUM                        /SPACE 上海/PROPN 华毓/PROPN 投资/NOUN 咨询/NOUN 有限/ADJ 公司/NOUN      /SPACE 1650000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 147761/NUM
+                             /SPACE 0/NUM      /SPACE 1502239/NUM          /SPACE 0.04%/PUNCT
+
+119/NUM                          /SPACE 中国/PROPN 人寿/NOUN 保险/NOUN (集/NOUN 团)/NOUN 公司/NOUN      /SPACE 1800000/NUM          /SPACE 0.05%/PUNCT                         /SPACE 161194/NOUN                              /SPACE 0/NUM      /SPACE 1638806/NUM          /SPACE 0.04%/PUNCT
+
+120/NUM                  /SPACE 江苏省/PROPN 农垦/NOUN 商业/NOUN 物资/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+121/NUM                                    /SPACE 乐清市/NOUN 财政局/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+122/NUM                              /SPACE 宁波/PROPN 保税区/NOUN 控股/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE
+0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+123/NUM                                      /SPACE 宁波/PROPN 卷烟/NOUN 厂/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+124/NUM                                  /SPACE 宁波/PROPN 石油/NOUN 总公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+125/NUM                        /SPACE 宁波/PROPN 交通/NOUN 投资/NOUN 控股/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+126/NUM                  /SPACE 瑞安市/PROPN 国有/ADJ 资产/NOUN 投资/NOUN 控股/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+127/NUM                          /SPACE 上海/PROPN 宝隆/PROPN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+128/NUM                      /SPACE 上海/PROPN 海豹/NOUN 水泥/NOUN (集/NOUN 团)/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+129/NUM                    /SPACE 上海/PROPN 嘉定/PROPN 建筑/NOUN 安装/NOUN 工程/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+130/NUM                  /SPACE 上海/PROPN 三毛/PROPN 企业/NOUN (/PUNCT 集团/NOUN )/PROPN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+131/NUM                            /SPACE 上海市/PROPN 嘉定/PROPN 商业/NOUN 总公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM                              /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+132/NUM                          /SPACE 深圳市/PROPN 科拓/PROPN 投资/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+133/NUM                              /SPACE 杭州市/PROPN 萧山区/PROPN 财政局/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+134/NUM                    /SPACE 中港/PROPN 第三/NUM 航务/NOUN 工程局/NOUN 宁波/PROPN 分公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE
+0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+135/NUM                    /SPACE 中国/PROPN 石化/NOUN 集团/NOUN 宁波/PROPN 工程/NOUN 有限/ADJ 公司/NOUN      /SPACE 1500000/NUM          /SPACE 0.04%/PUNCT                         /SPACE 134328/NUM
+                             /SPACE 0/NUM      /SPACE 1365672/NUM          /SPACE 0.03%/PUNCT
+
+136/NUM                            /SPACE 杭州/PROPN 玻璃/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+137/NUM                    /SPACE 杭州/PROPN 工商/NOUN 信托/NOUN 投资/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+138/NUM                        /SPACE 杭州/PROPN 农发/NOUN 出租/NOUN 汽车/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+139/NUM                          /SPACE 临安市/NOUN 财务/NOUN 开发/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+140/NUM                  /SPACE 浙江/PROPN 电力/NOUN 房地产/NOUN 开发/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+141/NUM                            /SPACE 浙江/PROPN 金牛/PROPN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+142/NUM                            /SPACE 浙江省/PROPN 电力/NOUN 实业/NOUN 总公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+143/NUM                  /SPACE 浙江省/PROPN 纺织品/NOUN 进出口/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+144/NUM                /SPACE 浙江省/PROPN 机械/NOUN 设备/NOUN 进出口/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+145/NUM                      /SPACE 浙江省/PROPN 旅游/NOUN 集团/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+146/NUM                              /SPACE 浙江省/PROPN 商业/NOUN 集团/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+147/NUM                  /SPACE 浙江省/PROPN 省直/NOUN 单位/NOUN 住房/NOUN 基金/NOUN 管理/NOUN 中心/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+148/NUM                          /SPACE 浙江省/PROPN 石化/NOUN 实业/NOUN 开发/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+149/NUM                                /SPACE 浙江省/PROPN 石油/NOUN 总公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+150/NUM                              /SPACE 浙江省/PROPN 物华/NOUN 工贸/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+151/NUM                          /SPACE 浙江省/PROPN 盐业/PROPN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+152/NUM                  /SPACE 浙江物/PROPN 产元/NOUN 通机/VERB 电(/NOUN 集团/NOUN )/PROPN 有限/ADJ 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+153/NUM                          /SPACE 浙江/PROPN 耀江/PROPN 实业/NOUN 开发/NOUN 总公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                         /SPACE 107463/NUM                              /SPACE 0/NUM      /SPACE 1092537/NUM          /SPACE 0.03%/PUNCT
+
+154/NUM                /SPACE 浙江省/PROPN 电信/NOUN 实业/NOUN 集团/NOUN 杭州市/PROPN 有限/ADJ 公司/NOUN       /SPACE 750000/NUM          /SPACE 0/NUM ./PUNCT
+02/NUM %/PUNCT                          /SPACE 67164/NOUN                              /SPACE 0/NUM       /SPACE 682836/NUM          /SPACE 0/NUM ./PUNCT
+02/NUM %/PUNCT
+
+155/NUM                /SPACE 杭州市/PROPN 下城区/NOUN 国有/ADJ 投资/NOUN 控股/NOUN 有限/ADJ 公司/NOUN       /SPACE 600000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 53731/NUM                              /SPACE 0/NUM       /SPACE 546269/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+156/NUM                                /SPACE 临安市/PROPN 商业/NOUN 总公司/NOUN       /SPACE 600000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 53731/NUM                              /SPACE 0/NUM       /SPACE 546269/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+157/NUM                    /SPACE 浙江/PROPN 中新/PROPN 电力/NOUN 发展/NOUN 集团/NOUN 有限/ADJ 公司/NOUN       /SPACE 600000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 53731/NUM                              /SPACE 0/NUM       /SPACE 546269/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+158/NUM                        /SPACE 杭州/PROPN 萧山/PROPN 物业/NOUN 发展/NOUN 有限/ADJ 公司/NOUN       /SPACE 450000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 40298/NUM                              /SPACE 0/NUM       /SPACE 409702/NUM          /SPACE
+0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+159/NUM                          /SPACE 浙江省/PROPN 临安市/PROPN 物资/NOUN 总公司/NOUN       /SPACE 300000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 26866/NOUN                              /SPACE 0/NUM       /SPACE 273134/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+160/NUM                        /SPACE 浙江省/PROPN 烟草/NOUN 公司/NOUN 临安市/PROPN 公司/NOUN       /SPACE 300000/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM %/PUNCT                          /SPACE 26866/NOUN                              /SPACE 0/NUM       /SPACE 273134/NUM          /SPACE 0/NUM ./PUNCT
+01/NUM
+%/PUNCT
+
+161/NUM                                /SPACE 浙江/PROPN 财政/NOUN 证券/NOUN 公司/NOUN      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT                              /SPACE 0/NUM                              /SPACE
+0/NUM      /SPACE 1200000/NUM          /SPACE 0.03%/PUNCT
+
+162/NUM                        /SPACE 江阴/PROPN 长江/PROPN 投资/NOUN 集团/NOUN 有限/ADJ 公司/NOUN      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NOUN                              /SPACE
+0/NUM                              /SPACE 0/NUM      /SPACE 7500000/NUM          /SPACE 0/NUM ./PUNCT
+19%/NUM
+
+163/NUM                    /SPACE 中国/PROPN 浦发/NOUN 机械/NOUN 工业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB                              /SPACE 0/NUM                              /SPACE 0/NUM      /SPACE 4500000/NUM          /SPACE 0/NUM ./PUNCT
+11%/VERB
+
+164/NUM                            /SPACE 东北/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM %/PUNCT                              /SPACE 0/NOUN                              /SPACE 0/NUM      /SPACE 3000000/NUM          /SPACE 0/NUM ./PUNCT
+07/NUM
+%/PUNCT
+
+合计/ADJ            /SPACE -/PUNCT     /SPACE 3015000000/NUM                         /SPACE 77/NUM ./PUNCT
+01/NUM %/PUNCT                      /SPACE 270000000/NUM            /SPACE 0/NUM     /SPACE 2745000000/NUM   /SPACE 70/NUM ./PUNCT
+11%/VERB
+
+6/NUM 、/PUNCT 代为/NOUN 垫付/NOUN 对价/ADV 安排/NOUN 情况/NOUN ：/PUNCT
+
+(/PUNCT 1/NUM )/PROPN 上海/PROPN 国际/NOUN 集团/NOUN 有限/ADJ 公司/NOUN
+为/ADP 东北/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 、/PUNCT 中国/PROPN 浦发/NOUN 机械/NOUN 工业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 和/CCONJ 江阴/PROPN 长江/PROPN 投资/NOUN 集团/NOUN 有限/ADJ 公司/NOUN 3/NUM 家/NUM 非流/ADV 通股/VERB 股东/NOUN 先/ADV 行代/VERB 为/ADP 垫付/NOUN 对价/ADV 安排/VERB ,/PUNCT 代垫/VERB 股份/NOUN 合计/VERB 1/NUM ,/PUNCT 343/NUM ,/PUNCT 284/NUM 股/NUM 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 华泰/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 为/ADP 浙江/PROPN 财政/NOUN 证券/NOUN 公司/NOUN 先/ADV 行代/VERB 为/ADP 垫付/NOUN 对价/ADV 安排/VERB ,/PUNCT 代垫/VERB 股份/NOUN 107/NUM ,/PUNCT 463/NUM 股/NUM 。/PUNCT
+
+(/PUNCT 3/NUM )代/NOUN 为/VERB 垫付/NOUN 后/PART ,/PUNCT 上述/ADJ 被/X 代为/NOUN 垫付/NOUN 对价/ADJ 安排/NOUN 的/PART 四/NUM 家/NUM 非流/ADV 通股/VERB 股东/NOUN 所/PART 持/VERB 的/PART 非流/ADV 通股/VERB 股份/NOUN 上市/VERB 流通/NOUN 时/PART ,/PUNCT 应先/VERB 征得/NOUN 代垫方/NOUN 的/PART 同意/NOUN ,/PUNCT 且/ADV 按照/ADP 拟定/NOUN 的/PART 代为/NOUN 执行/VERB 对价/ADJ 安排/NOUN 的/PART 方案/NOUN ,/PUNCT 向/ADP 代垫/NOUN 方偿/NOUN 还/ADV 已/ADV 代为/VERB 执行/VERB 的/PART 对价/NOUN 股份/NOUN 和/CCONJ 支付/VERB 相应/ADJ 补偿/NOUN ,/PUNCT 并/ADV 由/ADP 浦发/NOUN 银行/NOUN 向/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 提出/VERB 该/DET 等/PART 股份/NOUN 的/PART 上市/ADJ 流通/NOUN 申请/NOUN 。/PUNCT
+
+五/NUM 、/PUNCT 股权/NOUN 登记日/NOUN 、/PUNCT 上市/VERB 日/PROPN
+
+股权/NOUN 登记/VERB 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 10日/NOUN 。/PUNCT
+
+对价/NOUN 股份/NOUN 上市/VERB 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 12日/NOUN ,/PUNCT 当日/NOUN 公司/NOUN 股票/NOUN 不/ADV 计算/VERB 除权/NOUN 参考价/NOUN 、/PUNCT
+
+不/ADV 设涨/VERB 跌幅/NOUN 限制/VERB 、/PUNCT 不/ADV 纳入/VERB 指数/NOUN 计算/NOUN 。/PUNCT
+
+六/NUM 、/PUNCT 证券/NOUN 简称/VERB 变更/NOUN 情况/NOUN
+
+自/ADP 2006年/NOUN 5月/NOUN 12日/NOUN 起/PART ,/PUNCT 公司/NOUN 股票/NOUN 简称/VERB 变更/VERB 为/VERB "G浦/NOUN 发"/VERB ,/PUNCT 股票/NOUN 代码/NOUN "/PUNCT 600000/NUM "/PUNCT 保持/VERB 不/ADV 变/VERB 。/PUNCT
+
+七/NUM 、/PUNCT 股权/NOUN 分置/NOUN 改革/NOUN 实施/NOUN 办法/NOUN
+
+股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 的/PART 对象/NOUN 为/VERB ：/PUNCT 股权/NOUN 登记日/NOUN 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 分公司/NOUN 登记/VERB 在册/VERB 的/PART 全体/DET 浦发/NOUN 银行/NOUN 流通/VERB 股/NUM 股东/NOUN 。/PUNCT
+
+股权/NOUN 分置/ADJ 改革/NOUN 实施/NOUN 方案/NOUN 的/PART 股票/NOUN 对/ADP 价由/VERB 上海/PROPN 证券/NOUN 交易所/NOUN 通过/ADP 计算机/NOUN 网络/NOUN ,/PUNCT 根据/ADP 股权/NOUN 登记日/NOUN 登记/VERB 在册/VERB 的/PART 持/VERB 股数/NOUN ,/PUNCT 按/ADP 比例/NOUN 自动/ADV 计入/VERB 帐户/NOUN 。/PUNCT
+每/DET 位/NUM 股东/NOUN 按/ADP 送股/NOUN 比例/NOUN 计算/VERB 后/PART 不足/VERB 一/NUM 股/NUM 的/PART 部分/NOUN ,/PUNCT 按/ADP 小数点/NOUN 后/PART 尾数/NOUN 大小/NOUN 排序/VERB 向/ADP 股东/NOUN 依次/ADV 送/VERB 一/NUM 股/NUM ,/PUNCT 直至/VERB 实际/ADJ 送股/NOUN 总数/NOUN 与/ADP 本次/NOUN 送股/VERB 总数/NOUN 一致/VERB ,/PUNCT 如果/SCONJ 尾数/NOUN 相同者/ADV 多于/VERB 余股数/PROPN ,/PUNCT 则/ADV 由/ADP 电脑/NOUN 抽签派/NOUN 送/VERB 。/PUNCT
+
+八/NUM 、/PUNCT 方案/NOUN 实施/VERB 前后/PART 股本/NOUN 结构/NOUN 变化/NOUN
+
+单位/NOUN ：/PUNCT
+千股/NOUN
+
+股份/NOUN 类别/NOUN      /SPACE 变动/VERB 前/ADJ       /SPACE 变动/VERB 数/NUM      /SPACE 变动/VERB 后/PART
+
+非流/ADV 通股/VERB                             /SPACE 国家/NOUN 股/NOUN     /SPACE 418/NUM ,/PUNCT 110/NUM     /SPACE -/PUNCT 418/NUM ,/PUNCT 110/NUM           /SPACE 0/NUM
+
+国有/ADJ 法人股/NOUN   /SPACE 2/NUM ,/PUNCT 005/NUM ,/PUNCT 090/NUM   /SPACE -2/INTJ ,/PUNCT 005/NUM ,/PUNCT 090/NUM           /SPACE 0/NUM
+
+社会/NOUN 法人股/NOUN     /SPACE 591/NUM ,/PUNCT 800/NUM     /SPACE -/PUNCT 591/NUM ,/PUNCT 800/NUM           /SPACE 0/NUM
+
+非流/ADV 通股/NOUN 合计/VERB   /SPACE 3/NUM ,/PUNCT 015/NUM ,/PUNCT 000/NUM   /SPACE -3/NOUN ,/PUNCT 015/NUM ,/NUM 000/NUM           /SPACE 0/NUM
+
+有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NUM                   /SPACE 国家/NOUN 股/NOUN           /SPACE 0/NUM      /SPACE 380/NUM ,/PUNCT 667/NUM     /SPACE 380/NUM ,/PUNCT 667/NUM
+
+国有/ADJ 法人股/NOUN           /SPACE 0/NUM    /SPACE 1/NUM ,/PUNCT 825/NUM ,/PUNCT 530/NUM   /SPACE 1/NUM ,/PUNCT 825/NUM ,/PUNCT 530/NUM
+
+社会/NOUN 法人股/NOUN           /SPACE 0/NUM      /SPACE 538/NUM ,/PUNCT 803/NUM     /SPACE 538/NUM ,/PUNCT 803/NUM
+
+有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/VERB           /SPACE 0/NUM    /SPACE 2/NUM ,/PUNCT 745/NUM ,/PUNCT 000/NUM   /SPACE 2/NUM ,/PUNCT 745/NUM ,/PUNCT 000/NUM
+
+无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NUM                      /SPACE A股/NOUN     /SPACE 900/NUM ,/PUNCT 000/NUM      /SPACE 270/NUM ,/PUNCT 000/NUM   /SPACE
+1/NUM ,/PUNCT 170/NUM ,/PUNCT 000/NUM
+
+无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/ADJ     /SPACE 900/NUM ,/PUNCT 000/NUM      /SPACE 270/NUM ,/PUNCT 000/NUM   /SPACE 1/NUM ,/PUNCT 170/NUM ,/PUNCT 000/NUM
+
+股份/NOUN 总额/NOUN   /SPACE 3/NUM ,/PUNCT 915/NUM ,/PUNCT 000/NUM            /SPACE -/PUNCT   /SPACE 3/NUM ,/PUNCT 915/NUM ,/PUNCT 000/NUM
+
+九/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 的/PART 股份/NOUN 可/VERB 上市/VERB 流通/NOUN 预计/VERB 时间表/NOUN
+
+序号/PROPN                   /SPACE 股东/NOUN 名称/NOUN   /SPACE 所/PART 持有/VERB 限售/NOUN 条件/NOUN 的/PART 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 预计/VERB 可/VERB 上市/VERB 流通/NOUN 时间/NOUN
+
+1/NUM                 /SPACE 162/NUM 家/NUM 法人/NOUN 股东/NOUN                  /SPACE 1/NUM ,/PUNCT 538/NUM ,/PUNCT 188/NUM ,/PUNCT 209/NUM        /SPACE 2007年/NOUN 5月/NOUN 12日/NOUN
+
+2/NUM          /SPACE 上海/PROPN 国际/NOUN 集团/NOUN 有限/ADJ 公司/NOUN                    /SPACE 195/NUM ,/PUNCT 750/NUM ,/PUNCT 000/NUM        /SPACE 2007年/NOUN 5月/NOUN 12日/NOUN
+
+195/NUM ,/PUNCT 750/NUM ,/PUNCT 000/NUM        /SPACE 2008年/NOUN 5月/NOUN 12日/NOUN
+
+498/NUM ,/PUNCT 020/NUM ,/PUNCT 746/NUM        /SPACE 2009年/NOUN 5月/NOUN 12日/NOUN
+
+3/NUM      /SPACE 上海/PROPN 国际/NOUN 信托/NOUN 投资/NOUN 有限/ADJ 公司/NOUN                    /SPACE 195/NUM ,/PUNCT 750/NUM ,/PUNCT 000/NUM        /SPACE 2007年/NOUN 5月/NOUN 12日/NOUN
+
+121/NUM ,/PUNCT 541/NUM ,/PUNCT 045/NUM        /SPACE 2008年/NOUN 5月/NOUN 12日/NOUN
+
+十/NUM 、/PUNCT 本次/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 实施/NOUN 方案/NOUN 后/PART ,/PUNCT 公司/NOUN 总股/NOUN 本/ADV 不/ADV 变/VERB ,/PUNCT 公司/NOUN 资产/NOUN 、/PUNCT 负债/NOUN 、/PUNCT 所有者/NOUN 权益/NOUN 、/PUNCT 每股/ADJ 收益/NOUN 等/PART 财务/NOUN 指标/NOUN 均/ADV 保持/VERB 不/ADV 变/VERB 。/PUNCT
+
+十一/NUM 、/PUNCT 联系/NOUN 办法/NOUN
+
+联系/VERB 电话/NOUN ：/PUNCT (/PUNCT 021/NUM )/NOUN 63296188/NUM 转/VERB 董事会/NOUN 办公室/NOUN
+
+传/VERB    /SPACE 真/NOUN
+：/PUNCT (/PUNCT 021/NUM )/NOUN 63230807/NUM
+
+电子/NOUN 信箱/NOUN ：/PUNCT bdo@spdb.com/PROPN ./PUNCT
+cn/VERB
+
+联/VERB 系/NOUN 人/NOUN ：/PUNCT 吴蓉/PROPN  /SPACE 曹忠明/PROPN  /SPACE
+陈浩然/PROPN
+
+联系/VERB 地址/NOUN ：/PUNCT 上海市/PROPN 中山东/NOUN 一路/ADV 12号/NOUN
+
+十二/NUM 、/PUNCT 备查/NOUN 文件/NOUN
+
+1/NUM 、/PUNCT 浦发/PROPN 银行/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 表决/NOUN 结果/NOUN 及/CCONJ 公告/NOUN
+
+2/NUM 、/PUNCT 上海市/PROPN 联合/ADJ 律师/NOUN 事务所/NOUN 关于/ADP 浦发/NOUN 银行/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 的/PART 法律/NOUN 意见书/NOUN
+
+3/NUM 、/PUNCT 浦发/PROPN 银行/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 说明书/NOUN
+
+特此/ADV 公告/VERB 。/PUNCT
+
+上海/PROPN 浦东/PROPN 发展/NOUN 银行/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN
+
+2006年/NOUN 5月/NOUN 8日/NOUN

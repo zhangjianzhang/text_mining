@@ -1,0 +1,37 @@
+阿坝州/PROPN 请来/VERB 了/PART 斑斓/ADJ 的/PART 玛尼石/NOUN
+
+北京/PROPN 展台/NOUN 突出/VERB 奥运/PROPN 旅游/NOUN
+
+峨眉山/PROPN 景区/NOUN 请出/VERB 了/PART 金碧辉煌/VERB 的/PART 普贤/PROPN 大佛/NOUN
+
+海南/PROPN 展台/VERB 空运/VERB 来/VERB 了/PART 新鲜/VERB 的/PART 水果/NOUN
+
+济公/VERB
+
+军事/NOUN 夏令/PROPN 营展台/NOUN 的/PART 飒爽/VERB 英姿/NOUN
+
+泸州/ADJ 展台/NOUN 的/PART 超级/ADJ 大号/NOUN 油纸伞/NOUN
+
+山东/PROPN 展区/VERB 将/X 巨锚/NOUN 作为/ADP 旅游/NOUN 推广/NOUN 符号/NOUN
+
+四川/PROPN 展台/NOUN 的/PART 茶/NOUN 博士/NOUN
+
+四川/PROPN 展台/NOUN 的/PART 川绣/NOUN 表演/NOUN
+
+四川/PROPN 展台/NOUN 的/PART 蜀锦/PROPN 表演/NOUN
+
+温柔/VERB 的/PART 苏州/PROPN 评弹/NOUN 唱响/NOUN 会场/NOUN
+
+无锡/PROPN 三国/PROPN 城亮/NOUN 出刘/VERB 关张/VERB 三/NUM 兄弟/NOUN 真人秀/NOUN
+
+吴桥/PROPN 杂技团/NOUN 的/PART 现场/NOUN 表演/VERB
+
+现场/NOUN 的/PART 古筝/NOUN 和/CCONJ 茶艺/NOUN 表演/VERB
+
+秀美/NOUN 的/PART 丹巴/PROPN 美人/VERB
+
+云南/PROPN 姑娘/NOUN 为/ADP 客商/NOUN 现场/NOUN 表演/VERB 砖茶/NOUN 茶艺/NOUN
+
+云南/PROPN 展台/NOUN 上/PART 五彩/NUM 的/PART 花伞/NOUN
+
+2/NUM

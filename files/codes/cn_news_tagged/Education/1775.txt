@@ -1,0 +1,165 @@
+外企/NOUN 的/PART 招聘/NOUN 广告/NOUN 中/PART 常常/ADV 有/VERB 很多/NUM 缩略语/NOUN ，/PUNCT 让/VERB 国人/NOUN 看起来/ADV 头疼/VERB 不已/ADV 。/PUNCT
+下面/NOUN 是/VERB 一些/NUM 此类/ADJ 广告/NOUN 中/PART 常见/VERB 的/PART 缩略语/NOUN ，/PUNCT 帮助/VERB 你/PRON 看懂/VERB 广告/NOUN 、/PUNCT “/PUNCT 对/ADP 职出/NOUN 招/NOUN ”/PUNCT 。/PUNCT
+
+admin/NOUN :/PUNCT administrative/PROPN 行政/NOUN 的/PART
+
+Jr/PROPN :/PUNCT junior/NOUN 初级/ADJ
+
+ad/ADP //PUNCT adv/NOUN :/PUNCT advertising/PROPN 广告/NOUN
+
+K/NOUN :/PUNCT 1000/NUM 元/NUM
+
+agcy/NOUN :/PUNCT agency/NOUN 经销商/NOUN
+
+knowl/PROPN :/PUNCT knowledge/PROPN 知识/NOUN
+
+appt/PROPN :/PUNCT appointment/VERB 约会/PROPN 、/PUNCT 预约/VERB
+
+loc/PROPN :/PUNCT location/NOUN 位置/NOUN 、/PUNCT 场所/NOUN
+
+asst/PROPN :/PUNCT assistant/PROPN 助理/NOUN
+
+Lv/lvl/NOUN :/PUNCT level/VERB 级/NOUN //PUNCT 层/NUM
+
+attn/NOUN :/PUNCT attention/VERB 给/VERB ,/PUNCT 与/ADP ……/PUNCT 联系/VERB
+
+mach/NOUN :/PUNCT machine/ADJ 机器/NOUN
+
+bkgd/VERB :/PUNCT background/ADJ 背景/NOUN
+
+manuf/NOUN //PUNCT mf/NOUN :/PUNCT manufacturing/NOUN 制造/VERB
+
+bldg/PROPN :/PUNCT building/PROPN 建筑物/NOUN 、/PUNCT 大楼/NOUN
+
+mech/NOUN :/PUNCT mechanic/NOUN 机械/NOUN 的/PART
+
+bus/PROPN :/PUNCT business/PROPN 商业/NOUN 、/PUNCT 生意/NOUN
+
+mgr/NOUN :/PUNCT manager/NOUN 经理/NOUN
+
+clk/PROPN :/PUNCT clerk/PROPN (/PUNCT 办公室/NOUN )职员/NUM
+
+m/NOUN -/PUNCT f/PROPN :/PUNCT Monday/PROPN -/PUNCT Friday/PROPN 从/ADP 周一/NOUN 到/CCONJ 周五/NOUN
+
+co/NOUN :/PUNCT company/PROPN 公司/NOUN
+
+mth/NOUN :/PUNCT month/NOUN 月/NOUN
+
+coll/NOUN :/PUNCT college/NOUN 大专/NOUN (/PUNCT 学历/NOUN )/NOUN
+
+nec/PROPN :/PUNCT necessary/PROPN 必要/VERB 的/PART
+
+comm/PROPN :/PUNCT commission/NOUN 佣金/NOUN
+
+oppty/NOUN :/PUNCT opportunity/NOUN 机会/NOUN
+
+corp/PROPN :/PUNCT cororation/VERB (有/NOUN 限)/PUNCT 公司/NOUN
+
+ot/NOUN :/PUNCT overtime/VERB 超时/VERB
+
+data/NOUN pro/NOUN :/PUNCT data/NOUN processing/NOUN 数据/NOUN 处理/VERB
+
+perm/NOUN :/PUNCT permanent/NOUN 永久性/VERB 的/PART
+
+dept/NOUN :/PUNCT department/PROPN 部/NUM
+
+pls/NOUN :/PUNCT please/ADV 请/VERB
+
+dir/NOUN :/PUNCT director/PROPN 董事/NOUN
+
+pos/NOUN :/PUNCT position/NOUN 职位/NOUN
+
+div/PROPN :/PUNCT division/PROPN 分工/NOUN 、/PUNCT 部门/NOUN
+
+pref/VERB :/PUNCT preference/NOUN (有/ADV 经验者/NOUN )/VERB 优先/VERB
+
+eqpt/VERB :/PUNCT equipment/VERB 装备/VERB
+
+p/NOUN rev/PROPN :/PUNCT p/NOUN revious/NOUN 有/VERB 先前/ADJ 的/PART (/PUNCT 经验/NOUN )/NOUN
+
+etc/PROPN .:/NOUN and/CCONJ so/NOUN on/NOUN 等等/PART
+
+P/NOUN //PUNCT T/NOUN :/PUNCT part/ADJ time/NOUN 兼职/VERB （/PUNCT 的/PART ）/PUNCT
+
+evngs/VERB :/PUNCT
+evenings/PROPN 晚上/NOUN
+
+refs/PROPN :/PUNCT
+references/PROPN 推荐信/VERB
+
+exc/NOUN :/PUNCT excellent/NOUN 很/ADV 好的/VERB
+
+rel/NOUN :/PUNCT reliable/NOUN 可靠/VERB 的/PART
+
+exp/NOUN :/PUNCT experience/VERB 经验/NOUN
+
+reps/PROPN :/PUNCT Representative/PROPN (/PUNCT 销售)/NOUN 代表/NOUN
+
+exp/NOUN 'd/VERB :/PUNCT experienced/PROPN 有/VERB 经验/NOUN 的/PART
+
+req/PROPN :/PUNCT required/NOUN 需要/VERB
+
+ext/NOUN .:/ADV extension/VERB 延伸/VERB 、/PUNCT 扩展/VERB
+
+sal/NOUN :/PUNCT salary/VERB 工资/NOUN
+
+fr/VERB ./PUNCT
+ben/PROPN :/PUNCT fringe/VERB benefits/PROPN 额外/ADJ 福利/NOUN
+
+sctry/NOUN :/PUNCT secretary/NOUN 秘书/NOUN
+
+F/T:/PROPN full/PROPN time/NOUN 全日制/NOUN
+
+sh/NOUN :/PUNCT short/NOUN hand/PROPN 人手/NOUN 不足/VERB
+
+gd/NOUN :/PUNCT good/PROPN 好/VERB
+
+sr/NOUN :/PUNCT senior/NOUN 资深/ADJ
+
+grad/NOUN :/PUNCT graduate/PRON 毕业/VERB
+
+stdnt/NOUN :/PUNCT student/NOUN 学生/NOUN
+
+hosp/PROPN :/PUNCT hospital/PROPN 医院/NOUN
+
+stmts/NOUN :/PUNCT statements/NOUN 报告/VERB
+
+hd/ADJ qtrs/NOUN :/PUNCT head/NOUN quarters/NOUN 总部/NOUN
+
+tech/NOUN :/PUNCT technical/NOUN 技术/NOUN 上/PART
+
+hr/VERB hour/PROPN :/PUNCT 小时/NOUN
+
+tel/NOUN //PUNCT ph/NOUN :/PUNCT telphone/NOUN 电话/NOUN
+
+hrly/NUM :/PUNCT hourly/PROPN 每/DET 小时/NOUN
+
+temp/NOUN :/PUNCT temporarily/NOUN 临时性/VERB (/PUNCT 工作/NOUN )/VERB
+
+HS/NOUN :/PUNCT high/PROPN school/NOUN 高中(/PUNCT 学历/NOUN )/PROPN
+
+Trans/PROPN :/PUNCT transportation/NOUN 交通/NOUN
+
+Immed/PROPN :/PUNCT immediate/PROPN
+立即/ADV
+
+trnee/NOUN :/PUNCT trainee/PROPN 实习生/NOUN
+
+incl/PROPN :/PUNCT including/PROPN 包括/VERB
+
+ty/NOUN p:/NOUN typing/typist/NOUN 打字/VERB //PUNCT 打字员/NOUN
+
+ind/NOUN :/PUNCT industrial/PROPN 工业/NOUN 的/PART
+
+wk/NOUN :/PUNCT week/VERB //PUNCT work/NOUN 周/PROPN //PUNCT 工作/VERB
+
+inexp/VERB :/PUNCT inexperienced/PROPN 无/VERB 经验/NOUN 的/PART
+
+W/NOUN pm/NOUN :/PUNCT words/NOUN per/NOUN minute/NOUN 打字/VERB //PUNCT 每/DET 分钟/NUM
+
+int/NOUN 'l/ADP :/PUNCT international/PROPN 国际性/ADJ 的/PART
+
+yr(s/PUNCT )/NOUN :/PUNCT
+Year(s/NUM )/NUM 年/NOUN
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

@@ -1,0 +1,5 @@
+澳门/PROPN 特区/NOUN 政府/NOUN 二十日/NOUN 称/VERB ，/PUNCT 分别/ADV 接获/VERB 义大利/PROPN 驻港/VERB 总领/NOUN 使馆/NOUN 、/PUNCT 英属维尔京群岛/PROPN 政府/NOUN 及/CCONJ 东帝汶/PROPN 政府/NOUN 的/PART 通知/NOUN ：/PUNCT 澳门/PROPN 特别/ADJ 行政区/NOUN 护照/NOUN 持有人/ADV 可免/ADJ 签证/NOUN 进入/VERB 圣马力诺/PROPN 、/PUNCT 英属维尔京群岛/PROPN 及/CCONJ 可于/VERB 东帝汶/PROPN 的/PART 入境/NOUN 口岸/NOUN 取得/VERB 落地/ADJ 签证/NOUN 。/PUNCT
+
+据/ADP 介绍/NOUN ，/PUNCT 直至/VERB 目前/NOUN 为止/PART ,/PUNCT
+
+共有/VERB 七十二/NUM 个/NUM 国家/NOUN 或/CCONJ 地区/NOUN 给予/VERB 澳门/PROPN 特别/ADJ 行政区/NOUN 护照/NOUN 持有人/ADV 免/VERB 签证/NOUN 或/CCONJ 落地/ADJ 签证/NOUN 待遇/NOUN ，/PUNCT 其中/NOUN 五十七/NUM 个/NUM 属/VERB 互免/ADJ 签证/NOUN 国家/NOUN 、/PUNCT 十三/NUM 个/NUM 属/VERB 互免/ADJ 签证/NOUN 地区/NOUN 、/PUNCT 二/NUM 个/NUM 属/VERB 落地/ADJ 签证/NOUN 国家/NOUN 。/PUNCT

@@ -1,0 +1,9 @@
+香港/PROPN 特区/NOUN 卫生署/NOUN 卫生/NOUN 防护/NOUN 中心/NOUN 日前/NOUN 表示/VERB ，/PUNCT 香港/PROPN 目前/NOUN 有/VERB 25/NUM 人/NOUN 因/ADP 使用/VERB 博士伦/NOUN 公司/NOUN 生产/VERB 的/PART 多功能/ADJ 隐形眼镜/NOUN 护理/NOUN 药水/NOUN （/PUNCT ReNumultipur/PROPN posecontactlenssolution/NOUN ）/PUNCT 导致/VERB 角膜/NOUN 感染/NOUN 。/PUNCT
+
+美国/PROPN 食物/NOUN 及/CCONJ 药物/NOUN 管理局/NOUN 新近/ADV 提供/VERB 的/PART 建议/NOUN ，/PUNCT 忠告/ADJ 佩戴/NOUN 隐形眼镜/NOUN 人士/NOUN 立即/ADV 停止/VERB 使用/VERB 博士伦/NOUN 一/NUM 种/NUM 多功能/ADJ 隐形眼镜/NOUN 护理/NOUN 药水/NOUN （/PUNCT ReNu/VERB -/PUNCT
+with/ADV MoistureLoc/PROPN ）/PUNCT ，/PUNCT 弃掉/VERB 所有/DET 剩余/ADJ 的/PART 或/CCONJ 已/ADV 开盖/VERB 的/PART 药水/NOUN 。/PUNCT
+
+香港/PROPN 卫生署/NOUN 表示/VERB 同意/VERB 美国/PROPN 食物/NOUN 及/CCONJ 药物/NOUN 管理局/NOUN 的/PART 最新/ADJ 建议/NOUN ，/PUNCT 并/ADV 表示/VERB 将/ADV 进一步/ADV 调查/VERB 以/ADP 确定/VERB 出现/VERB 问题/NOUN 的/PART 起因/NOUN 。/PUNCT
+目前/NOUN ，/PUNCT 香港/PROPN 卫署/NOUN 与/CCONJ 美国/PROPN 有关/ADJ 部门/NOUN 保持/VERB 密切/ADJ 联络/NOUN ，/PUNCT 以/PART 了解/VERB 可能/VERB 导致/VERB 隐形眼镜/NOUN 使用者/NOUN 受/VERB 感染/NOUN 的/PART 因素/NOUN 及/CCONJ 产品/NOUN 。/PUNCT
+
+据/ADP 介绍/NOUN ，/PUNCT 博士伦/NOUN 公司/NOUN 已/ADV 于/ADP 今年/NOUN 二月/NOUN ，/PUNCT 在/ADP 香港/PROPN 市场/NOUN 主动/ADV 停售/VERB 有/VERB 问题/NOUN 的/PART 隐形眼镜/NOUN 药水/NOUN 。/PUNCT

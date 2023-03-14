@@ -1,0 +1,21 @@
+唇间/NOUN 多彩/ADV 尽现/NOUN
+
+唇间/NOUN 多彩/ADV 尽现/VERB 不露/ADV 痕迹/NOUN 地/PART 展现/VERB 鲜润/ADJ 魅力/NOUN
+
+不露/ADV 痕迹/NOUN 地/PART 展现/VERB 鲜润/ADJ 魅力/NOUN 热情/VERB 如火/VERB 的/PART 唇情/NOUN
+
+热情/VERB 如火/VERB 的/PART 唇情/NOUN 倾诉/VERB 无限/ADJ 柔情/NOUN 魅力/NOUN
+
+倾诉/VERB 无限/ADJ 柔情/NOUN 魅力/NOUN 细心/ADJ 观察/NOUN 中/PART 流露/VERB 美丽/VERB
+
+细心/ADJ 观察/NOUN 中/PART 流露/VERB 美丽/ADJ 浪漫/NOUN 迷离/VERB
+
+浪漫/NOUN 迷离/VERB 呈现/VERB 当代/ADJ 女性/NOUN 独有/VERB 的/PART 自信/NOUN
+
+呈现/VERB 当代/ADJ 女性/NOUN 独有/VERB 的/PART 自信/ADJ 唇间/VERB 流动/ADJ 优雅/ADJ 气质/NOUN
+
+唇间/VERB 流动/ADJ 优雅/ADJ 气质/NOUN
+
+一直/ADV 以来/PART 都/ADV 相信/VERB ，/PUNCT 唇能/VERB 将/X 女性/NOUN 的/PART 极致/ADJ 美态/NOUN 淋漓尽致/VERB 地/PART 描绘/VERB 出来/VERB 。/PUNCT
+这/DET 一/NUM 季/NOUN ，/PUNCT 各式各样/VERB 的/PART 唇/ADV 又/ADV 重回/VERB 时尚/ADJ 舞台/NOUN ，/PUNCT 从/ADP 鲜亮/NOUN 饱满/VERB 到/VERB 令/VERB 人/NOUN 窒息/VERB 的/PART 另/DET 类/NUM 创意/NOUN ……/PUNCT
+2/NUM

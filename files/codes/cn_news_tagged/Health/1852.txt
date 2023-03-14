@@ -1,0 +1,18 @@
+据/ADP 新华社/PROPN 电北京/NOUN 博士伦/NOUN 眼睛/NOUN 护理/NOUN 产品/NOUN 有限/ADJ 公司/NOUN 决定/VERB 暂停/VERB 销售/VERB 美国/PROPN 工厂/NOUN 生产/VERB 的/PART 进口/NOUN 润明/ADJ 水/NOUN 凝护/VERB 理液/NOUN ；/PUNCT 市场/NOUN 上/PART 已经/ADV 销售/VERB 的/PART 进口/NOUN 润明/ADJ 水/NOUN 凝护/VERB 理液/NOUN ，/PUNCT 可/VERB 向/ADP 北京/PROPN 博士伦/NOUN 眼睛/NOUN 护理/NOUN 产品/NOUN 有限/ADJ 公司/NOUN 换货/VERB 。/PUNCT
+这/DET 一/NUM 决定/NOUN 是/VERB 北京/PROPN 博士伦/NOUN 眼睛/NOUN 护理/NOUN 产品/NOUN 有限/ADJ 公司/NOUN 12日/NOUN 与/ADP 国家/NOUN 食品/NOUN 药品/NOUN 监督/NOUN 管理局/NOUN 沟通/VERB 后/PART 做出/VERB 的/PART 。/PUNCT
+
+博士伦/NOUN 最新/ADJ 动态/NOUN :/PUNCT
+
+博士伦/NOUN 在/ADP 美/PROPN 停售/VERB 润明/NOUN 洗液/VERB 我/PRON 市场/NOUN 销售/NOUN 如常/VERB
+
+博士/NOUN 伦护/PROPN 理液/NOUN 出现/VERB 问题/NOUN 滴眼液/NOUN 成/VERB 关注/NOUN 焦点/NOUN
+
+“/PUNCT 博士伦/NOUN 事件/NOUN ”/PUNCT 追踪/VERB 博士伦/NOUN 港/PROPN 沪/PROPN 初检/NOUN 合格/VERB
+
+使用/VERB 博士/NOUN 伦护/PROPN 理液/NOUN 哈尔滨/PROPN 11/NUM 人/NOUN 被/X 查出/VERB 炎症/NOUN
+
+博士伦/NOUN 部分/NUM 药水/NOUN 引发/VERB 眼疾/NOUN 部分/NOUN 眼镜店/NOUN 停售/VERB
+
+广州/PROPN 贱卖/NOUN 博士/NOUN 伦护/PROPN 理液/NOUN 厂家/NOUN 称/VERB 无致病/ADV 先例/NOUN
+
+博士伦/NOUN 二/NUM 次/NUM 声明/NOUN 自相矛盾/VERB 港澳/PROPN 停售/VERB 并/CCONJ 回收/VERB

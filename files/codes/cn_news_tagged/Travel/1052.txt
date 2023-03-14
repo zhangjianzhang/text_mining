@@ -1,0 +1,31 @@
+交通/NOUN 指南/NOUN
+
+机场/NOUN ：/PUNCT
+
+斯图加特/PROPN 机场/NOUN ,/PUNCT 紧临/VERB A/NOUN 8/NUM 高速/ADJ 公路/NOUN
+
+机场/NOUN Stuttgart/PROPN Echterdingen/PROPN 。/PUNCT
+机场/NOUN 代号/NOUN STR/NOUN ，/PUNCT 距离/ADP 市区/NOUN 20/NUM 公里/NUM 。/PUNCT
+乘出/NOUN 租车/VERB 到/VERB 市区/NOUN 25/NUM 分钟/NUM ，/PUNCT 乘/VERB 市郊/NOUN 列车/NOUN S-Bahn/VERB 到/VERB 市中心/NOUN 火车站/NOUN HBF/NOUN 要/VERB 30/NUM 分钟/NUM 。/PUNCT
+详细/ADJ 资料/NOUN 见/VERB www.flughafen/NOUN -/PUNCT stuttgart/NOUN ./PUNCT
+de/VERB
+
+火车/NOUN ：/PUNCT
+
+斯图加特/PROPN 火车站/NOUN
+
+市内/NOUN 交通/NOUN ：/PUNCT 可以/VERB 乘坐/VERB 地铁/NOUN 、/PUNCT 有/VERB 轨电车/NOUN 、/PUNCT 公共/ADJ 汽车/NOUN 等/PART 交通/NOUN 工具/NOUN ，/PUNCT 最低/ADJ 的/PART 票价/NOUN 1.6/NOUN 欧元/NOUN ，/PUNCT 一日/NOUN 卡/VERB 7/NUM 欧元/NOUN ，/PUNCT 市内/NOUN 交通/NOUN www.vvs/NOUN ./PUNCT
+de/VERB
+
+斯图加特/PROPN 住宿/NOUN 介绍/VERB
+
+斯图加特/PROPN 青年/NOUN 旅舍/VERB
+
+地址/NOUN ：/PUNCT Hauß/PROPN mannstr/VERB ./PUNCT
+27号/NOUN
+
+70188/NUM Stuttgart/PROPN
+
+最近/NOUN 的/PART 机场/NOUN ：/PUNCT 斯图加特/PROPN 机场/NOUN
+
+最近/NOUN 的/PART 火车站/NOUN ：/PUNCT 斯图加特/PROPN 火车站/NOUN ，/PUNCT 距离/ADP 500/NUM m/NUM [详/PROPN 细]/NOUN

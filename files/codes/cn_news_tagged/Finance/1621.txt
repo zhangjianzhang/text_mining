@@ -1,0 +1,46 @@
+本期/NOUN 正值/VERB 霉雨/NOUN 季节/NOUN ，/PUNCT 中药材/NOUN 不易/ADV 保存/VERB ，/PUNCT 市场/NOUN 流通/NOUN 比较/ADV 缓慢/VERB ，/PUNCT 只有/ADV 小批量/NOUN 成交/NOUN 。/PUNCT
+从/ADP 销售/NOUN 行情/NOUN 看/VERB ，/PUNCT 药价/NOUN 有/VERB 升有/NOUN 降/VERB ，/PUNCT 具体/ADV 表现/NOUN 如下/VERB ：/PUNCT
+
+红参/NOUN 、/PUNCT 白参/NOUN 、/PUNCT 洋/NOUN 参均/VERB 上涨/VERB 3/NUM -/PUNCT 5/NUM 元/NUM （/PUNCT 每/DET 公/ADJ 斤价/NOUN ，/PUNCT 下同/VERB ）/PUNCT ；/PUNCT 党/NOUN 参价/VERB 平平/NOUN ；/PUNCT 北沙/NOUN 参下/NOUN 滑/VERB ，/PUNCT 统12/VERB 元/NOUN ；/PUNCT 玄参/ADJ 货源/NOUN 不足/VERB ，/PUNCT 又/ADV 快/ADV 进入/VERB 销售/NOUN 季节/NOUN ，/PUNCT 价升/NOUN 1/NUM 元/NUM ，/PUNCT 时价/VERB 10/NUM 元/NUM ；/PUNCT 太子参/NOUN 微落/VERB ，/PUNCT 时价/VERB 30/NUM 元/NUM ；/PUNCT 甘草升/PROPN 0.5/NUM 元/NUM ；/PUNCT 当/ADP 归价/NOUN 高/VERB ，/PUNCT 下滑/VERB 1/NUM 元/NUM ；/PUNCT 黄芪/PROPN 微升/VERB ；/PUNCT 黄连价/PROPN 平稳/VERB ；/PUNCT 麦冬产新/PROPN ，/PUNCT 跌而/NOUN 又/ADV 升/VERB ，/PUNCT 货不足干/VERB ，/PUNCT 统30/VERB 元/NUM ，/PUNCT 选/VERB 34/NUM 元/NUM ；/PUNCT 浙贝/PROPN 下跌/VERB 至/VERB 27/NUM 元/NUM ；/PUNCT 白术/NOUN 升后/NOUN 转稳/NOUN ；/PUNCT 白芷/ADV 连连/ADV 上扬/VERB ，/PUNCT 川白芷/PROPN 11/NUM 元/NUM ，/PUNCT 亳白芷9/NOUN 元/NUM ；/PUNCT 山药/NOUN 下跌/VERB 0.5/NUM 元/NUM ；/PUNCT 泽泻/NOUN 有/VERB 上升/NOUN 可能/VERB ，/PUNCT 时价/VERB 8/NUM 元/NUM ；/PUNCT 天麻/NOUN 走势/NOUN 不/ADV 畅/VERB ；/PUNCT 信/NOUN 前/PART 胡价/PROPN 高/VERB 16/NUM 元/NUM ；/PUNCT 赤芍价/PROPN 走低/VERB ，/PUNCT 时价/VERB 13/NUM 元/NUM ；/PUNCT 三棱/NOUN 、/PUNCT 莪术价/PROPN 微升/NOUN ；/PUNCT 干姜/NOUN 价跌/NOUN 至/VERB 10/NUM 元/NUM 。/PUNCT
+
+枸杞子/PROPN 虽/SCONJ 是/VERB 销售/NOUN 淡季/VERB ，/PUNCT 但/ADV 价升/NOUN 2/NUM 元/NUM ；/PUNCT 山栀子/PROPN 价稳/VERB 8/NUM 元/NUM ；/PUNCT 车/NOUN 前子/NOUN 临近/VERB 产新/VERB ，/PUNCT 价跌/VERB 至/VERB 12/NUM 元/NUM ；/PUNCT 胖大/VERB 海闻/PROPN 说/VERB 今年/NOUN 产量/NOUN 下降/VERB ，/PUNCT 有/VERB 可能/NOUN 价升/NOUN ；/PUNCT 广佛/NOUN 手升/NOUN 至/CCONJ 30/NUM 元/NUM ；/PUNCT 薏苡仁/NOUN 下滑/VERB 0.5/NUM 元/NUM 。/PUNCT
+全/DET 草类/ADJ 药材/NOUN 稳中有升/VERB ，/PUNCT 银花/NOUN 价平/VERB ；/PUNCT 菊花/NOUN 微升/VERB ；/PUNCT 云南/PROPN 红花产新/VERB ，/PUNCT 价/NOUN 80/NUM 元/NUM ；/PUNCT 厚朴/PROPN 、/PUNCT 杜仲/PROPN 、/PUNCT 丹皮/PROPN 、/PUNCT 五/NUM 加/VERB 皮均/NOUN 升/VERB 0.5/NUM 元/NUM ；/PUNCT 全蝎/NOUN 、/PUNCT 土元/NOUN 、/PUNCT 地龙/NOUN 、/PUNCT 蜈蚣/NOUN 有/VERB 新货/PROPN 上市/VERB ，/PUNCT 价/NOUN 微降/VERB 。/PUNCT
+
+樟/VERB 树道/VERB 地/PART 药材/NOUN 市场/NOUN 行情/NOUN
+
+（/PUNCT 单位/NOUN ：/PUNCT 元/NUM //PUNCT 公斤/NUM ）/PUNCT
+
+品种/NOUN                   /SPACE 单价/NOUN
+
+旱半/PROPN 夏/PROPN                   /SPACE 56/NUM
+
+土茯/PROPN 苓/NOUN                   /SPACE 10/NUM
+
+粉防杞/PROPN                   /SPACE 25/NUM
+
+杜仲/PROPN                      /SPACE 8/NUM
+
+金银花/PROPN                   /SPACE 35/NUM
+
+白花蛇/NOUN 舌草/NOUN                /SPACE 8/NUM
+
+吴茱萸/PROPN                   /SPACE 30/NUM
+
+车/NOUN 前子/NOUN                   /SPACE 12/NUM
+
+枳壳/VERB                      /SPACE 8/NUM
+
+蔓/VERB 荆子/PROPN                    /SPACE 8/NUM
+
+黄栀子/PROPN                    /SPACE 9/NUM
+
+陈皮/PROPN                      /SPACE 4/NUM
+
+野菊/VERB 花/VERB                    /SPACE 9/NUM
+
+金樱子/PROPN                    /SPACE
+4/NUM
+
+海金/NOUN 沙/NOUN                   /SPACE 34/NUM
+
+钩藤/NOUN                     /SPACE 11/NUM

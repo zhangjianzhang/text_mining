@@ -1,0 +1,492 @@
+各市/NOUN （/PUNCT 县/NOUN ）/PUNCT 自考办/NOUN 、/PUNCT 助学/ADJ 单位/NOUN 及/CCONJ 教材/NOUN 服务部/NOUN ：/PUNCT
+
+根据/ADP 全国/ADJ 高等/ADJ 教育/NOUN 自学/NOUN 考试/NOUN 指导/NOUN 委员会/NOUN 关于/ADP 2006年/NOUN 高等/ADJ 教育/NOUN 自学/ADV 考试/VERB 全国/ADJ 统考/NOUN 课程/NOUN 安排/NOUN 及/CCONJ 有关/ADJ 事项/NOUN 的/PART 通知/NOUN 精神/NOUN ，/PUNCT 即/ADV 考委/VERB 办函/VERB [/PROPN 2005/NUM ]/NUM 57号/NUM 文/NOUN 。/PUNCT
+为/ADP 适应/VERB 社会/NOUN 的/PART 发展/NOUN ，/PUNCT 全国/ADJ 考办/NOUN 已经/ADV 安排/VERB 对/ADP 内容/NOUN 明显/ADV 滞后/VERB 的/PART 部分/NUM 课程/NOUN 自学/ADV 考试/VERB 大纲/NOUN 和/CCONJ 教材/NOUN 进行/VERB 重编/NOUN 。/PUNCT
+结合/VERB 我省/PROPN 开考/VERB 的/PART 课程/NOUN 大部分/NUM 使用/VERB 全国/NOUN 统考/NOUN 课程/NOUN ，/PUNCT 从/ADP 2006年/NOUN 开始/VERB 有/VERB 29/NUM 门/NUM 课程/NOUN 使用/VERB 全国/ADJ 统考/NOUN 课程/NOUN 的/PART 新编/NOUN 大纲/NOUN 、/PUNCT 教材/NOUN 。/PUNCT
+现/ADV 将/X 《/PUNCT 大纲/NOUN 、/PUNCT 教材/NOUN 目录/NOUN 》/PUNCT （/PUNCT 附件/NOUN ）/PUNCT 发给/VERB 你们/PRON ，/PUNCT 其中/NOUN 有/VERB 中国/PROPN 对外贸易/NOUN （/PUNCT 0092/NUM ）/PUNCT 、/PUNCT 房地产法/PROPN （/PUNCT 0169/NOUN ）/PUNCT 、/PUNCT 环境/NOUN 与/CCONJ 资源/NOUN 保护/NOUN 法学/NOUN （/PUNCT 0288/NOUN ）/PUNCT 、/PUNCT 经济/NOUN 法概论/NOUN （/PUNCT 0244/NUM ）/PUNCT 等/PART 四/NUM 门/NUM 课程/NOUN 在/ADP 2006年/NOUN 10月/NOUN 考试/NOUN 中/PART 使用/VERB 新编/NOUN 的/PART 大纲/NOUN 、/PUNCT 教材/NOUN 组织/NOUN 命题/VERB 。/PUNCT
+请/VERB 各市/NOUN （/PUNCT 县/NOUN ）/PUNCT 自考办/NOUN 、/PUNCT 助学/ADJ 单位/NOUN 及/CCONJ 教材/NOUN 服务/NOUN 部向/NOUN 考生/NOUN 做好/VERB 宣传/NOUN 和/CCONJ 新编/NOUN 大纲/NOUN 、/PUNCT 教材/NOUN 的/PART 衔接/NOUN 和/CCONJ 供应/NOUN 工作/NOUN 。/PUNCT
+
+海南省/PROPN 高等/ADJ 教育/NOUN 自学/VERB 考试/NOUN 办公室/NOUN
+
+附件/NOUN ：/PUNCT
+
+序号/NOUN
+
+课程/NOUN 代码/NOUN 及/CCONJ 名称/NOUN
+
+学分/NOUN
+
+大纲/NOUN 名称/NOUN
+
+教材/NOUN 名称/NOUN
+
+主/ADJ 　/SPACE 编/NOUN
+
+出版社/NOUN
+
+版/NOUN 　/SPACE 次/NUM
+
+1/NUM
+
+0018/NUM 　/SPACE 计算机/NOUN 应用/NOUN 基础/NOUN
+
+4/NUM
+
+计算机/NOUN 应用/NOUN 基础/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+计算机/NOUN 应用/NOUN 基础/NOUN
+
+杨明福/PROPN
+
+机械/NOUN 工业/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+2/NUM
+
+0040/NUM 　/SPACE 法学/NOUN 概论/VERB
+
+6/NUM
+
+法学/NOUN 概论/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+法学/NOUN 概论/VERB
+
+吴祖谋/PROPN
+
+武汉/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+3/NUM
+
+0053/NUM 　/SPACE 对外/ADJ 经济/NOUN 管理/NOUN 概论/NOUN
+
+5/NUM
+
+对外/ADJ 经济/NOUN 管理/NOUN 概论/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+对外/ADJ 经济/NOUN 管理/NOUN 概论/NOUN
+
+杜奇华/PROPN
+
+武汉/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+4/NUM
+
+0092/NUM 　/SPACE 中国/PROPN 对外贸易/NOUN
+
+4/NUM
+
+中国/PROPN 对外贸易/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+中国/PROPN 对外贸易/NOUN
+
+黄晓玲/PROPN
+
+中国/PROPN 人民/NOUN 大学/NOUN 出版社/NOUN
+
+2006年/NOUN 版/NOUN
+
+5/NUM
+
+0094/NUM 　/SPACE 外贸/NOUN 函电/VERB
+
+4/NUM
+
+外贸/NOUN 函电/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+外贸/NOUN 函电/NOUN
+
+方春祥/NOUN
+
+中国/PROPN 人民/NOUN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+6/NUM
+
+0095/NUM 　/SPACE 经贸/NOUN 知识/NOUN 英语/NOUN
+
+6/NUM
+
+经贸/NOUN 知识/NOUN 英语/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+经贸/NOUN 知识/NOUN 英语/NOUN
+
+王学文/PROPN
+
+中国/PROPN 人民/NOUN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+7/NUM
+
+0101/NUM 　/SPACE 外经贸/NOUN 经营/NOUN 与/CCONJ 管理/NOUN
+
+4/NUM
+
+外经贸/NOUN 经营/NOUN 与/CCONJ 管理/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+外经贸/NOUN 经营/NOUN 与/CCONJ 管理/NOUN
+
+宋沛/PROPN
+
+中国/PROPN 人民/NOUN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+8/NUM
+
+0102/NUM 　/SPACE 世界/NOUN 市场/NOUN 行情/NOUN
+
+4/NUM
+
+世界/NOUN 市场/NOUN 行情/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+世界/NOUN 市场/NOUN 行情/NOUN
+
+杨逢华/PROPN
+
+中国/PROPN 人民/NOUN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+9/NUM
+
+0144/NOUN 　/SPACE 企业/NOUN 管理/NOUN 概论/NOUN
+
+5/NUM
+
+企业/NOUN 管理/NOUN 概论/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+企业/NOUN 管理/NOUN 概论/NOUN
+
+刘仲康/PROPN
+
+武汉/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+10/NUM
+
+0151/NUM 　/SPACE 企业/NOUN 经营/NOUN 战略/NOUN
+
+6/NUM
+
+企业/NOUN 经营/NOUN 战略/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+企业/NOUN 经营/NOUN 战略/NOUN 概论/NOUN
+
+刘仲康/PROPN
+
+武汉/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+11/NUM
+
+0169/NUM 　/SPACE 房地产/NOUN 法/NOUN
+
+3/NUM
+
+房地产/NOUN 法/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+房地产/NOUN 法/NOUN
+
+程信/NOUN 和/CCONJ 　/SPACE 刘国臻/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2006年/NOUN 版/NOUN
+
+12/NUM
+
+5679/NUM 　/SPACE 宪法/NOUN 学/VERB
+
+4/NUM
+
+宪法/NOUN 学/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+宪法/NOUN 学/VERB
+
+魏定仁/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+13/NUM
+
+0224/NOUN 　/SPACE 律师/NOUN 执业/VERB 概论/VERB
+
+5/NUM
+
+律师/NOUN 执业/VERB 概论/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+律师/NOUN 执业/VERB 概论/VERB
+
+陈卫东/PROPN
+
+法律/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+14/NUM
+
+0228/NOUN 　/SPACE 环境/NOUN 与/CCONJ 资源/NOUN 保护/NOUN 法学/NOUN
+
+4/NUM
+
+环境/NOUN 与/CCONJ 资源/NOUN 保护/NOUN 法学/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+环境/NOUN 与/CCONJ 资源/NOUN 保护/NOUN 法学/NOUN
+
+金瑞林/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2006年/NOUN 版/NOUN
+
+15/NUM
+
+0244/NUM 　/SPACE 经济/NOUN 法概/NOUN 论/VERB
+
+6/NUM
+
+经济法/NOUN 概论/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+经济/NOUN 法概/NOUN 论/VERB
+
+张守文/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+16/NUM
+
+0246/NOUN 　/SPACE 国际/NOUN 经济/NOUN 法概/NOUN 论/VERB
+
+6/NUM
+
+国际/NOUN 经济法/NOUN 概论/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+国际/NOUN 经济/NOUN 法概/NOUN 论/VERB
+
+陈安/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+17/NUM
+
+0249/NUM 　/SPACE 国际/NOUN 私法/NOUN
+
+4/NUM
+
+国际/NOUN 私法/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+国际/NOUN 私法/NOUN
+
+李双元/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+18/NUM
+
+0258/NUM 　/SPACE 保险法/NOUN
+
+3/NUM
+
+保险/NOUN 法自学/NOUN 考试/VERB 大纲/NOUN
+
+保险法/NOUN
+
+覃/VERB 有/VERB 土/NOUN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+19/NUM
+
+0260/NOUN 　/SPACE 刑事/NOUN 诉讼/NOUN 法学/NOUN
+
+4/NUM
+
+刑事/NOUN 诉讼/NOUN 法学/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+刑事/NOUN 诉讼/NOUN 法学/NOUN
+
+王国枢/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+20/NUM
+
+0261/NUM 　/SPACE 行政/NOUN 法学/NOUN
+
+5/NUM
+
+行政/NOUN 法学/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+行政/NOUN 法学/NOUN
+
+罗豪才/PROPN
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+21/NUM
+
+0262/NOUN 　/SPACE 法律/NOUN 文书/NOUN 写作/NOUN
+
+3/NUM
+
+法律/NOUN 文书/NOUN 写作/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+法律/NOUN 文书/NOUN 写作/NOUN
+
+宁致/PROPN 远/VERB
+
+北京/PROPN 大学/NOUN 出版社/NOUN
+
+2006年/NOUN 版/NOUN
+
+22/NUM
+
+0277/NUM 　/SPACE 行政/NOUN 管理学/VERB
+
+6/NUM
+
+行政/NOUN 管理学/VERB 自学/VERB 考试/VERB 大纲/NOUN
+
+行政/NOUN 管理学/VERB
+
+胡象明/PROPN
+
+高等/ADJ 教育/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+23/NUM
+
+0522/NUM 　/SPACE 英语/NOUN 国家/NOUN 概况/VERB
+
+4/NUM
+
+英语/NOUN 国家/NOUN 概况/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+英语/NOUN 国家/NOUN 概况/VERB
+
+余志远/NOUN
+
+外语/NOUN 教学/NOUN 与/CCONJ 研究/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+24/NUM
+
+0596/NUM 　/SPACE 英语/NOUN 阅读/VERB （/PUNCT 二/NUM ）/PUNCT
+
+6/NUM
+
+英语/NOUN 阅读/VERB （/PUNCT 二/NUM ）/PUNCT
+自学/ADV 考试/VERB 大纲/NOUN
+
+英语/NOUN 阅读/VERB （/PUNCT 二/NUM ）/PUNCT
+
+白永权/PROPN
+
+高等/ADJ 教育/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+25/NUM
+
+2120/NUM 　/SPACE 数据库/NOUN 及其/CCONJ 应用/NOUN
+
+4/NUM
+
+数据库/NOUN 及其/CCONJ 应用/VERB 自学/VERB 考试/VERB 大纲/NOUN
+
+数据库/NOUN 及其/CCONJ 应用/NOUN
+
+牛允鹏/PROPN
+
+经济/NOUN 科学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+26/NUM
+
+2141/NUM 　/SPACE 计算机/NOUN 网络/NOUN 技术/NOUN
+
+4/NUM
+
+计算机/NOUN 网络/NOUN 技术/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+计算机/NOUN 网络/NOUN 技术/NOUN
+
+杨明福/PROPN
+
+经济/NOUN 科学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+27/NUM
+
+2316/NUM 　/SPACE 计算机/NOUN 应用/NOUN 技术/NOUN
+
+5/NUM
+
+计算机/NOUN 应用/NOUN 技术/NOUN 自学/ADV 考试/VERB 大纲/NOUN
+
+计算机/NOUN 应用/NOUN 技术/NOUN
+
+张宁/PROPN
+
+经济/NOUN 科学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+28/NUM
+
+2318/NUM 　/SPACE 计算机/NOUN 组成/VERB 原理/NOUN
+
+4/NUM
+
+计算机/NOUN 组成/VERB 原理/NOUN 自学/VERB 考试/VERB 大纲/NOUN
+
+计算机/NOUN 组成/VERB 原理/NOUN
+
+胡越明/PROPN
+
+经济/NOUN 科学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN
+
+29/NUM
+
+2323/NUM 　/SPACE 操作/NOUN 系统/NOUN 概论/VERB
+
+4/NUM
+
+操作/NOUN 系统/NOUN 概论/VERB 自学/ADV 考试/VERB 大纲/NOUN
+
+操作/NOUN 系统/NOUN 概论/NOUN
+
+谭耀铭/PROPN
+
+经济/NOUN 科学/NOUN 出版社/NOUN
+
+2005年/NOUN 版/NOUN

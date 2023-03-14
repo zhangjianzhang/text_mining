@@ -1,0 +1,31 @@
+翻看/VERB 报纸/NOUN 、/PUNCT 打开/VERB 网页/NOUN ，/PUNCT 只要/SCONJ 是/VERB 近期/NOUN 娱乐/NOUN 版块/NOUN 的/PART 新闻/NOUN ，/PUNCT 好莱坞/PROPN 当红/VERB 影星/NOUN 汤姆·克鲁斯/PROPN 及其/CCONJ 未婚/ADV 妻凯蒂·赫尔姆斯/VERB 的/PART 名字/NOUN 总会/NOUN 跃然/VERB 在/ADP 上/NOUN 。/PUNCT
+今天/NOUN 的/PART 新闻/NOUN 热词/NOUN 也/ADV 跟/ADP 这/PRON 对/NUM 颇/ADV 受/VERB 瞩目/NOUN 的/PART 情侣/NOUN 有关/VERB ，/PUNCT 由于/ADP 凯蒂/PROPN 刚刚/ADV 生下/VERB 她/PRON 和/CCONJ 克鲁斯/PROPN 的/PART 女儿/NOUN ，/PUNCT 体形/NOUN 不免/ADV 臃肿/VERB 。/PUNCT
+但/ADV 因为/ADP 两/NUM 人/NOUN 准备/VERB 今年/NOUN 夏天/NOUN 举行/VERB 盛大/ADJ 婚礼/NOUN ，/PUNCT 凯蒂/PROPN 为了/ADP 能/VERB 在/ADP 婚礼/NOUN 上/PART 尽显/VERB 健美/NOUN 体形/NOUN ，/PUNCT 现/ADV 已/ADV 聘请/VERB 健身/NOUN 教练/NOUN 为/ADP 其/PRON 制定/VERB 瘦身/NOUN 计划/NOUN 。/PUNCT
+
+请/VERB 看/VERB 外电/NOUN 相关/ADJ 报道/VERB ：/PUNCT Now/PROPN that/ADV Katie/VERB Holmes/PROPN has/PROPN given/PROPN birth/NOUN to/ADP her/NOUN daughter/NOUN Suri/VERB ,/PUNCT the/DET
+
+actress/PROPN has/PROPN another/ADV big/ADV event/VERB to/ADP plan/PROPN for/NOUN :/PUNCT her/PROPN wedding/VERB ./PUNCT
+And/VERB the/DET soon/NOUN -/PUNCT to/ADP -/PUNCT be/NOUN Mrs/NOUN ./PUNCT
+
+Cruise/PROPN is/VERB determined/PROPN not/PROPN to/ADP have/PROPN any/PROPN baby/PROPN weight/NOUN as/ADP a/NUM bride/NOUN ./PUNCT
+She/NOUN is/VERB preparing/NOUN
+
+for/ADP a/NUM rigorous/NOUN fitness/PROPN routine/ADV to/ADP be/PROPN a/NUM buff/PROPN bride/PROPN ./PUNCT
+
+新闻/NOUN 中/PART 的/PART buff/PROPN bride/PROPN 就是/ADV “/PUNCT 健美/VERB 的/PART 新娘/NOUN ”/PUNCT ，/PUNCT 不过/ADV ，/PUNCT 千万/ADV 不要/ADV 引起/VERB 误解/NOUN ：/PUNCT buff/PROPN
+
+bride/PROPN 可不/ADV 是/VERB 固定/ADJ 搭配/NOUN ，/PUNCT 只要/SCONJ 您/PRON 体形/NOUN 健美/VERB 、/PUNCT 毫无/VERB 赘肉/NOUN ，/PUNCT 都/ADV 可用/VERB buff/PROPN 来/PART 形容/VERB 。/PUNCT
+
+Buff/PROPN 在/ADP 这里/PRON 可用/VERB 英文/NOUN 确切/ADJ 解释/NOUN 为/VERB ：/PUNCT having/VERB a/NUM physique/NOUN enhanced/VERB by/ADP
+
+bodybuilding/PROPN （/PUNCT 由于/ADP 健身/NOUN 锻炼/NOUN 而/PART 使/VERB 体形/NOUN 健壮/NOUN 优美/VERB ）/PUNCT ，/PUNCT 由此/ADV ，/PUNCT buff/PROPN 与/CCONJ skinny/NOUN （/PUNCT 骨瘦如柴/VERB ）/PUNCT 绝不/ADV 能/VERB 等同/VERB ，/PUNCT 想/VERB 一/ADV 想/VERB 俄罗斯/PROPN 网坛/NOUN 美少女/NOUN Sharapova/PROPN （/PUNCT 莎拉·波娃/PROPN ）/PUNCT ，/PUNCT 您/PRON 就/ADV 知道/VERB 什么/PRON 是/VERB “/PUNCT 既/ADV 健壮/VERB 又/CCONJ 优美/VERB 的/PART 体形/NOUN ”/PUNCT 了/PART 。/PUNCT
+
+另外/ADV ，/PUNCT buff/PROPN 还/ADV 需要/VERB 和/ADP brawny/PROPN （/PUNCT 肌肉/NOUN 结实/VERB 的/PART ；/PUNCT 强壮/NOUN 的/PART ）/PUNCT 区别/NOUN 开来/VERB ，/PUNCT 虽然/SCONJ 两/NUM 个/NUM 词/NOUN 都/ADV 形容/VERB “/PUNCT 肌肉/NOUN 结实/VERB ”/PUNCT ，/PUNCT 但/ADV brawny/PROPN 更/ADV 侧重/VERB 指/VERB 那些/DET 由于/ADP 超强度/ADJ 训练/NOUN 而/PART 肌肉/NOUN 发达/ADJ 的/PART 运动员/NOUN ，/PUNCT 如/ADV 举重/NOUN 运动员/NOUN 健壮/NOUN 的/PART 双臂/NOUN 。/PUNCT
+
+来/VERB 个/NUM 例句/NOUN
+：/PUNCT Well/NOUN -/PUNCT disciplined/PROPN with/ADV daily/NOUN yoga/NOUN exercises/VERB ,/PUNCT and/ADV you/PRON must/NOUN have/PROPN a/NUM buff/PROPN
+
+body/VERB ./PUNCT
+（/PUNCT 每天/ADV 定时/ADV 练/VERB 瑜枷/NOUN ，/PUNCT 你/PRON 肯定/ADV 拥有/VERB 健美/VERB 的/PART 体形/NOUN 。/PUNCT ）/PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

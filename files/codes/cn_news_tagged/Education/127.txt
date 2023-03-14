@@ -1,0 +1,238 @@
+第一/NUM 页/NUM
+
+五一/NOUN 旅游/VERB 归来/VERB ，/PUNCT 是否/ADV 意犹未尽/VERB 呢/PART ？/PUNCT
+整理/VERB 心情/NOUN ，/PUNCT 一起/ADV 来/VERB 学习/VERB 旅游/NOUN 中常/NOUN 用到/VERB 的/PART 各种/ADJ 说法/NOUN 吧/PART ！/PUNCT
+
+乘/VERB 火车/NOUN 坐/VERB 飞机/NOUN 住宿/NOUN
+
+旅行/NOUN journey/PROPN ,/PUNCT
+trip/NOUN
+
+旅游/NOUN tour/NOUN
+
+旅行/NOUN 推销员/NOUN commercial/NOUN traveller/PROPN (/PUNCT 美作/NOUN :/PUNCT traveling/NOUN salesman/NOUN )/PROPN
+
+旅游者/NOUN tourist/NOUN
+
+旅行/NOUN 指南/NOUN itinerary/PROPN
+
+旅行/NOUN 路线/NOUN route/NOUN
+
+游览pleasure/NOUN trip/NOUN
+
+商务/NOUN 旅行/NOUN business/NOUN trip/NOUN
+
+出境/VERB 游/VERB out/ADP bound/PROPN touris/VERB m;/NOUN out/PROPN bound/NOUN travel/VERB
+
+出境/VERB 游客/NOUN out/ADP bound/NOUN tourist/VERB
+
+背包/VERB 旅行者/VERB backpacker/NOUN
+
+自由/ADV 行/VERB free/ADJ walker/NOUN
+
+环程/NOUN 旅行/NOUN circular/NOUN tour/NOUN
+
+往返/ADJ 旅行/NOUN return/NOUN journey/PROPN ;/PART round/VERB trip/NOUN
+
+单程/ADJ 旅行/NOUN outward/PROPN journey/PROPN
+
+套/NUM 餐游/NOUN ；/PUNCT
+包办/VERB 游/VERB package/NOUN tour/NOUN ;/ADJ inclusive/PROPN tour/NOUN
+
+远足/NOUN excursion/VERB ;/ADV outing/ADV
+
+探险/VERB expedition/VERB
+
+旅行/NOUN 支票/NOUN traveller/PROPN 's/VERB che/NOUN que/NOUN
+
+旅游/NOUN 散客/NOUN independent/NOUN traveler/NOUN
+
+旅游团/NOUN tour/NOUN group/PROPN
+
+度假区/VERB holiday/PROPN resort/PROPN
+
+票/NOUN ticket/VERB
+
+票价/NOUN fare/VERB
+
+单程/ADJ 票/NOUN single/NOUN ticket/VERB
+
+往返票/ADJ round/NOUN -/PUNCT trip/NOUN ticket/VERB ;/ADJ return/NOUN ticket/NOUN
+
+半票/VERB half/PROPN -/PUNCT
+price/NOUN ticket/NOUN 第二/NUM 页/NUM
+
+乘/VERB 火车/NOUN Take/DET the/DET train/NOUN
+
+铁路/NOUN railway/NOUN (/PUNCT 美作/PROPN :/PUNCT railroad)/NOUN
+
+轨道/NOUN track/NOUN
+
+火车/NOUN train/NOUN
+
+铁路/NOUN 系统/NOUN railway/NOUN system/NOUN ,/PUNCT railway/NOUN network/NOUN
+
+特快/ADJ 车/NOUN express/VERB train/PROPN
+
+快车/NOUN fast/PROPN train/NOUN
+
+直达/ADJ 快车/NOUN through/VERB train/NOUN
+
+慢车/ADJ stopping/NOUN train/NOUN ,/PUNCT slow/NOUN train/NOUN
+
+游览/VERB 列车/NOUN excursion/VERB train/NOUN
+
+市郊/NOUN 列车/NOUN commuter/VERB train/NOUN ,/PUNCT subur/NOUN ban/NOUN train/PROPN
+
+车厢/NOUN coach/NOUN ,/PUNCT carriage/VERB
+
+卧铺/PROPN sleeper/NOUN
+
+餐车/ADJ dining/NOUN car/PROPN ,/PUNCT restaurant/PROPN car/PROPN ,/PUNCT luncheon/PROPN car/PROPN
+
+双层/ADJ 卧铺车/PROPN sleeper/NOUN with/ADP couchettes/PROPN
+
+铺位/VERB berth/VERB ,/PUNCT bunk/PROPN
+
+上/PART
+行车/VERB up/VERB train/NOUN
+
+下行车/NOUN down/NOUN train/NOUN
+
+行/VERB 李车厢/PROPN luggage/NOUN van/NOUN ,/PUNCT baggage/VERB car/PROPN
+
+车站/NOUN 大厅/NOUN station/NOUN hall/PROPN
+
+收票员/NOUN ticket/VERB -/PUNCT collector/PROPN ,/PUNCT gateman/VERB
+
+月台/NOUN ,/PUNCT 站台/NOUN platform/NOUN
+
+站/VERB 台票/PROPN platform/NOUN ticket/NOUN
+
+小卖部/NOUN
+buffet/ADV
+
+候车室/NOUN waiting/NOUN room/NOUN
+
+行李/NOUN 暂存处/NOUN left-luggage/NOUN office/NOUN
+
+列车员/VERB car/PROPN attendant/VERB ,/PUNCT train/NOUN attendant/VERB
+
+列车长/NOUN guard/VERB ,/PUNCT conductor/PROPN
+
+行李架/NOUN rack/NOUN ,/PUNCT baggage/VERB rack/PROPN
+
+在/ADP (某/NOUN 地/PART )换车/NUM to/ADP change/VERB trains/NOUN at/ADP .../ADV
+
+在/ADP (某/NOUN 时)/NOUN 到达/VERB the/DET train/NOUN is/VERB due/NOUN at/ADP .../NOUN
+第三/NUM 页/NUM
+
+乘/VERB 飞机/NOUN Take/DET the/DET flight/NOUN
+
+护照/NOUN passport/NOUN
+
+签证/NOUN vis/VERB a/NUM
+
+证件/NOUN papers/NOUN
+
+安全/NOUN 通行证/NOUN safe-conduct/VERB ,/PUNCT pass/NOUN
+
+起飞/VERB take/NOUN of/ADP f/NOUN
+
+落地/ADJ touch/NOUN down/NOUN
+
+登记牌/NOUN boarding/PROPN pass/NOUN
+
+办理/VERB 登机/NOUN 手续/NOUN check/VERB in/NOUN
+
+候机室/NOUN departure/NOUN lounge/NOUN
+
+航班号/NOUN flight/NOUN number/NOUN
+
+国际/NOUN 抵达/VERB 处/NOUN international/PROPN arrival/PROPN
+
+国内/NOUN 抵达/VERB 处/NOUN domestic/VERB arrival/NOUN
+
+航站楼/NOUN terminal/PROPN
+
+行李/NOUN Luggage/PROPN
+
+推行/VERB 李车/PROPN luggage/NOUN
+barrow/PROPN
+
+私人/ADJ 用品/NOUN personal/VERB effects/NOUN
+
+团体/NOUN 行李/NOUN group/PROPN baggage/NOUN
+
+行李/NOUN 票/NOUN claim/PROPN tag/NOUN
+
+行/VERB 李牌/PROPN handbag/PROPN tag/NOUN
+
+行李/NOUN 标签/NOUN label/PROPN
+
+行李/NOUN 房/NOUN luggage/NOUN office/NOUN
+
+行李/NOUN 搬运/VERB 车/NOUN baggage/NOUN train/PROPN
+
+航运/NOUN 收据/VERB
+airway/PROPN bill/PROPN
+
+手/NOUN 提行/VERB 李/PROPN hand/PROPN luggage/NOUN
+
+住宿/NOUN Accom/PROPN modation/NOUN
+
+旅馆/NOUN hotel/NOUN
+
+汽车/NOUN 旅馆/NOUN motel/NOUN
+
+提供/VERB 一/NUM 夜/NOUN 住宿/NOUN 和/CCONJ 早餐/NOUN 的/PART 旅馆/NOUN B/NOUN &/NOUN B/NOUN
+
+青年/NOUN 招待所/NOUN you/PRON th/VERB hostel/NOUN
+
+豪华/ADJ 饭店/NOUN luxury/NOUN hotel/NOUN
+
+公寓/NOUN 旅馆/NOUN residential/NOUN hotel/PROPN
+
+寄宿/NOUN 公寓/NOUN boardinghouse/PROPN
+
+空房/NOUN vacant/NOUN room/NOUN
+
+套房/VERB suite/NOUN
+
+旅馆/NOUN 大厅/NOUN lobby/NOUN
+
+旅馆/NOUN 登记薄/NOUN hotel/NOUN register/NOUN
+
+登记/VERB check/VERB -/PUNCT in/NOUN
+
+结帐/NOUN check-out/VERB
+
+预定/VERB 房间/NOUN reservation/NOUN
+
+行李/NOUN 托管/VERB 证/NOUN baggage/NOUN check/VERB
+
+接待/VERB reception/NOUN
+
+登记表/NOUN registration/VERB form/VERB
+
+单人/NOUN 房间/NOUN single/NOUN room/NOUN
+
+双人/ADJ 房间/NOUN double/NOUN room/NOUN
+
+门房/NOUN porter/PROPN
+
+侍者/NOUN bellboy/PROPN
+
+清理/VERB 房间/NOUN 的/PART 女/ADJ 服务员/NOUN chambermaid/NOUN
+
+餐厅/NOUN 领班/NOUN headwaiter/PROPN
+
+半/NUM 膳/NUM half/PROPN board/PROPN
+
+全/DET 膳/NOUN full/PROPN board/PROPN
+
+在/VERB 一家/NUM 旅馆/NOUN 住宿/VERB to/ADP put/NOUN up/ADV at/ADP a/NUM hotel/NOUN
+
+订/VERB 房间/NOUN to/ADP book/PROPN a/NUM room/NOUN
+
+2/NUM

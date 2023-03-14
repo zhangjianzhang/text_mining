@@ -1,0 +1,695 @@
+【/PUNCT 来源/NOUN ：/PUNCT 沪江/PROPN 英语/NOUN 】/PUNCT
+
+编辑/NOUN 点评/NOUN ：/PUNCT 这/DET 篇/NUM 文章/NOUN 很/ADV 系统/ADJ 的/PART 介绍/VERB 了/PART CET/PROPN 中/PART 听力/NOUN 测试/NOUN 的/PART 重点/ADJ 题型/NOUN ，/PUNCT 可读性/ADV 很/ADV 强/VERB ！/PUNCT
+
+一/NUM 、/PUNCT 四六级/NOUN 英语/NOUN 听力/NOUN 的/PART 考查/NOUN 模式/NOUN
+
+1/NUM ．/PUNCT 对话/NOUN
+
+听力/NOUN 部分/NOUN 一般/ADV 是/VERB 20/NUM 个/NUM 小题/NOUN ,/PUNCT 由/ADP A和B/NOUN 两/NUM 部分/NOUN 组成/VERB 。/PUNCT
+第一/NUM 部分/NUM 通常/ADV 是/VERB 10/NUM 个/NUM 对话/NOUN ,/PUNCT 每个/DET 对话/NOUN 设/VERB 一个/NUM 小题/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 根据/ADP 对话/NOUN 内容/NOUN 从/ADP 四/NUM 个/NUM 选项/NOUN 中/PART 选择/VERB 正确/ADJ 答案/NOUN 。/PUNCT
+
+2/NUM ．/PUNCT
+短文/NOUN
+
+B部分/NOUN 有/VERB 两/NUM 种/NUM 形式/NOUN ,/PUNCT 一/NUM 是/VERB 听/VERB 短文/NOUN 。/PUNCT
+一般/ADV 是/VERB 三/NUM 篇/NUM 120/NUM -/NUM 140/NUM 字/NOUN 之间/PART 的/PART 短文/NOUN ,/PUNCT 每篇/ADV 短文/NOUN 后/PART 有/VERB 三/NUM 到/CCONJ 四/NUM 个/NUM 问题/NOUN ,/PUNCT 共/ADV 10/NUM 道/NUM 小题/NOUN 。/PUNCT
+该/DET 部分/NOUN 主要/ADJ 测试/NOUN 同学们/NOUN 的/PART 整体/NOUN 理解/NOUN 能力/NOUN 。/PUNCT
+
+3/NUM ．/PUNCT 复合式/NOUN 听写/NOUN
+
+B部分/PROPN 的/PART 另/DET 一/NUM 种/NUM 是/VERB 复合式/NOUN 听写/NOUN 。/PUNCT
+复合式/NOUN 听写/NOUN 由/ADP 两/NUM 部分/NOUN 组成/VERB 。/PUNCT
+一/NUM 是/VERB 单词/NOUN 听写/VERB ,/PUNCT 要求/VERB 同学们/NOUN 毫无/VERB 差错/NOUN 地/PART 填出/VERB 短文/NOUN 所/PART 缺/VERB 单词/NOUN 。/PUNCT
+另/DET 一/NUM 种/NUM 是/VERB 补全/NOUN 信息/NOUN 。/PUNCT
+一般/ADV 是/VERB ,/PUNCT 每段/NOUN 的/PART 第一/NUM 句/NUM 主题/NOUN 句/NOUN 已经/ADV 给出/VERB ,/PUNCT 要求/VERB 填出/NOUN 具体/ADJ 细节/NOUN 内容/NOUN 说明/VERB 主题/NOUN ,/PUNCT 可以/VERB 使用/VERB 听到/VERB 的/PART 原话/NOUN ,/PUNCT 也/ADV 可以/VERB 使用/VERB 自己/PRON 的/PART 语言/NOUN 。/PUNCT
+
+二/NUM 、/PUNCT 四六级/NOUN 英语/NOUN 听力/NOUN 的/PART 命题/ADJ 规律/NOUN 和/CCONJ 测试/NOUN 重点/NOUN
+
+对话/NOUN 部分/NUM 考查/NOUN 的/PART 重点/NOUN 有/VERB ：/PUNCT
+
+1/NUM ）/PUNCT 地点/NOUN
+
+根据/ADP 对话/NOUN 内容/NOUN 判断/VERB 对话/NOUN 发生/VERB 的/PART 地点/NOUN 或/CCONJ 对话/NOUN 中/PART 所/PART 提/VERB 事件/NOUN 发生/VERB 的/PART 地点/NOUN 是/VERB 四六级/NOUN 英语/NOUN 听力/NOUN 测试/NOUN 中/PART 常见/VERB 的/PART 也/ADV 是/VERB 比较/ADV 重要/VERB 的/PART 一个/NUM 题型/NOUN 。/PUNCT
+地点/NOUN 题/NOUN 一般/ADV 有/VERB 以下/PRON 几/NUM 种/NUM
+：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 根据/ADP 信息词/NOUN 设题/VERB
+
+①W/NOUN :/PUNCT Dear/VERB ,/PUNCT I/PRON feel/VERB hungry/VERB now/NOUN ./PUNCT
+How/NOUN about/PROPN you/PRON ?/PUNCT
+
+M/NOUN :/PUNCT So/NOUN do/VERB I./PROPN Let/PROPN me/PRON call/NOUN room/NOUN service/NOUN ./PUNCT
+Hello/INTJ ,/PUNCT room/NOUN service/NOUN ./PUNCT
+Please/NOUN send/VERB a/NUM
+
+menu/NOUN to/ADP 320/NUM right/NOUN away/VERB ./PUNCT
+
+Q/PROPN :/PUNCT Where/NOUN are/VERB the/DET two/NUM speakers/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+In/ADV a/NOUN hotel/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+At/NOUN a/NUM dinner/NOUN table/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+In/NOUN the/DET street/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+At/NOUN the/DET man's/NOUN house/PROPN ./PUNCT
+
+该/DET 题/NOUN 通过/VERB hungry/VERB 和/CCONJ menu来/ADV 迷惑/VERB 同学们/NOUN ,/PUNCT 引导/VERB 大家/PRON 选择/VERB B/NOUN ,/PUNCT 其实/ADV ,/PUNCT 本题/NOUN 所/PART 借助/VERB 的/PART 信息词/NOUN 是/VERB room/NOUN service/NOUN 和/CCONJ 320/NUM 这个/DET 房间号/NOUN ,/PUNCT 答案/NOUN 是/VERB A/NOUN 。/PUNCT
+
+②M/PROPN :/PUNCT Can/NOUN you/PRON stay/VERB for/ADP dinner/NOUN ?/PUNCT
+
+W/NOUN :/PUNCT I'd/VERB love/VERB to/VERB ./PUNCT
+But/NOUN I/PRON have/VERB to/ADP go/NOUN and/CCONJ send/NOUN some/NOUN registered/NOUN mail/NOUN before/VERB
+
+picking/VERB up/DET the/DET children/PROPN from/ADP school/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT Where/NOUN will/PROPN the/DET woman/NOUN go/NOUN first/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+To/NOUN the/DET school/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+To/NOUN a/NUM friend/NOUN 's/VERB house/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+To/NOUN the/DET post/NOUN office/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+Home/NOUN
+
+本题/NOUN 借助/VERB registered/ADJ mail/NOUN 设题/VERB ,/PUNCT 答案/NOUN 是/VERB C/NOUN 。/PUNCT
+但/ADV 这里/PRON 同样/ADV 也/ADV 有/VERB 地点/NOUN 的/PART 辨析/NOUN 问题/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 能/VERB 听出/VERB 是/VERB "/PUNCT 首先/ADV 到/VERB ……/PUNCT 地方/NOUN "/PUNCT 。/PUNCT
+
+③M/NOUN :/PUNCT Excuse/PROPN me/PRON ,/PUNCT I'm/VERB looking/VERB for/ADP the/DET emergency/ADJ room/NOUN ./PUNCT
+I/PRON thought/NOUN that/ADV it/ADP was/NOUN on/VERB
+
+the/DET first/NOUN floor/VERB ./PUNCT
+
+W/PROPN :/PUNCT
+This/PRON is/VERB the/DET basement/NOUN ./PUNCT
+Take/VERB the/DET elevator/NOUN one/ADP flight/VERB up/NOUN and/CCONJ turn/NOUN left/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT Where/NOUN did/PROPN the/DET conversation/NOUN most/NOUN probably/NOUN take/VERB place/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+In/ADV a/NUM library/NOUN
+
+B/NOUN ./PUNCT
+In/ADV a/NOUN hotel/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+In/ADV a/NUM hospital/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+In/ADV an/ADV elevator/NOUN
+
+本题/NOUN 设题/VERB 所/PART 依据/VERB 的/PART 信息/NOUN 词/NOUN 是/VERB emergency/ADJ room/NOUN ,/PUNCT 只要/SCONJ 考生/NOUN 了解/VERB 其/PRON 语域/NOUN 就/ADV 可/VERB 判断/VERB 答案/NOUN 为/VERB C/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 借助/VERB 对话/NOUN 中/PART 提到/VERB 的/PART 多/NUM 个/NUM 地点/NOUN 设题/VERB
+
+有时/ADV 对话/NOUN 中/PART 提到/VERB 的/PART 地点/NOUN 不只/VERB 一个/ADV ,/PUNCT 这时/ADV ,/PUNCT 一般/ADV 是/VERB 将/X 所有/DET 的/PART 地点/NOUN 都/ADV 包括/VERB 在/ADP 选项/NOUN 之中/PART 。/PUNCT
+这种/DET 情况/NOUN 下/PART ,/PUNCT 同学们/NOUN 不必/ADV 考虑/VERB 信息词/NOUN 问题/NOUN ,/PUNCT 只要/SCONJ 能/VERB 将/X 地点/NOUN 与其/CCONJ 相关/ADJ 事件/NOUN 联系/VERB 起来/VERB 就/ADV 可/VERB 确定/VERB 答案/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①M/NOUN :/PUNCT I/PRON did/NOUN not/PROPN see/VERB our/NOUN boss/VERB yesterday/ADV ./PUNCT
+Has/PROPN he/VERB come/PROPN back/PROPN ?/PUNCT
+
+W/NOUN :/PUNCT He/VERB was/NOUN just/VERB back/PROPN from/ADP France/NOUN besides/PROPN visiting/VERB Brita/NOUN in/NOUN ,/PUNCT Ger/NOUN many/VERB ,/PUNCT
+and/CCONJ
+
+Spain/PROPN ./PUNCT
+
+Q/PROPN :/PUNCT Which/PROPN country/PROPN did/PROPN the/DET woman/NOUN visit/NOUN first/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+France/NOUN
+
+B/NOUN ./PUNCT
+Britain/PROPN
+
+C/NOUN ./PUNCT
+Ger/NOUN many/ADV
+
+D/NOUN ./PUNCT
+Spain/PROPN
+
+四/NUM 个/NUM 地点/NOUN 都/ADV 是/VERB 访问/VERB 过/PART 的/PART 地点/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 能够/VERB 分清/VERB 先后/NOUN 。/PUNCT
+答案/NOUN 为/VERB B/NOUN 。/PUNCT
+
+②M/PROPN :/PUNCT Will/NOUN Mr/NOUN ./PUNCT
+Smith/INTJ come/PROPN to/ADP the/DET party/NOUN at/ADP the/DET weekend/NOUN ?/PUNCT
+
+W/NOUN :/PUNCT He'll/PROPN be/PROPN supposed/VERB to/ADP ,/PUNCT but/PROPN he/ADP won't/PROPN be/PROPN back/PROPN from/ADP his/PROPN trip/NOUN until/PROPN the/DET next/NOUN
+
+week/VERB ./PUNCT
+
+Q/PROPN :/PUNCT Where/NOUN will/PROPN Mr/PART ./PUNCT
+Smith/PROPN be/NOUN on/VERB Saturday/PROPN ?/PUNCT
+
+A/NOUN ./PUNCT
+At/NOUN the/DET party/NOUN
+
+B/NOUN ./PUNCT
+At/NOUN home/NOUN
+
+C/NOUN ./PUNCT
+Still/PROPN on/ADP his/PROPN trip/NOUN
+
+D/NOUN ./PUNCT
+Back/PROPN from/ADP his/NOUN trip/NOUN ./PUNCT
+
+本题/NOUN 是/VERB 将/X 地点/NOUN 与/CCONJ 时间/NOUN 连/VERB 在一起/ADV ,/PUNCT 要求/VERB 同学们/NOUN 在/ADP 听/VERB 的/PART 同时/ADV 注意/VERB 区别/NOUN 每个/DET 事件/NOUN 所/PART 发生/VERB 的/PART 时间/NOUN ,/PUNCT 答案/NOUN 为/VERB C/NOUN 。/PUNCT
+
+2/NUM ）/PUNCT 职业/NOUN 、/PUNCT 身份/NOUN
+
+根据/ADP 说话/NOUN 内容/NOUN 判断/VERB 说话者/NOUN 的/PART 身份/NOUN 和/CCONJ 职业/NOUN 是/VERB 四六级/NOUN 听力/NOUN 测试/NOUN 中/PART 又/ADV 一/NUM 常见/ADJ 题型/NOUN 。/PUNCT
+该/DET 题型/NOUN 的/PART 题项/NOUN 设计/NOUN 有/VERB 两/NUM 种/NUM ：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 说话者/NOUN 自身/PRON 的/PART 身份/NOUN 或/CCONJ 职业/NOUN
+
+根据/ADP 谈话/NOUN 内容/NOUN 判断/VERB 说话者/NOUN 一方/NOUN 的/PART 职业/NOUN 或/CCONJ 身份/NOUN ：/PUNCT
+
+①W/NOUN :/PUNCT Good/NOUN evening/VERB ,/PUNCT Professor/PROPN David/PROPN ./PUNCT
+My/PRON name/NOUN is/VERB Susan/PROPN Gray/PROPN ./PUNCT
+I'm/VERB with/DET the/DET
+
+local/NOUN newspaper/NOUN ./PUNCT
+Do/ADV you/PRON mind/NOUN if/VERB I/PRON a/NUM sk/NOUN you/PRON a/NUM few/NOUN questions/NOUN ?/PUNCT
+
+M/NOUN :/PUNCT Not/NOUN at/VERB all/PRON ./PUNCT
+Go/NOUN ahead/VERB ,/PUNCT please/VERB ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN is/VERB Susan/PROPN Gray/PROPN ?/PUNCT
+
+A/NOUN ./PUNCT
+A/NOUN writer/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+A/NUM teacher/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+A/NOUN reporter/PROPN ./PUNCT
+
+D/NOUN ./PUNCT
+A/NOUN student/NOUN ./PUNCT
+
+由/ADP local/NOUN newspaper/NOUN 可以/VERB 判断/VERB 说话者/NOUN 是/VERB 位/NUM 记者/NOUN ,/PUNCT 在/ADV 采访/VERB 。/PUNCT
+
+②M/PROPN :/PUNCT How/NOUN about/VERB the/DET food/NOUN I/PRON ordered/X ?/PUNCT
+I've/NOUN been/NOUN waiting/PROPN for/ADP 20/NUM minutes/NUM
+
+already/VERB ./PUNCT
+
+W/PROPN :/PUNCT I'm/PROPN very/ADJ sorry/VERB ,/PUNCT sir/NOUN ./PUNCT
+I'll/VERB be/PROPN back/PROPN with/ADP your/PRON order/NOUN in/VERB a/NUM minute/NOUN ./PUNCT
+
+Q/NOUN :/PUNCT Who/NOUN is/VERB the/DET man/NOUN most/NOUN probably/NOUN speaking/NOUN to/PART ?/PUNCT
+
+A/NOUN ./PUNCT
+A/NOUN shop/NOUN assistant/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+A/NOUN telephone/NOUN operator/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+A/NOUN waitress/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+A/NOUN clerk/VERB ./PUNCT
+
+与/ADP order/NOUN 有关/VERB 的/PART 自然/ADV 是/VERB waitress/VERB ,/PUNCT 答案/NOUN 为/VERB A/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 说话/VERB 双方/PRON 之间/PART 的/PART 关系/NOUN
+
+该/DET 题型/NOUN 是/VERB 上/DET 一题型/NUM 的/PART 延伸/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 能/VERB 判断/VERB 说话者/NOUN 双方/PRON 的/PART 身份/NOUN ,/PUNCT 问题/NOUN 经常/ADV 是/VERB What/NOUN 's/VERB the/DET relation/NOUN ship/VERB between/VERB the/DET two/NOUN
+
+speakers/PROPN ?/PUNCT
+
+①W/NOUN :/PUNCT How/NOUN long/NOUN will/VERB it/ADP take/PRON you/PRON to/ADP fix/NOUN my/ADV watch/NOUN ?/PUNCT
+
+M/NOUN :/PUNCT I'll/PUNCT call/NOUN you/PRON when/VERB it/VERB 's/VERB ready/NOUN ./PUNCT
+But/ADV it/NUM shouldn't/NOUN take/VERB longer/NOUN than/VERB a/NUM
+
+week/VERB ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN is/VERB the/DET probable/VERB relation/NOUN ship/VERB between/VERB the/DET speakers/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+Librarian/PROPN and/CCONJ student/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Operator/NOUN and/CCONJ caller/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+Boss/PROPN and/CCONJ secretary/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+Customer/PROPN and/CCONJ repairman/NOUN ./PUNCT
+
+既然/SCONJ 女士/NOUN 让/VERB 男的/NOUN fix/VERB my/PART watch/NOUN ,/PUNCT 说明/VERB 对方/PRON 是/VERB repairman/NOUN ,/PUNCT 而/ADV 自己/PRON 是/VERB customer/NOUN 。/PUNCT
+
+②M/PROPN :/PUNCT Sorry/PROPN to/ADP trouble/PROPN you/PRON ./PUNCT
+But/NOUN is/VERB there/NOUN any/PROPN possibility/NOUN of/ADP borrowing/VERB a/NUM
+
+blanket/NOUN ?/PUNCT
+I/PRON feel/VERB cold/VERB ./PUNCT
+
+W/NOUN :/PUNCT I/PRON think/VERB we've/PUNCT got/NOUN one/NOUN ./PUNCT
+Could/PROPN you/PRON wait/VERB until/PROPN after/PROPN take/NOUN -/PUNCT of/ADV f/PROPN please/ADV ?/PUNCT
+
+Q/PROPN :/PUNCT What/PROPN is/VERB the/DET probable/VERB relation/NOUN ship/VERB between/VERB the/DET two/NUM speakers/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+A/NOUN guest/NOUN and/CCONJ a/NUM receptionist/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+A/NOUN passenger/NOUN and/CCONJ an/NOUN air/PROPN hostess/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+A/NOUN customer/NOUN and/CCONJ a/NUM shop/NOUN assistant/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+A/NOUN guest/NOUN and/CCONJ a/NUM waitress/NOUN ./PUNCT
+
+take/PROPN -/PUNCT off一词/NOUN 的/PART 使用/NOUN 说明/VERB 女的/NOUN 是/VERB 空姐/NOUN ,/PUNCT 答案/NOUN 自然/ADV 是/VERB B/NOUN 。/PUNCT
+
+可以/VERB 看出/VERB ,/PUNCT 职业/NOUN 、/PUNCT 身份/NOUN 以及/CCONJ 说话/VERB 双方/PRON 关系/NOUN 的/PART 选择/NOUN 所/PART 依据/VERB 的/PART 同样/ADV 是/VERB 信息词/NOUN 。/PUNCT
+当然/ADV ,/PUNCT 要/VERB 判断/VERB 双方/PRON 的/PART 关系/NOUN ,/PUNCT 还/ADV 可以/VERB 从/ADP 说话/VERB 的/PART 方式/NOUN 入手/VERB 。/PUNCT
+如/ADV ：/PUNCT
+
+③M/PROPN :/PUNCT Make/NOUN thirty/VERB copies/NOUN for/ADP me/PRON and/CCONJ twenty/NOUN copies/NOUN for/ADP Mr/NOUN ./PUNCT
+Brown/PROPN ./PUNCT
+
+W/PROPN :/PUNCT Certainly/PROPN sir/NOUN ./PUNCT
+As/NOUN soon/NOUN as/VERB I/PRON make/NOUN the/DET final/ADJ corrections/NOUN on/CCONJ the/DET
+
+original/ADV ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN 's/VERB the/DET relation/NOUN ship/VERB between/VERB the/DET two/NUM speakers/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+Boss/PROPN and/CCONJ secretary/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Lawyer/PROPN and/CCONJ client/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+Teacher/PROPN and/CCONJ student/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+Nurse/PROPN and/CCONJ patient/NOUN ./PUNCT
+
+两/NUM 人间/NOUN 说话/VERB 的/PART 语气/NOUN 和/CCONJ 方式/NOUN 表明/VERB 是/VERB "/PUNCT 老板/NOUN 与/ADP 秘书"/NOUN 的/PART 关系/NOUN 。/PUNCT
+
+3/NUM ）/PUNCT 计算/VERB 题/NOUN
+
+计算题/NOUN 在/ADP 四六级/NOUN 英语/NOUN 听力/NOUN 中/PART 属于/VERB 比较/ADV 难/VERB 的/PART 题型/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 不仅/ADV 能/VERB 分辨/VERB 不同/ADJ 的/PART 时间/NOUN 、/PUNCT 金钱/NOUN 等/PART 数量/NOUN 概念/NOUN ,/PUNCT 还/ADV 应/VERB 能/VERB 将/ADV 听到/VERB 的/PART 各个/DET 数量/NOUN 联系/VERB 起来/VERB 进行/VERB 加减/NOUN 运算/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①M/NOUN :/PUNCT Your/PROPN son/NOUN seems/NOUN to/ADP have/PROPN made/NOUN much/VERB progress/NOUN in/ADP playing/NOUN the/DET piano/VERB ./PUNCT
+Does/NOUN he/VERB
+
+attend/NOUN any/PROPN pian/NOUN o/ADV classes/NOUN ?/PUNCT
+
+W/PROPN :/PUNCT Yes/PROPN ,/PUNCT he/VERB takes/NOUN lessons/VERB twice/NOUN a/NUM week/VERB ,/PUNCT but/PROPN from/ADP next/NOUN week/VERB on/VERB ,/PUNCT he/VERB will/NOUN go/VERB to/ADP
+
+the/DET class/NOUN on/ADP Saturday/PROPN evenings/VERB ,/PUNCT too/ADV ./PUNCT
+
+Q/PROPN :/PUNCT How/NOUN often/VERB will/VERB the/DET woman's/NOUN son/PROPN have/NOUN pian/PROPN o/ADP lessons/PROPN from/ADP next/NOUN week/VERB on/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+Once/ADV a/NUM week/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+Twice/PROPN a/NUM week/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+Three/PROPN times/NOUN a/NUM week/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+Four/NOUN times/NOUN a/NUM week/VERB ./PUNCT
+
+两/NUM 次/NUM 加/VERB 一/NUM 次/NUM 自然/ADV 是/VERB 三/NUM 次/NUM ,/PUNCT 答案/NOUN 是/VERB C/NOUN 。/PUNCT
+
+②W/PROPN :/PUNCT Professor/PROPN Clark/NOUN said/NOUN that/ADV the/DET mid-ter/PUNCT m/PUNCT exam/NOUN would/PROPN cover/VERB the/DET first/NOUN 15/NUM
+
+lessons/PROPN ./PUNCT
+
+M/NOUN :/PUNCT Really/PROPN ?/PUNCT
+I/PRON thought/NOUN it/ADV only/ADP included/PROPN the/DET first/NOUN 12/NUM lessons/NOUN ./PUNCT
+Then/INTJ I/PRON must/X
+
+spend/VERB the/DET weekend/NOUN going/VERB over/ADP the/DET rest/NOUN of/ADP the/DET lessons/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT How/NOUN many/NOUN lessons/VERB must/NOUN the/DET man/NOUN review/VERB over/VERB the/DET weekend/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+Five/PROPN lessons/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Three/PROPN lessons/PROPN ./PUNCT
+
+C/NOUN ./PUNCT
+Twelve/PROPN lessons/PROPN
+
+D/NOUN ./PUNCT
+Fifteen/PROPN lessons/NOUN ./PUNCT
+
+这是/VERB 最/ADV 简单/ADJ 的/PART 计算题/NOUN ,/PUNCT 只要/SCONJ 同学们/ADV 不/ADV 将/X 答案/NOUN 误认为/NOUN 是/VERB C/NOUN 或/CCONJ D/NOUN ,/PUNCT 就/ADV 不/ADV 会/VERB 出错/VERB 。/PUNCT
+
+③W/NOUN :/PUNCT Here's/VERB a/NUM 10-dollar/NUM bill/NOUN ./PUNCT
+Give/VERB me/PRON two/ADV tickets/NOUN for/ADP tonight/NOUN 's/VERB show/NOUN
+
+please/NOUN ./PUNCT
+
+M/X :/PUNCT Sure/PROPN ./PUNCT
+Two/NOUN tickets/NOUN and/CCONJ here/PRON is/VERB '/ADV 1/NUM ,/PUNCT 40/NUM change/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT How/NOUN much/ADJ does/NOUN one/NOUN ticket/DET cost/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+'/VERB 1.40/NOUN ./PUNCT
+B/NOUN ./PUNCT
+'/ADJ 4./NUM 30/NUM ./PUNCT
+C/NOUN ./PUNCT '/VERB 6/NUM ./PUNCT
+40/NUM ./PUNCT
+D/NOUN ./PUNCT
+'/VERB 8/NUM ./PUNCT
+60/NUM
+
+10/NUM 美元/NUM ,/PUNCT 两/NUM 张/NUM 票/NOUN ,/PUNCT 找/VERB 零1/NUM ./PUNCT
+40/NUM 美元/NUM ,/PUNCT 说明/VERB 每张/ADJ 票/NOUN 为/VERB 4./NUM 30/NUM 美元/NUM 。/PUNCT
+
+从/ADP 以上/PRON 例子/NOUN 可以/VERB 看出/VERB ,/PUNCT 含有/VERB 数量/NOUN 概念/NOUN 的/PART 题/NOUN ,/PUNCT 对话/NOUN 中/PART 提到/VERB 的/PART 数量/NOUN 一般/ADV 不/ADV 可能/VERB 为/ADP 正确/ADJ 答案/NOUN ,/PUNCT 总/ADV 要/VERB 同学们/NOUN 进行/VERB 一些/NUM 简单/VERB 的/PART 加减/VERB 运算/NOUN 。/PUNCT
+
+4/NUM ）/PUNCT 言外之意/VERB 、/PUNCT 弦外之音/VERB
+
+推测/VERB 说话者/NOUN 话/NOUN 中/PART 之/PART 话/NOUN 是/VERB 听力/NOUN 中/PART 必考/VERB 的/PART 题型/NOUN 。/PUNCT
+从/ADP 试题/NOUN 的/PART 设计/NOUN 特点/NOUN 来看/PART ,/PUNCT 大体/ADV 有/VERB 一下/ADV 几/NUM 种/NUM
+：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 对/ADP 虚拟/ADJ 语气/NOUN 的/PART 考查/NOUN
+
+包含/VERB 虚拟/ADJ 语气/NOUN 的/PART 听力/NOUN 考题/NOUN 中/PART 一般/ADV 都/ADV 有/VERB "/PUNCT 是/VERB 与/ADP 非"/ADV 相对/VERB 的/PART 选项/VERB ,/PUNCT 这就/ADV 要求/VERB 同学们/NOUN 了解/VERB 虚拟/ADJ 语气/NOUN 的/PART 表意/NOUN 功能/NOUN ,/PUNCT 根据/ADP 虚拟/ADJ 语气/NOUN 判断/NOUN 正确/ADJ 选项/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①W/NOUN :/PUNCT I'm/NOUN thinking/NOUN of/ADP going/VERB to/ADP Austin/PROPN for/ADP a/NUM visit/NOUN ./PUNCT
+Do/ADV you/PRON think/VERB it/NOUN 's/VERB worth/VERB
+
+seeing/NOUN ?/PUNCT
+
+M/NOUN :/PUNCT Well/PROPN ,/PUNCT I/PRON wish/VERB I/PRON had/NOUN been/NOUN there/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN do/NOUN we/NOUN learn/PROPN from/ADP the/DET conversation/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+The/DET man/NOUN is/VERB planning/VERB a/NUM trip/NOUN to/ADP Austin/PROPN ./PUNCT
+
+B/NOUN ./PUNCT
+The/DET man/ADP has/PROPN not/PROPN been/NOUN to/ADP Austin/PROPN before/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+The/DET man/ADP doesn/PROPN 't/NOUN like/NOUN Austin/PROPN ./PUNCT
+
+D/NOUN ./PUNCT
+The/DET man/ADP has/PROPN been/NOUN to/ADP Austin/PROPN before/VERB ./PUNCT
+
+I/PRON wish/VERB I/PRON had/NOUN been/NOUN there/NOUN ./PUNCT
+说明/VERB 说话/VERB 人/NOUN 没有/ADV 去/VERB 过/PART 。/PUNCT
+
+②W/PROPN :/PUNCT If/NOUN it/VERB hadn/PROPN 't/NOUN been/NOUN snowing/NOUN so/ADV hard/VERB ,/PUNCT I/PRON might/VERB have/PROPN been/ADJ home/NOUN by/ADP 9/NUM
+
+o'/ADP clock/PROPN ./PUNCT
+
+M/NOUN :/PUNCT It/NOUN 's/VERB too/ADV bad/PROPN you/PRON didn/NOUN 't/VERB make/NOUN it/NOUN ./PUNCT
+Jane/PROPN was/NOUN here/PRON and/CCONJ she/NOUN wanted/ADV to/ADP see/VERB
+
+you/PRON ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN happened/VERB to/ADP the/DET woman/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+She/NOUN got/VERB home/NOUN before/NOUN 9/NUM o'/PUNCT clock/PROPN ./PUNCT
+
+B/NOUN ./PUNCT
+She/NOUN had/PROPN a/PROPN bad/PROPN cold/PROPN ./PUNCT
+
+C/NOUN ./PUNCT
+She/NOUN had/PROPN a/NUM car/PROPN accident/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+She/NOUN was/ADV delayed/VERB ./PUNCT
+
+If/NOUN it/VERB hadn/PROPN 't/NOUN been/NOUN snowing/NOUN so/ADV hard/VERB ,/PUNCT I/PRON might/VERB have/PROPN been/ADJ home/NOUN by/ADP 9/NUM
+
+o'/ADP clock/PROPN ./PUNCT
+说明/VERB 因为/ADP 雪/NOUN 太/ADV 大/VERB ,/PUNCT 说话者/NOUN 未能/ADV 在/ADP 9点/NOUN 前/PART 到家/VERB 。/PUNCT
+也就是说/ADV she/NOUN was/NOUN delayed/VERB 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 对/ADP 建议/NOUN 的/PART 考查/NOUN
+
+建议/VERB 题/NOUN 要求/VERB 同学们/NOUN 掌握/VERB 建议/NOUN 的/PART 各种/ADJ 表达/NOUN 方式/NOUN ,/PUNCT 根据/ADP 建议/NOUN 选择/NOUN 正确/ADJ 选项/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①W/NOUN :/PUNCT The/DET movie/NOUN starts/NOUN in/ADP 5/NUM minutes/NUM and/CCONJ there's/NOUN bound/ADV to/ADP be/PROPN a/NOUN long/NOUN time/NOUN ./PUNCT
+
+M/NOUN :/PUNCT Why/NOUN don't/NOUN we/NOUN come/PROPN back/PROPN for/ADP the/DET next/NOUN show/VERB ?/PUNCT
+I'm/NOUN sure/NOUN it/VERB would/PROPN be/PROPN less/PROPN
+
+crowded/VERB ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN is/VERB the/DET man/NOUN suggesting/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+Coming/VERB back/PROPN for/ADP a/DET later/NOUN show/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Waiting/NOUN in/ADP a/NUM queue/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+Coming/VERB back/PROPN in/NOUN five/PROPN minutes/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+Not/NOUN going/VERB to/ADP the/DET movie/NOUN today/VERB ./PUNCT
+
+Why/NOUN don't/NOUN …/PUNCT ?/PUNCT
+上/DET 一/NUM 种/NUM 建议/NOUN 表达/NOUN 方式/NOUN ,/PUNCT 根据/ADP 该/DET 句/NUM 所/PART 表达/VERB 的/PART 内容/NOUN 可以/VERB 判断/VERB 答案/NOUN 是/VERB A/NOUN 。/PUNCT
+
+②W/PROPN :/PUNCT We/NOUN do/NOUN need/VERB another/NOUN bookshelf/ADV in/VERB this/NOUN room/NOUN ./PUNCT
+But/ADV the/DET problem/VERB is/VERB the/DET space/NOUN
+
+for/ADP it/NOUN ./PUNCT
+
+M/NOUN :/PUNCT How/NOUN about/PROPN moving/VERB the/DET old/ADJ dining/VERB table/NOUN to/ADP the/DET kitchen/NOUN ？/PUNCT
+
+Q/PROPN :/PUNCT What/PROPN does/NOUN the/DET man/ADP suggest/NOUN they/NOUN should/ADV do/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+Finding/PROPN a/NUM larger/NOUN room/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Sell/NOUN the/DET old/ADJ table/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+Buy/NOUN two/NOUN bookshelves/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+Rearrange/PROPN some/NOUN furniture/VERB ./PUNCT
+
+根据/ADP moving/ADJ the/DET dining/NOUN table/NOUN to/ADP the/DET kitchen/NOUN 来/PART 判断/VERB 答案/NOUN 为/VERB D/NOUN 。/PUNCT
+
+建议/NOUN 的/PART 表达/NOUN 方式/NOUN 还有/VERB ：/PUNCT
+
+Why/NOUN not/PROPN …/PUNCT ?/PUNCT
+What/NOUN do/VERB you/PRON think/VERB of/ADP …/PUNCT ?/PUNCT
+
+If/NOUN I/PRON were/PROPN you/PRON //PUNCT If/NOUN I/PRON were/NOUN in/VERB your/PRON shoes/VERB ,/PUNCT I/PRON would/PROPN …/PUNCT
+
+Shall/PROPN we/NOUN …/PUNCT ?/PUNCT
+I/PRON suggest/VERB …/PUNCT ./PUNCT
+
+You/PRON 'd/VERB better/PROPN //PUNCT You/PRON ought/VERB to/NOUN …/PUNCT ./PUNCT
+
+(/PUNCT 3/NUM )/NOUN 对/ADP 话题/NOUN 的/PART 考查/NOUN
+
+话题/NOUN 指会/VERB 话/VERB 双方/PRON 所/PART 谈论/VERB 的/PART 话题/NOUN ,/PUNCT 要求/VERB 同学们/NOUN 具有/VERB 概括/NOUN 能力/NOUN 。/PUNCT
+如/ADP ：/PUNCT
+
+①W/NOUN :/PUNCT Do/ADV you/PRON want/VERB a/NUM day/PROPN course/PROPN or/CCONJ an/PROPN evening/VERB course/VERB ?/PUNCT
+
+M/NOUN :/PUNCT Well/PROPN ,/PUNCT it/NOUN would/PROPN have/PRON to/ADP be/PROPN an/PROPN evening/VERB course/PROPN since/NOUN I/PRON work/ADV during/VERB the/DET
+
+day/PROPN ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN are/VERB they/ADJ talking/NOUN about/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+The/DET choice/NOUN of/ADP courses/PROPN ./PUNCT
+
+B/NOUN ./PUNCT
+A/NOUN day/PROPN course/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+An/NOUN evening/VERB course/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+The/DET ir/NOUN work/VERB ./PUNCT
+
+两/NUM 个人/NOUN 谈论/VERB 的/PART 是/VERB 选/VERB 白天/NOUN 的/PART 课/NOUN 还是/CCONJ 晚上/NOUN 的/PART 课/NOUN ,/PUNCT 由此/ADV 可以/VERB 判断/VERB 答案/NOUN 应该/VERB 是/VERB A/NOUN 。/PUNCT
+
+②M/PROPN :/PUNCT I/PRON was/NOUN terribly/NOUN embarrassed/VERB when/PROPN some/NOUN of/ADP the/DET audience/NOUN got/NOUN up/NOUN and/CCONJ left/NOUN in/NOUN
+
+the/DET middle/NOUN of/ADP the/DET perfor/NOUN mance/NOUN ./PUNCT
+
+W/NOUN :/PUNCT Well/PROPN ,/PUNCT some/NOUN people/NOUN just/VERB can/VERB 't/X seem/VERB to/ADP appreciate/NOUN the/DET real-life/ADV drama/NUM ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN are/VERB they/ADJ talking/NOUN about/VERB ?/PUNCT
+
+A/NOUN ./PUNCT
+A/NOUN movie/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+A/NOUN lecture/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+A/NOUN play/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+A/NUM s/NOUN peech/NOUN ./PUNCT
+
+从/ADP 对话/NOUN 中/PART 的/PART audience/NOUN ,/PUNCT perfor/NOUN mance/NOUN 与其说/ADV drama/NOUN 可以/VERB 判断/VERB 他们/PRON 所/PART 谈论/VERB 的/PART 是/VERB a/NUM play/NOUN 。/PUNCT
+
+4/NUM )/NOUN 同义/ADV 表达/VERB 方式/NOUN 的/PART 考查/NOUN
+
+四六级/NOUN 听力/NOUN 测试/NOUN 中/PART 对/ADP 隐含/VERB 意思/NOUN 的/PART 考查/NOUN 很/ADV 大/ADJ 程度/NOUN 上/PART 依赖于/VERB 同义/ADV 表达/VERB 方式/NOUN ，/PUNCT 也/ADV 就是/ADV 同学们/NOUN 对/ADP 具体/ADJ 句式/NOUN 、/PUNCT 短语/NOUN 、/PUNCT 词组/NOUN 甚至/ADV 单词/NOUN 的/PART 理解/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①M/PROPN :/PUNCT What/PROPN do/VERB you/PRON think/VERB of/ADP Professor/PROPN Brown's/NOUN lecture/VERB ?/PUNCT
+
+W/NOUN :/PUNCT The/DET topic/PROPN was/NOUN interesting/VERB ,/PUNCT but/ADV the/DET lecture/NOUN was/NOUN much/VERB more/ADP difficult/NOUN to/ADP
+
+follow/PROPN than/VERB I/PRON had/NOUN expected/VERB ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN does/NOUN the/DET woman/NOUN say/NOUN about/PROPN the/DET lecture/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+It/NOUN was/NOUN a/VERB long/NOUN lecture/NOUN ,/PUNCT but/PROPN easy/NOUN to/ADV understand/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+It/NOUN was/NOUN not/PROPN as/ADP easy/NOUN as/VERB she/NOUN had/NOUN expected/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+It/NOUN was/NOUN as/VERB difficult/NOUN as/NOUN she/NOUN had/NOUN expected/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+It/NOUN was/NOUN interesting/NOUN and/CCONJ easy/NOUN to/ADV follow/VERB ./PUNCT
+
+与/ADP much/NOUN more/ADP difficult/VERB to/ADP follow/ADJ than/VERB I/PRON had/NOUN expected/VERB 同义/VERB 的/PART 应该/VERB 是/VERB B/NOUN 。/PUNCT
+
+②M/NOUN :/PUNCT Nancy/PROPN ,/PUNCT why/PROPN were/PROPN you/PRON late/NOUN today/VERB ?/PUNCT
+
+W/NOUN :/PUNCT I/PRON overslept/NOUN and/CCONJ missed/PROPN the/DET bus/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT Why/NOUN was/NOUN Nancy/NOUN late/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+She/NOUN got/PROPN up/PROPN later/NOUN than/NOUN usual/VERB ./PUNCT
+
+B/NOUN ./PUNCT
+The/DET bus/PROPN was/NOUN late/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+She/NOUN forgot/VERB she/NOUN had/NOUN class/PROPN ./PUNCT
+
+D/NOUN ./PUNCT
+Her/NOUN clock/PROPN was/NOUN slow/VERB ./PUNCT
+
+overslept/NOUN 也/ADV 就是/ADV got/VERB up/ADV later/NOUN than/VERB usual/VERB 。/PUNCT
+
+③M/NOUN :/PUNCT Did/NOUN you/PRON mind/NOUN coming/VERB back/PROPN by/ADP coach/PROPN instead/NOUN of/ADP by/ADP train/PROPN ?/PUNCT
+
+W/NOUN :/PUNCT No/ADV ,/PUNCT we/VERB didn/NOUN 't/VERB mind/NOUN at/VERB all/PRON ./PUNCT
+It/NOUN took/NOUN a/DET lot/NOUN longer/VERB ,/PUNCT but/ADV it/ADP was/NOUN very/VERB
+
+comfortable/PROPN and/CCONJ it/NOUN was/NOUN much/VERB cheaper/VERB ./PUNCT
+
+Q/PROPN :/PUNCT How/NOUN did/PROPN the/DET woman/NOUN feel/VERB about/PROPN the/DET coming/NOUN back/PROPN by/CCONJ coach/PROPN ?/PUNCT
+
+A/NOUN ./PUNCT
+She/NOUN felt/VERB it/NOUN was/NOUN tiring/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+She/NOUN felt/VERB it/ADP was/NOUN very/VERB nice/NOUN ./PUNCT
+
+C/NOUN ./PUNCT
+She/NOUN felt/VERB it/NOUN took/NOUN less/NOUN time/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+She/NOUN thought/NOUN it/ADP was/NOUN expensive/VERB ./PUNCT
+
+从/ADP comfortable/PROPN 和/CCONJ much/NOUN cheaper/VERB 来看/PART ，/PUNCT 女士/NOUN 的/PART 感觉/NOUN 应该/VERB 是/VERB very/VERB nice/NOUN ，/PUNCT 答案/NOUN 应该/VERB 是/VERB B/NOUN 。/PUNCT
+
+(/PUNCT 5/NUM )/NOUN 上/PART 下义/VERB 概念/NOUN 的/PART 考查/NOUN
+
+有/VERB 些题/NOUN 尽管/SCONJ 问题/NOUN 可能/VERB 问/VERB 的/PART 是/VERB 含义/NOUN 之类/NOUN ，/PUNCT 但/ADV 其实/ADV 考查/VERB 的/PART 是/VERB 同学们/NOUN 对/ADP 上下义/PROPN 关系/NOUN 的/PART 掌握/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+①M/NOUN :/PUNCT Let/PROPN me/PRON see/VERB ./PUNCT
+I've/NOUN printed/NOUN my/VERB family/NOUN name/VERB ,/PUNCT first/ADV name/VERB ,/PUNCT date/PROPN of/ADP birth/PROPN and/CCONJ
+
+address/NOUN ./PUNCT
+Anything/VERB else/VERB ?/PUNCT
+
+W/NOUN :/PUNCT No/ADV ,/PUNCT that/NOUN 's/VERB all/DET right/NOUN ./PUNCT
+We'll/NOUN fill/NOUN in/ADP the/DET rest/NOUN of/ADP it/NOUN if/VERB you/PRON just/VERB sign/NOUN your/PRON
+
+name/PROPN at/ADP the/DET bottom/NOUN ./PUNCT
+
+Q/PROPN :/PUNCT What/PROPN has/PROPN the/DET man/NUM been/ADJ doing/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+Having/VERB an/ADJ interview/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+Filling/PROPN out/PROPN a/NUM form/VERB ./PUNCT
+
+C/NOUN ./PUNCT
+Talking/ADV with/ADV a/NUM friend/VERB ./PUNCT
+
+D/NOUN ./PUNCT
+Asking/VERB for/PROPN information/NOUN ./PUNCT
+
+上/PART 义词/VERB 为/VERB 概括性/NOUN 词语/NOUN ，/PUNCT 下义词/NOUN 所/PART 表示/VERB 的/PART 则/ADV 是/VERB 具体/ADJ 的/PART 东西/NOUN 。/PUNCT
+本题/NOUN 中/PART 能够/VERB 概括/VERB 男士/NOUN 所/PART 做/VERB 之/PART 事/NOUN 的/PART 应该/VERB 是/VERB 选项B/NOUN 。/PUNCT
+
+②M/PROPN :/PUNCT What/PROPN happened/VERB to/ADP you/PRON ?/PUNCT
+You/PRON are/VERB so/VERB late/NOUN ./PUNCT
+
+W/NOUN :/PUNCT The/DET bus/PROPN I/PRON took/NOUN broke/PROPN down/NOUN in/ADV front/VERB of/ADP the/DET hospital/NOUN and/CCONJ I/PRON had/NOUN to/ADP walk/NOUN
+
+from/ADP there/NOUN ./PUNCT
+
+Q/NOUN :/PUNCT Why/NOUN was/NOUN the/DET woman/NOUN so/ADV late/NOUN ?/PUNCT
+
+A/NOUN ./PUNCT
+Something/NOUN went/NOUN wrong/VERB with/VERB the/DET bus/NOUN ./PUNCT
+
+B/NOUN ./PUNCT
+She/NOUN took/NOUN some/NOUN body/VERB to/ADP hospital/PROPN ./PUNCT
+
+C/NOUN ./PUNCT
+Something/PROPN p/NOUN revented/NOUN her/PROPN from/ADP catching/VERB the/DET bus/NOUN ./PUNCT
+
+D/NOUN ./PUNCT
+She/NOUN came/PROPN on/ADP foot/NOUN instead/NOUN of/ADP taking/PROPN a/NUM bus/PROPN ./PUNCT
+
+Something/PROPN went/NOUN wrong/NOUN 是/VERB 对/ADP the/DET bus/PROPN break/PROPN down/NOUN 的/PART 概括性/NOUN 表述/VERB 。/PUNCT
+
+对话/NOUN 听力/NOUN 中/PART 其它/DET 考查/NOUN 项目/NOUN ，/PUNCT 如/ADV 因果/NOUN 、/PUNCT 条件/NOUN 、/PUNCT 否定/NOUN 、/PUNCT 比较/ADV 等/PART 可/VERB 参看/VERB 四六级/NOUN 考试/VERB 的/PART 《/PUNCT 听力/NOUN 分册/NOUN 》/PUNCT 。/PUNCT
+
+2/NUM

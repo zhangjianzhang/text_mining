@@ -1,0 +1,197 @@
+（/PUNCT 1/NUM ）/PUNCT 转译/NOUN ：/PUNCT 英语/NOUN 中常/NOUN 用/ADP 介词/NOUN 来/PART 表达/VERB 动作/NOUN 意义/NOUN 。/PUNCT
+汉译/NOUN 时/PART ，/PUNCT 可/VERB 将/X 介词/NOUN 转译/VERB 成/VERB 动词/NOUN 。/PUNCT
+
+①/NUM 在/ADV 作/VERB 表语/NOUN 的/PART 介词/NOUN 短语/NOUN 中/PART ，/PUNCT 介词/NOUN 常/ADV 转译/VERB 为/VERB 动词/NOUN ，/PUNCT 而/ADV 连系/VERB 动词/NOUN 则/ADV 省略不译/VERB 。/PUNCT
+如/ADV ：/PUNCT This/PRON machine/NOUN is/VERB out/PROPN
+of/ADP
+
+repair/NOUN ．/PUNCT
+这/DET 台/NUM 机器/NOUN 失修/VERB 了/PART 。/PUNCT
+
+②/NUM 在/ADP 作目/VERB 的/PART 或/CCONJ 原因/NOUN 状语/VERB 的/PART 介词/NOUN 短语/NOUN 中/PART ，/PUNCT 介词/NOUN 有时/ADV 转译/VERB 成/VERB 动词/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+The/DET plane/NOUN crushed/PROPN out/PROPN of/ADP control/PROPN ．/PUNCT
+这/DET 架/NUM 飞机/NOUN 失去/VERB 控制/NOUN 而/PART 坠毁/VERB 。/PUNCT
+
+The/DET letter/NOUN E/NOUN is/VERB commonly/PROPN used/NOUN for/ADP electromotive/NOUN force/NOUN ．/PUNCT
+通常/ADV 用E/VERB 这个/DET 字母/NOUN 表示/VERB 电动势/NOUN 。/PUNCT
+
+③/NUM 在/ADV 作/VERB 条件/NOUN 、/PUNCT 方式/NOUN 或/CCONJ 方法/NOUN 状语/VERB 的/PART 介词/NOUN 短语/NOUN 中/PART ，/PUNCT 介词/NOUN 有时/ADV 转译/VERB 成/VERB 动词/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+But/NOUN even/ADV the/DET larger/NOUN molecules/NOUN with/ADP several/VERB hundred/NOUN a/ADV to/ADP ms/ADV are/VERB too/ADV small/VERB to/ADP
+
+be/PROPN seen/VERB with/ADP the/DET best/PROPN 　/SPACE optical/NOUN
+
+microscope/NOUN ．/PUNCT
+但是/ADV ，/PUNCT 即使/SCONJ 有/VERB 几百/NUM 个/NUM 原子/ADJ 的/PART 分子/NOUN 也/ADV 是/VERB 太/ADV 小/VERB 了/PART ，/PUNCT 用/VERB 最好/VERB 的/PART 光学/NOUN 显微镜/NOUN 也/ADV 看/VERB 不见/VERB 它们/PRON 。/PUNCT
+
+④介/NOUN 词/NOUN 短语/NOUN 作补/VERB 足语/VERB 时/PART ，/PUNCT 其中/NOUN 介词/NOUN 常/ADV 转译/VERB 成/VERB 动词/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+Heat/NOUN sets/VERB these/NOUN particles/NOUN in/NOUN random/NOUN motion/NOUN ．/PUNCT
+热量/NOUN 使/VERB 这些/DET 粒子/NOUN 作/VERB 随机/ADJ 运动/NOUN 。/PUNCT
+
+（/PUNCT 2/NUM ）/PUNCT 增译/VERB ：/PUNCT 增词/NOUN 不是/ADV 无中生有/VERB ，/PUNCT 而是/ADV 要/VERB 根据/ADP 上下文/NOUN 特别是/ADV 与/ADP 介词/NOUN 搭配/VERB 的/PART 动词/NOUN 或/CCONJ 形容词/NOUN 的/PART 含义/NOUN 加得/PROPN 恰当/NOUN 。/PUNCT
+有/VERB 不少/NUM 情况/NOUN ，/PUNCT 句/NUM 中/PROPN 与/ADP 介词/NOUN 搭配/VERB 的/PART 动词/NOUN 或/CCONJ 形容词/NOUN 不/ADV 出现/VERB ，/PUNCT 如照/SCONJ 原文/NOUN 结构/NOUN 无法/ADV 把/X 意思/NOUN 表达/VERB 清楚/VERB ，/PUNCT 甚至/ADV 易于/VERB 误解/VERB 时/PART ，/PUNCT 这就/ADV 需要/VERB 增词/VERB 。/PUNCT
+
+如/ADP ：/PUNCT That/PRON 's/VERB all/DET there/NOUN is/VERB to/ADP it/NOUN ./PUNCT
+那/PRON 就是/ADV 与/ADP 此/DET 有关/ADJ 的/PART 全部/DET 内容/NOUN 。/PUNCT
+（/PUNCT 原/ADJ 句/NUM 中/PART to/NOUN =related/VERB to/NOUN ）/PUNCT
+
+The/DET engineer/VERB was/NOUN taken/VERB ill/NOUN with/DET consumption/NOUN ．/PUNCT
+It/NOUN was/NOUN flour/VERB on/ADP the/DET lungs/NOUN ，/PUNCT
+the/DET
+
+doctor/NOUN told/NOUN him/PROPN at/ADP the/DET time/NOUN ．/PUNCT
+这个/DET 工程师/NOUN 得/VERB 了/PART 肺一病/NOUN 、/PUNCT 那/PRON 是/VERB 由于/ADP 面粉/NOUN 对/ADP 肺部/NOUN 的/PART 影响/NOUN ，/PUNCT 当时/NOUN 医生/NOUN 这样/ADV 对/ADP 他/PRON 说/VERB 的/PART 。/PUNCT
+（/PUNCT on/ADP =effect/PUNCT ）/PUNCT
+
+因此/ADV ，/PUNCT 熟悉/VERB 介词/NOUN 与/CCONJ 动词/NOUN 或/CCONJ 形容词/NOUN 的/PART 习惯/NOUN 搭配/VERB 是/VERB 增词/VERB 并/CCONJ 正确/ADV 理解/VERB 词义/NOUN 的/PART 一/NUM 种/NUM 重要/ADJ 手段/NOUN 。/PUNCT
+
+（/PUNCT 3/NUM ）/PUNCT 分译/NOUN ：/PUNCT 介词/NOUN 短语/NOUN 作/VERB 定语/NOUN 时/PART ，/PUNCT 往往/ADV 是/VERB 定语/VERB 从/ADP 句/NUM 的/PART 一/NUM 种/NUM 简略/NOUN 形式/NOUN 。/PUNCT
+介词/NOUN 短语/NOUN 作/VERB 状语/NOUN 时/PART ，/PUNCT 有时/ADV 是/VERB 状语/VERB 从/ADP 句/NOUN 的/PART 简略/NOUN 形式/NOUN 。/PUNCT
+有些/DET 介词/NOUN 短语/NOUN 还是/ADV 并列/VERB 句/NUM 的/PART 简略/NOUN 形式/NOUN 。/PUNCT
+因此/ADV 汉译/NOUN 时/PART ，/PUNCT 有的/PRON 可以/VERB 拆/VERB 句/NUM 分译/NOUN 。/PUNCT
+
+①译/NOUN 成/VERB 并列/VERB 分句/NOUN 。/PUNCT
+
+The/DET porous/NOUN wall/NOUN acts/PROPN as/ADV a/NUM kind/NOUN of/ADP seine/PROPN for/ADP separating/NOUN
+
+molecules/NOUN ．/PUNCT
+多/NUM 孔壁/NOUN 的/PART 作用/NOUN 就/ADV 像/ADP 一/NUM 把/NUM 筛子/NOUN ，/PUNCT 它/PRON 把/X 不同/ADJ 质量/NOUN 的/PART 分子/NOUN 分开/VERB 。/PUNCT
+
+②译/NOUN 成/VERB 让步/NOUN 分句/NOUN 。/PUNCT
+
+With/ADP all/DET its/PROPN disadvantages/NOUN this/PRON design/PROPN is/VERB considered/VERB to/ADP be/ADJ one/NOUN of/ADP the/DET
+
+best/VERB ．/PUNCT
+这个/DET 设计/NOUN 尽管/SCONJ 有/VERB 种种/ADJ 缺点/NOUN ，/PUNCT 仍/ADV 被/X 认为/VERB 最佳/ADJ 设计/NOUN 之一/NOUN 。/PUNCT
+
+③译/NOUN 成/VERB 真实/NOUN 或/CCONJ 虚拟/ADJ 条件/NOUN 分句/NOUN 。/PUNCT
+
+Mans/PROPN warm/PROPN blood/PROPN makes/VERB it/VERB difficult/NOUN for/VERB him/PRON to/ADP live/NOUN long/NOUN in/ADP the/DET sea/NOUN without/VERB
+
+some/NOUN kind/NOUN warmth．人/PROPN 的/PART 血液/NOUN 是/VERB 热/VERB 的/PART ，/PUNCT 如果/SCONJ 得/VERB 不/ADV 到/VERB 一定/ADJ 的/PART 热量/NOUN ，/PUNCT 人/NOUN 就/ADV 难以/ADV 长期/ADV 在/ADP 海水/NOUN 中/PART 生活/VERB 。/PUNCT
+
+④译/NOUN 成/VERB 原因/NOUN 分句/NOUN 。/PUNCT
+
+We/NOUN cannot/VERB see/ADJ it/NOUN clearly/PROPN for/ADP the/DET fog/NOUN ．/PUNCT
+由于/ADP 有/VERB 雾/NOUN ，/PUNCT 我们/PRON 看/VERB 不/ADV 清/VERB 它/PRON 。/PUNCT
+
+The/DET machine/NOUN is/VERB working/NOUN none/NOUN the/DET worse/PROPN for/ADP its/NOUN long/NOUN service/VERB ./PUNCT
+
+这部/DET 机器/NOUN 并/ADV 不/ADV 因/ADP 使用/VERB 的/PART 时间/NOUN 长/VERB 而/CCONJ 性能/NOUN 变差/VERB 了/PART 。/PUNCT
+
+⑤译/NOUN 成目/NOUN 的/PART 分句/NOUN 。/PUNCT
+
+This/DET body/NOUN of/ADP knowledge/PROPN is/VERB customarily/PROPN divided/PROPN for/ADP convenience/NOUN of/ADP study/NOUN in/ADV to/ADP
+
+the/DET classifications/NOUN :/PUNCT mechanics/NOUN ,/PUNCT heat/PROPN ,/PUNCT light/VERB ,/PUNCT electricity/VERB and/CCONJ
+
+sound/NOUN ./PUNCT
+为了/ADP 便于/VERB 研究/NOUN ，/PUNCT 通常/ADV 将/X 这/DET 门/NUM 学科/NOUN 分为/VERB 力学/NOUN 、/PUNCT 热学/NOUN 、/PUNCT 光学/NOUN 、/PUNCT 电学/NOUN 和/CCONJ 声学/NOUN 。/PUNCT
+
+（/PUNCT 4/NUM ）/PUNCT 不译/VERB ：/PUNCT 不译/VERB 或/CCONJ 省略/NOUN 翻译/NOUN 是/VERB 在/ADP 确切/ADV 表达/VERB 原文/NOUN 内容/NOUN 的/PART 前提/NOUN 下/PART 使/VERB 译文/NOUN 简练/NOUN ，/PUNCT 合乎/VERB 汉语/NOUN 规范/NOUN ，/PUNCT 决/ADV 不是/ADV 任意/VERB 省略/VERB 某些/DET 介词/NOUN 。/PUNCT
+
+①/NOUN 表示/VERB 时间/NOUN 或/CCONJ 地点/NOUN 的/PART 英语/NOUN 介词/NOUN ，/PUNCT 译成/PROPN 汉语/NOUN 如/ADV 出现/VERB 在/ADP 句/NOUN 首/NOUN ，/PUNCT 大都不译/VERB 。/PUNCT
+如/ADV ：/PUNCT
+
+There/PROPN are/VERB four/NUM seasons/NOUN in/ADP a/NUM year/VERB ./PUNCT
+一/NUM 年/NUM 有/VERB 四季/NOUN 。/PUNCT
+
+Many/PROPN water/PROPN power/NOUN stations/NOUN have/PROPN been/NOUN built/PROPN in/ADP the/DET country/VERB ．/PUNCT
+我国/NOUN 已/ADV 建成/VERB 许多/NUM 水电站/NOUN 。/PUNCT
+
+②/NUM 有些/DET 介词如for/PROPN （/PUNCT 为了/ADP ）/PUNCT ，/PUNCT from/ADP （/PUNCT 从/ADP ……/PUNCT ）/PUNCT ，/PUNCT to/ADP （/PUNCT 对/VERB ……/PUNCT ）/PUNCT ，/PUNCT on/ADP （/PUNCT 在/ADP ……/PUNCT 时/PART ）/PUNCT 等/PART ，/PUNCT 可以/VERB 不译/VERB 。/PUNCT
+如/ADV ：/PUNCT The/DET barometer/PROPN is/VERB a/NUM good/PROPN
+
+instrument/VERB for/ADP measuring/NOUN air/PROPN pressure/NOUN ．气/PUNCT 压计/NOUN 是/VERB 测量/VERB 气压/VERB 的/PART 好/ADJ 仪器/NOUN 。/PUNCT
+
+The/DET air/PROPN was/NOUN removed/NOUN from/ADP between/VERB the/DET two/NOUN pipes/NOUN ．/PUNCT
+两/NUM 根/NUM 管子/NOUN 之间/PART 的/PART 空气/NOUN 已经/ADV 抽出/VERB 。/PUNCT
+
+Answers/PROPN to/ADP questions/NOUN 2/NUM and/CCONJ 3/NUM may/NOUN be/ADJ obtained/NOUN in/ADP the/DET
+
+laboratory/VERB ．/PUNCT
+问题/NOUN 2/NUM 和/CCONJ 3/NUM 的/PART 答案/NOUN 可以/VERB 在/ADP 实验室/NOUN 里/PART 得到/VERB 。/PUNCT
+
+Most/PROPN substances/NOUN expand/ADV on/ADP heating/NOUN and/CCONJ contract/NOUN on/ADV cooling/PROPN ．/PUNCT
+
+大多数/NUM 物质/NOUN 热胀冷缩/VERB 。/PUNCT
+
+③/NUM 表示/VERB 与/ADP 主语/NOUN 有关/VERB 的/PART 某/DET 一方面/NOUN 、/PUNCT 范围/NOUN 或/CCONJ 内容/NOUN 的/PART 介词/NOUN 有时/ADV 不译/VERB ，/PUNCT 可/VERB 把/X 介词/VERB 的/PART 宾语/NOUN 译成/VERB 汉语/NOUN 主语/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+Something/PROPN has/PROPN gone/NOUN wrong/VERB with/DET the/DET engine/VERB ．/PUNCT
+这/DET 台/NUM 发动机/NOUN 出/VERB 了/PART 毛病/NOUN 。/PUNCT
+
+Gold/NOUN is/VERB similar/NOUN in/ADP color/VERB to/ADP brass/PROPN 金子/PROPN 的/PART 颜色/NOUN 和/CCONJ 黄铜/PROPN 相似/VERB 。/PUNCT
+
+Its/NOUN never/NOUN occurred/NOUN to/ADP me/PRON that/NOUN bats/VERB are/VERB really/ADV guided/VERB by/ADP the/DET ir/NOUN
+
+ears/NOUN ．/PUNCT
+我/PRON 从未/ADV 想到/VERB 蝙蝠/NOUN 居然/ADV 是/VERB 靠/ADP 耳朵/NOUN 引路/VERB 的/PART 。/PUNCT
+
+④/NUM 不少/NUM of/ADP 介词/NOUN 短语/NOUN 在/ADP 句/NOUN 中/PART 作/VERB 定语/NOUN 。/PUNCT
+其中/NOUN of/ADP （/PUNCT ……/PUNCT 的/PART ）/PUNCT 往往/ADV 不译/VERB 。/PUNCT
+如/ADV ：/PUNCT
+
+The/DET change/NOUN of/ADP electrical/NOUN energy/NOUN in/VERB to/ADP mechanical/NOUN energy/NOUN is/VERB done/NOUN in/NOUN
+
+motors/VERB ．/PUNCT
+电能/NOUN 变为/VERB 机械/NOUN 能/VERB 是/VERB 通过/ADP 电动机/NOUN 实现/VERB 的/PART 。/PUNCT
+（/PUNCT of/ADP 短语/NOUN 和/CCONJ change/NOUN 在/ADP 逻辑/NOUN 上/PART 有/VERB 主谓/NOUN 关系/NOUN ，/PUNCT 可译/ADV 成立/VERB 谓/VERB 结构/NOUN 。/PUNCT ）/PUNCT
+
+Some/NOUN of/ADP the/DET properties/NOUN of/ADP cathode/NOUN rays/NOUN listed/NOUN
+
+below/ADV ．现/PUNCT
+将/X 阴极/NOUN 射线/NOUN 的/PART 一些/NUM 特性/NOUN 开列/VERB 如下/VERB 。/PUNCT
+（/PUNCT 第一/NUM 个/NUM of/ADP 短语/NOUN 和/CCONJ some/NOUN 在/ADP 逻辑/NOUN 上/PART 有/VERB 部分/NUM 关系/NOUN ，/PUNCT Of/NOUN 不/ADV 译出/VERB 。/PUNCT ）/PUNCT
+
+（/PUNCT 5/NUM ）/PUNCT 反译/VERB ：/PUNCT 在/ADP 不少/NUM 情况/NOUN 下/PART ，/PUNCT 有的/DET 介词/NOUN 短语/NOUN 如/ADV 不/ADV 从/ADP 反面/NOUN 着笔/VERB ，/PUNCT 译文/NOUN 就/ADV 不通/VERB ，/PUNCT 这时/NOUN 必须/VERB 反译/VERB 。/PUNCT
+如/ADV ：/PUNCT
+
+①be/NOUN yond/VERB ,/PUNCT past/NOUN ，/PUNCT against/VERB 等/PART 表示/VERB 超过/VERB 某/DET 限度/NOUN 的/PART 能力/NOUN 或/CCONJ 反对/VERB ../PUNCT ../PUNCT 时/PART ，/PUNCT 其/PRON 短语/NOUN 有时/ADV 用/VERB 反译法/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+It/NOUN is/VERB post/ADJ repair/NOUN ．/PUNCT
+这/DET 东西/NOUN 无法/ADV 修补/VERB 了/PART 。/PUNCT
+
+There/PROPN are/VERB some/NOUN arguments/VERB against/VERB the/DET possibility/NOUN of/ADP life/VERB on/ADP this/PRON
+
+planet/NOUN ．/PUNCT
+有些/DET 观点/NOUN 不/ADV 同意/VERB 这/DET 行星/NOUN 上/PART 可能/ADV 有/VERB 生物/NOUN 。/PUNCT
+
+Radio/PROPN telescopes/PROPN have/PROPN been/NOUN able/PROPN to/ADP probe/VERB space/NOUN be/ADV yond/VERB the/DET range/NOUN of/ADP ordinary/NOUN
+
+optical/NOUN telescopes/NOUN ．/PUNCT
+射电/ADJ 望远镜/NOUN 已/ADV 能/VERB 探测/VERB 普通/ADJ 光学/NOUN 望远镜/NOUN 达/VERB 不/ADV 到/VERB 的/PART 宇宙/NOUN 空间/NOUN 。/PUNCT
+
+②o/NOUN ff/VERB ,/PUNCT from/ADP 等/PART 表示/VERB 地点/NOUN ，/PUNCT 距离/NOUN 时/PART ，/PUNCT 有时/ADV 有/VERB 反译法/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+The/DET boat/ADJ sank/PROPN of/ADP f/VERB the/DET coast/PROPN ./PUNCT
+这/DET 只/NUM 船/NOUN 在/ADP 离/ADP 海岸/NOUN 不远处/NOUN 沉没/VERB 了/PART 。/PUNCT
+
+③but/VERB ，/PUNCT except/VERB ，/PUNCT besides/PROPN 等/PART 表示/VERB 除去/NOUN 、/PUNCT 除外/VERB 时/PART ，/PUNCT 有时/ADV 用/VERB 反译法/NOUN 。/PUNCT
+
+Copper/PROPN is/ADP the/DET best/VERB conductor/PROPN but/ADJ silver/NOUN ．/PUNCT
+铜/NOUN 是/VERB 仅次于/VERB 银/NOUN 的/PART 最/ADV 优/ADV 导体/VERB 。/PUNCT
+
+④/NUM from/NUM ，/PUNCT in/NOUN 等/PART 介词/ADJ 短语/NOUN 作补/VERB 足语/VERB 时/PART ，/PUNCT 有时/ADV 用/VERB 反译法/NOUN 。/PUNCT
+如/ADV ：/PUNCT
+
+An/NOUN iron/NOUN case/VERB will/NOUN keep/VERB the/DET Earths/PROPN magnetic/NOUN field/NOUN away/PROPN from/ADP the/DET
+
+compass/PROPN ．/PUNCT
+铁箱/NOUN 能/VERB 使/VERB 地球/NOUN 磁场/NOUN 不/ADV 受指/VERB 南针/NOUN 的/PART 影响/NOUN 。/PUNCT
+
+The/DET signal/ADJ was/NOUN shown/PROPN about/VERB the/DET machine/ADV being/VERB order/NOUN ./PUNCT
+信号/NOUN 表明/VERB 机器/NOUN 设有/VERB 毛病/NOUN 。/PUNCT
+
+‘/PUNCT 一个/NUM 词/NOUN 脱离/VERB 上下文/NOUN 是/VERB 不/ADV 能/VERB 翻译/VERB 的/PART ’/PUNCT （/PUNCT 索伯列夫/VERB ）/PUNCT ，/PUNCT 没有/ADV 上下文/NOUN 就/ADV 没有/VERB 词义/NOUN 。/PUNCT
+介词/NOUN 的/PART 翻译/NOUN 须/VERB 根据/ADP 上下文/NOUN 和/CCONJ 词/NOUN 的/PART 搭配/NOUN 灵活/ADJ 处理/NOUN ，/PUNCT 切忌/NOUN 作/VERB 对号/NOUN 入座/VERB 的/PART 机械/NOUN 翻译/NOUN 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

@@ -1,0 +1,3235 @@
+所在/ADJ 省市/NOUN
+
+序号/NOUN
+
+学校/NOUN 名称/NOUN
+
+主管/NOUN 部门/NOUN
+
+北京市/PROPN
+
+1/NUM
+
+国家/NOUN 检察官/NOUN 学院/NOUN
+
+最高/ADJ 人民/NOUN 检察院/NOUN
+
+2/NUM
+
+中央/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+教育部/NOUN
+
+3/NUM
+
+国家/NOUN 法官/NOUN 学院/NOUN
+
+最高/ADJ 人民/NOUN 法院/NOUN
+
+4/NUM
+
+中南海/PROPN 业余/ADJ 大学/NOUN
+
+中共/PROPN 中央/NOUN 办公厅/NOUN
+
+5/NUM
+
+中央/NOUN 党校/NOUN 继续/VERB 教育/VERB 学院/NOUN
+
+中共/PROPN 中央/NOUN 党校/NOUN
+
+6/NUM
+
+公安部/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+公安部/NOUN
+
+7/NUM
+
+民航/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+中国/PROPN 民用/ADJ 航空/NOUN 总局/NOUN
+
+8/NUM
+
+中国/PROPN 科学院/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+中国/PROPN 科学院/NOUN
+
+9/NUM
+
+中国/PROPN 记协/NOUN 职工/NOUN 新闻/NOUN 学院/NOUN
+
+中华/PROPN 全国/NOUN 新闻/NOUN 工作者/NOUN 协会/NOUN
+
+10/NUM
+
+首都/NOUN 联合/ADJ 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+11/NUM
+
+北京市/PROPN 农工商/NOUN 联合/ADJ 总公司/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+12/NUM
+
+北京市/PROPN 总工会/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+13/NUM
+
+北京市/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+北京市/PROPN
+
+14/NUM
+
+北京/PROPN 汽车/NOUN 工业/NOUN 总公司/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+15/NUM
+
+北京市/PROPN 西城/PROPN 经济/NOUN 科学/NOUN 大学/NOUN
+
+北京市/PROPN
+
+16/NUM
+
+北京市/PROPN 丰台区/PROPN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+17/NUM
+
+北京市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+北京市/PROPN
+
+18/NUM
+
+北京/PROPN 教育/NOUN 学院/NOUN
+
+北京市/PROPN
+
+19/NUM
+
+北京/PROPN 人民/NOUN 警察/NOUN 学院/NOUN
+
+北京市/PROPN
+
+20/NUM
+
+北京市/PROPN 计划/VERB 劳动/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+北京市/PROPN
+
+21/NUM
+
+北京市/PROPN 崇文区/PROPN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+22/NUM
+
+北京市/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+北京市/PROPN
+
+23/NUM
+
+北京市/PROPN 物资/NOUN 贸易/NOUN 职工/NOUN 学院/NOUN
+
+北京市/PROPN
+
+24/NUM
+
+北京市/PROPN 海淀区/PROPN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+25/NUM
+
+北京市/PROPN 东城区/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+北京市/PROPN
+
+26/NUM
+
+北京市/PROPN 宣武区/NOUN 红旗/NOUN 业余/ADJ 大学/NOUN
+
+北京市/PROPN
+
+27/NUM
+
+北京市/PROPN 石景山区/PROPN 业余/ADJ 大学/NOUN
+
+北京市/PROPN
+
+28/NUM
+
+北京市/PROPN 机械/NOUN 工业局/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+29/NUM
+
+北京市/PROPN 房地产/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+30/NUM
+
+北京/PROPN 医药/NOUN 集团/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+31/NUM
+
+华北/PROPN 电业/NOUN 联合/ADJ 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+32/NUM
+
+北京市/PROPN 建设/NOUN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+33/NUM
+
+北京市/PROPN 朝阳区/PROPN 职工/NOUN 大学/NOUN
+
+北京市/PROPN
+
+天津市/PROPN
+
+1/NUM
+
+天津市/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+天津市/PROPN
+
+2/NUM
+
+天津市/PROPN 医药/NOUN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+3/NUM
+
+天津市/PROPN 职工/NOUN 科学/NOUN 技术/NOUN 大学/NOUN
+
+天津市/PROPN
+
+4/NUM
+
+天津市/PROPN 管理/NOUN 干部/NOUN 学院/NOUN
+
+天津市/PROPN
+
+5/NUM
+
+天津市/PROPN 工会/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+天津市/PROPN
+
+6/NUM
+
+天津市/PROPN 财贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+天津市/PROPN
+
+7/NUM
+
+天津市/PROPN 渤海/VERB 化工/NOUN 职工/NOUN 学院/NOUN
+
+天津市/PROPN
+
+8/NUM
+
+天津市/PROPN 南开区/PROPN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+9/NUM
+
+天津市/PROPN 房地产局/NOUN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+10/NUM
+
+天津市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+天津市/PROPN
+
+11/NUM
+
+天津/PROPN 物资/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+天津市/PROPN
+
+12/NUM
+
+天津市/PROPN 职工/NOUN 经济/NOUN 技术/NOUN 大学/NOUN
+
+天津市/PROPN
+
+13/NUM
+
+天津市/PROPN 建筑/NOUN 工程/NOUN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+14/NUM
+
+天津市/PROPN 红桥区/NOUN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+15/NUM
+
+天津市/PROPN 河东区/PROPN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+16/NUM
+
+天津市/PROPN 河西区/PROPN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+17/NUM
+
+天津市/PROPN 和平区/PROPN 新华/PROPN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+18/NUM
+
+天津/PROPN 汽车/NOUN 工业/NOUN 总公司/NOUN 职工/NOUN 大学/NOUN
+
+天津市/PROPN
+
+19/NUM
+
+天津市/PROPN 职工/NOUN 公用/ADJ 事业/NOUN 学院/NOUN
+
+天津市/PROPN
+
+20/NUM
+
+天津市/PROPN 职工/NOUN 建材/NOUN 学院/NOUN
+
+天津市/PROPN
+
+河北省/PROPN
+
+1/NUM
+
+张家口/PROPN 教育/NOUN 学院/NOUN
+
+河北省/PROPN
+
+2/NUM
+
+河北省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+河北省/PROPN
+
+3/NUM
+
+张家口市/PROPN 职工/NOUN 大学/NOUN
+
+河北省/PROPN
+
+4/NUM
+
+秦皇岛/PROPN 教育/NOUN 学院/NOUN
+
+河北省/PROPN
+
+5/NUM
+
+河北/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河北省/PROPN
+
+6/NUM
+
+河北省/PROPN 职工/NOUN 医学院/NOUN
+
+河北省/PROPN
+
+7/NUM
+
+石家庄/PROPN 职工/NOUN 大学/NOUN
+
+河北省/PROPN
+
+8/NUM
+
+河北/PROPN 地质/NOUN 职工/NOUN 大学/NOUN
+
+河北省/PROPN
+
+9/NUM
+
+河北省/PROPN 经贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河北省/PROPN
+
+10/NUM
+
+石油/NOUN 物探/NOUN 职工/NOUN 大学/NOUN
+
+河北省/PROPN
+
+11/NUM
+
+河北/PROPN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河北省/PROPN
+
+12/NUM
+
+中国/PROPN 环境/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河北省/PROPN
+
+13/NUM
+
+邯郸市/PROPN 职工/NOUN 大学/NOUN
+
+河北省/PROPN
+
+14/NUM
+
+农业部/PROPN 乡镇/NOUN 企业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河北省/PROPN
+
+山西省/PROPN
+
+1/NUM
+
+山西/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山西省/PROPN
+
+2/NUM
+
+长治市/PROPN 教育/NOUN 学院/NOUN
+
+山西省/PROPN
+
+3/NUM
+
+山西/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山西省/PROPN
+
+4/NUM
+
+山西/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山西省/PROPN
+
+5/NUM
+
+山西/PROPN 煤炭/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山西省/PROPN
+
+6/NUM
+
+山西省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+山西省/PROPN
+
+7/NUM
+
+山西省/PROPN 吕梁/PROPN 地区/NOUN 教育/NOUN 学院/NOUN
+
+山西省/PROPN
+
+8/NUM
+
+山西省/PROPN 职工/NOUN 工艺/NOUN 美术/NOUN 学院/NOUN
+
+山西省/PROPN
+
+9/NUM
+
+山西/PROPN 职工/NOUN 医学院/NOUN
+
+山西省/PROPN
+
+10/NUM
+
+太原/PROPN 钢铁/NOUN 公司/NOUN 职工/NOUN 钢铁/NOUN 学院/NOUN
+
+山西省/PROPN
+
+11/NUM
+
+山西/PROPN 机电/NOUN 职工/NOUN 学院/NOUN
+
+山西省/PROPN
+
+12/NUM
+
+太原/PROPN 化学/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+山西省/PROPN
+
+13/NUM
+
+阳泉市/PROPN 教育/NOUN 学院/NOUN
+
+山西省/PROPN
+
+14/NUM
+
+山西/PROPN 兵器/PROPN 工业/NOUN 职工/NOUN 大学/NOUN
+
+山西省/PROPN
+
+15/NUM
+
+广播/NOUN 电影/NOUN 电视/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山西省/PROPN
+
+16/NUM
+
+山西/PROPN 煤炭/NOUN 职工/NOUN 联合/ADJ 大学/NOUN
+
+山西省/PROPN
+
+内蒙古/PROPN
+
+1/NUM
+
+内蒙古/PROPN 自治区/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+2/NUM
+
+内蒙古/PROPN 水利/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+3/NUM
+
+包头/PROPN 钢铁/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+4/NUM
+
+包头市/PROPN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+5/NUM
+
+内蒙古/PROPN 矿业/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+6/NUM
+
+伊克昭盟/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+辽宁省/PROPN
+
+1/NUM
+
+海军/NOUN 职工/NOUN 大学/NOUN
+
+总装备部/NOUN
+
+2/NUM
+
+空军/NOUN 第四/NUM 职工/NOUN 大学/NOUN
+
+总装备部/NOUN
+
+3/NUM
+
+辽宁/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+辽宁省/PROPN
+
+4/NUM
+
+辽宁/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+5/NUM
+
+辽宁/PROPN 财贸/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+6/NUM
+
+阜新/PROPN 煤炭/NOUN 职工/NOUN 医学/NOUN 专科/NOUN 学校/NOUN
+
+辽宁省/PROPN
+
+7/NUM
+
+辽宁/PROPN 农业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+辽宁省/PROPN
+
+8/NUM
+
+辽宁/PROPN 文化/NOUN 艺术/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+9/NUM
+
+铁岭/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+10/NUM
+
+沈阳市/PROPN 联合/ADJ 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+11/NUM
+
+大连市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+12/NUM
+
+沈阳/PROPN 机械/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+13/NUM
+
+沈阳市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+14/NUM
+
+鞍山/VERB 钢铁/NOUN 集团/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+15/NUM
+
+沈阳/PROPN 新光/PROPN 动力/NOUN 机械/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+16/NUM
+
+大连市/PROPN 教育/NOUN 学院/NOUN
+
+辽宁省/PROPN
+
+17/NUM
+
+辽宁/PROPN 冶金/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+18/NUM
+
+辽宁/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+19/NUM
+
+沈阳市/PROPN 二轻/NUM 家具/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+20/NUM
+
+抚顺/NOUN 石油/NOUN 化工/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+21/NUM
+
+朝阳/NOUN 职工/NOUN 工学院/PROPN
+
+辽宁省/PROPN
+
+22/NUM
+
+新乐/PROPN 精密/ADJ 机器/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+23/NUM
+
+辽宁省/PROPN 直属/ADJ 机关/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+24/NUM
+
+大连/PROPN 工人/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+25/NUM
+
+抚顺/NOUN 矿务局/PROPN 职工/NOUN 工学院/PROPN
+
+辽宁省/PROPN
+
+26/NUM
+
+辽宁/PROPN 轻工/ADJ 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+27/NUM
+
+抚顺/NOUN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+28/NUM
+
+本溪/NOUN 钢铁/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+辽宁省/PROPN
+
+29/NUM
+
+丹东/PROPN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+30/NUM
+
+阜新/PROPN 矿务局/PROPN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+31/NUM
+
+大连/PROPN 职工/NOUN 大学/NOUN
+
+辽宁省/PROPN
+
+吉林省/PROPN
+
+1/NUM
+
+吉林/PROPN 铁路/NOUN 运输/NOUN 职工/NOUN 大学/NOUN
+
+铁道部/NOUN
+
+2/NUM
+
+梨树/NOUN 农村/NOUN 成人/NOUN 高等/ADJ 专科/NOUN 学校/NOUN
+
+吉林省/PROPN
+
+3/NUM
+
+扶余/VERB 农村/NOUN 成人/NOUN 高等/ADJ 专科/NOUN 学校/NOUN
+
+吉林省/PROPN
+
+4/NUM
+
+吉林省/PROPN 教育/NOUN 学院/NOUN
+
+吉林省/PROPN
+
+5/NUM
+
+长春/PROPN 教育/NOUN 学院/NOUN
+
+吉林省/PROPN
+
+6/NUM
+
+吉林省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+7/NUM
+
+白城市/PROPN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+8/NUM
+
+延边/VERB 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+9/NUM
+
+吉林/PROPN 职工/NOUN 医科/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+10/NUM
+
+吉林省/PROPN 油田/NOUN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+11/NUM
+
+吉林省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+吉林省/PROPN
+
+12/NUM
+
+长春市/PROPN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+13/NUM
+
+长春/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+14/NUM
+
+通化/NOUN 钢铁/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+15/NUM
+
+通化市/NOUN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+16/NUM
+
+吉林/PROPN 化学/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+17/NUM
+
+吉林市/PROPN 职工/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+18/NUM
+
+长春/PROPN 职工/NOUN 医科/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+19/NUM
+
+长春市/PROPN 直属/ADJ 机关/NOUN 业余/ADJ 大学/NOUN
+
+吉林省/PROPN
+
+20/NUM
+
+长春市/PROPN 建筑/NOUN 职工/NOUN 业余/ADJ 大学/NOUN
+
+吉林省/PROPN
+
+21/NUM
+
+延边/VERB 黎明/PROPN 农民/NOUN 大学/NOUN
+
+吉林省/PROPN
+
+黑龙江省/PROPN
+
+1/NUM
+
+齐齐/ADP 哈尔/PROPN 铁路/NOUN 运输/NOUN 职工/NOUN 大学/NOUN
+
+铁道部/NOUN
+
+2/NUM
+
+齐齐/ADP 哈尔/PROPN 铁路/NOUN 教育/NOUN 学院/NOUN
+
+铁道部/NOUN
+
+3/NUM
+
+五常/NUM 朝鲜族/NOUN 教师/NOUN 进修/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+4/NUM
+
+哈尔滨市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+5/NUM
+
+黑龙江省/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+6/NUM
+
+黑龙江省/PROPN 教育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+7/NUM
+
+齐齐哈尔市/PROPN 教育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+8/NUM
+
+黑龙江省/PROPN 绥化/NOUN 地区/NOUN 教育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+9/NUM
+
+牡丹江市/PROPN 教育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+10/NUM
+
+佳木斯市/PROPN 教育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+11/NUM
+
+黑龙江省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+12/NUM
+
+鸡西/NOUN 煤炭/NOUN 职工/NOUN 医学院/NOUN
+
+黑龙江省/PROPN
+
+13/NUM
+
+黑龙江省/PROPN 商业/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+14/NUM
+
+黑龙江省/PROPN 社会/NOUN 科学院/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+15/NUM
+
+黑龙江省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+16/NUM
+
+黑龙江省/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+17/NUM
+
+鹤岗/VERB 矿务局/PROPN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+18/NUM
+
+哈尔滨市/PROPN 职工/NOUN 医学院/NOUN
+
+黑龙江省/PROPN
+
+19/NUM
+
+黑龙江/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+20/NUM
+
+大庆/PROPN 石油/NOUN 化工/NOUN 总厂/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+21/NUM
+
+大庆/PROPN 职工/NOUN 医学院/NOUN
+
+黑龙江省/PROPN
+
+22/NUM
+
+黑龙江省/PROPN 农垦/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+23/NUM
+
+黑龙江省/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+24/NUM
+
+伊春市/PROPN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+25/NUM
+
+哈尔滨/PROPN 航空/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+26/NUM
+
+哈尔滨/PROPN 轻型/ADJ 车/NOUN 厂/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+27/NUM
+
+哈尔滨市/PROPN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+28/NUM
+
+黑龙江省/PROPN 直属/ADJ 机关/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+29/NUM
+
+哈尔滨市/PROPN 教师/NOUN 体育/NOUN 学院/NOUN
+
+黑龙江省/PROPN
+
+30/NUM
+
+齐齐哈尔市/PROPN 建设/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+31/NUM
+
+齐齐哈尔市/PROPN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+32/NUM
+
+牡丹江市/PROPN 联合/ADJ 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+33/NUM
+
+佳木斯市/PROPN 联合/ADJ 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+34/NUM
+
+黑龙江省/PROPN 科技/NOUN 职工/NOUN 大学/NOUN
+
+黑龙江省/PROPN
+
+上海市/PROPN
+
+1/NUM
+
+海关/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+海关/NOUN 总署/NOUN
+
+2/NUM
+
+上海/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+上海市/PROPN
+
+3/NUM
+
+上海/PROPN 医药/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+4/NUM
+
+上海市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+上海市/PROPN
+
+5/NUM
+
+上海市/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+上海市/PROPN
+
+6/NUM
+
+上海/PROPN 财政/NOUN 税务/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+7/NUM
+
+上海/PROPN 职工/NOUN 医学院/NOUN
+
+上海市/PROPN
+
+8/NUM
+
+上海/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+上海市/PROPN
+
+9/NUM
+
+上海/PROPN 金融/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+10/NUM
+
+上海市/PROPN 工会/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+上海市/PROPN
+
+11/NUM
+
+上海市/PROPN 宝山区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+12/NUM
+
+上海/PROPN 工商/NOUN 学院/NOUN
+
+上海市/PROPN 教委/NOUN
+
+13/NUM
+
+梅山/PROPN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+14/NUM
+
+上海市/PROPN 卢湾区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+15/NUM
+
+上海市/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+上海市/PROPN
+
+16/NUM
+
+上海/PROPN 航天/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+17/NUM
+
+上海/PROPN 纺织/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+18/NUM
+
+上海市/PROPN 黄浦区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+19/NUM
+
+上海市/PROPN 邮电/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+20/NUM
+
+上海市/PROPN 徐汇区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+21/NUM
+
+上海/PROPN 市长/NOUN 宁区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+22/NUM
+
+上海市/PROPN 静安区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+23/NUM
+
+上海市/PROPN 普陀区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+24/NUM
+
+上海市/PROPN 虹口区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+25/NUM
+
+上海市/PROPN 杨浦区/PROPN 业余/ADJ 大学/NOUN
+
+上海市/PROPN
+
+26/NUM
+
+上海/PROPN 机电/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+上海市/PROPN
+
+27/NUM
+
+上海/PROPN 科技/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+上海市/PROPN
+
+江苏省/PROPN
+
+1/NUM
+
+空军/NOUN 第一/NUM 职工/NOUN 大学/NOUN
+
+总装备部/NOUN
+
+2/NUM
+
+南通市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+3/NUM
+
+南通市/PROPN 工人/NOUN 业余/ADJ 大学/NOUN
+
+江苏省/PROPN
+
+4/NUM
+
+扬州市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+5/NUM
+
+江苏/PROPN 教育/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+6/NUM
+
+徐州/PROPN 教育/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+7/NUM
+
+苏州/PROPN 教育/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+8/NUM
+
+江苏省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+9/NUM
+
+南京市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+10/NUM
+
+苏州市/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+江苏省/PROPN
+
+11/NUM
+
+江苏省/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+12/NUM
+
+扬州/PROPN 教育/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+13/NUM
+
+南京/PROPN 金陵/PROPN 旅馆/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+14/NUM
+
+徐州/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+15/NUM
+
+南京/PROPN 电子/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+16/NUM
+
+江苏省/PROPN 省级/ADJ 机关/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+17/NUM
+
+南京/PROPN 人口/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江苏省/PROPN
+
+18/NUM
+
+苏州市/PROPN 建筑/NOUN 工程局/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+19/NUM
+
+南京/PROPN 联合/ADJ 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+20/NUM
+
+江苏/PROPN 冶金/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+21/NUM
+
+江苏省/PROPN 职工/NOUN 医科/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+22/NUM
+
+南京市/PROPN 机械/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+23/NUM
+
+南京市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+24/NUM
+
+无锡市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+25/NUM
+
+无锡市/PROPN 城建/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+26/NUM
+
+常州市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+27/NUM
+
+江苏/PROPN 对外贸易/ADJ 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+28/NUM
+
+苏州市/PROPN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+29/NUM
+
+江苏/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+江苏省/PROPN
+
+浙江省/PROPN
+
+1/NUM
+
+宁波市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+2/NUM
+
+杭州/PROPN 教育/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+3/NUM
+
+金华/PROPN 教育/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+4/NUM
+
+浙江省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+5/NUM
+
+浙江/PROPN 经济/NOUN 管理/NOUN 职工/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+6/NUM
+
+浙江/PROPN 嘉兴/PROPN 教育/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+7/NUM
+
+浙江/PROPN 教育/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+8/NUM
+
+浙江省/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+9/NUM
+
+杭州市/PROPN 业余/ADJ 科技/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+10/NUM
+
+杭州市/PROPN 工人/NOUN 业余/ADJ 大学/NOUN
+
+浙江省/PROPN
+
+11/NUM
+
+浙江省/PROPN 省级/ADJ 机关/NOUN 职工/NOUN 业余/ADJ 大学/NOUN
+
+浙江省/PROPN
+
+12/NUM
+
+东海/PROPN 业余/ADJ 专科/NOUN 学校/NOUN
+
+浙江省/PROPN
+
+13/NUM
+
+富春江/PROPN 水电/NOUN 职工/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+14/NUM
+
+浙江省/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+浙江省/PROPN
+
+15/NUM
+
+温州市/PROPN 工人/NOUN 业余/ADJ 大学/NOUN
+
+浙江省/PROPN
+
+16/NUM
+
+宁波/PROPN 教育/NOUN 学院/NOUN
+
+浙江省/PROPN
+
+安徽省/PROPN
+
+1/NUM
+
+合肥市/PROPN 职工/NOUN 大学/NOUN
+
+安徽省/PROPN
+
+2/NUM
+
+安徽省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+安徽省/PROPN
+
+3/NUM
+
+安徽/PROPN 农业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+4/NUM
+
+宿县/PROPN 地区/NOUN 教育/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+5/NUM
+
+安徽/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+6/NUM
+
+蚌埠/ADJ 教育/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+7/NUM
+
+安徽/PROPN 教育/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+8/NUM
+
+合肥/PROPN 职工/NOUN 科技/NOUN 大学/NOUN
+
+安徽省/PROPN
+
+9/NUM
+
+蚌埠市/PROPN 职工/NOUN 大学/NOUN
+
+安徽省/PROPN
+
+10/NUM
+
+淮南市/PROPN 职工/NOUN 大学/NOUN
+
+安徽省/PROPN
+
+11/NUM
+
+芜湖/PROPN 教育/NOUN 学院/NOUN
+
+安徽省/PROPN
+
+福建省/PROPN
+
+1/NUM
+
+福建/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+福建省/PROPN
+
+2/NUM
+
+福建/PROPN 职工/NOUN 大学/NOUN
+
+福建省/PROPN
+
+3/NUM
+
+福建省/PROPN 直属/ADJ 机关/NOUN 业余/ADJ 大学/NOUN
+
+福建省/PROPN
+
+4/NUM
+
+厦门/PROPN 工人/NOUN 业余/ADJ 大学/NOUN
+
+福建省/PROPN
+
+5/NUM
+
+福建/PROPN 教育/NOUN 学院/NOUN
+
+福建省/PROPN
+
+6/NUM
+
+福建/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+福建省/PROPN
+
+7/NUM
+
+厦门市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+福建省/PROPN
+
+8/NUM
+
+福建/PROPN 财会/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+福建省/PROPN
+
+9/NUM
+
+厦门/PROPN 教育/NOUN 学院/NOUN
+
+福建省/PROPN
+
+10/NUM
+
+福州/PROPN 教育/NOUN 学院/NOUN
+
+福建省/PROPN
+
+11/NUM
+
+漳州/PROPN 教育/NOUN 学院/NOUN
+
+福建省/PROPN
+
+12/NUM
+
+三明业余/NUM 大学/NOUN
+
+福建省/PROPN
+
+13/NUM
+
+福建省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+福建省/PROPN
+
+14/NUM
+
+福建省/PROPN 漳州/PROPN 业余/ADJ 大学/NOUN
+
+福建省/PROPN
+
+江西省/PROPN
+
+1/NUM
+
+南昌市/PROPN 职工/NOUN 科技/NOUN 大学/NOUN
+
+江西省/PROPN
+
+2/NUM
+
+景德镇/PROPN 陶瓷/NOUN 职工/NOUN 大学/NOUN
+
+江西省/PROPN
+
+3/NUM
+
+赣南/PROPN 教育/NOUN 学院/NOUN
+
+江西省/PROPN
+
+4/NUM
+
+江西/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江西省/PROPN
+
+5/NUM
+
+南昌/PROPN 教育/NOUN 学院/NOUN
+
+江西省/PROPN
+
+6/NUM
+
+江西/PROPN 教育/NOUN 学院/NOUN
+
+江西省/PROPN
+
+7/NUM
+
+南昌市/PROPN 业余/ADJ 大学/NOUN
+
+江西省/PROPN
+
+8/NUM
+
+南昌/PROPN 钢铁/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+江西省/PROPN
+
+9/NUM
+
+新余/PROPN 钢铁/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+江西省/PROPN
+
+10/NUM
+
+江西/PROPN 行政/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+江西省/PROPN
+
+11/NUM
+
+昌河/PROPN 职工/NOUN 工学院/PROPN
+
+江西省/PROPN
+
+12/NUM
+
+南昌/PROPN 飞机/NOUN 制造/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+江西省/PROPN
+
+13/NUM
+
+江西/PROPN 金融/NOUN 职工/NOUN 大学/NOUN
+
+江西省/PROPN
+
+14/NUM
+
+江西省/PROPN 机械/NOUN 职工/NOUN 大学/NOUN
+
+江西省/PROPN
+
+15/NUM
+
+江西省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+江西省/PROPN
+
+山东省/PROPN
+
+1/NUM
+
+山东省/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山东省/PROPN
+
+2/NUM
+
+潍坊/NOUN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+3/NUM
+
+山东省/PROPN 滨州/NOUN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+4/NUM
+
+山东省/PROPN 聊城/VERB 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+5/NUM
+
+山东省/PROPN 济宁/PROPN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+6/NUM
+
+山东省/PROPN 菏泽/NOUN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+7/NUM
+
+山东省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+山东省/PROPN
+
+8/NUM
+
+兖州/ADJ 矿区/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+9/NUM
+
+山东/PROPN 财政/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+10/NUM
+
+山东省/PROPN 工会/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山东省/PROPN
+
+11/NUM
+
+青岛市/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+山东省/PROPN
+
+12/NUM
+
+烟台/PROPN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+13/NUM
+
+新汶/PROPN 矿务局/PROPN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+14/NUM
+
+山东省/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+山东省/PROPN
+
+15/NUM
+
+济南/PROPN 机械/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+16/NUM
+
+青岛/PROPN 远洋/ADJ 船员/NOUN 学院/NOUN
+
+山东省/PROPN
+
+17/NUM
+
+济南市/PROPN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+18/NUM
+
+山东/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+19/NUM
+
+济南/PROPN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+20/NUM
+
+山东省/PROPN 水利/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+21/NUM
+
+山东/PROPN 铝业/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+22/NUM
+
+济南市/PROPN 职工/NOUN 科技/NOUN 大学/NOUN
+
+山东省/PROPN
+
+23/NUM
+
+山东省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山东省/PROPN
+
+24/NUM
+
+山东省/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山东省/PROPN
+
+25/NUM
+
+山东省/PROPN 农业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+山东省/PROPN
+
+26/NUM
+
+山东省/PROPN 教育/NOUN 学院/NOUN
+
+山东省/PROPN
+
+27/NUM
+
+山东省/PROPN 贸易/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+28/NUM
+
+山东/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+山东省/PROPN
+
+河南省/PROPN
+
+1/NUM
+
+驻马店/NOUN 教育/NOUN 学院/NOUN
+
+河南省/PROPN
+
+2/NUM
+
+河南/PROPN 教育/NOUN 学院/NOUN
+
+河南省/PROPN
+
+3/NUM
+
+平顶山/PROPN 教育/NOUN 学院/NOUN
+
+河南省/PROPN
+
+4/NUM
+
+新乡/PROPN 教育/NOUN 学院/NOUN
+
+河南省/PROPN
+
+5/NUM
+
+河南省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+河南省/PROPN
+
+6/NUM
+
+河南/PROPN 卫生/NOUN 职工/NOUN 学院/NOUN
+
+河南省/PROPN
+
+7/NUM
+
+河南/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河南省/PROPN
+
+8/NUM
+
+磨料/VERB 磨具/VERB 工业/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+9/NUM
+
+河南省/PROPN 安阳/PROPN 钢铁/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+10/NUM
+
+郑州/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+河南省/PROPN
+
+11/NUM
+
+焦作/PROPN 职工/NOUN 医学院/NOUN
+
+河南省/PROPN
+
+12/NUM
+
+河南省/PROPN 化工/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+13/NUM
+
+新乡市/PROPN 纺织/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+14/NUM
+
+河南省/PROPN 建筑/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+15/NUM
+
+洛阳市/PROPN 职工/NOUN 科学/NOUN 技术/NOUN 学院/NOUN
+
+河南省/PROPN
+
+16/NUM
+
+第一/NUM 拖拉机/NUM 制造厂/NOUN 拖拉机/NOUN 学院/NOUN
+
+河南省/PROPN
+
+17/NUM
+
+洛阳/PROPN 轴/ADV 承厂/VERB 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+18/NUM
+
+洛阳/PROPN 有色/ADJ 金属/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+19/NUM
+
+开封/NOUN 空分/NOUN 设备厂/NOUN 职工/NOUN 大学/NOUN
+
+河南省/PROPN
+
+20/NUM
+
+开封/ADJ 教育/NOUN 学院/NOUN
+
+河南省/PROPN
+
+21/NUM
+
+开封市/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+河南省/PROPN
+
+22/NUM
+
+长城/PROPN 铝业/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+河南省/PROPN
+
+23/NUM
+
+郑州市/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+河南省/PROPN
+
+湖北省/PROPN
+
+1/NUM
+
+湖北/PROPN 教育/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+2/NUM
+
+宜昌市/PROPN 教育/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+3/NUM
+
+湖北/PROPN 武汉/PROPN 公安/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+4/NUM
+
+武汉/PROPN 冶金/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+5/NUM
+
+武汉市/PROPN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+6/NUM
+
+武汉市/PROPN 职工/NOUN 财经/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+7/NUM
+
+武汉市/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+8/NUM
+
+湖北省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+9/NUM
+
+大冶/NOUN 钢厂/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+10/NUM
+
+湖北/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+11/NUM
+
+武汉市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+12/NUM
+
+荆州/PROPN 教育/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+13/NUM
+
+十堰/NOUN 教育/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+14/NUM
+
+华中/PROPN 电业/NOUN 联合/ADJ 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+15/NUM
+
+丹江口/PROPN 工程/NOUN 管理局/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+16/NUM
+
+湖北省/PROPN 纺织/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+17/NUM
+
+鄂城/NOUN 钢铁厂/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+18/NUM
+
+湖北省/PROPN 直属/ADJ 机关/NOUN 业余/ADJ 大学/NOUN
+
+湖北省/PROPN
+
+19/NUM
+
+湖北省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+湖北省/PROPN
+
+20/NUM
+
+长江/PROPN 葛洲坝/PROPN 工程局/NOUN 职工/NOUN 大学/NOUN
+
+湖北省/PROPN
+
+湖南省/NOUN
+
+1/NUM
+
+湖南/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+湖南省/NOUN
+
+2/NUM
+
+湘西/ADP 民族/NOUN 教师/NOUN 进修/VERB 学院/NOUN
+
+湖南省/NOUN
+
+3/NUM
+
+湘潭市/PROPN 教师/NOUN 进修/NOUN 学院/NOUN
+
+湖南省/NOUN
+
+4/NUM
+
+益阳/NOUN 地区/NOUN 教师/NOUN 进修/NOUN 学院/NOUN
+
+湖南省/NOUN
+
+5/NUM
+
+长沙市/PROPN 教师/NOUN 进修/NOUN 学院/NOUN
+
+湖南省/NOUN
+
+6/NUM
+
+湖南/PROPN 农村/NOUN 金融/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+7/NUM
+
+湖南/PROPN 纺织/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+8/NUM
+
+湖南省/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+9/NUM
+
+南方/NOUN 动力/NOUN 机械/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+湖南省/NOUN
+
+10/NUM
+
+衡阳/PROPN 有色/ADJ 冶金/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+11/NUM
+
+湖南/PROPN 有色/ADJ 金属/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+12/NUM
+
+湖南/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+13/NUM
+
+湖南/PROPN 工业/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+14/NUM
+
+湖南/PROPN 机电/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+15/NUM
+
+衡阳/PROPN 工业/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+16/NUM
+
+涟源/VERB 钢铁/NOUN 总厂/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+17/NUM
+
+湖南省/NOUN 工艺/NOUN 美术/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+18/NUM
+
+湖南/PROPN 工业/NOUN 科技/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+19/NUM
+
+湖南/PROPN 石化/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+20/NUM
+
+长沙市/PROPN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+21/NUM
+
+衡阳市/PROPN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+22/NUM
+
+株洲市/NOUN 职工/NOUN 大学/NOUN
+
+湖南省/NOUN
+
+广东省/PROPN
+
+1/NUM
+
+广州/PROPN 铁路/NOUN 运输/NOUN 职工/NOUN 大学/NOUN
+
+铁道部/NOUN
+
+2/NUM
+
+广东/PROPN 新华/PROPN 教育/NOUN 学院/NOUN
+
+广东省/PROPN 教育厅/NOUN
+
+3/NUM
+
+广东省/PROPN 财贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+4/NUM
+
+广东省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+广东省/PROPN
+
+5/NUM
+
+广东省/PROPN 职工/NOUN 体育/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+广东省/PROPN
+
+6/NUM
+
+广东/PROPN 社会/NOUN 科学/NOUN 大学/NOUN
+
+广东省/PROPN
+
+7/NUM
+
+广东省/PROPN 佛山/PROPN 职工/NOUN 医学院/NOUN
+
+广东省/PROPN
+
+8/NUM
+
+广州市/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+9/NUM
+
+广州市/PROPN 财贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+10/NUM
+
+广东省/PROPN 农业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+11/NUM
+
+广东/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+12/NUM
+
+广州市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+广东省/PROPN
+
+13/NUM
+
+深圳市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+广东省/PROPN
+
+14/NUM
+
+广州市/PROPN 乡镇/NOUN 企业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+15/NUM
+
+韶关市/ADJ 职工/NOUN 大学/NOUN
+
+广东省/PROPN
+
+16/NUM
+
+广州/PROPN 金桥/PROPN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+17/NUM
+
+南海/PROPN 成人/NOUN 学院/NOUN
+
+广东省/PROPN
+
+18/NUM
+
+广东省/PROPN 成人/NOUN 科技/NOUN 大学/NOUN
+
+广东省/PROPN
+
+19/NUM
+
+湛江市/PROPN 业余/ADJ 大学/NOUN
+
+广东省/PROPN
+
+20/NUM
+
+广东省/PROPN 国防/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+广东省/PROPN
+
+21/NUM
+
+汕头市/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+广东省/PROPN
+
+22/NUM
+
+广州/PROPN 业余/ADJ 大学/NOUN
+
+广东省/PROPN
+
+23/NUM
+
+江门市/PROPN 职工/NOUN 业余/ADJ 大学/NOUN
+
+广东省/PROPN
+
+24/NUM
+
+广东/PROPN 教育/NOUN 学院/NOUN
+
+广东省/PROPN
+
+25/NUM
+
+佛山/PROPN 教育/NOUN 学院/NOUN
+
+广东省/PROPN
+
+26/NUM
+
+湛江/PROPN 教育/NOUN 学院/NOUN
+
+广东省/PROPN
+
+27/NUM
+
+广州市/PROPN 公安/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+28/NUM
+
+广东省/PROPN 公安/NOUN 司法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+29/NUM
+
+广东省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+广东省/PROPN
+
+30/NUM
+
+汕头市/PROPN 业余/ADJ 大学/NOUN
+
+广东省/PROPN
+
+广西/PROPN
+
+1/NUM
+
+南宁/PROPN 地区/NOUN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+2/NUM
+
+广西/PROPN 壮族/NOUN 自治区/NOUN 卫生/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+3/NUM
+
+广西/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+4/NUM
+
+广西/PROPN 壮族/NOUN 自治区/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+5/NUM
+
+广西/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+6/NUM
+
+桂林市/PROPN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+7/NUM
+
+广西/PROPN 壮族/NOUN 自治区/NOUN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+海南省/PROPN
+
+1/NUM
+
+海南省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+海南省/PROPN
+
+重庆市/PROPN
+
+1/NUM
+
+重庆市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+2/NUM
+
+重庆/PROPN 城建/NOUN 职工/NOUN 学院/NOUN
+
+重庆市/PROPN
+
+3/NUM
+
+重庆/PROPN 商业/NOUN 职工/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+4/NUM
+
+重庆/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+重庆市/PROPN
+
+5/NUM
+
+重庆/PROPN 社会/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+6/NUM
+
+重庆/PROPN 教育/NOUN 学院/NOUN
+
+重庆市/PROPN
+
+7/NUM
+
+重庆/PROPN 化工/NOUN 职工/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+8/NUM
+
+重庆/PROPN 冶金/NOUN 成人/NOUN 学院/NOUN
+
+重庆市/PROPN
+
+9/NUM
+
+重庆/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+10/NUM
+
+重庆/PROPN 职工/NOUN 会计/NOUN 专科/NOUN 学校/NOUN
+
+重庆市/PROPN
+
+11/NUM
+
+重庆/PROPN 交电/PROPN 分公司/NOUN 职工/NOUN 大学/NOUN
+
+重庆市/PROPN
+
+四川省/PROPN
+
+1/NUM
+
+中国/PROPN 科学院/NOUN 成都/PROPN 分院/NOUN 职工/NOUN 大学/NOUN
+
+中国/PROPN 科学院/NOUN
+
+2/NUM
+
+四川/PROPN 干部/NOUN 函授/NOUN 学院/NOUN
+
+四川省/PROPN
+
+3/NUM
+
+四川/PROPN 教育/NOUN 学院/NOUN
+
+四川省/PROPN
+
+4/NUM
+
+成都/PROPN 教育/NOUN 学院/NOUN
+
+四川省/PROPN
+
+5/NUM
+
+德阳/PROPN 教育/NOUN 学院/NOUN
+
+四川省/PROPN
+
+6/NUM
+
+四川省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+四川省/PROPN
+
+7/NUM
+
+四川/PROPN 财贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+8/NUM
+
+四川/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+9/NUM
+
+四川/PROPN 政法/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+10/NUM
+
+四川/PROPN 农业/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+11/NUM
+
+四川省/PROPN 计划/ADJ 生育/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+12/NUM
+
+成都市/PROPN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+13/NUM
+
+成都市/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+四川省/PROPN
+
+14/NUM
+
+成都/PROPN 电力/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+15/NUM
+
+四川/PROPN 卫生/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+四川省/PROPN
+
+16/NUM
+
+四川省/PROPN 职工/NOUN 运动/NOUN 技术/NOUN 学院/NOUN
+
+四川省/PROPN
+
+17/NUM
+
+成都/PROPN 电子/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+18/NUM
+
+成都/PROPN 水利/NOUN 水电/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+19/NUM
+
+四川/PROPN 核工业/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+20/NUM
+
+成都/PROPN 发动机/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+21/NUM
+
+成都/PROPN 飞机/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+四川省/PROPN
+
+22/NUM
+
+中国/PROPN 工程/NOUN 物理/NOUN 研究院/NOUN 职工/NOUN 工学院/PROPN
+
+四川省/PROPN
+
+23/NUM
+
+四川省/PROPN 东方/PROPN 动力/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+24/NUM
+
+南充市/PROPN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+25/NUM
+
+国营/ADJ 涪江/PROPN 机器厂/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+26/NUM
+
+红光/ADJ 电子/NOUN 管厂/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+27/NUM
+
+成都/PROPN 冶金/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+28/NUM
+
+第五/NUM 冶金/NOUN 建设/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+29/NUM
+
+成都/PROPN 工业/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+30/NUM
+
+四川省/PROPN 化工/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+31/NUM
+
+广元/PROPN 职工/NOUN 医学院/NOUN
+
+四川省/PROPN
+
+32/NUM
+
+四川/PROPN 科技/NOUN 职工/NOUN 大学/NOUN
+
+四川省/PROPN
+
+贵州省/NOUN
+
+1/NUM
+
+黔东南州/PROPN 教育/NOUN 学院/NOUN
+
+贵州省/NOUN
+
+2/NUM
+
+贵州/PROPN 教育/NOUN 学院/NOUN
+
+贵州省/NOUN
+
+3/NUM
+
+贵州/PROPN 铝厂/NOUN 职工/NOUN 大学/NOUN
+
+贵州省/NOUN
+
+4/NUM
+
+毕节/PROPN 教育/NOUN 学院/NOUN
+
+贵州省/NOUN
+
+5/NUM
+
+贵州/PROPN 航空/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+贵州省/NOUN
+
+6/NUM
+
+贵州/PROPN 机械/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+贵州省/NOUN
+
+7/NUM
+
+贵州省/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+贵州省/NOUN
+
+云南省/PROPN
+
+1/NUM
+
+云南/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+云南省/PROPN
+
+2/NUM
+
+云南省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+云南省/PROPN
+
+3/NUM
+
+德宏/PROPN 教育/NOUN 学院/NOUN
+
+云南省/PROPN
+
+4/NUM
+
+丽江/PROPN 教育/NOUN 学院/NOUN
+
+云南省/PROPN
+
+5/NUM
+
+临沧/VERB 教育/NOUN 学院/NOUN
+
+云南省/PROPN
+
+6/NUM
+
+南方/NOUN 电力/NOUN 职工/NOUN 大学/NOUN
+
+云南省/PROPN
+
+陕西省/PROPN
+
+1/NUM
+
+西安/PROPN 铁路/NOUN 运输/NOUN 职工/NOUN 大学/NOUN
+
+铁道部/NOUN
+
+2/NUM
+
+西安/PROPN 外贸/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+3/NUM
+
+陕西省/PROPN 财贸/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+4/NUM
+
+陕西省/PROPN 经济/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+5/NUM
+
+陕西/PROPN 教育/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+6/NUM
+
+陕西省/PROPN 宝鸡/PROPN 教育/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+7/NUM
+
+陕西省/PROPN 铜川/NOUN 教育/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+8/NUM
+
+陕西省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+9/NUM
+
+宝鸡市/PROPN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+10/NUM
+
+西安/PROPN 电力/NOUN 机械/NOUN 制造/NOUN 公司/NOUN 机电/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+11/NUM
+
+陕西/PROPN 工运/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+12/NUM
+
+西安/PROPN 航空/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+13/NUM
+
+西安/PROPN 铁路/NOUN 工程/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+14/NUM
+
+西安/PROPN 石油/NOUN 勘探/NOUN 仪器/NOUN 总厂/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+15/NUM
+
+陕西省/PROPN 纺织/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+16/NUM
+
+陕西/PROPN 航天/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+17/NUM
+
+西安市/PROPN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+18/NUM
+
+西安/PROPN 飞机/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 工学院/PROPN
+
+陕西省/PROPN
+
+19/NUM
+
+陕西/PROPN 兵器/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+20/NUM
+
+陕西/PROPN 电子/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+21/NUM
+
+陕西/PROPN 青年/NOUN 管理/NOUN 干部/NOUN 学院/NOUN
+
+陕西省/PROPN
+
+22/NUM
+
+西安市/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+23/NUM
+
+陕西省/PROPN 建筑/NOUN 工程/NOUN 总公司/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+24/NUM
+
+西北/PROPN 电业/NOUN 职工/NOUN 大学/NOUN
+
+陕西省/PROPN
+
+甘肃省/PROPN
+
+1/NUM
+
+甘肃省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+2/NUM
+
+兰州/PROPN 教育/NOUN 学院/NOUN
+
+甘肃省/PROPN
+
+3/NUM
+
+甘肃/PROPN 服装/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+4/NUM
+
+甘肃/PROPN 工业/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+5/NUM
+
+白银有色/PROPN 金属/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+6/NUM
+
+酒泉/PROPN 钢铁/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+7/NUM
+
+甘肃/PROPN 机械/NOUN 电子/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+8/NUM
+
+银光/NOUN 化学/NOUN 材料/NOUN 厂/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+9/NUM
+
+甘肃/PROPN 核工业/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+10/NUM
+
+兰州/PROPN 铁路/NOUN 工程/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+11/NUM
+
+兰州/PROPN 航空/NOUN 工业/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+12/NUM
+
+金川/PROPN 有色/ADJ 金属/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+甘肃省/PROPN
+
+青海省/PROPN
+
+1/NUM
+
+青海省/PROPN 联合/ADJ 职工/NOUN 大学/NOUN
+
+青海省/PROPN
+
+2/NUM
+
+青海省/PROPN 广播/NOUN 电视/NOUN 大学/NOUN
+
+青海省/PROPN
+
+宁夏/PROPN
+
+1/NUM
+
+宁夏/PROPN 回族/NOUN 自治区/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+新疆/PROPN
+
+1/NUM
+
+新疆/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+2/NUM
+
+乌鲁木齐/PROPN 成人/NOUN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+3/NUM
+
+喀什/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+4/NUM
+
+新疆/PROPN 生产/VERB 建设/VERB 兵团/NOUN 教育/NOUN 学院/NOUN
+
+新疆/PROPN 生产/VERB 建设/VERB 兵团/NOUN
+
+5/NUM
+
+和/CCONJ 田地区/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+6/NUM
+
+新疆/PROPN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+7/NUM
+
+伊犁/PROPN 教育/NOUN 学院/NOUN
+
+自治区/NOUN 政府/NOUN
+
+8/NUM
+
+阿克苏/PROPN 教育/NOUN 学院/NOUN
+
+新疆/PROPN 生产/VERB 建设/VERB 兵团/NOUN
+
+9/NUM
+
+新疆/PROPN 维吾尔/PROPN 自治区/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+10/NUM
+
+新疆/PROPN 生产/VERB 建设/VERB 兵团/NOUN 广播/NOUN 电视/NOUN 大学/NOUN
+
+新疆/PROPN 生产/VERB 建设/VERB 兵团/NOUN
+
+11/NUM
+
+新疆/PROPN 维吾尔/PROPN 自治区/NOUN 卫生厅/NOUN 职工/NOUN 业余/ADJ 医科/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+12/NUM
+
+新疆/PROPN 维吾尔/PROPN 自治区/NOUN 建筑/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+13/NUM
+
+新疆/PROPN 纺织/NOUN 工业/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+14/NUM
+
+新疆/PROPN 维吾尔/PROPN 自治区/NOUN 钢铁/NOUN 公司/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN
+
+15/NUM
+
+新疆/PROPN 兵团/NOUN 职工/NOUN 大学/NOUN
+
+自治区/NOUN 政府/NOUN

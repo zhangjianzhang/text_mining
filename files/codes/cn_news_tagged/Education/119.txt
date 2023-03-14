@@ -1,0 +1,417 @@
+【/PUNCT 来源/NOUN ：/PUNCT 沈阳/PROPN 新/ADJ 东方/NOUN 学校/NOUN 】/PUNCT
+【/PUNCT 作者/NOUN ：/PUNCT 赵丽/PROPN 】/PUNCT
+
+41/NUM ./PUNCT
+Some/NOUN people/NOUN believe/PROPN that/NOUN since/NOUN oil/NOUN is/VERB scarce/VERB ,/PUNCT the/DET __/PUNCT __/PUNCT
+of/ADP the/DET motor/NOUN
+
+industry/PROPN is/VERB uncertain/VERB ./PUNCT
+
+A)terminal/PROPN B)benefit/NOUN C)fate/PROPN D)estimate/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+有人/VERB 认为/VERB 因为/ADP 石油/NOUN 越来越/ADV 稀有/VERB 了/PART ，/PUNCT 所以/ADV 汽车/NOUN 行业/NOUN 的/PART 命运/NOUN 是/VERB 不/ADV 肯定/VERB 的/PART 。/PUNCT
+此/DET 题/NOUN 考核/VERB 的/PART 是/VERB 单词/NOUN 的/PART 含义/NOUN 和/CCONJ 句子/ADJ 的/PART 逻辑/NOUN 严密性/NOUN 。/PUNCT
+Terminal/PROPN “/PUNCT 终点/NOUN ”/PUNCT ，/PUNCT benefit/PROPN “/PUNCT 利益/NOUN ”/PUNCT ，/PUNCT
+
+fate/NOUN “/PUNCT 命运/NOUN ”/PUNCT —/PUNCT 形似/VERB 胖fat/NOUN —/PUNCT 一个/NUM 人/NOUN 的/PART 胖/NOUN 和/CCONJ 命运/NOUN 很/ADV 有/VERB 关系/NOUN ，/PUNCT 遗传/NOUN 。/PUNCT
+e/NOUN stimate/NOUN “/PUNCT 估计/VERB ”/PUNCT 。/PUNCT
+
+42/NUM ./PUNCT
+To/NOUN speed/VERB up/ADV the/PRON __/PUNCT __/PUNCT
+__/PUNCT of/ADP letters/PROPN ,/PUNCT the/DET Post/NOUN Office/NOUN introduced/NOUN automatic/VERB
+
+sorting/NOUN ./PUNCT
+
+A)treatment/ADJ B)delivery/NOUN C)transmission/NOUN D)departure/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选B/VERB 。/PUNCT
+为了/ADP 加快/VERB 送信/VERB 的/PART 速度/NOUN ，/PUNCT 邮局/NOUN 引进/VERB 了/PART 自动/ADJ 分类/ADJ 技术/NOUN 。/PUNCT
+treatment/NOUN “/PUNCT 对待/VERB ，/PUNCT 治疗/VERB ”/PUNCT ，/PUNCT delivery/NOUN “/PUNCT 派送/NOUN ”/PUNCT ，/PUNCT transmission/NOUN “/PUNCT （/PUNCT 多/ADV 指/VERB 信息/NOUN 或/CCONJ 疾病/NOUN 的/PART ）/PUNCT 传播/NOUN ”/PUNCT ，/PUNCT departure/NOUN “/PUNCT 离开/VERB ”/PUNCT 。/PUNCT
+
+43/NUM ./PUNCT
+These/PROPN overseas/NOUN students/VERB show/NOUN great/VERB __/PUNCT __/PUNCT
+__/PUNCT for/ADP learning/PROPN a/NUM new/NOUN
+
+language/VERB ./PUNCT
+
+A)enthusias/PROPN m/PROPN B)authority/NUM C)convention/NOUN D)faith/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+这些/DET 留学生/NOUN 具有/VERB 高度/ADJ 的/PART 学习/NOUN 一/NUM 门/NUM 新/ADJ 语言/NOUN 的/PART 热情/NOUN 。/PUNCT
+这里/PRON 考核/VERB 的/PART 是/VERB 一个/NUM 词组/NOUN 的/PART 搭配/NOUN ：/PUNCT show/NOUN great/NOUN enthusias/ADJ m/PUNCT for/ADP doing/NOUN
+
+sth/NOUN ./PUNCT
+“/PUNCT 在/ADP 某/DET 一方面/NOUN 做/VERB 事情/NOUN 有/VERB 高度/ADJ 的/PART 热情/NOUN ”/PUNCT ，/PUNCT authority/ADV “/PUNCT 权威/NOUN ”/PUNCT —/PUNCT 我/PRON 是/VERB 这/DET 本书/NOUN 的/PART author/NOUN 对/ADP 这/DET 本书/NOUN 的/PART 解析/NOUN 是/VERB 最/ADV 有/VERB 权威性/NOUN 的/PART 。/PUNCT
+convention/NOUN
+
+“/PUNCT 传统/NOUN ”/PUNCT ，/PUNCT faith/VERB “/PUNCT 忠诚/NOUN ”/PUNCT 。/PUNCT
+
+44/NUM ./PUNCT
+The/DET defense/PROPN lawyer/NOUN was/NOUN questioning/VERB the/DET old/ADJ man/ADP who/NOUN was/NOUN one/NOUN of/ADP the/DET
+
+__/PUNCT __/PUNCT
+__/PUNCT
+of/ADP the/DET murder/NOUN committed/VERB last/NOUN month/NOUN ./PUNCT
+
+A)observers/NUM B)/ADJ witnesses/NOUN C)audiences/PROPN D)viewers/ADV
+
+【/PUNCT 解析/VERB 】/PUNCT 选B/VERB 。/PUNCT
+辩护/NOUN 律师/NOUN 正在/ADV 问/VERB 这个/DET 老人/NOUN 谁/PRON 是/VERB 上个月/NOUN 的/PART 谋杀案/NOUN 中/PART 目击/VERB 证人/NOUN 之一/NOUN 。/PUNCT
+Observer/NOUN “/PUNCT 观察者/NOUN ”/PUNCT ，/PUNCT witness/NOUN “/PUNCT 目击者/NOUN ”/PUNCT ，/PUNCT audience/PROPN “/PUNCT 观众/NOUN ”/PUNCT ，/PUNCT viewers/PROPN “/PUNCT 观光者/NOUN ”/PUNCT 。/PUNCT
+
+45/NUM ./PUNCT
+Politically/PROPN these/NOUN nations/NOUN tend/NOUN to/ADP be/NOUN _/PUNCT __/PUNCT
+__/PUNCT _,/NOUN with/ADV very/VERB high/PROPN birth/NOUN rates/NOUN
+
+but/PROPN poor/NOUN education/NOUN and/CCONJ very/NOUN low/NOUN levels/VERB of/ADP literacy/PROPN ./PUNCT
+
+A)unstable/PUNCT B)reluctant/PROPN C)rational/PUNCT D)unsteady/NUM
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+从/ADP 政治/NOUN 的/PART 角度/NOUN 来说/PART ，/PUNCT 这些/DET 国家/NOUN 趋于/VERB 不/ADV 稳定/VERB ，/PUNCT 体现/VERB 在/ADP 高/VERB 的/PART 生育率/NOUN ，/PUNCT 教育/NOUN 匮乏/NOUN 和/CCONJ 低识/ADJ 字率/NOUN 。/PUNCT
+un/PROPN stable/NOUN “/PUNCT 不/ADV 稳定/VERB 的/PART ”/PUNCT ，/PUNCT reluctant/PROPN “/PUNCT 犹豫/VERB 的/PART ”/PUNCT ，/PUNCT rational/PROPN “/PUNCT 理智/VERB 的/PART ”/PUNCT 。/PUNCT
+
+46/NUM ./PUNCT
+The/DET chairman/NOUN was/NOUN blamed/PROPN for/ADP letting/NOUN his/PROPN secretary/NOUN __/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+too/ADV much/NOUN work/VERB
+
+last/PROPN week/VERB ./PUNCT
+
+A)take/VERB to/ADP B)take/NOUN out/PROPN C)take/PROPN away/PROPN
+D)take/X on/ADP
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+大家/PRON 都/ADV 责怪/VERB 主席/NOUN 上/DET 个/NUM 星期/NOUN 让/VERB 他/PRON 秘书/NOUN 承担/VERB 了/PART 太/ADV 多/NUM 的/PART 工作/NOUN 。/PUNCT
+take/VERB to/ADP “/PUNCT 开始/VERB ，/PUNCT 喜欢/VERB ，/PUNCT 沉溺于/VERB ”/PUNCT ，/PUNCT take/VERB out/ADP “/PUNCT 拿出/VERB ，/PUNCT 取出/VERB ”/PUNCT ，/PUNCT take/VERB
+
+away/VERB “/PUNCT 带走/VERB ”/PUNCT ，/PUNCT take/NOUN on/ADP “/PUNCT 从事/VERB ，/PUNCT 承担/VERB ”/PUNCT 。/PUNCT
+
+47/NUM ./PUNCT
+"/PUNCT You/NOUN try/VERB to/ADP get/PROPN some/NOUN sleep/VERB ./PUNCT
+I’ll/PRON _/PUNCT __/PUNCT
+__/PUNCT the/DET patient/NOUN ’/PUNCT s/VERB breakfast/PROPN ,/PUNCT "said/ADV the/DET
+
+nurse/PROPN ./PUNCT
+
+A)see/VERB to/ADP B)stick/NOUN to/ADP C)get/VERB to/ADP D)lead/NUM to/VERB
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+护士/NOUN 说/VERB ：/PUNCT “/PUNCT 你/PRON 睡/VERB 一下/ADV 吧/PART ，/PUNCT 我/PRON 会/VERB 负责/VERB 病人/NOUN 的/PART 早餐/NOUN 。/PUNCT ”/PUNCT
+see/VERB to/ADP “/PUNCT 负责/VERB ，/PUNCT 注意/VERB ”/PUNCT ，/PUNCT stick/NOUN to/ADP “/PUNCT 坚持/VERB ”/PUNCT ，/PUNCT get/PROPN to/ADP “/PUNCT 到达/VERB ”/PUNCT ，/PUNCT lead/NOUN
+
+to/ADP “/PUNCT 导致/VERB ”/PUNCT
+
+48/NUM ./PUNCT
+The/DET London/PROPN Marathon/PROPN is/VERB a/DET difficult/NOUN race/NOUN ._______,/ADP thous/NOUN ands/VERB of/ADP runners/PROPN
+
+participate/PROPN every/PROPN year/VERB ./PUNCT
+
+A)/PUNCT Therefore/PROPN B)/PUNCT Furthermore/PROPN C)Accordingly/NOUN D/NOUN )/NOUN Nevertheless/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+伦敦/PROPN 的/PART 马拉松/NOUN 比赛/NOUN 是/VERB 相当/ADV 辛苦/VERB 的/PART ，/PUNCT 尽管/SCONJ 如此/ADV 每年/ADV 还是/ADV 有/VERB 很多/NUM 人/NOUN 参加/VERB 。/PUNCT
+
+therefore/NOUN “/PUNCT 因此/ADV ”/PUNCT ，/PUNCT furthermore/VERB “/PUNCT 而且/ADV ”/PUNCT ，/PUNCT ac/ADP cordingly/PROPN “/PUNCT 根据/VERB …/PUNCT ”/PUNCT ，/PUNCT nevertheless/NOUN “/PUNCT 尽管/SCONJ 如此/VERB ，/PUNCT 可是/ADV ”/PUNCT 。/PUNCT
+
+49/NUM ./PUNCT
+The/DET bank/PROPN refused/PROPN to/ADP ______him/NOUN any/PROPN money/VERB ,/PUNCT so/ADV he/VERB had/NUM to/ADP postpone/PROPN buying/VERB a/NUM
+
+house/PROPN ./PUNCT
+
+A)credit/NOUN B)borrow/NOUN C)loan/PROPN D)lease/ADV
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+银行/NOUN 拒绝/VERB 贷款/NOUN 给/VERB 他/PRON ，/PUNCT 所以/ADV 他/PRON 必须/VERB 要/VERB 推迟/VERB 买/VERB 房/NOUN 了/PART 。/PUNCT
+Credit/NOUN “/PUNCT 信用/NOUN ”/PUNCT ，/PUNCT borrow/PROPN “/PUNCT 借入/NOUN ”/PUNCT ，/PUNCT loan/NOUN “/PUNCT 贷款/NOUN 给/VERB 他人/PRON ”/PUNCT ，/PUNCT lease/VERB “/PUNCT 租约/VERB ”/PUNCT 。/PUNCT
+
+50/NUM ./PUNCT
+The/DET more/ADV a/NUM nation/VERB ’/PUNCT s/NOUN companies/VERB _______factories/NOUN abroad/PROPN ,/PUNCT the/DET smaller/NOUN that/VERB
+
+country/VERB ’/PUNCT s/NOUN recorded/NOUN exports/ADV will/VERB be/NOUN ./PUNCT
+
+A)lie/NOUN B)spot/NUM C)stand/NOUN D)locate/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+一个/ADV 国家/NOUN 有/VERB 越/ADV 多/VERB 的/PART 公司/NOUN 把/X 工厂/NOUN 设立/VERB 在/ADP 海外/NOUN 的话/PART ，/PUNCT 那么/ADV 出/VERB 国家/NOUN 的/PART 口量/NOUN 记录/NOUN 就/ADV 会/VERB 越/ADV 少/VERB 。/PUNCT
+lie/NOUN
+
+“/PUNCT 说谎/VERB ，/PUNCT 平躺/NOUN ”/PUNCT ，/PUNCT spot/NOUN “/PUNCT 地点/NOUN ，/PUNCT 发现/VERB “/PUNCT ，/PUNCT stand/NOUN “/PUNCT 站立/NOUN ”/PUNCT ，/PUNCT locate/PROPN “/PUNCT 座落/VERB ，/PUNCT 定位/NOUN ”/PUNCT 。/PUNCT
+
+51/NUM ./PUNCT
+Being/VERB ignorant/NOUN of/ADP the/DET law/NOUN is/VERB not/PROPN accepted/ADJ as/NOUN an/NOUN __/PUNCT __/PUNCT
+__/PUNCT for/VERB breaking/NOUN the/DET
+
+law/PROPN ./PUNCT
+
+A)excuse/NOUN B)intention/NOUN C)option/NOUN D)approval/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+对于/ADP 法律/NOUN 的/PART 无知/NOUN 不/ADV 能/VERB 成为/VERB 违法/VERB 的/PART 借口/NOUN 。/PUNCT
+Excuse/PROPN “/PUNCT 借口/NOUN ”/PUNCT ，/PUNCT intention/PROPN “/PUNCT 意向/NOUN ”/PUNCT ，/PUNCT option/ADV “/PUNCT 选择/NOUN ”/PUNCT ，/PUNCT approval/PROPN “/PUNCT 批准/VERB ”/PUNCT 。/PUNCT
+
+52/NUM ./PUNCT
+Within/PROPN two/NOUN days/NOUN ,/PUNCT the/DET army/VERB fired/PROPN more/NOUN than/VERB two/NOUN hundred/NOUN rockets/NOUN and/CCONJ
+
+missiles/PROPN at/ADP military/NOUN _/PUNCT __/PUNCT __/PUNCT in/ADP the/DET coastal/PROPN city/VERB ./PUNCT
+
+A)goals/PROPN B)aims/NOUN C)targets/PROPN D)destinations/NUM
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+两/NUM 天/NUM 之内/PART ，/PUNCT 军队/NOUN 就/ADV 向/ADP 这个/DET 沿海/NOUN 城市/NOUN 的/PART 军事/NOUN 目标/NOUN 投放/VERB 了/PART 两百/NUM 枚/NUM 火箭/NOUN 和/CCONJ 导弹/NOUN 。/PUNCT
+goal/PROPN “/PUNCT 目标/NOUN ，/PUNCT 球门/NOUN ”/PUNCT aim/NOUN “/PUNCT 目标/NOUN ，/PUNCT 瞄准/VERB ”/PUNCT
+
+target/NOUN “/PUNCT 目标/NOUN ，/PUNCT 对象/NOUN ，/PUNCT 靶子/NOUN ”/PUNCT military/NUM target/VERB “/PUNCT 军事/NOUN 目标/NOUN ”/PUNCT destination/PROPN “/PUNCT 目的地/NOUN ”/PUNCT 。/PUNCT
+
+53/NUM ./PUNCT
+It/NOUN is/VERB said/VERB in/ADP some/NOUN parts/NOUN of/ADP the/DET world/VERB ,/PUNCT goats/NOUN ,/PUNCT rather/ADJ than/NOUN cows/VERB ,/PUNCT serve/NOUN as/VERB
+
+a/NUM vital/NOUN _/PUNCT __/PUNCT
+__/PUNCT of/ADP milk/PROPN ./PUNCT
+
+A)storage/VERB B)reserve/NUM
+
+C)resource/NOUN D)source/PUNCT
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+据说/ADV 在/ADP 世界/NOUN 的/PART 某些/DET 地方/NOUN ，/PUNCT 山羊/NOUN 取代/VERB 了/PART 奶牛/NOUN 被/X 当作/VERB 是/VERB 重要/VERB 的/PART 供奶/NOUN 来源/NOUN 。/PUNCT
+storage/VERB
+
+“/PUNCT 储藏/NOUN ”/PUNCT ，/PUNCT reserve/PROPN “/PUNCT 储藏/VERB ”/PUNCT ，/PUNCT resource/NOUN “/PUNCT 资源/NOUN ”/PUNCT ，/PUNCT source/NOUN “/PUNCT 来源/NOUN ”/PUNCT 。/PUNCT
+
+54/NUM ./PUNCT "/PUNCT
+This/DET light/NOUN is/VERB too/ADV __/PUNCT
+__/PUNCT
+__/PUNCT
+for/ADP me/PRON to/ADP read/PROPN by/NOUN ./PUNCT
+Don/NOUN ’t/VERB we/NOUN have/PROPN a/NUM brighter/PROPN
+
+bulb/PROPN some/NOUN where"/NOUN :/PUNCT said/VERB the/DET elderly/ADJ man/NOUN ./PUNCT
+
+A)mild/NOUN B)dim/NUM C)minute/PROPN D)slight/VERB
+
+【/PUNCT 解析/VERB 】/PUNCT 选B/VERB 。/PUNCT
+老人家/NOUN 说/VERB ：/PUNCT “/PUNCT 这个/DET 光线/NOUN 对/ADP 我/PRON 来说/PART 太/ADV 暗/VERB 了/PART ，/PUNCT 有/VERB 没有/VERB 更/ADV 亮/VERB 的/PART 灯泡/NOUN 。/PUNCT ”/PUNCT
+mild/PROPN “/PUNCT 温和/VERB 的/PART ”/PUNCT ，/PUNCT dim/PROPN “/PUNCT 黯淡/ADJ 的/PART ”/PUNCT ，/PUNCT minute/PROPN “/PUNCT 微小/ADJ 的/PART ”/PUNCT ，/PUNCT slight/NOUN “/PUNCT 轻微/VERB 的/PART ”/PUNCT 。/PUNCT
+
+55/NUM ./PUNCT
+We/NOUN have/NOUN arranged/PROPN to/ADP go/VERB to/ADP the/DET cinema/PROPN on/NOUN Friday/PROPN ,/PUNCT but/PROPN we/NOUN can/VERB be/NOUN _/PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+and/ADV
+
+go/VERB another/NOUN day/PROPN ./PUNCT
+
+A)reliable/PROPN B)probable/PROPN C)feasible/PROPN D)flexible/NUM
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+我们/PRON 已经/ADV 计划/VERB 好/VERB 了/PART 星期五/NOUN 去/VERB 看/VERB 电影/NOUN ，/PUNCT 但是/ADV 也/ADV 可以/VERB 灵活点/VERB 改天/VERB 再/ADV 去/VERB 的/PART 。/PUNCT
+reliable/PROPN “/PUNCT 可靠/VERB 的/PART ”/PUNCT ，/PUNCT probable/VERB “/PUNCT 适当/VERB 的/PART ”/PUNCT ，/PUNCT feasible/VERB “/PUNCT 可行/VERB 的/PART ”/PUNCT ，/PUNCT flexible/VERB “/PUNCT 灵活/VERB 的/PART ”/PUNCT 。/PUNCT
+
+56/NUM ./PUNCT
+We/NOUN are/VERB quite/NOUN sure/NOUN that/ADV we/NOUN can/VERB ______our/NOUN present/NOUN difficulties/NOUN and/CCONJ finish/NOUN
+
+the/DET task/NOUN ac/NOUN cording/VERB to/ADP schedule/PROPN ./PUNCT
+
+A)get/ADJ across/VERB B)get/ADV over/VERB C)get/NOUN away/VERB D)get/ADV of/ADP f/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT
+选B/VERB 。/PUNCT
+我们/PRON 肯定/ADV 可以/VERB 克服/VERB 目前/NOUN 的/PART 困难/NOUN ，/PUNCT 按/ADP 进度表/NOUN 完成/VERB 任务/NOUN 。/PUNCT
+get/PROPN across/VERB “/PUNCT 通过/VERB ”/PUNCT ，/PUNCT get/PROPN over/ADP “/PUNCT 克服/VERB ”/PUNCT ，/PUNCT get/PROPN away/VERB “/PUNCT 脱离/VERB ”/PUNCT ，/PUNCT
+get/PROPN
+
+of/ADP f/PROPN “/PUNCT 下车/VERB ”/PUNCT 。/PUNCT
+
+57.______recent/NUM developments/NUM we/NOUN do/VERB not/PROPN think/VERB your/PRON
+scheme/NOUN is/VERB practical/NUM ./PUNCT
+
+A)In/PROPN view/NOUN of/ADV B)/VERB In/NOUN favor/VERB of/ADP C)In/PROPN case/NOUN of/ADP D)In/NOUN memory/NOUN
+of/ADP
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+考虑/VERB 到/VERB 近期/NOUN 的/PART 发展/NOUN 我们/PRON 认为/VERB 你/PRON 的/PART 计划/NOUN 是/VERB 不/ADV 实用/VERB 的/PART 。/PUNCT
+In/ADV view/NOUN of/ADP “/PUNCT 考虑/VERB 到/VERB ，/PUNCT 由于/ADP ”/PUNCT ，/PUNCT In/NOUN favor/VERB of/ADP “/PUNCT 赞同/VERB ，/PUNCT 有利于/VERB ”/PUNCT ，/PUNCT In/NOUN case/VERB
+
+of/ADP “/PUNCT 假设/NOUN ，/PUNCT 万一/NOUN ”/PUNCT ，/PUNCT In/ADV memory/NOUN of/ADP “/PUNCT 纪念/VERB ，/PUNCT 追念/VERB ”/PUNCT 。/PUNCT
+
+58/NUM ./PUNCT
+Jessica/PROPN was/NOUN __/PUNCT __/PUNCT __/PUNCT from/ADP the/DET warehouse/NOUN to/ADP the/DET ac/ADP counting/NOUN office/NOUN ,/PUNCT which/PROPN was/NOUN
+
+considered/VERB a/NUM promotion/NOUN ./PUNCT
+
+A)delivered/PROPN B)exchanged/NOUN C)transferred/PROPN D)transformed/PUNCT
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+杰西卡/PROPN 升职/VERB 了/PART ，/PUNCT 被/X 从/ADP 仓库/NOUN 调到/VERB 了/PART 会计室/NOUN 。/PUNCT
+deliver/NOUN “/PUNCT 派送/VERB ”/PUNCT ，/PUNCT exchange/VERB “/PUNCT 交换/VERB ”/PUNCT ，/PUNCT transfer/NOUN “/PUNCT 调动/VERB ”/PUNCT ，/PUNCT transform/NOUN “/PUNCT 改变/VERB ，/PUNCT 改造/VERB ”/PUNCT 。/PUNCT
+
+59.Mr/VERB ./PUNCT
+Smith/PROPN a/NUM sked/NOUN his/NOUN secretary/VERB to/ADP __/PUNCT __/PUNCT
+__/PUNCT a/NUM new/NOUN paragraph/NOUN in/ADP the/DET annual/VERB
+
+report/NOUN she/NOUN was/NOUN typing/NOUN ./PUNCT
+
+A)inject/NOUN B)install/NOUN C)invade/PROPN D)insert/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+史密斯/NOUN 先生/NOUN 要求/VERB 他/PRON 的/PART 秘书/NOUN 在/ADV 正/ADV 打字/VERB 输入/VERB 的/PART 年度/NOUN 报告/NOUN 中/PART 插入/VERB 新/VERB 的/PART 一/NUM 段/NUM 。/PUNCT
+Inject/PROPN “/PUNCT 注射/VERB ”/PUNCT ，/PUNCT install/PROPN “/PUNCT 安装/NOUN ”/PUNCT ，/PUNCT invade/ADV “/PUNCT 侵入/VERB ”/PUNCT ，/PUNCT insert/PROPN “/PUNCT 插入/VERB ，/PUNCT 镶入/VERB ”/PUNCT 。/PUNCT
+
+60/NUM ./PUNCT
+There/PROPN ’/PUNCT s/NOUN the/DET living/NOUN room/NOUN still/VERB to/ADP be/ADP _____,so/NOUN that/VERB ’/PUNCT s/NOUN my/VERB next/NOUN project/NOUN ./PUNCT
+
+A)abandoned/VERB B)decorated/NOUN C)dissolved/NOUN D)assessed/PUNCT
+
+【/PUNCT 解析/VERB 】/PUNCT
+选B/VERB 。/PUNCT
+我/PRON 接下来/ADV 要/VERB 做/VERB 的/PART 项目/NOUN 就是/ADV 把/X 起居室/NOUN 给/VERB 装修/VERB 一下/ADV 。/PUNCT
+abandon/PROPN “/PUNCT 抛弃/VERB ”/PUNCT ，/PUNCT decorate/PROPN
+
+“/PUNCT 装修/NOUN ”/PUNCT ，/PUNCT dissolve/PROPN “/PUNCT 溶解/VERB ，/PUNCT 解散/VERB ”/PUNCT ，/PUNCT assess/VERB “/PUNCT 评估/VERB ”/PUNCT 。/PUNCT
+
+61/NUM ./PUNCT
+The/DET old/NOUN paper/NOUN mill/NOUN has/PROPN been/NOUN __/PUNCT __/PUNCT
+__/PUNCT to/ADP make/NOUN way/PROPN for/ADP a/NUM new/NOUN shopping/NOUN
+
+center/PROPN ./PUNCT
+
+A)held/PROPN down/NOUN B)kept/NOUN down/NOUN C)/NOUN turn/NOUN down/NOUN D)cut/NOUN down/NOUN
+
+【/PUNCT 解析/VERB 】/PUNCT
+选C/NOUN 。/PUNCT
+这个/DET 旧/ADJ 的/PART 造纸厂/PROPN 拒绝/VERB 为/VERB 新建/ADJ 购物/NOUN 中心/NOUN 让路/VERB 。/PUNCT
+hold/PROPN down/NOUN “/PUNCT 压制/VERB ，/PUNCT 抑制/VERB ”/PUNCT ，/PUNCT keep/VERB down/NOUN “/PUNCT 卧下/VERB ，/PUNCT 镇压/NOUN ，/PUNCT 保留/VERB ”/PUNCT ，/PUNCT
+turn/NOUN
+
+down/NOUN “/PUNCT (/PUNCT 被/X )向/NOUN 下/PART 折转/VERB ，/PUNCT 拒绝/VERB ”/PUNCT ，/PUNCT cut/ADJ down/NOUN “/PUNCT 砍倒/VERB ，/PUNCT 胜过/VERB ，/PUNCT 削减/VERB ，/PUNCT 删节/NOUN ”/PUNCT
+
+62/NUM ./PUNCT
+It/NOUN may/PROPN be/ADV necessary/VERB to/ADP stop/NOUN __/PUNCT __/PUNCT
+__/PUNCT in/ADP the/DET learning/NOUN process/NOUN and/CCONJ go/VERB back/PROPN to/ADP
+
+the/DET difficult/NOUN points/NOUN in/ADP the/DET lessons/NOUN ./PUNCT
+
+A)at/NOUN a/NOUN distance/NOUN B)at/PROPN intervals/PROPN C)at/NOUN case/NOUN D)at/NOUN length/NOUN
+
+【/PUNCT 解析/VERB 】/PUNCT
+选B/VERB 。/PUNCT
+在/ADP 学习/VERB 的/PART 过程/NOUN 当中/PART 很/ADV 有/VERB 必要/NOUN 时不时/NOUN 的/PART 停/VERB 下来/VERB 去/VERB 回顾/VERB 一下/ADV 课程/NOUN 当中/PART 出现/VERB 过/PART 的/PART 难点/NOUN ./PUNCT
+at/ADP a/DET distance/NOUN “/PUNCT 空间/NOUN 的/PART 距离/NOUN ”/PUNCT
+at/ADP
+
+intervals/PROPN “/PUNCT 时间/NOUN 上/PART 的/PART 间隔/NOUN ，/PUNCT 时不时/ADV ，/PUNCT 每/ADV 隔/ADP 一/NUM 段/NUM 时间/NOUN ”/PUNCT ，/PUNCT at/ADP length/NOUN “/PUNCT 最后/ADV ，/PUNCT 详细/VERB 地/PART ”/PUNCT 。/PUNCT
+
+63/NUM ./PUNCT
+Yor/PROPN can/VERB hire/VERB a/NUM bicycle/ADJ in/NOUN many/NUM places/VERB ./PUNCT
+Usually/PROPN you/PRON ’/PUNCT ll/NOUN have/NOUN to/ADP pay/NOUN a/NUM
+
+_________./PUNCT
+
+A)fare/ADJ B)fond/PUNCT
+C)deposit/PUNCT D)deal/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+在/ADP 很多/NUM 地方/NOUN 你/PRON 都/ADV 可以/VERB 租到/VERB 自行车/NOUN ，/PUNCT 通常/ADV 都/ADV 必须/VERB 要/VERB 交押金/NOUN 。/PUNCT
+Fare/PROPN “/PUNCT 费用/NOUN ”/PUNCT fond/PROPN
+
+“/PUNCT 喜爱/VERB 的/PART ”/PUNCT deposit/NOUN “/PUNCT 押金/NOUN ，/PUNCT 保证金/NOUN ”/PUNCT deal/NOUN “/PUNCT 交易/NOUN ”/PUNCT
+
+64.My/NUM grandfather/NOUN had/NOUN always/ADJ taken/NOUN a/NUM _______interest/NOUN in/NOUN my/VERB work/NOUN ,/PUNCT and/CCONJ I/PRON had/NOUN
+
+an/PROPN equal/NOUN admiration/VERB for/ADP the/DET stories/NOUN of/ADP his/PROPN time/NOUN ./PUNCT
+
+A)splendid/PROPN B)weighty/PROPN C)vague/PUNCT D)keen/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+我/PRON 的/PART 祖父/NOUN 总是/ADV 对/ADP 我/PRON 的/PART 工作/NOUN 抱有/VERB 强烈/ADJ 的/PART 兴趣/NOUN ，/PUNCT 而/ADV 我/PRON 也/ADV 一样/ADV 对/ADP 他/PRON 那个/DET 年代/NOUN 的/PART 故事/NOUN 充满/VERB 了/PART 钦佩/NOUN 。/PUNCT
+splendid/NOUN
+
+“/PUNCT 灿烂/VERB 的/PART ”/PUNCT ，/PUNCT weighty/NOUN “/PUNCT 重/VERB 的/PART ，/PUNCT 有/VERB 影响力/NOUN 的/PART ”/PUNCT ，/PUNCT vague/VERB “/PUNCT 模糊/VERB 的/PART ”/PUNCT ，/PUNCT
+keen/NOUN “/PUNCT 热心/VERB 的/PART ，/PUNCT 渴望/VERB 的/PART ”/PUNCT 。/PUNCT
+
+65.________/NUM quantities/VERB of/ADP water/PROPN are/VERB being/VERB used/NOUN nowadays/VERB with/DET the/DET rapid/NOUN
+
+development/NOUN of/ADP industry/PROPN and/CCONJ agriculture/NOUN ./PUNCT
+
+A)/PUNCT Excessive/PROPN B)Extensive/PROPN C)/NOUN Extreme/PROPN D)exclusive/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT
+选B/VERB 。/PUNCT
+如今/NOUN 随着/ADP 工业/NOUN 和/CCONJ 农业/NOUN 的/PART 高速/ADJ 发展/NOUN ，/PUNCT 大量/NUM 的/PART 水/NOUN 被/X 使用/VERB 。/PUNCT
+excessive/VERB “/PUNCT 过分/VERB 的/PART ”/PUNCT ，/PUNCT
+
+extensive/VERB “/PUNCT 广阔/VERB 的/PART ，/PUNCT 大量/NUM 的/PART ”/PUNCT ，/PUNCT extreme/VERB “/PUNCT 极端/VERB 的/PART ，/PUNCT 特别/ADJ 的/PART ”/PUNCT ，/PUNCT exclusive/VERB “/PUNCT 除外/VERB 的/PART ”/PUNCT 。/PUNCT
+
+66/NUM ./PUNCT
+John/PROPN cannot/NOUN afford/VERB to/ADP go/VERB to/ADP university/VERB ,/PUNCT _______going/NOUN abroad/PROPN ./PUNCT
+
+A)nothing/NOUN but/PROPN B)anything/PROPN but/PROPN C)not/PUNCT to/ADV speak/NOUN of/ADP D)nothing/NUM to/ADP speak/NOUN of/ADP
+
+【/PUNCT 解析/VERB 】/PUNCT 选C/NOUN 。/PUNCT
+约翰/PROPN 根本/ADV 上/VERB 不/ADV 起/VERB 大学/NOUN ，/PUNCT 更/ADV 不要/ADV 说/VERB 是/VERB 出国/VERB 留学/VERB 。/PUNCT
+nothing/NOUN but/PROPN “/PUNCT 只不过/ADV ”/PUNCT ，/PUNCT anything/ADV
+
+but/PROPN “/PUNCT 除…/VERB 以外/PART 的/PART 任何/DET 事物/NOUN ，/PUNCT 不是/VERB …/PUNCT
+而是/ADV …/PUNCT ”/PUNCT ，/PUNCT not/PROPN to/ADP speak/NOUN of/ADP “/PUNCT 更/ADV 不用说/VERB ”/PUNCT ，/PUNCT nothing/VERB to/ADP speak/NOUN of/ADP “/PUNCT 什么/PRON 都/ADV 不用说/VERB ”/PUNCT 。/PUNCT
+
+67.Most/NOUN laboratory/NOUN and/CCONJ field/NOUN studies/NOUN of/ADP human/VERB be/NOUN havior/VERB ______taking/VERB a/NUM
+
+situational/PROPN photograph/NOUN at/ADP a/NUM given/PROPN time/NOUN and/CCONJ in/ADP a/NUM given/NOUN place/NOUN ./PUNCT
+
+A)involve/NOUN B)compose/NOUN C)enclose/NOUN D)attach/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT 选A/NOUN 。/PUNCT
+大多数/NUM 有关/ADP 人类/NOUN 行为/NOUN 的/PART 室内/NOUN 实验/NOUN 和/CCONJ 户外/NOUN 实地/ADJ 考察/NOUN 中都/PART 包括/VERB 了/PART 在/ADP 规定/VERB 的/PART 时间/NOUN 和/CCONJ 地点/NOUN 拍取/VERB 场景/NOUN 照片/NOUN 。/PUNCT
+Involve/PROPN “/PUNCT 包括/VERB ”/PUNCT ，/PUNCT compose/VERB
+
+“/PUNCT 组成/VERB ”/PUNCT ，/PUNCT enclose/ADV “/PUNCT 包含/VERB ，/PUNCT 围绕/VERB ”/PUNCT attach/NOUN “/PUNCT 附加/VERB ”/PUNCT 。/PUNCT
+
+68/NUM ./PUNCT
+If/NOUN you/PRON don/PROPN ’t/VERB like/VERB to/ADP swim/NOUN ,/PUNCT you/PRON _____as/NOUN well/ADV stay/VERB at/ADP home/NOUN ./PUNCT
+
+A)should/PROPN B)may/PROPN C)can/PUNCT D)/PUNCT
+would/PROPN
+
+【/PUNCT 解析/VERB 】/PUNCT
+选B/VERB 。/PUNCT
+要是/SCONJ 你/PRON 不/ADV 喜欢/VERB 游泳/VERB ，/PUNCT 你/PRON 不妨/ADV 呆/VERB 在/ADP 家里/NOUN 。/PUNCT
+考查/NOUN 情态/NOUN 动词/NOUN 搭配/VERB 。/PUNCT
+should/PROPN “/PUNCT 应该/VERB （/PUNCT 表示/VERB 义务/NOUN 或/CCONJ 职责/NOUN ）/PUNCT ”/PUNCT
+may/PROPN as/NOUN
+
+well/ADV “/PUNCT 最好/VERB ，/PUNCT 还是/ADV …/PUNCT
+好/VERB 了/PART ”/PUNCT ，/PUNCT can/VERB “/PUNCT 能/VERB ，/PUNCT 可以/VERB （/PUNCT 表示/VERB 拥有/VERB 权利/NOUN ）/PUNCT ”/PUNCT ，/PUNCT would/PROPN “/PUNCT 愿意/VERB （/PUNCT 表/VERB 希望/NOUN 、/PUNCT 请求/NOUN 或/CCONJ 建议/NOUN ）/PUNCT ”/PUNCT 。/PUNCT
+
+69/NUM ./PUNCT
+Dr/NOUN ./PUNCT
+Smith/PROPN was/NOUN always/VERB __/PUNCT __/PUNCT
+__/PUNCT the/DET poor/NOUN and/CCONJ the/DET sick/NOUN ,/PUNCT often/ADV providing/VERB the/DET m/NOUN
+
+with/PRON free/ADJ medical/NOUN care/NOUN ./PUNCT
+
+A)reminded/PROPN of/ADP B)absorbed/PROPN in/NOUN C)tended/PROPN by/ADP D)/PUNCT concerned/NOUN about/NOUN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+史密斯/NOUN 医生/NOUN 总是/ADV 很/ADV 关心/VERB 穷人/NOUN 和/CCONJ 病人/NOUN ，/PUNCT 总会/NOUN 给/ADP 他们/PRON 提供/VERB 些/NUM 免费/ADJ 的/PART 治疗/NOUN 。/PUNCT
+remind/NOUN of/ADP “/PUNCT 提醒/VERB ，/PUNCT 令/VERB 人/NOUN 想起/VERB ”/PUNCT ，/PUNCT be/ADV absorbed/VERB
+
+in/ADP “/PUNCT 全神贯/NOUN 注于/VERB ，/PUNCT 专心/VERB 于/ADP ”/PUNCT ，/PUNCT be/PROPN tended/NOUN by/ADP “/PUNCT 被/X 照顾/VERB ”/PUNCT ，/PUNCT be/PROPN concerned/NOUN about/NOUN “/PUNCT 关心/VERB ”/PUNCT 。/PUNCT
+
+70/NUM ./PUNCT
+Thomas/PROPN Jefferson/PROPN and/CCONJ John/PROPN Adams/NOUN died/NOUN on/CCONJ July/PROPN 4/NUM ,/PUNCT 1826/NUM ,/PUNCT the/DET fiftieth/NOUN
+
+__/PUNCT __/PUNCT
+__/PUNCT
+of/ADP American/NOUN Independence/NOUN ./PUNCT
+
+A)ceremony/NOUN B)occasion/PROPN C)occurrence/NOUN D)anniversary/NOUN
+
+【/PUNCT 解析/VERB 】/PUNCT 选D/NOUN 。/PUNCT
+托马斯杰斐逊/NOUN 和/CCONJ 约翰亚当斯/PROPN 死于/VERB 1826年/NOUN 7月/NOUN 4日/NOUN ，/PUNCT 美国/PROPN 独立/ADJ 日/PROPN 五十/NUM 周年/NOUN 纪念日/NOUN 。/PUNCT
+Ceremony/PROPN “/PUNCT 典礼/NOUN ，/PUNCT 议式/NOUN ”/PUNCT ，/PUNCT oc/PROPN casion/NOUN
+
+“/PUNCT 场合/NOUN ”/PUNCT ，/PUNCT occurrence/ADV “/PUNCT 事件/NOUN ”/PUNCT ，/PUNCT anniversary/VERB “/PUNCT 周年/NOUN 纪念日/NOUN ”/PUNCT 。/PUNCT
+
+最后/ADJ 一个/NUM 月/NOUN 冲刺/VERB 了/PART ，/PUNCT 大家/PRON 要/VERB 好好/ADV 研读/VERB 这/DET 套/NUM 真题/NOUN 和/CCONJ 200306/NOUN 以后/PART 的/PART 真题/NOUN ，/PUNCT 达到/VERB 烂熟于心/NOUN ，/PUNCT 考试/VERB 时/PART 自然/ADV 游刃有余/VERB 。/PUNCT
+下期/NOUN 连载/VERB 我/PRON 会/VERB 告诉/VERB 大家/PRON 如何/ADV 备战/VERB 四级/NUM 阅读/NOUN 。/PUNCT

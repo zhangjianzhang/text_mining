@@ -1,0 +1,36 @@
+千呼万唤/PROPN 的/PART 手机/NOUN 资费/NOUN 下调/VERB 政策/NOUN ，/PUNCT 日前/NOUN 真的/ADV 惠及/VERB 北京/PROPN 。/PUNCT
+5月/NOUN 8日/NOUN ，/PUNCT 信息产业部/NOUN 公布/VERB ，/PUNCT 从/ADP 本月/NOUN 起/PART ，/PUNCT 北京/PROPN 手机/NOUN 资费/NOUN 正式/ADV 下调/NOUN 。/PUNCT
+此次/ADV 调整/NOUN 之前/PART ，/PUNCT 北京/PROPN 一直/ADV 实行/VERB 双向/ADJ 收费/NOUN 政策/NOUN ，/PUNCT 且/ADV 是/VERB 公认/VERB 的/PART 全国/ADJ 手机/NOUN 资费/NOUN 最/ADV 高/VERB 的/PART 地区/NOUN 。/PUNCT
+
+请/VERB 看/VERB 《/PUNCT 中国/PROPN 日报/NOUN 》/PUNCT 相关/ADJ 报道/NOUN
+：/PUNCT A/NOUN government/VERB -/PUNCT
+set/NOUN two-way/PUNCT charging/PROPN scheme/NOUN has/PROPN long/PROPN been/NOUN
+
+practised/PROPN in/ADJ China's/PROPN telecom/NOUN sector/VERB ./PUNCT
+This/DET charges/NOUN users/PROPN for/ADP both/ADJ making/NOUN and/CCONJ
+
+rece/NOUN iving/NOUN calls/VERB ./PUNCT
+
+Over/NOUN recent/NOUN years/PROPN operators/ADP have/PROPN been/NOUN offering/PROPN various/NOUN packages/NOUN that/VERB have/NOUN
+
+lowered/PROPN fees/NOUN in/ADP most/NOUN parts/NOUN of/ADP the/DET country/VERB ./PUNCT
+But/NOUN in/ADP Beijing/PROPN subscribers/ADJ pay/NOUN more/NOUN
+
+than/NOUN anywhere/PROPN else/ADV in/ADP the/DET country/VERB ./PUNCT
+
+报道/NOUN 中/PART 的/PART
+two-way/PUNCT charging/PROPN
+
+scheme/NOUN 就是/ADV 我们/PRON 日常/ADJ 生活/NOUN 中/PART 所/PART 说/VERB 的/PART “/PUNCT 双向/ADV 收费/VERB 政策/NOUN ”/PUNCT 。/PUNCT
+scheme/NOUN 在/ADP 这里/PRON 指/VERB “/PUNCT 政策/NOUN 、/PUNCT 方案/NOUN ”/PUNCT ，/PUNCT 而/ADV two-way/PUNCT 则/ADV 是/VERB 个/NUM 合成词/NOUN ，/PUNCT 直接/ADV 用/VERB 在/ADP 名词/NOUN 前/PART 表示/VERB “/PUNCT 双向/VERB 的/PART ”/PUNCT ，/PUNCT 可/VERB 和/ADP 许多/NUM 其它/DET 名词/NOUN 相/ADV 连用/VERB ，/PUNCT
+如/ADV ：/PUNCT two-way/NOUN
+
+communication/NOUN （/PUNCT 互动/VERB ）/PUNCT ；/PUNCT two-way/PUNCT selection/NOUN （/PUNCT 双向/ADV 选择/VERB ）/PUNCT 。/PUNCT
+
+当然/ADV ，/PUNCT 如果/SCONJ 想/VERB 表达/VERB “/PUNCT 单向/ADJ 的/PART ”/PUNCT ，/PUNCT 则/ADV 可用/VERB two-way/NOUN 的/PART 相应/ADJ 形式one-way/NOUN ，/PUNCT 如/ADV one-way/PUNCT charging/PROPN
+
+scheme/NOUN （/PUNCT 单向/ADV 收费/VERB 政策/NOUN ）/PUNCT ；/PUNCT 像/ADP 我们/PRON 日常/ADJ 生活/NOUN 中/PART 所/PART 说/VERB 的/PART “/PUNCT 单行道/NOUN ”/PUNCT 、/PUNCT “/PUNCT 单程/ADJ 票/NOUN ”/PUNCT 可/VERB 直接/ADV 用/VERB one-way/PUNCT 来/PART 表达/VERB 。/PUNCT
+
+值得一提的是/PROPN 报道/NOUN 中/PART 的/PART package/NOUN ，/PUNCT 就是/ADV 我们/PRON 所/PART 言/VERB 的/PART “/PUNCT 套餐/NOUN ”/PUNCT 。/PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

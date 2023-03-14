@@ -1,0 +1,97 @@
+在/ADP 这几年/DET 的/PART 教学/NOUN 工作/NOUN 中/PART ，/PUNCT 我/PRON 发现/VERB 对于/ADP 历届/NOUN 学生/NOUN 非谓/NOUN 语动词/NOUN 是/VERB 一大/NUM 难点/NOUN ，/PUNCT 所以/ADV ，/PUNCT 我/PRON 研究/VERB 了/PART 一/NUM 套/NUM 解题/NOUN 步骤/NOUN ，/PUNCT 从/ADP 一开始/NOUN 就/ADV 训练/VERB 学生/NOUN 按照/ADP 这/DET 套/NUM 解题/NOUN 步骤/NOUN 来/PART 做题/VERB 。/PUNCT
+
+第一/NUM 步/NUM ，/PUNCT 分析/VERB 句子/ADJ 成分/NOUN ，/PUNCT 判断/VERB 动词/NOUN 在/ADP 句/NUM 中/PART 所/PART 作/VERB 的/PART 成分/NOUN ，/PUNCT 例如/ADV ：/PUNCT 主语/NOUN 、/PUNCT 宾语/NOUN 、/PUNCT 定语/NOUN 、/PUNCT 表语/VERB 、/PUNCT 补语/VERB 或是/CCONJ 状语/NOUN 。/PUNCT
+
+第二/NUM 步/NUM ，/PUNCT 考虑/VERB 非谓/NOUN 语动词/NOUN 与/CCONJ 相应/ADJ 的/PART 逻辑/NOUN 主语/NOUN 或/CCONJ 被/X 修饰/VERB 词/NOUN 之间/PART 的/PART 主动/NOUN 还是/ADV 被动/ADV 关系/VERB 。/PUNCT
+
+1/NUM 、/PUNCT 主语/NOUN 。/PUNCT
+只/ADV 需要/VERB 考虑/VERB todo(/ADP 一般/ADV 表示/VERB 一/NUM 次/NUM 特定/ADJ 的/PART 行为/NOUN )/VERB 或是/CCONJ v-ing(/VERB 一般/ADJ 表示/VERB 习惯性/ADJ 行为/NOUN )/VERB 。/PUNCT
+
+2/NUM 、/PUNCT 宾语/NOUN 。/PUNCT
+只/ADV 需要/VERB 考虑/VERB to/ADP do/NOUN 或是/CCONJ v-ing/NOUN 。/PUNCT
+至于/ADP 区别/NOUN ，/PUNCT 我/PRON 建议/VERB 把/X 常/ADV 接v/VERB -/PUNCT ing/NOUN 作/VERB 宾语/NOUN 的/PART 特殊/ADJ 动词/NOUN 背/VERB 下来/VERB 。/PUNCT
+主动/ADV &/NOUN 被/X 动取/NOUN 决于/VERB 句子/ADJ 主语/NOUN 。/PUNCT
+
+e.g.Idon/PROPN ’/PUNCT tmind_/VERB __/PUNCT
+to/ADP
+
+theparty/NOUN ./PUNCT
+A/NOUN ./PUNCT
+beingnotinvitedB.notinvitingC.notbe/INTJ inginvitedD.nottobe/PROPN invited/PROPN
+
+答案/NOUN 是/VERB C/NOUN ./PUNCT
+mind后/NOUN 应该/VERB 用/VERB v-ing/NOUN ，/PUNCT 所以/ADV 排除/VERB D/NOUN ,/PUNCT invite/NOUN 与/CCONJ I是/NOUN 被动/VERB 关系/VERB ，/PUNCT 所以/ADV 排除B,not/VERB 应该/VERB 放/VERB 在/ADP being/NOUN 前/PART ，/PUNCT 所以/ADV C正确/VERB 。/PUNCT
+
+3/NUM 、/PUNCT 定语/VERB 。/PUNCT
+主动/ADJ &/NOUN 被/X 动取/NOUN 决于/VERB 被/X 修饰/VERB 的/PART 词/NOUN 。/PUNCT
+注意/VERB ：/PUNCT 不定式/NOUN 主动/ADJ 形式/NOUN 表示/VERB 被动/ADJ 意义/NOUN 的/PART 用法/NOUN 。/PUNCT
+当/ADP 不/ADV 定式/VERB 所/PART 修饰/VERB 的/PART 词/NOUN 是/VERB 动作/NOUN 的/PART 承受者/NOUN 时/PART ，/PUNCT 句/NOUN 中/PART 有/VERB 动作/NOUN 的/PART 施动者/NOUN 时/PART ，/PUNCT 不定式/NOUN 一般/ADV 用/ADP 主动/ADJ 形式/NOUN 。/PUNCT
+
+e/NOUN ./PUNCT
+g/INTJ ./PUNCT
+Therearenot/PROPN many/ADV
+
+shoesforhim/NOUN _/PUNCT ____.A.tochoosefrom/NOUN B/NOUN ./PUNCT
+tochooseC/VERB ./PUNCT
+to/ADP bechosenfrom/NOUN D/NOUN ./PUNCT
+to/ADP bechosen/NOUN
+
+答案/NOUN 是/VERB A/NOUN ./PUNCT
+动词/NOUN 不/ADV 定式/VERB 做/VERB
+
+shoes/VERB 的/PART 定语/NOUN ，/PUNCT 与/ADP shoes/NOUN 构成/VERB 动宾/NOUN 关系/NOUN ，/PUNCT him/PRON 是/VERB choose/VERB 的/PART 动作/NOUN 施动者/NOUN ，/PUNCT 所以/ADV 应该/VERB 用/ADP 主动/ADJ 形式/NOUN 。/PUNCT
+choose/PROPN 直接/ADV 跟/ADP 宾语/NOUN 是/VERB 选中/VERB 某物/NOUN ，/PUNCT 而/ADV 句/NUM 中/PART 的/PART 意思/NOUN 是/VERB 从中/ADV 选择/VERB ，/PUNCT 所以/ADV 应该/VERB 选A/VERB ./PUNCT
+4/NUM 、/PUNCT 表语/VERB 。/PUNCT
+V/INTJ -/PUNCT ing/NOUN 表示/VERB 主动/ADJ 意义/NOUN 、/PUNCT 正在/ADV 进行/VERB 和/CCONJ 主语/NOUN 的/PART 性质/NOUN ；/PUNCT 过去/NOUN 分词/VERB 表示/VERB 被动/ADJ 意义/NOUN 、/PUNCT 完成/VERB 和/CCONJ 主语/NOUN 的/PART 状态/NOUN 。/PUNCT
+
+5/NUM 、/PUNCT 补语/VERB 。/PUNCT
+如果/SCONJ 是/VERB 补充/VERB 说明/VERB 宾语/NOUN ，/PUNCT 考虑/VERB 与/ADP 宾语/NOUN 的/PART 主动/ADJ 或是/CCONJ 被动/ADJ 关系/NOUN ；/PUNCT 如果/SCONJ 是/VERB 补充/VERB 说明/VERB 主语/NOUN ，/PUNCT 考虑/VERB 与/ADP 主语/NOUN 的/PART 主动/ADJ 或是/CCONJ 被动/ADJ 关系/NOUN 。/PUNCT
+
+e.g.Heraisedhisvoice/PUNCT
+
+soastomakehimself/VERB __/PUNCT
+__/PUNCT _./PUNCT A/NOUN ./PUNCT hearB/NOUN ./PUNCT
+hearingC.beheardD/NOUN ./PUNCT
+heard/PROPN
+
+答案/NOUN 是/VERB D/NOUN ./PUNCT
+动词/VERB 在/ADP 句/NOUN 中/PART 作/VERB 补语/NOUN ，/PUNCT 与/ADP 宾语himself/PROPN 是/VERB 被动/ADV 关系/VERB ，/PUNCT 所以/ADV 选择/VERB 过去/NOUN 分词/VERB heard/VERB
+
+6/NUM 、/PUNCT 状语/NOUN 。/PUNCT
+考虑/VERB 与/ADP 句子/ADJ 主语/NOUN 的/PART 主动/ADJ 或是/CCONJ 被动/ADJ 关系/NOUN 。/PUNCT
+
+e.g._____,theold/PUNCT
+man/VERB
+
+islivingahappylife/VERB ./PUNCT
+A/NOUN ./PUNCT
+Takinggoodcare/NOUN B/NOUN ./PUNCT
+Takeng/PROPN oodcareC/NOUN ./PUNCT
+Havingtakeng/NOUN oodcare/ADJ D/NOUN ./PUNCT
+Takeng/PROPN oodcare/NOUN
+of/ADP
+
+答案/NOUN 是/VERB D/NOUN 。/PUNCT
+动词/NOUN 在/ADP 句/NOUN 中/PART 作/VERB 状语/NOUN ，/PUNCT 与/ADP 句子/ADJ 主语/NOUN 构成/VERB 被动/ADJ 关系/NOUN 。/PUNCT
+第三/NUM 步/NUM ，/PUNCT 考虑/VERB 所/PART 选/VERB 动词/NOUN 与/CCONJ 句子/ADV 谓语/VERB 动词/NOUN 所/PART 表示/VERB 的/PART 动作/NOUN 行为/NOUN 之间/PART 发生/VERB 的/PART 先后/ADJ 关系/NOUN 。/PUNCT
+同时/ADV 发生/VERB ：/PUNCT doing,be/NOUN ingdone/PROPN 或/CCONJ to/ADP bedoing/ADV 发生/VERB 在/ADP 谓语/VERB 动词/NOUN 之前/PART ：/PUNCT havingdone,done/VERB 或/CCONJ to/ADP havedone/NOUN 发生/VERB 在/ADP 谓语/VERB 动词/NOUN 之后/PART ：/PUNCT todo/VERB
+
+e/NOUN ./PUNCT
+g/INTJ ._/PUNCT __/PUNCT
+__/PUNCT where/NOUN to/ADV go/VERB ,/PUNCT heaskedapolice/PROPN mantheway/NOUN ./PUNCT
+
+A/NOUN ./PUNCT
+Havinglosthiswayandnotknowing/PROPN
+
+B/NOUN ./PUNCT
+Losinghiswayanddidn/PROPN ’/PUNCT tknow/NOUN
+
+C.Losthiswayandnotknowing/PROPN
+
+D/NOUN ./PUNCT
+Losthiswayanddidn/PROPN ’/PUNCT tknow/NOUN
+
+答案/NOUN 是/VERB A/NOUN ./PUNCT
+所选/NOUN 部分/NOUN 在/ADP 句/NOUN 中/PART 作/VERB 状语/NOUN ，/PUNCT 与/ADP 句子/ADJ 主语/NOUN 是/VERB 主动/ADV 关系/VERB ，/PUNCT 排除C/PROPN ,/PUNCT D/NOUN ,/PUNCT 迷失/VERB 道路/NOUN 发生/VERB 在/ADP 向/ADP 警察/NOUN 询问/VERB 之前/PART ，/PUNCT 所以/ADV 选A/VERB 。/PUNCT
+
+来源/NOUN :/PUNCT 城市/NOUN 快报/NOUN

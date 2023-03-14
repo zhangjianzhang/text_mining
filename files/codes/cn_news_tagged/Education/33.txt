@@ -1,0 +1,64 @@
+现如今/NOUN ，/PUNCT 大家/PRON 口袋/NOUN 里/PART 的/PART 钞票/NOUN 比/ADP 以前/NOUN 多/ADV 了/PART ，/PUNCT 随之而来/VERB 的/PART 去/VERB 银行/NOUN 的/PART 次数/NOUN 也/ADV 就/ADV 多/VERB 了/PART 。/PUNCT
+人/NOUN 一/ADV 多/ADV ，/PUNCT 就要/VERB 排队/VERB ，/PUNCT 可是/ADV 够烦/VERB 的/PART 。/PUNCT
+不过/ADV 呢/PART ，/PUNCT 如果/SCONJ 你/PRON 趁排队/NOUN 的/PART 时间/NOUN 看看/VERB 这/DET 10/NUM 句/NUM 简单/ADJ 的/PART 银行/NOUN 业务/NOUN 英语/NOUN 表达/NOUN 法/NOUN ，/PUNCT 那/ADV 排队/VERB 也/ADV 不/ADV 算/VERB 白/ADV 浪费/VERB 时间/NOUN 哦/PART ！/PUNCT
+
+1./NUM I'd/NOUN like/NOUN to/ADP open/VERB an/NUM ac/VERB count/NOUN at/VERB your/PRON bank/PROPN ./PUNCT
+Should/INTJ I/PRON take/VERB a/NOUN number/NOUN first/VERB ?/PUNCT
+
+我/PRON 想/VERB 在/ADP 你们/PRON 银行/NOUN 开/VERB 个户/NOUN 。/PUNCT
+我/PRON 要/VERB 先/ADV 取号/VERB 码牌/NOUN 吗/PART ？/PUNCT
+
+2/NUM ./PUNCT
+What/NOUN 's/VERB your/PRON interest/NOUN rate/NOUN for/ADP checking/NOUN ac/NOUN counts/NOUN ?/PUNCT
+
+你们/PRON 的/PART 活期/NOUN 存款/NOUN 利率/NOUN 是/VERB 多少/NUM ？/PUNCT
+
+3/NUM ./PUNCT I'd/VERB like/PROPN
+to/ADP transfer/VERB my/VERB ac/ADP count/NOUN ./PUNCT
+
+我/PRON 要/VERB 转帐/VERB 。/PUNCT
+
+4./NUM I'd/NOUN like/PROPN to/ADP withdraw/PROPN RMB/PROPN 10/NUM ,/PUNCT 000/NUM from/ADP my/VERB ac/ADP count/NOUN ./PUNCT
+
+我/PRON 想/VERB 提/VERB 一万/NUM 块钱/NOUN 。/PUNCT
+
+5./NUM I'd/NUM like/PROPN to/ADP report/PROPN the/DET loss/NOUN of/ADP my/VERB credit/NOUN card/PROPN and/CCONJ cancel/PROPN it/NOUN ./PUNCT
+
+我/PRON 要/VERB 办理/VERB 信用卡/NOUN 挂失/NOUN 并/CCONJ 取消/VERB 那/DET 张卡/PROPN 。/PUNCT
+
+6/NUM ./PUNCT
+I'd/VERB like/PROPN
+to/ADP exchange/VERB some/NOUN U/NOUN ./PUNCT
+S/INTJ ./PUNCT
+dollars/NOUN ./PUNCT
+What/NOUN 's/VERB today/NOUN 's/VERB exchange/VERB rate/VERB ?/PUNCT
+
+我/PRON 想/VERB 兑换/VERB 一些/NUM 美金/NOUN 。/PUNCT
+今天/NOUN 的/PART 汇率/NOUN 是/VERB 多少/NUM ？/PUNCT
+
+7./NUM Where's/NOUN the/DET ATM/NOUN ?/PUNCT
+
+自动/ADV 提款机/NOUN 在/VERB 哪里/PRON ？/PUNCT
+
+8/NUM ./PUNCT
+Do/ADV you/PRON have/ADP an/PROPN automatic/PROPN passbook/NOUN entry/VERB machine/NOUN ?/PUNCT
+
+你们/PRON 这里/PRON 有/VERB 没有/ADV 存折/VERB 自动/ADV 补/VERB 登机/NOUN ？/PUNCT
+
+9/NUM ./PUNCT
+Do/NUM you/PRON offer/VERB an/ADJ inter/NOUN -/PUNCT bank/PROPN transfer/NOUN service/NOUN ?/PUNCT
+
+你们/PRON 有/VERB 跨行/NOUN 转帐/VERB 服务/NOUN 吗/PART ？/PUNCT
+
+10/NUM ./PUNCT My/PRON credit/NOUN card/PROPN is/VERB expired/VERB ./PUNCT
+Can/ADV you/PRON renew/PROPN it/NOUN for/VERB me/PRON ?/PUNCT
+
+我/PRON 的/PART 信用卡/NOUN 过期/VERB 了/PART 。/PUNCT
+你/PRON 可以/VERB 换发/VERB 新卡/NOUN 给/VERB 我/PRON 吗/PART ？/PUNCT
+
+11/NUM ./PUNCT
+Can/NOUN my/VERB credit/NOUN limit/NOUN be/ADJ increased/PROPN ?/PUNCT
+
+我/PRON 的/PART 信用/NOUN 额度/NOUN 可以/VERB 提高/VERB 吗/PART ？/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

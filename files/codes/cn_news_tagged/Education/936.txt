@@ -1,0 +1,71 @@
+【/PUNCT 来源/NOUN ：/PUNCT 搜狐/PROPN 教育/NOUN 社区/NOUN 】/PUNCT
+
+六级/NUM 考试/NOUN 的/PART 写作/NOUN 部分/NOUN 的/PART 要求/NOUN 与/CCONJ 四级/NOUN 相比/ADV 只是/ADV 增加/VERB 了/PART 一些/NUM 字数/NOUN ，/PUNCT 但/ADV 实际上/ADV 它/PRON 对于/ADP 词汇/NOUN 的/PART 难度/NOUN ，/PUNCT 句子/VERB 的/PART 运用/NOUN 技巧/NOUN ，/PUNCT 文章/NOUN 的/PART 结构/NOUN 都/ADV 提出/VERB 了/PART 更/ADV 高/ADJ 的/PART 要求/NOUN ，/PUNCT 做/VERB 这/DET 道题/NOUN ，/PUNCT 我/PRON 认为/VERB 可以/VERB 用上/VERB 如下/ADJ 的/PART 技巧/NOUN ：/PUNCT
+
+1/NUM 、/PUNCT 多/ADV 用/VERB 长/ADJ 句/NOUN ，/PUNCT 少/ADV 用/VERB 短句/NOUN ，/PUNCT 适当/ADV 加入/VERB 几/NUM 句/NUM 结构/NOUN 较/ADV 复杂/VERB 的/PART 句子/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 写好/VERB 第一/NUM 句/NUM 话/NOUN 。/PUNCT
+这样/ADV 容易/ADV 给/ADP 阅卷者/ADV 留下/VERB 一个/NUM 好/ADJ 印象/NOUN ，/PUNCT 最好/ADV 能/VERB 用上/VERB 一个/NUM 复句/NOUN ，/PUNCT 里面/NOUN 要/VERB 用上/VERB 2-3/NUM 个/NUM 难/ADJ 的/PART 单词/NOUN 或/CCONJ 词组/NOUN 。/PUNCT
+
+3/NUM 、/PUNCT 结构/NOUN 要/VERB 清晰/VERB 。/PUNCT
+我/PRON 建议/VERB 使用/VERB 四段式/NUM ，/PUNCT 第一/NUM 段/NUM 综述/VERB ，/PUNCT 第二/NUM 、/PUNCT 三/NUM 段/NUM 分述/NOUN ，/PUNCT 第四/NUM 段/NUM 做/VERB 总结/NOUN ，/PUNCT 二/NUM 、/PUNCT 三/NUM 段/NUM 是/VERB 重点/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 多/ADV 用/ADP 连接性/NOUN 的/PART 词组/NOUN 或/CCONJ 单词/NOUN 。/PUNCT
+如/ADV first,second,moreover/PROPN ,/PUNCT for/PROPN one/NOUN thing/NOUN ../PUNCT ../NUM
+for/ADP another/NOUN ,/PUNCT on/ADP the/DET
+
+one/NOUN hand/NOUN ../PUNCT ../X on/ADP the/DET 　/SPACE o/CCONJ ther/NOUN 等等/PART 。/PUNCT
+可以/VERB 把/X 它们/PRON 置于/VERB 段首/NOUN 或/CCONJ 文中/NOUN 比较/ADV 显著/VERB 的/PART 位置/NOUN ，/PUNCT 这样/ADV 会/VERB 使/VERB 文章/NOUN 更/ADV 具条/VERB 理性/NOUN 。/PUNCT
+
+5/NUM 、/PUNCT 注意/VERB 结尾/VERB 的/PART 时候/NOUN 要/VERB 点题/VERB ，/PUNCT 把/X 自己/PRON 的/PART 观点/NOUN 明确/ADV 说/VERB 出来/VERB 。/PUNCT
+
+6/NUM 、/PUNCT 文章/NOUN 不要/ADV 写/VERB 得/PART 太/ADV 长/VERB ，/PUNCT 这样/ADV 容易/ADV 引起/VERB 阅卷者/VERB 的/PART 反感/NOUN 。/PUNCT
+
+7/NUM 、/PUNCT 词汇/NOUN 的/PART 使用/NOUN 上/PART 请/VERB 多/ADV 用/ADP 六级/NUM 词汇/NOUN ，/PUNCT 以/ADP 区别/NOUN 于/ADP 四级/NOUN 。/PUNCT
+
+8/NUM 、/PUNCT 如/ADV 有/VERB 可能/NOUN ，/PUNCT 适当/ADV 加上/VERB 一两/NUM 句/NUM 名言/NOUN 或是/CCONJ 谚语/NOUN ，/PUNCT 以/PART 显示/VERB 你/PRON 见识/VERB 的/PART 广博/NOUN 。/PUNCT
+为了/ADP 使/VERB 大家/PRON 有/VERB 个/NUM 更/ADV 直观/VERB 的/PART 感觉/NOUN ，/PUNCT 我/PRON 把/X 自己/PRON 的/PART 一/NUM 篇/NUM 小习/NOUN 作/VERB 登出/PROPN 以/PART 供/VERB 参考/NOUN ，/PUNCT 主要/ADV 是/VERB 在/ADP 行文/VERB 结构/NOUN 方面/NOUN 。/PUNCT
+
+How/NOUN to/ADP Keep/VERB Calm/NOUN In/NOUN an/DET
+
+Exam/NOUN ?/PUNCT
+
+Anxiety/PROPN is/VERB perhaps/ADV the/DET worst/NOUN problem/NOUN many/NOUN college/NOUN students/NOUN are/VERB faced/VERB
+with/ADV
+
+in/ADP the/DET ir/NOUN examinations/VERB ./PUNCT
+They/PROPN just/PROPN feel/PROPN unable/VERB to/ADP keep/VERB the/DET ir/NOUN wits/NOUN about/PROPN the/DET m/NOUN in/NOUN
+
+those/NOUN oc/ADP casions,as/PROPN a/NUM result/NOUN of/ADP which/PROPN they/PROPN don't/PUNCT give/PROPN full/PROPN play/PROPN to/ADP the/DET ir/NOUN
+
+abilities/VERB ./PUNCT
+How/NOUN to/ADP solve/NOUN this/PRON problem/VERB ?/PUNCT
+
+First/PROPN of/ADP all,we/PROPN should/VERB dispel/VERB the/DET misgivings/VERB about/VERB the/DET results/NOUN of/ADP the/DET
+
+exams/NOUN ./PUNCT
+All/ADV of/ADP us/NOUN are/VERB eager/VERB to/ADP chalk/VERB up/NOUN good/PROPN results/NOUN in/ADP the/DET evaluation/VERB
+
+tests.However/ADV ,/PUNCT just/PROPN remember/NOUN :/PUNCT More/PROPN haste,less/VERB speed/NOUN ./PUNCT
+We/NOUN should/VERB not/PROPN be/ADV too/ADV mindful/NOUN
+
+about/PROPN the/DET results/NOUN ./PUNCT
+Take/DET things/NOUN calmly/VERB ./PUNCT
+
+Furthermore,we/NOUN can/VERB also/PROPN adopt/PROPN some/NOUN concrete/VERB steps/NOUN to/ADP calm/PROPN ourselves/VERB ./PUNCT
+For/NOUN
+
+example/VERB ,/PUNCT we/NOUN may/PROPN keep/NOUN our/NOUN eyes/ADV closed/NOUN and/CCONJ think/NOUN of/ADP nothing/VERB for/ADP a/DET minute/NOUN or/CCONJ two/NOUN
+
+just/PROPN before/ADJ starting/NOUN an/ADV exam/NOUN ./PUNCT
+It/NOUN helps/VERB to/ADP keep/VERB a/NUM cool/ADJ head/NOUN and/CCONJ minimize/NOUN
+
+nervousness/NOUN ./PUNCT
+As/NOUN for/NOUN me,this/PROPN method/NOUN always/ADJ works/NOUN ./PUNCT
+
+In/NOUN the/DET final/VERB analysis/VERB ,/PUNCT we/NOUN ought/VERB to/ADP bear/PROPN in/ADJ mind/NOUN that/NOUN calmness/VERB is/VERB essential/VERB
+
+for/NOUN good/NUM perfor/NOUN mance/NOUN in/ADP a/NUM test/NOUN ./PUNCT
+Overcoming/NOUN anxiety/PROPN is/VERB not/PROPN so/ADV thorny/NOUN a/NUM problem/NOUN if/NOUN
+
+we/NOUN are/VERB mentally/NOUN and/CCONJ physically/NOUN prepared/NOUN ./PUNCT

@@ -1,0 +1,35 @@
+外汇/NOUN 储备/NOUN 作为/VERB 一个/NUM 国家/NOUN 金融/NOUN 实力/NOUN 的/PART 标志/NOUN ，/PUNCT 是/VERB 充实/VERB 国库/NOUN 、/PUNCT 稳定/VERB 本国/NOUN 汇率/NOUN 的/PART 物质/NOUN 基础/NOUN 。/PUNCT
+但是/ADV ，/PUNCT 外汇/NOUN 储备/NOUN 增长/VERB 过/PART 快/VERB 、/PUNCT 规模/NOUN 过/ADV 高/VERB 也/ADV 会/VERB 给/ADP 经济/NOUN 带来/VERB 很多/NUM 不利/ADJ 影响/NOUN 。/PUNCT
+针对/ADP 目前/NOUN 外汇/NOUN 储备/NOUN 充实/VERB 国库/NOUN 的/PART 现状/NOUN ，/PUNCT 央行/NOUN 提出/VERB 了/PART 三/NUM 项/NUM 解决/NOUN 措施/NOUN ：/PUNCT 不/ADV 再/ADV “/PUNCT 宽进/VERB 严出/VERB ”/PUNCT 、/PUNCT 变/VERB “/PUNCT 藏汇/VERB 于国/VERB ”/PUNCT 为/ADP “/PUNCT 藏汇/VERB 于民/NOUN ”/PUNCT 、/PUNCT 鼓励/VERB 企业/NOUN “/PUNCT 走/VERB 出去/VERB ”/PUNCT 。/PUNCT
+
+请/VERB 看/VERB 《/PUNCT 中国/PROPN 日报/NOUN 》/PUNCT 的/PART 相关/ADJ 报道/NOUN ：/PUNCT China/PROPN has/PROPN noticed/PROPN the/DET negative/NOUN impacts/NOUN brought/PROPN by/ADP its/PROPN huge/PROPN
+
+foreign/NOUN exchange/NOUN reserves/NOUN ,/PUNCT at/ADP more/NOUN than/VERB US$/NOUN 870/NUM billion/NOUN ,/PUNCT and/ADV is/VERB taking/PROPN steps/NOUN to/ADP
+
+relieve/PROPN the/DET pressure/NOUN ./PUNCT
+
+The/DET State/NOUN Administration/NOUN of/ADP Foreign/PROPN Exchange/NOUN has/PROPN started/VERB to/ADP free/VERB up/NUM the/DET
+
+country's/NOUN foreign/NOUN exchange/VERB regime/NOUN with/ADP a/NUM shift/NOUN from/ADP stockpiling/NOUN foreign/NOUN exchange/VERB
+
+reserves/PROPN in/ADP State/PROPN coffers/VERB to/ADP letting/NOUN businesses/PROPN and/CCONJ individuals/PROPN hold/NOUN more/VERB
+
+foreign/NOUN currency/VERB ./PUNCT
+
+报道/NOUN 中/PART 的/PART to/ADP stockpile/NOUN foreign/NOUN exchange/VERB reserve/PROPN in/ADP State/PROPN
+
+coffers/PROPN 实质上/ADV 是/VERB “/PUNCT 藏汇/VERB 于国/VERB ”/PUNCT 的/PART 相应/ADJ 英文/NOUN 表达/NOUN ，/PUNCT “/PUNCT 国/NOUN ”/PUNCT 在/ADP 这里/PRON 指/VERB state/NOUN
+
+coffers/PROPN （/PUNCT 国库/NOUN ）/PUNCT 。/PUNCT
+Coffer/NOUN 原意/NOUN 指safe/NOUN （/PUNCT 保险箱/PROPN ）/PUNCT ，/PUNCT 我们/PRON 日常/ADJ 生活/NOUN 中/PART 所/PART 言/VERB 的/PART “/PUNCT 私房钱/PROPN ”/PUNCT 或/CCONJ “/PUNCT 小金库/NOUN ”/PUNCT 就/ADV 可以/VERB 说/VERB 成a/VERB private/VERB coffer/NOUN 。/PUNCT
+
+当/ADP coffer/NOUN 涉及/VERB 到/VERB 巨大/ADJ 的/PART 财源/NOUN ，/PUNCT 表示/VERB 金库/NOUN 或/CCONJ 国库/NOUN 时/PART ，/PUNCT 人们/NOUN 常用/VERB 它/PRON 的/PART 复数/ADJ 形式/NOUN ，/PUNCT 如/ADV The/DET government/NOUN 's/VERB coffers/PROPN are/VERB almost/VERB
+
+empty/VERB ./PUNCT
+（/PUNCT 政府/NOUN 的/PART 金库/NOUN 几乎/ADV 空/VERB 了/PART 。/PUNCT ）/PUNCT
+
+顺便/ADV 提/VERB 一下/ADV ，/PUNCT “/PUNCT 藏汇/VERB 于国/VERB ”/PUNCT 的/PART “/PUNCT 藏/NOUN ”/PUNCT 实质上/ADV 是/VERB “/PUNCT 储藏/NOUN ”/PUNCT ，/PUNCT 可用/VERB stockpile/NOUN 来/PART 表示/VERB ；/PUNCT “/PUNCT 汇/NOUN ”/PUNCT 不言而喻/VERB 就是/ADV “/PUNCT 外汇/NOUN ”/PUNCT 了/PART ，/PUNCT 而/ADV “/PUNCT 外汇/NOUN 储备/NOUN ”/PUNCT 则/ADV 可用/VERB foreign/ADV
+
+exchange/VERB reserve来/NOUN 表达/VERB 。/PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

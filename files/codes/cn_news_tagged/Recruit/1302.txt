@@ -1,0 +1,28 @@
+Sandy/NOUN Bin/ADV 15/NUM //PUNCT F,TOWA/NOUN RD/NOUN ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE WOR/NOUN K/NOUN EX/NOUN PER/NOUN I/PRON ENCE/NOUN 　　/SPACE 9/NUM //PUNCT 88/NUM -/PUNCT Present/PROPN THE/PROPN L/NOUN APIS/NOUN CORPO/PROPN RATION/NOUN ,/PUNCT Pinesville/PROPN ,/PUNCT LA/PROPN 　　/SPACE Personnel/NOUN Administrative/PROPN Assistant/NOUN 　　/SPACE Maintained/PROPN filles/VERB ./PUNCT
+　　/SPACE Prepared/PROPN records/NOUN for/PROPN off-site/PUNCT storage/VERB ./PUNCT
+　　/SPACE Designed/NOUN forms/PROPN for/ADP archives/NOUN ./PUNCT
+　　/SPACE Developed/PROPN effective/ADP space/NOUN management/NOUN plan/NOUN for/NOUN on/NOUN -/PUNCT site/NOUN records/VERB ./PUNCT
+　　/SPACE Improved/NOUN tracking/NOUN system/NOUN resulting/NOUN in/ADP few/NOUN lost/NOUN files/VERB ./PUNCT
+　　/SPACE Handled/PROPN employment/VERB verifications/VERB and/CCONJ designed/NOUN forms/VERB to/ADP expedite/PROPN process/VERB ./PUNCT
+　　/SPACE 12/NUM //PUNCT 84/NUM -/PUNCT 8/NUM //PUNCT 88/NUM GLADE/PROPN GROV/NOUN E/NOUN COLLEGE,Baton/PUNCT Rouge/NOUN ,/PUNCT LA/PROPN 　　/SPACE Records/NOUN Coordinator/NOUN for/ADP Development/PROPN 　　/SPACE Recorded/PROPN
+gifts/PROPN made/NOUN to/ADP the/DET college/NOUN ./PUNCT
+　　/SPACE Maintained/PROPN filles/VERB ./PUNCT
+　　/SPACE Coder/NOUN 　　/SPACE Translated/PROPN data/NOUN form/VERB surveys/NOUN in/VERB to/ADP numerical/NOUN code/NOUN for/ADP data/NOUN entry/VERB ./PUNCT
+　　/SPACE Edited/PROPN computer/NOUN printouts/VERB ./PUNCT
+　　/SPACE Performed/NOUN quality/VERB control/PROPN ./PUNCT
+　　/SPACE 6/NUM //PUNCT 72/NUM -/PUNCT 12/NUM //PUNCT 81/NUM PAISLEY/NOUN TELECOM/PROPN MUN/PROPN I/NOUN CATION/PROPN S/NOUN ,/PUNCT New/NOUN Orleans/NOUN ,/PUNCT LA/PROPN 　　/SPACE "/PUNCT Advantage"/VERB Coordinator/NOUN (/PUNCT The/DET "/PUNCT Advantage"/VERB is/VERB an/NUM auto/VERB dialer/NOUN ./PUNCT
+)/PROPN 　　/SPACE Tested/PROPN and/CCONJ programmed/NOUN each/ADV unit/VERB ./PUNCT
+　　/SPACE Schedule/PROPN site/PROPN visits/NOUN and/CCONJ installations/NOUN ./PUNCT
+　　/SPACE Kept/NOUN inventory/VERB ./PUNCT
+　　/SPACE Assisted/NOUN customers/NOUN with/PROPN questions/NOUN and/CCONJ problems/NOUN ./PUNCT
+　　/SPACE 4/NUM //PUNCT 71/NUM -/PUNCT 5/NUM //PUNCT 72/NUM Interviewer/PROPN 　　/SPACE Conducted/NOUN public/NOUN opinion/NOUN surveys/NOUN ./PUNCT
+　　/SPACE EDUC/PROPN TION/PROPN 　　/SPACE Biltmore/PROPN College/NOUN ,/PUNCT Dallas/PROPN ,/PUNCT Texas/PROPN 1972/NOUN 　　/SPACE Associates/PROPN degree/NOUN in/NOUN Marketing/NOUN ./PUNCT
+　　/SPACE References/NOUN are/VERB available/NUM upon/NOUN request/NOUN ./PUNCT
+　　/SPACE Work/NOUN experience/VERB is/VERB emphasized/VERB while/PROPN limited/NOUN education/VERB is/VERB de-em/NOUN -/PUNCT phasized/NOUN ./PUNCT
+　　/SPACE Clean/NOUN la/NOUN yout/VERB makes/NOUN resume/NOUN easy/NOUN to/NOUN read/PROPN ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT site/PROPN +/PUNCT Maintained/PROPN +/PUNCT records/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+6/NUM ,/PUNCT 879/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

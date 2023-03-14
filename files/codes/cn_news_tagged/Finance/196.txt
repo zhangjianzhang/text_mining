@@ -1,0 +1,236 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/ADJ 和/CCONJ 完整/VERB ,/PUNCT 对/ADP 公告/NOUN 的/PART 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或者/CCONJ 重大/ADJ 遗漏/NOUN 负连带/NOUN 责任/NOUN 。/PUNCT
+
+重要/ADJ 提示/NOUN ：/PUNCT
+
+●/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 分公/NOUN 积金/NOUN 转增/VERB 股本/VERB 和/CCONJ 支付/VERB 对价/NOUN 两/NUM 部分/NUM 实施/NOUN ,/PUNCT 其中/NOUN 公积金/NOUN 转增/VERB 股本/NOUN 已/ADV 实施/VERB 完毕/VERB
+
+●/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 支付/VERB 对价/NOUN ,/PUNCT 流通/NOUN 股/NUM 股东/NOUN 共计/ADV 获得/VERB 14/NUM ,/PUNCT 407/NUM ,/PUNCT 114/NUM 股/NUM 对价/ADJ 股份/NOUN (/PUNCT 实际/ADV 按照/ADP 流通/NOUN 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 获得/VERB 股票/NOUN 2/NUM ./PUNCT 50589/NUM 股/NUM 进行/VERB )/NOUN
+
+●/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 全部/ADV 实施/VERB 完毕/VERB 后/PART ,/PUNCT 以/ADP 股改/NOUN 前/PART 流通/VERB 股/NUM 股数/NOUN 5400万/NOUN 股为/NOUN 基数/NOUN ,/PUNCT 流通/VERB 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 实际/ADV 获得/VERB
+3/NUM ./PUNCT 31481/NUM 股/NUM
+
+●/PUNCT 支付/VERB 对价/ADJ 股权/NOUN 登记/VERB 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 11日/NOUN
+
+●/PUNCT 复牌/NOUN 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 15日/NOUN ,/PUNCT 本日/ADJ 股价/NOUN 不/ADV 计算/VERB 除权/NOUN 参考价/NOUN 、/PUNCT 不/ADV 设/VERB 涨跌/NOUN 幅度/NOUN 限制/VERB
+
+●/PUNCT 自/ADP 2006年/NOUN 5月/NOUN 15日/NOUN 起/PART ,/PUNCT 公司/NOUN 股票/NOUN 简称/NOUN 改为/VERB "G/NOUN 中/PART 软"/NOUN ,/PUNCT 股票/NOUN 代码/NOUN "/PUNCT 600536/NUM "/PUNCT 保持/VERB 不/ADV 变/VERB
+
+一/NUM 、/PUNCT 通过/ADP 股权/NOUN 分置/NOUN 改革/NOUN 方案/NOUN 的/PART 相关/ADJ 股东/NOUN 会议/NOUN 情况/NOUN
+
+公司/NOUN 《/PUNCT 关于/ADP 公积金/NOUN 转增/VERB 股本/NOUN 及/CCONJ 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 的/PART 议案/NOUN 》/PUNCT 已经/ADV 2006/NUM 年/NUM 4月/NOUN 24日/NOUN 召开/VERB 的/PART 公司/NOUN 2006/NUM 年/NUM 第一/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 暨/CCONJ 相关/ADJ 股东/NOUN 会议/NOUN 审议/VERB 通过/VERB 。/PUNCT
+表决/NOUN 结果/NOUN 公告/VERB 2006/NUM 年/NOUN 4月/NOUN 25日/NOUN 刊登于/NOUN 《/PUNCT 中国/PROPN 证券报/NOUN 》/PUNCT 、/PUNCT 《/PUNCT 上海/PROPN 证券报/NOUN 》/PUNCT 、/PUNCT 《/PUNCT 证券/NOUN 时报/NOUN 》/PUNCT 以及/CCONJ 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN www.sse.com/NOUN ./PUNCT
+cn/VERB 。/PUNCT
+
+二/NUM 、/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/NOUN 内容/NOUN
+
+1/NUM 、/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 简介/NOUN
+
+中国/PROPN 软件/NOUN 全体/ADV 非流/ADV 通股/VERB 股东/NOUN 一致/ADV 同意/VERB 为/ADP 其/PRON 持有/VERB 的/PART 非流/ADJ 通股/NOUN 获得/VERB 流通权/NOUN 向/ADP 流通/NOUN 股/NUM 股东/NOUN 送股/VERB 作为/VERB 对价/ADJ 的/PART 一部分/NOUN ,/PUNCT 以/ADP 方案/NOUN 实施/VERB 股权/NOUN 登记日/NOUN 的/PART 流通/NOUN 股/NOUN 股数/NOUN 为/VERB 基数/NOUN ,/PUNCT 流通/VERB 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 获送/VERB 1.5/NUM 股/NUM ；/PUNCT
+
+公司/NOUN 以/ADP 方案/NOUN 实施/VERB 股权/NOUN 登记/VERB 日/NOUN 的/PART 总/ADJ 股本/NOUN 为/ADP 基数/NOUN ,/PUNCT 用/ADP 资本/NOUN 公积金/NOUN 980万/NUM 元/NUM 向/ADP 全体股/NOUN 东转/VERB 增股/VERB 本(/ADV 相当于/VERB 向/ADP 全体/DET 股东/NOUN 按/ADP 每/DET 10/NUM 股/NUM 转增/VERB 0/NUM ./PUNCT
+65/NUM 股)/NOUN ；/PUNCT 非流/ADV 通股/VERB 股东/NOUN 以/ADP 可/VERB 获得/VERB 的/PART 全部/ADV 转增/NOUN 股份/NOUN 作为/VERB 对价/NOUN 的/PART 另/DET 一部分/NUM 支付/VERB 给/VERB 流通/NOUN 股/NUM 股东/NOUN 。/PUNCT
+
+上述/ADJ 两/NUM 部分/NOUN 的/PART 总体/NOUN 对价/NOUN 水平/NOUN 折合/NOUN 为/VERB 单纯/ADJ 送股/NOUN 方式/NOUN ,/PUNCT 相当于/VERB 流通/NOUN 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 获送/VERB 2/NUM ./PUNCT 51/NUM 股/NUM 。/PUNCT
+本次/ADV 股权/NOUN 分置/ADJ 改革/NOUN 完成/VERB 后/PART ,/PUNCT 流通/NOUN 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 实际/ADV 可/VERB 获得/VERB 3/NUM ./PUNCT
+31/NUM 股/NUM 。/PUNCT
+对价/NOUN 执行/VERB 完成/VERB 后/PART ,/PUNCT 非流/ADV 通股/VERB 股东/NOUN 所/PART 持有/VERB 的/PART 股份/NOUN 即/ADV 获得/VERB 上市/NOUN 流通权/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 方案/NOUN 实施/VERB 的/PART 内容/NOUN ：/PUNCT
+
+上述/ADJ 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 分/VERB 两/NUM 部分/NUM 实施/NOUN ：/PUNCT
+
+第一/NUM 部分/NUM ,/PUNCT 以/ADP 方案/NOUN 实施/VERB 公积金/NOUN 转增/NOUN 股本/NOUN 股权/NOUN 登记/VERB 日/PROPN 的/PART 总/ADJ 股本/NOUN 为/ADP 基数/NOUN ,/PUNCT 用/ADP 资本/NOUN 公积金/NOUN 980万/NUM 元/NUM 向/ADP 全体股/NOUN 东转/VERB 增股/VERB 本(/NOUN 实际/ADJ 转增/NOUN 比例/NOUN 按照/ADP 1:0/NUM ./PUNCT
+064681/NOUN 进行/VERB )/NOUN ,/PUNCT 其中/NOUN 流通/NOUN 股/NUM 股东/NOUN 共计/VERB 获得/VERB 转增/PROPN 股份/NOUN 3/NUM ,/PUNCT 492/NUM ,/PUNCT 886/NUM 股/NUM ,/PUNCT 非流/ADV 通股/VERB 股东/NOUN 共计/ADV 获得/VERB 转增/PROPN 股份/NOUN 6/NUM ,/PUNCT 307/NUM ,/PUNCT 114/NUM 股/NUM ,/PUNCT 公司/NOUN 总/ADJ 股本/NOUN 增至/VERB 161/NUM ,/PUNCT 311/NUM ,/PUNCT 084/NUM 股/NUM 。/PUNCT
+该/DET 部分/NOUN 已/ADV 实施/VERB 完毕/VERB 。/PUNCT
+
+第二/NUM 部分/NOUN ,/PUNCT 以/ADP 方案/NOUN 实施/VERB 公积金/NOUN 转增/VERB 股本/NOUN 股权/NOUN 登记日/NOUN 的/PART 流通/NOUN 股/NUM 股数/NOUN 5400万/NOUN 股为/NOUN 基数/NOUN ,/PUNCT 流通/VERB 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 获送/VERB 1.5/NUM 股/NUM ,/PUNCT 非流/ADV 通股/VERB 股东/NOUN 共计/ADV 向/ADP 流通/NOUN 股/NUM 股东/NOUN 送股/VERB 810万/NUM 股/NUM ,/PUNCT 作为/VERB 对价/ADJ 的/PART 一部分/NUM ；/PUNCT 非流/ADV 通股/VERB 股东/NOUN 以/ADP 因/ADP 公积金/NOUN 转增/VERB 股本/NOUN 获得/VERB 的/PART 全部/ADV 转增/NOUN 股份/NOUN 6/NUM ,/PUNCT 307/NUM ,/PUNCT 114/NUM 股/NUM 支付/VERB 给/ADP 流通/NOUN 股/NUM 股东/NOUN ,/PUNCT 作为/VERB 对价/NOUN 的/PART 另/DET 一部分/NUM ,/PUNCT 两/NUM 项/NUM 合计/VERB 14/NUM ,/PUNCT 407/NUM ,/PUNCT 114/NUM 股/NUM ,/PUNCT 以/ADP 对价/NOUN 方式/NOUN 支付/VERB 给/ADP 流通/NOUN 股股/NOUN 东(/NOUN 实际/ADV 按照/ADP 流通/NOUN 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 获得/VERB 股票/NOUN
+2/NUM ./PUNCT 50589/NUM 股/NUM 进行/VERB )/NOUN 。/PUNCT
+
+上述/ADJ 方案/NOUN 实施/VERB 完毕/VERB 后/PART ,/PUNCT 以/ADP 本次/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 前流/NOUN 通股/NOUN 股数/NOUN 5400万/NOUN 股为/NOUN 基数/NOUN ,/PUNCT 流通/VERB 股/NUM 股东/NOUN 每/DET 10/NUM 股/NUM 实际/ADV 获得/VERB 3/NUM ./PUNCT 31481/NUM 股/NUM 。/PUNCT
+
+3/NUM 、/PUNCT 对价/ADV 安排/VERB 执行/VERB 情况/NOUN 表/VERB
+
+转增/NOUN 前/ADJ                     /SPACE 转增/VERB 后/PART 执行/VERB 对价/NOUN 前/ADJ                                                   /SPACE 执行/VERB 对价/ADJ 安排/NOUN 后/PART
+
+执行/VERB 对价/ADJ 安排/NOUN 的/PART 股东/NOUN 名称/NOUN   /SPACE 持/VERB 股数/NOUN (/PUNCT 股)/PUNCT   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (%/PUNCT )/PROPN    /SPACE 持/VERB 股数/NOUN (/PUNCT 股)/PUNCT   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (%/PUNCT )/PROPN   /SPACE 本次/NOUN 执行/VERB 对价/ADJ 安排/VERB 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 持/VERB 股数/NOUN (/PUNCT 股)/PUNCT   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (%/PUNCT )/PROPN
+
+中国/PROPN 电子/NOUN 产业/NOUN 工程/NOUN 公司/NOUN     /SPACE 63/NUM ,/PUNCT 382/NUM ,/PUNCT 205/NUM             /SPACE
+41/NUM ./PUNCT 83/NUM    /SPACE 67/NUM ,/PUNCT 481/NUM ,/PUNCT 829/NUM             /SPACE 41/NUM ./PUNCT
+83/NUM                      /SPACE 9/NUM ,/PUNCT 364/NUM ,/PUNCT 624/NUM   /SPACE 58/NUM ,/PUNCT 117/NUM ,/PUNCT 205/NUM             /SPACE 36/NUM ./PUNCT
+03/NUM
+
+郭先臣/PROPN                    /SPACE 9/NUM ,/PUNCT 058/NUM ,/PUNCT 779/NUM              /SPACE 5./NUM 98/NUM     /SPACE 9/NUM ,/PUNCT 644/NUM ,/PUNCT 710/NUM              /SPACE 5./NUM 98/NUM                      /SPACE 1/NUM ,/PUNCT 338/NUM ,/PUNCT 421/NUM    /SPACE 8/NUM ,/PUNCT 306/NUM ,/PUNCT 289/NUM              /SPACE 5./NUM 15/NUM
+
+程春平/NOUN                    /SPACE 7/NUM ,/PUNCT 635/NUM ,/PUNCT 117/NUM              /SPACE 5./NUM 04/NUM     /SPACE 8/NUM ,/PUNCT 128/NUM ,/PUNCT 964/NUM              /SPACE 5./NUM 04/NUM                      /SPACE 1/NUM ,/PUNCT 128/NUM ,/PUNCT 077/NUM    /SPACE 7/NUM ,/PUNCT 000/NUM ,/PUNCT 887/NUM              /SPACE 4./NUM 34/NUM
+
+尚/ADV 铭/VERB                      /SPACE 2/NUM ,/PUNCT 515/NUM ,/PUNCT 786/NUM              /SPACE 1.66/NUM     /SPACE 2/NUM ,/PUNCT 678/NUM ,/PUNCT 510/NUM              /SPACE 1.66/NUM                        /SPACE 371/NUM ,/PUNCT 704/NUM    /SPACE 2/NUM ,/PUNCT 306/NUM ,/PUNCT 806/NUM              /SPACE 1./NUM 43/NUM
+
+陈世林/PROPN                    /SPACE 2/NUM ,/PUNCT 184/NUM ,/PUNCT 248/NUM              /SPACE 1./NUM 44/NUM     /SPACE 2/NUM ,/PUNCT 325/NUM ,/PUNCT 527/NUM              /SPACE 1./NUM 44/NUM                        /SPACE 322/NUM ,/PUNCT 719/NUM    /SPACE
+2/NUM ,/PUNCT 002/NUM ,/PUNCT 808/NUM              /SPACE 1./NOUN 24/NOUN
+
+史殿林/PROPN                    /SPACE 2/NUM ,/PUNCT 184/NUM ,/PUNCT 248/NUM              /SPACE 1./NUM 44/NUM     /SPACE 2/NUM ,/PUNCT 325/NUM ,/PUNCT 527/NUM              /SPACE 1./NUM 44/NUM                        /SPACE 322/NUM ,/PUNCT 719/NUM    /SPACE 2/NUM ,/PUNCT 002/NUM ,/PUNCT 808/NUM              /SPACE 1./NOUN 24/NOUN
+
+周进军/PROPN                    /SPACE 2/NUM ,/PUNCT 184/NUM ,/PUNCT 247/NUM              /SPACE 1./NUM 44/NUM     /SPACE 2/NUM ,/PUNCT 325/NUM ,/PUNCT 526/NUM              /SPACE 1./NUM 44/NUM                        /SPACE 322/NUM ,/PUNCT 719/NUM    /SPACE
+2/NUM ,/PUNCT 002/NUM ,/PUNCT 807/NUM              /SPACE 1./NOUN 24/NOUN
+
+崔辉/PROPN                      /SPACE 2/NUM ,/PUNCT 028/NUM ,/PUNCT 231/NUM              /SPACE 1./NUM 34/NUM     /SPACE 2/NUM ,/PUNCT 159/NUM ,/PUNCT 419/NUM              /SPACE 1./NUM 34/NUM                        /SPACE 299/NUM ,/PUNCT 668/NUM    /SPACE 1/NUM ,/PUNCT 859/NUM ,/PUNCT 751/NUM              /SPACE 1./NUM 15/NUM
+
+徐洁/PROPN                      /SPACE 1/NUM ,/PUNCT 482/NUM ,/PUNCT 170/NUM              /SPACE 0/NUM ./PUNCT
+98/NUM     /SPACE
+1/NUM ,/PUNCT 578/NUM ,/PUNCT 038/NUM              /SPACE 0/NUM ./PUNCT
+98/NOUN
+                       /SPACE 218/NUM ,/PUNCT 988/NUM    /SPACE 1/NUM ,/PUNCT 359/NUM ,/PUNCT 050/NUM              /SPACE 0/NUM ./PUNCT
+84/NUM
+
+解华/NOUN                      /SPACE 1/NUM ,/PUNCT 482/NUM ,/PUNCT 168/NUM              /SPACE 0/NUM ./PUNCT
+98/NUM     /SPACE
+1/NUM ,/PUNCT 578/NUM ,/PUNCT 036/NUM              /SPACE 0/NUM ./PUNCT
+98/NOUN                        /SPACE 218/NUM ,/PUNCT 988/NUM    /SPACE 1/NUM ,/PUNCT 359/NUM ,/PUNCT 048/NUM              /SPACE 0/NUM ./PUNCT
+84/NUM
+
+李素元/PROPN                    /SPACE 1/NUM ,/PUNCT 267/NUM ,/PUNCT 645/NUM              /SPACE 0/NUM ./PUNCT
+84/NUM     /SPACE 1/NUM ,/PUNCT 349/NUM ,/PUNCT 638/NUM              /SPACE 0/NUM ./PUNCT
+84/NUM                        /SPACE 187/NUM ,/PUNCT 293/NUM    /SPACE 1/NUM ,/PUNCT 162/NUM ,/PUNCT 345/NUM              /SPACE 0/NUM ./PUNCT
+72/NUM
+
+元/NUM 新华/PROPN                    /SPACE 1/NUM ,/PUNCT 082/NUM ,/PUNCT 373/NUM              /SPACE 0.71/PROPN     /SPACE 1/NUM ,/PUNCT 152/NUM ,/PUNCT 382/NUM              /SPACE 0.71/PUNCT                        /SPACE 159/NUM ,/PUNCT 919/NUM      /SPACE 992/NUM ,/PUNCT 463/NUM              /SPACE 0/NUM ./PUNCT
+62/NUM
+
+谢建/PROPN                        /SPACE 565/NUM ,/PUNCT 566/NUM              /SPACE 0/NUM ./PUNCT
+37/NUM       /SPACE 602/NUM ,/PUNCT 148/NUM              /SPACE
+0/NUM ./PUNCT
+37/NUM                         /SPACE 83/NUM ,/PUNCT 562/NUM      /SPACE 518/NUM ,/PUNCT 586/NUM              /SPACE 0/NUM ./PUNCT
+32/NUM
+
+冯蔚/VERB                        /SPACE 458/NUM ,/PUNCT 301/NUM               /SPACE 0/NUM ./PUNCT
+3/NUM       /SPACE 487/NUM ,/PUNCT 944/NUM               /SPACE 0/NUM ./PUNCT
+3/NUM                         /SPACE 67/NUM ,/PUNCT 713/NUM      /SPACE 420/NUM ,/PUNCT 231/NUM              /SPACE 0/NUM ./PUNCT
+26/NUM
+
+合计/ADJ                     /SPACE 97/NUM ,/PUNCT 511/NUM ,/PUNCT 084/NUM             /SPACE 64/NUM ./PUNCT
+36/NUM   /SPACE 103/NUM ,/PUNCT 818/NUM ,/PUNCT 198/NUM             /SPACE 64/NUM ./PUNCT
+36/NUM                     /SPACE 14/NUM ,/PUNCT 407/NUM ,/PUNCT 114/NUM   /SPACE 89/NUM ,/PUNCT 411/NUM ,/PUNCT 084/NUM             /SPACE 55/NUM ./PUNCT
+43/NUM
+
+三/NUM 、/PUNCT 支付/VERB 对价/ADJ 股权/NOUN 登记日/NOUN 、/PUNCT 上市/VERB 日/PROPN
+
+1/NUM 、/PUNCT 支付/VERB 对价/ADJ 股权/NOUN 登记/VERB 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 11日/NOUN
+
+2/NUM 、/PUNCT 对价/NOUN 股份/NOUN 上市/VERB 日/NOUN ：/PUNCT 2006年/NOUN 5月/NOUN 15日/NOUN ,/PUNCT 本日/ADJ 股价/NOUN 不/ADV 计算/VERB 除权/NOUN 参考价/NOUN 、/PUNCT 不/ADV 设/VERB 涨跌/NOUN 幅度/NOUN 限制/VERB
+
+四/NUM 、/PUNCT 证券/NOUN 简称/VERB 变更/NOUN 情况/NOUN
+
+自/ADP 2006年/NOUN 5月/NOUN 15日/NOUN 起/PART ,/PUNCT 公司/NOUN 股票/NOUN 简称/NOUN 改为/VERB "G/NOUN 中/PART 软"/NOUN ,/PUNCT 股票/NOUN 代码/NOUN "/PUNCT 600536/NUM "/PUNCT 保持/VERB 不/ADV 变/VERB 。/PUNCT
+
+五/NUM 、/PUNCT 股权/NOUN 分置/ADV 改革/VERB 支付/VERB 对价/ADJ 实施/NOUN 办法/NOUN
+
+1/NUM 、/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 支付/VERB 对价/NOUN 的/PART 实施/NOUN 对象/NOUN 为/ADP 支付/VERB 对价/ADJ 股权/NOUN 登记日/NOUN 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 分公司/NOUN 登记/VERB 在册/VERB 的/PART 全体/DET 股东/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 股权/NOUN 分置/NOUN 改革/NOUN 实施/NOUN 方案/NOUN 的/PART 股票/NOUN 对/ADP 价由/VERB 上海/PROPN 证券/NOUN 交易所/NOUN 通过/ADP 计算机/NOUN 网络/NOUN ,/PUNCT 根据/ADP 股权/NOUN 登记日/NOUN 登记/VERB 在册/VERB 的/PART 持/VERB 股数/NOUN ,/PUNCT 按/ADP 比例/NOUN 自动/ADV 计入/VERB 帐户/NOUN 。/PUNCT
+每/DET 位/NUM 股东/NOUN 按送/VERB 、/PUNCT 转股/NOUN 比例/NOUN 计算/VERB 后/PART 不足/VERB 一/NUM 股/NUM 的/PART 部分/NOUN ,/PUNCT 按/ADP 小数点/NOUN 后/PART 尾数/NOUN 大小/NOUN 排序/VERB 向/ADP 股东/NOUN 依次/ADV 送/VERB 一/NUM 股/NUM ,/PUNCT 直至/VERB 实际/ADJ 送股/NOUN 总数/NOUN 与/ADP 本次/NOUN 送股/VERB 总数/NOUN 一致/VERB ,/PUNCT 如果/SCONJ 尾数/NOUN 相同者/ADV 多于/VERB 余股数/PROPN ,/PUNCT 则/ADV 由/ADP 电脑/NOUN 抽签派/NOUN 送/VERB 。/PUNCT
+
+六/NUM 、/PUNCT 股权/NOUN 结构/NOUN 变动/VERB 表/NOUN
+
+股份/NOUN 类别/NOUN                               /SPACE 股份/NOUN 情况/NOUN   /SPACE 转增/VERB 后/PART 对/ADP 价/NOUN 支付/VERB 前/ADJ         /SPACE 变动/VERB 数/NUM        /SPACE 变动/VERB 后/PART
+
+非流/ADV 通股/VERB                    /SPACE 1/NUM 、/PUNCT 国有/ADJ 法人/NOUN 持有/VERB 股份/NOUN         /SPACE 67/NUM ,/PUNCT 481/NUM ,/PUNCT 829/NUM    /SPACE -/PUNCT 67/NUM ,/PUNCT 481/NUM ,/PUNCT 829/NUM             /SPACE
+0/NUM
+
+2/NUM 、/PUNCT 境内/NOUN 自然人/NOUN 持有/VERB 股份/NOUN         /SPACE 36/NUM ,/PUNCT 336/NUM ,/PUNCT 369/NUM    /SPACE -/PUNCT 36/NUM ,/PUNCT 336/NUM ,/PUNCT 369/NUM             /SPACE
+0/NUM
+
+非流/ADV 通股/VERB 合计/VERB        /SPACE 103/NUM ,/PUNCT 818/NUM ,/PUNCT 198/NUM   /SPACE -/PUNCT 103/NUM ,/PUNCT 818/NUM ,/PUNCT 198/NUM             /SPACE
+0/NUM
+
+有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股份/NOUN        /SPACE 1/NUM 、/PUNCT 国有/ADJ 法人/NOUN 持有/VERB 股份/NOUN                  /SPACE 0/NUM    /SPACE +/PUNCT 58/NUM ,/PUNCT 117/NUM ,/PUNCT 205/NUM    /SPACE
+58/NUM ,/PUNCT 117/NUM ,/PUNCT 205/NUM
+
+2/NUM 、/PUNCT 境内/NOUN 自然人/NOUN 持有/VERB 股份/NOUN                  /SPACE 0/NUM    /SPACE +/PUNCT 31/NUM ,/PUNCT 293/NUM ,/PUNCT 879/NUM    /SPACE
+31/NUM ,/PUNCT 293/NUM ,/PUNCT 879/NUM
+
+有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/VERB                  /SPACE 0/NUM    /SPACE +/PUNCT 89/NUM ,/PUNCT 411/NUM ,/PUNCT 084/NUM    /SPACE 89/NUM ,/PUNCT 411/NUM ,/PUNCT 084/NUM
+
+无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股份/NOUN                        /SPACE A股/NOUN         /SPACE 57/NUM ,/PUNCT 492/NUM ,/PUNCT 886/NUM    /SPACE +/PUNCT 14/NUM ,/PUNCT 407/NUM ,/PUNCT 114/NUM    /SPACE 71/NUM ,/PUNCT 900/NUM ,/PUNCT 000/NUM
+
+无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股份/NOUN 合计/ADJ         /SPACE 57/NUM ,/PUNCT 492/NUM ,/PUNCT 886/NUM    /SPACE +/PUNCT 14/NUM ,/PUNCT 407/NUM ,/PUNCT 114/NUM    /SPACE 71/NUM ,/PUNCT 900/NUM ,/PUNCT 000/NUM
+
+股份/NOUN 总额/NOUN        /SPACE 161/NUM ,/PUNCT 311/NUM ,/PUNCT 084/NUM              /SPACE 0/NUM   /SPACE 161/NUM ,/PUNCT 311/NUM ,/PUNCT 084/NUM
+
+七/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 股份/NOUN 可/VERB 上市/VERB 流通/NOUN 预计/VERB 时间表/NOUN
+
+序号/PROPN               /SPACE 股东/NOUN 名称/NOUN   /SPACE 所/PART 持有/VERB 限售/NOUN 条件/NOUN 的/PART 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 可/VERB 上市/VERB 流通/NOUN 时间/NOUN                                                                                                                                                                                                                     /SPACE 承诺/NOUN 的/PART 限售/NOUN 条件/NOUN
+
+1/NUM      /SPACE 中国/PROPN 电子/NOUN 产业/NOUN 工程/NOUN 公司/NOUN                     /SPACE 58/NUM ,/PUNCT 117/NUM ,/PUNCT 205/NUM         /SPACE G/PROPN +/PUNCT 36/NUM 个/NUM 月/NOUN                                                                                                                                                                    /SPACE 持有/VERB 的/PART 非流/ADV 通股/NOUN 股份/NOUN 自/ADP 获得/VERB 上市/VERB 流通权/NOUN 之/PART 日/NOUN 起/PART ,/PUNCT 在/ADP 36/NUM 个/NUM 月/NOUN 内/PART 不/ADV 上市/VERB 交易/NOUN 。/PUNCT
+
+2/NUM                    /SPACE 郭先臣/PROPN                      /SPACE 8/NUM ,/PUNCT 306/NUM ,/PUNCT 289/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN   /SPACE 持有/VERB 的/PART 非流/ADV 通股/NOUN 股份/NOUN 自/ADP 获得/VERB 上市/VERB 流通权/NOUN 之/PART 日/NOUN 起/PART ,/PUNCT 在/ADP 24/NUM 个/NUM 月/NOUN 内/PART 不/ADV 上市/VERB 交易/NOUN ；/PUNCT 郭先臣/PROPN 、/PUNCT 程春平/NOUN 、/PUNCT 尚/ADV 铭/NUM 、/PUNCT 陈世林/PROPN 、/PUNCT 周进军/PROPN 、/PUNCT 崔辉/NOUN 、/PUNCT 徐洁/PROPN 、/PUNCT 元新华/PROPN 作为/VERB 本/DET 公司/NOUN 董事/NOUN 、/PUNCT 监事/NOUN 、/PUNCT 高管/NOUN ,/PUNCT 在/ADP 限售/VERB 期满/VERB 出售/VERB 所/PART 持/VERB 股份/NOUN 时/PART 还/ADV 应/VERB 同时/ADV 遵守/VERB 《/PUNCT 上海/PROPN 证券/NOUN 交易所/NOUN 股票/NOUN 上市/NOUN 规则/NOUN 》/PUNCT 的/PART 相关/ADJ 规定/NOUN 。/PUNCT
+
+3/NUM                    /SPACE 程春平/NOUN                      /SPACE 7/NUM ,/PUNCT 000/NUM ,/PUNCT 887/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+4/NUM                      /SPACE 尚/ADV 铭/VERB                      /SPACE 2/NUM ,/PUNCT 306/NUM ,/PUNCT 806/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+5/NUM                    /SPACE 陈世林/PROPN                      /SPACE 2/NUM ,/PUNCT 002/NUM ,/PUNCT 808/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+6/NUM                    /SPACE 周进军/PROPN                      /SPACE 2/NUM ,/PUNCT 002/NUM ,/PUNCT 807/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+7/NUM                      /SPACE 崔辉/NOUN                      /SPACE 1/NUM ,/PUNCT 859/NUM ,/PUNCT 751/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+8/NUM                      /SPACE 徐洁/VERB                      /SPACE 1/NUM ,/PUNCT 359/NUM ,/PUNCT 050/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+9/NUM                    /SPACE 元/ADJ 新华/PROPN                        /SPACE 992/NUM ,/PUNCT 463/NUM         /SPACE G/PROPN +/PUNCT 24/NUM 个/NUM 月/NOUN
+
+10/NUM                   /SPACE 史殿林/NOUN                      /SPACE 2/NUM ,/PUNCT 002/NUM ,/PUNCT 808/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN                                                                                                                                                                    /SPACE 持有/VERB 的/PART 非流/ADV 通股/NOUN 股份/NOUN 自/ADP 获得/VERB 上市/VERB 流通权/NOUN 之/PART 日/NOUN 起/PART ,/PUNCT 在/ADP 12/NUM 个/NUM 月/NOUN 内/PART 不/ADV 上市/VERB 交易/NOUN 。/PUNCT
+
+11/NUM                     /SPACE 解华/NOUN                      /SPACE 1/NUM ,/PUNCT 359/NUM ,/PUNCT 048/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN
+
+12/NUM                   /SPACE 李素元/PROPN                      /SPACE 1/NUM ,/PUNCT 162/NUM ,/PUNCT 345/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN
+
+13/NUM                     /SPACE 谢建/PROPN                        /SPACE 518/NUM ,/PUNCT 586/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN
+
+14/NUM                     /SPACE 冯蔚/VERB                        /SPACE 420/NUM ,/PUNCT 231/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN
+
+八/NUM 、/PUNCT 其他/DET 事项/NOUN
+
+1/NUM 、/PUNCT 查询/NOUN 和/CCONJ 沟通/NOUN 渠道/NOUN
+
+公司/NOUN 地址/NOUN ：/PUNCT 北京市/PROPN 昌平区/NOUN 昌盛路/PROPN
+18号/NUM
+
+热线/NOUN 电话/NOUN ：/PUNCT
+010－51508699/NOUN
+
+传/VERB    /SPACE 真/NOUN
+：/PUNCT 010－51508661/NOUN
+
+电子/NOUN 信箱/NOUN ：/PUNCT cssgg@css.com/PROPN ./PUNCT
+cn/VERB
+
+公司/NOUN 网站/NOUN ：/PUNCT www.css.com/NOUN ./PUNCT
+cn/VERB
+
+证券/NOUN 交易所/NOUN 网站/NOUN ：/PUNCT www.sse.com/NOUN ./PUNCT
+cn/VERB
+
+2/NUM 、/PUNCT 财务/NOUN 指标/NOUN 变化/VERB ：/PUNCT
+
+实施/VERB 本次/ADJ 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 后/PART ,/PUNCT 公司/NOUN 股本/NOUN 总额/NOUN 增加/VERB 到/VERB 161/NUM ,/PUNCT 311/NUM ,/PUNCT 084/NUM 股/NUM ,/PUNCT 按/ADP 增加/VERB 后/PART 的/PART 股本/NOUN 摊薄/NOUN 计算/NOUN ,/PUNCT 公司/NOUN 2005/NUM 年度/NOUN 每股/ADJ 收益/NOUN 为/VERB 0/NUM ./PUNCT
+32/NUM 元/NUM 。/PUNCT
+
+九/NUM 、/PUNCT 备查/NOUN 文件/NOUN
+
+1/NUM 、/PUNCT 股权/NOUN 分置/ADJ 改革/NOUN 说明书/NOUN (修/NOUN 订稿/VERB )/PROPN
+
+2/NUM 、/PUNCT 国资/NOUN 部门/NOUN 对/ADP 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 的/PART 批复/NOUN
+
+3/NUM 、/PUNCT 非流/ADV 通股/VERB 股东/NOUN 承诺/VERB 函/VERB
+
+4/NUM 、/PUNCT 保荐/NOUN 意见书/NOUN 及/CCONJ 补充/VERB 保荐/NOUN 意见书/PROPN
+
+5/NUM 、/PUNCT 法律/NOUN 意见书/NOUN 及/CCONJ 补充/VERB 法律/NOUN 意见书/NOUN
+
+6/NUM 、/PUNCT 公司/NOUN 2006/NUM 年/NUM 第一/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 暨/CCONJ 相关/ADJ 股东/NOUN 会议/NOUN 决议/NOUN
+
+7/NUM 、/PUNCT 关于/ADP 中国/PROPN 软件/NOUN 与/CCONJ 技术/NOUN 服务/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2006/NUM 年/NUM 第一/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 暨/CCONJ 相关/ADJ 股东/NOUN 会议/NOUN 的/PART 法律/NOUN 意见书/NOUN
+
+中国/PROPN 软件/NOUN 与/CCONJ 技术/NOUN 服务/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN
+
+2006年/NOUN 5/NUM 月/NOUN 10日/NOUN

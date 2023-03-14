@@ -1,0 +1,71 @@
+推论/VERB 题(/NOUN Inference/PROPN )/NOUN ：/PUNCT 文章/NOUN 中/PART 有些/DET 论点/NOUN //PUNCT 观点/NOUN 没有/ADV 明确/ADV 阐述/VERB ，/PUNCT 但/ADV 却/ADV 强烈/ADV 暗示/VERB 出来/VERB 了/PART 。/PUNCT
+例如/ADV ，/PUNCT
+
+文章/NOUN 论述/NOUN 的/PART 结果/NOUN 引出/NOUN 了/PART ，/PUNCT 推论/VERB 题/NOUN 就/ADV 可能/ADV 就/ADV 造成/VERB 结果/NOUN 的/PART 起因/NOUN 提问/NOUN 。/PUNCT
+如果/SCONJ 文/NOUN 中/PART 有/VERB 比较/NOUN ，/PUNCT 推论/VERB 题/NOUN 就/ADV 可能/VERB 问/VERB 做/VERB 比较/NOUN 的/PART 基础/NOUN 是/VERB 什么/PRON 。/PUNCT
+如果/SCONJ 文中/NOUN 有/VERB 对/ADP 某/DET 一/NUM 新/ADJ 现象/NOUN 的/PART 明确/ADJ 阐述/NOUN ，/PUNCT 推论/VERB 题/NOUN 就/ADV 可能/VERB 要求/VERB 推论/VERB 旧/ADJ 现象/NOUN 的/PART 特征/NOUN 。/PUNCT
+推论/VERB 题/NOUN 虽然/SCONJ 是/VERB 传统/ADJ 题型/NOUN ，/PUNCT 但/ADV 难度/NOUN 很/ADV 大/VERB ，/PUNCT 需要/VERB 考生/NOUN 花/VERB 大/ADJ 功夫/NOUN 准备/NOUN 。/PUNCT
+
+例题/NOUN
+：/PUNCT
+
+Passage/PROPN ：/PUNCT …/PUNCT
+The/DET nineteenth/PROPN century/NOUN brought/VERB with/ADP it/ADP a/NUM burst/VERB of/ADP new/PROPN discoveries/NOUN
+
+and/CCONJ inventions/PROPN that/NOUN revolutionized/VERB the/DET candle/NOUN industry/NOUN and/CCONJ made/NOUN lighting/NOUN
+
+available/VERB to/ADP all/PRON ./PUNCT
+In/NOUN the/DET early/VERB -/PUNCT
+to/ADP -/PUNCT mid-nineteenth/ADJ century/NOUN ,/PUNCT a/DET process/NOUN was/NOUN
+
+developed/NOUN to/ADP refine/PROPN tallow/NOUN (fat/PUNCT from/ADP animals/ADJ )/NOUN with/VERB alkali/VERB and/CCONJ sulfuric/NOUN acid/VERB ./PUNCT
+The/DET
+
+result/NOUN was/NOUN a/NUM product/NOUN called/PROPN stearin/VERB ./PUNCT
+Stearin/PROPN is/VERB harder/NOUN and/CCONJ burns/PROPN longer/PROPN than/NOUN
+
+unrefined/PROPN tallow/NOUN ./PUNCT
+This/DET breakthrough/PROPN meant/NOUN that/ADV it/ADP was/NOUN possible/VERB to/ADP make/DET tallow/PROPN
+
+candles/PROPN that/NOUN would/PROPN not/PROPN produce/NOUN the/DET usual/ADP smoke/NOUN and/CCONJ rancid/NOUN odor/NOUN ./PUNCT
+Stearins/VERB were/PROPN
+
+also/PROPN derived/NOUN from/ADP palm/NOUN oils/VERB ,/PUNCT so/ADV vegetable/VERB waxes/VERB as/ADP well/PROPN as/ADP animal/PROPN fats/VERB could/PROPN be/NOUN
+
+used/VERB to/VERB make/NOUN candles/NOUN …/PUNCT
+
+Which/PROPN of/ADP the/DET following/NOUN can/VERB be/ADJ inferred/PROPN from/ADP paragraph/NOUN 1/NUM about/PROPN candles/PROPN
+
+before/VERB the/DET nineteenth/ADJ century/NOUN ?/PUNCT
+
+a)/PUNCT They/PROPN did/PROPN not/PROPN smoke/NOUN when/PROPN they/NOUN were/ADV burned/VERB ./PUNCT
+
+b)/PROPN They/PROPN produced/NOUN a/NUM pleasant/PROPN odor/ADP as/ADV they/NOUN burned/VERB ./PUNCT
+
+c)/PUNCT
+They/PROPN were/NOUN not/PROPN available/VERB to/ADP all/PRON ./PUNCT
+
+d)/PUNCT They/PROPN contained/NOUN sulfuric/VERB acid/VERB ./PUNCT
+
+[解/PROPN 析]/NOUN
+
+正确/ADJ 答案/NOUN 是/VERB C/NOUN 。/PUNCT
+这/DET 一/NUM 段/NUM 的/PART 第一/NUM 句/NUM 就/ADV 告诉/VERB 我们/PRON ：/PUNCT 19/NUM 世纪/NOUN 的/PART 一些/NUM 新/ADJ 发明/NOUN 和/CCONJ 发现/NOUN 也/ADV 对/ADP 蜡烛/NOUN 工业/NOUN 产生/VERB 了/PART 一/NUM 次/NUM 巨大/ADJ 的/PART 革命/NOUN ，/PUNCT 这次/ADV 革命/NOUN 使得/VERB 所有/DET 的/PART 人/NOUN 都/ADV 使用/VERB 上/VERB 了/PART 照明/NOUN 。/PUNCT
+从/ADP 这/DET 句/NUM 话/NOUN 中/PART 我们/PRON 可以/VERB 得到/VERB 两/NUM 层/NUM 信息/NOUN ：/PUNCT 19/NUM 世纪/NOUN 蜡烛/NOUN 工业/NOUN 有/VERB 了/PART 一/NUM 次/NUM 革命性/ADJ 的/PART 变化/NOUN ；/PUNCT 在/ADP 没有/VERB 这次/ADJ 变革/NOUN 之前/PART ，/PUNCT 也/ADV 就是/ADV 在/ADP 19世纪/NOUN 以前/PART ，/PUNCT 照明/NOUN 并不/ADV 是/VERB 所有人/NOUN 都/ADV 能/VERB 使用/VERB 的/PART 。/PUNCT
+因为/ADP 作者/NOUN 在/ADV 谈论/VERB 的/PART 是/VERB 蜡烛/NOUN 的/PART 变革/NOUN ，/PUNCT 所以/ADV 这里/PRON 所/PART 说/VERB 的/PART “/PUNCT lighting/NOUN 照明/NOUN ”/PUNCT 一定/ADV 是/VERB 与/ADP 蜡烛/NOUN 有关/VERB 的/PART 照明/NOUN ，/PUNCT 其实/ADV 也/ADV 就是/ADV 告诉/VERB 我们/PRON 19/NOUN 世纪/NOUN 以前/PART 并不/ADV 是/VERB 所有人/NOUN 都/ADV 能够/VERB 使用/VERB 到/VERB 蜡烛/NOUN 带来/VERB 的/PART 照明/NOUN ，/PUNCT 这/DET 一/NUM 推/VERB 论出/NOUN 的/PART 信息/NOUN 正好/ADV 与/ADP 选项/VERB C吻合/NOUN 。/PUNCT
+
+文章/NOUN 第一/NUM 句/NUM 同时/ADV 也/ADV 是/VERB 一个/ADV 时间/NOUN 的/PART 分水岭/NOUN ，/PUNCT 告诉/VERB 我们/PRON 19/NUM 世纪/NOUN 蜡烛/NOUN 工业/NOUN 的/PART 变革/NOUN 是/VERB 怎么样/VERB 的/PART 。/PUNCT
+“/PUNCT 在/ADP 19/NOUN 世纪/NOUN 早期/NOUN 到/CCONJ 中期/NOUN ，/PUNCT 蜡烛/NOUN 处理/VERB 工艺/NOUN 使用/VERB alkali/NOUN 和/CCONJ sulfuric/NOUN
+
+acid/ADV 来/PART 提炼/VERB tallow/NOUN ，/PUNCT 提炼/VERB 后/PART 的/PART 产品/NOUN 就是/ADV stearin/VERB ，/PUNCT stearin/NOUN 比/ADP 未经/VERB 提炼/VERB 的/PART tallow/NOUN 坚硬/NOUN 而且/CCONJ 燃烧/VERB 得/PART 更久/VERB 。/PUNCT
+这/DET 一/NUM 巨大/ADJ 的/PART 变化/NOUN 意味着/VERB 制造/VERB 出/VERB 不/ADV 产生/VERB 烟/NOUN 和/CCONJ rancid/NOUN 味道/NOUN 的/PART 蜡烛/NOUN 是/VERB 可能/VERB 的/PART 。/PUNCT ”/PUNCT
+在/ADP 这里/PRON 的/PART 一个/NUM 关键词/NOUN 是/VERB rancid/VERB ，/PUNCT 意思/NOUN 是/VERB （/PUNCT 油脂/NOUN 食物/NOUN ，/PUNCT 其/PRON 味道/NOUN 、/PUNCT 气味/NOUN ）/PUNCT
+不/ADV 新鲜/VERB 的/PART ；/PUNCT 腐臭/NOUN 的/PART ；/PUNCT 正好/ADV 与/ADP 选项b/NOUN 的/PART pleasant/PROPN
+
+odor/NOUN 相反/VERB 。/PUNCT
+19/NOUN 世纪/NOUN 前/PART 的/PART 蜡烛/NOUN 产生/VERB usual/PROPN smoke/NOUN （/PUNCT 经常/ADV 有/VERB 烟/NOUN ）/PUNCT ，/PUNCT 这/PRON 与/ADP 选项/VERB a/NOUN 相反/VERB 。/PUNCT
+Sulfuric/PROPN
+
+acid/ADV 是/VERB 19/NUM 世纪/NOUN 用来/VERB 处理/VERB fallow/VERB 的/PART 材料/NOUN ，/PUNCT 在/ADP 19世纪/NOUN 以前/PART 是/VERB 没有/VERB 使用/VERB 的/PART ，/PUNCT 这/PRON 与/ADP 选项d/NOUN 相反/VERB 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 搜狐/PROPN 教育/NOUN 社区/NOUN ）/PUNCT

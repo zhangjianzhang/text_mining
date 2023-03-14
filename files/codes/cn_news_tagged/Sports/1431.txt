@@ -1,0 +1,85 @@
+1/NUM 佛罗伦vs/NOUN 雷吉纳/PROPN
+
+1/NUM
+
+佛罗伦vs/PROPN 雷吉纳/PROPN
+
+2/NUM 国/NOUN  /SPACE 米vs锡耶纳/PROPN
+
+2/NUM 国/NOUN
+
+米vs锡耶纳/PROPN
+
+3/NUM 尤/CCONJ  /SPACE 文vs/NOUN 巴勒莫/PROPN
+
+3/NUM 尤/NOUN
+
+文vs/NOUN 巴勒莫/PROPN
+
+4/NUM 莱/PROPN  /SPACE 切v/VERB s切/VERB  /SPACE 沃/VERB
+
+4/NUM 莱/PROPN 切v/VERB s切/VERB
+
+沃/PROPN
+
+5/NUM 梅西纳vs恩/PROPN 波利/PROPN
+
+5/NUM
+
+梅西纳vs恩/PROPN 波利/PROPN
+
+6/NUM 帕尔玛vsA/NOUN C米兰/PRON
+
+6/NUM
+
+帕尔玛vsA/NOUN C米兰/NOUN
+
+7/NUM 罗/NUM  /SPACE 马vs特/PROPN 雷维/VERB
+
+7/NUM 罗/NUM
+
+马vs特/PROPN 雷维/VERB
+
+8/NUM 乌迪内vs卡利亚/PROPN
+
+8/NUM
+
+乌迪内vs卡利亚/PROPN
+
+9/NUM 阿森纳vs维/PROPN  /SPACE 冈/VERB
+
+9/NUM 阿森纳vs维/PROPN
+
+冈/NOUN
+
+10/NUM 博尔顿/NOUN vs/VERB 伯明翰/PROPN
+
+10/NUM
+
+博尔顿/NOUN vs/VERB 伯明翰/PROPN
+
+11/NUM 埃弗顿/PROPN vs西布朗/PROPN
+
+11/NUM
+
+埃弗顿/PROPN vs西布朗/PROPN
+
+12/NUM 曼/PROPN  /SPACE 联vs/PROPN 查尔顿/PROPN
+
+12/NUM 曼/PROPN
+
+联vs/PROPN 查尔顿/PROPN
+
+13/NUM 朴茨/NUM 茅vs/VERB 利物浦/NOUN
+
+13/NUM
+
+朴茨/VERB 茅vs/VERB 利物浦/NOUN
+
+14/NUM 西/NOUN 汉姆vs/NOUN 热/ADJ  /SPACE 刺/VERB
+
+14/NUM 西/NOUN 汉姆vs/NOUN 热/VERB
+
+刺/VERB
+
+2/NUM

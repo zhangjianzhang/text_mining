@@ -1,0 +1,80 @@
+在/ADP 英译汉/PROPN 过程/NOUN 中/PART ，/PUNCT 我们/PRON 常常/ADV 遇到/VERB 这样/ADJ 一/NUM 种/NUM 情况/NOUN ，/PUNCT 即/VERB 原词/NOUN 所/PART 表达/VERB 的/PART 并不/ADV 是/VERB 其/PRON 字面/NOUN 意义/NOUN ，/PUNCT 而是/ADV 其/PRON 字面/NOUN 意义/NOUN 的/PART 反义/NOUN ，/PUNCT 或者说/CCONJ 是/VERB 对/ADP 其/PRON 字面/NOUN 意义/NOUN 的/PART 否定/NOUN ，/PUNCT 可/ADV 这种/ADV 否定/NOUN 又/ADV 往往/ADV 不/ADV 出现/VERB 否定/NOUN 词/NOUN ，/PUNCT 这种/ADV 情况/NOUN 并不/ADV 很/ADV 少/VERB ，/PUNCT 给/ADP 翻译/NOUN 工作/NOUN 带来/VERB 很/ADV 大/ADJ 的/PART 麻烦/NOUN 。/PUNCT
+
+下面/NOUN 是/VERB 常见/ADJ 的/PART 两/NUM 个/NUM 词组/NOUN ，/PUNCT 请/VERB 注意/VERB 它们/PRON 的/PART 汉语/NOUN 意思/NOUN ：/PUNCT
+
+①/NUM riot/NOUN police/NOUN 防暴/NOUN 警察/NOUN （/PUNCT 即/ADV anti-riot/VERB police/NOUN ，/PUNCT 而/ADV 不是/ADV 暴乱/NOUN 的/PART 警察/NOUN ）/PUNCT
+
+②/NUM crisis/NOUN law/NOUN 反/VERB 危机/NOUN 法案/NOUN （/PUNCT 即/ADV anti-crisis/NUM law/ADJ )/PROPN
+
+这/DET 两/NUM 个/NUM 词组/NOUN 的/PART 翻译/NOUN 采用/VERB 的/PART 就是/ADV 反译法/NOUN ，/PUNCT 译文/NOUN 都/ADV 是/VERB 其/PRON 字面/NOUN 意义/NOUN 的/PART 否定/NOUN 或/CCONJ 反义/NOUN ，/PUNCT 这样/ADV 既/ADV 表达/VERB 了/PART 原文/ADJ 的/PART 真正/ADJ 含义/NOUN ，/PUNCT 又/ADV 符合/VERB 汉语/NOUN 的/PART 表达/NOUN 习惯/NOUN ，/PUNCT 使/VERB 人/NOUN 一/ADV 看/VERB 就/ADV 懂/VERB 。/PUNCT
+
+另外/ADV ，/PUNCT 英文/NOUN 报刊/NOUN 文章/NOUN 标题/NOUN 的/PART 翻译/NOUN 有时/ADV 也/ADV 采用/VERB 反译法/NOUN 。/PUNCT
+如/ADV 《/PUNCT 中国/PROPN 日报/NOUN 》/PUNCT （/PUNCT China/PROPN Daily/PROPN ）/PUNCT 曾/ADV 刊登/VERB 一则/ADJ 新闻/NOUN ，/PUNCT 题目/NOUN 是/VERB Inflation/NOUN is/VERB target/NOUN
+
+of/ADP bank's/PROPN new/PROPN
+
+policy/NOUN ，/PUNCT 主要/ADV 说/VERB 的/PART 是/VERB 银行/NOUN 在/ADP 1995年/NOUN 将来/NOUN 取/VERB 有力/ADJ 措施/NOUN 制止/VERB 通货膨胀/NOUN 。/PUNCT
+但/ADV 题目/NOUN 的/PART 字面/NOUN 意思/NOUN 恰恰/ADV 相反/VERB 。/PUNCT
+因此/ADV 我们/PRON 在/ADP 翻译/VERB 时/PART 必须/VERB 把/X inflation/NOUN 看成/VERB 是/VERB anti-inflation/NOUN ，/PUNCT 使/VERB 之/PART 文题/NOUN 一致/VERB 。/PUNCT
+这样/ADJ 的/PART 标题/NOUN 在/ADP 英文/NOUN 报刊/NOUN 中/PART 比较/ADV 常见/VERB ，/PUNCT 目的/NOUN 是/VERB 为/ADP 简练/NOUN 及/CCONJ 醒目/NOUN ，/PUNCT 在/ADP 翻译/NOUN 时/PART 要/VERB 格外/ADV 注意/VERB ，/PUNCT 切勿/NOUN 望文生义/VERB 。/PUNCT
+
+再/ADV 让/VERB 我们/PRON 来/VERB 看看/VERB 下面/NOUN 的/PART 例子/NOUN ：/PUNCT
+
+(/PUNCT 1/NUM )/PROPN Sidney/PROPN Simon/NOUN called/PROPN the/DET college/NOUN grading/NOUN system/NOUN
+
+"archaic/NUM ,/PUNCT prescientific,bureaucratic/ADV invention"/NOUN ，/PUNCT and/CCONJ
+"about/ADV as/ADP accurate/PROPN as/ADV police/NOUN
+
+estimates/VERB of/ADP crowds/NOUN of/ADV peace/VERB marches/VERB ./PUNCT "/PUNCT
+
+如果/SCONJ 按/ADP 字面/NOUN 翻译/VERB ，/PUNCT 这/DET 句/NUM 话/NOUN 是/VERB 这样/VERB 的/PART
+：/PUNCT
+
+西德尼·西蒙/PROPN 称/VERB 这种/DET 大学/NOUN 评级/NOUN 制度/NOUN “/PUNCT 是/VERB 过时/VERB 的/PART ，/PUNCT 缺乏/VERB 科学/NOUN 验证/NOUN ”/PUNCT ，/PUNCT 而且/ADV 还是/ADV “/PUNCT 官僚主义/NOUN 的/PART 产物/NOUN ”/PUNCT ,/PUNCT “/PUNCT 简直/ADV 同/ADP 警察/NOUN 估计/VERB 和平/NOUN 示威/NOUN 人数/NOUN 一样/VERB 准确/VERB 。/PUNCT ”/PUNCT
+
+既然/SCONJ 前面/NOUN 已/ADV 说/VERB 了/PART 这个/DET 评级/NOUN 制度/NOUN “/PUNCT 过时/VERB 无用/VERB ，/PUNCT 缺乏/VERB 科学/NOUN 验证/NOUN ”/PUNCT ，/PUNCT 而且/ADV 还是/ADV “/PUNCT 官僚主义/NOUN 的/PART 产物/NOUN ”/PUNCT ，/PUNCT 后面/NOUN 又/ADV 怎么/ADV 能/VERB 说/VERB 它/PRON “/PUNCT 准确/VERB ”/PUNCT 呢/PART ？/PUNCT
+这/PRON 显然/ADV 自相矛盾/VERB ，/PUNCT 西蒙所/PROPN 表达/VERB 的/PART 真正/ADJ 含义/NOUN 绝非/NOUN 如此/VERB 。/PUNCT
+
+以上/ADV 译文/VERB ，/PUNCT 忽略/VERB 了/PART 说话/VERB 人/NOUN 的/PART 语气/NOUN 。/PUNCT
+其实/ADV ，/PUNCT 西蒙/PROPN 是/VERB 在/ADP 抨击/VERB 大学/NOUN 评级/NOUN 制度/NOUN 。/PUNCT
+他/PRON 说话/VERB 时/PART ，/PUNCT 前面/NOUN 直接/ADV 用/VERB 了/PART archaic/VERB ，/PUNCT prescientific/NOUN 和/CCONJ bureaucratic几/PROPN 个/NUM 贬义词/NOUN ，/PUNCT 而/ADV 后面/NOUN 的/PART 褒义/ADJ 词accurate/NOUN 实际上/ADV 是/VERB 一个/ADV 反语/NOUN 。/PUNCT
+因为/ADP 我们/PRON 知道/VERB ，/PUNCT 警察/NOUN 在/ADP 估计/VERB 示威/NOUN 人数/NOUN 时/PART 只能/ADV 说出/VERB 大概/ADV ，/PUNCT 往往/ADV 和/ADP 实际/ADJ 人数/NOUN 出入/VERB 很/ADV 大/VERB ，/PUNCT 极/ADV 不/ADV 准确/VERB 。/PUNCT
+所以/ADV 说话人/VERB 所/PART 表达/VERB 的/PART 真正/ADJ 含义/NOUN 是/VERB not/PROPN
+
+accurate/VERB ，/PUNCT 或/CCONJ inaccurate/NOUN 。/PUNCT
+这样/ADV ，/PUNCT 可/VERB 理解/VERB 成about/VERB as/VERB inaccurate/NOUN ，/PUNCT as/ADV police/NOUN estimates/VERB of/ADP crowds/NOUN of/ADP
+
+peace/ADJ marches/NOUN ，/PUNCT 译成/PROPN 汉语/NOUN 就是/ADV ：/PUNCT 简直/ADV 同/ADP 警察/NOUN 估计/VERB 和平/NOUN 示威/NOUN 人数/NOUN 一样/VERB 不/ADV 准确/VERB 。/PUNCT
+就是/ADV 把/X accurate/VERB 反过来/ADV 译/NOUN ，/PUNCT 即/ADV 反译/VERB 。/PUNCT
+
+以上/PART 例句/NOUN 是/VERB 通过/ADP 分析/VERB 说话/VERB 人/NOUN 的/PART 语气/NOUN 来/PART 采用/VERB 反译法/NOUN 正确/ADV 表达/VERB 语义/NOUN 的/PART 。/PUNCT
+有的/DET 句子/NOUN 前面/NOUN 所/PART 表达/VERB 的/PART 意思/NOUN 是/VERB 否定/VERB 的/PART ，/PUNCT 但/ADV 根据/ADP 这个/DET 意思/NOUN 得/VERB 出来/VERB 的/PART 结论/NOUN 却/ADV 是/VERB 肯定/VERB 的/PART 。/PUNCT
+为了/ADP 使/VERB 其/PRON 真正/ADJ 含义/NOUN 不至于/VERB 前后/ADV 矛盾/VERB ，/PUNCT 我们/PRON 也/ADV 采取/VERB 反译/ADJ 后面/NOUN 结论/NOUN 的/PART 方法/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN This/DET sort/NOUN of/ADP situation/VERB highlights/NOUN a/NUM critical/NOUN weakness/NOUN in/ADP the/DET ANC/PROPN
+
+leadership:accountability/NOUN ./PUNCT
+
+如/ADV 按/ADP 字面/NOUN 则/ADV 译成/VERB ：/PUNCT
+
+这种/DET 情况/NOUN 突出/VERB 了/PART 非国大/PROPN 领导层/NOUN 方面/NOUN 的/PART 极为/ADV 严重/ADJ 的/PART 弱点/NOUN ：/PUNCT 有/VERB 责任心/NOUN 。/PUNCT
+
+“/PUNCT 有/VERB 责任心/NOUN ”/PUNCT 怎么/ADV 能/VERB 是/VERB “/PUNCT 弱点/NOUN ”/PUNCT 呢/PART ？/PUNCT
+这种/DET 译文/NOUN 显然/ADV 是/VERB 错误/VERB 的/PART 。/PUNCT
+作者/NOUN 在/ADP 句尾所/NOUN 表达/VERB 的/PART 真正/ADJ 含义/NOUN 其实/ADV 和/ADP 前面/NOUN 提到/VERB 的/PART “/PUNCT 弱点/NOUN ”/PUNCT 是/VERB 一致/VERB 的/PART ，/PUNCT 即可/ADV 理解/VERB 成/VERB unac/ADJ countability/NOUN 。/PUNCT
+那么/ADV 全/DET 句/NOUN 应/VERB 译成/VERB ：/PUNCT 这种/DET 情况/NOUN 突出/VERB 了/PART 非国大/PROPN 领导层/NOUN 方面/NOUN 的/PART 极为/ADV 严重/ADJ 的/PART 弱点/NOUN ，/PUNCT 玩忽职守/VERB （/PUNCT 无责任心/VERB ）/PUNCT 。/PUNCT
+
+还有/CCONJ 一些/NUM 句子/ADV 则/ADV 通过/VERB 正确/ADV 理解/VERB 上下文/NOUN ，/PUNCT 仔细/ADV 推敲/VERB 关键/NOUN 同/VERB 的/PART 实际/ADJ 含义/NOUN ，/PUNCT 再/ADV 相应/ADV 采取/VERB 反译法/NOUN 进行/VERB 翻译/NOUN 。/PUNCT
+
+(/PUNCT 3/NUM )/NOUN In/NOUN fact/VERB ,/PUNCT the/DET willingness/NOUN to/ADP experiment/NOUN is/VERB one/NOUN of/ADP the/DET most/NOUN striking/NOUN
+
+features/NOUN ,/PUNCT and/CCONJ it/NOUN seems/NOUN to/ADP be/ADP rooted/PROPN in/ADP confidence/NOUN rather/ADJ than/NOUN security/VERB ./PUNCT
+
+实际上/ADV ，/PUNCT 乐于/VERB 进行/VERB 试验/NOUN 是/VERB 最/ADV 显著/VERB 的/PART 特点/NOUN 之一/NOUN 。/PUNCT
+它/PRON 来源于/VERB 信心/NOUN ，/PUNCT 而/ADV 不是/ADV 出于/VERB 不安全感/VERB 。/PUNCT
+
+综上所述/VERB ，/PUNCT 所谓/ADJ 反译法/NOUN 即/ADV 把/X 原文/NOUN 中/PART 个别/ADJ 词语/NOUN （/PUNCT 大多/ADV 为/VERB 名词/NOUN 或/CCONJ 形容词/NOUN ）/PUNCT 否定/VERB 或/CCONJ 取其/VERB 反义/NOUN 之后/PART 再/ADV 翻译/VERB 成/VERB 汉语/NOUN ，/PUNCT 以便/ADV 译文/NOUN 和/CCONJ 原文/NOUN 所/PART 表达/VERB 的/PART 真正/ADJ 含义/NOUN 相/ADV 一致/VERB 。/PUNCT
+这就/ADV 要求/VERB 我们/PRON 能/VERB 正确/ADV 理解/VERB 原文/NOUN ，/PUNCT 弄/VERB 清作者/NOUN 所/PART 抱/VERB 的/PART 思想/NOUN 感情/NOUN 和/CCONJ 运用/NOUN 的/PART 语气/NOUN ，/PUNCT 同时/ADV 又/ADV 要/VERB 熟知/VERB 汉语/NOUN 已/ADV 有的/DET 习惯/VERB 表达/NOUN 方式/NOUN 。/PUNCT
+而/ADV 这些/DET 能力/NOUN 只有/ADV 通过/VERB 不断/VERB 的/PART 翻译/NOUN 实践/NOUN 才能/CCONJ 逐步/ADV 提高/VERB 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 翻译网/NOUN ）/PUNCT

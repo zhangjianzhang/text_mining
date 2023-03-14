@@ -1,0 +1,13 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/ADJ 和/CCONJ 完整/VERB ，/PUNCT 没有/VERB 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或者/CCONJ 重大/ADJ 遗漏/NOUN 。/PUNCT
+
+唐山/PROPN 冀东/PROPN 水泥/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB "本/NUM 公司/NOUN ")/ADJ 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 业经/VERB 本/DET 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 审议/VERB 通过/VERB 。/PUNCT
+由于/ADP 法人股/NOUN 股东/NOUN 支付/VERB 对价/ADJ 手续/NOUN 尚未/ADV 办理/VERB 完毕/VERB ，/PUNCT 公司/NOUN 股票/NOUN 需/VERB 继续/VERB 停牌/VERB 至/CCONJ 相关/ADJ 手续/NOUN 办理/VERB 完毕/VERB 。/PUNCT
+届时/ADV 本/DET 公司/NOUN 将/ADV 发布/VERB 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 公告/NOUN 。/PUNCT
+
+特此/ADV 公告/VERB 。/PUNCT
+
+唐山/PROPN 冀东/PROPN 水泥/NOUN 股份/NOUN 有限/ADJ 公司/NOUN
+
+董/NOUN 事/NOUN 会/VERB
+
+2006年/NOUN 5月/NOUN 8日/NOUN

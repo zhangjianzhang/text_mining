@@ -1,0 +1,11 @@
+英国/PROPN 伦敦/PROPN 大学/NOUN 的/PART 科学家/NOUN 研究/VERB 发现/VERB ，/PUNCT 人类/NOUN 免疫/NOUN 系统/NOUN 中/PART 的/PART 一/NUM 种/NUM 蛋白质/NOUN 会/VERB 加速/VERB 艾滋病/NOUN 病毒/NOUN （/PUNCT ＨＩＶ/PROPN ）/PUNCT 的/PART 传播/NOUN 。/PUNCT
+
+据/ADP 最新/ADJ 出版/NOUN 的/PART 《/PUNCT 新/ADJ 科学家/NOUN 》/PUNCT 杂志/NOUN 报道/VERB ，/PUNCT 伦敦/PROPN 大学/NOUN 格雷格·托尔斯/PROPN 领导/VERB 的/PART 小组/NOUN 在/ADP 研究/VERB ＨＩＶ－1型/NOUN 病毒/NOUN 时/PART 发现/VERB ，/PUNCT 这种/DET 病毒/NOUN 在/ADV 攻击/VERB 人类/NOUN 和/CCONJ 猴子/NOUN 体内/NOUN 的/PART 细胞/NOUN 时/PART ，/PUNCT 二者/NOUN 体内/NOUN 一/NUM 种/NUM 名为/VERB ｃｙｃｌｏｐｈｉｌｉｎ－Ａ/NOUN 的/PART 免疫/NOUN 系统/NOUN 蛋白质/NOUN 会/VERB 令/VERB 病毒/NOUN 发生/VERB 变形/NOUN ，/PUNCT 但/ADV 变形/VERB 后/PART 的/PART 病毒/NOUN 对/ADP 人类/NOUN 和/CCONJ 猴子/NOUN 的/PART 攻击/NOUN 能力/NOUN 却/ADV 截然不同/VERB 。/PUNCT
+
+研究/NOUN 人员/NOUN 首先/ADV 将/X ＨＩＶ－1/NOUN 病毒/NOUN 注入/VERB 猴子/NOUN 体内/NOUN ，/PUNCT 结果/ADV 病毒/NOUN 产生/VERB 的/PART 变形/NOUN 使/VERB 猴子/NOUN 先天/VERB 免疫/NOUN 系统/NOUN 中/PART 的/PART ＴＲＩＭ5－ａｌｐｈａ/PROPN 蛋白质/NOUN 更/ADV 容易/ADV 杀死/VERB 病毒/NOUN 。/PUNCT
+而/ADV 随后/ADV 对/ADP 人体/NOUN 进行/VERB 的/PART 试验/NOUN 情况/NOUN 则/ADV 完全/ADV 不同/VERB ，/PUNCT 虽然/SCONJ 人体/NOUN 免疫/NOUN 系统/NOUN 中/PART 的/PART ｃｙｃｌｏｐｈｉｌｉｎ－Ａ/NOUN 蛋白质/NOUN 仍/ADV 会/VERB 改变/VERB ＨＩＶ－1/PROPN 病毒/NOUN 的/PART 外形/NOUN ，/PUNCT 可/ADV 这种/ADV 变形/NOUN 却/ADV 使/VERB 病毒/NOUN 更/ADV 具/VERB 感染性/NOUN 。/PUNCT
+
+研究/NOUN 人员/NOUN 认为/VERB ，/PUNCT ＨＩＶ－1/PROPN 病毒/NOUN 在/ADP 进攻/VERB 人体/NOUN 细胞/NOUN 时/PART ，/PUNCT 将/X ｃｙｃｌｏｐｈｉｌｉｎ－Ａ/NOUN 蛋白质/NOUN 当作/VERB 帮助/VERB 自己/PRON 复制/VERB 的/PART 工具/NOUN 。/PUNCT
+ＨＩＶ－1/PROPN 病毒/NOUN 很/ADV 可能/VERB 在/ADP 跨越/VERB 物种/NOUN 界限/VERB 传播/VERB 给/ADP 人类/NOUN 之前/PART 就/ADV 已/ADV 具有/VERB 感染/VERB 人体/NOUN 细胞/NOUN 的/PART 能力/NOUN 。/PUNCT
+
+托尔斯/PROPN 说/VERB ，/PUNCT 这/DET 一/NUM 发现/NOUN 使/VERB 他们/PRON 朝/ADP 了解/VERB 人体/NOUN 免疫/NOUN 系统/NOUN 与/ADP 艾滋病/NOUN 病毒/NOUN 如何/ADV 共同/ADV 运作/VERB 的/PART 机理/NOUN 迈进/VERB 了/PART 一/NUM 步/NUM ，/PUNCT 有助于/VERB 找到/VERB 治疗/VERB 艾滋病/NOUN 的/PART 新/ADJ 方法/NOUN 。/PUNCT

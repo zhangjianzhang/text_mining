@@ -1,0 +1,356 @@
+【/PUNCT 来源/NOUN ：/PUNCT 北京/PROPN 领航/NOUN 考研/VERB 】/PUNCT
+【/PUNCT 作者/NOUN ：/PUNCT 王舰/PROPN 】/PUNCT
+
+谨/ADV 以此/ADV 篇献/NOUN 给/VERB 为/ADP 赢得/VERB 高分/VERB 的/PART 考研/NOUN 学子们/NOUN ！/PUNCT
+
+【/PUNCT 解题/NOUN 原则/NOUN 分析/VERB 】/PUNCT
+
+求同存异/VERB 123/NUM 原则/NOUN ：/PUNCT 文章/NOUN 的/PART 相邻/NOUN 段落/NOUN 之间/PART 存在/VERB 着/PART 联系/NOUN 又/ADV 同时/ADV 存在/VERB 差别/NOUN 。/PUNCT
+段落/NOUN 之间/PART 的/PART 联系/NOUN 体现/VERB 为/VERB 二者/NOUN 之间/PART 共享/VERB 同一/NOUN 主题词/NOUN ；/PUNCT 段落/NOUN 之间/PART 的/PART 差别/NOUN 体现/VERB 为/VERB 后面/NOUN 的/PART 段落/NOUN 比/ADP 前面/NOUN 段落/VERB 要/VERB 多出/VERB 一些/NUM 内容/NOUN ，/PUNCT 而且/ADV 这些/DET 多出/ADJ 的/PART 内容/NOUN 恰恰/ADV 体现/VERB 了/PART “/PUNCT 启下/PROPN ”/PUNCT 的/PART 关系/NOUN 。/PUNCT
+因此/ADV ，/PUNCT 利用/VERB 段落/NOUN 之间/PART 的/PART 差额/ADJ 主题/NOUN 名词/NOUN ，/PUNCT 即/VERB “/PUNCT 相同/ADJ 表/NOUN 联系/NOUN ，/PUNCT 相异引/NOUN 下文/NOUN ”/PUNCT 的/PART 原则/NOUN ，/PUNCT 便/ADV 可以/VERB 确定/VERB 下/DET 一/NUM 段落/NOUN 的/PART 主题词/NOUN 。/PUNCT
+
+【/PUNCT 解题/NOUN 步骤/NOUN 分析/VERB 】/PUNCT
+
+第一/NUM 段/NUM ：/PUNCT Canada/PROPN ’/PUNCT s/NOUN premiers/VERB (/PUNCT the/DET leaders/NOUN of/ADP provincial/NOUN
+
+government/VERB s)/PUNCT ,/PUNCT if/INTJ they/NOUN have/PRON any/PROPN breath/PROPN left/NOUN after/PROPN complaining/VERB about/PROPN
+Ottawa/PROPN at/ADP
+
+the/DET ir/VERB late/NOUN July/PROPN annual/VERB meeting/NUM ,/PUNCT might/VERB spare/NOUN a/VERB moment/NOUN to/ADP do/NOUN something/NOUN ,/PUNCT to/ADP reduce/NOUN
+
+heal/NOUN th-care/NOUN costs/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+Canada/PROPN ’/PUNCT s/NOUN premiers/VERB -/PUNCT Ottawa-annual/NOUN meeting/NOUN -/PUNCT heal/PROPN th-care/NOUN
+
+costs/NOUN ./PUNCT
+
+第二/NUM 段/NUM ：/PUNCT They/PROPN ’/PUNCT re/NOUN all/DET groaning/VERB about/PROPN soaring/NOUN heal/VERB th/ADJ budgets/NOUN ,/PUNCT the/DET
+
+fastest-growing/NUM component/NOUN of/ADP which/PROPN are/VERB pharmaceutical/ADJ costs/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+heal/VERB th/NOUN budgets/NOUN -/PUNCT pharmaceutical/ADJ costs/NOUN ./PUNCT
+
+第二/NUM 段/NUM 主题词/NOUN 与/CCONJ 第一/NUM 段/NUM 主题词/NOUN 做/VERB 减法/VERB 得出/VERB 的/PART 差额/NOUN 决定/NOUN 供/VERB 选择/NOUN 的/PART 41/NUM 题目/NOUN 主题词/NOUN 为/VERB ：/PUNCT pharmaceutical/ADJ costs/NOUN ./PUNCT
+
+在/ADP 备选/NOUN 答案/NOUN 中/PART 找到/VERB 以/ADP 该/DET 词/NOUN 为/ADP 主题词/NOUN 的/PART 段落/NOUN ，/PUNCT 即E/VERB 。/PUNCT
+
+第三/NUM 段/NUM ：/PUNCT According/NOUN to/ADP the/DET Canadian/PROPN Institute/NOUN for/ADP Heal/NOUN th/NOUN
+
+Information/PROPN ,/PUNCT prescription/NOUN drug/NOUN costs/PROPN have/PROPN risen/PROPN since/PROPN 1997/NOUN at/ADP twice/NOUN the/DET rate/NOUN
+of/ADP
+
+overall/ADP heal/VERB th-care/ADJ spending/NOUN ./PUNCT
+Part/NOUN of/ADP the/DET increase/NOUN comes/PROPN from/ADP drugs/NOUN being/VERB used/PROPN
+
+to/ADP replace/NOUN o/ADP ther/NOUN kinds/NOUN of/ADP treatments/PROPN part/NOUN of/ADP it/NOUN arises/PROPN from/ADP new/NOUN drugs/NOUN costing/NOUN
+
+more/ADP than/VERB older/NOUN kinds/NOUN ./PUNCT
+Part/NOUN of/ADP it/NOUN is/VERB higher/VERB prices/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+heal/VERB th/NOUN budgets/NOUN -/PUNCT pharmaceutical/ADJ costs/NOUN ./PUNCT
+
+第四/NUM 段/NUM ：/PUNCT What/PROPN to/ADP do/VERB ?/PUNCT
+Both/PROPN the/DET Romanow/NOUN commission/NOUN and/CCONJ the/DET Kir/NOUN by/ADP
+
+committee/NOUN on/ADP heal/NOUN th/NOUN care/VERB -/PUNCT to/ADP say/NOUN nothing/VERB of/ADP reports/PROPN from/ADP o/ADP ther/NOUN
+
+experts/ADV -/PUNCT recommended/PROPN the/DET creation/NOUN of/ADP a/DET national/PROPN drug/NOUN agency/NOUN ./PUNCT
+Instead/PROPN of/ADP each/PROPN
+
+province/NOUN having/VERB its/PROPN own/NOUN list/NOUN of/ADP approved/VERB drugs/NOUN ,/PUNCT bureaucracy/PROPN ,/PUNCT procedures/NOUN and/CCONJ
+
+limited/NOUN bargaining/ADJ power/VERB ,/PUNCT all/DET would/PROPN pool/NOUN resources/NOUN ,/PUNCT work/NOUN with/ADV Ottawa/NOUN ,/PUNCT and/CCONJ create/NOUN
+
+a/NUM national/ADJ institution/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+Romanow/PROPN commission/NOUN and/CCONJ the/DET Kir/NOUN by/ADP committee/NOUN -/PUNCT heal/VERB th/NOUN
+
+care-national/VERB drug/ADJ agency/NOUN -/PUNCT a/NUM national/ADJ institution/NOUN ./PUNCT
+
+第四/NUM 段/NUM 主题词/NOUN 与/CCONJ 第三/NUM 段/NUM 主题词/NOUN 做/VERB 减法/VERB 得出/VERB 的/PART 差额/NOUN 决定/NOUN 供/VERB 选择/NOUN 的/PART 42/NUM 题目/NOUN 主题词/NOUN 为/VERB ：/PUNCT national/PROPN institution/VERB ./PUNCT
+
+在/ADP 备选/NOUN 答案/NOUN 中/PART 找到/VERB 以/ADP 该/DET 词/NOUN 为/ADP 主题词/NOUN 的/PART 段落/NOUN ，/PUNCT 即C/VERB 。/PUNCT
+
+第五/NUM 段/NUM ：/PUNCT What/PROPN does/NOUN “/PUNCT national/PROPN ”/PUNCT mean/NOUN ?/PUNCT
+Roy/NOUN Romanow/PROPN and/CCONJ Senator/PROPN
+
+Michael/PROPN Kir/NOUN by/ADP recommended/PROPN a/NUM federal-provincial/ADP body/ADJ much/NOUN like/PROPN the/DET recently/NOUN
+
+created/VERB National/PROPN Heal/NOUN th/NOUN Council/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+“/PUNCT national/PROPN ”/PUNCT -/PUNCT provinces/NOUN -/PUNCT “/PUNCT national/PROPN ”/PUNCT organization/NOUN -/PUNCT better/PROPN
+
+prices/NOUN -/PUNCT
+drug/NUM manufacturers/NUM -/PUNCT the/DET provincial/NOUN list/VERB -/PUNCT the/DET national/ADJ agency/NOUN -/PUNCT Quebec/PROPN -/PUNCT the/DET
+
+national/PROPN agency/NOUN -/PRON better/PROPN price/NOUN ./PUNCT
+
+第五/NUM 段/NUM 主题词/NOUN 与/CCONJ 第四/NUM 段/NUM 主题词/NOUN 做/VERB 减法/VERB 得出/VERB 的/PART 差额/NOUN 决定/NOUN 供/VERB 选择/NOUN 的/PART 43/NUM 题目/NOUN 主题词/NOUN 为/VERB ：/PUNCT drug/NUM manufacturers/NUM ,/PUNCT Quebec/PROPN ,/PUNCT better/PROPN
+
+price/NOUN ./PUNCT
+在/ADP 备选/NOUN 答案/NOUN 中/PART 找到/VERB 以/ADP 该/DET 词/NOUN 为/ADP 主题词/NOUN 的/PART 段落/NOUN ，/PUNCT 即G/VERB 。/PUNCT
+
+第八/NUM 段/NUM ：/PUNCT A/NOUN small/NOUN step/NOUN has/PROPN been/NOUN taken/NOUN in/ADP the/DET direction/NOUN of/ADP a/DET
+
+national/PROPN agency/VERB with/VERB the/DET creation/NOUN of/ADP the/DET Canadian/NOUN Co-coordinating/PROPN Office/PROPN for/PROPN
+
+Heal/NOUN th/NOUN Technology/PROPN Assessment/NOUN ,/PUNCT funded/PROPN by/ADP Ottawa/PROPN and/CCONJ the/DET provinces/NOUN ./PUNCT
+Under/PROPN it/NOUN ,/PUNCT a/NUM
+
+Common/PROPN Drug/ADJ Review/NOUN recommends/NOUN to/ADP provincial/NOUN lists/NOUN which/PROPN new/PROPN drugs/NOUN should/VERB be/NOUN
+
+included/NOUN ./PUNCT
+Predictably/NOUN and/CCONJ regrettably/NOUN Quebec/PROPN refused/PROPN to/ADP join/PROPN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+“/PUNCT national/PROPN ”/PUNCT -/PUNCT provinces/NOUN -/PUNCT “/PUNCT national/PROPN ”/PUNCT organization/NOUN -/PUNCT better/PROPN prices/VERB ,/PUNCT if/NOUN
+
+possible/NOUN ,/PUNCT with/ADV drug/ADJ manufacturers/NUM -/PUNCT
+the/DET provincial/NOUN list/VERB ,/PUNCT the/DET national/VERB
+
+agency/NOUN -/PUNCT Quebec/PROPN -/PUNCT the/DET national/ADJ agency/NOUN -/PRON better/PROPN price/NOUN ./PUNCT
+
+第九/NUM 段/NUM ：/PUNCT A/NOUN few/NOUN premiers/NOUN are/VERB suspicious/NOUN of/ADP any/PROPN
+
+federal-provincial/VERB deal-making/ADV ./PUNCT
+They/PROPN (/PUNCT particularly/PROPN Quebec/PROPN and/CCONJ Alberta)/VERB just/PROPN want/NOUN
+
+Ottawa/PROPN to/ADP fork/NOUN over/VERB additional/VERB billions/NOUN with/ADV few/NUM ,/PUNCT if/ADJ any/NOUN ,/PUNCT strings/VERB attached/PART ./PUNCT
+
+That/NUM ’/PUNCT s/NOUN one/NOUN reason/PROPN why/PROPN the/DET idea/VERB of/ADP a/DET national/PROPN list/NOUN hasn/PROPN ’t/VERB gone/NOUN anywhere/PROPN while/PROPN
+
+drug/PROPN costs/ADJ keep/NOUN rising/NOUN fast/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+premiers/NOUN -/PUNCT
+deal-making-additional/PROPN billions-national-drug/NOUN
+
+costs/NOUN ./PUNCT
+
+第九/NUM 段/NUM 主题词/NOUN 与/CCONJ 第八/NUM 段/NUM 主题词/NOUN 做/VERB 减法/VERB 得出/VERB 的/PART 差额/NOUN 决定/NOUN 供/VERB 选择/NOUN 的/PART 44/NUM 题目/NOUN 主题词/NOUN 为/VERB ：/PUNCT additional/VERB billions/NOUN ,/PUNCT drug/NOUN costs/PROPN
+
+在/ADP 备选/NOUN 答案/NOUN 中/PART 找到/VERB 以/ADP 该/DET 词/NOUN 为/ADP 主题词/NOUN 的/PART 段落/NOUN ，/PUNCT 即F/VERB 。/PUNCT
+
+第十/NUM 段/NUM
+：/PUNCT So/NOUN ,/PUNCT if/VERB the/DET provinces/NOUN want/NOUN to/ADP run/NOUN the/DET heal/NOUN th-care/ADJ show/NOUN ,/PUNCT
+
+they/PROPN should/NOUN prove/NOUN they/PROPN can/VERB run/PROPN it/NOUN ,/PUNCT starting/NOUN with/ADP an/NOUN interprovincial/VERB heal/NOUN th/NOUN list/NOUN
+
+that/NOUN would/PROPN end/ADV duplication/NOUN ,/PUNCT save/VERB administrative/PROPN costs/NOUN ,/PUNCT p/NOUN revent/NOUN one/NOUN province/NOUN
+from/ADP
+
+being/NOUN played/NOUN of/ADP f/NOUN against/VERB another/VERB ,/PUNCT and/CCONJ bargain/PROPN for/PROPN better/PROPN drug/NOUN prices/NOUN ./PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+premiers/NOUN -/PUNCT
+deal-making-additional/PROPN billions-national-drug/NOUN
+
+costs/NOUN ./PUNCT
+
+第十一/NUM 段/NUM ：/PUNCT Premiers/PROPN love/NOUN to/ADP quote/NOUN Mr/NOUN ./PUNCT
+Romanow/PROPN ’/PUNCT s/NOUN report/NOUN
+
+selectively/PROPN ,/PUNCT especially/VERB the/DET parts/NOUN about/PROPN more/NOUN federal/VERB money/NOUN perhaps/NOUN they/PROPN should/VERB
+
+read/PROPN what/NOUN he/VERB had/NUM to/ADP say/NOUN about/PROPN drugs/NOUN :/PUNCT “/PUNCT A/NOUN national/NOUN drug/NOUN agency/NOUN would/PROPN provide/NOUN
+
+governments/PROPN more/NOUN influence/PROPN on/NOUN pharmaceutical/NOUN companies/NOUN in/ADJ order/NOUN to/ADP constrain/PROPN the/DET
+
+ever-increasing/ADJ cost/NOUN of/ADP drugs/NOUN ./PUNCT ”/PUNCT
+
+【/PUNCT 主题词/NOUN 】/PUNCT
+Premiers-Mr/PROPN ./PUNCT
+Romanow/PROPN ’/PUNCT s/NOUN report/NOUN -/PUNCT drugs-national/DET drug/NOUN
+
+agency/NOUN -/PUNCT governments/PROPN -/PUNCT pharmaceutical/ADJ companies/NOUN -/PUNCT cost/NOUN of/ADP drugs/NOUN ./PUNCT ”/PUNCT
+
+第十一/NUM 段/NUM 主题词/NOUN 与/CCONJ 第十/NUM 段/NUM 主题词/NOUN 做/VERB 减法/VERB 得出/VERB 的/PART 差额/NOUN 决定/NOUN 供/VERB 选择/NOUN 的/PART 45/NUM 题目/NOUN 主题词/NOUN 为/VERB ：/PUNCT report/NOUN ,/PUNCT drug/NOUN costs/PROPN
+
+在/ADP 备选/NOUN 答案/NOUN 中/PART 找到/VERB 以/ADP 该/DET 词/NOUN 为/ADP 主题词/NOUN 的/PART 段落/NOUN ，/PUNCT 即/VERB B/NOUN 。/PUNCT
+
+Directions/NOUN :/PUNCT In/ADP the/DET following/ADJ text/NOUN ,/PUNCT some/NOUN sentences/NOUN have/NOUN removed/NOUN ./PUNCT
+For/NOUN
+
+Questions/PROPN 41/NUM -/CCONJ 45/NUM ,/PUNCT choose/PROPN the/DET most/NOUN suitable/NOUN one/NOUN from/ADP the/DET list/NOUN A/NOUN -/PUNCT G/PROPN to/ADP fit/ADJ in/NOUN to/ADP of/ADP
+
+the/DET numbered/NOUN blan/PROPN k/PUNCT there/NOUN are/VERB two/NUM extra/NOUN choices/VERB ,/PUNCT which/PROPN do/VERB not/PROPN fit/PROPN in/NOUN any/NOUN of/ADP the/DET
+
+gaps/VERB ./PUNCT
+Mark/PROPN your/NOUN answers/ADV on/ADP ANS/PROPN WE/NOUN R/X SHEET/X 1./NOUN (/PUNCT 2005年/NOUN 真题/NOUN 原文/NOUN )/VERB
+
+Canada/PROPN ’/PUNCT s/NOUN premiers/VERB (/PUNCT the/DET leaders/NOUN of/ADP provincial/NOUN government/PROPN s)/PUNCT ,/PUNCT if/INTJ they/NOUN have/PRON any/PROPN
+
+breath/PROPN left/NOUN after/PROPN complaining/VERB about/PROPN Ottawa/PROPN at/ADP the/DET ir/VERB late/NOUN July/PROPN annual/VERB meeting/NUM ,/PUNCT
+
+might/NOUN spare/PROPN a/NUM moment/NOUN to/ADP do/NOUN something/NOUN ,/PUNCT to/ADP reduce/NOUN heal/NOUN th-care/NOUN costs/NOUN ./PUNCT
+
+They/PROPN ’/PUNCT re/NOUN all/DET groaning/VERB about/PROPN soaring/NOUN heal/VERB th/ADJ budgets/NOUN ,/PUNCT the/DET fastest-growing/NUM
+
+component/VERB of/ADP which/PROPN are/VERB pharmaceutical/ADJ costs/NOUN ./PUNCT
+
+41/NUM ./PUNCT
+
+What/VERB to/ADP do/VERB ?/PUNCT
+Both/PROPN the/DET Romanow/NOUN commission/NOUN and/CCONJ the/DET Kir/NOUN by/ADP committee/NOUN on/ADP heal/NOUN th/NOUN
+
+care/PROPN -/PUNCT to/ADP say/NOUN nothing/VERB of/ADP reports/PROPN from/ADP o/ADP ther/NOUN experts/ADV -/PUNCT recommended/ADV the/DET creation/NOUN of/ADP a/DET
+
+national/PROPN drug/NOUN agency/NOUN ./PUNCT
+Instead/PROPN of/ADP each/ADJ province/NOUN having/VERB its/PROPN own/NOUN list/NOUN of/ADP approved/VERB
+
+drugs/NOUN ,/PUNCT bureaucracy/PROPN ,/PUNCT procedures/NOUN and/CCONJ limited/NOUN bargaining/ADJ power/NOUN ,/PUNCT all/DET would/PROPN pool/NOUN
+
+resources/NOUN ,/PUNCT work/NOUN with/ADV Ottawa/NOUN ,/PUNCT and/CCONJ create/PROPN a/NUM national/ADJ institution/NOUN ./PUNCT
+
+42/NUM ./PUNCT
+
+But/NOUN “/PUNCT national/PROPN ”/PUNCT doesn/PROPN ’t/VERB have/NUM to/ADP mean/NOUN that/VERB ./PUNCT
+“/PUNCT National/PROPN ”/PUNCT could/PROPN mean/NOUN
+
+interprovincial-provinces/ADJ combining/NOUN efforts/VERB to/ADP create/NOUN one/NOUN body/VERB ./PUNCT
+Either/PROPN way/NOUN ,/PUNCT one/NOUN
+
+benefit/PROPN of/ADP a/PROPN “/PUNCT national/PROPN ”/PUNCT organization/NOUN would/PROPN be/ADV to/ADP negotiate/VERB better/VERB prices/VERB ,/PUNCT if/NOUN
+
+possible/NOUN ,/PUNCT with/VERB drug/ADJ manufacturers/NUM ./PUNCT
+Instead/PROPN of/ADP having/VERB one/NOUN province/NOUN -/PUNCT or/CCONJ a/NUM series/NOUN of/ADP
+
+hospitals/VERB within/PROPN a/DET province-negotiate/ADJ a/NUM price/NOUN for/ADP a/NUM given/NOUN drug/NOUN on/ADP the/DET provincial/NOUN
+
+list/VERB ,/PUNCT the/DET national/VERB agency/NOUN would/PROPN negotiate/VERB on/VERB be/ADV half/PROPN of/ADP all/DET provinces/NOUN ./PUNCT
+Rather/VERB
+
+than/NOUN ,/PUNCT say/NOUN ,/PUNCT Quebec/PROPN ,/PUNCT negotiating/VERB on/VERB be/VERB half/PROPN of/ADP seven/VERB million/NOUN people/NOUN ,/PUNCT the/DET national/VERB
+
+agency/NOUN would/PROPN negotiate/VERB on/VERB be/ADJ half/PROPN of/ADP 31/NUM million/NOUN people/NOUN ./PUNCT
+Basic/PROPN economics/NOUN suggests/VERB
+
+the/DET greater/NOUN the/DET potential/VERB consumers/PROPN ,/PUNCT the/DET higher/VERB the/DET likelihood/VERB of/ADP a/DET better/PROPN
+
+price/NOUN ./PUNCT
+
+43/NUM ./PUNCT
+
+A/NOUN small/NOUN step/NOUN has/PROPN been/NOUN taken/NOUN in/ADP the/DET direction/NOUN of/ADP a/DET national/PROPN agency/NOUN with/VERB the/DET
+
+creation/NOUN of/ADP the/DET Canadian/NOUN
+Co-coordinating/PROPN Office/PROPN for/ADP Heal/NOUN th/NOUN Technology/PROPN
+
+Assessment/NOUN ,/PUNCT funded/PROPN by/ADP Ottawa/PROPN and/CCONJ the/DET provinces/NOUN ./PUNCT
+Under/PROPN it/NOUN ,/PUNCT a/NUM Common/NOUN Drug/ADJ Review/NOUN
+
+recommends/NOUN to/ADP provincial/NOUN lists/NOUN which/PROPN new/PROPN drugs/NOUN should/NOUN be/ADJ included/VERB ./PUNCT
+Predictably/NOUN
+
+and/CCONJ regrettably/NOUN Quebec/PROPN refused/PROPN to/ADP join/PROPN ./PUNCT
+
+A/NOUN few/NOUN premiers/NOUN are/VERB suspicious/NOUN of/ADP any/PROPN federal-provincial/VERB deal-making/ADV ./PUNCT
+They/PROPN
+
+(/PUNCT particularly/NOUN Quebec/PROPN and/CCONJ Alberta)/VERB just/PROPN want/NOUN Ottawa/PROPN to/ADP fork/NOUN over/VERB additional/VERB
+
+billions/NOUN with/VERB few/NUM ,/PUNCT if/ADJ any/NOUN ,/PUNCT strings/VERB attached/PART ./PUNCT
+That/NOUN ’/PUNCT s/NOUN one/NOUN reason/PROPN why/PROPN the/DET idea/VERB of/ADP a/DET
+
+national/PROPN list/NOUN hasn/PROPN ’t/VERB gone/NOUN anywhere/PROPN while/PROPN drug/NOUN costs/ADJ keep/NOUN rising/NOUN fast/NOUN ./PUNCT
+
+44/NUM ./PUNCT
+
+Premiers/PROPN love/NOUN to/ADP quote/NOUN Mr/NOUN ./PUNCT
+Romanow/PROPN ’/PUNCT s/NOUN report/NOUN selectively/PROPN ,/PUNCT especially/VERB the/DET
+
+parts/NOUN about/ADP more/NOUN federal/VERB money/NOUN perhaps/NOUN they/PROPN should/NOUN read/NOUN what/VERB he/VERB had/NUM to/ADP say/NOUN about/PROPN
+
+drugs/NOUN :/PUNCT “/PUNCT A/NOUN national/NOUN drug/NOUN agency/NOUN would/PROPN provide/NOUN governments/PROPN more/NOUN influence/NOUN on/NOUN
+
+pharmaceutical/NOUN companies/NOUN in/ADJ order/NOUN to/ADP constrain/PROPN the/DET ever-increasing/ADJ cost/NOUN
+of/ADP
+
+drugs/NOUN ./PUNCT ”/PUNCT
+
+45/NUM ./PUNCT
+
+So/NOUN when/PROPN the/DET premiers/NOUN gather/NOUN in/ADP Niagara/PROPN Falls/PROPN to/ADP assemble/ADV the/DET ir/VERB usual/VERB
+
+complaint/PROPN list/VERB ,/PUNCT they/PROPN should/VERB also/VERB get/PROPN cracking/NOUN about/NOUN something/NOUN
+in/ADP the/DET ir/NOUN
+
+jurisdiction/NOUN that/NOUN would/PROPN help/VERB the/DET ir/NOUN budgets/NOUN and/CCONJ patients/NOUN ./PUNCT
+
+[A/PUNCT ]/ADJ Quebec/PROPN ’/PUNCT s/NOUN resistance/NOUN to/ADP a/DET national/PROPN agency/NOUN is/VERB provincialist/NOUN id/VERB eology/VERB ./PUNCT
+One/NOUN
+
+of/ADP the/DET first/ADP advocates/PROPN for/ADP a/DET national/PROPN list/NOUN was/NOUN a/NUM researcher/NOUN at/ADP Laval/PROPN University/NOUN ./PUNCT
+
+Quebec/PROPN ’/PUNCT s/NOUN Drug/NOUN Insurance/PROPN Fund/PROPN has/PROPN seen/PROPN its/PROPN costs/PROPN skyrocket/VERB with/ADP annual/VERB increases/VERB
+
+from/ADP 14.3/NUM per/NOUN cent/VERB to/ADP 26/NUM ./PUNCT
+8/NUM per/NOUN cent/VERB !/PUNCT
+
+[B/NUM ]/NUM Or/NOUN they/NOUN could/ADJ read/NOUN Mr/ADV ./PUNCT
+Kirby/PROPN ’/PUNCT s/NOUN report/NOUN :/PUNCT “/PUNCT the/DET substantial/NOUN buying/ADJ power/NOUN
+of/ADP
+
+such/NOUN an/ADJ agency/NOUN would/PROPN streng/PROPN then/PROPN the/DET public/ADJ prescription/NOUN -/PUNCT drug/ADJ insurance/NOUN plans/NOUN to/ADP
+
+negotiate/VERB the/DET lowest/NOUN possible/NOUN purchase/NOUN prices/PROPN from/ADP drug/ADJ companies/NOUN ”/PUNCT
+
+[C/NUM ]/NOUN What/NOUN does/NOUN “/PUNCT national/PROPN ”/PUNCT mean/NOUN ?/PUNCT
+Roy/NOUN Romanow/PROPN and/CCONJ Senator/PROPN Michael/PROPN Kir/NOUN by/ADP
+
+recommended/PROPN a/ADV federal-provincial/ADP body/ADJ much/NOUN like/PROPN the/DET recently/NOUN created/VERB National/PROPN
+
+Heal/NOUN th/NOUN Council/NOUN ./PUNCT
+
+[D/NUM ]/NOUN
+The/DET problem/NOUN is/VERB simple/NOUN and/CCONJ stark/NOUN :/PUNCT heal/PROPN th-care/NOUN costs/PROPN have/PROPN been/NOUN ,/PUNCT are/VERB ,/PUNCT and/CCONJ
+
+will/PROPN continue/VERB to/ADP increase/PROPN faster/VERB than/NOUN government/PROPN revenues/NOUN ./PUNCT
+
+[E/PROPN ]/NOUN According/VERB to/ADP the/DET Canadian/PROPN Institute/NOUN for/ADP Heal/NOUN th/NOUN Information/NOUN ,/PUNCT
+
+prescription/NOUN drug/NOUN costs/PROPN have/PROPN risen/PROPN since/PROPN 1997/NOUN at/ADP twice/NOUN the/DET rate/NOUN
+of/ADP overall/PROPN
+
+heal/VERB th-care/ADJ spending/NOUN ./PUNCT
+Part/NOUN of/ADP the/DET increase/NOUN comes/PROPN from/ADP drugs/NOUN being/VERB used/NUM to/ADP
+
+replace/NOUN o/ADP ther/NOUN kinds/NOUN of/ADP treatments/PROPN part/NOUN of/ADP it/NOUN arises/PROPN from/ADP new/NOUN drugs/NOUN costing/NOUN more/NOUN
+
+than/NOUN older/NOUN kinds/NOUN ./PUNCT
+Part/NOUN of/ADP it/NOUN is/VERB higher/VERB prices/NOUN ./PUNCT
+
+[F/NUM ]/NUM
+So/NOUN ,/PUNCT if/VERB the/DET provinces/NOUN want/NOUN to/ADP run/NOUN the/DET heal/NOUN th-care/ADJ show/NOUN ,/PUNCT they/PROPN should/VERB
+
+prove/PROPN they/PROPN can/VERB run/PROPN it/NOUN ,/PUNCT starting/NOUN with/ADP an/NOUN interprovincial/VERB heal/NOUN th/NOUN list/NOUN that/NOUN
+would/PROPN
+
+end/ADV duplication/NOUN ,/PUNCT save/VERB administrative/PROPN costs/NOUN ,/PUNCT p/NOUN revent/NOUN one/NOUN province/NOUN from/ADP being/NOUN
+
+played/VERB of/ADP f/NOUN against/VERB another/VERB ,/PUNCT and/CCONJ bargain/PROPN for/PROPN better/PROPN drug/NOUN prices/NOUN ./PUNCT
+
+[G/PROPN ]/NUM
+Of/NOUN course/PROPN the/DET pharmaceutical/NOUN companies/VERB will/NOUN scream/NOUN ./PUNCT
+They/PROPN like/NOUN divided/PROPN
+
+buyers/PROPN ,/PUNCT they/NOUN can/VERB lobby/NOUN better/VERB that/VERB way/NOUN ./PUNCT
+They/PROPN can/VERB use/NOUN the/DET threat/NOUN of/ADP removing/VERB jobs/PROPN
+
+from/ADP one/NOUN province/NOUN to/ADP another/VERB ./PUNCT
+They/PROPN can/VERB hope/PROPN that/VERB ,/PUNCT if/VERB one/NOUN province/NOUN includes/VERB a/NUM
+
+drug/NOUN on/CCONJ its/NOUN ,/PUNCT list/PROPN the/DET pressure/NOUN will/PROPN cause/PROPN o/ADP thers/VERB to/ADP include/VERB it/NOUN on/NOUN theirs/NOUN ./PUNCT
+They/PROPN
+
+wouldn/PROPN ’t/VERB like/PROPN a/NUM national/PROPN agency/NOUN ,/PUNCT but/ADV self-interest/VERB would/PROPN lead/NOUN the/DET m/NOUN to/ADP deal/NOUN with/VERB
+
+it/NOUN
+
+方法/NOUN 决定/VERB 成功/VERB 与/CCONJ 成败/NOUN ！/PUNCT
+——/PUNCT 工欲善其事/PROPN ，/PUNCT 必先利其器/VERB ！/PUNCT

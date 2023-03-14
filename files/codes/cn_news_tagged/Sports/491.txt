@@ -1,0 +1,10 @@
+消息/NOUN ：/PUNCT 英格兰/PROPN 埃弗顿/PROPN 俱乐部/NOUN ８日/NOUN 宣布/VERB 决定/VERB 放弃/VERB 中国/PROPN 球员/VERB 李铁/PROPN
+
+新华网/PROPN 伦敦/PROPN ５月/NOUN ８日/NOUN 体育/NOUN 专电/NOUN 　/SPACE 英格兰/VERB 埃弗顿/PROPN 俱乐部/NOUN ８日/NOUN 宣布/VERB ，/PUNCT 他们/PRON 决定/VERB 放弃/VERB 中国/PROPN 球员/VERB 李铁/PROPN ，/PUNCT 同时/ADV 被/X 放弃/VERB 的/PART 还有/CCONJ 苏格兰/PROPN 前锋/NOUN 邓肯·弗格森/PROPN 和/CCONJ 意大利/PROPN 后卫/NOUN 马迪奥·法拉利/PROPN 。/PUNCT
+
+在/ADP 埃弗顿/PROPN 官方/NOUN 网站/NOUN 上/PART ，/PUNCT 俱乐部/NOUN 经理/NOUN 大卫·莫耶斯/PROPN 说/VERB ：/PUNCT “/PUNCT 我们/PRON 同时/ADV 放弃/VERB 了/PART 李铁/PROPN 和/CCONJ 弗格森/PROPN ，/PUNCT 另外/ADV 还/ADV 决定/VERB 不/ADV 再/ADV 和/ADP 法拉利续/NOUN 签租/VERB 借/VERB 合同/NOUN 。/PUNCT ”/PUNCT
+
+２８/NUM 岁/NUM 的/PART 李铁/PROPN ２００２年/NOUN 从/ADP 辽宁队/PROPN 租/VERB 借到/VERB 埃弗顿队/PROPN 。/PUNCT
+３４/NUM 岁/NUM 的/PART 弗格森/PROPN １９９４年/NOUN 从/ADP 苏格兰格拉斯哥/PROPN 流浪者队/NOUN 转会/VERB 至/VERB 埃弗顿队/PROPN ，/PUNCT 中间/NOUN 曾/ADV 效力/VERB 过/PART 纽卡斯尔/NOUN 联队/VERB 。/PUNCT
+
+埃弗顿队/PROPN 上/PART 赛季/NOUN 获得/VERB 英超/NOUN 联赛/NOUN 第十一/NUM 名/NOUN 。/PUNCT

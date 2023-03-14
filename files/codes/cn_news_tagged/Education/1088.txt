@@ -1,0 +1,100 @@
+【/PUNCT 来源/NOUN ：/PUNCT 恩波/NOUN 教育/NOUN 】/PUNCT
+
+四六级/NOUN 考试/VERB 在即/VERB ，/PUNCT 特/ADV 修改/VERB 了/PART 一/NUM 份/NUM 同学/NOUN 的/PART 作文/NOUN ，/PUNCT 括号/NOUN 内/PART 为/VERB 修改稿/NOUN ，/PUNCT 请/VERB 同学们/NOUN 体会/VERB 词汇/NOUN 和/CCONJ 句型/NOUN 用法/VERB ，/PUNCT 并/ADV 与/ADP 原文/NOUN 对照/VERB ，/PUNCT 仔细/ADV 琢磨/VERB 。/PUNCT
+谢谢/VERB ！/PUNCT
+祝/VERB 各位/DET 好运/NOUN ！/PUNCT
+
+The/DET World/NOUN Is/ADP Getting/PROPN Smaller/NOUN and/CCONJ Smaller/PROPN by/NOUN abc_girl/PUNCT
+
+Nowadays/PROPN ,/PUNCT science/NOUN and/CCONJ technology/NOUN have/NOUN rapid/NOUN improvement/VERB ./PUNCT
+
+(/PUNCT Nowadays/PROPN ,/PUNCT science/NOUN and/CCONJ technology/NOUN are/VERB developing/VERB at/ADP an/ADJ incredible/NOUN speed/VERB ./PUNCT
+
+)/PROPN
+
+That/PROPN dominates/PROPN our/NOUN daily/NOUN lives/NOUN ,/PUNCT which/PROPN makes/NOUN us/VERB feel/VERB that/ADV the/DET world/NOUN is/VERB
+
+getting/PROPN smaller/NOUN and/CCONJ smaller/NOUN ./PUNCT
+
+(Fruits/NOUN of/ADP the/DET ir/NOUN development/NOUN began/VERB to/ADP dominate/NOUN our/NOUN daily/NOUN lives/NOUN ,/PUNCT giving/PROPN us/VERB a/NUM
+
+feeling/VERB that/ADV the/DET world/VERB is/VERB becoming/NOUN ever/VERB -/PUNCT smaller/NOUN ./PUNCT
+)/PROPN
+
+Currently/NOUN ,/PUNCT the/DET forms/PROPN of/ADP communication/NOUN are/VERB altering/VERB day/PROPN and/CCONJ night/NOUN as/NOUN
+
+corresponding/VERB techniques/VERB improving/VERB ./PUNCT
+There/PROPN are/VERB a/NUM variety/VERB of/ADP ways/NOUN to/ADP communicate/NOUN
+
+coming/VERB out/PROPN behind/PROPN people/NOUN ’/PUNCT s/NOUN growing/NOUN requisition/NOUN ./PUNCT
+
+(/PUNCT As/NOUN technology/NOUN is/VERB fast/NOUN advancing/VERB ,/PUNCT a/ADV variety/VERB of/ADP communications/ADJ tools/NOUN have/PRON
+
+sprung/VERB up/ADV to/ADP meet/ADJ people/NOUN ’/PUNCT s/NOUN growing/NOUN needs/VERB ./PUNCT
+)/PROPN
+
+Mobile/ADJ telephone/NOUN ,/PUNCT Internet/PROPN and/CCONJ visual/VERB telephone/NOUN ,/PUNCT which/PROPN belong/NOUN to/ADP high/PROPN
+
+technical/ADJ instrument/NOUN ,/PUNCT are/VERB frequently/VERB and/CCONJ widely/PROPN combined/NOUN with/DET our/NOUN lives/NOUN ./PUNCT
+
+(Mobile/NOUN phone/NOUN ,/PUNCT Internet/PROPN and/CCONJ visual/VERB telephone/NOUN —/PUNCT sophisticated/NOUN communications/VERB
+
+device/NOUN s—/NOUN are/VERB being/VERB integrated/PRON in/ADV to/ADP our/NOUN lives/NOUN ./PUNCT
+)/PROPN
+
+For/NOUN instance/NOUN ,/PUNCT we/NOUN are/VERB able/NOUN to/ADP connect/PROPN with/VERB Internet/NOUN ,/PUNCT and/CCONJ then/NOUN function/VERB the/DET
+
+concerned/NOUN software/NOUN ,/PUNCT such/NOUN as/VERB IC/PROPN Q/NOUN and/CCONJ MSN/PROPN ,/PUNCT to/ADP contact/VERB o/ADP thers/NOUN we/NOUN request/VERB to/VERB get/PRON in/NOUN
+
+touch/NOUN with/VERB ./PUNCT
+
+(/PUNCT For/NOUN instance/NOUN ,/PUNCT we/NOUN are/VERB able/VERB to/ADP surf/PROPN the/DET net/NOUN and/CCONJ chat/NOUN online/NOUN ./PUNCT
+The/DET information/NOUN
+
+we/NOUN try/NOUN to/ADP find/NOUN and/CCONJ the/DET people/NOUN we/NOUN try/NOUN to/ADP get/PROPN in/ADP touch/NOUN with/ADV seem/VERB to/ADP be/PROPN only/VERB clicks/PROPN
+
+away/VERB ./PUNCT
+)/PROPN
+
+Visual/PROPN telephone/NOUN is/ADP a/NUM new/NOUN style/NOUN of/ADP up/PROPN dated/NOUN phone/NOUN ,/PUNCT which/PROPN can/VERB transmit/NOUN voice/VERB
+
+signal/NOUN and/CCONJ visual/VERB signal/ADJ simultaneously/NOUN ./PUNCT
+
+Synchronously/PROPN ,/PUNCT the/DET traffic/NOUN vehicle/NOUN are/VERB also/PROPN coming/VERB to/ADP be/ADJ more/NOUN and/CCONJ more/NOUN
+
+popular/VERB ./PUNCT
+
+(/PUNCT In/NOUN the/DET meantime/NOUN ,/PUNCT our/NOUN means/NOUN of/ADP transportation/NOUN have/PROPN undergone/NOUN tremendous/NOUN
+
+changes/PROPN as/NOUN well/NOUN and/CCONJ autos/PROPN have/NOUN rolled/PROPN in/VERB to/ADP millions/NOUN of/ADP households/VERB ./PUNCT
+)/PROPN
+
+Plane/PROPN ,/PUNCT high/PROPN speed/NOUN train/NOUN and/CCONJ high/PROPN speed/NOUN shuttle/NOUN bus/PROPN are/VERB diffused/VERB for/CCONJ us/NOUN ./PUNCT
+
+(Plane/NOUN ,/PUNCT high/PROPN speed/NOUN train/NOUN and/CCONJ high/PROPN speed/NOUN shuttle/NOUN bus/PROPN are/VERB becoming/VERB
+
+increasingly/NOUN popular/VERB ./PUNCT
+)/PROPN
+
+We/NOUN spend/VERB half/PROPN of/ADP original/PROPN time/NOUN ,/PUNCT even/NUM less/NOUN than/VERB that/VERB ,/PUNCT from/ADP one/NOUN place/NOUN to/ADP
+
+another/NOUN via/ADP modernized/PROPN traffic/NOUN implement/NOUN and/CCONJ system/NOUN ./PUNCT
+
+(It/PUNCT is/VERB now/NOUN taking/PROPN us/ADJ much/VERB shorter/NOUN time/NOUN than/NOUN before/VERB to/ADP go/VERB from/ADP one/NOUN place/NOUN to/ADP
+
+another/NOUN via/ADP modernized/NOUN traffic/NOUN systems/NOUN ./PUNCT
+)/PROPN
+
+Above/PROPN phenomena/NOUN reveal/NOUN that/ADV the/DET world/VERB is/VERB getting/PROPN smaller/NOUN and/CCONJ smaller/NOUN ,/PUNCT and/CCONJ
+
+universal/PROPN people/NOUN are/VERB getting/VERB closer/NOUN and/CCONJ closer/NOUN at/ADP tribute/ADV to/ADP the/DET increasingly/NOUN
+
+sophisticated/NOUN science/NOUN and/CCONJ technology/NOUN ./PUNCT
+
+(/PUNCT The/DET above/PROPN phenomena/NOUN reveal/NOUN that/ADV the/DET world/VERB is/VERB getting/PROPN smaller/NOUN and/CCONJ smaller/NOUN ,/PUNCT
+
+and/CCONJ people/NOUN worldwide/NOUN are/VERB getting/VERB closer/NOUN and/CCONJ closer/PROPN thanks/NOUN to/ADP the/DET fast/NOUN -/PUNCT
+developing/PROPN
+
+science/NOUN and/CCONJ technology/NOUN ./PUNCT
+)/PROPN

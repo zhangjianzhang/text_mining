@@ -1,0 +1,105 @@
+特别/ADV 报道/VERB
+
+《/PUNCT 现代/ADJ 军事/NOUN 》/PUNCT 编辑/NOUN 委员会/NOUN 成立/VERB
+
+CONM/PROPN I/PRON LIT/PROPN Editorial/PROPN Board/PROPN Established/PROPN
+
+敢为人先/VERB ，/PUNCT 办成/VERB 精品/NOUN
+
+——/PUNCT 编委会/PROPN 主任/NOUN 、/PUNCT 总装备部/NOUN 李安东/PROPN 副部长/NOUN 讲话/NOUN 摘要/VERB
+
+Speech/PROPN Abstract/NOUN of/ADP AnDong/NOUN Li/NOUN ,/PUNCT Director/PROPN of/ADP the/DET Editorial/NOUN Board/PROPN ,/PUNCT Deputy/PROPN Chief/NOUN
+
+Commander/NOUN of/ADP the/DET General/PROPN Equipment/PROPN Department/NOUN
+
+殷切/VERB 的/PART 希望/NOUN ，/PUNCT 具体/VERB 的/PART 指导/NOUN
+
+——/PUNCT 《/PUNCT 现代/ADJ 军事/NOUN 》/PUNCT 编委会/PROPN 部分/NUM 委员/NOUN 发言/VERB 摘录/VERB
+
+Speech/PROPN Abstracts/NOUN of/ADP Some/PROPN Commissioners/NOUN of/ADP the/DET Editorial/NOUN Board/PROPN
+
+与时俱进/VERB ，/PUNCT 再续/ADV 辉煌/VERB
+
+——/PUNCT 中国/PROPN 国防/NOUN 科技/NOUN 信息/NOUN 中心/NOUN 主任/NOUN 、/PUNCT 《/PUNCT 现代/ADJ 军事/NOUN 》/PUNCT 杂志社/NOUN 社长/NOUN 闫巍/PROPN 讲话/NOUN 摘要/VERB
+
+Speech/PROPN Abstract/NOUN of/ADP Wei/NOUN Yan/NOUN ,/PUNCT Director/PROPN of/ADP CDST/PROPN IC/PROPN ,/PUNCT Proprietor/PROPN of/ADP CONM/PROPN I/PRON LIT/PROPN
+
+动态/NOUN
+
+展会/VERB 报道/VERB
+
+亚洲/PROPN 航展/NOUN 谢幕/VERB 新加坡/PROPN
+
+Focusing/PROPN on/CCONJ Asian/PROPN Aerospace/NOUN 2006/NOUN ,/PUNCT Singapore/PROPN
+
+热点/NOUN 透视/VERB
+
+新/ADJ 《/PUNCT 四/NUM 年/NUM 一度/ADV 防务/NOUN 评审/NOUN 》/PUNCT 折射/VERB 美军/NOUN 战略/NOUN 调整/NOUN 动向/NOUN
+
+US/NOUN Department/NOUN of/ADP Defense/PROPN Issued/PROPN New/NOUN QD/PROPN R/NOUN
+
+解析/VERB 2007/NOUN 财年/NOUN 美国/PROPN 国防/NOUN 预算/NOUN
+
+An/ADJ Analysis/NOUN on/ADP US/NOUN Military/PROPN Budget/NOUN Report/NOUN 2007/NOUN
+
+隐身/NOUN 空军/NOUN 将/ADV 颠覆/VERB 东亚/PROPN 军事/NOUN 格局/NOUN
+
+Steal/PROPN th/NOUN Aircrafts/NOUN Change/VERB the/DET Military/PROPN Situation/PROPN in/ADP Eastern/PROPN Asia/NOUN
+
+韩国/PROPN 军队/NOUN 要/VERB “/PUNCT 变脸/VERB ”/PUNCT
+
+South/PROPN Korea/PROPN Is/PUNCT Waiting/PROPN for/ADP A/NOUN Significant/NOUN Military/PROPN Transformation/PROPN
+
+专题/NOUN ：/PUNCT 网络/NOUN 及其/CCONJ 安全/NOUN
+
+中国/PROPN 工程院/NOUN 邬贺铨/PROPN 副院长/NOUN 谈/VERB 互联网/NOUN 协议/NOUN 有关/ADJ 问题/NOUN
+
+Some/NOUN Issues/NOUN Related/PROPN to/ADP Internet/PROPN Protocol/NOUN
+
+——/PUNCT An/PRON Interview/NOUN with/VERB An/ADJ Academician/PROPN of/ADP Chinese/PROPN Academy/NOUN of/ADP Engineering/PROPN
+
+十进制/NOUN IPv/NOUN 9/NUM 互联网/NOUN 及其/CCONJ 应用/NOUN
+
+An/NOUN Introduction/NOUN of/ADP the/DET Network/NOUN Protocol/NOUN TCP/PROPN //PUNCT IPv/NOUN 9/NUM
+
+关键/ADJ 网络/NOUN 系统/NOUN 的/PART 安全/NOUN 与/CCONJ 防护/NOUN
+
+The/DET Security/NOUN and/CCONJ Protection/NOUN of/ADP Key/NOUN Network/NOUN Systems/PROPN
+
+军事/NOUN 装备/NOUN
+
+“/PUNCT 铁三角/NOUN 构想/NOUN ”/PUNCT 与/CCONJ E/NOUN -/PUNCT 10/NUM
+
+E10/PROPN Aircraft/PROPN and/CCONJ Iron/VERB Triad/PROPN Conce/NOUN pt/NOUN
+
+巡/VERB 飞弹/NOUN ：/PUNCT 一/NUM 种/NUM 巡弋/ADJ 待机/VERB 的/PART 新型/ADJ 弹药/NOUN
+
+New/NOUN Loitering/PROPN Missile/NOUN Draws/PROPN Eyeball/PROPN
+
+美/PROPN 海军/NOUN 先进/ADJ 舰艇/NOUN 技术/NOUN 的/PART 探索者/NOUN
+
+Forthgoers/PROPN of/ADP US/NOUN Navy/NOUN Advanced/NOUN Ship/NOUN Technology/PROPN
+
+军事/NOUN 技术/NOUN
+
+无源/ADJ 雷达/NOUN 技术/NOUN 的/PART 发展/NOUN
+
+The/DET Development/NOUN
+of/ADP Passive/PROPN Radar/PROPN Technology/PROPN
+
+CBRNE/PROPN 恐怖/NOUN 事件/NOUN 的/PART 紧急/ADJ 响应/NOUN
+
+Emergency/PROPN Response/NOUN
+to/ADP CBRNE/PROPN Threat/PROPN
+
+外军/NOUN 瞭望/NOUN
+
+火力/NOUN 旅走/NOUN 上/VERB 战场/NOUN
+
+——/PUNCT 美军/NOUN 野战/NOUN 炮兵/NOUN 模块化/NOUN 新/ADJ 编制/NOUN 述评/NOUN
+
+US/NOUN Army/PROPN Field/PROPN Artillery/PROPN Modular/NOUN Organization/NOUN
+
+独联体/PROPN 之盾/NOUN ——/PUNCT 改革/NOUN 后/PART 的/PART 白俄罗斯/PROPN 军队/NOUN
+
+Belarus/PROPN Suc/NOUN ceed/PROPN in/ADP Armed/PROPN Forces/ADJ Reformation/NOUN

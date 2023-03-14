@@ -1,0 +1,6 @@
+甘肃省/PROPN 敦煌/VERB 种业/VERB 股份/NOUN 有限/ADJ 公司/NOUN A股/ADP 股票/NOUN 价格/NOUN 已/ADV 连续/ADV 三/NUM 个/NUM 交易日/NOUN 达到/VERB 涨幅/NOUN 限制/VERB
+
+，/PUNCT 根据/ADP 有关/ADJ 规定/NOUN ，/PUNCT 公司/NOUN 董事会/NOUN 特作/VERB 如下/ADV 公告/VERB ：/PUNCT 公司/NOUN 生产/VERB 经营/NOUN 正常/VERB ，/PUNCT 没有/VERB 其他/DET 应/VERB
+
+披露/VERB 而/ADV 未/ADV 披露/VERB 的/PART 事项/NOUN 。/PUNCT
+公司/NOUN 董事会/NOUN 提请/VERB 广大/ADJ 投资者/NOUN 理性/ADJ 投资/NOUN ，/PUNCT 注意/VERB 投资/NOUN 风险/NOUN 。/PUNCT

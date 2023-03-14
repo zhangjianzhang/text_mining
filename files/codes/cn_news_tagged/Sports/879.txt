@@ -1,0 +1,82 @@
+北京/PROPN 时间/NOUN 5月/NOUN 7日/NOUN ，/PUNCT 总/ADJ 奖金/NOUN 为/VERB 145,000/NUM 美元/NUM 的/PART WTA/NOUN 四级/NUM 赛事布拉格/NOUN 公开赛/NOUN 组委会/NOUN 公布/VERB 了/PART 女单/NOUN 的/PART 对/VERB 阵表/NOUN ，/PUNCT 由于/ADP 大部分/NUM 名将/NOUN 都/ADV 参加/VERB 了/PART 德国/PROPN 柏林/PROPN 公开赛/NOUN ，/PUNCT 因此/ADV 法国人/NOUN 巴托丽/PROPN 和/CCONJ 捷克/PROPN 选手/NOUN 萨法/PROPN 诺娃/NOUN 被/X 列为/VERB 了/PART 赛会/PROPN 头/DET 两/NUM 号/NUM 种子/NOUN 。/PUNCT
+中国/PROPN 选手/NOUN 只有/ADV 彭帅/PROPN 作为/VERB 7号/NUM 种子/NOUN 参赛/VERB ，/PUNCT 她/PRON 的/PART 首/NUM 轮/NUM 对手/NOUN 是/VERB 美国/PROPN 选手/NOUN 马特克/PROPN 。/PUNCT
+正式/ADJ 比赛/NOUN 将/ADV 于/ADP 当地/NOUN 时间/NOUN 5月/NOUN 8日/NOUN 开赛/VERB ，/PUNCT 下面/NOUN 是/VERB 具体/ADV 对/ADP 阵表/NOUN ：/PUNCT
+
+WTA布拉格/NOUN 公开赛/NOUN 女单/NOUN 对阵/NOUN 形势/NOUN
+
+第一/NUM 轮/NUM
+
+第二/NUM 轮/NUM
+
+1/4/NOUN 决赛/NOUN
+
+半决赛/NOUN
+
+决赛/NOUN
+
+冠军/NOUN
+
+(/PUNCT 1/NUM )/NOUN 巴托丽(/VERB
+法国/PROPN )/PROPN
+
+卡内/VERB 平(/PROPN 爱沙尼亚/PROPN )/PROPN
+
+弗雷/PROPN 兹(/VERB 法国/PROPN )/PROPN
+
+加格/NOUN 里/PART 亚蒂(/PUNCT 瑞士/PROPN )/PROPN
+
+库图/PROPN 佐/PROPN 娃(/NOUN 乌克兰/PROPN )/PROPN
+
+邵内/VERB 西(/PROPN 美国/PROPN )/PROPN
+
+萨乌楚克/PROPN (/PUNCT 乌克兰/PROPN )/PROPN
+
+(/PUNCT 6/NUM )/NOUN 卡梅林/PROPN (意/NOUN 大利/NOUN )/PROPN
+
+(3/NOUN )/PROPN 皮尔(/PUNCT 以色列/PROPN )/PROPN
+
+福兰科/PROPN 娃(/NOUN 捷克)/PROPN
+
+奥德拉斯科/PROPN 娃(/NOUN 捷克)/PROPN
+
+奥利/PROPN 娃(/NOUN 阿根廷/PROPN )/PROPN
+
+辛克(/PUNCT 匈牙利/PROPN )/PROPN
+
+扎内/PROPN 蒂(/NOUN 意大利/PROPN )/PROPN
+
+苏查(/PROPN 斯洛伐克/PROPN )/PROPN
+
+(/PUNCT 8/NUM )/NOUN A/NOUN -/PUNCT 邦达伦/NOUN 科(/PROPN 乌克兰/PROPN )/PROPN
+
+(/PUNCT 5)斯托/PUNCT 瑟(/VERB 澳大利亚/PROPN )/PROPN
+
+资格赛/NOUN 选手/NOUN
+
+森上/PROPN 亚希子/PROPN (/PUNCT 日本/PROPN )/PROPN
+
+斯特拉科/PROPN 娃(/NOUN 捷克)/PROPN
+
+哈克罗兰德(/PROPN 美国/PROPN )/PROPN
+
+斯普莱姆(克罗地亚/PROPN )/PROPN
+
+资格赛/NOUN 选手/NOUN
+
+(/PUNCT 4)罗伊/NUM 特(/NOUN 法国/PROPN )/PROPN
+
+(7/NUM )/NOUN 彭帅(/PUNCT 中国/PROPN )/PROPN
+
+马特克(/PROPN 美国/PROPN )/PROPN
+
+资格赛/NOUN 选手/NOUN
+
+资格赛/NOUN 选手/NOUN
+
+瑟奎/VERB 拉(/PROPN 委内瑞拉/PROPN )/PROPN
+
+布兰迪(/PROPN 秘鲁/PROPN )/PROPN
+
+拉巴/NOUN 里/PART 科娃/PROPN (斯洛伐克/PUNCT )/PROPN
+
+(/PUNCT 2/NUM )/NOUN 萨法/PROPN 诺娃/NOUN (捷/NOUN 克)/NOUN (vicar/PUNCT )/PROPN

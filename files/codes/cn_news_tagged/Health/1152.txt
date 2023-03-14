@@ -1,0 +1,49 @@
+您/PRON 曾经/ADV 在/ADP 超市/NOUN 购买/VERB 过/PART 像/ADP 枸杞/PROPN 、/PUNCT 菊花/NOUN 之类/NOUN 的/PART 药材/NOUN 吗/PART ？/PUNCT
+有/VERB 专人/NOUN 给/ADP 您/PRON 解释/VERB 这些/DET 药材/NOUN 什么样/ADJ 的/PART 人才/NOUN 需要/VERB 服用/VERB 吗/PART ，/PUNCT 您/PRON 自己/PRON 知道/VERB 这些/DET 解释/NOUN 是否/ADV 科学/VERB 吗/PART ？/PUNCT
+请/VERB 参与/VERB 法制/NOUN 晚报/NOUN 与/ADP 搜狐/PROPN 健康/NOUN 共同/ADV 推出/VERB 的/PART ——/PUNCT 超市/NOUN 药材/NOUN 购买/VERB 存在/VERB 的/PART 问题/NOUN 小/ADJ 调查/NOUN 。/PUNCT
+
+超市/NOUN 购买/VERB 药材/NOUN 、/PUNCT 饮片/NOUN 小/ADJ 调查/NOUN
+
+1/NUM 、/PUNCT 您/PRON 有/VERB 过/PART 在/ADP 超市/NOUN 里/PART 购买/VERB 决明子/NOUN 、/PUNCT 枸杞/PROPN 、/PUNCT 菊花/NOUN 等/PART 药材/NOUN 的/PART 经历/NOUN 吗/PART ？/PUNCT
+
+有/VERB  /SPACE 没有/VERB
+
+2/NUM 、/PUNCT 您/PRON 购买/VERB 这些/DET 药材/NOUN 是/VERB 为了/ADP ：/PUNCT
+
+烹调/PROPN  /SPACE 泡茶/VERB  /SPACE
+其他/DET
+
+3/NUM 、/PUNCT 您/PRON 购买/VERB 的/PART 这些/DET 药材/NOUN 的/PART 包装/NOUN 为/VERB ：/PUNCT
+
+散装/NOUN （/PUNCT 含/VERB 超市/NOUN 自行/ADV 包装/VERB ）/PUNCT
+
+有/VERB 包装/NOUN 的/PART 品牌/NOUN 货/NOUN
+
+4/NUM 、/PUNCT 您/PRON 购买/VERB 的/PART 这些/DET 药材/NOUN 有/VERB 用法/NOUN 、/PUNCT 用量/NOUN 、/PUNCT 禁忌/NOUN 的/PART 说明/NOUN 吗/PART ？/PUNCT
+
+有/VERB  /SPACE 没有/VERB
+
+没/ADV 注意/VERB
+
+5/NUM 、/PUNCT 您/PRON 认为/VERB 是否/VERB 需要/VERB 说明/VERB ？/PUNCT
+
+需要/VERB  /SPACE 不/ADV 需要/VERB
+
+无所谓/VERB
+
+6/NUM 、/PUNCT 您/PRON 本人/PRON 了解/VERB 药材/NOUN 有/VERB 各自/PRON 的/PART 适应/NOUN 人群/NOUN 吗/PART ？/PUNCT
+
+了解/NOUN  /SPACE 不/ADV 了解/VERB
+
+7/NUM 、/PUNCT 您/PRON 知道/VERB 药材/NOUN 剂量/NOUN 、/PUNCT 用法/NOUN 不当/VERB 会/VERB 对/ADP 身体/NOUN 有害/VERB 吗/PART ？/PUNCT
+
+知道/VERB  /SPACE 不/ADV 知道/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT

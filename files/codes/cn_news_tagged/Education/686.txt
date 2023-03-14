@@ -1,0 +1,35 @@
+上海/PROPN 新/ADJ 东方/PROPN 国外部/PROPN 专家/NOUN 得到/VERB 最新/ADJ 消息/NOUN ，/PUNCT ETS/PROPN 在/ADP 近日/NOUN 在/ADP 其/PRON 官方/NOUN 网站/NOUN www.toefl.org/NOUN 上/PART 发布/VERB 了/PART 一/NUM 份/NUM 官方/NOUN 申明/NOUN ，/PUNCT 在/ADP 此/DET 申明/NOUN 中/PART ETS/PROPN 宣称/VERB 将/ADV 在/ADP 全球/NOUN 范围/NOUN 内/PART 引入/VERB 全新/ADJ 的/PART 新/ADJ 托福/PROPN 收费/NOUN 体系/NOUN 结构/NOUN 。/PUNCT
+网上/NOUN 还/ADV 明确/ADV 提到/VERB ，/PUNCT 中国/PROPN 香港/PROPN 和/CCONJ 澳门/PROPN 地区/NOUN 将要/ADV 实行/VERB 的/PART 新/ADJ 托福/NOUN 考试/NOUN 费用/NOUN 为/VERB 140/NUM 美元/NUM ，/PUNCT 而/CCONJ 欧洲/PROPN 实行/VERB 新/ADJ 托福/NOUN 考试/NOUN 的/PART 国家/NOUN 费用/NOUN 为/VERB 170/NUM 美元/NUM ，/PUNCT 中国/PROPN 大陆/NOUN 新/ADJ 托福/NOUN 考试/NOUN 预计/VERB 将/ADV 于/ADP 8月/NOUN 实行/VERB ，/PUNCT 具体/ADJ 费用/NOUN 还/ADV 没有/ADV 明确/VERB 。/PUNCT
+但/ADV 上海/PROPN 新/ADJ 东方/NOUN 专家/NOUN 预测/VERB ，/PUNCT 新/ADV 托福/NOUN 在/ADP 中国/PROPN 大陆/NOUN 的/PART 收费/NOUN 将/ADV 和/ADP 香港/PROPN 相等/VERB ，/PUNCT 即/ADV 为/VERB 140/NUM 美元/NUM 。/PUNCT
+
+在/ADP 此/DET 官方/NOUN 申明/NOUN 中/PART ，/PUNCT ETS/NOUN 对此/ADV 做出/VERB 了/PART 这样/PRON 的/PART 解释/NOUN ：/PUNCT 引入/VERB 新/ADJ 托福/NOUN （/PUNCT TOEFL/PROPN Internet/PROPN -/PUNCT based/PROPN test/NOUN ）/PUNCT 的/PART 重要/ADJ 目的/NOUN 之一/NOUN 在于/VERB 能够/VERB 最/ADV 大/VERB 可能/ADV 地/PART 促进/VERB 考试/NOUN 场地/NOUN 的/PART 建设/NOUN ，/PUNCT 从而/ADV 极/ADV 大地/VERB 增加/VERB 学生/NOUN 参加/VERB 新/ADJ 托福/NOUN 考试/NOUN 的/PART 机会/NOUN ，/PUNCT 进而/ADV 尽可能/ADV 地/PART 减少/VERB 学生/NOUN 参加/VERB 考试/NOUN 的/PART 各种/ADJ 成本/NOUN 和/CCONJ 花费/NOUN ，/PUNCT 例如/ADV 交通/NOUN 费用/NOUN 等/PART 。/PUNCT
+而/ADV 国际/NOUN 学生/NOUN 进入/VERB 到/VERB 美国/PROPN 大学/NOUN 学习/VERB 的/PART 一个/NUM 重要/ADJ 障碍/NOUN 就是/ADV 资金/NOUN 的/PART 问题/NOUN ，/PUNCT 而/ADV 这/PRON 里面/NOUN 又/ADV 包括/VERB 了/PART 入学/NOUN 标准/NOUN 考试/NOUN （/PUNCT 如/ADV TOEFL/PROPN 、/PUNCT GRE/PROPN ）/PUNCT 的/PART 费用/NOUN 问题/NOUN 。/PUNCT
+有些/DET 时候/NOUN 这些/DET 资金/NOUN 问题/NOUN 甚至/ADV 比/ADP 其他/DET 问题/NOUN 所/PART 带来/VERB 的/PART 阻碍/NOUN 作用/NOUN 还要/ADV 显得/VERB 严重/VERB 。/PUNCT
+
+正是/VERB 基于/ADP 这样/ADJ 的/PART 认识/NOUN ，/PUNCT ETS/NOUN 准备/VERB 在/ADP 全球/NOUN 引入/VERB 有/VERB 差别/NOUN 的/PART 考试/NOUN 费用/NOUN 体系/NOUN 。/PUNCT
+也就是说/ADV ，/PUNCT 以后/ADV 全球/NOUN 各地/NOUN 参加/VERB 新/ADJ 托福/NOUN 考试/NOUN 的/PART 费用/NOUN 是/VERB 不/ADV 一样/VERB 的/PART ，/PUNCT 而/ADV 这样/ADJ 费用/NOUN 的/PART 不同/NOUN ，/PUNCT 主要/ADV 是/VERB 反映/VERB 了/PART 考试/VERB 当地/NOUN 的/PART 经济/NOUN 发展/NOUN 水平/NOUN ：/PUNCT 即/VERB 当地/NOUN 经济/NOUN 发展/NOUN 水平/NOUN 越/ADV 高/VERB ，/PUNCT 人们/NOUN 对/ADP 考试/NOUN 费用/NOUN 的/PART 敏感性/NOUN 较弱/NOUN ，/PUNCT 相应/ADJ 的/PART 收费/NOUN 会/VERB 高/VERB 一些/ADV ；/PUNCT 而/ADV 如果/SCONJ 当地/NOUN 经济/NOUN 发展/NOUN 水平/NOUN 较/ADV 低/VERB ，/PUNCT 人们/NOUN 对/ADP 考试/NOUN 费用/NOUN 的/PART 敏感性/NOUN 较/ADV 强/VERB ，/PUNCT 相应/ADJ 的/PART 收费/NOUN 也/ADV 会/VERB 随之/ADV 低/VERB 一些/ADV 。/PUNCT
+不过/ADV ETS/PROPN 在/ADP 其/PRON 官方/NOUN 申明/NOUN 中/PART 也/ADV 指出/VERB ，/PUNCT 这样/PRON 的/PART 有/VERB 差别/NOUN 收费/NOUN 体系/NOUN 仅仅/ADV 局限于/VERB 2006年/NOUN 6月/NOUN 30日/NOUN 之后/PART 的/PART 新/ADJ 托福/NOUN 考试/NOUN ，/PUNCT 在此之前/ADV 的/PART 新/ADJ 托福/NOUN 考试/NOUN 和/CCONJ 老托福/NOUN 考试/NOUN （/PUNCT 包括/VERB computer/NOUN -/PUNCT based/PROPN and/CCONJ paper/NOUN -/PUNCT based/PROPN versions/VERB ）/PUNCT 仍然/ADV 维持/VERB 140/NUM 美元/NUM 的/PART 全球/NOUN 统一/ADJ 收费/NOUN 标准/NOUN 。/PUNCT
+并且/ADV 此类/ADV 有/VERB 差别/NOUN 体系/NOUN 也/ADV 不/ADV 会/VERB ，/PUNCT 至少/ADV 目前/NOUN 不/ADV 可能/VERB 同时/ADV 推广/VERB 到/VERB 诸如/ADP GRE/PROPN 此类/PART 的/PART 标准/ADJ 考试/NOUN 当中/PART 。/PUNCT
+
+原文/NOUN 如下/VERB ：/PUNCT
+
+ETS/PROPN Introduces/PROPN New/NOUN Pricing/PROPN Structure/NOUN for/ADP TOEFL®/PROPN iB/NOUN T/NOUN
+
+ETS/PROPN is/VERB committed/VERB to/ADP providing/VERB applicants/ADV with/ADV access/VERB to/ADP TOEFL®/ADJ testing/NOUN worldwide/NOUN ./PUNCT
+One/NOUN of/ADP the/DET goals/PROPN of/ADP the/DET new/NOUN TOEFL/PROPN Internet/PROPN -/PUNCT based/PROPN test/NOUN is/VERB to/ADP significantly/NOUN increase/ADV the/DET number/NOUN of/ADP testing/PROPN locations/NOUN where/NOUN examinees/ADV can/VERB take/VERB the/DET test/NOUN ,/PUNCT there/NOUN by/ADP reducing/NOUN or/CCONJ eliminating/NOUN travel/ADP time/NOUN and/CCONJ costs/NOUN ./PUNCT
+
+Financial/PROPN accessibility/PROPN is/VERB another/NOUN important/PROPN goal/PROPN ./PUNCT
+Students/PROPN planning/VERB to/ADP study/NOUN abroad/PROPN sometimes/NOUN face/VERB considerable/PROPN financial/PROPN
+obstacles/ADP in/ADP pursuing/NOUN an/NOUN international/VERB education/VERB ,/PUNCT including/PROPN admission/ADJ testing/NOUN ,/PUNCT tuition/VERB ,/PUNCT text/NOUN books/PROPN ,/PUNCT and/CCONJ housing/NOUN ./PUNCT
+In/NOUN some/NOUN areas/VERB ,/PUNCT students/VERB have/PROPN more/ADP financial/PROPN challenges/NOUN than/NOUN o/ADV thers/VERB ./PUNCT
+
+ETS/PROPN is/VERB introducing/VERB a/NUM "differential/NOUN pricing/NOUN "/PUNCT structure/VERB for/ADP TOEFL/PROPN iB/PROPN T/NOUN test/NOUN fees/VERB ./PUNCT
+TOEFL/NOUN iB/PROPN T/NOUN test/NOUN fees/ADP will/NOUN vary/NOUN by/ADP country/PROPN ,/PUNCT based/PROPN on/ADP where/NOUN the/DET test/NOUN is/VERB administered/PROPN ./PUNCT
+While/PROPN ETS/NOUN is/VERB aligning/ADP TOEFL/PROPN iB/PROPN T/NOUN test/NOUN fees/VERB more/NOUN closely/PROPN to/ADP administration/ADJ costs/NOUN ,/PUNCT every/ADV attempt/NOUN is/VERB being/NOUN made/NOUN to/ADP remain/NOUN sensitive/NOUN to/ADP local/NOUN economies/VERB ./PUNCT
+In/NOUN some/NOUN countries/VERB ,/PUNCT the/DET fee/VERB will/NOUN be/ADJ increased/VERB ,/PUNCT and/CCONJ in/NOUN o/ADV thers/VERB ,/PUNCT the/DET fee/NOUN will/PROPN remain/NOUN unchanged/VERB ./PUNCT
+The/DET new/NOUN test/NOUN fee/NOUN structure/NOUN only/ADP applies/VERB to/ADP TOEFL/PROPN iB/PROPN T/NOUN tests/NOUN taken/NOUN after/NOUN June/PROPN 30/NUM ,/PUNCT 2006/NUM ,/PUNCT regardless/NOUN of/ADP the/DET registration/NOUN date/PROPN ./PUNCT
+
+Select/PROPN the/DET country/PROPN where/NOUN the/DET test/VERB will/NOUN be/NOUN administered/VERB to/ADP view/VERB the/DET test/NOUN fee/NOUN ./PUNCT
+The/DET 2006/NOUN -/PUNCT 07/NUM test/NOUN fee/VERB for/ADP the/DET computer/NOUN -/PUNCT based/PROPN and/CCONJ paper/NOUN -/PUNCT based/PROPN versions/VERB of/ADP the/DET TOEFL/ADP test/ADP will/NOUN remain/NOUN at/ADP the/DET current/NOUN price/NOUN of/ADP $/NOUN 140/NUM ./PUNCT
+
+来源/NOUN ：/PUNCT 新东方/PROPN 学校/NOUN

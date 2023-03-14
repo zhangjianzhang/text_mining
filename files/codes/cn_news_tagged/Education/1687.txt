@@ -1,0 +1,5 @@
+今年/NOUN 本科/NOUN 招生数/NOUN 为/VERB 1005/NUM 人/NOUN 。/PUNCT
+录取/NOUN 原则/NOUN 按照/ADP 考生/NOUN 报考/VERB 学校/NOUN 志愿/NOUN 先后/ADV 录取/VERB 。/PUNCT
+即先/ADV 录取/VERB 本校/NOUN 第一/NUM 志愿/VERB 的/PART 考生/NOUN ，/PUNCT 若/SCONJ 第一/NUM 志愿/ADV 不满/NOUN 时/PART ，/PUNCT 再/ADV 考虑/VERB 第二/NUM 志愿/ADJ 考生/NOUN 。/PUNCT
+
+对于/ADP 进档/VERB 考生/NOUN ，/PUNCT 根据/ADP 考生/NOUN 考试/NOUN 成绩/NOUN 按照/ADP 专业/NOUN 志愿/NOUN 先后/ADJ 方式/NOUN 从/ADP 高分/NOUN 到/VERB 低分/NOUN 择优/VERB 录取/VERB 。/PUNCT

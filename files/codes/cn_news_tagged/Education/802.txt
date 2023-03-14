@@ -1,0 +1,32 @@
+在/ADP 商务/NOUN 会议/NOUN 和/CCONJ 谈判/NOUN 中/PART ，/PUNCT 有时/ADV 会/VERB 对/ADP 别人/NOUN 的/PART 看法/NOUN 有/VERB 不同/ADJ 意见/NOUN ，/PUNCT 但是/ADV 贸然/ADV 打断/VERB 别人/NOUN 的话/PART 是/VERB 很/ADV 不/ADV 礼貌/VERB 的/PART 。/PUNCT
+怎样/ADV 才能/ADV 打断/VERB 别人/NOUN 的话/PART 而/PART 又/ADV 不/ADV 显/VERB 唐突/NOUN ？/PUNCT
+下面/NOUN 的/PART 句子/NOUN 会/VERB 有/VERB 帮助/NOUN 哦/PART ！/PUNCT
+
+1./NUM Sorry/PROPN to/ADP interrupt/PROPN you/PRON ,/PUNCT
+but/ADV will/PROPN you/PRON first/ADP let/NOUN us/NOUN know/NOUN your/PRON idea/ADV
+of/ADP
+
+annual/PROPN sales/NOUN ?/PUNCT
+
+对不起/VERB 打断/VERB 您/PRON 的话/PART ，/PUNCT 不过/ADV 请/VERB 先/ADV 谈谈/VERB 您/PRON 对/ADP 年/ADJ 销售量/NOUN 的/PART 看法/NOUN 。/PUNCT
+
+2/NUM ./PUNCT
+May/NOUN I/PRON interrupt/NOUN you/PRON a/VERB moment/NOUN ?/PUNCT
+
+打断/VERB 您/PRON 一会儿/ADV ，/PUNCT 可以/VERB 吗/PART ？/PUNCT
+
+3/NUM ./PUNCT Excuse/PROPN me/PRON for/ADP interrupting/PROPN you/PRON ./PUNCT
+I/PRON hope/VERB you/PRON will/NOUN explain/NOUN yourself/PART in/ADP more/NOUN
+
+detail/VERB ./PUNCT
+
+对不起/VERB 打断/VERB 您/PRON 的话/PART ，/PUNCT 希望/VERB 你/PRON 能/VERB 解释/VERB 更/ADV 详细/VERB 点/NOUN 。/PUNCT
+
+4./NUM If/NOUN you/PRON don't/NOUN mind/NOUN ,/PUNCT may/PROPN I/NOUN say/NOUN one/NOUN word/NOUN here/PRON ?/PUNCT
+
+请别/VERB 介意/NOUN ，/PUNCT 我/PRON 可以/VERB 插/VERB 一句话/NOUN 吗/PART ？/PUNCT
+
+5./NUM Just/NOUN a/VERB moment/NOUN ,/PUNCT please/VERB ./PUNCT
+Allow/PROPN me/PRON to/ADP say/NOUN something/NOUN here/VERB ./PUNCT
+
+请/VERB 稍停/ADV 一下/ADV ，/PUNCT 允许/VERB 我/PRON 插/VERB 几/NUM 句/NUM 话/NOUN 。/PUNCT

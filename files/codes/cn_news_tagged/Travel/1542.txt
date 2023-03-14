@@ -1,0 +1,24 @@
+旅游/NOUN 咨询/NOUN 处/NOUN ：/PUNCT
+
+多/NUM 特蒙德/NOUN 旅游/NOUN 协会/NOUN Verkehrsvere/PROPN in/NOUN Dortmund/PROPN e/NOUN ./PUNCT
+V/INTJ ./PUNCT
+
+地址/NOUN Königswall/PROPN 18/NUM a/NUM
+
+44137/NUM Dortmund/PROPN
+
+电话/NOUN ：/PUNCT 0231/NUM //PUNCT 18999/NUM -/PUNCT 222/NUM ，/PUNCT 0231/NUM //PUNCT 18999/NUM -/CCONJ 333/NUM
+
+info@dortmund/NOUN -/PUNCT
+tourismus.de/INTJ
+
+网址/NOUN ：/PUNCT http:/X ///PUNCT www.dortmund/NOUN -/PUNCT
+tourismus.de/INTJ
+
+市内/NOUN 交通/NOUN 指南/NOUN
+
+机场/NOUN 多特蒙德/ADJ 机场/NOUN
+
+火车/NOUN 多特蒙德/ADJ 火车站/NOUN
+
+市内/NOUN 交通/NOUN 可以/VERB 乘坐/VERB 公共/ADJ 汽车/NOUN 到达/VERB 市内/NOUN 和/CCONJ 近郊/NOUN 各处/NOUN [详/PROPN 细]/NOUN

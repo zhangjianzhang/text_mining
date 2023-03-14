@@ -1,0 +1,16 @@
+做/VERB 阅读/VERB 理解/NOUN 最/ADV 怕/VERB 什么/PRON ？/PUNCT
+当然/ADV 是/VERB --/PUNCT 一句话/NOUN 都/ADV 没/ADV 看完/VERB ，/PUNCT 就/ADV 有/VERB 一两/NUM 个/NUM 不/ADV 熟悉/VERB 的/PART 单词/NOUN 出来/VERB 相迎/VERB 。/PUNCT
+遇到/VERB 这种/DET 情况/NOUN 千万/ADV 别/ADV “/PUNCT 过分/ADV 紧张/VERB ”/PUNCT ，/PUNCT 您/PRON 或是/ADV 慢慢/ADV 在/ADP 下文/NOUN 找/VERB 相对/ADV 应/VERB 的/PART 解释/NOUN ，/PUNCT 或是/CCONJ 静心/PROPN 分析/VERB 这些/DET 陌生/ADJ 面孔/NOUN 的/PART 组词/NOUN 方式/NOUN 。/PUNCT
+比如/ADV ：/PUNCT 若/SCONJ 遇到/VERB 以下/PRON 几/NUM 个/NUM 稀里古怪/VERB 的/PART 单词/NOUN fussbucket/VERB 、/PUNCT fussbudget/NOUN 、/PUNCT fusspot/NOUN 或/CCONJ fussbox/NOUN ，/PUNCT 您/PRON 会/VERB 怎么办/VERB ？/PUNCT
+
+先/ADV 来看/VERB fussbucket/NOUN ，/PUNCT 词根fuss/NOUN 应该/VERB 不/ADV 会/VERB 陌生/VERB 吧/PART ？/PUNCT
+指a/VERB commotion/NOUN out/PROPN of/ADP proportion/NOUN to/ADP the/DET oc/ADP casion/NOUN ;/NOUN
+
+a/NUM state/NOUN
+of/ADP consternation/PROPN or/CCONJ
+
+anxiety/PROPN （/PUNCT 过分/ADV 混乱/VERB 的/PART 局面/NOUN ；/PUNCT 惊恐万状/PROPN 、/PUNCT 惊慌失措/VERB 、/PUNCT 大惊小怪/NOUN ）/PUNCT ，/PUNCT 而/ADV 词缀/NOUN bucket/VERB （/PUNCT 桶/NUM ）/PUNCT 则/ADV 是/VERB 形容/VERB 这种/DET 状态/NOUN “/PUNCT 满满/VERB 的/PART 、/PUNCT 能/VERB 载满/VERB 一大/NUM 桶/NUM ”/PUNCT ，/PUNCT 不言而喻/VERB ，/PUNCT 能够/VERB 集/VERB “/PUNCT 惊慌失措/VERB ”/PUNCT 于/ADP 一身/PROPN 肯定/ADV 是/VERB 指/VERB 某个/DET 人/NOUN 向来/VERB “/PUNCT 一惊一乍/NOUN 、/PUNCT 慌里慌张/VERB ”/PUNCT 了/PART 。/PUNCT
+
+由于/ADP budget/NOUN （/PUNCT 预算/NOUN ）/PUNCT 源于/VERB 古发/NOUN 语词/NOUN bougette/PROPN （/PUNCT 皮包/NOUN ）/PUNCT ，/PUNCT 在/ADP 古/NOUN 英语/NOUN 中用/NOUN 来/PART 形容/VERB “/PUNCT 钱包/NOUN ”/PUNCT ，/PUNCT 所以/ADV fussbudget/NOUN 与/CCONJ fussbuket/NOUN 是/VERB 可/VERB 相互/ADV 替换/VERB 的/PART 近义词/NUM ；/PUNCT 以此类推/VERB ，/PUNCT fuss/VERB +/PUNCT pot/NOUN （/PUNCT 壶/NOUN 、/PUNCT 罐/NOUN ）/PUNCT 、/PUNCT fuss/PROPN +/PUNCT box/PROPN （/PUNCT 盒子/NOUN ，/PUNCT 箱子/NOUN ）/PUNCT 也/ADV 是/VERB 形容/VERB 那种/DET “/PUNCT 大惊小怪/VERB 的/PART 人/NOUN ”/PUNCT 了/PART 。/PUNCT
+
+(/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/NOUN )/PROPN

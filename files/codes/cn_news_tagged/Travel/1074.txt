@@ -1,0 +1,11 @@
+景点/NOUN 介绍/VERB
+
+皇宫/NOUN 和/CCONJ 卡西米尔宫/PROPN 殿(/NOUN Reste/PROPN der/NOUN Babarossaburg/PROPN ,/PUNCT Casimirsaal/PROPN )/NOUN
+
+1160年/NOUN ，/PUNCT 皇帝/NOUN 腓/NOUN 特列/NOUN 一世/NOUN ，/PUNCT 又/ADV 称/VERB 巴巴罗撒/PROPN ，/PUNCT 在/ADP 这里/PRON 建/VERB 了/PART 一/NUM 座/NUM 行宫/NOUN 。/PUNCT
+而/ADV 在/ADP 1571年/NOUN 帕拉廷/NOUN 伯爵/PROPN 约翰•/PROPN 卡西米尔Johann/PROPN Casimir/PROPN 在/ADP 距离/NOUN 不/ADV 远/VERB 的/PART 地方/NOUN 修建/VERB 了/PART 一/NUM 座/NUM 宫殿/NOUN 。/PUNCT
+游客/NOUN 可以/VERB 看到/VERB 卡西米尔/PROPN 大厅/NOUN 和/CCONJ 地下/NOUN 的/PART 走廊/NOUN 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+凯泽斯/PROPN 劳腾/NOUN 教堂/NOUN    /SPACE 皇家/NOUN 喷泉/NOUN    /SPACE 犹太人/NOUN 浴室/NOUN    /SPACE 宫廷/NOUN 艺术/NOUN 走廊/NOUN

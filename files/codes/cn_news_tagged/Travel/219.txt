@@ -1,0 +1,16 @@
+新华网/PROPN 武汉/PROPN ４月/NOUN ２７日/NOUN 专电/VERB （/PUNCT 何君萍/PROPN ）/PUNCT 为/ADP 应对/VERB 黄金/NOUN 周客/NOUN 流高峰/NOUN ，/PUNCT 武汉/PROPN 客运段/NOUN 将/ADV 加开/VERB ６/NUM 趟/NUM 旅游/NOUN 专列/NOUN ，/PUNCT 其中/NOUN 武汉/PROPN 始发/VERB ３/NUM 趟/NUM ，/PUNCT 襄樊/NOUN 和/CCONJ 驻马店/NOUN 分别/ADV 开行/VERB ２/NUM 趟/NUM 和/CCONJ １/NUM 趟/NUM 。/PUNCT
+均/ADV 为/ADP 全/DET 列卧/VERB 铺车/VERB ，/PUNCT 具体/ADJ 开行/NOUN 时间/NOUN 如下/VERB ：/PUNCT
+
+驻马店/NOUN —/PUNCT 张家界/PROPN Ｙ/NOUN ２３/NUM 次/NUM ４月/NOUN ３０日/NOUN １５：３０/NOUN 开/VERB ，/PUNCT 次/NUM 日５：５２/NOUN 到/VERB ；/PUNCT ５月/NOUN ３日/NOUN Ｙ/NOUN ２４/NUM 次/NUM 张家界/PROPN 图库/NOUN ２０：０２/NOUN 开/VERB ，/PUNCT 次日/NOUN １０：３８/NOUN 到/VERB 。/PUNCT
+
+武昌—/NOUN 张家界/PROPN Ｙ２８／５/PROPN 次/NUM ４月/NOUN ３０日/NOUN １９：５０/NOUN 开/VERB ，/PUNCT 次/ADV 日５：０５/NOUN 到/VERB ；/PUNCT ５月/NOUN ３日/NOUN Ｙ/NOUN ２６/NUM ／/PUNCT ７/NUM 次/NUM 张家界/PROPN １８：２８/NOUN 开/VERB ，/PUNCT 次/NUM 日５：３０/NOUN 到/VERB 。/PUNCT
+
+武昌/PROPN —桂林/PUNCT
+北Ｙ３６９/PROPN 次/NOUN ５月/NOUN １日/NOUN １２：１５/NOUN 开/VERB ，/PUNCT 次/ADV 日５：２７/ADV 到/VERB ；/PUNCT ５月/NOUN ４日/NOUN 桂林/PROPN 北Ｙ３７０/PROPN 次/NOUN １０：０５/NOUN 开/VERB ，/PUNCT 次/NUM 日５：０４/NOUN 到/VERB 。/PUNCT
+
+武昌—/NOUN 武夷山Ｙ４９３/PROPN 次/NOUN ５月/NOUN １日/NOUN 、/PUNCT ３日/NOUN ２１：４０/NOUN 开/VERB ，/PUNCT 次/NUM 日８：５７/NOUN 到/VERB ；/PUNCT ５月/NOUN ３日/NOUN 、/PUNCT ５日/NUM Ｙ/NOUN ４９４/NUM 次/NUM 武夷山/NOUN ２２：２０/NUM 开/VERB ，/PUNCT 次日/NOUN １２：５７/NOUN 到/VERB 。/PUNCT
+
+襄樊/NOUN —/PUNCT 吉首/PROPN Ｙ/NOUN ３１/NUM 次/NUM ４月/NOUN ３０日/NOUN 、/PUNCT ５月/NOUN ３日/NOUN ６：０２/NOUN 开/VERB ，/PUNCT 次/ADV 日５：２７/ADV 到/VERB ；/PUNCT ５月/NOUN ２日/NOUN 、/PUNCT ５日/NUM Ｙ/NOUN ３２/NUM 次/NUM 吉首/PROPN １９：５５/NOUN 开/VERB ，/PUNCT 次/NUM 日６：２０/PROPN 到/VERB 。/PUNCT
+
+襄樊/NOUN —/PUNCT 桂林/PROPN 北Ｙ３７２／６９/PROPN 次/NUM ５月/NOUN ２日/NOUN ６：０２/NOUN 开/VERB ，/PUNCT 次/ADV 日５：２７/ADV 到/VERB ；/PUNCT ５月/NOUN ５日/NOUN Ｙ/NOUN ３７０／１/NUM 次/NUM 桂林/PROPN 北/NOUN １０：０６/NOUN 开/VERB ，/PUNCT 次日/NOUN １１：３０/NOUN 到/VERB 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

@@ -1,0 +1,15 @@
+义务/ADJ 教育法/NOUN 修订/VERB 草案/NOUN 引入/VERB 问责制/NOUN
+
+违法/VERB 造成/VERB 重大/ADJ 社会/NOUN 影响/NOUN ，/PUNCT 教育/VERB 行政/NOUN 部门/NOUN 负责人/NOUN 应/VERB 引咎辞职/VERB
+
+提交/VERB 全国/ADJ 人大/NOUN 常委会/NOUN 审议/VERB 的/PART 义务/ADJ 教育法/NOUN 修订/VERB 草案/NOUN 二/NUM 审稿/NOUN 新增/VERB 规定/NOUN ，/PUNCT 不/ADV 依法/ADV 履行/VERB 保障/VERB 义务/ADJ 教育/NOUN 法定/ADJ 职责/NOUN ，/PUNCT 造成/VERB 重大/ADJ 社会/NOUN 影响/NOUN 的/PART ，/PUNCT 负有/VERB 领导/NOUN 责任/NOUN 的/PART 人民/NOUN 政府/NOUN 教育/NOUN 行政/NOUN 部门/NOUN 负责人/NOUN 应当/VERB 引咎辞职/VERB 。/PUNCT
+
+全国/ADJ 人大/NOUN 法律委/NOUN 副主任/NOUN 委员/NOUN 蒋黔贵/PROPN 今天/NOUN 下午/NOUN 就/ADP 草案/NOUN 作/VERB 了/PART 说明/NOUN 。/PUNCT
+
+备受/VERB 社会/NOUN 各界/NOUN 关注/VERB 的/PART 义务/ADJ 教育法/NOUN 修订/VERB 草案/NOUN 于/ADP 今年/NOUN 2月底/NOUN 首次/ADV 提交/VERB 全国/ADJ 人大/NOUN 常委会/NOUN 审议/NOUN 。/PUNCT
+在/ADP 第一/NUM 次/NUM 审议/NOUN 过程/NOUN 中/PART ，/PUNCT 教科/NOUN 文卫/NOUN 委员会/NOUN 和/CCONJ 有些/DET 常委/NOUN 委员/NOUN 提出/VERB ，/PUNCT 政府/NOUN 在/ADP 实施/VERB 义务/NOUN 教育/NOUN 中/PART 起/VERB 主导/NOUN 作用/NOUN ，/PUNCT 对/ADP 政府/NOUN 部门/NOUN 不/ADV 依法/ADV 履行/VERB 保障/VERB 义务/ADJ 教育/NOUN 法定/ADJ 职责/NOUN 的/PART ，/PUNCT 应有/VERB 相应/ADJ 的/PART 问责制/NOUN 。/PUNCT
+
+法律/NOUN 委员会/NOUN 经同/NOUN 教科/NOUN 文卫/NOUN 委员会/NOUN 和/CCONJ 国务院/NOUN 法制办/NOUN 、/PUNCT 教育部/NOUN 研究/NOUN ，/PUNCT 建议/VERB 增加/VERB 规定/NOUN ：/PUNCT 发生/VERB 违反/VERB 本法/NOUN 的/PART 重大/ADJ 事件/NOUN ，/PUNCT 妨碍/VERB 义务/NOUN 教育/NOUN 实施/NOUN ，/PUNCT 造成/VERB 重大/ADJ 社会/NOUN 影响/NOUN 的/PART ，/PUNCT 负有/VERB 领导/NOUN 责任/NOUN 的/PART 人民/NOUN 政府/NOUN 教育/NOUN 行政/NOUN 部门/NOUN 负责人/NOUN 应当/VERB 引咎辞职/VERB 。/PUNCT
+
+编辑/NOUN ：/PUNCT
+苏琳/PROPN

@@ -1,0 +1,52 @@
+营销/NOUN 是/VERB 公司/NOUN 发展/VERB 业务/NOUN 的/PART 重要/ADJ 手段/NOUN 。/PUNCT
+如何/ADV 推出/VERB 新/ADJ 产品/NOUN 和/CCONJ 占领/NOUN 市场/NOUN ，/PUNCT 营销/NOUN 策略/NOUN 的/PART 制定/NOUN 是/VERB 至关重要/VERB 的/PART 。/PUNCT
+Tanya/PROPN Nichols/PROPN 是/VERB 一家/NUM 冰淇淋/NOUN 制造/NOUN 公司/NOUN 的/PART 老板/NOUN ，/PUNCT 她/PRON 正在/ADV 和/ADP 她/PRON 的/PART 营销/NOUN 经理/NOUN Carla/NOUN Hutchison/PROPN 谈论/VERB 一/NUM 种/NUM 新/ADJ 口味/NOUN 冰淇淋/NOUN 的/PART 营销/NOUN 策略/NOUN 。/PUNCT
+
+Tanya/PROPN :/PUNCT So/NOUN ,/PUNCT Carla/PROPN ,/PUNCT do/VERB you/PRON have/X a/NUM marketing/ADJ plan/NOUN for/PROPN our/NOUN new/NOUN ice/NOUN -/PUNCT cream/PROPN sandwich/VERB ?/PUNCT
+
+Carla/NOUN ，/PUNCT 你/PRON 对/ADP 我们/PRON 新/ADJ 的/PART 冰淇淋/NOUN 三明治/NUM 有/VERB 什么/DET 营销/NOUN 计划/NOUN 吗/PART ？/PUNCT
+
+Carla/NOUN :/PUNCT Yes/PROPN I/PRON do/VERB ./PUNCT
+After/PROPN going/PROPN through/NOUN our/NOUN S/X ./PUNCT
+W/NOUN ./PUNCT
+O/NOUN ./PUNCT
+T/NOUN ./PUNCT
+process/VERB ,/PUNCT I/PRON 　/SPACE think/VERB we're/PRON in/NOUN good/PROPN shape/VERB ./PUNCT
+One/NOUN of/ADP our/NOUN main/NOUN strengths/NOUN is/VERB the/DET quality/NOUN of/ADP our/NOUN ice/NOUN cream/VERB ,/PUNCT and/ADV there's/NOUN a/NUM good/PROPN market/NOUN opportunity/NOUN for/ADP the/DET novelty/NOUN of/ADP a/DET choice/NOUN of/ADP flavors/VERB ./PUNCT Since/PROPN our/NOUN company/VERB already/PROPN has/PROPN a/NUM good/PROPN image/PROPN ,/PUNCT I/PRON don't/NOUN see/VERB many/ADV weaknesses/VERB ./PUNCT
+No/ADV o/ADP ther/NOUN company/NOUN sellsice/NOUN -/PUNCT cream/NOUN sandwiches/VERB with/ADP a/NUM choice/NOUN of/ADP 5/NUM flavors/VERB ,/PUNCT so/ADV there's/NOUN no/NOUN threat/NOUN to/ADP speak/NOUN of/ADP ,/PUNCT either/VERB ./PUNCT
+
+是的/ADV 我/PRON 有/VERB 。/PUNCT
+经过/ADP SWOT/NOUN 分析/NOUN ，/PUNCT 我/PRON 认为/VERB 我们/PRON 的/PART 经营/NOUN 状况/NOUN 很/ADV 好/VERB 。/PUNCT
+我们/PRON 的/PART 主要/ADJ 优势/NOUN 之一/NOUN 是/VERB 我们/PRON 产品/NOUN 的/PART 质量/NOUN ，/PUNCT 并且/CCONJ 创新/VERB 口味/NOUN 的/PART 产品/NOUN 在/ADP 市场/NOUN 上/PART 有/VERB 很/ADV 大/ADJ 商机/NOUN 。/PUNCT
+因为/ADP 我们/PRON 公司/NOUN 已/ADV 有/VERB 一个/ADV 好的/ADJ 形象/NOUN ，/PUNCT 我/PRON 并不/ADV 认为/VERB 有/VERB 很多/NUM 不利/ADJ 因素/NOUN 。/PUNCT
+没有/VERB 其他/DET 公司/NOUN 有/VERB 5/NUM 种/NUM 口味/NOUN 的/PART 冰淇淋/NOUN 三明治/NOUN ，/PUNCT 所以/ADV 对/ADP 我们/PRON 来说/PART 谈/VERB 不/ADV 上/VERB 有/VERB 什么/DET 威胁/NOUN 。/PUNCT
+
+Tanya/PROPN :/PUNCT I/PRON assume/PROPN we/NOUN don't/NUM need/VERB to/ADP worry/NOUN about/VERB creating/VERB a/NUM need/VERB ,/PUNCT with/ADV summer/NOUN almost/VERB here/PRON ./PUNCT
+
+我/PRON 想/VERB 夏天/NOUN 就要/VERB 来/VERB 了/PART ，/PUNCT 我们/PRON 不用/ADV 再/ADV 为/ADP 创造/VERB 需求/NOUN 而/PART 担心/VERB 。/PUNCT
+
+Carla/NOUN :/PUNCT Right/PROPN ./PUNCT
+As/NOUN for/ADP the/DET marketing/ADJ mix/NOUN ,/PUNCT we'll/PUNCT package/NOUN it/DET in/NOUN gold/PROPN foil/NOUN with/ADV dark/NUM brown/ADJ lettering/NOUN to/ADP simulate/NOUN chocolate/VERB ,/PUNCT and/CCONJ price/NOUN it/NOUN 20%/NUM higher/PROPN than/NOUN our/NOUN chocolate/VERB -/PUNCT covered/PROPN ice/NOUN -/PUNCT cream/VERB bar/NOUN ./PUNCT
+It'll/VERB be/ADJ introduced/NOUN in/ADP selected/NOUN places/VERB across/VERB the/DET country/PROPN starting/NOUN next/NOUN 　/SPACE month/VERB ./PUNCT
+The/DET main/NOUN promotion/NOUN will/NOUN be/NOUN through/VERB advertising/VERB ,/PUNCT using/VERB a/NUM "/PUNCT pull/NOUN "/PUNCT strategy/NOUN ,/PUNCT of/ADP course/PROPN ./PUNCT
+We/NOUN haven't/NOUN finalized/NOUN our/NOUN ads/PROPN yet/NOUN ,/PUNCT so/ADV I'll/PUNCT have/NOUN to/ADP let/NOUN you/PRON know/VERB ./PUNCT
+Can/NOUN we/NOUN meet/VERB again/VERB the/DET beginning/NOUN of/ADP next/NOUN week/VERB ?/PUNCT
+
+对/VERB 。/PUNCT
+至于/ADP 说/VERB 营销/NOUN 组合/NOUN ，/PUNCT 我们/PRON 要/VERB 用/ADP 像/ADP 巧克力/NOUN 一样/VERB 的/PART 深褐色/ADJ 字母/NOUN 的/PART 金箔纸/NOUN 来/PART 包装/VERB 它/PRON ，/PUNCT 仿照/NOUN 巧克力/VERB ，/PUNCT 并且/ADV 定价/NOUN 比/ADP 我们/PRON 的/PART 巧克力/NOUN 脆皮/VERB 冰淇淋/NOUN 贵/VERB 20%/NOUN 。/PUNCT
+下/DET 个/NUM 月/NOUN 将要/PART 在/ADP 全国/NOUN 有/VERB 选择/NOUN 地/PART 投放/VERB 市场/NOUN 。/PUNCT
+主要/ADV 通过/ADP 广告/NOUN 促销/VERB ，/PUNCT 当然/ADV 是/VERB 运用/VERB “/PUNCT 拉/VERB ”/PUNCT 的/PART 策略/NOUN 。/PUNCT
+我们/PRON 还/ADV 没有/ADV 最终/ADV 决定/VERB 我们/PRON 的/PART 广告/NOUN ，/PUNCT 因此/ADV 我/PRON 还/ADV 得/VERB 要/VERB 报告/VERB 你/PRON 。/PUNCT
+我们/PRON 下周/VERB 初/PART 能/VERB 再/ADV 碰/VERB 一下面/NUM 吗/PART ？/PUNCT
+
+Tanya/PROPN :/PUNCT Sure/PROPN can/VERB ./PUNCT
+Let/PROPN me/PRON check/VERB .../ADJ how/PROPN about/PROPN Tuesday/PROPN morning/NOUN at/ADP 10/NUM :/PUNCT 30/NUM ?/PUNCT
+
+当然/ADV 可以/VERB 。/PUNCT
+让/VERB 我/PRON 看/VERB 一下/ADV ……/PUNCT 星期二/NOUN 早上/NOUN 10/NOUN :/PUNCT 30/NUM 怎么样/VERB ？/PUNCT
+
+Carla/NOUN :/PUNCT Uh/NOUN ,/PUNCT let/NOUN 's/VERB see/VERB .../ADV okay/VERB with/ADV me/VERB ./PUNCT
+
+呃/INTJ ，/PUNCT 我/PRON 看看/VERB ……/PUNCT 我/PRON 没/VERB 问题/NOUN 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

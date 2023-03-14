@@ -1,0 +1,49 @@
+旅馆/NOUN 住宿/NOUN     /SPACE 青年/NOUN 旅舍/NOUN 和/CCONJ 面向/VERB 青年人/NOUN 的/PART 旅舍/NOUN
+
+名称/NOUN ：/PUNCT 埃森/PROPN 青年/NOUN 旅舍/VERB Jugendherberge/PROPN Essen/NOUN
+
+离/VERB 体育场/NOUN 约/ADV 20/NUM 公里/NUM 。/PUNCT
+
+地址/NOUN ：/PUNCT Pastoratsberg/PROPN
+2/NUM
+
+45239/NUM Essen/PROPN
+
+Tel/NOUN :/PUNCT 0201/NOUN //PUNCT 491163/NUM
+
+Fax/VERB :/PUNCT 0201/NOUN //PUNCT 492505/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT essen/PROPN @/PUNCT jugendherberge.de/PROPN
+
+联系人/NOUN ：/PUNCT Carola/PROPN Ladwig夫人/PROPN
+
+价格/NOUN ：/PUNCT 19/NUM ,/PUNCT 80/NUM 欧元/NOUN 、/PUNCT 23/NUM ,/PUNCT 50/NUM 欧元/NOUN 、/PUNCT 26/NUM ,/PUNCT 90/NOUN 欧元/NOUN
+
+最近/NOUN 的/PART 机场/NOUN ：/PUNCT 杜塞尔多夫/PROPN 机场/NOUN
+
+最近/NOUN 的/PART 火车站/NOUN ：/PUNCT 埃森/PROPN 火车站/NOUN
+
+最近/NOUN 的/PART 电车站/NOUN ：/PUNCT Essen/PROPN -/PUNCT Werden/PROPN
+
+最近/NOUN 的/PART 公车站/NOUN ：/PUNCT 青年/NOUN 旅舍/VERB Jugendherberge/PROPN
+
+地理/NOUN 位置/NOUN ：/PUNCT 在/ADP 埃森城/PROPN 的/PART 南部/NOUN
+
+到达/VERB 方式/NOUN ：/PUNCT
+
+坐车/NOUN ：/PUNCT 从/ADP 电车站/NOUN Essen/PROPN -/PUNCT Werden/PROPN 坐/VERB 公车/NOUN 190路/NUM 方向/NOUN Ruhrlandklinik/NOUN ,/PUNCT 到/VERB Jugendherberge站/PROPN 下车/VERB 。/PUNCT
+开车/VERB ：/PUNCT 通过/ADP A52/NUM 号/NOUN 公路/NOUN ,/PUNCT 出口/VERB Essen/NOUN -/PUNCT Bredeney/PROPN ,/PUNCT 然后/ADV 穿过/VERB B/NOUN 224/NUM 号/NUM 路/NOUN ，/PUNCT 方向/NOUN Werden/PART 。/PUNCT
+走到/VERB 埃森/PROPN 市区/NOUN Essen/PROPN -/PUNCT Werden/PROPN 看到/VERB Jugendherberge/PROPN 或者/CCONJ Folkwangschule/PROPN 的/PART 牌子/NOUN 即/ADV 是/VERB 。/PUNCT
+
+中高档/NOUN 饭店/NOUN     /SPACE Inter/PROPN City/NOUN Hotel/PROPN Gelsenkirchen/PROPN
+
+离/VERB 体育场/NOUN 4/NUM 公里/NUM ，/PUNCT 机场/NOUN 40/NUM 公里/NUM 。/PUNCT
+是/VERB 三星级/NUM 饭店/NOUN 。/PUNCT
+
+地址/NOUN ：/PUNCT Ringstraße/PROPN 1/NUM -3/NUM
+
+45879/NUM
+Gelsenkirchen/PROPN
+
+价格/NOUN ：/PUNCT 100/NUM -/CCONJ 150/NUM 欧元/NOUN [详/PROPN 细]/NOUN

@@ -1,0 +1,270 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/VERB 、/PUNCT 完整/VERB ，/PUNCT 不/ADV 存在/VERB 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或/CCONJ 重大/ADJ 遗漏/NOUN 。/PUNCT
+
+一/NUM 、/PUNCT 会议/NOUN 召开/VERB 的/PART 基本/ADJ 情况/NOUN
+
+苏宁/PROPN 电器/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB “/PUNCT 公司/NOUN ”/PUNCT )/PROPN 第二/NUM 届/NUM 董事会/NOUN 第二十五/NUM 次/NUM 会议/NOUN 审议/VERB 通过/VERB 了/PART 《/PUNCT 关于/ADP 召开/VERB 2006/NUM 年/NUM 第一/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 的/PART 议案/NOUN 》/PUNCT 。/PUNCT
+
+1/NUM 、/PUNCT 本次/PROPN 股东/NOUN 大会/NOUN 的/PART 召开/NOUN 时间/NOUN ：/PUNCT
+
+现场/NOUN 会议/NOUN 召开/VERB 时间/NOUN 为/VERB ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 24/NUM 日/NUM 下午/NOUN 14/NOUN :/PUNCT 30/NUM
+
+网络/NOUN 投票/NOUN 时间/NOUN 为/VERB ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 23/NUM 日－2006/NOUN 年/NOUN 5/NUM 月/NOUN 24/NUM 日/NUM
+
+其中/NOUN ，/PUNCT 通过/ADP 深圳/PROPN 证券/NOUN 交易所/NOUN 交易/NOUN 系统/NOUN 进行/VERB 网络/NOUN 投票/NOUN 的/PART 具体/ADJ 时间/NOUN 为/VERB ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 24/NUM 日/NUM 上午/NOUN 9:30/NOUN －/PUNCT 11/NUM :/PUNCT 30/NUM ，/PUNCT 下午/NOUN 13:00－15/NOUN :/PUNCT 00/NUM ；/PUNCT 通过/ADP 深圳/PROPN 证券/NOUN 交易所/NOUN 互联网/NOUN 投票/NOUN 系统/NOUN 投票/VERB 的/PART 具体/ADJ 时间/NOUN 为/VERB ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 23/NUM 日/NUM 15/NUM :/PUNCT 00/NUM 至/CCONJ 2006/NUM 年/NUM 5/NUM 月/NOUN 24/NUM 日/NOUN 15/NUM :/PUNCT 00/NUM 期间/NOUN 的/PART 任意/ADJ 时间/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 股权/NOUN 登记/VERB 日/NOUN ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 17/NUM 日/NUM
+
+3/NUM 、/PUNCT 现场/NOUN 会议/NOUN 召开/VERB 地点/NOUN
+：/PUNCT 公司/NOUN 17/NUM 楼/NOUN 会议室/NOUN
+
+4/NUM 、/PUNCT 召集人/NOUN ：/PUNCT 公司/NOUN 董事会/NOUN
+
+5/NUM 、/PUNCT 会议/NOUN 方式/NOUN ：/PUNCT 本次/ADV 临时/ADJ 股东/NOUN 大会/NOUN 采取/VERB 现场/NOUN 投票/NOUN 与/CCONJ 网络/NOUN 投票/NOUN 相/ADV 结合/VERB 的/PART 方式/NOUN 。/PUNCT
+公司/NOUN 将/ADV 通过/ADP 深圳/PROPN 证券/NOUN 交易所/NOUN 交易/NOUN 系统/NOUN 和/CCONJ 互联网/NOUN 投票/NOUN 系统/NOUN 向/ADP 公司/NOUN 股东/NOUN 提供/VERB 网络/NOUN 形式/NOUN 的/PART 投票/NOUN 平台/NOUN ，/PUNCT 股东/NOUN 可以/VERB 在/ADP 网络/NOUN 投票/NOUN 时间/NOUN 内/PART 通过/ADP 上述/ADJ 系统/NOUN 行使/VERB 表决权/NOUN 。/PUNCT
+
+6/NUM 、/PUNCT 参加/VERB 会议/NOUN 的/PART 方式/NOUN ：/PUNCT 同一/NUM 表/NUM 决权/NOUN 只能/ADV 选择/VERB 现场/NOUN 、/PUNCT 网络/NOUN 或/CCONJ 其他/DET 表决/NOUN 方式/NOUN 中/PART 的/PART 一/NUM 种/NUM 。/PUNCT
+同一/NUM 表/NUM 决权/VERB 出现/VERB 重复/ADJ 表决/NOUN 的/PART 以/ADP 第一/NUM 次/NUM 投票/NOUN 结果/NOUN 为准/VERB 。/PUNCT
+
+7/NUM 、/PUNCT 提示/NOUN 公告/VERB
+
+公司/NOUN 将/ADV 于/ADP 2006/NOUN 年/NUM 5/NUM 月/NUM 19/NUM 日/NOUN 就/ADV 本次/ADV 临时/ADJ 股东/NOUN 大会/NOUN 发布/VERB 提示/NOUN 公告/VERB 。/PUNCT
+
+8/NUM 、/PUNCT 会议/NOUN 出席/VERB 对象/NOUN
+
+(/PUNCT 1)凡/NOUN 2006/NOUN 年/NOUN 5/NUM 月/NOUN 17/NUM 日(/NOUN 星期三/NOUN )/NOUN 下午/NOUN 交易/VERB 结束/VERB 后/PART 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 分公司/NOUN 登记/VERB 在册/VERB 的/PART 公司/NOUN 股东/NOUN 均/ADV 有/VERB 权/NOUN 以/ADP 本/DET 通知/NOUN 公布/VERB 的/PART 方式/NOUN 出席/VERB 本次/NOUN 临时/ADJ 股东/NOUN 大会/NOUN 及/CCONJ 参加/NOUN 表决/NOUN ；/PUNCT 不/ADV 能/VERB 亲自/ADV 出席/VERB 现场/NOUN 会议/NOUN 的/PART 股东/NOUN 可/VERB 授权/VERB 他人/PRON 代为/NOUN 出席/VERB (/PUNCT 被/X 授权/VERB 人/NOUN 不必/ADV 为/ADP 本/DET 公司/NOUN 股/NOUN 东)/PUNCT ，/PUNCT 或/CCONJ 在/ADP 网络/NOUN 投票/NOUN 时间/NOUN 内/PART 参加/VERB 网络/NOUN 投票/NOUN 。/PUNCT
+
+(2/NUM )/PROPN 公司/NOUN 董事/NOUN 、/PUNCT 监事/NOUN 和/CCONJ 高级/ADJ 管理/NOUN 人员/NOUN 。/PUNCT
+
+(3/NOUN )/PROPN 公司/NOUN 聘请/VERB 的/PART 见证/NOUN 律师/NOUN 、/PUNCT 保荐/NOUN 代表人/NOUN 及/CCONJ 董事会/NOUN 邀请/VERB 的/PART 其他/DET 嘉宾/NOUN 。/PUNCT
+
+二/NUM 、/PUNCT 本次/PROPN 股东/NOUN 大会/NOUN 审议/NOUN 事项/NOUN
+
+1/NUM 、/PUNCT 《/PUNCT 关于/ADP 公司/NOUN 符合/VERB 非公开/PROPN 发行/VERB 股票/NOUN 条件/NOUN 的/PART 议案/NOUN 》/PUNCT ；/PUNCT
+
+2/NUM 、/PUNCT 《/PUNCT 关于/ADP 公司/NOUN 2006/NOUN 年非/NOUN 公开/ADV 发行/VERB 股票/NOUN 方案/NOUN 的/PART 议案/NOUN 》/PUNCT ，/PUNCT 该/DET 议案/NOUN 内容/NOUN 需/VERB 逐项/ADV 审议/VERB ；；/ADV
+
+(/PUNCT 1/NUM )/NOUN 发行/VERB 股票/NOUN 的/PART 类型/NOUN 和/CCONJ 面值/NOUN ；/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 发行/VERB 数量/NOUN ；/PUNCT
+
+(/PUNCT 3/NUM )/NOUN 发行/VERB 对象/NOUN ；/PUNCT
+
+(/PUNCT 4/NUM )/PROPN 定价/NOUN 方式/NOUN 及/CCONJ 价格/NOUN ；/PUNCT
+
+(/PUNCT 5/NUM )/NOUN 发行/VERB 方式/NOUN ；/PUNCT
+
+(/PUNCT 6/NUM )/NOUN 募集/NOUN 资金/NOUN 用途/NOUN ；/PUNCT
+
+(7/NOUN )/NOUN 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 完成/VERB 后/PART 公司/NOUN 的/PART 利润/NOUN 分配/NOUN 方案/NOUN ；/PUNCT
+
+(8/NOUN )/NOUN 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 决议/NOUN 有效/ADJ 期限/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT 《/PUNCT 关于/ADP 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 募集/NOUN 资金/NOUN 使用/VERB 的/PART 可行性/NOUN 报告/NOUN 的/PART 议案/NOUN 》/PUNCT ；/PUNCT
+
+4/NUM 、/PUNCT 《/PUNCT 关于/ADP 前次/VERB 募集/NOUN 资金/NOUN 使用/NOUN 情况/NOUN 的/PART 说明/NOUN 的/PART 议案/NOUN 》/PUNCT ；/PUNCT
+
+5/NUM 、/PUNCT 《/PUNCT 关于/ADP 提请/VERB 股东/NOUN 大会/NOUN 授权/VERB 董事会/NOUN 全权/ADV 办理/VERB 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 相关/ADJ 事宜/NOUN 的/PART 议案/NOUN 》/PUNCT 。/PUNCT
+
+本次/PROPN 股东/NOUN 大会/NOUN 就/ADP 上述/ADJ 审议/NOUN 事项/NOUN 作出/VERB 决议/NOUN ，/PUNCT 必须/VERB 经/ADP 出席/VERB 会议/NOUN 的/PART 股东/NOUN 所/PART 持表/VERB 决权/NOUN 的/PART 三分之二/NUM 以上/PART 通过/VERB 。/PUNCT
+向/ADP 本/DET 公司/NOUN 特定/ADJ 的/PART 股东/NOUN 及其/CCONJ 关联人/NOUN 发行/VERB 证券/NOUN 的/PART ，/PUNCT 股东/NOUN 大会/NOUN 就/ADP 发行/NOUN 方案/NOUN 进行/VERB 表决/NOUN 时/PART ，/PUNCT 关联/NOUN 股东/NOUN 应当/VERB 回避/VERB 。/PUNCT
+
+三/NUM 、/PUNCT 本次/PROPN 股东/NOUN 大会/NOUN 现场/NOUN 会议/NOUN 的/PART 登记/NOUN 方法/NOUN
+
+1/NUM 、/PUNCT 登记/VERB 时间/NOUN ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NUM 19/NUM 日/PROPN 、/PUNCT 22/NUM 日/NUM 上午/NOUN 9/NOUN :/PUNCT 00/NUM -/PUNCT 12:00/PROPN 、/PUNCT 下午/NOUN 14:00/NOUN -/PUNCT 17:00/PROPN ；/PUNCT
+
+2/NUM 、/PUNCT 登记/NOUN 方式/NOUN ：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 自然人/PROPN 须持/PROPN 本人/PRON 身份证/NOUN 原件/NOUN 、/PUNCT 股东/NOUN 账户卡/NOUN 、/PUNCT 持股/ADJ 凭证/PROPN 进行/VERB 登记/NOUN ；/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 法人/NOUN 股东/NOUN 须持/PROPN 营业/NOUN 执照/NOUN 复印件/NOUN 、/PUNCT 法人/NOUN 代表/NOUN 证明/VERB 或/CCONJ 法定/ADJ 代表人/NOUN 授权/VERB 委托/VERB 、/PUNCT 股东/NOUN 账户卡/NOUN 、/PUNCT 持股/ADJ 凭证/PROPN 、/PUNCT 出席人/NOUN 身份证/NOUN 进行/VERB 登记/NOUN ；/PUNCT
+
+(/PUNCT 3/NUM )/NOUN 委托/VERB 代理人/NOUN 须持/PROPN 本人/PRON 身份证/NOUN 原件/NOUN 、/PUNCT 授权/VERB 委托书/NOUN 原件/NOUN 、/PUNCT 委托人/NOUN 身份证/NOUN 、/PUNCT 委托人/NOUN 股东/NOUN 账户卡/NOUN 和/CCONJ 持股/ADJ 凭证/PROPN 进行/VERB 登记/NOUN ；/PUNCT
+
+(4)异/NOUN 地/PART 股东/NOUN 可以/VERB 书面/ADJ 信函/NOUN 或/CCONJ 传真/NOUN 办理/VERB 登记/NOUN 。/PUNCT
+
+3/NUM 、/PUNCT 登记/VERB 地点/NOUN ：/PUNCT 苏宁/PROPN 电器/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 12/NUM 楼董/NOUN 秘办/NOUN (/PUNCT 江苏省/PROPN 南京市/PROPN 淮海路/PROPN 68/NUM 号)/PUNCT 信函/NOUN 登记/VERB 地址/NOUN ：/PUNCT 公司/NOUN 董秘办/NOUN ，/PUNCT 信函/NOUN 上/PART 请/VERB 注明/VERB “/PUNCT 股东/NOUN 大会/NOUN ”/PUNCT 字样/NOUN 。/PUNCT
+
+通讯/NOUN 地址/NOUN ：/PUNCT 江苏省/PROPN 南京市/PROPN 淮海路/PROPN 68/NUM 号/NUM 苏宁/PROPN 电器/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董秘办/PROPN 邮政/NOUN 编码/NOUN ：/PUNCT 210005/NUM 传真/NOUN 号码/NOUN ：/PUNCT 025/NUM -/PUNCT 84467008/NUM
+
+4/NUM 、/PUNCT 其他/DET 事项/NOUN ：/PUNCT
+
+(1/NOUN )/PROPN 本次/PROPN 股东/NOUN 大会/NOUN 的/PART 现场/NOUN 会议/NOUN 会期/NOUN 半天/VERB ，/PUNCT 出席/VERB 现场/NOUN 会议/NOUN 的/PART 股东/NOUN 食宿/NOUN 、/PUNCT 交通/NOUN 费用/NOUN 自理/VERB ；/PUNCT
+
+(2/NUM )/NOUN 会议/NOUN 咨询/VERB ：/PUNCT 公司/NOUN 董秘/PROPN 办(/VERB 江苏省/PROPN 南京市/PROPN 淮海路/PROPN 68/NUM 号)/PUNCT
+
+联系/VERB 电话/NOUN ：/PUNCT 025/NUM -/PUNCT 84418888/NUM -/PRON 888122/NUM ，/PUNCT 联系人/NOUN ：/PUNCT 韩枫/PROPN
+
+四/NUM 、/PUNCT 参与/VERB 网络/NOUN 投票/NOUN 的/PART 股东/NOUN 的/PART 身份/NOUN 认证/NOUN 与/CCONJ 投票/NOUN 程序/NOUN
+
+在/ADP 本次/PROPN 股东/NOUN 大会/NOUN 上/PART ，/PUNCT 公司/NOUN 将/ADV 向/ADP 流通/NOUN 股/NUM 股东/NOUN 提供/VERB 网络/NOUN 投票/NOUN 平台/NOUN ，/PUNCT 流通/NOUN 股/NUM 股东/NOUN 可以/VERB 通过/ADP 深交所/PROPN 交易/NOUN 系统/NOUN 或/CCONJ 互联网/NOUN 系统/NOUN (/PUNCT http:/NOUN ///PUNCT wltp.cninfo.com/NOUN ./PUNCT
+cn)/VERB 参加/VERB 网络/NOUN 投票/NOUN 。/PUNCT
+
+1/NUM 、/PUNCT 采用/VERB 交易/NOUN 系统/NOUN 投票/NOUN 的/PART 投票/NOUN 程序/NOUN
+
+(1/NOUN )/PROPN 本次/NOUN 临时/ADJ 股东/NOUN 大会/NOUN 通过/ADP 交易/NOUN 系统/NOUN 进行/VERB 网络/NOUN 投票/NOUN 的/PART 时间/NOUN 为/VERB 2006/NUM 年/NUM 5/NUM 月/NOUN 24/NUM 日/NUM 上午/NOUN 9:30/NOUN -/PUNCT 11/NUM :/PUNCT 30/NUM 、/PUNCT 下午/NOUN 13/NOUN :/PUNCT 00/NUM -/PUNCT 15：00/NOUN ，/PUNCT 投票/NOUN 程序/NOUN 比照/ADP 深圳/PROPN 证券/NOUN 交易所/NOUN 新股/NOUN 申购/NOUN 业务/NOUN 操作/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 通过/ADP 上交所/NOUN 市值/NOUN 配售/NOUN 持有/VERB 本/DET 公司/NOUN 股票/NOUN 的/PART 股东/NOUN ，/PUNCT 可/ADV 通过/ADP 上交所/NOUN 交易/NOUN 系统/NOUN 参加/VERB 本次/ADJ 股东/NOUN 大会/NOUN 网络/NOUN 投票/NOUN 。/PUNCT
+
+(/PUNCT 3/NUM )/NOUN 深市/VERB 股东/NOUN 投票/NOUN 代码/NOUN ：/PUNCT 362024/NUM ；/PUNCT 通过/ADP 上交所/NOUN 市值/NOUN 配售/NOUN 持有/VERB 本/DET 公司/NOUN 股票/NOUN 的/PART 股东/NOUN 投票/NOUN 代码/NOUN 为/VERB 789024/NUM 。/PUNCT
+投票/NOUN 简称/NOUN 为/VERB “/PUNCT 苏宁/PROPN 投票/VERB ”/PUNCT 。/PUNCT
+
+(/PUNCT 4/NUM )/NOUN 股东/NOUN 投票/NOUN 的/PART 具体/ADJ 程序/NOUN
+
+①/NUM 买卖/NOUN 方向/NOUN 为/VERB 买入/NOUN 投票/NOUN ；/PUNCT
+
+②/NUM 在/ADP “/PUNCT 委托/VERB 价格/NOUN ”/PUNCT 项/NUM 下/PART 填报/NOUN 本次/NOUN 临时/ADJ 股东/NOUN 大会/NOUN 的/PART 议案/NOUN 序号/NOUN ，/PUNCT 1./NOUN 00/NUM 元/NUM 代表/NOUN 议案/NOUN 1/NUM ，/PUNCT 以/ADP 2/NUM ./PUNCT 00/NUM 元/NUM 代表/NOUN 议案/NOUN 2/NUM ，/PUNCT 以此类推/VERB 。/PUNCT
+每/DET 一/NUM 议案/NOUN 应/VERB 以/ADP 相应/ADJ 的/PART 价格/NOUN 分别/ADV 申报/VERB ，/PUNCT 具体/ADV 如下/ADV 表/VERB ：/PUNCT
+
+序号/PROPN                                                             /SPACE 议案/NOUN 内容/NOUN   /SPACE
+对/ADP 应申/VERB 报价/NOUN
+
+1/NUM                                    /SPACE 关于/ADP 公司/NOUN 符合/VERB 非公开/PROPN 发行/VERB 股票/NOUN 条件/NOUN 的/PART 议案/NOUN         /SPACE 1./NUM 00/NUM
+
+2/NUM                                  /SPACE 关于/ADP 公司/NOUN 2006年/NOUN 非/VERB 公开/ADV 发行/VERB 股票/NOUN 方案/NOUN 的/PART 议案/NOUN         /SPACE
+2/NUM ./PUNCT 00/NUM
+
+(/PUNCT 1/NUM )/PROPN                                                  /SPACE 发行/VERB 股票/NOUN 的/PART 类型/NOUN 和/CCONJ 面值/NOUN         /SPACE 2/NUM ./PUNCT 01/NUM
+
+(/PUNCT 2/NUM )/NOUN                                                              /SPACE 发行/VERB 数量/NOUN         /SPACE
+2/NUM ./PUNCT 02/NUM
+
+(/PUNCT 3/NUM )/NOUN                                                              /SPACE 发行/VERB 对象/NOUN         /SPACE
+2.03/NUM
+
+(/PUNCT 4/NUM )/PROPN                                                        /SPACE 定价/NOUN 方式/NOUN 及/CCONJ 价格/NOUN         /SPACE
+2/NUM ./PUNCT 04/NUM
+
+(/PUNCT 5/NUM )/NOUN                                                              /SPACE 发行/NOUN 方式/NOUN         /SPACE 2/NUM ./PUNCT
+05/NUM
+
+(/PUNCT 6/NUM )/NOUN                                                          /SPACE 募集/NOUN 资金/NOUN 用途/NOUN         /SPACE 2/NUM ./PUNCT 06/NUM
+
+(/PUNCT 7/NUM )/PROPN                            /SPACE 本次/NOUN 非/ADV 公开/ADV 发行/VERB 股票/NOUN 完成/VERB 后/PART 公司/NOUN 的/PART 利润/NOUN 分配/NOUN 方案/NOUN         /SPACE
+2/NUM ./PUNCT 07/NUM
+
+(/PUNCT 8/NUM )/NOUN                                        /SPACE 本次/NOUN 非/ADV 公开/ADV 发行/VERB 股票/NOUN 决议/NOUN 有效/ADJ 期限/NOUN         /SPACE 2/NUM ./PUNCT
+08/NUM
+
+3/NUM                    /SPACE 关于/ADP 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 募集/NOUN 资金/NOUN 使用/VERB 的/PART 可行性/NOUN 报告/NOUN 的/PART 议案/NOUN         /SPACE
+3/NUM ./PUNCT 00/NUM
+
+4/NUM                                      /SPACE 关于/ADP 前次/VERB 募集/NOUN 资金/NOUN 使用/NOUN 情况/NOUN 说明/VERB 的/PART 议案/NOUN         /SPACE 4./NUM 00/NUM
+
+5/NUM      /SPACE 关于/ADP 提请/VERB 股东/NOUN 大会/NOUN 授权/VERB 董事会/NOUN 全权/ADV 办理/VERB 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 相关/ADJ 事宜/NOUN 的/PART 议案/NOUN         /SPACE 5./NUM 00/NUM
+
+注/VERB ：/PUNCT 对于/ADP 议案/NOUN 2/NUM 中/PART 有/VERB 多/NUM 个/NUM 需/VERB 表决/VERB 的/PART 子议案/NOUN ，/PUNCT
+2/NUM ./PUNCT
+00/NUM 元/NUM 代表/NOUN 对/ADP 议案/NOUN 2/NUM 下/PART 全部/DET 子议案/NOUN 进行/VERB 表决/NOUN ，/PUNCT 2/NUM ./PUNCT 01/NUM 元/NUM 代表/NOUN 议案/NOUN 2/NUM 中子/NOUN 议案/NOUN (/PUNCT 1/NUM )/NOUN ，/PUNCT 2/NUM ./PUNCT 02/NUM 元/NUM 代表/NOUN 议案/NOUN 2/NUM 中子/NOUN 议案/NOUN (/PUNCT 2/NUM )/NOUN ，/PUNCT 依此类推/VERB 。/PUNCT
+
+③/NUM 在/ADP “/PUNCT 委托/VERB 股数/NOUN ”/PUNCT 项/NUM 下填/NOUN 报/NOUN 表决/NOUN 意见/NOUN ，/PUNCT 对应/VERB 的/PART 申报/NOUN 股数/NOUN 如下/VERB ：/PUNCT
+
+表决/NOUN 意见/NOUN 种类/NOUN   /SPACE 对应/VERB 的/PART 申报/VERB 股数/NOUN
+
+同意/VERB                      /SPACE 1/NUM 股/NUM
+
+反对/VERB                      /SPACE 2/NUM 股/NUM
+
+弃权/VERB                      /SPACE 3/NUM 股/NUM
+
+④/NUM 对/ADP 同一/NUM 议案/NOUN 的/PART 投票/NOUN 只能/ADV 申报/VERB 一/NUM 次/NUM ，/PUNCT 不/ADV 能/VERB 撤单/VERB ；/PUNCT
+
+⑤/NUM 不/ADV 符合/VERB 上述/ADJ 规定/NOUN 的/PART 投票/NOUN 申报/VERB ，/PUNCT 视为/VERB 未/ADV 参与/VERB 投票/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 采用/VERB 互联网/NOUN 投票/NOUN 的/PART 身份/NOUN 认证/NOUN 与/CCONJ 投票/NOUN 程序/NOUN
+
+(/PUNCT 1/NUM )/PROPN 股东/NOUN 获取/VERB 身份/NOUN 认证/VERB 的/PART 具体/ADJ 流程/NOUN
+
+按照/ADP 《/PUNCT 深圳/PROPN 证券/NOUN 交易所/NOUN 投资者/NOUN 网络/NOUN 服务/NOUN 身份/NOUN 认证/VERB 业务/NOUN 实施/NOUN 细则/NOUN 》/PUNCT 的/PART 规定/NOUN ，/PUNCT 股东/NOUN 可以/VERB 采用/VERB 服务/NOUN 密码/PROPN 或/CCONJ 数字/NOUN 证书/NOUN 的/PART 方式/NOUN 进行/VERB 身份/NOUN 认证/NOUN 。/PUNCT
+
+a/NUM ./PUNCT 申请/VERB 服务/NOUN 密码/PROPN 的/PART 流程/NOUN
+
+登陆/NOUN 网址/NOUN ：/PUNCT http/NOUN :/PUNCT ///PUNCT wltp.cninfo.com/NOUN ./PUNCT
+cn/VERB 的/PART “/PUNCT 密码/PROPN 服务/NOUN 专区/NOUN ”/PUNCT ；/PUNCT 填写/NOUN “/PUNCT 姓名/NOUN ”/PUNCT 、/PUNCT “/PUNCT 证券/NOUN 帐户/NOUN 号/NOUN ”/PUNCT 、/PUNCT “/PUNCT 身份证/NOUN 号/NOUN ”/PUNCT 等/PART 资料/NOUN ，/PUNCT 设置/VERB 6-8/NUM 位/NUM 的/PART 服务/NOUN 密码/PROPN ；/PUNCT 如/ADV 申请/NOUN 成功/VERB ，/PUNCT 系统/NOUN 会/VERB 返回/VERB 一个/NUM 4/NUM 位/NUM 数字/NOUN 的/PART 激活/NOUN 校/NOUN 验码/VERB 。/PUNCT
+
+b/NOUN ./PUNCT
+激活/NOUN 服务/NOUN 密码/PROPN
+
+股东/NOUN 通过/ADP 深交所/PROPN 交易/NOUN 系统/NOUN 比照/ADP 买入/VERB 股票/NOUN 的/PART 方式/NOUN ，/PUNCT 凭借/ADP “/PUNCT 激活/NOUN 校/NOUN 验码/VERB ”/PUNCT 激活/NOUN 服务/NOUN 密码/PROPN 。/PUNCT
+
+买入/VERB 证券/NOUN   /SPACE 买入/VERB 价格/NOUN                  /SPACE 买入/VERB 股数/NOUN
+
+369999/NUM       /SPACE 1./NUM 00/NUM 元/NUM   /SPACE 4/NUM 位/NUM 数字/NOUN 的/PART “/PUNCT 激活/NOUN 校/NOUN 验码/VERB ”/PUNCT
+
+申报/VERB 成功/VERB 次日/NOUN “/PUNCT 服务/NOUN 密码/PROPN ”/PUNCT 即可/ADV 使用/VERB 。/PUNCT
+
+服务/VERB 密码/PROPN 激活/NOUN 后/PART 长期/ADV 有效/VERB ，/PUNCT 在/ADP 参加/VERB 其他/DET 网络/NOUN 投票/NOUN 时/PART 不必/ADV 重新/ADV 激活/VERB 。/PUNCT
+
+密码/PROPN 激活/NOUN 后/PART 如/ADV 遗失/NOUN 可/VERB 通过/ADP 交易/NOUN 系统/NOUN 挂失/VERB ，/PUNCT 挂失/NOUN 后/PART 可/ADV 重新/ADV 申请/VERB ，/PUNCT 挂失/NOUN 方法/NOUN 与/CCONJ 激活/NOUN 方法/NOUN 类似/VERB ：/PUNCT
+
+买入/VERB 证券/NOUN   /SPACE 买入/VERB 价格/NOUN      /SPACE 买入/VERB 股数/NOUN
+
+369999/NUM       /SPACE
+2/NUM ./PUNCT 00/NUM 元/NUM   /SPACE 大于/VERB 1/NUM 的/PART 整数/NOUN
+
+申请/NOUN 数字/NOUN 证书/NOUN 的/PART ，/PUNCT 可/VERB 向/ADP 深圳/PROPN 证券/NOUN 信息/NOUN 公司/NOUN 或/CCONJ 其/PRON 委托/NOUN 的/PART 代理/NOUN 发证/VERB 机构/NOUN 申请/NOUN 。/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 股东/NOUN 根据/ADP 获取/VERB 的/PART 服务/NOUN 密码/PROPN 或/CCONJ 数字/NOUN 证书/NOUN 可/VERB 登录/VERB 网址/NOUN http:/NOUN ///PUNCT wltp.cninfo.com/NOUN ./PUNCT cn/VERB 的/PART 互联网/NOUN 投票/NOUN 系统/NOUN 进行/VERB 投票/NOUN 。/PUNCT
+
+(/PUNCT 3/NUM )/NOUN 投资者/NOUN 进行/VERB 投票/NOUN 的/PART 时间/NOUN
+
+通过/ADP 深圳/PROPN 证券/NOUN 交易所/NOUN 互联网/NOUN 投票/NOUN 系统/NOUN 投票/VERB 的/PART 具体/ADJ 时间/NOUN 为/VERB ：/PUNCT 2006/NUM 年/NOUN 5/NUM 月/NOUN 23/NUM 日/NUM 15/NUM :/PUNCT 00/NUM 至/CCONJ 2006年/NOUN 5/NUM 月/NUM 24/NUM 日/NOUN 15/NUM :/PUNCT 00/NUM 期间/NOUN 的/PART 任意/ADJ 时间/NOUN 。/PUNCT
+
+特此/ADV 公告/VERB 。/PUNCT
+
+苏宁/PROPN 电器/NOUN 股份/NOUN 有限/ADJ 公司/NOUN
+
+董/NOUN 事/NOUN 会/VERB
+
+2006/NUM 年/NOUN 5/NUM 月/NOUN 8/NUM 日/NUM
+
+附件/NOUN ：/PUNCT
+
+授权/NOUN 委托书/NOUN
+
+兹全权/NOUN 委托/NOUN 先生/NOUN (女/NOUN 士)/PART 代表/VERB 我/PRON 单位/NOUN (/PUNCT 个人/NOUN )/VERB ，/PUNCT 出席/VERB 苏宁/PROPN 电器/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2006/NUM 年/NUM 第一/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 并/CCONJ 代表/VERB 本人/PRON 依照/ADP 以下/PRON 指示/VERB 对/ADP 下列/ADJ 议案/NOUN 投票/NOUN 。/PUNCT
+若/SCONJ 委托人/NOUN 没有/ADV 对/ADP 表决权/PROPN 的/PART 形式/NOUN 方式/NOUN 做出/VERB 具体/ADJ 指示/NOUN ，/PUNCT 受托人/ADV 可/VERB 行使/VERB 酌情/ADJ 裁量权/NOUN ，/PUNCT 以/ADP 其/PRON 认为/VERB 适当/ADJ 的/PART 方式/NOUN 投票/VERB 赞成/VERB 或/CCONJ 反对/VERB 某/DET 议案/NOUN 或/CCONJ 弃权/VERB 。/PUNCT
+
+表决/NOUN 意见/NOUN
+
+序号/PROPN                                        /SPACE 议案/NOUN 内容/NOUN                       /SPACE 赞成/VERB   /SPACE 反对/VERB   /SPACE 弃权/VERB
+
+1/NUM                                   /SPACE 关于/ADP 公司/NOUN 符合/VERB 非公开/PROPN 发行/VERB 股票/NOUN 条件/NOUN 的/PART 议案/NOUN
+
+2/NUM                                 /SPACE 关于/ADP 公司/NOUN 2006年/NOUN 非/VERB 公开/ADV 发行/VERB 股票/NOUN 方案/NOUN 的/PART 议案/NOUN
+
+(/PUNCT 1/NUM )/NOUN                                                 /SPACE 发行/VERB 股票/NOUN 的/PART 类型/NOUN 和/CCONJ 面值/NOUN
+
+(/PUNCT 2/NUM )/NOUN                                                             /SPACE 发行/NOUN 数量/NOUN
+
+(/PUNCT 3/NUM )/NOUN                                                             /SPACE 发行/NOUN 对象/NOUN
+
+(/PUNCT 4/NUM )/NOUN                                                       /SPACE 定价/NOUN 方式/NOUN 及/CCONJ 价格/NOUN
+
+(/PUNCT 5/NUM )/NOUN                                                             /SPACE 发行/NOUN 方式/NOUN
+
+(/PUNCT 6/NUM )/NOUN                                                         /SPACE 募集/NOUN 资金/NOUN 用途/NOUN
+
+(/PUNCT 7/NUM )/NOUN                           /SPACE 本次/NOUN 非/ADV 公开/ADV 发行/VERB 股票/NOUN 完成/VERB 后/PART 公司/NOUN 的/PART 利润/NOUN 分配/NOUN 方案/NOUN
+
+(/PUNCT 8/NUM )/NOUN                                       /SPACE 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 决议/NOUN 有效/ADJ 期限/NOUN
+
+3/NUM                   /SPACE 关于/ADP 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 募集/NOUN 资金/NOUN 使用/VERB 的/PART 可行性/NOUN 报告/NOUN 的/PART 议案/NOUN
+
+4/NUM                                     /SPACE 关于/ADP 前次/VERB 募集/NOUN 资金/NOUN 使用/NOUN 情况/NOUN 说明/VERB 的/PART
+议案/NOUN
+
+5/NUM     /SPACE 关于/ADP 提请/VERB 股东/NOUN 大会/NOUN 授权/VERB 董事会/NOUN 全权/ADV 办理/VERB 本次/ADV 非/ADV 公开/ADV 发行/VERB 股票/NOUN 相关/ADJ 事宜/NOUN 的/PART 议案/NOUN
+
+委托人/NOUN 姓名/NOUN 或/CCONJ 名称/NOUN (/PUNCT 签章/VERB )/NOUN ：/PUNCT 委托人/NOUN 持/VERB 股数/NOUN ：/PUNCT
+
+委托人/NOUN 身份证/NOUN 号码/NOUN (/PUNCT 营业/NOUN 执照/NOUN 号码/NOUN )/VERB ：/PUNCT 委托人/NOUN 股东/NOUN 账户/NOUN ：/PUNCT
+
+受托人/NOUN 签名/VERB ：/PUNCT 受托人/NOUN 身份/NOUN 证号/VERB ：/PUNCT
+
+委托书/NOUN 有效/ADJ 期限/NOUN ：/PUNCT 委托/NOUN 日期/NOUN ：/PUNCT 2006/NUM 年/NUM 月/NOUN 日/PROPN
+
+附注/NOUN ：/PUNCT
+
+1/NUM 、/PUNCT 如欲/ADV 投票/VERB 同意/VERB 议案/NOUN ，/PUNCT 请/VERB 在/ADP “/PUNCT 同意/VERB ”/PUNCT 栏/NOUN 内/PART 相应/ADJ 地方/NOUN 填/VERB 上/PART “/PUNCT √/NOUN ”/PUNCT ；/PUNCT 如欲/ADV 投票/VERB 反对/VERB 议案/NOUN ，/PUNCT 请/VERB 在/ADP “/PUNCT 反对/VERB ”/PUNCT 栏内/NOUN 相应/ADJ 地方/NOUN 填/VERB 上/PART “/PUNCT √/NOUN ”/PUNCT ；/PUNCT 如欲/ADV 投票/VERB 弃权/VERB 议案/NOUN ，/PUNCT 请/VERB 在/ADP “/PUNCT 弃权/VERB ”/PUNCT 栏/NOUN 内/PART 相应/ADJ 地方/NOUN 填/VERB 上/PART “/PUNCT √/NOUN ”/PUNCT 。/PUNCT
+
+2/NUM 、/PUNCT 授权/NOUN 委托书/NOUN 剪报/VERB 、/PUNCT 复印/VERB 或/CCONJ 按/ADP 以上/PRON 格式/NOUN 自制/VERB 均/ADV 有效/VERB ；/PUNCT 单位/NOUN 委托须/NOUN 加盖/NOUN 单位/NOUN 公章/VERB 。/PUNCT

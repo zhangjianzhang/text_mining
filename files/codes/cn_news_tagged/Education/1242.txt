@@ -1,0 +1,123 @@
+为/ADP 帮助/VERB 各位/DET 网友/NOUN 更/ADV 好/VERB 地备/VERB 考/VERB 英语/NOUN 四六级/NOUN 作文/NOUN 考试/NOUN ，/PUNCT 特/ADV 对/ADP 四六级/NOUN 写作/NOUN 存在/VERB 的/PART 典型/ADJ 错误/NOUN 用/ADP 例文/ADV 进行/VERB 精彩/ADJ 点评/NOUN 。/PUNCT
+由于/ADP 下面/NOUN 一些/NUM 例文/NOUN 中/PART 错误/NOUN 较/ADV 多/VERB ，/PUNCT 点评/NOUN 时/PART 只是/ADV 列举/VERB 了/PART 部分/NUM 的/PART 典型/ADJ 错误/NOUN ，/PUNCT 而且/ADV 为了/ADP 保持/VERB 原文/NOUN 面貌/NOUN ，/PUNCT 编辑/NOUN 没有/ADV 做/VERB 过/PART 多/VERB 的/PART 改动/NOUN ，/PUNCT 所以/ADV 欢迎/VERB 大家/PRON 一起/ADV 来/VERB 挑错/VERB ，/PUNCT 有/VERB 问题/NOUN 一起/ADV 讨论/VERB 。/PUNCT
+
+英语/NOUN 四级/NOUN 作文/NOUN 题目/NOUN ：/PUNCT “/PUNCT Women/NOUN in/ADP the/DET Modern/PROPN World/NOUN ”/PUNCT
+
+英语/NOUN 四级/NOUN 作文/NOUN 提纲/NOUN ：/PUNCT
+
+1./NUM Women/NOUN are/VERB playing/VERB an/ADJ increasingly/NOUN important/PROPN part/NOUN in/NOUN society/NOUN
+
+today/NOUN ./PUNCT
+________/INTJ
+
+2/NUM ./PUNCT
+With/VERB the/DET changes/NOUN in/ADP the/DET ir/NOUN social/NOUN role/VERB ,/PUNCT women/VERB ’/PUNCT s/NOUN position/NOUN in/ADP the/DET family/NOUN
+
+has/PROPN been/NOUN improved/VERB as/NOUN well/NOUN ./PUNCT __/PUNCT
+__/PUNCT __/PUNCT
+
+3/NUM ./PUNCT In/NOUN spite/VERB of/ADP these/NOUN changes/NOUN ,/PUNCT the/DET liberation/NOUN of/ADP women/PROPN has/NOUN not/PROPN been/NOUN
+
+completely/NOUN realized/NOUN ./PUNCT
+__/PUNCT
+
+例/NOUN 1/NUM ．/PUNCT （/PUNCT 2分段/NOUN ）/PUNCT
+
+Women/NOUN are/VERB playing/VERB an/ADJ increasingly/NOUN important/PROPN part/NOUN in/NOUN society/NOUN today/VERB ./PUNCT
+Long/PROPN
+
+age/NOUN ,/PUNCT women/NOUN only/ADP did/PROPN something/NOUN in/ADP the/DET kitchen/VERB or/CCONJ at/ADP home/NOUN ./PUNCT
+Now/PROPN many/NOUN of/ADP the/DET m/PUNCT have/NOUN
+
+serious/NOUN jobs/PROPN to/ADP serve/VERB for/PROPN people/NOUN ./PUNCT
+What/NOUN men/NOUN can/VERB do/VERB so/ADV can/VERB women/VERB ./PUNCT
+
+With/ADP the/DET changes/NOUN in/ADP the/DET ir/NOUN social/NOUN role/VERB ,/PUNCT women/VERB ’/PUNCT s/NOUN position/NOUN in/ADP the/DET family/NOUN
+has/PROPN
+
+been/NOUN improved/VERB as/NOUN well/NOUN ./PUNCT
+Today/PROPN in/ADP the/DET family/NOUN ,/PUNCT the/DET wife/NOUN often/VERB lots/PROPN her/PROPN husband/VERB to/ADP
+
+do/ADJ something/NOUN at/ADP home/NOUN bat/PROPN a/NUM go/NOUN ,/PUNCT only/VERB women/NOUN did/NOUN something/VERB ./PUNCT
+Men/NOUN are/VERB foned/VERB of/ADP doing/PROPN
+
+something/NOUN at/ADP home/NOUN ./PUNCT
+
+In/NOUN spite/NOUN of/ADP these/NOUN changes/NOUN ,/PUNCT the/DET liberation/NOUN of/ADP women/PROPN has/NOUN not/PROPN been/NOUN
+completely/PROPN
+
+realized/NOUN ./PUNCT
+Sometimes/PROPN ,/PUNCT the/DET matter/NOUN ,/PUNCT the/DET husband/VERB hitting/VERB has/PROPN welf/NOUN ,/PUNCT often/ADV happened/VERB ./PUNCT
+
+In/NOUN the/DET factory/VERB the/DET wonmen/NOUN to/ADP as/ADP much/VERB as/VERB the/DET men/NOUN ,/PUNCT but/ADV they/PROPN are/VERB paid/PROPN less/NOUN than/VERB the/DET
+
+men/NOUN ./PUNCT
+Some/NOUN people/NOUN have/PROPN not/PROPN completely/NOUN realized/PROPN the/DET liberation/NOUN of/ADP women/NOUN ./PUNCT
+
+东方/PROPN 教育/NOUN 点评/NOUN ：/PUNCT 条理不清/VERB ，/PUNCT 思路/NOUN 紊乱/NOUN ，/PUNCT 大部分/NUM 句子/ADV 均/ADV 有/VERB 错误/NOUN ，/PUNCT 有的/PRON 甚至/ADV 影响/VERB 理解/VERB 。/PUNCT
+具体/ADJ 问题/NOUN 剖析/VERB 如下/NOUN ：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 缺乏/VERB 逻辑/NOUN ，/PUNCT 东一句西一句/PROPN ，/PUNCT 没有/VERB 围绕/NOUN 中心/NOUN 论述/NOUN ，/PUNCT 如/ADV 第一/NUM 段/NUM 就/ADV 没有/ADV 展开/VERB 论述/VERB 妇女/NOUN 社会/NOUN 角色/NOUN 的/PART 转变/NOUN ，/PUNCT 说/VERB 得/PART 太/ADV 笼统/VERB 而/PART 缺乏/VERB 说服力/NOUN 。/PUNCT
+
+（/PUNCT 2/NUM ）/PUNCT 用/ADP 汉语/NOUN 思维/NOUN ，/PUNCT 句子/ADV 有/VERB 明显/VERB 的/PART 汉语/NOUN 痕迹/NOUN ，/PUNCT 如/ADV “/PUNCT What/NOUN men/NOUN can/VERB do/VERB so/ADV can/VERB women/VERB ./PUNCT ”/PUNCT ，/PUNCT 应/VERB 改为/VERB “/PUNCT Women/NOUN can/VERB do/VERB what/VERB
+
+men/NOUN can/VERB do/VERB ”/PUNCT 。/PUNCT
+
+（/PUNCT 3/NUM ）/PUNCT 衔接/VERB 不/ADV 自然/VERB ，/PUNCT 没有/ADV 用/VERB 适当/ADJ 的/PART 关联/NOUN 词/NOUN ，/PUNCT 如/ADV “/PUNCT Sometimes/PROPN ,/PUNCT the/DET matter/NOUN ,/PUNCT the/DET husband/VERB hitting/VERB has/PROPN welf/PROPN ,/PUNCT
+
+often/ADV happened/NOUN ”/PUNCT ，/PUNCT 应/VERB 改为/VERB “/PUNCT The/DET case/NOUN that/ADV husband/VERB hits/NOUN his/PROPN wife/VERB often/VERB happens/VERB ./PUNCT ”/PUNCT
+
+（/PUNCT 4/NUM ）/PUNCT 拼写/VERB 错误/VERB 很多/NUM ，/PUNCT 大部分/NUM 句子/ADV 均/ADV 有/VERB 错误/NOUN 。/PUNCT
+
+例/NOUN 2/NUM ．/PUNCT （/PUNCT 5分/NUM 段/NUM ）/PUNCT
+
+Women/NOUN are/VERB playing/VERB an/ADJ increasingly/NOUN important/PROPN part/NOUN in/NOUN society/NOUN today/VERB ./PUNCT
+In/ADV
+
+today/NOUN ,/PUNCT many/ADJ women/NOUN have/NOUN a/NOUN work/NOUN ./PUNCT
+They/PROPN worked/PROPN as/ADP well/ADP as/ADJ men/NOUN playing/NOUN an/ADJ important/PROPN
+
+part/NOUN in/NOUN factories/NUM ./PUNCT
+There/PROPN are/VERB many/ADJ women/NOUN in/NOUN government/VERB also/PROPN ./PUNCT
+They/PROPN lead/NOUN o/ADP ther/NOUN
+
+people/NOUN country/VERB ,/PUNCT and/CCONJ make/NOUN out/NOUN plans/NOUN ./PUNCT
+There/PROPN are/VERB many/NUM scientist/NOUN slso/NOUN ./PUNCT
+They/PROPN event/VERB
+
+new/PROPN things/NOUN to/ADP improve/PROPN our/NOUN life/VERB ./PUNCT
+
+With/ADP the/DET changes/NOUN in/ADP the/DET ir/NOUN social/NOUN role/VERB ,/PUNCT women/VERB ’/PUNCT s/NOUN position/NOUN in/ADP the/DET family/NOUN
+has/PROPN
+
+been/NOUN improved/VERB as/NOUN well/NOUN ./PUNCT
+In/NOUN ancient/VERB ,/PUNCT women/VERB ’/PUNCT s/VERB position/NOUN in/ADP family/NOUN is/VERB pity/VERB ./PUNCT
+They/PROPN had/NOUN
+
+to/ADP looks/NOUN after/PROPN the/DET ir/NOUN children/PROPN ,/PUNCT did/PROPN every/PROPN how/PROPN husband/PROPN ordered/CCONJ her/PROPN to/ADP do/VERB ./PUNCT
+But/NOUN now/NOUN
+
+it/NOUN is/VERB changed/VERB ./PUNCT
+They/PROPN are/VERB equal/VERB to/PART her/PROPN husband/VERB ./PUNCT
+They/PROPN have/NOUN the/DET right/NOUN of/ADP speaking/NOUN
+of/ADP
+
+id/VERB ea/NOUN ,/PUNCT discussion/NOUN thing/NOUN with/ADV her/PROPN husband/VERB ,/PUNCT do/VERB what/NOUN she/NOUN wants/ADV to/ADV do/VERB ./PUNCT
+
+In/NOUN spite/NOUN of/ADP these/NOUN changes/NOUN ,/PUNCT the/DET liberation/NOUN of/ADP women/PROPN has/NOUN not/PROPN been/NOUN
+completely/PROPN
+
+realized/NOUN ./PUNCT
+We/NOUN also/PROPN should/NOUN realize/VERB ,/PUNCT women/VERB ’/PUNCT likerty/VERB are/VERB limited/NOUN ./PUNCT
+For/NOUN example/VERB ,/PUNCT many/ADV
+
+factories/ADJ want/NOUN men/NOUN become/PROPN its/NOUN workers/PROPN but/CCONJ the/DET chance/NOUN of/ADP women/NOUN is/VERB less/NOUN than/VERB men/NOUN ./PUNCT
+
+Everyone/PROPN should/VERB do/VERB the/DET ir/NOUN best/PROPN to/ADP change/VERB this/PRON condition/NOUN ./PUNCT
+I/PRON ’/PUNCT m/NOUN sure/NOUN ,/PUNCT the/DET liberation/NOUN
+
+of/ADP women/NOUN would/PROPN be/ADJ increased/PROPN ./PUNCT
+
+专家/NOUN 点评/VERB ：/PUNCT 切题/VERB 。/PUNCT
+论证/VERB 充分/VERB ，/PUNCT 有/VERB 说服力/NOUN ，/PUNCT 论证/VERB 手段/NOUN 丰富/VERB （/PUNCT 举例/VERB 、/PUNCT 正反/VERB ）/PUNCT 表达/VERB 思想/NOUN 清楚/VERB ，/PUNCT 语言/NOUN 流畅/VERB ，/PUNCT 词汇/NOUN 丰富/VERB ，/PUNCT 连贯性/NOUN 好/VERB 。/PUNCT
+用/ADP 词/NOUN 准确/VERB ，/PUNCT 仅/ADV 有/VERB 个别/NUM 小/ADJ 错误/NOUN 。/PUNCT

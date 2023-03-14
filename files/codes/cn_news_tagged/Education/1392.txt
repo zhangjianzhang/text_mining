@@ -1,0 +1,102 @@
+2006年/NOUN 各省/ADV 自考/VERB 新/ADV 开考/VERB 专业/NOUN 信息汇/NOUN 总/ADJ
+
+全国/NOUN
+
+全国/ADV 自考/VERB 新开/NOUN 劳动/NOUN 和/CCONJ 社会/NOUN 保障/NOUN 等/PART 七/NUM 专业/NOUN
+
+北京/PROPN
+
+北京/PROPN 自考/VERB 体育/NOUN 产业/NOUN 经营/NOUN 与/CCONJ 管理/NOUN 专业/NOUN 10月/NOUN 开考/VERB
+
+北京/PROPN 自考/VERB 又/ADV 开新/VERB 专业/NOUN ：/PUNCT 体育/NOUN 产业/NOUN 经营/NOUN 与/CCONJ 管理/NOUN
+
+北京/PROPN 自考/VERB 物流/NOUN 英语/NOUN 首次/ADV 开考/VERB 时间/NOUN 延至/VERB 07年/NOUN
+
+北京/PROPN 自考/VERB 获准/VERB 新/ADV 开设/VERB 体育/NOUN 和/CCONJ 民航/NOUN 两/NUM 专业/NOUN `/VERB
+
+北京/PROPN 自学/ADV 考试/VERB 新/ADV 开/VERB 两/NUM 专业/NOUN 北师大/PROPN 主考/NOUN
+
+北京/PROPN 可/VERB 自定/VERB 自考/VERB 专科/NOUN 专业/NOUN 将/ADV 针对/ADP 奥运/PROPN 设新/VERB 专业/NOUN
+
+天津/PROPN
+
+天津/PROPN 自考/VERB 新/ADV 开/VERB 建筑/NOUN 设计/NOUN 等/PART 四/NUM 个/NUM 本科/NOUN 专业/VERB
+
+辽宁/PROPN
+
+辽宁/PROPN 自考/NOUN 课程/NOUN </PUNCT 物流/NOUN 英语/NOUN >首/PUNCT 考/VERB 延至/NOUN 07年/NOUN 10月/NOUN
+
+辽宁/PROPN 2006年/NOUN 新/ADV 开考/VERB 劳动/NOUN 和/CCONJ 社会/NOUN 保障/NOUN 等/PART 7/NUM 专业/NOUN
+
+黑龙江/PROPN
+
+黑龙江/PROPN 2006年/NOUN 新/ADV 开考/VERB 两/NUM 个/NUM 社会/NOUN 考试/NOUN 项目/NOUN
+
+吉林/PROPN
+
+吉林省/PROPN 自考/VERB 开考/VERB 汽车/NOUN 服务/NOUN 工程/NOUN 等/PART 六/NUM 专业/NOUN
+
+河北/PROPN
+
+河北省/PROPN 自考/VERB 开考/VERB 工程/NOUN 造价/NOUN 管理/NOUN (独/NOUN 本/NUM )/NOUN
+
+河南/PROPN
+
+河南/PROPN 鹤壁/VERB 2006年/NOUN 自考/VERB 将/ADV 增加/VERB 5/NUM 个/NUM 本科/NOUN 专业/VERB
+
+湖北/PROPN
+
+湖北/PROPN 自考/VERB 06/NUM 年/NUM 10月/NOUN 首开/ADJ 考物流/NOUN 管理/NOUN 专业/NOUN
+
+湖北/PROPN 2006年/NOUN 自考/VERB 新/ADJ 增7/VERB 专业/NOUN 3/NUM 专业/NOUN 不/ADV 统考/VERB
+
+湖南/PROPN
+
+湖南/PROPN 自考/VERB 开考/VERB 铁路/NOUN 运输/NOUN 管理/NOUN 等/PART 六/NUM 专业/NOUN
+
+四川/PROPN
+
+四川/PROPN 开考/VERB 自考/VERB 公共/ADJ 事业/NOUN 管理/NOUN 等/PART 六/NUM 个/NUM 专业/NOUN
+
+四川/PROPN 自考/VERB 开考/VERB 化学/NOUN 工程/NOUN 与/CCONJ 工艺/NOUN 专业/VERB (独/NOUN 本/NUM )/NOUN
+
+广东/PROPN
+
+广东/PROPN 自考/PROPN 新设/PROPN 广告/NOUN 专业/NOUN 深大/ADV 参与/VERB 命题/NOUN
+
+广东/PROPN 关于/ADP 开考/VERB 电子/NOUN 技术/NOUN 专业/NOUN 实践/NOUN 环节/NOUN 考核/NOUN 的/PART 通知/NOUN
+
+广东/PROPN 自考/VERB 开考/VERB 环境/NOUN 保护/NOUN 与/CCONJ 管理/NOUN 等/PART 七/NUM 专业/NOUN
+
+广东/PROPN 深圳/PROPN 2006年/NOUN 自学/VERB 考试/VERB 新增/ADJ 电子/NOUN 政务/NOUN 专业/NOUN
+
+广东省/PROPN 自考/VERB 药学/NOUN 专业/NOUN 2006年/NOUN 四月/NOUN 首次/ADV 开考/VERB
+
+福建/PROPN
+
+福建/PROPN 改革/NOUN 试点/NOUN ：/PUNCT 新增/ADJ 电子/NOUN 政务/NOUN 等/PART 三/NUM 专业/NOUN
+
+福建省/PROPN 7月/NOUN 起/PART 自考/VERB 本科/NOUN 新增/ADJ 项目/NOUN 管理/NOUN 专业/NOUN
+
+福建/PROPN 自考/VERB 2006年/NOUN 增设/VERB 学前/NOUN 教育/NOUN 专业/NOUN 71/NUM 学分/NOUN 过关/VERB
+
+安徽/PROPN
+
+安徽/PROPN 10月/NOUN 自考/NOUN 首/NUM 度/NUM 开考/VERB 电子/NOUN 商务/NOUN 专业/NOUN
+
+浙江/PROPN
+
+浙江/PROPN 自考/VERB 新/ADV 开考/VERB 4/NUM 本科/NOUN 专业/NOUN 3专科/NUM 专业/NOUN
+
+广西/PROPN
+
+广西/PROPN 自考/VERB 新/ADV 开三/VERB 专业/NOUN 不同/ADJ 考生/NOUN 报名/NOUN
+不同/VERB
+
+广西/PROPN 自学/ADV 考试/VERB 开考/VERB 越语/ADP 专业/NOUN （/PUNCT 本科段/PROPN ）/PUNCT
+
+甘肃/PROPN
+
+甘肃/PROPN 自考/VERB 开考/VERB 资源/NOUN 环境/NOUN 与/CCONJ 城乡/NOUN 规划/NOUN 管理/NOUN 专业/NOUN
+
+信息/NOUN 陆续/ADV 添加/VERB 敬请/VERB 关注/VERB 本/DET 站/NOUN

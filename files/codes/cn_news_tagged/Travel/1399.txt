@@ -1,0 +1,8 @@
+马斯湖(/PROPN Maschsee/PROPN )/PROPN
+
+马斯湖(/PROPN Maschsee)/PROPN 离/ADP 新/ADJ 市政厅/NOUN 不/ADV 远/VERB ，/PUNCT 78/NUM 公顷/NUM 大/VERB 的/PART 休闲/NOUN 场所/NOUN ，/PUNCT 还/ADV 可/VERB 乘坐/VERB 使用/VERB 现代化/ADJ 太阳能/NOUN 技术/NOUN 及超/CCONJ 时代/NOUN 装潢/VERB 太阳能/NOUN 船顶/NOUN 的/PART 游船/NOUN ，/PUNCT 游船/VERB 可载/VERB 60/NUM 人/NOUN 。/PUNCT
+马斯湖/PROPN 节(/VERB Maschsee/PROPN Lake/PROPN Festival)/PUNCT 有/VERB 許多/VERB 大大小小/VERB 的/PART 摊位/NOUN 和/CCONJ 帳蓬/NOUN ，/PUNCT 吃喝玩乐尽/VERB 在/ADP 其中/NOUN ，/PUNCT 遊客/NOUN 更/ADV 可/VERB 在/ADP 摊位/VERB 品尝/VERB 德国/PROPN 著名/ADJ 的/PART 啤酒/NOUN 和/CCONJ 香肠/NOUN 等/PART 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+新/ADJ 市政厅/NOUN     /SPACE 海恩/NOUN 豪森/NOUN 王家/PROPN 花园/NOUN     /SPACE 克斯特纳/PROPN 博物馆/NOUN

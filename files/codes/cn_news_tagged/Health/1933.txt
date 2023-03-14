@@ -1,0 +1,46 @@
+“/PUNCT 康乃馨/NOUN 关爱/NOUN 行动/NOUN ”/PUNCT 网上/NOUN 调查/NOUN
+
+1/NUM 、/PUNCT 你/PRON 的/PART 母亲/NOUN 在/ADP 更年期/NOUN 有/VERB 没有/ADV 出现/VERB 反常/ADJ 现象/NOUN ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+没/ADV 注意/VERB
+
+2/NUM 、/PUNCT 你/PRON 的/PART 母亲/NOUN 在/ADP 更年期/NOUN 出现/VERB 反常/ADJ 现象/NOUN 时/PART 你/PRON 有/VERB 没有帮助/VERB 过/PART 她/PRON ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+无所谓/VERB
+
+3/NUM 、/PUNCT 你/PRON 给/ADP 母亲/NOUN 提供/VERB 过/PART 哪些/DET 帮助/NOUN ？/PUNCT
+
+带/VERB 她/PRON 看医生/VERB
+
+买/VERB 保健品/NOUN
+
+心理/NOUN 咨询/NOUN
+
+没有/ADV 帮助/VERB
+
+4/NUM 、/PUNCT 你/PRON 认为/VERB 更年期/NOUN 发生/VERB 的/PART 身体/NOUN 和/CCONJ 情绪/NOUN 症状/NOUN 需要/VERB 通过/ADP 药物/NOUN 来/PART 调整/VERB 吗/PART ？/PUNCT
+
+需要/VERB
+
+不/ADV 需要/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+想/VERB 了解/VERB 如何/ADV 给/ADP 母亲/NOUN 更/ADV 多/VERB 更/ADV 好的/ADJ 关爱/NOUN ，/PUNCT 帮助/VERB 她/PRON 平稳/ADV 渡过/VERB 更年期/NOUN 吗/PART ？/PUNCT
+请/VERB 参加/VERB 2006年/NOUN 5月/NOUN 12日/NOUN 搜狐/PROPN 健康/NOUN 网/NOUN “/PUNCT 康乃馨/NOUN 关爱/NOUN 行动/NOUN “/PUNCT 母亲/NOUN 节网/NOUN 上/PART 直播/VERB 活动/NOUN 。/PUNCT
+届时/ADV 将/ADV 有/VERB 知名/ADJ 妇科/NOUN 专家/NOUN 和/CCONJ 嘉宾/NOUN 与/ADP 您/PRON 共同/ADV 探讨/VERB 如何/ADV 以/ADP 更加/ADV 理解/VERB 的/PART 方式/NOUN 帮助/VERB 母亲/NOUN 更/ADV 好/VERB 渡过/VERB 更年期/NOUN ！/PUNCT

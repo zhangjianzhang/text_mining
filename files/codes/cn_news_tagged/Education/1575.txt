@@ -1,0 +1,41 @@
+被/X 称为/VERB 城市/NOUN “/PUNCT 牛皮癣/PROPN ”/PUNCT 的/PART 街头/NOUN 小/ADJ 广告/NOUN 真/ADV 有点/ADV 让/VERB 您/PRON “/PUNCT 应接不暇/VERB ”/PUNCT ，/PUNCT 在/ADP 公交/NOUN 车站/NOUN 牌前/NOUN 、/PUNCT 在/ADP 电线/NOUN 杆上/VERB 、/PUNCT 甚至/ADV 是/VERB 在/ADP 本/NOUN 应/VERB 清洁/VERB 美丽/VERB 的/PART 地面/NOUN 上/PART ，/PUNCT 您/PRON 到处/ADV 都/ADV 可/VERB 发现/VERB 这种/DET 严重/ADJ 破坏/VERB 城市/NOUN 形象/NOUN 的/PART 街头/NOUN 小/ADJ 广告/NOUN 。/PUNCT
+这不/ADV ，/PUNCT 瞧/VERB 这/DET 幅/NUM 大煞风景/VERB 的/PART 图片/NOUN ，/PUNCT 本/ADV 已/ADV 超负荷/ADJ 的/PART 大地/NOUN 真/ADV 得/PART 要/VERB 哭泣/VERB 了/PART 。/PUNCT
+
+Small/PROPN sticker/NOUN ads/PROPN litter/VERB the/DET steps/NOUN of/ADP a/DET pedestrian/NOUN bridge/VERB on/ADP the/DET Third/PROPN Ring/VERB
+
+Road/NOUN in/ADV Beijing/VERB ./PUNCT
+These/PROPN ads/NOUN are/VERB currently/VERB all/DET the/DET rage/NOUN in/ADP Beijing/NOUN because/NOUN they/PROPN 're/NUM
+
+much/ADJ cheaper/ADJ than/NOUN o/ADP ther/NOUN media/NOUN advertising/VERB ./PUNCT
+Bill/PROPN stickers/NOUN hired/VERB to/ADP paste/PROPN or/CCONJ hand/PROPN
+
+out/PROPN -/PUNCT sometimes/NOUN forcefully/VERB -/PUNCT
+advertising/VERB to/ADP passers/PROPN -/PUNCT by/ADP are/VERB worsening/VERB the/DET
+
+capital/NOUN 's/VERB already/NOUN congested/NOUN streets/NOUN ./PUNCT
+
+附在/NOUN 图片/NOUN 说明/VERB 中/PART 的/PART
+bill/PROPN
+
+sticker/NOUN 就是/ADV 我们/PRON 甚为/ADV 熟悉/VERB 、/PUNCT 甚为/ADV 反感/VERB 的/PART “/PUNCT 打贴/VERB 小/ADJ 广告/NOUN 的/PART 人/NOUN ”/PUNCT ，/PUNCT 有时/ADV 可/VERB 单独/ADV 写/VERB 做/VERB “/PUNCT sticker/NOUN ”/PUNCT 。/PUNCT
+Sticker/PROPN 源于/VERB 动词/NOUN stick/NOUN （/PUNCT 粘/NOUN ；/PUNCT 贴/NOUN ）/PUNCT ，/PUNCT 在/ADP 这里/PRON 显然/ADV 是/VERB 指/VERB “/PUNCT 张贴/VERB 广告/NOUN 的/PART 人/NOUN ”/PUNCT ；/PUNCT Bill/NOUN 除/ADP 用来/VERB 形容/VERB 我们/PRON 常见/VERB 的/PART “/PUNCT 议案/NOUN ；/PUNCT 法案/NOUN ；/PUNCT 账单/NOUN ”/PUNCT 外/PART ，/PUNCT 也/ADV 可/VERB 指/VERB “/PUNCT
+an/NOUN
+
+advertising/NOUN poster/NOUN ”/PUNCT （/PUNCT 广告/NOUN 传单/NOUN ）/PUNCT ，/PUNCT 或/CCONJ 用作/VERB 动词/ADJ “/PUNCT 登广告/PROPN ”/PUNCT ，/PUNCT 如/ADP ：/PUNCT Lewis/PROPN was/NOUN billed/VERB to/ADP appear/PROPN as/NOUN
+
+Hamlet/PROPN ./PUNCT
+（/PUNCT 据海/ADV 报载/VERB ，/PUNCT 哈姆雷特/PROPN 由/ADP 刘易斯/PROPN 扮演/VERB 。/PUNCT ）/PUNCT
+
+另外/ADV ，/PUNCT sticker/NOUN 也/ADV 可/VERB 用来/VERB 形容/VERB “/PUNCT 坚持/VERB 不懈/ADJ 的/PART 人/NOUN ”/PUNCT 或/CCONJ “/PUNCT 久呆/VERB 不/ADV 走/VERB 的/PART 客人/NOUN ”/PUNCT ，/PUNCT 举/VERB 两/NUM 个/NUM 例子/NOUN ：/PUNCT
+
+He/PUNCT may/PROPN not/PROPN be/NOUN a/NUM man/NOUN of/ADP ability/PROPN ,/PUNCT but/PROPN he/VERB is/VERB a/NUM firm/NOUN
+
+sticker/NOUN ./PUNCT
+（/PUNCT 他/PRON 虽然/SCONJ 没有/VERB 多/ADV 大/ADJ 本领/NOUN ，/PUNCT 但/ADV 他/PRON 坚韧不拔/VERB 。/PUNCT ）/PUNCT
+
+Mother/PROPN says/NOUN she/NOUN doesn/PROPN 't/PROPN want/NOUN any/PROPN sticker/NOUN in/ADP the/DET
+
+house/PROPN ./PUNCT
+（/PUNCT 妈妈/NOUN 说/VERB 家里/NOUN 不要/ADV 有/VERB 久坐/NOUN 不/ADV 走/VERB 的/PART 客人/NOUN 。/PUNCT ）/PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

@@ -1,0 +1,149 @@
+绿色/ADV 象征/VERB 生命/NOUN ，/PUNCT 红色/NOUN 象征/NOUN 热情/NOUN ，/PUNCT 黄色/NOUN 是/VERB 收获/NOUN 之色/PART ，/PUNCT 紫色/NOUN 代表/NOUN 高贵/NOUN ……/PUNCT 颜色/NOUN 之间/PART 也/ADV 要/VERB 一/NUM 争/VERB 高下/NOUN ，/PUNCT 比比/ADP 谁/PRON 更/ADV 重要/VERB 。/PUNCT
+斑斓/NOUN 世界/NOUN ，/PUNCT 五颜六色/VERB ，/PUNCT 一个/ADV 也/ADV 不/ADV 能/VERB 少/VERB 。/PUNCT
+看/VERB 那/DET 雨/NOUN 后/PART 的/PART 彩虹/NOUN ，/PUNCT 也许/ADV 你/PRON 会/VERB 因此/ADV 而/PART 相信/VERB 唯有/ADV 手拉手/NOUN ，/PUNCT 肩并肩/NOUN ，/PUNCT 才能/ADV 创造/VERB 出/VERB 美丽/NOUN 和/CCONJ 希望/NOUN 。/PUNCT
+热爱/VERB 自己/PRON ，/PUNCT 珍惜/VERB 他人/PRON ，/PUNCT 明天/NOUN 更/ADV 美好/VERB 。/PUNCT
+
+Once/ADV upon/VERB a/DET time/NOUN the/DET colors/NOUN of/ADP the/DET world/VERB started/VERB to/ADP quarrel/VERB ./PUNCT
+
+All/NOUN claimed/NOUN that/ADV they/NOUN were/PROPN the/DET best/NOUN ./PUNCT
+The/DET most/NOUN important/PROPN ./PUNCT
+The/DET most/NOUN useful/VERB ./PUNCT
+
+The/DET favorite/VERB ./PUNCT
+
+Green/PROPN said/NOUN :/PUNCT
+
+"Clearly/NOUN
+I/PRON am/VERB the/DET most/NOUN important/PROPN ./PUNCT
+I/PRON am/VERB the/DET sign/NOUN of/ADP life/VERB and/CCONJ of/ADP hope/PROPN ./PUNCT
+I/PRON was/NOUN
+
+chosen/VERB for/ADP grass/NOUN ,/PUNCT trees/NOUN and/CCONJ leaves/NOUN ./PUNCT
+Without/NOUN me/PRON ,/PUNCT all/DET animals/ADJ would/PROPN die/NOUN ./PUNCT
+Look/PROPN over/NOUN
+
+the/DET countryside/NOUN and/CCONJ you/PRON will/VERB see/VERB that/NOUN I/PRON am/VERB in/ADP the/DET majority/NOUN ./PUNCT
+"/PUNCT
+
+Blue/NOUN interrupted/NOUN :/PUNCT
+
+"You/NOUN only/ADP think/VERB about/PROPN the/DET earth/VERB ,/PUNCT but/CCONJ consider/PROPN the/DET sky/NOUN and/CCONJ the/DET sea/NOUN ./PUNCT
+It/NOUN is/VERB
+
+the/DET water/NOUN that/NOUN is/VERB the/DET basis/VERB of/ADP life/NOUN and/ADP drawn/PROPN up/ADV by/ADP the/DET clouds/VERB from/ADP the/DET deep/NOUN
+
+sea/NOUN ./PUNCT
+The/DET sky/NOUN gives/NOUN space/NOUN and/CCONJ peace/NOUN and/CCONJ serenity/NOUN ./PUNCT
+Without/NOUN my/VERB peace/VERB ,/PUNCT you/PRON would/PROPN all/DET
+
+be/ADV nothing/VERB ./PUNCT "/PUNCT
+
+Yellow/PROPN chuckled/PROPN :/PUNCT
+
+"You/NOUN are/VERB all/DET so/ADV serious/NOUN ./PUNCT
+I/PRON bring/VERB laughter/NOUN ,/PUNCT gaiety/PROPN ,/PUNCT and/CCONJ warmth/NOUN in/VERB to/ADP the/DET
+
+world/VERB ./PUNCT
+The/DET sun/NOUN is/VERB yellow/VERB ,/PUNCT the/DET moon/NOUN is/VERB yellow/VERB ,/PUNCT the/DET stars/NOUN are/VERB yellow/VERB ./PUNCT
+Every/NOUN time/NOUN
+
+you/PRON look/VERB at/ADP a/NUM sunflower/NOUN ,/PUNCT the/DET whole/NOUN world/NOUN starts/NOUN to/ADP smile/VERB ./PUNCT
+Without/NOUN me/PRON there/NOUN would/PROPN
+
+be/ADJ no/VERB fun/NOUN ./PUNCT "/PUNCT
+
+Orange/PROPN started/NOUN next/VERB to/ADP blow/PROPN her/PROPN trumpet/NOUN :/PUNCT
+
+"I/NOUN am/VERB the/DET color/VERB of/ADP heal/NOUN th/NOUN and/CCONJ strength/NOUN ./PUNCT
+I/PRON may/NOUN be/ADJ scarce/VERB ,/PUNCT but/ADV I/PRON am/VERB precious/NOUN
+
+for/ADP I/PRON serve/VERB the/DET need/NOUN s/PART of/ADP human/VERB life/NUM ./PUNCT I/PRON carry/VERB the/DET most/NOUN important/PROPN vitamins/VERB ./PUNCT
+Think/PROPN
+
+of/ADP carrots/NOUN ,/PUNCT pumpkins/NOUN ,/PUNCT oranges/VERB ,/PUNCT mangoes/VERB ,/PUNCT and/CCONJ papayas/NOUN ./PUNCT
+I/PRON don't/NUM hang/NOUN around/ADV all/DET the/DET
+
+time/NOUN ,/PUNCT but/ADV when/PROPN I/PRON fill/VERB the/DET sky/NOUN at/ADP sunrise/VERB or/CCONJ sunset/NOUN ,/PUNCT my/VERB beauty/PROPN is/VERB so/ADV striking/VERB
+
+that/ADJ no/NOUN one/NOUN gives/NOUN another/VERB thought/VERB to/ADP any/PROPN of/ADP you/PRON ./PUNCT "/PUNCT
+
+Red/NOUN could/PROPN stand/NOUN it/NOUN no/NOUN longer/NOUN he/ADP shouted/VERB out/PROPN :/PUNCT
+
+"I/NOUN am/VERB the/DET ruler/NOUN of/ADP all/DET of/ADP you/PRON ./PUNCT
+I/PRON am/VERB blood/PROPN -/PUNCT life's/NOUN blood/PROPN !/PUNCT
+I/PRON am/VERB the/DET color/NOUN of/ADP
+
+danger/PROPN and/CCONJ of/ADP bravery/NOUN ./PUNCT
+I/PRON am/VERB willing/VERB to/ADP fight/VERB for/ADP a/DET cause/PROPN ./PUNCT I/PRON bring/ADV fire/VERB in/NOUN to/ADP the/DET
+
+blood/PROPN ./PUNCT
+Without/VERB me/PRON ,/PUNCT the/DET earth/VERB would/PROPN be/ADV as/VERB empty/VERB as/VERB the/DET moon/NOUN ./PUNCT
+I/PRON am/VERB the/DET color/NOUN of/ADP
+
+passion/NOUN and/CCONJ of/ADP love/VERB ,/PUNCT the/DET red/NOUN rose/VERB ,/PUNCT the/DET poinsettia/NOUN and/CCONJ the/DET poppy/NOUN ./PUNCT "/PUNCT
+
+Purple/PROPN rose/NOUN up/ADV to/ADP his/PROPN full/PROPN height/PROPN :/PUNCT
+
+He/ADP was/NOUN very/VERB tall/NOUN and/CCONJ spoke/NOUN with/ADV great/PROPN pomp/NOUN :/PUNCT "I/PROPN am/VERB the/DET color/VERB of/ADP royalty/NOUN and/CCONJ
+
+power/NOUN ./PUNCT
+Kings/PROPN ,/PUNCT chiefs/PROPN ,/PUNCT and/CCONJ bishops/PROPN have/NOUN always/ADV chosen/VERB me/PRON for/ADP I/PRON am/VERB the/DET sign/NOUN
+of/ADP
+
+authority/PROPN and/CCONJ wisdom/NOUN ./PUNCT
+People/PROPN do/VERB not/PROPN question/VERB me!/PUNCT They/PROPN listen/NOUN and/CCONJ obey/NOUN ./PUNCT "/PUNCT
+
+Finally/PROPN Indigo/NOUN spoke/NOUN ,/PUNCT much/ADV more/ADP quietly/VERB than/VERB all/DET the/DET o/ADP thers/NOUN ,/PUNCT but/ADV with/ADV just/VERB
+
+as/ADV much/ADJ determination/NOUN :/PUNCT "/PUNCT Think/PROPN of/ADP me/PRON ./PUNCT
+I/PRON am/VERB the/DET color/NOUN of/ADP silence/NOUN ./PUNCT
+You/PRON hardly/PROPN
+
+notice/NOUN me/VERB ,/PUNCT but/ADV without/VERB me/PRON you/PRON all/DET become/NOUN superficial/VERB ./PUNCT
+I/PRON represent/NOUN thought/NOUN
+and/CCONJ
+
+reflection/NOUN ,/PUNCT twilight/NOUN and/CCONJ deep/NOUN water/NOUN ./PUNCT
+You/PRON need/VERB me/PRON for/ADP balance/NOUN and/CCONJ contrast/NOUN ,/PUNCT for/ADP
+
+prayer/NOUN and/CCONJ inner/NOUN peace/VERB ./PUNCT
+"/PUNCT
+
+And/ADV so/ADV the/DET colors/NOUN went/NOUN on/ADV boasting/NOUN ,/PUNCT each/VERB convinced/NOUN of/ADP his/PROPN or/CCONJ her/PROPN own/NOUN
+
+superiority/NOUN ./PUNCT
+The/DET ir/VERB quarreling/NOUN became/PROPN louder/PROPN and/CCONJ louder/PROPN ./PUNCT
+Suddenly/PROPN there/NOUN was/NOUN a/VERB
+
+startling/PROPN flash/VERB of/ADP bright/PROPN lightening/NOUN thunder/NOUN rolled/NOUN and/CCONJ boomed/NOUN ./PUNCT
+Rain/INTJ started/VERB to/ADP
+
+pour/NOUN down/NOUN relentlessly/NOUN ./PUNCT
+The/DET colors/PROPN crouched/PROPN down/NOUN in/NOUN fear/VERB ,/PUNCT drawing/PROPN close/NOUN to/ADP one/NOUN
+
+another/NOUN for/ADP comfort/NOUN ./PUNCT
+
+In/NOUN the/DET midst/NOUN of/ADP the/DET clamor/NOUN ,/PUNCT rain/NOUN began/VERB to/ADP speak/NOUN :/PUNCT
+
+"You/NOUN foolish/VERB colors/VERB ,/PUNCT fighting/PROPN amongst/VERB yourselves/PROPN ,/PUNCT each/ADV trying/VERB to/ADP dominate/PROPN
+
+the/DET rest/NOUN ./PUNCT
+Don/NOUN 't/VERB you/PRON know/NOUN that/ADV you/PRON were/PROPN each/ADJ made/NOUN for/ADP a/DET special/NOUN purpose/NOUN ,/PUNCT
+unique/PROPN
+
+and/CCONJ different/NOUN ?/PUNCT
+Join/PROPN hands/NOUN with/ADV one/VERB another/NOUN and/CCONJ come/PROPN to/ADP me/PRON ./PUNCT "/PUNCT
+
+Doing/ADJ as/ADP they/VERB were/ADV told/NOUN ,/PUNCT the/DET colors/NOUN united/VERB and/CCONJ joined/NOUN hands/NOUN ./PUNCT
+
+The/DET rain/NOUN continued/NOUN :/PUNCT
+
+"From/ADJ now/NOUN on/NOUN ,/PUNCT when/PROPN it/NOUN rains/NOUN ,/PUNCT each/VERB of/ADP you/PRON will/NOUN stretch/NOUN across/VERB the/DET sky/NOUN in/ADV a/NUM
+
+great/PROPN bow/NOUN of/ADP color/VERB as/ADP a/NUM reminder/NOUN that/ADV you/PRON can/VERB all/DET live/NOUN in/NOUN peace/VERB ./PUNCT
+The/VERB Rainbow/PROPN is/VERB
+
+a/NUM sign/NOUN of/ADP hope/PROPN for/ADP tomorrow/NOUN ./PUNCT "/PUNCT
+And/NOUN so/ADV ,/PUNCT whenever/NOUN a/NUM good/PROPN rain/NOUN washes/PROPN the/DET world/VERB ,/PUNCT and/CCONJ
+
+a/NUM Rainbow/PROPN appears/PROPN in/ADP the/DET sky/NOUN ,/PUNCT let/NOUN us/NOUN remember/VERB to/ADP appreciate/VERB one/VERB another/VERB ./PUNCT

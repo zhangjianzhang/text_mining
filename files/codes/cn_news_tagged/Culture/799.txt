@@ -1,0 +1,89 @@
+唐宗/PROPN 宋祖/PROPN ，/PUNCT 康熙/NOUN 乾隆/PROPN ，/PUNCT 成吉思汗/VERB ，/PUNCT 崇祯/VERB 皇帝/NOUN ，/PUNCT 玩物丧志/PROPN 的/PART 宋徽宗/PROPN ，/PUNCT 不理/ADV 朝政/VERB 的/PART 万/NUM 历帝/VERB 。/PUNCT
+这些/DET 中国/PROPN 历史/NOUN 上/PART 或/CCONJ 名垂青史/NOUN ，/PUNCT 或/CCONJ 遗臭万年/VERB 的/PART 帝王/PROPN ，/PUNCT 他们/PRON 究竟/ADV 长/VERB 的/PART 是/VERB 个/NUM 什么样/PRON ？/PUNCT
+这/PRON 恐怕/ADV 是/VERB 大家/PRON 非常/ADV 想/VERB 知道/VERB 的/PART 。/PUNCT
+而/ADV 这/PRON 也/ADV 是/VERB 我们/PRON 编辑/VERB 这/DET 组/NUM 图片/NOUN 的/PART 动力/NOUN 所在/NOUN 。/PUNCT
+
+这里/PRON 选编/VERB 了/PART 从/ADP 上古/NOUN 时代/NOUN 到/CCONJ 清朝/PROPN 的/PART 34/NUM 位/NUM 帝王/PROPN 的/PART 画像/NOUN 。/PUNCT
+欣赏/VERB 他们/PRON 尊容/VERB 的/PART 同时/NOUN ，/PUNCT 还/ADV 可以/VERB 对/ADP 当时/NOUN 的/PART 绘画/NOUN 技艺/NOUN 和/CCONJ 服饰/NOUN 文化/NOUN 有/VERB 一/NUM 管窥/NOUN 。/PUNCT
+
+上古/NOUN 时代/NOUN
+
+伏羲/PROPN
+
+帝尧/VERB
+
+商周/NOUN
+
+汤/PROPN
+
+武王/NOUN
+
+隋唐/PROPN
+
+隋文/PROPN 帝/PROPN 杨坚/PROPN
+
+唐/PROPN 高祖/VERB 李渊/PROPN
+
+唐太宗/PROPN 李世民/PROPN
+
+宋朝/PROPN
+
+宋/PROPN 太祖/NOUN 赵匡胤/PROPN
+
+宋/PROPN 太/ADV 宗/VERB 赵炅/PROPN
+
+宋真宗/PROPN 赵恒/VERB
+
+宋仁宗/PROPN 赵祯/PROPN
+
+宋/PROPN 英宗/NOUN 赵曙/PROPN
+
+宋哲宗/PROPN 赵煦/PROPN
+
+宋徽宗/PROPN 赵佶/NOUN
+
+宋钦宗/PROPN 赵桓/NOUN
+
+宋/PROPN 高宗/NOUN 赵构/PROPN
+
+宋宁宗/PROPN 赵扩/VERB
+
+宋理宗/PROPN 赵昀/VERB
+
+宋度/PROPN 宗/NOUN 赵禥/PROPN
+
+元朝/NOUN
+
+元/NUM 太祖/NOUN 成吉思汗/VERB
+
+元/NUM 武宗/NOUN 海山/PROPN
+
+元世祖/NUM 忽必/ADJ 烈/VERB
+
+元仁/PROPN 宗/NUM 爱育/NOUN 黎拔力/PROPN 八达/NUM
+
+明朝/PROPN
+
+明太/PROPN 祖/NOUN 朱元璋/PROPN
+
+明成/VERB 祖/NOUN 朱棣/PROPN
+
+明/NOUN 英宗/VERB 朱祁镇/PROPN
+
+明宪/VERB 宗/VERB 朱见/PROPN 深/VERB
+
+明孝/VERB 宗/VERB 朱祐樘/PROPN
+
+明穆/VERB 宗/VERB 朱载垕/PROPN
+
+明神/ADV 宗/VERB 朱翊钧/PROPN
+
+明光/PROPN 宗/NUM 朱常洛/PROPN
+
+清朝/PROPN
+
+清圣/PROPN 祖/NOUN 玄烨/NOUN （/PUNCT 康熙/PROPN ）/PUNCT
+
+清世/VERB 宗/NUM 胤禛/NOUN （/PUNCT 雍正/NOUN ）/PUNCT
+
+清高/VERB 宗/VERB 弘历/NOUN （/PUNCT 乾隆/PROPN ）/PUNCT

@@ -1,0 +1,21 @@
+不/ADV 查/VERB 不/ADV 知道/VERB ，/PUNCT 一/ADV 查/VERB 吓/VERB 一/ADV 跳/VERB ，/PUNCT 看似/VERB 简单/VERB 的/PART 一个/NUM 词/NOUN canard/PROPN 却/ADV 来路/VERB 不凡/VERB 。/PUNCT
+Canard/PROPN 在/ADP 英语/NOUN 中/PART 的/PART 意思/NOUN 是/VERB “/PUNCT 流传/VERB 、/PUNCT 谣言/NOUN ”/PUNCT ，/PUNCT 可/ADV 它/PRON 的/PART 本义/NOUN 竟是/NOUN “/PUNCT 鸭子/VERB ”/PUNCT 。/PUNCT
+
+Canard/PROPN 来自/VERB 古法/NOUN 语词/NOUN quanart/NOUN （/PUNCT 鸭子/PROPN ）/PUNCT ，/PUNCT 这么/ADV 一/ADV 说/VERB 容易/ADV 造成/VERB 误解/NOUN ，/PUNCT 让/VERB 人/NOUN 觉得/VERB “/PUNCT 法国/PROPN 的/PART 鸭子/NOUN 不/ADV 老实/VERB ”/PUNCT 。/PUNCT
+其实/ADV ，/PUNCT canard/PROPN 是/VERB 法国/PROPN 习语/VERB “/PUNCT vendre/VERB
+
+un/PROPN canard/PROPN à/VERB moitié/NOUN ”/PUNCT 的/PART 简写/NOUN ，/PUNCT 意思/NOUN 是/VERB “/PUNCT to/ADP half-sell/VERB a/NUM
+
+duck/PROPN ”/PUNCT 。/PUNCT
+鸭子/ADV 当然/ADV 不/ADV 可能/VERB 半/ADV 卖/VERB ，/PUNCT 半卖/NOUN 也/ADV 就是/ADV 不/ADV 卖/VERB ，/PUNCT 明显/VERB 地/PART 戏弄/VERB 、/PUNCT 欺骗/VERB 买者/VERB 嘛/PART 。/PUNCT
+随着/ADP 时间/NOUN 的/PART 推移/NOUN ，/PUNCT 法国人/NOUN 又/ADV 把/X vendre/VERB un/NOUN canard/PROPN à/VERB
+
+moitié/NOUN （/PUNCT 半/NUM 卖/VERB 鸭子/NOUN ）/PUNCT
+简化/VERB 为/ADP bailleur/NOUN de/VERB canards/VERB （/PUNCT 卖/VERB 鸭子/NOUN ）/PUNCT ，/PUNCT 意指/VERB "撒/NUM 谎"/VERB ，/PUNCT 而/ADV canard/NOUN 也/ADV 就/ADV 演变/VERB 为/VERB "谣/NOUN 言"/VERB 了/PART 。/PUNCT
+
+举/VERB 个/NUM 例子/NOUN ：/PUNCT There/PROPN are/VERB certain/NOUN stories/NOUN canarding/VERB about/VERB the/DET
+
+hotel/VERB ./PUNCT
+（/PUNCT 有关/ADP 这家/DET 旅馆/NOUN 的/PART 传闻/NOUN 有/VERB 几/NUM 种/NUM 说法/NOUN 。/PUNCT ）/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

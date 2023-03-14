@@ -1,0 +1,8 @@
+新华网/PROPN 香港/PROPN ５月/NOUN ９日/NOUN 电/NOUN （/PUNCT 记者/NOUN 王悦欣/PROPN ）/PUNCT
+香港/PROPN 金融/NOUN 管理局/NOUN ９日/NOUN 宣布/VERB ，/PUNCT 香港/PROPN ２００６年/NOUN ４月/NOUN 底/PART 的/PART 官方/NOUN 外汇/NOUN 储备/NOUN 资产/NOUN 为/VERB １２７０亿/NUM 美元/NUM 。/PUNCT
+
+连同/ADP 未/ADV 交收/VERB 远期/NOUN 合约/NOUN 在内/PART ，/PUNCT 香港/PROPN ２００６年/NOUN ４月/NOUN 底/PART 的/PART 外汇/NOUN 储备/NOUN 资产/NOUN 为/VERB １２７０亿/NUM 美元/NUM ，/PUNCT ２００６年/NOUN ３月/NOUN 底/PART 为/VERB １２５９亿/NUM 美元/NUM 。/PUNCT
+
+香港/PROPN 特区/NOUN 的/PART 外汇/NOUN 储备额/NOUN 在/ADP 全球/NOUN 排行/VERB 第八/NUM 。/PUNCT
+总额/NOUN 达/VERB １２７０亿/NUM 美元/NUM 的/PART 外汇/NOUN 储备/NOUN 资产/NOUN ，/PUNCT 相当于/VERB 香港/PROPN 流通/NOUN 货币/NOUN 的/PART ６/NUM 倍/NUM 多/ADV ，/PUNCT 约/ADV 占/VERB 港元/NOUN 货币/NOUN 供应/NOUN Ｍ３/VERB 的/PART ４０％/NUM 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

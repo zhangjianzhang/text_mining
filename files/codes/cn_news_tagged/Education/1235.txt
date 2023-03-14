@@ -1,0 +1,337 @@
+A/NUM
+
+【/PUNCT 来源/NOUN ：/PUNCT 点点/ADJ 英语/NOUN 】/PUNCT
+
+aboard/VERB prep/PROPN .//NOUN adv/PROPN ./PUNCT 在/ADP (船/NOUN 、/PUNCT 飞机/NOUN 、/PUNCT 车)/NOUN 上/PART ，/PUNCT 上/VERB (船/NOUN 、/PUNCT 飞机/NOUN 、/PUNCT 车)/NOUN
+
+aborted/NOUN a/NOUN ./PUNCT 流产/NOUN 的/PART ，/PUNCT 失败/VERB 的/PART
+
+abuse/PROPN n/NOUN .//NOUN vt/VERB ./PUNCT
+①/NOUN 滥用/VERB ,/PUNCT 妄用/NOUN ②虐待/NOUN ,/PUNCT 伤害/VERB ③辱/NOUN 骂/VERB ,/PUNCT 毁谤/NOUN
+
+ac/ADP count/NUM n/NOUN ./PUNCT
+①/NUM 记述/VERB ,/PUNCT 描述/VERB ,/PUNCT 报告/VERB ②账/NOUN ,/PUNCT 账户/NOUN ③/NUM 解释/VERB ,/PUNCT 说明/VERB vi/VERB ./PUNCT
+(for)/NOUN ①/NUM 说明/VERB …/PUNCT
+的/PART
+原因/NOUN ②(/PUNCT 在/ADP 数量/NOUN 、/PUNCT 比例/NOUN 上/PART )占acknowledge/VERB
+
+vt/VERB ./PUNCT
+①(/PUNCT 公开/ADV )承/PROPN 认②/VERB 告知/VERB 收到/VERB ,/PUNCT 确认/VERB ③/NUM 对/VERB …/PUNCT
+表示/VERB 感谢/NOUN ,/PUNCT 鸣谢/VERB
+
+ac/ADP quaintance/VERB n/NOUN ./PUNCT
+①/NOUN 相识/VERB 的/PART 人/NOUN ,/PUNCT 熟人/NOUN ②/NOUN 认识/VERB ,/PUNCT 翔实/VERB ,/PUNCT 了解/VERB
+
+acquisitiveness/NUM n/NOUN ./PUNCT
+贪得无厌/VERB
+
+advance/PROPN vt/VERB ./PUNCT
+①/NOUN 推进/VERB ,/PUNCT 增进/VERB ,/PUNCT 促进②/NOUN 提升/VERB ,/PUNCT 提前/ADV ,/PUNCT 提出/VERB ③/NUM 预付/NOUN vi/VERB ./PUNCT
+①/NOUN 前进/VERB ,/PUNCT 进展/VERB ②/NUM 进步/NOUN ,/PUNCT 高升/VERB ,/PUNCT 上涨/VERB n/NOUN ./PUNCT
+
+①/NOUN 前进/VERB ,/PUNCT 进展/VERB ,/PUNCT 进步/VERB ②/NUM 上升/VERB ,/PUNCT 上涨/VERB ③/NUM 预付/VERB ,/PUNCT 借支/VERB ,/PUNCT 垫款/NOUN a/NUM ./PUNCT 遇险/VERB 的/PART ,/PUNCT 先行/VERB 的/PART
+
+affirm/NUM vt/VERB ./PUNCT
+①断/NOUN 言/VERB ,/PUNCT 肯定/ADV ②/NUM 确认/VERB ,/PUNCT 证实/VERB vi/VERB ./PUNCT
+①/NOUN 证明/VERB ,/PUNCT 证实/VERB ,/PUNCT 明确/ADV 表示/VERB (/PUNCT to/ADP )/PROPN
+
+agenda/NUM n/NOUN ./PUNCT
+议事/NOUN 日程/NOUN
+
+agent/ADJ n/NOUN ./PUNCT
+①/NUM 代理人/NOUN ，/PUNCT 代理商/NOUN ，/PUNCT 经纪/VERB 人②/PROPN 政府/NOUN 特工/NOUN 人员/NOUN ，/PUNCT 政府/NOUN 代表/NOUN ③动/NOUN 因/ADP ，/PUNCT 能/VERB 因/ADP ④剂/NOUN
+
+alienation/VERB n/NOUN ./PUNCT
+①疏/NOUN 远②/ADV 转让/VERB ③/NUM 精神/NOUN 错乱/NOUN
+
+amazingly/ADV adv/NOUN ./PUNCT
+令/VERB 人/NOUN 吃惊/VERB 地/PART ,/PUNCT 惊人/VERB 地/PART
+
+amendment/NUM n/NOUN ./PUNCT
+改善/VERB ，/PUNCT 改正/VERB ,/PUNCT 修订/VERB ，/PUNCT 修正/VERB
+
+apparatus/DET n/NOUN ./PUNCT
+①/NUM 器械/NOUN ,/PUNCT 设备/NOUN ,/PUNCT 仪器/NOUN ②/NUM 机构/NOUN ,/PUNCT 组织/VERB
+
+appropriate/ADV a/NUM ./PUNCT
+适当/VERB 的/PART ,/PUNCT 恰如其分/ADV 的/PART vt/NOUN ./PUNCT
+①私/NOUN 占/VERB ,/PUNCT 侵吞/VERB ,/PUNCT 挪用/VERB ②拨/NOUN 出(/NOUN 款项/NOUN 等/PART )供/PROPN 专用/VERB
+
+argument/ADJ n/NOUN ./PUNCT
+①/NUM 争论/VERB ,/PUNCT 争吵/VERB ,/PUNCT 辩论/VERB ②/NUM 理由/NOUN ,/PUNCT 论据/NOUN ,/PUNCT 论点/NOUN ③/NUM 说理/NOUN ,/PUNCT 论证/VERB
+
+arrogant/VERB a/PART ./PUNCT
+傲慢/ADJ 的/PART ，/PUNCT 自大/VERB 的/PART
+
+art/NOUN n/NOUN ./PUNCT
+①/NUM 美术/NOUN ,/PUNCT 艺术/NOUN ②/NUM 技艺/NOUN ,/PUNCT 技巧/NOUN ③[/VERB pl/NOUN ./PUNCT
+]文科/PRON ,/PUNCT 人文/NOUN 科学/NOUN
+
+attach/NOUN vt/VERB ./PUNCT
+①系/NOUN ,/PUNCT 贴/VERB ,/PUNCT 连接/VERB ②使/NOUN 依恋/VERB ,/PUNCT 使/VERB 喜爱/VERB ③/NUM 认为/VERB 有/VERB (/PUNCT 重要性/NOUN 、/PUNCT 责任/NOUN 等/PART )④/PROPN 使/VERB 附属/NOUN
+
+attain/PROPN vt/VERB ./PUNCT
+达到/VERB ,/PUNCT 获得/VERB
+
+at/ADP tribute/ADV vt/VERB ./PUNCT
+(/PUNCT 与/ADP to/ADP 连用/ADV )/VERB 把/X …/PUNCT
+归因于/VERB ,/PUNCT 认为/VERB …/PUNCT
+系/NUM 某人/PRON 所为/VERB n/NOUN ./PUNCT
+属性/NOUN ,/PUNCT 特性/NOUN
+
+authority/NUM n/NOUN ./PUNCT
+
+①/NUM 权力/NOUN ,/PUNCT 管辖权/NOUN ②[/NOUN pl/NOUN ./PUNCT
+]/NOUN 官方/NOUN ,/PUNCT 当局/NOUN ③当/NOUN 权者/VERB ,/PUNCT 行政/NOUN 管理/NOUN 机构/NOUN ④权威/NOUN ,/PUNCT 专B/NOUN
+
+ban/PROPN n/NOUN ./PUNCT
+禁止/VERB ,/PUNCT 禁令/NOUN vt/VERB ./PUNCT
+禁止/VERB ,/PUNCT 查禁/VERB ,/PUNCT 取缔/VERB
+
+beam/PROPN n/NOUN ./PUNCT
+①梁/NOUN ,/PUNCT 桁条/VERB ②/NUM (光线/NOUN 等/PART 的/PART )道/PROPN ,/PUNCT 束/PROPN ,/PUNCT 柱③/VERB 笑容/NOUN ,/PUNCT 喜色/ADV vi/VERB ./PUNCT
+微笑/VERB ,/PUNCT 面露/VERB 喜色/NOUN vt/NOUN ./PUNCT
+播送/VERB ,/PUNCT 定向/VERB 发出/VERB
+
+bill/PROPN n/NOUN ./PUNCT
+①账单/NOUN ②议案/NOUN ,/PUNCT 法案/NOUN ③纸币/VERB ,/PUNCT 钞票/NOUN ,/PUNCT 票据/NOUN ④清单/NOUN ,/PUNCT 节目单/NOUN ⑤/NUM 招贴/VERB ,/PUNCT 海报/NOUN vt/VERB ./PUNCT
+
+①给/NOUN …/PUNCT
+开账/VERB 单②/PROPN (用/NOUN 招贴/NOUN 、/PUNCT 海报/NOUN 等/PART )/NOUN 宣布/VERB ,/PUNCT 发布/VERB ,/PUNCT 通告③/NOUN 把/X …/PUNCT
+列成/VERB 单子/NOUN
+
+blame/NOUN vt/VERB ./PUNCT
+责备/VERB ，/PUNCT 谴责/VERB ，/PUNCT 把/X …/PUNCT
+归咎于/VERB (on/PUNCT ,/PUNCT on/VERB to/NOUN )/NOUN n/NOUN ./PUNCT
+(/PUNCT 过错/NOUN 、/PUNCT 失败/NOUN 等/PART 的/PART )责任/NUM ，/PUNCT 责备/NOUN
+
+blan/PROPN k/NUM a/NUM ./PUNCT
+①/NUM 空白/VERB 的/PART ,/PUNCT 空/VERB 着/PART 的/PART ②/NUM 茫然/NOUN 的/PART ,/PUNCT 无/VERB 表情/NOUN 的/PART n/NOUN ./PUNCT
+①空/NOUN 白(处/VERB )②/PROPN 空白/NOUN 表格/VERB
+
+blessing/NOUN n/NOUN ./PUNCT
+祝福/VERB ,/PUNCT 祈福/VERB
+
+block/NOUN n/NOUN ./PUNCT
+①/NUM 一/NUM 排/NUM 房屋/NOUN ，/PUNCT 大楼/NOUN ②/NUM 街区/NOUN ③大/NOUN 块(/VERB 木料/NOUN 、/PUNCT 冰等/PROPN )④/PROPN 障碍/NOUN (物/NOUN )/VERB ，/PUNCT 堵塞/VERB (物/NOUN )/NOUN vt/VERB ./PUNCT
+
+①堵/NOUN 塞②/ADV 阻碍/VERB ，/PUNCT 妨碍/VERB C/NOUN
+
+candidate/VERB n/NOUN ./PUNCT
+①/NUM 申请/VERB 求职者/NOUN ②/NUM 投考者/NOUN ③/NUM 候选人/NOUN
+
+catastrophe/ADJ n/NOUN ./PUNCT
+大/ADJ 灾难/NOUN ，/PUNCT 大祸/NOUN
+
+cautious/PROPN a/VERB ./PUNCT
+谨慎/VERB 的/PART ，/PUNCT 小心/VERB 的/PART
+
+charge/VERB n/NOUN ./PUNCT
+①价/NOUN 钱/NOUN ，/PUNCT 费用/NOUN ②/NUM 主管/NOUN ，/PUNCT 掌管/VERB ③指/NOUN 控④/VERB 电荷/NOUN ，/PUNCT 充电/ADV vt/VERB ./PUNCT
+①索/NOUN (价/VERB )/VERB ，/PUNCT 收(费/ADV )②/PROPN 控告/VERB ，/PUNCT 指控/VERB ③使/NOUN 充电/VERB ，/PUNCT 使/VERB 装满/NOUN vi/VERB ./PUNCT
+
+①/NUM 索价/NOUN ，/PUNCT 收费/VERB ②/NUM 进攻/NOUN ，/PUNCT 冲锋/VERB
+
+civilian/VERB n/NOUN ./PUNCT
+①/NUM 平民/NOUN ,/PUNCT 老百姓/NOUN (/PUNCT 与/ADP 军人/NOUN 相对/ADV 而/VERB 言)/NUM ②(/PUNCT 军队/NOUN 中/PART 的/PART )/NOUN 文职/NOUN 人员/NOUN ③/NUM 公务员/NOUN ,/PUNCT 文官/NOUN a/NUM ./PUNCT
+民间/NOUN 的/PART ,/PUNCT 民用/ADJ 的/PART
+
+class/PROPN n/NOUN ./PUNCT
+班级/NOUN ，/PUNCT 阶级/NOUN ，/PUNCT 等级/NOUN ，/PUNCT 种类/NOUN vt/VERB ./PUNCT
+把/VERB …/PUNCT
+分类/NOUN (/PUNCT 或/CCONJ 分等级/NOUN )/NOUN
+
+classify/PROPN vt/VERB ./PUNCT
+把/VERB …/PUNCT
+分类/NOUN ,/PUNCT 把/X …/PUNCT
+分级/VERB
+
+climb/NOUN v/VERB .//NOUN n/NOUN ./PUNCT
+①攀登/VERB ,/PUNCT 爬②/VERB 上升/VERB ,/PUNCT 增长/VERB
+
+clone/PROPN n/NOUN ./PUNCT ①无性/NOUN 繁殖/VERB ，/PUNCT 克隆/NOUN ②复/NOUN 制品/NOUN ，/PUNCT 翻版/VERB v/VERB ./PUNCT
+(使/NOUN )无性/PROPN 繁殖/NOUN ，/PUNCT 克隆/VERB
+
+coherent/VERB a/NUM ./PUNCT
+①/NUM 条理/NOUN 清楚/VERB 的/PART ，/PUNCT 连贯/ADJ 的/PART ②/NUM 一致/VERB 的/PART ，/PUNCT
+协调/VERB 的/PART
+
+coincidence/NOUN n/NOUN ./PUNCT
+①/NUM 巧合/VERB ,/PUNCT 巧事/VERB ②(/PUNCT 意见/NOUN 、/PUNCT 爱好/NOUN 的/PART )/NOUN 一致/NOUN ,/PUNCT 符合/VERB
+
+coincident/NOUN a/PART ./PUNCT
+一致/VERB 的/PART ,/PUNCT 符合/VERB 的/PART ,/PUNCT
+巧合/VERB 的/PART
+
+combat/PROPN n/NOUN ./PUNCT
+战斗/VERB ,/PUNCT 斗争/VERB ,/PUNCT 格斗/NOUN v/VERB ./PUNCT
+与/VERB …/PUNCT
+斗争/NOUN ,/PUNCT 与/ADP …/PUNCT
+战斗/NOUN
+
+com/PROPN mand/NOUN n/NOUN ./PUNCT
+①命令/NOUN ,/PUNCT 指示/VERB ②/NUM 司令部/NOUN ③指挥/VERB ,/PUNCT 控制/VERB ,/PUNCT 掌握/VERB vt/VERB ./PUNCT
+①/NOUN 命令②/NOUN 指挥/VERB ,/PUNCT 掌握/VERB ,/PUNCT 控制/VERB ③/NUM 俯临/NOUN ,/PUNCT 俯瞰/NOUN ④博/NOUN 得/VERB
+
+commit/PROPN vt/VERB ./PUNCT
+①犯/NOUN (/PUNCT 错误/NOUN 等/PART )/NOUN ,/PUNCT 干(/VERB 坏事/NOUN 等/PART )②/PROPN 使/VERB (oneself/PUNCT )/NOUN 承担/VERB 义务/NOUN ,/PUNCT 承诺/VERB ③/NUM 把/NUM …托/NOUN 付给/VERB ,/PUNCT 将/ADV …置于/ADP (to)/NOUN ④/NUM 调拨/NOUN …供/PART 使用/VERB ,/PUNCT 拨出/VERB
+
+commitment/NOUN n/NOUN ./PUNCT
+①/NUM 承诺/VERB ,/PUNCT 允诺/VERB ,/PUNCT 保证/VERB ②信/NOUN 奉/ADV ,/PUNCT 献身/VERB ③/NUM 承担/VERB 的/PART 义务/NOUN
+
+compensate/NOUN v/VERB ./PUNCT
+赔偿/VERB ,/PUNCT 补偿/VERB ,/PUNCT 酬劳/VERB
+
+compensation/PROPN n/NOUN ./PUNCT
+①/NUM 补偿/VERB ,/PUNCT 赔偿/VERB ②补/NOUN 偿(/VERB 或/CCONJ 赔偿)/NOUN 的/PART 钱/NOUN 物/NOUN
+
+competitiveness/NOUN n/NOUN ./PUNCT
+竞争/VERB
+
+conce/PROPN ive/NOUN vt/NOUN ./PUNCT
+①构思/VERB ,/PUNCT 构想/NOUN 出/VERB ,/PUNCT 认为/VERB ②怀/NOUN (胎/NOUN )/PROPN vi/VERB ./PUNCT
+①(/PUNCT 常/ADV 与/ADP of/ADP 连用/PROPN )构/PROPN 想出/VERB ,/PUNCT 设想/VERB ②/NUM 怀孕/VERB
+
+confidential/VERB a/PART ./PUNCT
+①/NUM 秘密/VERB 的/PART ，/PUNCT 机密/NOUN 的/PART ②/NUM 表示/VERB 信任/NOUN (/PUNCT 或/CCONJ 亲密)/VERB 的/PART ，/PUNCT 担任/VERB 机密/NOUN 工作/NOUN 的/PART
+
+conserve/PROPN vt/VERB ./PUNCT
+保存/VERB ,/PUNCT 保藏/VERB
+
+constitute/PROPN vt/VERB ./PUNCT
+①/NUM 组成/VERB ,/PUNCT 构成/VERB ②/NUM 设立/NOUN ,/PUNCT 任命/VERB
+
+contract/VERB n/NOUN ./PUNCT
+合同/NOUN ，/PUNCT 契约/NOUN v/VERB ./PUNCT
+订约/VERB ，/PUNCT 使/VERB 缩短/NOUN ，/PUNCT 感染/VERB
+
+convene/PROPN v/VERB ./PUNCT
+召集(/PUNCT 会议/NOUN )/VERB ,/PUNCT 集会/VERB
+
+conviction/VERB n/NOUN ./PUNCT
+①/NOUN 确信/VERB ，/PUNCT 坚定/ADJ 的/PART 信仰②/NOUN 说服/VERB ，/PUNCT 信服/NOUN ③定/VERB 罪/NOUN ，/PUNCT 判罪/VERB
+
+coordinate/PROPN vt/VERB ./PUNCT
+调节/VERB ，/PUNCT 协调/VERB n/NOUN ./PUNCT
+[pl]/PROPN 坐标/VERB a/NUM ./PUNCT 同等/ADJ 的/PART ，/PUNCT 并列/VERB 的/PART
+
+corporate/PROPN a/PART ./PUNCT
+①法人/NOUN 团体/NOUN 的/PART ,/PUNCT 公司/NOUN 的/PART ②/NUM 全体/PRON 的/PART ,/PUNCT 共同/ADJ 的/PART
+
+correlate/PROPN vt/VERB ./PUNCT
+使/VERB 相互/ADV 关联/VERB vi/VERB ./PUNCT
+相关/VERB ,/PUNCT 关联/NOUN (/PUNCT to/ADP ,/PUNCT with/ADV )/VERB
+
+count/PROPN vt/VERB ./PUNCT
+①点/NOUN …/PUNCT
+的/PART
+数目/NOUN ,/PUNCT 计算②/NOUN 把/X …算/PUNCT 入③/VERB 认为/VERB ,/PUNCT 看作/VERB vi/VERB ./PUNCT
+①数/NOUN ,/PUNCT 计算/VERB ②/NOUN 值得/VERB 考虑/VERB ,/PUNCT 有/VERB 重要/ADJ 意义/NOUN n/NOUN ./PUNCT
+①计数/NOUN ,/PUNCT 总数/NOUN ②(/PUNCT 控告/VERB 的/PART )/NOUN 一/NUM 项/NUM 罪状/NOUN
+
+counterpart/PROPN n/NOUN ./PUNCT
+与/ADP 对方/PRON 地位/NOUN 相当/VERB 的/PART 人/NOUN ,/PUNCT 与/ADP 另/DET 一方/NOUN 所/PART 用/VERB 相当/ADJ 的/PART 物/NOUN
+
+cover/PROPN vt/VERB ./PUNCT
+①/NUM 覆盖/VERB ，/PUNCT 掩盖/VERB ②/NUM 范围/NOUN 为/VERB ③/NUM 包括/VERB ，/PUNCT 涉及/VERB ，/PUNCT 适用于/VERB ④/NUM 报道/NOUN ，/PUNCT 采访/VERB ⑤/NUM 掩护/VERB n/NOUN ./PUNCT
+盖子/VERB ，/PUNCT 封面/VERB ，/PUNCT 掩蔽/VERB (物/NOUN )/NOUN
+
+credit/NOUN n/NOUN ./PUNCT
+①/NUM 信任/NOUN ，/PUNCT 信用②/NOUN 信贷/NOUN ，/PUNCT 赊/ADP 欠③/NOUN 信誉/NOUN ，/PUNCT 荣誉/NOUN ，/PUNCT 声望/NOUN ④/NUM 学分/NOUN vt/VERB ./PUNCT
+①/NUM 相信/VERB ，/PUNCT 信任/VERB ②/NUM 把/NUM …归于/NOUN (to/NOUN )③/X 把/X …/PUNCT
+记入/VERB 贷方/VERB
+
+crime/NOUN -/PUNCT free/VERB a/NUM ./PUNCT
+无/VERB 犯罪/NOUN 的/PART
+
+critic/PROPN n/NOUN ./PUNCT
+批评家/NOUN ，/PUNCT 评论家/NOUN
+
+cross-racial/VERB a/NUM ./PUNCT
+跨种族/NOUN 的/PART
+
+curriculum/NOUN n/NOUN ./PUNCT
+
+课程/NOUN （/PUNCT 复数/ADJ 形式/NOUN ：/PUNCT curriculums/PROPN 或/CCONJ curricula/VERB ）/PUNCT
+D/NOUN
+
+damage/VERB n/NOUN ./PUNCT
+①/NUM 损坏/VERB ,/PUNCT 损害/VERB ②/NOUN [/PROPN pl/NOUN ./PUNCT
+]/NOUN 损害/VERB 赔偿/NOUN (金/NOUN )/NOUN vt/VERB ./PUNCT
+损坏/VERB ,/PUNCT 损害/VERB
+
+date/PROPN n/NOUN ./PUNCT
+①/NUM 日期/NOUN ,/PUNCT 日子/NOUN ②/NUM 时期/NOUN ,/PUNCT 年代/NOUN ③约/NOUN 会/VERB ,/PUNCT 约会/PROPN 的/PART 对象/NOUN ④枣/NOUN 椰/ADV vt/VERB ./PUNCT
+①给/NOUN …/PUNCT
+注明/VERB 日期/NOUN ②/NOUN 确定/VERB …/PUNCT 的/PART 年代/NOUN ③/NUM 和/CCONJ …约/NOUN 会/VERB vi/VERB ./PUNCT
+①(/PUNCT back/PROPN to/ADP ,/PUNCT
+
+from/ADP )源/PROPN 自/ADP ,/PUNCT 追溯/VERB 到/VERB ②/NUM 过时/VERB ,/PUNCT 逐渐/ADV 陈旧/VERB
+
+dawn/VERB n/NOUN ./PUNCT
+①黎明/NOUN ,/PUNCT 拂晓②/NOUN 开端/VERB ,/PUNCT 起始/ADV vi/VERB ./PUNCT
+①破/NOUN 晓②/ADV 开始/VERB ,/PUNCT 出现/VERB ,/PUNCT 显露/VERB
+
+deadline/NOUN n/NOUN ./PUNCT
+最后/ADJ 期限/NOUN ，/PUNCT 截止/NOUN 日期/NOUN
+
+decent/NOUN a/NUM ./PUNCT
+①正派/NOUN 的/PART ,/PUNCT 得体/NOUN 的/PART ②体面/NOUN 的/PART ,/PUNCT 像样/VERB 的/PART ,/PUNCT 相当/ADV 好的/VERB ③宽厚/VERB 的/PART ,/PUNCT
+大方/VERB 的/PART
+
+decentralize/PROPN vt/VERB ./PUNCT
+疏散/VERB ，/PUNCT 分散/VERB
+
+deceptive/PROPN a/NUM ./PUNCT
+欺骗性/NOUN 的/PART
+
+deem/PROPN vt/VERB ./PUNCT
+认为/VERB ,/PUNCT 视为/VERB ,/PUNCT 相信/VERB
+
+defect/NOUN n/NOUN ./PUNCT
+缺点/VERB ,/PUNCT 缺陷/VERB ,/PUNCT 毛病/NOUN vi/VERB ./PUNCT
+变节/VERB ,/PUNCT 叛变/VERB
+
+deficiency/PROPN n/NOUN ./PUNCT
+①/NOUN 缺乏/VERB ,/PUNCT 不足/ADJ ②缺点/NOUN ,/PUNCT 缺陷/NOUN
+
+deny/NOUN vt/VERB ./PUNCT
+①否/NOUN 认/VERB ,/PUNCT 否定/VERB ②/NUM 拒绝/NOUN
+
+depressed/PROPN a/NUM ./PUNCT
+①/NUM 沮丧/VERB 的/PART ,/PUNCT 压抑/VERB 的/PART ②/NUM 萧条/VERB 的/PART ,/PUNCT 不景气/VERB 的/PART ③/NUM 下降/VERB 的/PART ,/PUNCT 降低/VERB 的/PART
+
+desperately/PROPN adv/NOUN ./PUNCT
+拼命/VERB 地/PART ，/PUNCT 绝望/VERB 地/PART
+
+device/NOUN n/NOUN ./PUNCT
+①/NUM 装置/VERB ,/PUNCT 设备/NOUN ,/PUNCT 器械/NOUN ②/NUM 手段/NOUN ,/PUNCT 策略/NOUN
+
+diffuse/PROPN v/VERB ./PUNCT
+①/NUM 扩散/VERB ,/PUNCT (使/NOUN )弥/PROPN 漫②/ADV 传播/VERB ,/PUNCT 散布/VERB a/NUM ./PUNCT ①(/PUNCT 文章/NOUN 等/PART )/NOUN 冗场/VERB 的/PART ,/PUNCT 漫无边际/VERB 的/PART ②弥漫/NOUN 的/PART ,/PUNCT 散漫/VERB 的/PART
+
+dimensional/PROPN a/NUM ./PUNCT ①/NUM 空间/NOUN 的/PART ②./NOUN ../PUNCT
+维的/NOUN ,/PUNCT .../ADJ 度/NUM 空间/NOUN 的/PART ③./NUM ../NUM 次/NUM (元/NOUN )/PROPN 的/PART
+
+discard/PROPN vt/VERB ./PUNCT
+丢弃/VERB ,/PUNCT 抛弃/VERB
+
+discriminate/PROPN v/VERB ./PUNCT
+①/NUM 区别/NOUN ,/PUNCT 辨别/VERB ,/PUNCT 识别/NOUN (/PUNCT between/VERB ,/PUNCT from/ADP )②/NOUN 歧视/VERB ,/PUNCT 区别/NOUN 对待/VERB (against/NOUN )/PROPN
+
+disgusting/PROPN a/PART ./PUNCT
+令/VERB 人/NOUN 厌恶/VERB 的/PART ,/PUNCT 令人作呕/VERB 的/PART
+
+disposable/PROPN a/NUM ./PUNCT
+①/NUM 可/VERB (任/VERB 意)/NOUN 处理/VERB 的/PART ②/NUM 一次性/ADJ 的/PART ,/PUNCT 用/VERB 后/PART 即可/ADV 丢弃/VERB 的/PART
+
+distinction/VERB n/NOUN ./PUNCT
+①/NUM 区别/NOUN ，/PUNCT 差别/NOUN ，/PUNCT 特性/NOUN ②/NUM 声望/NOUN ，/PUNCT 显赫③/ADP 荣誉/NOUN ，/PUNCT 勋章/NOUN
+
+distinguish/PROPN v/VERB ./PUNCT
+区分/NOUN ,/PUNCT 辨别/VERB
+
+diversity/PROPN n/NOUN ./PUNCT
+差异/NOUN ,/PUNCT
+
+多样性/NOUN 2/NUM

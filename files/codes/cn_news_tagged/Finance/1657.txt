@@ -1,0 +1,230 @@
+特别/ADJ 提示/NOUN 本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/ADJ 和/CCONJ 完整/VERB ,/PUNCT 对/ADP 公告/NOUN 的/PART 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或者/CCONJ 重大/ADJ 遗漏/NOUN 负连带/NOUN 责任/NOUN 。/PUNCT
+
+重要/ADJ 内容/NOUN 提示/NOUN
+
+●/PUNCT 会议/NOUN 召开/VERB 时间/NOUN 2006年/NOUN 6月/NOUN 28日/NOUN 上午/NOUN 8时30分/NOUN
+
+●/PUNCT 会议/NOUN 召开/VERB 地点/NOUN 山东省/PROPN 邹城市/NOUN 凫山南路/VERB 298/NUM 号/NUM
+
+●/PUNCT 会议/NOUN 方式/NOUN 现场/NOUN 召开/VERB 和/CCONJ 网络/NOUN 投票/NOUN 相/ADV 结合/VERB 的/PART 方式/NOUN
+
+●/PUNCT 重大/ADJ 提案/NOUN 1/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 董事会/NOUN 报告/VERB 2/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NOUN 年度/NOUN 监事会/NOUN 报告/NOUN 3/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 经/ADP 审计/NOUN 的/PART 财务/NOUN 报告/NOUN 4/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 利润/NOUN 分配/NOUN 方案/NOUN 5/NUM 、/PUNCT 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 章程/NOUN 修正案/NOUN 》/PUNCT
+
+根据/ADP 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/NOUN "/PUNCT 公司/NOUN ")/VERB 第三/NUM 届/NUM 董事会/NOUN 第五/NUM 次/NUM 会议/NOUN 决议/VERB ,/PUNCT 现将/ADV 召开/NOUN 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN (/PUNCT 以下/ADV 简称/NOUN "/PUNCT 股东/NOUN 周年/NOUN 大会/NOUN ")/NOUN 的/PART 有关/ADJ 事宜/NOUN 通知/NOUN 如下/VERB ：/PUNCT
+
+一/NUM 、/PUNCT 召开/VERB 会议/NOUN 基本/ADJ 情况/NOUN
+
+1/NUM 、/PUNCT 会议/NOUN 召集人/NOUN ：/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 会议/NOUN 召开/VERB 日期/NOUN 和/CCONJ 时间/NOUN ：/PUNCT 现场/NOUN 会议/NOUN 召开/VERB 时间/NOUN 为/VERB 2006年/NOUN 6月/NOUN 28日/NOUN 上午/NOUN 8点30分/NOUN ,/PUNCT 网络/NOUN 投票/NOUN 时间/NOUN 为/ADP 当日/NOUN 上午/NOUN 9点30分/NOUN 至/CCONJ 11点30分/NOUN 、/PUNCT 下午/NOUN 13点/NOUN 至/CCONJ 15点/NUM 。/PUNCT
+
+3/NUM 、/PUNCT 会议/NOUN 地点/NOUN ：/PUNCT 山东省/PROPN 邹城市/PROPN 凫山南路/VERB 298号/NUM 公司/NOUN 综合/ADJ 楼/NOUN 会议室/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 会议/NOUN 方式/NOUN ：/PUNCT 本次/ADJ 会议/NOUN 采取/VERB 现场/NOUN 投票/NOUN 与/CCONJ 网络/NOUN 投票/NOUN 相/ADV 结合/VERB 的/PART 方式/NOUN ,/PUNCT 公司/NOUN 股东/NOUN 可以/VERB 在/ADP 交易/NOUN 时间/NOUN 内/PART 通过/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 的/PART 交易/NOUN 系统/NOUN 行使/VERB 表决权/NOUN 。/PUNCT
+公司/NOUN 股东/NOUN 参加/VERB 网络/NOUN 投票/NOUN 的/PART 程序/NOUN 事项/NOUN 见"/CCONJ 五/NUM 、/PUNCT 公司/NOUN 股东/NOUN 参加/VERB 网络/NOUN 投票/NOUN 程序/NOUN 事项/NOUN "/PUNCT 。/PUNCT
+
+二/NUM 、/PUNCT 会议/NOUN 审议/NOUN 事项/NOUN
+
+1/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 董事会/NOUN 报告/NOUN ；/PUNCT
+
+2/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NOUN 年度/NOUN 监事会/NOUN 报告/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 经/ADP 审计/NOUN 的/PART 财务/NOUN 报告/NOUN ；/PUNCT
+
+4/NUM 、/PUNCT 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 利润/NOUN 分配/NOUN 方案/NOUN ；/PUNCT
+
+公司/NOUN 董事会/NOUN 建议/VERB 向/ADP 全体/DET 股东/NOUN 派发/VERB 2005/NUM 年度/NUM 现金/NOUN 股利/NOUN 总计/ADV 人民币/NOUN 10/NUM ./PUNCT
+820亿/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN ,/PUNCT 即/ADV 每/DET 股派/NOUN 发现/VERB 金/ADJ 股利/NOUN 人民币/NOUN 0/NUM ./PUNCT
+220/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN 。/PUNCT
+其中/NOUN 包括/VERB ：/PUNCT 按/ADP 一贯/ADV 坚持/VERB 的/PART 派息/NOUN 政策/NOUN 派发/NOUN 的/PART 2005/NUM 年度/NUM 现金/NOUN 股利/NOUN 人民币/NOUN 7./NUM 377亿/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN ,/PUNCT 即/VERB 每股/ADJ 人民币/NOUN 0/NUM ./NUM
+150/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN ；/PUNCT 2005/NUM 年度/NUM 特别/ADJ 现金/NOUN 股利/NOUN 人民币/NOUN 3/NUM ./PUNCT
+443亿/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN ,/PUNCT 即/VERB 每股/ADJ 人民币/NOUN 0/NUM ./PUNCT
+070/NUM 元/NUM (/PUNCT 含/VERB 税)/NOUN ；/PUNCT
+
+5/NUM 、/PUNCT 确定/VERB 公司/NOUN 董事/NOUN 、/PUNCT 监事/NOUN 2006/NUM 年度/NOUN 酬金/NOUN ；/PUNCT
+
+6/NUM 、/PUNCT 审议/VERB 续聘德/NOUN 勤o/NOUN 关黄/VERB 陈方/PROPN 会计师/NOUN 行(/NOUN 香港/PROPN 执业/ADJ 会计师/NOUN )/VERB 、/PUNCT 德勤/PROPN 华永/PROPN 会计师/NOUN 事务所/NOUN 有限/ADJ 公司/NOUN ［/PUNCT 中国/PROPN (/PUNCT 香港/PROPN 除/ADP 外)/PROPN 注册/ADJ 会计师/NOUN ］/PUNCT 分别/ADV 为/ADP 公司/NOUN 境外/NOUN 、/PUNCT 境内/NOUN 核数/NOUN 师(/NOUN 任期/NOUN 至/CCONJ 下届/ADJ 股东/NOUN 周年/NOUN 大会/NOUN 结束/VERB )/NOUN ,/PUNCT 及/CCONJ 决定/VERB 其/PRON 酬金/NOUN ；/PUNCT
+
+7/NUM 、/PUNCT 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 章程/NOUN 修正案/NOUN 》/PUNCT (/PUNCT 全文/NOUN 刊载/VERB 于/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN ./PUNCT
+cn)/VERB ,/PUNCT 授权/VERB 公司/NOUN 董事会/NOUN 办理/VERB 公司/NOUN 章程/NOUN 修订/VERB 的/PART 具体/ADJ 事宜/NOUN ；/PUNCT
+
+8/NUM 、/PUNCT 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股东/NOUN 大会/NOUN 议事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT (/PUNCT 全文/NOUN 刊载/VERB 于/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN ./PUNCT
+cn)/VERB ；/PUNCT
+
+9/NUM 、/PUNCT 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN 议事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT (/PUNCT 全文/NOUN 刊载/VERB 于/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN ./PUNCT
+cn)/VERB ；/PUNCT
+
+10/NUM 、/PUNCT 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 监事/NOUN 会议/NOUN 事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT (/PUNCT 全文/NOUN 刊载/VERB 于/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN ./PUNCT
+cn)/VERB ；/PUNCT
+
+11/NUM 、/PUNCT 审议/NOUN 及/CCONJ 授权/NOUN 公司/NOUN 董事会/NOUN 在/ADP 相关/ADJ 期间/NOUN 决定/VERB 是否/VERB 增发/VERB H/PROPN 股(/NOUN 增发/NOUN 数量/NOUN 不/ADV 超过/VERB 本次/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 决议/VERB 通过/VERB 之/PART 日/PROPN 已/ADV 发行/VERB H股/PROPN 股份/NOUN 数量/NOUN 的/PART 20/NUM %)/NOUN 及/CCONJ 相关/ADJ 事项/NOUN ,/PUNCT 并/ADV 对/ADP 公司/NOUN 章程/NOUN 作出/VERB 相应/ADJ 修订/NOUN 。/PUNCT
+
+相关/ADJ 期间/NOUN 是/VERB 指/VERB 股东/NOUN 周年/NOUN 大会/NOUN 批准/VERB 本/DET 提案/NOUN 起/VERB 至/ADP 下列/ADJ 三者/NOUN 最/ADV 早/VERB 的/PART 日期/NOUN 为止/PART 的/PART 期间/NOUN ：/PUNCT
+
+(/PUNCT 1/NUM )/NOUN 在/ADP 本议案/NOUN 通过/VERB 后/PART ,/PUNCT 至本/VERB 公司/NOUN 下届/ADJ 股东/NOUN 周年/NOUN 大会/NOUN 结束/VERB 时/PART ；/PUNCT
+
+(/PUNCT 2/NUM )/NOUN 在/ADP 本议案/NOUN 通过/VERB 后/DET 12/NUM 个/NUM 月/NOUN 届满/VERB 之/PART 日/NOUN ；/PUNCT 或/CCONJ
+
+(/PUNCT 3/NUM )/NOUN 于/ADP 股东/NOUN 大会/NOUN 上/PART 通过/VERB 本/DET 公司/NOUN 特别/ADV 议案/NOUN 撤销/VERB 或/CCONJ 更改/VERB 本议案/NUM 所/PART 授予/VERB 之/PART 授权/NOUN 之/PART 日/NOUN 。/PUNCT
+
+上述/ADJ 第7/NUM 、/PUNCT 8/NUM 、/PUNCT 9/NUM 、/PUNCT 10/NUM 、/PUNCT 11/NUM 项/NUM 审议/NOUN 事项/NOUN 为/VERB 特别/ADJ 决议/NOUN 事项/NOUN ,/PUNCT 其他/DET 审议/NOUN 事项/NOUN 为/VERB 普通/ADJ 决议/NOUN 事项/NOUN 。/PUNCT
+
+(/PUNCT 有关/ADP 上述/ADJ 审议/NOUN 事项/NOUN 详情/NOUN ,/PUNCT 请/VERB 参见/VERB 2006年/NOUN 4月/NOUN 24日/NOUN 刊载于/NOUN 《/PUNCT 中国/PROPN 证券报/NOUN 》/PUNCT 、/PUNCT 《/PUNCT 上海/PROPN 证券报/NOUN 》/PUNCT 及/CCONJ 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN http:/NOUN ///PUNCT www.sse.com/NOUN ./PUNCT
+cn/VERB 的/PART 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 第三/NUM 届/NUM 董事会/NOUN 第五/NUM 次/NUM 会议/NOUN 决议/NOUN 公告/VERB 》/PUNCT 、/PUNCT 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 监事会/NOUN 会议/NOUN 决议/NOUN 公告/VERB 》/PUNCT 。/PUNCT
+)/PROPN
+
+三/NUM 、/PUNCT 出席/VERB 会议/NOUN 对象/NOUN
+
+1/NUM 、/PUNCT 兖矿/PROPN 集团/NOUN 有限/ADJ 公司/NOUN 股东/NOUN 代表/NOUN ；/PUNCT
+
+2/NUM 、/PUNCT 截止/ADP 2006年/NOUN 5月/NOUN 29日/NOUN 收市/VERB 后/PART ,/PUNCT 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 分公司/NOUN 登记/VERB 在册/VERB 的/PART 公司/NOUN A股/ADP 股东/NOUN 或/CCONJ 其/PRON 委托/NOUN 代理人/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT H股股/NOUN 东(/PROPN 根据/ADP 香港/PROPN 有关/ADP 要求/NOUN 发送/VERB 通知/NOUN 、/PUNCT 公告/NOUN ,/PUNCT 不/ADV 适用/VERB 本通/NOUN 知)/VERB ；/PUNCT
+
+4/NUM 、/PUNCT 公司/NOUN 董事/NOUN 、/PUNCT 监事/NOUN 和/CCONJ 高级/ADJ 管理/NOUN 人员/NOUN ；/PUNCT
+
+5/NUM 、/PUNCT 公司/NOUN 境内/NOUN 律师/NOUN ；/PUNCT
+
+6/NUM 、/PUNCT 公司/NOUN 境外/NOUN 及/CCONJ 境内/NOUN 核数师/NOUN 。/PUNCT
+
+四/NUM 、/PUNCT 登记/NOUN 方法/NOUN
+
+1/NUM 、/PUNCT 登记/VERB 时间/NOUN ：/PUNCT 拟/ADV 出席/VERB 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 的/PART 股东/NOUN 须/VERB 于/ADP 2006年/NOUN 6月/NOUN 8日/NOUN 或/CCONJ 之前/PART 办理/VERB 登记/NOUN 手续/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 登记/VERB 地点/NOUN ：/PUNCT 山东省/PROPN 邹城市/NOUN 凫山南路/VERB 298/NUM 号/NUM 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN 秘书处/NOUN 。/PUNCT
+
+3/NUM 、/PUNCT 登记/VERB 手续/NOUN ：/PUNCT
+
+法人/NOUN 股股/NOUN 东持/PROPN 法人/NOUN 单位/NOUN 营业/NOUN 执照/NOUN 复印件/NOUN 、/PUNCT 授权/NOUN 委托书/NOUN 、/PUNCT 股东/NOUN 帐户卡/NOUN 、/PUNCT 持股/ADJ 凭证/PROPN 、/PUNCT 出席人/NOUN 身份证/NOUN 和/CCONJ 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 回执/VERB 进行/VERB 登记/NOUN 。/PUNCT
+
+社会/NOUN 公众/NOUN 股股/NOUN 东本人/PROPN 出席/VERB 会议/NOUN 的/PART ,/PUNCT 持/VERB 本人/PRON 身份证/NOUN 、/PUNCT 股东/NOUN 账户卡/NOUN 、/PUNCT 持股/ADJ 凭证/PROPN 和/CCONJ 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 回执/VERB 办理/VERB 登记/NOUN 手续/NOUN ；/PUNCT 委托/NOUN 代理人/NOUN 必须/VERB 持有/VERB 授权/VERB 委托书/NOUN 、/PUNCT 委托人/NOUN 身份证/NOUN 或/CCONJ 复印件/NOUN 、/PUNCT 代理人/NOUN 身份证/NOUN 、/PUNCT 委托人/NOUN 股东/NOUN 账户卡/NOUN 、/PUNCT 持股/ADJ 凭证/PROPN 和/CCONJ 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 回执/VERB 办理/VERB 登记/NOUN 手续/NOUN 。/PUNCT
+
+公司/NOUN 股东/NOUN 可/VERB 通过/ADP 邮寄/NOUN 、/PUNCT 传真/NOUN 方式/NOUN 办理/VERB 登记/NOUN 手续/NOUN 。/PUNCT
+
+五/NUM 、/PUNCT 公司/NOUN 股东/NOUN 参加/VERB 网络/NOUN 投票/NOUN 程序/NOUN 事项/NOUN
+
+本次/ADJ 大会/NOUN 将/ADV 通过/ADP 上海/PROPN 证券/NOUN 交易所/NOUN 的/PART 交易/NOUN 系统/NOUN 进行/VERB 网络/NOUN 投票/NOUN 。/PUNCT
+
+公司/NOUN 将/ADV 于/ADP 2006年/NOUN 5月/NOUN 30日/NOUN 刊登/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 关于/ADP 召开/VERB 2005/NUM 年度/NUM 股东/NOUN 周年/NOUN 大会/NOUN 的/PART 二/NUM 次/NUM 通知/NOUN 》/PUNCT ,/PUNCT 详细/ADV 说明/VERB 公司/NOUN 股东/NOUN 参加/VERB 网络/NOUN 投票/NOUN 的/PART 程序/NOUN 。/PUNCT
+
+公司/NOUN 股东/NOUN 亦可/NOUN 通过/ADP 登陆/VERB 上海/PROPN 证券/NOUN 交易所/NOUN 网站/NOUN 查询/VERB 股东/NOUN 大会/NOUN 网络/NOUN 投票/NOUN 的/PART 程序/NOUN (/PUNCT http:/X ///PUNCT www.sse.com/NOUN ./PUNCT cn)/VERB 。/PUNCT
+
+六/NUM 、/PUNCT 其他/DET 事项/NOUN
+
+1/NUM 、/PUNCT 会议/NOUN 联系/NOUN 方式/NOUN ：/PUNCT
+
+联系/NOUN 地点/NOUN ：/PUNCT 山东省/PROPN 邹城市/NOUN 凫山南路/VERB 298/NUM 号/NUM (/PUNCT 邮编/NOUN ：/PUNCT 273500/NUM )/NOUN
+
+兖州/PROPN 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN 秘书处/NOUN
+
+联系人/NOUN ：/PUNCT 陈广水/PROPN
+
+电话/NOUN ：/PUNCT (/PUNCT 0537/NUM )/NOUN 5382319/NOUN
+
+传真/NOUN ：/PUNCT (/PUNCT 0537/NUM )/NOUN 5383311/NUM
+
+2/NUM 、/PUNCT 本次/PROPN 股东/NOUN 周年/NOUN 大会/NOUN 现场/NOUN 会议/NOUN 会期/NOUN 预计/VERB 半天/ADV ,/PUNCT 出席/VERB 现场/NOUN 会议/NOUN 人员/NOUN 的/PART 交通/NOUN 及/CCONJ 食宿费/NOUN 自理/VERB 。/PUNCT
+
+3/NUM 、/PUNCT 同一/DET 股份/NOUN 只能/ADV 选择/VERB 现场/NOUN 投票/NOUN 、/PUNCT 网络/NOUN 投票/NOUN 或/CCONJ 符合/VERB 规定/NOUN 的/PART 其他/DET 投票/NOUN 方式/NOUN 中/PART 的/PART 一/NUM 种/NUM 投票/NOUN 方式/NOUN 。/PUNCT
+如果/SCONJ 同一/DET 股份/NOUN 通过/ADP 现场/NOUN 和/CCONJ 网络/NOUN 重复/ADV 投票/VERB ,/PUNCT 以/ADP 现场/NOUN 投票/VERB 为准/VERB 。/PUNCT
+
+七/NUM 、/PUNCT 备查/NOUN 文件/NOUN 目录/NOUN
+
+1/NUM 、/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 第三/NUM 届/NUM 董事会/NOUN 第五/NUM 次/NUM 会议/NOUN 决议/VERB ；/PUNCT
+
+2/NUM 、/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 第三/NUM 届/NUM 监事会/NOUN 第三/NUM 次/NUM 会议/NOUN 决议/VERB 。/PUNCT
+
+特此/ADV 公告/VERB 。/PUNCT
+
+附件/NOUN 一/NUM ：/PUNCT 授权/VERB 委托书/NOUN ；/PUNCT
+
+附件/NOUN 二：兖州/NUM 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 回执/VERB 。/PUNCT
+
+兖州/PROPN 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN
+
+二○○六年/NOUN 五月/NOUN 八日/NOUN
+
+附件/NOUN 一/NUM :/PUNCT
+
+授权/NOUN 委托书/NOUN
+
+本人/PRON (本/NOUN 公司/NOUN )/PROPN 作为/ADP 兖州/PROPN 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/NOUN "/PUNCT 公司/NOUN ")/NOUN 的/PART 股东/NOUN ,/PUNCT 委托/VERB             /SPACE 先生/NOUN (女/NOUN 士)/PART 代表/VERB 本人/PRON (本/NOUN 公司/NOUN )/PROPN 出席/VERB 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN ：/PUNCT
+
+投票/NOUN 指示/VERB ：/PUNCT
+
+提案/VERB 序号/NOUN                                                                                                                                                                 /SPACE 会议/NOUN 审议/NOUN 事项/NOUN   /SPACE 表决/VERB 序号/NOUN   /SPACE 赞成/VERB   /SPACE 反对/VERB   /SPACE 弃权/VERB
+
+1/NUM                                                                                                                                                          /SPACE 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 董事会/NOUN 报告/VERB          /SPACE 1/NUM     /SPACE
+□/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+2/NUM                                                                                                                                                          /SPACE 审议/NOUN 公司/NOUN 2005/NOUN 年度/NOUN 监事会/NOUN 报告/NOUN          /SPACE 2/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+3/NUM                                                                                                                                                    /SPACE 审议/VERB 公司/NOUN 2005/NUM 年度/NOUN 经/ADP 审计/NOUN 的/PART 财务/NOUN 报告/NOUN          /SPACE 3/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+4/NUM                                                                                                                                                        /SPACE 审议/NOUN 公司/NOUN 2005/NUM 年度/NOUN 利润/NOUN 分配/NOUN 方案/NOUN          /SPACE 4/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+5/NUM                                                                                                                                                      /SPACE 确定/VERB 公司/NOUN 董事/NOUN 、/PUNCT 监事/NOUN 2006/NUM 年度/NOUN 酬金/VERB          /SPACE 5/NUM     /SPACE
+□/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+6/NUM          /SPACE 审议/VERB 续聘德/VERB 勤o/NOUN 关黄/VERB 陈方/PROPN 会计师/NOUN 行(/NOUN 香港/PROPN 执业/ADJ 会计师/NOUN )/VERB 、/PUNCT 德勤/PROPN 华永/PROPN 会计师/NOUN 事务所/NOUN 有限/ADJ 公司/NOUN ［/PUNCT 中国/PROPN (/PUNCT 香港/PROPN 除/ADP 外)/PROPN 注册/ADJ 会计师/NOUN ］/PUNCT 分别/ADV 为/ADP 公司/NOUN 境外/NOUN 、/PUNCT 境内/NOUN 核数/NOUN 师(/NOUN 任期/NOUN 至/CCONJ 下届/ADJ 股东/NOUN 周年/NOUN 大会/NOUN 结束/VERB )/NOUN ,/PUNCT 及/CCONJ 决定/VERB 其/PRON 酬金/VERB          /SPACE 6/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+7/NUM                                                                                                                                              /SPACE 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 章程/NOUN 修正案/NOUN 》/PUNCT          /SPACE 7/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+8/NUM                                                                                                                                  /SPACE 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股东/NOUN 大会/NOUN 议事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT          /SPACE 8/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+9/NUM                                                                                                                                    /SPACE 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN 议事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT          /SPACE 9/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+10/NUM                                                                                                                                   /SPACE 审议/VERB 《/PUNCT 兖州/ADJ 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 监事/NOUN 会议/NOUN 事/NOUN 规则/NOUN 修正案/NOUN 》/PUNCT         /SPACE 10/NUM     /SPACE
+□/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+11/NUM                                 /SPACE 审议/NOUN 及/CCONJ 授权/NOUN 公司/NOUN 董事会/NOUN 在/ADP 相关/ADJ 期间/NOUN 决定/VERB 是否/VERB 增发/VERB H/PROPN 股(/NOUN 增发/NOUN 数量/NOUN 不/ADV 超过/VERB 本次/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 决议/VERB 通过/VERB 之/PART 日/PROPN 已/ADV 发行/VERB H股/PROPN 股份/NOUN 数量/NOUN 的/PART 20/NUM %)/NOUN 及/CCONJ 相关/ADJ 事项/NOUN ,/PUNCT 并/ADV 对/ADP 公司/NOUN 章程/NOUN 作出/VERB 相应/ADJ 修订/NOUN         /SPACE 11/NUM     /SPACE □/PUNCT     /SPACE □/PUNCT     /SPACE
+□/PUNCT
+
+注/VERB ：/PUNCT 1/NUM 、/PUNCT 上述/ADJ 审议/NOUN 事项/NOUN ,/PUNCT 委托人/NOUN 可/VERB 在/ADP "/PUNCT 赞成"/NOUN 、/PUNCT "/PUNCT 反对"/NOUN 或/CCONJ "弃权/ADP "方/NOUN 框内/NOUN 划"/VERB √"/NOUN ,/PUNCT 作出/VERB 投票/NOUN 指示/NOUN 。/PUNCT
+2/NUM 、/PUNCT 如/ADV 委托人/NOUN 未/ADV 作/VERB 任何/DET 投票/NOUN 指示/NOUN ,/PUNCT 则/ADV 受托人/VERB 可以/VERB 按照/ADP 自己/PRON 的/PART 意愿/NOUN 表决/VERB 。/PUNCT
+3/NUM 、/PUNCT 本授权/PROPN 委托书/NOUN 的/PART 剪报/NOUN 、/PUNCT 复印件/NOUN 或/CCONJ 按/ADP 以上/PRON 格式/NOUN 自制/VERB 均/ADV 有效/VERB 。/PUNCT
+
+委托人/NOUN 签名/NOUN (盖/NOUN 章)/NOUN ：/PUNCT 身份证/NOUN 号码/NOUN (/PUNCT 营业/NOUN 执照/NOUN 号码/NOUN )/VERB ：/PUNCT
+
+委托人/NOUN 持/VERB 股数/NOUN ：/PUNCT 委托人/NOUN 股东/NOUN 账号/NOUN ：/PUNCT
+
+受托人/NOUN 签名/VERB ：/PUNCT 身份证/NOUN 号码/NOUN ：/PUNCT
+
+委托/NOUN 日期/NOUN ：/PUNCT          /SPACE 年/NUM    /SPACE 月/NOUN    /SPACE 日/PROPN
+
+注/VERB ：/PUNCT 社会/NOUN 公众/NOUN 股东/NOUN 签名/VERB ,/PUNCT 法人/NOUN 股东/NOUN 加盖/VERB 法人/NOUN 公章/NOUN 。/PUNCT
+
+附件/NOUN 二/NUM :/PUNCT
+
+兖州/PROPN 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 2005/NUM 年度/NOUN 股东/NOUN 周年/NOUN 大会/NOUN 回执/VERB
+
+股东/NOUN 姓/NOUN 名(/NOUN 法人/NOUN 股东/NOUN 名称/NOUN )/VERB
+
+股东/NOUN 地址/NOUN
+
+出席/VERB 会议/NOUN 人员/NOUN 姓名/VERB 身份证/NOUN 号码/NOUN
+
+委托人/NOUN (/PUNCT 法定/ADJ 代表人/NOUN 姓/NOUN 名)/PUNCT 身份证/NOUN 号码/NOUN
+
+持股量/VERB 股东/NOUN 代码/NOUN
+
+联系人/PROPN 电/NOUN  /SPACE 话/NOUN  /SPACE 传/VERB   /SPACE
+真/ADV
+
+股东/NOUN 签字/NOUN (法人/ADP 股东/NOUN 盖章/VERB )/NUM 年/NUM  /SPACE
+月/NOUN
+ /SPACE 日/PROPN
+
+兖州/PROPN 煤业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 确认/VERB (/PUNCT 盖章/VERB )/NUM 年/NUM  /SPACE 月/NOUN  /SPACE 日/PROPN
+
+注/VERB ：/PUNCT 上述/ADJ 回执/NOUN 的/PART 剪报/NOUN 、/PUNCT 复印件/NOUN 或/CCONJ 按/ADP 以上/PRON 格式/NOUN 自制/VERB 均/ADV 有效/VERB 。/PUNCT

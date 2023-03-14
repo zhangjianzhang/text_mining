@@ -1,0 +1,46 @@
+2006年/NOUN 第3/NUM 期/NUM 封面/VERB
+
+目录/NOUN
+
+“/PUNCT 机动/NOUN -/PUNCT 2005/NOUN ”/PUNCT 实兵/ADJ 演练/NOUN 掠影/NOUN ——/PUNCT Photo/PROPN Report/NOUN from/ADP Mobilization/NOUN 2005/NUM Exercise/NOUN
+
+美军/NOUN 加强/VERB 在/ADP 朝鲜/PROPN 半岛/NOUN 的/PART 空中/NOUN 力量/NOUN ——/PUNCT The/DET Future/NOUN of/ADP US/NOUN Airpower/NOUN on/ADP the/DET Korean/PROPN Peninsula/NOUN
+
+台空军/PROPN 提升/VERB “/PUNCT 决战/VERB 境外/NOUN ”/PUNCT 能力/NOUN ——/PUNCT Taiwan/PROPN Enhanced/NOUN Its/NOUN Airpower/NOUN
+
+105/NUM 毫米/NUM 火炮/NOUN 卷土重来/NOUN ——/PUNCT The/DET Revitalization/NOUN of/ADP 105/NUM mm/NOUN
+Artillery/PROPN
+
+“/PUNCT 打/VERB 了/PART 就/ADV 跑/VERB ”/PUNCT 的/PART 120/NUM 毫米/CCONJ 迫击炮/NOUN ——/PUNCT On/NOUN Various/PROPN 120/NUM mm/NOUN Self/PROPN -/PUNCT Propelled/PROPN Mortars/PROPN
+
+国外/NOUN 车/NOUN 载式/NOUN 榴弹/NOUN 炮大/NOUN 扫描/NOUN ——/PUNCT A/NOUN Survey/PROPN of/ADP Foreign/PROPN Truck/NOUN -/PUNCT Mounted/PROPN
+Howitzer/PROPN
+
+美国/PROPN 研究/VERB 核武器/NOUN “/PUNCT 可靠/ADJ 替换/VERB 弹头/NOUN ”/PUNCT ——/PUNCT US/NOUN Aims/PROPN at/ADP Reliable/PROPN Replacement/NOUN Warhead/NOUN
+
+海军/NOUN 炮射/NOUN 远程/ADJ 制导/VERB 弹药/NOUN 大观/NOUN ——/PUNCT Extended/PROPN -/PUNCT Range/VERB Guided/PROPN Munitions/PROPN of/ADP Foreign/PROPN Navy/NOUN
+
+如何/ADV 构建/VERB 中国/PROPN 特色/NOUN 的/PART 陆战/NOUN 平台/NOUN 目标/NOUN 自动/ADV 跟踪/VERB 火控/NOUN 系统/NOUN ——/PUNCT Construction/PROPN of/ADP Chinese/PROPN Land/PROPN Warfare/PROPN Platform/PROPN ATT/PROPN Fire/NOUN Control/NOUN Systems/PROPN
+
+国外/NOUN 陆军/NOUN 如何/ADV 进行/VERB 装备/NOUN 改造/NOUN ——/PUNCT Armament/NOUN Reconstruction/NOUN in/ADP Foreign/PROPN Army/NOUN
+
+美国/PROPN 机载/NOUN 激光器/NOUN ：/PUNCT ABL离/ADJ 实战/NOUN 使用/NOUN 还有/CCONJ 多/ADV 远/VERB ？/PUNCT
+——/PUNCT A/NOUN B/NOUN L/NOUN is/VERB Gaining/PROPN Access/NOUN to/ADP Application/NOUN
+
+美国/PROPN 的/PART 无人机/ADJ 转塔/NOUN 系统/NOUN ——/PUNCT U/NOUN A/NOUN V/NOUN Turret/NOUN Innovation/NOUN in/ADP the/DET US/NOUN
+
+点评/VERB 各国/NOUN 的/PART 知名/ADJ 突击/ADJ 步枪/NOUN ——/PUNCT On/NOUN Some/NOUN World/VERB -/PUNCT famous/VERB Assault/NOUN Rifles/PROPN
+
+谁/PRON 是/VERB 5./NUM 56/NUM 毫米/NUM 的/PART 继任者/NOUN ？/PUNCT
+——/PUNCT 美国/PROPN 酝酿/VERB 新/ADJ 口径/NOUN 步兵/NOUN 武器/NOUN ——/PUNCT New/NOUN Caliber/NOUN Rifles/NOUN Considered/PROPN by/ADP the/DET US/NOUN Army/NOUN
+
+自/ADV 适应/VERB 旋翼/NOUN 技术/NOUN ——/PUNCT 让/VERB 直升机/NOUN 减少/VERB 噪声/NOUN 和/CCONJ 振动/NOUN ——/PUNCT Adaptive/PROPN Rotor/PROPN Blades/NOUN Make/NOUN Helicopter/PROPN More/PROPN Quiet/PROPN
+
+交叉/NOUN 结构/NOUN 纳米计算机/VERB ——/PUNCT Crossbar/PROPN Nanocomputer/NOUN Technology/PROPN
+
+俄军/NOUN 将/ADV 效法/VERB 美军/NOUN 进行/VERB 改革/NOUN ？/PUNCT
+——/PUNCT Will/NOUN Russia/PROPN Have/PROPN A/NOUN Military/PROPN Forces/ADJ Reformation/NOUN ?/PUNCT
+
+韩国/PROPN 国防/NOUN 采办/NOUN 系统/NOUN 进行/VERB 重大/ADJ 改革/NOUN ——/PUNCT korea/NOUN Government/PROPN Established/PROPN New/DET Aquisition/NOUN System/NOUN
+
+美军/NOUN 建设/NOUN 中/PART 的/PART “/PUNCT 全球/NOUN 信息/NOUN 栅格/NOUN ”/PUNCT ——/PUNCT 从/ADP “/PUNCT 四/NUM 个/NUM 任何/DET ”/PUNCT 变为/VERB “/PUNCT 五/NUM 个/NUM 恰当/NOUN ”/PUNCT 的/PART 基础/NOUN ——/PUNCT The/DET GIG/NOUN :/PUNCT Everything/PROPN on/ADP the/DET Network/NOUN

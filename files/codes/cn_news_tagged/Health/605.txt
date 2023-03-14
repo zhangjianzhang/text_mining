@@ -1,0 +1,8 @@
+在/ADP 河南/PROPN 灵宝市/NOUN ，/PUNCT 全/DET 市/NOUN 有/VERB 百分之八十八点五/NUM 的/PART 农民/NOUN 参加/VERB 合作/NOUN 医疗/NOUN ，/PUNCT 不/ADV 到/VERB 一/NUM 年/NUM 时间/NOUN ，/PUNCT 补助/VERB 农民/NOUN 医疗/NOUN 金额/NOUN 达/VERB 一百二十九万/NUM 元/NUM ，/PUNCT 新型/ADJ 农村/NOUN 合作/NOUN 医疗/NOUN 为/ADP 农民/NOUN 带来/VERB 的/PART 实惠/NOUN 早已/ADV 有目共睹/VERB 。/PUNCT
+
+四月/NOUN 二十六日/NOUN ，/PUNCT 记者/NOUN 在/ADP 河南省/PROPN 灵宝市/NOUN 阳平镇/NOUN 卫生院/NOUN 看到/VERB ，/PUNCT 四十/NUM 岁/NUM 的/PART 申花伴/NOUN 从/ADP 灵宝/VERB 市委/NOUN 宣传部/NOUN 张成宝/PROPN 部长/NOUN 和/CCONJ 卫生局/NOUN 局长/NOUN 马宽荣/PROPN 手里/NOUN 接过/VERB 了/PART 七千六百/NUM 元/NUM 钱/NOUN 。/PUNCT
+原来/ADV ，/PUNCT 两/NUM 个/NUM 月/NOUN 前/PART ，/PUNCT 她/PRON 的/PART 丈夫/NOUN 杨明祥/PROPN 被/X 烧伤/VERB ，/PUNCT 在/ADP 卫生院/NOUN 住院/VERB 用/VERB 了/PART 两万多/NUM 元/NUM ，/PUNCT 因为/ADP 参加/VERB 了/PART 灵宝市/NOUN 新型/ADJ 农村/NOUN 合作/VERB 医疗/NOUN ，/PUNCT 象/ADP 这种/DET 情况/NOUN ，/PUNCT 能/VERB 报销/VERB 百分之四十/NUM 的/PART 医药费/NOUN 。/PUNCT
+因此/ADV ，/PUNCT 申花伴/NOUN 领到/VERB 了/PART 这/DET 七千多/NUM 元/NUM 钱/NOUN 。/PUNCT
+
+据/ADP 介绍/NOUN ，/PUNCT 二OO五年/NOUN 年底/NOUN ，/PUNCT 灵宝市/NOUN 被/X 确定/VERB 为/ADP 河南省/PROPN 新型/ADJ 农村/NOUN 合作/NOUN 医疗/NOUN 第二/NUM 批/NUM 试点县/NOUN (/PUNCT 市)/ADV ，/PUNCT 截止到/ADP 四月/NOUN 十五日/NOUN ，/PUNCT 全/DET 市/NOUN 参加/VERB 合作/VERB 医疗/NOUN 的/PART 农民/NOUN 已/ADV 达到/VERB 了/PART 五十二万多/NUM 人/NOUN ，/PUNCT 占/VERB 全/DET 市/NOUN 农业/NOUN 总人口/NOUN 五十九点二万/NUM 人/NOUN 的/PART 百分之八十八点五/NUM ，/PUNCT 全/DET 市/NOUN 共/ADV 补助/VERB 参合/VERB 农民/NOUN 四万两千多/NUM 人/NOUN ，/PUNCT 补助/VERB 金额/NOUN 一百二十九万/NUM 元/NUM 。/PUNCT
+灵宝市/NOUN 的/PART 农村/NOUN 合作/VERB 医疗/NOUN 的/PART 初见成效/NOUN ，/PUNCT 明显/ADV 缓解/VERB 了/PART 农民/NOUN 看/VERB 病难/NOUN 、/PUNCT 看/VERB 病贵/NOUN 问题/NOUN 。/PUNCT

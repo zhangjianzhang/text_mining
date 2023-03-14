@@ -1,0 +1,65 @@
+中高级/ADJ 饭店/NOUN
+
+1/NUM 、/PUNCT Hotel/PROPN Steigenberger/PROPN Frankfurter/PROPN Hof/NOUN
+
+离/VERB 体育场/NOUN 7/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 14/NUM 公里/NUM ，/PUNCT 是/VERB 五星级/ADJ 饭店/NOUN
+
+地址/NOUN ：/PUNCT 在/ADP Kaiserplat/PROPN z/PROPN 广场/NOUN
+
+费用/NOUN ：/PUNCT
+143－362/NOUN 欧元/NOUN
+
+2/NUM 、/PUNCT Abrabella/PROPN Grand/PROPN Hotel/PROPN
+
+地址/NOUN ：/PUNCT Konrad－Adenauer/PROPN －/PUNCT Strasse街/PROPN
+7号/NOUN
+
+费用/NOUN ：/PUNCT 246－387/NUM
+欧元/NOUN
+
+3/NUM 、/PUNCT Hotel/PROPN Inercontinental/PROPN Frankfurt/PROPN
+
+离/VERB 体育场/NOUN 6/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 10/NUM 公里/NUM ，/PUNCT 是/VERB 四星级/NOUN 饭店/NOUN
+
+地址/NOUN ：/PUNCT Wihelm/PROPN Leuschner/PROPN Strasse街/PROPN 43号/NUM
+
+费用/NOUN ：/PUNCT
+214－376/NUM 欧元/NOUN
+
+4/NUM 、/PUNCT Hotel/PROPN Excelsior/PROPN
+
+地址/NOUN ：/PUNCT Mannheimer/PROPN Str街/VERB 7－9号/NUM ，/PUNCT 在/ADP 火车站/NOUN 的/PART 右边/NOUN 。/PUNCT
+
+费用/NOUN ：/PUNCT 201/NUM 欧元/NOUN －/PUNCT 250/NUM 欧元/NOUN
+
+5/NUM 、/PUNCT Wald/NOUN Hotel/PROPN (Hensels/PART Felsenkeller/PROPN )/PROPN
+
+地址/NOUN ：/PUNCT Buchrain/PROPN Strasse街/PROPN 95号/NOUN ,/PUNCT 在/ADP 火车站/NOUN 乘坐/VERB 15号/NUM 电车/NUM 到/CCONJ Buchrain/PROPN Strasse街/PROPN ，/PUNCT 再/ADV 步行/VERB 8/NUM 分钟/NUM 即/ADV 到/VERB 。/PUNCT
+
+费用/NOUN ：/PUNCT 50/NUM 欧元/NOUN －/PUNCT 100/NUM 欧元/NOUN
+
+6/NUM 、/PUNCT Hotel/PROPN Pension/NOUN Backer/PROPN
+
+地址/NOUN ：/PUNCT Meldelsohn/PROPN Strasse街/NOUN 92号/NOUN ，/PUNCT 出/VERB 火车站/NOUN 左前方/NOUN 步行/VERB 约/ADV 10/NUM 分钟/NUM 。/PUNCT
+
+费用/NOUN ：/PUNCT 100/NUM 欧元/NOUN －/PUNCT 150/NUM 欧元/NOUN
+
+7/NUM 、/PUNCT Hotel/PROPN Atlas/PROPN
+
+地址/NOUN ：/PUNCT Zimmerweg/PROPN 街1号/NOUN ,/PUNCT 出/VERB 火车站/NOUN 直行/VERB 至/CCONJ Landstrasse街/PROPN 向/ADP 左转/NOUN 。/PUNCT
+
+费用/NOUN ：/PUNCT 50/NUM 欧元/NOUN －/PUNCT 100/NUM 欧元/NOUN
+
+一般/ADJ 旅馆/NOUN 住宿/NOUN     /SPACE 法兰克福/PROPN 青年/NOUN 旅社/NOUN JH/VERB Frankfurt/PROPN -/PUNCT 青年/NOUN 之/PART 家/NOUN Haus/NOUN der/NOUN Jugend/PROPN
+
+离/ADP 体育馆/NOUN 大概/ADV 6/NUM 公里/NUM
+
+地址/NOUN ：/PUNCT Deutschherrnufer街/PROPN
+12号/NOUN
+
+60594/NUM Frankfurt/PROPN //PUNCT
+Main/PROPN
+
+Tel/NOUN :/PUNCT 069/NUM //PUNCT 6100150/NUM
+
+Fax/VERB :/PUNCT 069/NUM //PUNCT 61001599/NUM [详/PROPN 细]/NOUN

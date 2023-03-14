@@ -1,0 +1,620 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 信息/NOUN 披露/VERB 的/PART 内容/NOUN 真实/VERB 、/PUNCT 准确/VERB 、/PUNCT 完整/VERB ，/PUNCT 没有/VERB 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或/CCONJ 重大/ADJ 遗漏/NOUN 。/PUNCT
+
+一/NUM 、/PUNCT 预计/VERB 全年/ADV 日常/ADJ 关联/NOUN 交易/NOUN 的/PART 基本/ADJ 情况/NOUN
+
+单位/NOUN ：/PUNCT 人民币/NUM 元/NUM
+
+交易/NOUN 类别/NOUN    /SPACE 交易/NOUN 内容/NOUN               /SPACE 关联/NOUN 方名/NOUN 称/VERB                  /SPACE 预计/VERB 2006年/NOUN 总/ADJ 金额/NOUN  /SPACE 占/VERB 同类/NOUN 交易/NOUN 的/PART 比例/NOUN   /SPACE 2005年/NOUN 实际/ADV 发生/VERB 总/ADJ 金额/NOUN
+
+采购/VERB        /SPACE 原材料/NOUN           /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN            /SPACE 340/NUM ,/PUNCT 716/NUM ,/PUNCT 678/NUM ./PUNCT
+46/NUM       /SPACE 8/NUM ./PUNCT
+57/NUM %/PUNCT             /SPACE 411/NUM ,/PUNCT 399/NUM ,/PUNCT 540/NUM ./PUNCT
+27/NUM
+
+机器/NOUN 设备/NOUN                                             /SPACE 29/NUM ,/PUNCT 556/NUM ,/PUNCT 650/NUM ./PUNCT
+25/NUM        /SPACE 7./NUM 89/NUM %/PUNCT              /SPACE 29/NUM ,/PUNCT 602/NUM ,/PUNCT 386/NUM ./PUNCT
+95/NUM
+
+模具/NOUN                                                 /SPACE
+36/NUM ,/PUNCT 911/NOUN ,/PUNCT 214/NUM ./PUNCT
+07/NUM       /SPACE 22/NUM ./PUNCT 99%/VERB              /SPACE
+55/NUM ,/PUNCT 849/NUM ,/PUNCT 381/NUM ./PUNCT
+14/NUM
+
+小计/NOUN                                                 /SPACE 407/NUM ,/PUNCT 184/NUM ,/PUNCT 542/NUM ./PUNCT
+77/NUM      /SPACE 39/NUM ./PUNCT
+45%/NOUN             /SPACE 496/NUM ,/PUNCT 851/NUM ,/PUNCT 308/NUM ./PUNCT
+36/NUM
+
+原材料/NOUN           /SPACE 厦门/PROPN 升明/NOUN 有限/ADJ 公司/NOUN                    /SPACE 115/NUM ,/PUNCT 471/NUM ,/PUNCT 198/NUM ./PUNCT
+05/NUM       /SPACE 1./NOUN 93%/NOUN              /SPACE 92/NUM ,/PUNCT 376/NUM ,/PUNCT 958/NUM ./PUNCT
+44/NUM
+
+销售/VERB        /SPACE 成品/NOUN             /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN            /SPACE 114/NUM ,/PUNCT 839/NUM ,/PUNCT 999/NUM ./PUNCT
+83/NUM       /SPACE 1./NOUN 82/NUM %/PUNCT              /SPACE 91/NUM ,/PUNCT 871/NUM ,/PUNCT 999/NUM ./PUNCT
+86/NUM
+
+设备/NOUN                                                 /SPACE 220/NUM ,/PUNCT 092/NUM ./PUNCT
+38/NUM           /SPACE 0.00%/PUNCT                 /SPACE 176/NUM ,/PUNCT 073/NUM ./PUNCT
+90/NOUN
+
+小计/NOUN                                                 /SPACE 115/NUM ,/PUNCT 060/NUM ,/PUNCT 092/NUM ./PUNCT
+21/NUM       /SPACE 1./NOUN 82/NUM %/PUNCT              /SPACE 92/NUM ,/PUNCT 048/NUM ,/PUNCT 073/NUM ./PUNCT
+76/NUM
+
+成品/NOUN             /SPACE 灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN                /SPACE 339/NUM ,/PUNCT 433/NUM ,/PUNCT 757/NUM ./PUNCT
+90/NOUN       /SPACE 5./NUM 38%/NUM             /SPACE 271/NUM ,/PUNCT 547/NUM ,/PUNCT 006/NUM ./PUNCT
+32/NUM
+
+原材料/NOUN           /SPACE 厦门/PROPN 升明/NOUN 有限/ADJ 公司/NOUN                    /SPACE 40/NUM ,/PUNCT 844/NUM ./PUNCT
+61/NUM            /SPACE 0.00%/PUNCT                  /SPACE 32/NUM ,/PUNCT 675/NUM ./PUNCT
+69/NUM
+
+提供/VERB 劳务/NOUN    /SPACE 经营/NOUN 服务费/NOUN       /SPACE 厦门/PROPN 升明/NOUN 有限/ADJ 公司/NOUN                    /SPACE 406/NUM ,/PUNCT 196/NUM ./PUNCT 65/NUM         /SPACE 100/NUM ./PUNCT
+00/NUM %/PUNCT                 /SPACE 384/NUM ,/PUNCT 051/NUM ./PUNCT
+17/NUM
+
+接受/VERB 劳务/NOUN    /SPACE 技术/NOUN 报酬/VERB 金/ADJ       /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN            /SPACE 122/NUM ,/PUNCT 889/NUM ,/PUNCT 005/NUM ./PUNCT
+93/NOUN      /SPACE 81/NUM ./PUNCT
+65%/VERB
+            /SPACE 143/NUM ,/PUNCT 033/NUM ,/PUNCT 793/NUM ./PUNCT
+15/NUM
+
+代办费/NOUN           /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN            /SPACE
+22/NUM ,/PUNCT 183/NUM ,/PUNCT 315/NUM ./PUNCT 64/NUM       /SPACE 76/NUM ./PUNCT
+18%/PUNCT              /SPACE
+27/NUM ,/PUNCT 931/NUM ,/PUNCT 870/NUM ./PUNCT
+14/NUM
+
+代办费/NOUN           /SPACE 香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN                    /SPACE 2/NUM ,/PUNCT 311/NUM ,/PUNCT 965/NUM ./PUNCT
+58/NUM         /SPACE 5./NUM 04/NUM
+%/PUNCT               /SPACE 1/NUM ,/PUNCT 849/NUM ,/PUNCT 572/NUM ./PUNCT
+47/NUM
+
+代办费/NOUN           /SPACE 美国/PROPN 灿坤/VERB 有限/ADJ 公司/NOUN                    /SPACE 8/NUM ,/PUNCT 604/NUM ,/PUNCT 766/NUM ./PUNCT
+80/NUM        /SPACE 18/NUM ./PUNCT
+77/NUM %/PUNCT               /SPACE 6/NUM ,/PUNCT 883/NUM ,/PUNCT 813/NUM ./PUNCT
+44/NUM
+
+二/NUM 、/PUNCT 关联方/PROPN 介绍/VERB 和/CCONJ 关联/NOUN 关系/NOUN
+
+1/NUM 、/PUNCT 基本/ADJ 情况/NOUN ：/PUNCT
+
+企业/NOUN 名称/NOUN                   /SPACE 法定/ADJ 代表人/NOUN                                                /SPACE 地址/NOUN   /SPACE 注册/NOUN 资本额/NOUN (/PUNCT 单位/NOUN :/PUNCT 千/NUM 元/NUM )/NOUN   /SPACE 主要/ADV 营业/VERB 或/CCONJ 生产/NOUN 项目/NOUN
+
+台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN       /SPACE 吴灿坤/PROPN                       /SPACE 台北市/PROPN 内湖区/ADV 堤顶/PROPN 大道/NOUN 一/NUM 段/NUM 331/NUM 号/NUM           /SPACE NTD/PROPN :/PUNCT 2/NUM ,/PUNCT 212/NUM ,/PUNCT 150/NUM  /SPACE 小家电/PROPN 其/PRON 原料/NOUN 、/PUNCT 设备/NOUN
+
+之/PART
+加工/NOUN 、/PUNCT 制造/NOUN 、/PUNCT 销售/NOUN
+
+与/CCONJ 电器/NOUN 百货/NOUN 零售/NOUN 买卖/NOUN
+
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN               /SPACE 吴灿坤/PROPN          /SPACE 香港/PROPN 柴湾/NOUN 利众/NOUN 街/NOUN 20号/NUM 柴湾/NOUN 中心/NOUN 工业/NOUN 大厦/NOUN 14/NUM 楼/NOUN B2室/NOUN                 /SPACE HKD/NOUN :/PUNCT 900/NUM  /SPACE 进出口/NOUN 贸易/NOUN
+
+美国/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN               /SPACE 吴灿坤/PROPN   /SPACE 267/NUM E/NOUN ./PUNCT
+Walnut/NOUN Street/ADJ Pasadena/PROPN ,/PUNCT California/PROPN ./PUNCT
+91007/NOUN ,/PUNCT U/NOUN ./PUNCT
+S/X ./PUNCT
+A/NOUN ./PUNCT
+              /SPACE US/NOUN D/NOUN :/PUNCT 1/NUM ,/PUNCT 928/NUM  /SPACE 进出口/NOUN 贸易/NOUN
+
+灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN           /SPACE 吴灿坤/PROPN                   /SPACE
+日本/PROPN 东京都/PROPN 台东区/PROPN 台东/PROPN 一丁目/NOUN 24/NUM 番/NUM 1号/NOUN             /SPACE JPD/PROPN :/PUNCT 490/NUM ,/PUNCT 000/NUM  /SPACE 批零/VERB 及/CCONJ 设计/VERB
+
+厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN           /SPACE 吴灿坤/PROPN                      /SPACE 厦门湖/PROPN 里/PART 工业区/NOUN 悦华路/NOUN 38号/NOUN 5/NUM 至/CCONJ 6/NUM 层/NUM               /SPACE US/NOUN D/NOUN :/PUNCT 8/NUM ,/PUNCT 000/NUM  /SPACE 制造/NOUN 及/CCONJ 销售家/NOUN
+
+电/NOUN 配件/NOUN
+
+2/NUM 、/PUNCT 与/CCONJ 上市/NOUN 公司/NOUN 的/PART 关联/NOUN 关系/NOUN
+
+关联/NOUN 方名/NOUN 称/VERB                         /SPACE 与/CCONJ 公司/NOUN 的/PART 关系/NOUN                         /SPACE 具体/ADJ 关联/NOUN 关系/NOUN
+
+台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN               /SPACE 控股/ADJ 股东/NOUN   /SPACE 符合/VERB 深交所/PROPN 股票/NOUN 上市/NOUN 规则/NOUN 10/NUM ./PUNCT
+1.3/NUM 第一/NUM 项/NUM
+
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN           /SPACE 关联/VERB 自然人/NOUN 控制/VERB 的/PART 法人/NOUN   /SPACE 符合/VERB 深交所/PROPN 股票/NOUN 上市/NOUN 规则/NOUN 10/NUM ./PUNCT
+1.3/NUM 第三/NUM 项/NUM
+
+美国/PROPN 灿坤/VERB 有限/ADJ 公司/NOUN             /SPACE 控股/ADJ 股东/NOUN 控制/VERB 的/PART 法人/NOUN   /SPACE 符合/VERB 深交所/PROPN 股票/NOUN 上市/NOUN 规则/NOUN 10/NUM ./PUNCT
+1.3/NUM 第二/NUM 项/NUM
+
+灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN         /SPACE 控股/ADJ 股东/NOUN 控制/VERB 的/PART 法人/NOUN   /SPACE 符合/VERB 深交所/PROPN 股票/NOUN 上市/NOUN 规则/NOUN 10/NUM ./PUNCT
+1.3/NUM 第二/NUM 项/NUM
+
+厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN       /SPACE 关联/VERB 自然人/NOUN 控制/VERB 的/PART 法人/NOUN   /SPACE 符合/VERB 深交所/PROPN 股票/NOUN 上市/NOUN 规则/NOUN 10/NUM ./PUNCT
+1.3/NUM 第三/NUM 项/NUM
+
+3/NUM 、/PUNCT 履约/NOUN 能力/NOUN 分析/VERB ：/PUNCT
+
+关联/NOUN 方名/NOUN 称/VERB                                                               /SPACE 经营/NOUN 情况/NOUN                                           /SPACE 帐款/NOUN 回收/NOUN 能力/NOUN
+
+台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN                     /SPACE 销售/NOUN 信用/NOUN 良好/VERB ，/PUNCT 仍/ADV 保持/VERB 良好/VERB 的/PART 发展/NOUN 趋势/NOUN 。/PUNCT
+  /SPACE 营运/NOUN 获利/NOUN 稳定/VERB ，/PUNCT 现金/NOUN 流量/NOUN 正常/VERB 且/CCONJ 支付/VERB 正常/NOUN ，/PUNCT 帐款/VERB 回收/NOUN 无虞/VERB 。/PUNCT
+
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN                                       /SPACE 进出口/NOUN 贸易/NOUN 业务/NOUN ，/PUNCT 经营/VERB 稳定/VERB 。/PUNCT
+                            /SPACE 本公/NOUN 对/ADP 其/PRON 无应/NOUN 收帐/VERB 款/NOUN 无/VERB 此/DET 问题/NOUN
+
+美国/PROPN 灿坤/VERB 有限/ADJ 公司/NOUN                                       /SPACE 进出口/NOUN 贸易/NOUN 业务/NOUN ，/PUNCT 经营/VERB 稳定/VERB 。/PUNCT
+                            /SPACE 本公/NOUN 对/ADP 其/PRON 无应/NOUN 收帐/VERB 款/NOUN 无/VERB 此/DET 问题/NOUN
+
+灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN       /SPACE 应收/NOUN 帐款/NOUN 回款/VERB 及时/VERB ，/PUNCT 销售/NOUN 信用/NOUN 良好/VERB ，/PUNCT 仍/ADV 保持/VERB 良好/VERB 的/PART 发展/NOUN 趋势/NOUN 。/PUNCT
+  /SPACE 营运/NOUN 获利/NOUN 稳定/VERB ，/PUNCT 现金/NOUN 流量/NOUN 正常/VERB 且/CCONJ 支付/VERB 正常/NOUN ，/PUNCT 帐款/VERB 回收/NOUN 无虞/VERB 。/PUNCT
+
+厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN       /SPACE 应收/NOUN 帐款/NOUN 回款/VERB 及时/VERB ，/PUNCT 销售/NOUN 信用/NOUN 良好/VERB ，/PUNCT 仍/ADV 保持/VERB 良好/VERB 的/PART 发展/NOUN 趋势/NOUN 。/PUNCT
+  /SPACE 经营/NOUN 状况/NOUN 佳/VERB ，/PUNCT 现金/NOUN 流量/NOUN 正常/VERB ，/PUNCT 且/CCONJ 支付/VERB 正常/NOUN ，/PUNCT 无坏帐/ADJ 可能性/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 与/ADP 该/DET 关联人/NOUN 进行/VERB 的/PART 各类/ADJ 日常/ADJ 关联/NOUN 交易/NOUN 总额/NOUN ：/PUNCT
+
+单位/NOUN ：/PUNCT 人民币/NUM 元/NUM
+
+关联/NOUN 方名/NOUN 称/VERB                   /SPACE 交易/NOUN 类别/NOUN   /SPACE 预计/VERB 2006年/NOUN 的/PART 日常/ADJ 关联/NOUN 交易汇/NOUN 总额/NOUN   /SPACE 2005年/NOUN 的/PART 日常/ADJ 关联/NOUN 交易汇/NOUN 总额/NOUN
+
+台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN         /SPACE 采购/VERB                   /SPACE 407/NUM ,/PUNCT 184/NUM ,/PUNCT 542/NUM ./PUNCT
+77/NUM               /SPACE 496/NUM ,/PUNCT 851/NUM ,/PUNCT 308/NUM ./PUNCT
+36/NUM
+
+销售/NOUN                   /SPACE 115/NUM ,/PUNCT 060/NUM ,/PUNCT 092/NUM ./PUNCT
+21/NUM                /SPACE 92/NUM ,/PUNCT 048/NUM ,/PUNCT 073/NUM ./PUNCT
+76/NUM
+
+技术/NOUN 报酬/NOUN 金/ADJ                   /SPACE 122/NUM ,/PUNCT 889/NUM ,/PUNCT 005/NUM ./PUNCT
+93/NUM               /SPACE 143/NUM ,/PUNCT 033/NUM ,/PUNCT 793/NUM ./PUNCT
+15/NUM
+
+代办费/NOUN                    /SPACE 22/NUM ,/PUNCT 183/NUM ,/PUNCT 315/NUM ./PUNCT 64/NUM                /SPACE 27/NUM ,/PUNCT 931/NUM ,/PUNCT 870/NUM ./PUNCT
+14/NUM
+
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN               /SPACE 代办费/NOUN                     /SPACE 2/NUM ,/PUNCT 311/NUM ,/PUNCT 965/NUM ./PUNCT
+58/NUM                 /SPACE 1/NUM ,/PUNCT 849/NUM ,/PUNCT 572/NUM ./PUNCT
+47/NUM
+
+美国/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN               /SPACE 代办费/NOUN                     /SPACE 8/NUM ,/PUNCT 604/NUM ,/PUNCT 766/NUM ./PUNCT 80/NUM                 /SPACE 6/NUM ,/PUNCT 883/NUM ,/PUNCT 813/NUM ./PUNCT
+44/NUM
+
+灿坤/VERB 日本/PROPN 电器/NOUN 株式会社/NOUN             /SPACE 销售/VERB                   /SPACE 339/NUM ,/PUNCT 433/NUM ,/PUNCT 757/NUM ./PUNCT
+90/NOUN               /SPACE 271/NUM ,/PUNCT 547/NUM ,/PUNCT 006/NUM ./PUNCT
+32/NUM
+
+厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN             /SPACE 采购/VERB                   /SPACE 115/NUM ,/PUNCT 471/NUM ,/PUNCT 198/NUM ./PUNCT
+05/NUM                /SPACE 92/NUM ,/PUNCT 376/NUM ,/PUNCT 958/NUM ./PUNCT
+44/NUM
+
+销售/NOUN                        /SPACE 40/NUM ,/PUNCT 844/NUM ./PUNCT
+61/NUM                    /SPACE 32/NUM ,/PUNCT 675/NUM ./PUNCT
+69/NUM
+
+经营/NOUN 服务费/NOUN                       /SPACE 406/NUM ,/PUNCT 196/NUM ./PUNCT
+65/NUM                   /SPACE 384/NUM ,/PUNCT 051/NUM ./PUNCT
+17/NUM
+
+二/NUM 、/PUNCT 定价/NOUN 政策/NOUN 和/CCONJ 定价/NOUN 依据/NOUN
+
+交易/NOUN 类别/NOUN                       /SPACE 交易/NOUN 定价/NOUN 政策/NOUN                                   /SPACE 定价/NOUN 依据/NOUN
+
+成品/NOUN 、/PUNCT 原物料/NOUN 、/PUNCT              /SPACE 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以/ADP         /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKE)/NOUN 、/PUNCT 灿坤/VERB 日/PROPN
+
+模具/NOUN 、/PUNCT 机器/NOUN 设备/NOUN              /SPACE 下/PART 简称/VERB TKC)/PROPN 及其/CCONJ 子公司/NOUN 与/CCONJ 台湾/PROPN          /SPACE 本/DET 电器/NOUN 株式/NOUN 会/VERB 社(/VERB 以下/PART 简称/VERB TKJ)/NOUN 、/PUNCT 厦门/PROPN 升明/ADJ 电子/NOUN 有限/VERB
+
+买卖/NOUN                        /SPACE 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADJ 简/ADJ         /SPACE 公司/NOUN (/PUNCT 以下/ADV 简称/NOUN TKM)/NOUN ，/PUNCT
+将/ADV 与/ADP 其它/DET 非关/ADV 联人/NOUN 在/ADP 同时期/NOUN 与/CCONJ
+
+称/VERB TKE)/NOUN 、/PUNCT 灿坤/VERB 日本/PROPN 电器/NOUN 株式/NOUN 会/VERB          /SPACE 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKC)/NOUN 及其/CCONJ 子公/PROPN
+
+社(/NOUN 以下/PART 简称/VERB TKJ)/NOUN 、/PUNCT 厦门/PROPN 升明/VERB 电/NOUN         /SPACE 司/NOUN 交易/NOUN 的/PART 相同/ADJ 产品/NOUN 的/PART 价格/NOUN 保持/VERB 一致/NOUN 。/PUNCT
+
+子/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/NOUN TKM)/NOUN ，/PUNCT 在/ADP
+
+灿坤/NOUN 集团/NOUN 构思/NOUN 境内外/NOUN 销售/NOUN 渠道/NOUN
+
+采购/NOUN 政策/NOUN 分工/NOUN 架构/NOUN 下/PART ，/PUNCT 关联/NOUN 交易/NOUN
+
+依/ADP 产品/NOUN 的/PART 市场/NOUN 代理/NOUN 价格/NOUN 而/PART 确定/VERB
+
+的/PART 。/PUNCT
+
+技术/NOUN 报酬/VERB 金/ADJ                  /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以/ADP         /SPACE 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKC)/NOUN 及其/CCONJ 子公/PROPN
+
+下/PART 简称/VERB TKE)/NOUN 主要/ADV 负责/VERB 集团/NOUN 长期/ADJ          /SPACE 司/NOUN 定价/NOUN 依据/NOUN 系/NOUN 根据/ADP 中国/PROPN 证券/NOUN 监督/NOUN 管理/NOUN 委员会/NOUN 信息/NOUN 中/PART
+
+产品/NOUN 开发/NOUN 设计/NOUN 及/CCONJ 掌握/VERB 核心/ADJ 生产/NOUN          /SPACE 心/NOUN 发布/VERB 的/PART 《/PUNCT 上市/ADJ 公司/NOUN 行业/NOUN 分类/ADJ 手册/NOUN 》/PUNCT ，/PUNCT 找到/VERB “/PUNCT C/NOUN 5/NUM 电子/NOUN ”/PUNCT
+
+技术/NOUN ，/PUNCT 并/CCONJ 将/X 此/DET 技术/NOUN 移转/VERB 给/ADP 厦门/PROPN 灿/VERB        /SPACE 类/NOUN 和/CCONJ “/PUNCT C/NOUN 7/NUM 机械/NOUN 、/PUNCT 设备/NOUN 、/PUNCT 仪表/NOUN ”/PUNCT 两/NUM 类/NUM 。/PUNCT
+下分/NOUN “/PUNCT C/NOUN 5/NUM 电子/NOUN
+
+坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB         /SPACE 元器件/NOUN 制造业/NOUN ”/PUNCT 、/PUNCT “/PUNCT C55/VERB 日用/ADJ 电子/NOUN 器具/NOUN 制造业/NOUN ”/PUNCT 、/PUNCT “/PUNCT C57/PROPN
+
+TKC)/NOUN 及其/CCONJ 子公司/NOUN 使用/VERB ，/PUNCT 其/PRON 包括/VERB          /SPACE 其它/DET 电子/NOUN 设备/NOUN 制造业/NOUN ”/PUNCT 、/PUNCT “/PUNCT C76/ADJ 电器/NOUN 机械/NOUN 及/CCONJ 器材/NOUN 制造/VERB
+
+技术/NOUN 知识/NOUN 、/PUNCT 数据/NOUN 、/PUNCT 信息/NOUN 、/PUNCT 专有/VERB 技/NOUN        /SPACE 业/NOUN ”/PUNCT 和/CCONJ “/PUNCT C78/NOUN 仪器/NOUN 仪表/NOUN 及/CCONJ 文化/NOUN 、/PUNCT 办公用/ADJ 机械/NOUN 制造业/NOUN ”/PUNCT
+
+术/NOUN 、/PUNCT 制作/VERB 技术/NOUN 、/PUNCT 工程/NOUN 数据/NOUN 、/PUNCT 材料/NOUN        /SPACE 六/NUM 类/NUM 。/PUNCT
+根据/ADP 相关/ADJ 分类/NOUN 描述/NOUN 及/CCONJ TKC/PROPN 及子/ADJ 公司/NOUN 实际/ADV 生产/VERB
+
+规格/NOUN 、/PUNCT 及/CCONJ 其它/DET 相关/ADJ 数据/NOUN ；/PUNCT 并/ADV 有/VERB 权/NOUN        /SPACE 情况/NOUN ，/PUNCT 为/ADP 使/VERB 可/VERB 比较/ADV 公司/NOUN 的/PART 选择/NOUN 范围/NOUN 尽可能/ADV 广从而/PROPN 提高/VERB
+
+使用/VERB 授权/NOUN 技术/NOUN 在/ADP 大陆/NOUN 制造/VERB 及销/ADJ          /SPACE 可比性/ADV 分析/VERB 的/PART 可信性/NOUN ，/PUNCT 将/ADV 归入/VERB C51/VERB 、/PUNCT C55/PROPN 、/PUNCT C57/PROPN (C/PUNCT
+59/NUM
+
+售/VERB 获准/NOUN 产品/NOUN 及/CCONJ 将/ADV 获准/VERB 产品/NOUN 出口/NOUN          /SPACE 中/PART 尚/ADV 无/VERB 上市/NOUN 公司/NOUN 被/X 归入/VERB )/VERB 、/PUNCT C76/PROPN 和/CCONJ C78/NOUN 中/PART 的/PART 所有/DET 98/NUM 家/NUM
+
+或/CCONJ
+销售/VERB 到/VERB 世界/NOUN 各地/NOUN 。/PUNCT
+为/ADP 确保/VERB 获准/VERB        /SPACE 上市/NOUN 公司/NOUN 选定/NOUN 为/ADP 供/VERB 筛选/NOUN 的/PART 可/VERB 比较/ADV 公司/NOUN ；/PUNCT 在/ADP 比较/ADV 验证/VERB 受/VERB
+
+产品/NOUN 之/PART 质量/NOUN 和/CCONJ 标准/NOUN ，/PUNCT TKE/PROPN 应对/VERB          /SPACE 测/ADP 个体/NOUN 与/CCONJ 可/VERB 比较/ADV 公司/NOUN 的/PART 财务/NOUN 结果/NOUN 时/PART ，/PUNCT 使用/VERB 四分/NUM 位法/NOUN
+将/X
+
+TKC/PROPN 及子/ADJ 公司/NOUN 所/PART 送来/VERB 之样/NOUN 品进/NOUN          /SPACE 可以/VERB 提高/VERB 可/VERB 比较/ADV 公司/NOUN 利润/NOUN 水平/NOUN 的/PART 稳定性/NOUN 及/CCONJ 可信性/NOUN 。/PUNCT
+
+行/VERB 检验/NOUN 、/PUNCT 评估/NOUN 和/CCONJ 作出/VERB 报告/NOUN 。/PUNCT
+
+经营/NOUN 服务费/NOUN                  /SPACE 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以/ADP         /SPACE 厦门/PROPN 升明/ADJ 电子/NOUN 有限/ADJ 公司/NOUN 以/ADP 每月/DET 营业额/NOUN (净额/NOUN )/NOUN 之/PART 0.25%/NOUN
+
+下/PART 简称/VERB TKC)/NUM 与/ADP 厦门/PROPN 升明/VERB 电子/NOUN 有/VERB          /SPACE 作为/ADP 支付/VERB 厦门/PROPN 灿坤/NOUN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 经营/VERB 技术/NOUN 管理/NOUN
+
+限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKM/PROPN )为/PROPN 关联/VERB           /SPACE 费/NOUN 。/PUNCT
+
+自然人/NOUN 控制/NOUN 关系/NOUN ，/PUNCT TKM/PROPN 为/ADP TKC/PROPN
+
+及其/CCONJ 子公司/NOUN 产品/NOUN 之/PART 恒温器/NOUN 供货/VERB
+
+商/NOUN ，/PUNCT 为/ADP 使/VERB 其/PRON 能/VERB 完全/ADV 配合/VERB TKC/PROPN 及/CCONJ
+
+其/PRON 子公司/NOUN 生/NOUN 流程/NOUN 效益/NOUN ，/PUNCT TKC/PROPN 协助/VERB
+
+TKM/PROPN 进行/VERB 经营/NOUN 管理/NOUN 辅导/NOUN ，/PUNCT 直至/VERB
+
+TKM/PROPN 能/VERB 自行/ADV 经营/VERB 管理/NOUN 为止/PART 。/PUNCT
+
+代办费/NOUN                      /SPACE 1/NUM 、/PUNCT 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN         /SPACE 1/NUM 、/PUNCT 在/ADP 灿坤/NOUN 集团/NOUN 分工/NOUN 架构/NOUN 下/PART ，/PUNCT 台湾/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/VERB
+
+(/PUNCT 以下/ADV 简称/VERB TKE)/NOUN 与/ADP 厦门/PROPN 灿坤/VERB 实业/NOUN         /SPACE 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKE)/NOUN 为/ADP 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN
+
+股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKC)/NOUN 及/CCONJ         /SPACE (/PUNCT 以下/ADV 简称/NOUN TKC)/NOUN 及其/CCONJ 子公司/NOUN 代理/NOUN 采购/NOUN 模具/NOUN 、/PUNCT 生产/NOUN 设备/NOUN 、/PUNCT
+
+其/PRON 子公司/NOUN ，/PUNCT 在/ADP 集团/NOUN 构思/NOUN 境内外/NOUN 采/VERB        /SPACE 原物料/NOUN 及/CCONJ 零组件/NOUN ，/PUNCT 按照/ADP TKE/PROPN 所/PART 执行/VERB 之/PART 功能/NOUN 及/CCONJ 所/PART 承担/VERB
+
+购/VERB 政策/NOUN 时/PART ，/PUNCT 综合/ADV 考虑/VERB 大宗/ADJ 原材/NOUN          /SPACE 之/PART 风险/NOUN 分析/NOUN ；/PUNCT 对于/ADP 香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKH)/VERB
+
+料/NOUN 、/PUNCT 生产/NOUN 设备/NOUN 、/PUNCT 模具/NOUN 等/PART 境内外/NOUN 的/PART        /SPACE 为/ADP 厦门/PROPN 灿坤/VERB 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKC)/NOUN 及/CCONJ 其子/NOUN
+
+质量/NOUN 、/PUNCT 价格/NOUN 及/CCONJ 付款/NOUN 条件/NOUN 等/PART 当/ADP 比较/ADJ        /SPACE 公司/NOUN 代办/VERB 原材料/NOUN 代/VERB 转口/NOUN 、/PUNCT 制成品/NOUN 代/NUM 转口/VERB 、/PUNCT 代办/NOUN 杂项/NOUN 、/PUNCT
+
+各/DET 方面/NOUN 条件/NOUN 由/ADP 境外/NOUN 采购/NOUN 较/ADV 佳时/VERB ，/PUNCT        /SPACE 代/ADV 支付/VERB 转口/ADJ 货款/NOUN ，/PUNCT 在/ADP 执行/VERB 移转/NOUN 定价/NOUN 时/PART 所/PART 须/VERB 考虑/VERB 的/PART 是/VERB
+
+中国/PROPN 境外/NOUN 原材料/NOUN 、/PUNCT 生产/NOUN 设备/NOUN 、/PUNCT 模/ADJ        /SPACE 类似/ADJ 的/PART 上市/NOUN 公司/NOUN 在/ADP 从事/VERB 相似/ADJ 行为/NOUN 时/PART 的/PART 定价/NOUN 标准/NOUN ；/PUNCT
+我们/PRON
+
+具/VERB 的/PART 采购/NOUN 部份/NOUN 将/ADV 会/VERB 委由/VERB TKE/PROPN 代/VERB          /SPACE 参照/NOUN OEC/NOUN D(/PUNCT 国际/NOUN 经济/NOUN 合作/NOUN 与/CCONJ 发展/NOUN 组织/NOUN )/PROPN 移转/VERB 计价/NOUN 指导/VERB
+
+办/VERB 采购/NOUN 。/PUNCT
+香港/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以/ADP         /SPACE 的/PART 基本/ADJ 原则/NOUN ，/PUNCT 可/VERB 用来/VERB 测试/NOUN 代办/NOUN 服务/NOUN 交易/NOUN 是否/VERB 符合/VERB
+常规/ADJ
+
+下/PART 简称/VERB TKH)/NOUN 与/ADP 厦门/PROPN 灿坤/VERB 实业股/NOUN          /SPACE 交易/NOUN 之/PART 方法/NOUN ，/PUNCT TKE/PROPN 及/CCONJ TKH/PROPN 并/ADV 未/ADV 对/ADP 其他/DET 非/ADJ 关系人/NOUN 客户/NOUN
+
+份/NUM 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKC)/VERB 及子/ADJ         /SPACE 提供/VERB 采购/NOUN 储运/NOUN 服务/NOUN 且/CCONJ 无法/ADV 于/ADP 市场/NOUN 取得/VERB 相同/ADJ 交易/NOUN 条件/NOUN
+
+公司/NOUN 为/ADP 关联/VERB 自然人/NOUN 所/PART 控制/VERB 法人/NOUN ，/PUNCT        /SPACE 之/PART 可/NOUN 比较/ADV 未/ADV 受控/VERB 价格/NOUN ，/PUNCT 故/ADV 不/ADV 采用/VERB 可/VERB 比较/ADV 未/ADV 受控/VERB 价格法/NOUN
+
+TKC/PROPN 及其/CCONJ 子公司/NOUN 因/ADP 部份/NUM 进出口/NOUN          /SPACE 进行/VERB 测算/NOUN 。/PUNCT
+再者/ADV ，/PUNCT 无法/ADV 确定/VERB 可/VERB 比较/ADV 公司/NOUN 之/PART 财务/NOUN 报告/NOUN 成/VERB
+
+业务/NOUN 仍/ADV 须/VERB 经过/ADP TKH/PROPN 作/VERB 事务处/NOUN            /SPACE 本/ADV 计算/VERB 基础/NOUN 是否/VERB 与/ADP 受测/VERB 公司/NOUN 相同/VERB ，/PUNCT 故/ADV 不/ADV 采用/VERB 成本/NOUN 加成/VERB
+
+理/NOUN 。/PUNCT
+                               /SPACE 法/NOUN 。/PUNCT
+另外/ADV 代办/NOUN 服务/NOUN 提供/VERB 过程/NOUN 并不/ADV 涉及/VERB 无形/ADJ 资产/NOUN 的/PART 使/VERB
+
+用/VERB ，/PUNCT 故/ADV 亦/ADV 排除/VERB 利润/NOUN 分割法/NOUN 的/PART 使用/NOUN ；/PUNCT 因此/ADV 考虑/VERB TKE/PROPN 及/CCONJ
+
+TKH/PROPN 提供/VERB 代办/NOUN 服务/NOUN 的/PART 过程/NOUN 中/PART 并不/ADV 涉及/VERB 产品/NOUN 制造/VERB ，/PUNCT
+TKE/PROPN
+
+及/CCONJ TKH/NOUN 执行/VERB 此/DET 代办/NOUN 服务/NOUN 功能/NOUN 所/PART 产生/VERB 之/PART 收入/NOUN 可/VERB 透过/ADP 营/NOUN
+
+业毛利/NOUN 加以/VERB 衡量/NOUN 。/PUNCT
+此外/ADV ，/PUNCT 提供/VERB 代办/NOUN 服务/NOUN 之/PART 成本/NOUN 亦可/NOUN 使/VERB
+
+用/ADP 营业/NOUN 费用/NOUN 衡量/VERB 之/PART 。/PUNCT
+故选/ADV 用/ADP 贝里/PROPN 比率/NOUN (=/PUNCT 营业/NOUN 毛利/NOUN //PUNCT 营业/NOUN
+
+费用/NOUN )/PROPN 进行/VERB 测试/NOUN ，/PUNCT 并/ADV 以/ADP 选样/NOUN 公司/NOUN 测试/VERB 后/PART 之/PART 常/NOUN 规交/NOUN 易范/NOUN
+
+围为/NOUN 基准/VERB ，/PUNCT 以及/CCONJ 透过/ADP TKE/PROPN 及/CCONJ TKH/PROPN 与/CCONJ TKC/PROPN 及其/CCONJ 子公司/NOUN
+
+双方/PRON 协商/VERB 来/PART 确定/VERB 交易/NOUN 的/PART 定价/NOUN 标准/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 美国/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB        /SPACE 2/NUM 、/PUNCT 美国/PROPN 灿坤/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB TKUS/PROPN A)/NOUN ，/PUNCT 我们/PRON 参照/VERB
+
+TKUS/PROPN A)/NOUN 与/ADP TKC/PROPN 及子/ADJ 公司/NOUN ，/PUNCT 在/ADP           /SPACE OEC/NOUN D(/PUNCT 国际/NOUN 经济/NOUN 合作/NOUN 与/CCONJ 发展/NOUN 组织/NOUN )/PROPN 移转/VERB 计价/NOUN 指导/NOUN 的/PART 基/NOUN
+
+TKC/PROPN 及子/ADJ 公司/NOUN 将/X 产品/NOUN 销售/VERB 至北/NOUN          /SPACE 本/DET 原则/NOUN ，/PUNCT TKUS/PROPN A/NOUN 并/ADV 未/ADV 对/ADP 其他/DET 非/ADJ 关系人/NOUN 客户/NOUN 提供/VERB 售后/NOUN
+
+美/PROPN 地区/NOUN ，/PUNCT 当地/NOUN 发生/VERB 产品/NOUN 的/PART 简易维/PROPN        /SPACE 服务/NOUN 且/ADV 无法/ADV 于/ADP 市场/NOUN 取得/VERB 相同/ADJ 交易/NOUN 条件/NOUN 之/PART 可/ADV 比较/ADV 未/ADV 受/VERB
+
+修/VERB 、/PUNCT 客诉/NOUN 纷争/NOUN 解决/VERB 及/CCONJ 产品/NOUN 使用/NOUN 指/VERB        /SPACE 控/VERB 价格/NOUN ，/PUNCT 故/ADV 不/ADV 采用/VERB 可/VERB 比较/ADV 未/ADV 受控/VERB 价格法/NOUN 进行/VERB 测试/NOUN 。/PUNCT
+售/VERB
+
+导等/NOUN 售后/ADJ 服务/NOUN 事项/NOUN ，/PUNCT 将/ADV 委由/VERB           /SPACE 后/PART 服务/VERB 提供/VERB 过程/NOUN 并不/ADV 涉及/VERB 无形/ADJ 资产/NOUN 的/PART 使用/NOUN ，/PUNCT 故/ADV 排除利/NOUN
+
+TKUS/PROPN A/NOUN 进行/VERB 。/PUNCT
+                       /SPACE 润分/NOUN 割法/PROPN 的/PART 使用/NOUN 。/PUNCT
+另外/ADV ，/PUNCT TKUS/PROPN A/NOUN 售后/ADJ 服务/NOUN 提供/VERB 过程/NOUN
+
+并不/ADV 涉及/VERB 商品/NOUN 制造/NOUN 销售/NOUN ，/PUNCT 故/ADV 亦/ADV 排除/VERB 成本/NOUN 加/VERB 成法/NOUN 的/PART 使/VERB
+
+用/VERB 。/PUNCT
+因此/ADV 我们/PRON 选用/VERB 净/ADJ 成本/NOUN 加成/NOUN 比率/NOUN 做为/ADP 衡量/VERB 此/PRON 售/VERB 后服/NOUN
+
+务/ADJ 报酬/NOUN 是否/VERB 符合/VERB 常规/ADJ 交易/NOUN 之/PART 利润/NOUN 指针/VERB 并/CCONJ 以/ADP 选样/NOUN 公司/NOUN
+
+测试/NOUN 后/PART 之/PART 常规/ADJ 交易/NOUN 范围/NOUN 为/VERB 基准/NOUN ，/PUNCT 以及/CCONJ 透过/ADP 双方/PRON 关联/NOUN 方/NOUN
+
+协商/NOUN 确立/VERB 交易/NOUN 的/PART 定价/NOUN 标准/NOUN 。/PUNCT
+
+四/NUM 、/PUNCT 交易/NOUN 目的/NOUN 和/CCONJ 交易/NOUN 对/ADP 上市/ADJ 公司/NOUN 的/PART 影响/NOUN
+
+交易/NOUN 类别/NOUN                  /SPACE 成品/NOUN 、/PUNCT 原物料/NOUN 、/PUNCT 模具/NOUN 、/PUNCT 机器/NOUN 设备/NOUN      /SPACE 技术/NOUN 报酬/VERB 金/ADJ             /SPACE 经营/NOUN 服务费/NOUN              /SPACE 代办费/NOUN
+
+交易/NOUN 必要性/NOUN 、/PUNCT 持续性/ADJ            /SPACE 本/DET 公司/NOUN 在/ADP 灿坤/VERB 集团/NOUN              /SPACE 台湾/PROPN 灿坤/VERB 实业股/PROPN         /SPACE 厦门/PROPN 升明/VERB 电子/NOUN 有/VERB     /SPACE 1/NUM 、/PUNCT 本/DET 公司/NOUN 在/ADP 集团/NOUN 构思/VERB
+
+境内外/NOUN 销售/NOUN 渠道/NOUN 采/VERB              /SPACE 份/NUM 有限/ADJ 公司/NOUN (/PUNCT 以下/PRON        /SPACE 限/NOUN 公司/NOUN (/PUNCT 以下/PRON 简/ADJ      /SPACE 境内外/NOUN 采购/NOUN 政策/NOUN 时/PART ，/PUNCT 综/VERB
+
+购/VERB 政策/NOUN 分工/NOUN 架构/NOUN 下/PART ，/PUNCT            /SPACE 简称/NOUN TKE)/PRON 主要/ADV 负/ADV         /SPACE 称/VERB TKM/PROPN )为/PROPN 厦门/PROPN       /SPACE 合/ADV 考虑/VERB 大宗/ADJ 原材料/NOUN 、/PUNCT 生/VERB
+
+关联/NOUN 交易/NOUN 有/VERB 其/PRON 互补/VERB              /SPACE 责/NOUN 集团/NOUN 长期/ADJ 产品/NOUN         /SPACE 灿坤/VERB 实业/NOUN 股份/NOUN 有/VERB     /SPACE 产/NOUN 设备/NOUN 、/PUNCT 模具/NOUN 等/PART 境内外/NOUN
+
+性/VERB 。/PUNCT
+                         /SPACE 开发/NOUN 设计/VERB 及/CCONJ 掌握/VERB         /SPACE 限/ADJ 公司/NOUN (/PUNCT 以下/ADJ 简/ADJ      /SPACE 的/PART 质量/NOUN 、/PUNCT 价格/NOUN 及/CCONJ 付款/NOUN 条/NUM
+
+核心/NOUN 生产/NOUN 技术/NOUN ，/PUNCT 将/X       /SPACE 称/VERB TKC)/PROPN 及/CCONJ 其子/NOUN       /SPACE 件/NUM 等/PART 当/ADP 比较/ADV 各/DET 方面/NOUN 条/NUM
+
+此/DET 技术/NOUN 提供/VERB 给/VERB 厦/PROPN         /SPACE 公司/NOUN 产品/NOUN 之/PART 恒温/NOUN     /SPACE 件/NUM 由/ADP 境外/NOUN 采购/NOUN 较/ADV 佳时/VERB ；/PUNCT
+
+门/NOUN 灿坤/VERB 实业/NOUN 有限/ADJ         /SPACE 器供/NOUN 货商/VERB ，/PUNCT 为/ADP 使/VERB     /SPACE 2/NUM 、/PUNCT 本/DET 公司/NOUN 在/ADP 灿坤/VERB 集团/NOUN
+
+公司/NOUN (/PUNCT 以下/ADV 简称/VERB         /SPACE 其/PRON 能/VERB 完全/ADV 配合/VERB       /SPACE 境内外/NOUN 销售/NOUN 渠道/NOUN 采购/VERB
+
+TKC/PROPN )/NOUN 及其/CCONJ 子公司/NOUN        /SPACE TKC/PROPN 及其/CCONJ 子公司/NOUN     /SPACE 政策/NOUN 分工/NOUN 架构/NOUN 下/PART ，/PUNCT 须/VERB 透/VERB
+
+使用/VERB ，/PUNCT TKC/PROPN 及/CCONJ 其子/NOUN       /SPACE 生/NOUN 流程/NOUN 效益/NOUN ，/PUNCT       /SPACE 过/VERB 各地/NOUN 关联/NOUN 企业/NOUN 执行/VERB
+
+公司/NOUN 主要/ADV 负责产/VERB         /SPACE TKC/PROPN 协助/VERB TKM/PROPN        /SPACE 部份/NOUN 本/NUM 公司/NOUN 无法/ADV 执行/VERB
+
+品/NOUN 制造/NOUN 及/CCONJ 销售/NOUN ，/PUNCT 由/ADP       /SPACE 进行/VERB 经营/NOUN 管理/NOUN 辅/NOUN     /SPACE 的/PART 业务/NOUN 。/PUNCT
+
+于/ADP TKE/PROPN 的/PART 技术/NOUN 服/ADJ         /SPACE 导/NOUN ，/PUNCT 直至/VERB TKM/PROPN 能/VERB
+
+务/ADV 提供/VERB TKC/PROPN 及其/CCONJ         /SPACE 自行/ADV 经营/VERB 管理/NOUN 为/VERB
+
+子公司/NOUN 才/ADV 得/VERB 顺利/ADJ         /SPACE 止/PART 。/PUNCT
+
+进行/VERB 产销/NOUN 。/PUNCT
+
+交易/NOUN 原因/NOUN 和/CCONJ 意图/NOUN                 /SPACE 追求/VERB 对/ADP 本/DET 公司/NOUN 最/ADV 有/VERB             /SPACE 技术/NOUN 转移/NOUN 转及/VERB 产/NOUN         /SPACE 为/ADP 使/VERB TKC/PROPN 及其/CCONJ       /SPACE 1/NUM 、/PUNCT 交易/NOUN 价格/NOUN 、/PUNCT 品质/NOUN 、/PUNCT
+
+利/PROPN 销售/NOUN 采购/NOUN 条件/NOUN 。/PUNCT
+            /SPACE 品/NOUN 专利/NOUN 生产/NOUN 使用/VERB         /SPACE 子公司/NOUN 生产/VERB 顺/ADP       /SPACE 付款/NOUN 条件/NOUN
+对/ADP 本/DET 公司/NOUN
+最/ADV
+
+权/NOUN 取得/VERB 。/PUNCT
+              /SPACE 利/NOUN 。/PUNCT
+              /SPACE 有利时/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 客户/NOUN 管理/NOUN 及/CCONJ 进出口/NOUN
+
+业务/NOUN 及/CCONJ 发生/VERB 产品/NOUN 的/PART 简/NOUN
+
+易/ADJ 维修/VERB 、/PUNCT 客诉/NOUN 纷争/NOUN 解决/VERB
+
+及/CCONJ 产品/NOUN 使用/NOUN 指导/NOUN 等/PART 售/VERB
+
+后/PART
+服务/NOUN 事项/NOUN 。/PUNCT
+
+交易/NOUN 的/PART 公允性/NOUN                   /SPACE 交易/NOUN 价格/NOUN 按照/ADP 与其/ADP             /SPACE 定价/NOUN 依据/NOUN 系/NOUN 根据/ADP          /SPACE 厦门/PROPN 升明/VERB 电子/NOUN 有/VERB    /SPACE 1/NUM 、/PUNCT 本/DET 公司/NOUN 参照/VERB
+
+它/PRON 非/ADV 关联/NOUN 第三方/PROPN 相/ADJ             /SPACE 中国/PROPN 证券/NOUN 监督/VERB 管/VERB          /SPACE 限/NOUN 公司/NOUN 以/ADP 每月/DET 营/NOUN    /SPACE OEC/NOUN D(/PUNCT 国际/NOUN 经济/NOUN 合作/NOUN
+
+同时期/ADJ 相同/ADJ 产品/NOUN 的/PART             /SPACE 理/NOUN 委员会/NOUN 信息/NOUN 中/PART          /SPACE 业额/NOUN (/PUNCT 净额/VERB )/NOUN 之/PART    /SPACE 与/CCONJ 发展/NOUN 组织/NOUN )/PROPN 移转/VERB 计价/NOUN
+
+交易/NOUN 价格/NOUN 一致/VERB ，/PUNCT 不/ADV 存/VERB           /SPACE 心/NOUN 发布/VERB 的/PART 《/PUNCT 上市/ADJ 公/ADJ        /SPACE 0.25%/PUNCT 作为/ADP 支付/VERB    /SPACE 指导/NOUN 的/PART 基本/ADJ 原则/NOUN ，/PUNCT 并/ADV 以/ADP
+
+在/ADP 内幕/NOUN 交易/NOUN 行为/NOUN 。/PUNCT
+            /SPACE 司/NOUN 行业/NOUN 分类/ADJ 手册/NOUN 》/PUNCT        /SPACE 厦门/PROPN 灿坤/VERB 实业股/NOUN    /SPACE 贝里/PROPN 比率/NOUN 测试/VERB 后/PART 之/PART 常/NOUN
+
+类似/VERB 相同/ADJ 产业/NOUN 可/VERB          /SPACE 份/NUM 有限/ADJ 公司/NOUN 经营/VERB    /SPACE 规交/NOUN 易/ADJ 范围/NOUN 为/VERB 基准/NOUN ；/PUNCT
+
+比较/ADJ 公司/NOUN ；/PUNCT 在/ADP 比较/ADV        /SPACE 技术/NOUN 管理费/NOUN 。/PUNCT
+     /SPACE 2/NUM 、/PUNCT 本/DET 公司/NOUN 参照/VERB
+
+验证/VERB 受测/VERB 个体/NOUN 与/CCONJ                            /SPACE OEC/NOUN D(/PUNCT 国际/NOUN 经济/NOUN 合作/NOUN
+
+可/VERB 比较/ADV 公司/NOUN 的/PART 财/NOUN                            /SPACE 与/CCONJ 发展/NOUN 组织/NOUN )/PROPN 移转/VERB 计价/NOUN
+
+务/ADJ 结果/NOUN 时/PART ，/PUNCT 使用/VERB 四/NUM                          /SPACE 指导/NOUN 的/PART 基本/ADJ 原则/NOUN ，/PUNCT 并/ADV 以/ADP
+
+分位/NOUN 法/PROPN 将/ADV 可以/VERB 提/VERB                            /SPACE 净/ADJ 成本/NOUN 加成/NOUN 比率/NOUN 测试/NOUN
+
+高/VERB 可/VERB 比较/ADV 公司/NOUN 利/VERB                            /SPACE 后/PART 之/PART 常规/ADJ 交易/NOUN 范围/NOUN 为/VERB
+
+润/ADJ 水平/NOUN 的/PART 稳定性/NOUN                            /SPACE 基准/VERB 。/PUNCT
+
+及/CCONJ 可信性/NOUN 。/PUNCT
+
+交易/NOUN 对/ADP 上市/ADJ 公司/NOUN 独立/VERB             /SPACE 本/DET 公司/NOUN 与/ADP 上述/ADJ 关联/NOUN             /SPACE 因应/VERB 小家电/PROPN 市场/NOUN          /SPACE 本/DET 公司/NOUN 与/ADP 上述/ADJ 关/NOUN    /SPACE 1/NUM 、/PUNCT 本/DET 公司/NOUN 与/ADP 上述/ADJ 关联/NOUN
+
+性/NOUN 的/PART 影响/NOUN                       /SPACE 企业/NOUN 均/ADV 为/ADP 独立/ADJ 法人/NOUN ，/PUNCT           /SPACE 国际/NOUN 竞争/NOUN 日/NOUN 趋激/VERB          /SPACE 联/NOUN 企业/NOUN 均/ADV 为/VERB 独立/ADJ    /SPACE 企业/NOUN 之/PART 交易/NOUN 主要/ADV 在/ADV 对/ADP
+
+独立/ADV 经营/VERB 自负盈亏/VERB ，/PUNCT           /SPACE 烈/NOUN ，/PUNCT 产品/NOUN 生命/NOUN 周期/NOUN        /SPACE 法人/NOUN ，/PUNCT 独立/ADV 经营/VERB    /SPACE 公司/NOUN 有利/VERB 之/PART 基础/NOUN 下产/NOUN
+
+在/ADP 财务/NOUN 、/PUNCT 人员/NOUN 、/PUNCT 资产/NOUN           /SPACE 缩短/VERB 的/PART 现实/ADJ 情况/NOUN ，/PUNCT        /SPACE 自负盈亏/VERB ，/PUNCT 在/ADP 财/NOUN    /SPACE 生/VERB ，/PUNCT 其/PRON 关联/NOUN 交易/NOUN 不/ADV 会/VERB 对/ADP
+
+和/CCONJ 住所/NOUN 等/PART 方面/NOUN 均/ADV 独/VERB             /SPACE 本/DET 公司/NOUN 已/ADV 逐年/ADV 提/VERB          /SPACE 务/NOUN 、/PUNCT 人员/NOUN 、/PUNCT 资产/NOUN    /SPACE 本/DET 公司/NOUN 的/PART 独立性/NOUN 产生/VERB
+
+立/VERB ，/PUNCT 其/PRON 关联/NOUN 交易/NOUN 不/ADV 会/VERB           /SPACE 高本身/PROPN 研发/VERB 份额/NOUN          /SPACE 和/CCONJ 住所/NOUN 等/PART 方面/NOUN 均/ADV    /SPACE 不利/VERB 影响/NOUN 。/PUNCT
+
+对/ADP 本/DET 公司/NOUN 的/PART 独立性/NOUN             /SPACE 以/PART 迅速/ADV 因应/VERB 市场/NOUN          /SPACE 独立/VERB ，/PUNCT 其/PRON 关联/NOUN 交/VERB    /SPACE 2/NUM 、/PUNCT 本/DET 公司/NOUN 与/ADP 上述/ADJ 关联/NOUN
+
+产生/VERB 不利/ADJ 影响/NOUN 。/PUNCT
+              /SPACE 要求/NOUN ，/PUNCT 并且/ADV 培养/VERB 在/ADP        /SPACE 易/ADV 不/ADV 会/VERB 对/ADP 本/DET 公司/NOUN    /SPACE 企业/NOUN 均/ADV 为/ADP 独立/ADJ 法人/NOUN ，/PUNCT 独/NOUN
+
+地化/NOUN 研发/VERB 人才/NOUN 政/NOUN          /SPACE 的/PART 独立性/NOUN 产生/VERB 不/ADV    /SPACE 立经营/NOUN 自负盈亏/VERB ，/PUNCT 在/ADP 财/NOUN
+
+策下/VERB ，/PUNCT 可/ADV 直接于/NOUN 当/VERB        /SPACE 利/VERB 影响/NOUN 。/PUNCT
+         /SPACE 务/NOUN 、/PUNCT 人员/NOUN 、/PUNCT 资产/NOUN 和/CCONJ 住所/NOUN
+
+地/PART
+开模/VERB 维修/VERB 及/CCONJ 短/ADJ                            /SPACE 等/PART 方面/NOUN 均/ADV 独立/VERB ，/PUNCT 其/PRON 关联/NOUN
+
+期/NUM 产品/NOUN 开发/VERB 直接/ADJ                            /SPACE 交易/NOUN 不/ADV 会/VERB 对/ADP 本/DET 公司/NOUN 的/PART
+
+由/ADP 本/DET 公司/NOUN 开发/VERB ，/PUNCT 相/ADJ                          /SPACE 独立性/NOUN 产生/VERB 不利/ADJ 影响/NOUN 。/PUNCT
+
+对/ADP 已/ADV 提高/VERB 本/DET 公司/NOUN
+
+自主性/NOUN 。/PUNCT
+
+五/NUM 、/PUNCT 审议/NOUN 程序/NOUN
+
+1/NUM 、/PUNCT 上述/ADJ 关联/NOUN 交易/NOUN ，/PUNCT 经/ADP 公司/NOUN 2006/NUM 年/NUM 第二/NUM 次/NUM 董事会/NOUN 会议/NOUN 审议/VERB 通过/VERB ，/PUNCT 关联/NOUN 董事/NOUN 蔡渊松/PROPN 、/PUNCT 庄兴/PROPN 、/PUNCT 张可/PROPN 大均/NOUN 回避/VERB 表决/NOUN ；/PUNCT 4/NUM 名非/NUM 关联/NOUN 董事(/PROPN 包括/VERB 3/NUM 名/NUM 独立/ADJ 董事)/NOUN 表决/VERB 通过/VERB 了/PART 该/DET 关联/NOUN 交易/NOUN 议案/NOUN 。/PUNCT
+
+2/NUM 、/PUNCT 公司/NOUN 在/ADP 发出/VERB 董事会/NOUN 开会/VERB 通知/NOUN 时知/NOUN 会/VERB 了/PART 独立/ADJ 董事/NOUN ，/PUNCT 并/ADV 获得/VERB 独立/ADJ 董事/NOUN 的/PART 同意/NOUN 后/PART 提交/VERB 董事会/NOUN 审议/VERB ，/PUNCT 公司/NOUN 的/PART 三/NUM 位/NUM 独立/ADJ 董事/NOUN 就/ADP 上述/ADJ 关联/NOUN 交易/NOUN 事项/NOUN 发表/VERB 独立/ADJ 意见/NOUN 如下/VERB ：/PUNCT
+
+我们/PRON 作为/ADP 厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB “/PUNCT 公司/NOUN ”/PUNCT )/NOUN 的/PART 独立/ADJ 董事/NOUN ，/PUNCT 根据/ADP 中国/PROPN 证监会/NOUN 《/PUNCT 在/ADP 上市/NOUN 公司/NOUN 建立/VERB 独立/ADJ 董事/NOUN 制度/NOUN 的/PART 指导/NOUN 意见/NOUN 》/PUNCT 和/CCONJ 《/PUNCT 公司/NOUN 章程/NOUN 》/PUNCT 的/PART 有关/ADJ 规定/NOUN ，/PUNCT 针对/ADP 公司/NOUN 预计/VERB 的/PART 2006/NUM 年/NUM 全年/ADV 日常/ADJ 关联/NOUN 交易/NOUN 基于/ADP 独立/ADV 判断/VERB 立场/NOUN 和/CCONJ 经过/ADP 审慎/ADJ 审核/NOUN ，/PUNCT 认为/VERB 此/DET 关联/NOUN 交易/NOUN 不/ADV 会/VERB 影响/VERB 公司/NOUN 的/PART 独立性/NOUN ，/PUNCT 定价/NOUN 依据/NOUN 公平/VERB 合理/VERB ，/PUNCT 符合/VERB 公司/NOUN 及/CCONJ 全体/DET 股东/NOUN 的/PART 利益/NOUN ，/PUNCT 不/ADV 会/VERB 损害/VERB 非/ADV 关联/VERB 股东/NOUN 的/PART 利益/NOUN 。/PUNCT
+
+独立/ADJ 董事/NOUN ：/PUNCT 韦俊贤/PROPN 、/PUNCT 何经华/PROPN 、/PUNCT 萧峰雄/PROPN
+
+2006/NUM 年/NUM 4/NUM 月/NUM 19/NUM 日/NUM
+
+3/NUM 、/PUNCT 上述/ADJ 关联/NOUN 交易/NOUN 尚须/VERB 获得/VERB 股东/NOUN 大会/NOUN 的/PART 批准/NOUN ，/PUNCT 与/ADP 上述/ADJ 关联/NOUN 交易/NOUN 有利害/NOUN 关系/NOUN 的/PART 关联/NOUN 股东/NOUN 将/ADV 放弃/VERB 在/ADP 股东/NOUN 大会/NOUN 上/PART 对/ADP 相关/ADJ 议案/NOUN 的/PART 投票权/NOUN 。/PUNCT
+
+六/NUM 、/PUNCT 关联/NOUN 交易/NOUN 协议/NOUN 签署/VERB 情况/NOUN
+
+协议/NOUN 内容/NOUN              /SPACE 关联/NOUN 方名/NOUN 称/VERB         /SPACE 签署/VERB 日期/NOUN   /SPACE 协议/NOUN 有效/ADV 起讫/VERB 日期/NOUN          /SPACE 交易/NOUN 价格/NOUN        /SPACE 付款/VERB 安排/NOUN 及/CCONJ 结算/NOUN 方式/NOUN
+
+原材料/NOUN 、/PUNCT 零/NUM 组/NUM         /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN     /SPACE 2004年/NOUN 1月/NOUN 1日/NOUN    /SPACE 2004/NUM 年度/NOUN 至/CCONJ            /SPACE 以/ADP 采购/NOUN 成本/NOUN 的/PART 2%/NUM        /SPACE 付款/NOUN 方式/NOUN 以/ADP 出货/VERB
+
+件/NUM 、/PUNCT 模具/NOUN 、/PUNCT 生产/NOUN       /SPACE 股份/NOUN 有限/ADJ 公司/NOUN                     /SPACE 2005年/NOUN 3月/NOUN 31日/NOUN         /SPACE 收取/VERB 代办费/NOUN 。/PUNCT
+         /SPACE 后/PART 120/NUM 天为/NOUN 条件/NOUN
+
+设备/NOUN 采购/NOUN 代办/NOUN                                                                                      /SPACE ﹐亦/ADV 可以/VERB L/NOUN //PUNCT C/NOUN 为/VERB
+
+合同/NOUN                                                                                              /SPACE 支付/VERB 条件/NOUN 。/PUNCT
+
+2005年/NOUN 4月/NOUN 1日/NOUN    /SPACE 2005年/NOUN 4月/NOUN 1/NOUN            /SPACE 双方/PRON 同意/VERB 按/ADP 对方/PRON 每/DET      /SPACE 付款/NOUN 方式/NOUN 以/ADP 出货/VERB
+
+日至任/PROPN 一方/NOUN 提/VERB          /SPACE 月/NOUN 因/ADP 从事/VERB 模具/NOUN 、/PUNCT 生/VERB      /SPACE 后/PART 120/NUM 天为/NOUN 条件/NOUN
+
+出/VERB 终止/VERB 时止/ADJ            /SPACE 产/NOUN 设备/NOUN 及/CCONJ 原物料/NOUN 、/PUNCT      /SPACE ﹐亦/ADV 可以/VERB L/NOUN //PUNCT C/NOUN 为/VERB
+
+零组件/NOUN 代办/NOUN 采购/NOUN 所/PART      /SPACE 支付/VERB 条件/NOUN 。/PUNCT
+
+发生/VERB 的/PART 相关/ADJ 费用/NOUN 的/PART
+
+110/NUM %/PUNCT 支付/VERB 代办费/NOUN 。/PUNCT
+
+技朮/NOUN 转让/VERB 合约/NOUN         /SPACE 台湾/PROPN 灿坤/VERB 实业/NOUN     /SPACE 2004年/NOUN 4月/NOUN 1日/NOUN     /SPACE 2004/NUM 年度/NOUN 至/CCONJ           /SPACE 厦门/PROPN 灿坤/ADJ 公司/NOUN 按/ADP 台/PROPN      /SPACE 技术/NOUN 转让/VERB 金/NOUN 每/DET 季/NOUN
+
+股份/NOUN 有限/ADJ 公司/NOUN                      /SPACE 2005年/NOUN 3月/NOUN 31日/NOUN        /SPACE 湾/NOUN 灿坤/NOUN 公司/NOUN 提供/VERB 技/NOUN      /SPACE 度缴/NOUN 付/VERB 一/NUM 次/NUM ，/PUNCT 于/ADP
+
+朮/PROPN 的/PART 机种/NOUN 所/PART 创造/VERB 的/PART      /SPACE 每/DET 季/NOUN 结束/VERB 后/PART 三/NUM 个/NUM
+
+销售/NOUN 净额/NOUN 4%/PUNCT 向/ADP 台/PROPN        /SPACE 月/NOUN 内/PART ，/PUNCT 完成/VERB 支付/NOUN 。/PUNCT
+
+湾/NOUN 灿坤/ADJ 公司/NOUN 支付/VERB 。/PUNCT
+
+2005年/NOUN 4月/NOUN 1日/NOUN     /SPACE 2005/NUM 年/NOUN 4/NUM 月/NOUN 1/NUM         /SPACE 厦门/PROPN 灿坤/ADJ 公司/NOUN 以/ADP 每/DET      /SPACE 技术/NOUN 转让/VERB 金/NOUN 每/DET 季/NOUN
+
+日至任/PROPN 一方/PROPN 提/VERB         /SPACE 月/NOUN 销售/NOUN 净额/NOUN 按照/ADP 技/NOUN      /SPACE 度缴/NOUN 付/VERB 一/NUM 次/NUM ，/PUNCT 于/ADP
+
+出/VERB 终止/VERB 时止/ADJ           /SPACE 术报/ADP 酬金/VERB 收费/NOUN 表计/NOUN      /SPACE 每/DET 季/NOUN 结束/VERB 后/PART 三/NUM 个/NUM
+
+算应/VERB 支付/VERB 台湾/PROPN 灿坤/VERB      /SPACE 月/NOUN 内/PART ，/PUNCT 完成/VERB 支付/NOUN 。/PUNCT
+
+公司/NOUN 之/PART 报酬/NOUN 。/PUNCT
+
+代办费/NOUN               /SPACE 香港/PROPN 灿坤/NOUN 有限/ADJ    /SPACE
+2003年/NOUN 1月/NOUN 1日/NOUN      /SPACE 2004/NUM 年度/NOUN 至/CCONJ          /SPACE 香港/PROPN 灿坤/VERB 替/ADP 厦门/PROPN 灿/VERB      /SPACE 厦门/PROPN 灿坤/VERB 接到/VERB
+香/NOUN
+
+公司/NOUN                              /SPACE 2005/NOUN 年/NOUN 3/NUM 月/NOUN 31/NUM        /SPACE 坤代/NOUN 办/VERB 之/PART 报酬/NOUN ﹐系/VERB      /SPACE 港/PROPN 灿坤/VERB 请款/NOUN 发票/VERB
+
+日/PROPN                   /SPACE 依/ADP 实际/ADV 发生/VERB 代垫费/NOUN      /SPACE ﹐应于/PUNCT
+次月/NOUN 十/NUM 内/PART
+
+之/PART
+千分之一/NOUN (/PUNCT 0.1/PROPN %/PUNCT )/PROPN      /SPACE ﹐以/PROPN 电汇/NOUN 方式/NOUN 支/X
+
+计算/NOUN 。/PUNCT
+               /SPACE 付/VERB 香港/PROPN 灿坤/NOUN 。/PUNCT
+
+2005年/NOUN 4月/NOUN 1日/NOUN      /SPACE 2005/NUM 年/NOUN 4/NUM 月/NOUN 1/NUM         /SPACE 香港/PROPN 灿坤/VERB 替/ADP 厦门/PROPN 灿/VERB      /SPACE 厦门/PROPN 灿坤/VERB 接到/VERB
+香/NOUN
+
+日至任/PROPN 一方/PROPN 提/VERB         /SPACE 坤代/NOUN 办/VERB 之/PART 报酬/NOUN ﹐系/VERB      /SPACE 港/PROPN 灿坤/VERB 请款/NOUN 发票/VERB
+
+出/VERB 终止/VERB 时止/ADJ           /SPACE 依/ADP 每月/PRON 因/ADP 代办/NOUN 服务/NOUN      /SPACE ﹐应于/PUNCT
+次月/NOUN 十/NUM 内/PART
+
+实际/ADV 发生/VERB 的/PART 相关费/NOUN      /SPACE ﹐以/PROPN 电汇/NOUN 方式/NOUN 支/X
+
+用/VERB 的/PART 107/NUM %/PUNCT 计算/VERB 。/PUNCT
+       /SPACE 付/VERB 香港/PROPN 灿坤/NOUN 。/PUNCT
+
+代办费/NOUN              /SPACE 美国/PROPN 灿坤/VERB 有限/ADJ     /SPACE 2003年/NOUN 1月/NOUN 1日/NOUN      /SPACE 2003/NOUN 年度/NOUN 至任/ADJ        /SPACE 美国/PROPN 灿坤/VERB 替/ADP 厦门/PROPN 灿/VERB      /SPACE 厦门/PROPN 灿坤/VERB 接到/VERB 美/PROPN
+
+公司/NOUN                               /SPACE 一方/NOUN 提出/VERB 终止/VERB         /SPACE 坤代/NOUN 办/VERB 之/PART 报酬/NOUN ﹐系/VERB      /SPACE 国灿坤/NOUN 请款/VERB 发票/VERB
+
+时止/ADJ                 /SPACE 依/ADP 实际/ADV 发生/VERB 代垫费/NOUN      /SPACE 后/PART 90/NOUN 天内/ADV 付款/VERB 。/PUNCT
+
+之/PART
+102/NUM %/PUNCT 计算/VERB 。/PUNCT
+
+成品/NOUN 、/PUNCT 半成品/NOUN 买/VERB      /SPACE 灿坤/VERB 日本/PROPN 电器/NOUN     /SPACE 2004年/NOUN 1月/NOUN 1日/NOUN      /SPACE 2004/NUM 年度/NUM 至任/ADJ        /SPACE 以/ADP 每/DET 季/NOUN 双方/PRON 同意/VERB 价/NOUN      /SPACE 以/ADP 出货/VERB 120/NUM 天/NUM 为/VERB
+
+卖/VERB 合约/NOUN 书/NOUN            /SPACE 株式会社/NOUN                           /SPACE 一方/NOUN 提出/VERB 终止/VERB         /SPACE 格/PROPN 进行/VERB 交易/NOUN 。/PUNCT
+         /SPACE 支付/VERB 条件/NOUN ﹐/VERB 亦可/NOUN
+
+时止/VERB                                       /SPACE 以/ADP L/NOUN //PUNCT C/NOUN 为/ADP 支付/VERB 条/NUM
+
+件/NUM 。/PUNCT
+
+成品/NOUN 、/PUNCT 半成品/NOUN 买/VERB      /SPACE 厦门/PROPN 升明/VERB 电子/NOUN     /SPACE 2004年/NOUN 1月/NOUN 1日/NOUN      /SPACE 2004/NUM 年度/NUM 至任/ADJ         /SPACE 以/ADP 每/DET 季/NOUN 双方/PRON 同意/VERB 价/NOUN      /SPACE 以/ADP 出货/VERB 120/NUM 天/NUM 为/VERB
+
+卖/VERB 合约/NOUN 书/NOUN            /SPACE 有限/ADJ 公司/NOUN                           /SPACE 一方/NOUN 提出/VERB 终止/VERB         /SPACE 格/PROPN 进行/VERB 交易/NOUN 。/PUNCT
+         /SPACE 支付/VERB 条件/NOUN ﹐/VERB 亦可/NOUN
+
+时止/VERB                                       /SPACE 以/ADP L/NOUN //PUNCT C/NOUN 为/ADP 支付/VERB 条/NUM
+
+件/NUM 。/PUNCT
+
+经营/NOUN 管理/NOUN 技术/NOUN        /SPACE 厦门/PROPN 升明/VERB 电子/NOUN     /SPACE 2003年/NOUN 7月/NOUN 1日/NOUN      /SPACE 2003年/NOUN 7月/NOUN 1/NOUN           /SPACE 升明/VERB 以/ADP 每月/ADJ 营业额/NOUN      /SPACE 于/ADP 隔月/NOUN 10/NUM 日前/NOUN
+
+合约/NOUN                /SPACE 有限/ADJ 公司/NOUN                           /SPACE 日至任/NOUN 一方/PROPN 提/VERB         /SPACE (净额/NOUN )/NOUN 之/PART 0.25%/NOUN ,/PUNCT 作/VERB      /SPACE 将/X 上月/NOUN 经营/VERB 技术/NOUN
+
+出/VERB 终止/VERB 时止/ADJ           /SPACE 为/ADP 支付/VERB 厦门/PROPN 灿坤/VERB 之/PART      /SPACE 管理/NOUN 费汇/PROPN 至/ADP 厦门/PROPN
+
+经营/NOUN 技术/NOUN 管理/NOUN 报/NOUN        /SPACE 灿坤/VERB 指定/VERB 账户/NOUN 。/PUNCT
+
+酬/NOUN 。/PUNCT
+
+七/NUM 、/PUNCT 其它/DET 相关/ADJ 说明/NOUN
+
+备查/NOUN 文件/NOUN 目录/NOUN
+
+1/NUM 、/PUNCT 与/ADP 上述/ADJ 关联/NOUN 企业/NOUN 签订/VERB 的/PART 2005/NUM 年/NUM 《/PUNCT 购销/VERB 合同/NOUN 》/PUNCT ；/PUNCT
+
+2/NUM 、/PUNCT 独立/ADJ 董事/NOUN 就/ADP 上述/ADJ 关联/NOUN 交易/NOUN 出具/VERB 的/PART 独立/ADJ 意见/NOUN ；/PUNCT
+
+3/NUM 、/PUNCT 公司/NOUN 2006/NUM 年/NUM 第二/NUM 次/NUM 董事会/NOUN 会议/NOUN 决议/VERB ；/PUNCT
+
+4/NUM 、/PUNCT 2005/NUM 年/NUM 12/NUM 月/NOUN 29/NUM 日/NUM 与/CCONJ 国家/NOUN 税务局/NOUN 签订/VERB 预约/NOUN 定价/NOUN 安排/NOUN 。/PUNCT
+
+厦门/PROPN 灿坤/PROPN 实业/NOUN 股份/NOUN 有限/ADJ 公司/NOUN
+
+董/NOUN 事/NOUN 会/VERB
+
+2006/NUM 年/NOUN 5/NUM 月/NOUN 8/NUM 日/NUM

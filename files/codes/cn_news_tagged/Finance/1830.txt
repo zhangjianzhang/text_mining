@@ -1,0 +1,74 @@
+本/DET 公司/NOUN 及/CCONJ 董事会/NOUN 全体/DET 成员/NOUN 保证/VERB 公告/NOUN 内容/NOUN 的/PART 真实/ADJ 、/PUNCT 准确/ADJ 和/CCONJ 完整/VERB ，/PUNCT 没有/VERB 虚假/ADJ 记载/NOUN 、/PUNCT 误导性/NOUN 陈述/VERB 或/CCONJ 重大/ADJ 遗漏/NOUN 。/PUNCT
+
+南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN (/PUNCT 以下/ADV 简称/VERB “/PUNCT 公司/NOUN ”/PUNCT )股权/PROPN 分置/ADJ 改革/NOUN 方案/NOUN 已/ADV 于/ADP 2006/NUM 年/NUM 4/NUM 月/NUM 14/NUM 日经/NOUN 公司/NOUN 2006/NUM 年/NUM 第二/NUM 次/NUM 临时/ADJ 股东/NOUN 大会/NOUN 暨/CCONJ 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 审议/VERB 通过/VERB ，/PUNCT 公司/NOUN 于/ADP 2006/NUM 年/NUM 4/NUM 月/NUM 28/NUM 日刊登/PROPN 了/PART 《/PUNCT 南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 股权/NOUN 分置/ADV 改革/VERB 实施/NOUN 公告/NOUN 》/PUNCT 。/PUNCT
+股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 后/PART ，/PUNCT 公司/NOUN 股份/NOUN 结构/NOUN 将/ADV 发生/VERB 变化/NOUN ，/PUNCT 现/ADV 将/ADV 变动/VERB 情况/NOUN 公告/VERB 如下/VERB ：/PUNCT
+
+一/NUM 、/PUNCT 股权/NOUN 分置/ADV 改革/VERB 前后/ADJ 公司/NOUN 股份/NOUN 结构/NOUN 表/NOUN ：/PUNCT
+
+改革/VERB 前/ADJ                                                                   /SPACE 改革/NOUN 后/PART
+
+股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (/PUNCT ％/NUM )/PROPN                                     /SPACE 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (/PUNCT ％/NUM )/NOUN
+
+一/NUM 、/PUNCT 未/ADV 上市/VERB 流通/NOUN 股份/NOUN 合计/VERB    /SPACE 162/NUM ,/PUNCT 342/NUM ,/PUNCT 830/NUM             /SPACE 45/NUM ./PUNCT
+20%/VERB        /SPACE 一/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股/NOUN 合计/ADJ     /SPACE 99/NUM ,/PUNCT 492/NUM ,/PUNCT 697/NUM             /SPACE 27/NUM ./PUNCT 70%/VERB
+
+国有/ADJ 法人股/NOUN                /SPACE 154/NUM ,/PUNCT 148/NUM ,/PUNCT 795/NUM             /SPACE 42/NUM ./PUNCT
+92%/VERB                      /SPACE 国有/ADJ 法人/NOUN 持股/ADJ     /SPACE 92/NUM ,/PUNCT 563/NUM ,/PUNCT 604/NUM             /SPACE 25/NUM ./PUNCT
+77/NUM %/PUNCT
+
+国家/NOUN 股/NUM                      /SPACE 7/NUM ,/PUNCT 194/NUM ,/PUNCT 035/NUM              /SPACE 2/NUM ./PUNCT 00/NUM %/PUNCT                      /SPACE 国有/ADJ 法人/NOUN 持股/ADJ      /SPACE 5/NUM ,/PUNCT 798/NUM ,/PUNCT 578/NUM              /SPACE 1./NOUN 62/NUM %/PUNCT
+
+境内/NOUN 法人股/NOUN                  /SPACE 1/NUM ,/PUNCT 000/NUM ,/PUNCT 000/NUM              /SPACE 0/NUM ./PUNCT
+28%/PROPN                  /SPACE 境内/NOUN 一般/ADJ 法人/NOUN 持股/ADJ      /SPACE
+1/NUM ,/PUNCT 000/NUM ,/PUNCT 000/NUM              /SPACE 0/NUM ./PUNCT
+28%/VERB
+
+二/NUM 、/PUNCT 流通/NOUN 股合/NOUN 计(A/NOUN 股)/NOUN       /SPACE 196/NUM ,/PUNCT 814/NUM ,/PUNCT 526/NUM             /SPACE 54/NUM ./PUNCT
+80%/VERB                            /SPACE 高管股/NOUN        /SPACE 130/NUM ,/PUNCT 515/NUM              /SPACE 0.03%/PUNCT
+
+社会/NOUN 公众/NOUN 股/NOUN                /SPACE 196/NUM ,/PUNCT 715/NUM ,/PUNCT 651/NUM             /SPACE 54/NUM ./PUNCT
+77/NUM %/PUNCT   /SPACE 二/NUM 、/PUNCT 无/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股合/NOUN 计(A/NOUN 股)/NOUN    /SPACE 259/NUM ,/PUNCT 664/NUM ,/PUNCT 659/NUM             /SPACE 72/NUM ./PUNCT
+30%/NUM
+
+高管股/PROPN                         /SPACE 98/NUM ,/PUNCT 875/NUM              /SPACE 0.03%/PUNCT
+
+三/NUM 、/PUNCT 股份/NOUN 总数/NOUN              /SPACE 359/NUM ,/PUNCT 157/NUM ,/PUNCT 356/NUM            /SPACE 100/NUM ./PUNCT
+00/NUM %/PUNCT                      /SPACE 三/NUM 、/PUNCT 股份/NOUN 总数/NOUN    /SPACE 359/NUM ,/PUNCT 157/NUM ,/PUNCT 356/NUM            /SPACE 100/NUM ./PUNCT
+00/NUM %/PUNCT
+
+二/NUM 、/PUNCT 有/VERB 限售/NOUN 条件/NOUN 的/PART 流通/NOUN 股股/NOUN 东持/PROPN 有流/ADJ 通股/NOUN 比例/NOUN 及/CCONJ 限售/NOUN 条件/NOUN
+
+序号/PROPN     /SPACE 股东/NOUN 名称/NOUN   /SPACE 所/PART 持有/VERB 限售/NOUN 条件/NOUN 的/PART 股份/NOUN 数量/NOUN (股/NOUN )/NOUN   /SPACE 占/VERB 总/ADJ 股本/NOUN 比例/NOUN (%/PUNCT )/NOUN   /SPACE 可/VERB 上市/VERB 流通/NOUN 时间/NOUN   /SPACE 承诺/NOUN 的/PART 限售/NOUN 条件/NOUN
+
+1/NUM        /SPACE 华电/PROPN 集团/NOUN                     /SPACE 92/NUM ,/PUNCT 563/NUM ,/PUNCT 604/NUM             /SPACE 25/NUM ./PUNCT
+77/NUM         /SPACE G/PROPN +/PUNCT 36/NUM 个/NUM 月/NOUN              /SPACE 注3/VERB
+
+2/NUM      /SPACE 省/NOUN 国资/NOUN 公司/NOUN                      /SPACE 5/NUM ,/PUNCT 798/NUM ,/PUNCT 578/NUM              /SPACE 1./NUM 61/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN              /SPACE 注5/VERB
+
+3/NUM        /SPACE 玥文/PROPN 公司/NOUN                      /SPACE 1/NUM ,/PUNCT 000/NUM ,/PUNCT 000/NUM              /SPACE 0/NUM ./PUNCT
+28/NUM         /SPACE G/PROPN +/PUNCT 12/NUM 个/NUM 月/NOUN         /SPACE 注4/VERB 、/PUNCT 注5/VERB
+
+注1：G/VERB 日为/NOUN 本次/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 实施/VERB 后/PART 的/PART 首/NUM 个/NUM 交易日/NOUN 。/PUNCT
+
+注2/NOUN ：/PUNCT 目前/NOUN 华电/PROPN 集团/NOUN 的/PART 部分/NUM 国有/ADJ 股份/NOUN 过户/VERB 给/ADP 省/NOUN 国资/NOUN 公司/NOUN 与/CCONJ 玥文/PROPN 公司/NOUN 的/PART 过户/ADJ 手续/NOUN 尚/ADV 在/ADV 办理/VERB 中/PART ，/PUNCT 假定/VERB 执行/VERB 对价/NOUN 时/PART 过户/VERB 手续/NOUN 已/ADV 完成/VERB 。/PUNCT
+
+注3：华电/PUNCT 集团/NOUN 特别/ADV 承诺/VERB 在/ADP 股权/NOUN 分置/ADV 完成/VERB 后/PART ，/PUNCT 至少/ADV 在/ADP 三十六/NUM 个/NUM 月/NOUN 内/PART 不/ADV 通过/ADP 证券/NOUN 交易所/NOUN 挂牌/VERB 交易/VERB 。/PUNCT
+
+注4：鉴于/PUNCT 玥文/PROPN 公司/NOUN 未/ADV 明确/ADV 表示/VERB 同意/VERB 执行/VERB 华东/PROPN 科技/NOUN 本次/NOUN 股改/NOUN 对价/ADV 安排/VERB ，/PUNCT 华电/PROPN 集团/NOUN 同意/VERB 对/ADP 玥文/PROPN 公司/NOUN 的/PART 执行/NOUN 对价/ADJ 安排/NOUN 先/ADV 行代/VERB 为/VERB 垫付/NOUN 。/PUNCT
+代为/NOUN 垫付/NOUN 后/PART ，/PUNCT 玥文/PROPN 公司/NOUN 所/PART 持有/VERB 的/PART 华东/PROPN 科技/NOUN 股份/NOUN 如/ADV 上市/VERB 流通/NOUN ，/PUNCT 应当/VERB 向代/VERB 为/VERB 垫付/NOUN 的/PART 华电/PROPN 集团/NOUN 偿还/VERB 代为/NOUN 垫付/NOUN 的/PART 款项/NOUN ，/PUNCT 或者/CCONJ 取得/VERB 华电/PROPN 集团/NOUN 的/PART 同意/NOUN 。/PUNCT
+
+注5/VERB ：/PUNCT 原/ADJ 非流/ADV 通股/VERB 股东/NOUN 持有/VERB 的/PART 股份/NOUN 自/ADP 获得/VERB 上市/VERB 流通权/NOUN 之/PART 日/PROPN 起/NUM 12/NUM 个/NUM 月/NOUN 内/PART 不/ADV 上市/VERB 交易/NOUN 或/CCONJ 转让/NOUN 。/PUNCT
+
+三/NUM 、/PUNCT 备查/NOUN 文件/NOUN
+
+1/NUM 、/PUNCT 南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 说明/VERB 书(/NOUN 修订/VERB 稿)/PUNCT ；/PUNCT
+
+2/NUM 、/PUNCT 南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 表决/VERB 公告/VERB ；/PUNCT
+
+3/NUM 、/PUNCT 江苏/PROPN 法德/NOUN 永衡/NOUN 律师/NOUN 事务所/NOUN 出具/VERB 的/PART 《/PUNCT 关于/ADP 南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/ADV 改革/VERB 相关/ADJ 股东/NOUN 会议/NOUN 的/PART 法律/NOUN 意见书/NOUN 》/PUNCT ；/PUNCT
+
+4/NUM 、/PUNCT 南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 股权/NOUN 分置/NOUN 改革/NOUN 方案/NOUN 实施/VERB 公告/NOUN 。/PUNCT
+
+南京/PROPN 华东/PROPN 电子/NOUN 信息/NOUN 科技/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 董事会/NOUN
+
+二○○六年/NOUN 五月/NOUN 九日/NOUN

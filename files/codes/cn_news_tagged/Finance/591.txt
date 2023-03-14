@@ -1,0 +1,271 @@
+●/PUNCT 上海/PROPN 证券/NOUN 市场/NOUN 2006年/NOUN 05月/NOUN 09日/NOUN 公开/ADV 信息/NOUN
+
+涨幅/NOUN 超过/VERB 7%/PUNCT 的/PART 前/DET 五/NUM 种/NUM 证券/NOUN
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (百万/NUM 份/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM    /SPACE 580993/NUM    /SPACE 万/NUM 华/PROPN HXP1/PROPN   /SPACE 61/NUM ./PUNCT
+59/NUM       /SPACE 268/NUM ./PUNCT
+43/NUM       /SPACE 85201/NUM ./PUNCT 82/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 5396/NUM ./PUNCT
+1/NUM
+
+2/NUM 、/PUNCT 东方/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 遵义路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 5140/NUM ./PUNCT
+09/NOUN
+
+3/NUM 、/PUNCT 东方/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 宛平南路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 4890/NUM ./PUNCT
+88/NUM
+
+4/NUM 、/PUNCT 招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 2832/NUM ./PUNCT
+63/NUM
+
+5/NUM 、/PUNCT 光大/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 华强/PROPN (/PUNCT 行情/NOUN ,/PUNCT 论坛/NOUN )南路/PROPN 营业部/NOUN                 /SPACE
+2666/NUM ./PUNCT 01/NUM
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (/PUNCT 万/NUM 股/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+2/NUM    /SPACE 600809/NUM    /SPACE G汾/NOUN 酒(/NOUN 行情/NOUN ,/PUNCT 论坛/VERB )/NOUN      /SPACE 29/NUM ./PUNCT
+12/NUM      /SPACE 1574/NUM ./PUNCT 59/NUM       /SPACE 27093/NUM ./PUNCT
+16/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 东方/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 客户/NOUN 资产/NOUN 管理部/NOUN                     /SPACE 1872/NUM ./PUNCT
+02/NUM
+
+2/NUM 、/PUNCT 广发/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 广州/PROPN 环市/VERB 东路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 1853/NUM ./PUNCT
+26/NUM
+
+3/NUM 、/PUNCT 国泰君/PROPN 安证券/PROPN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 江苏路/PROPN 证券/NOUN 营业部/NOUN            /SPACE 890/NUM ./PUNCT
+31/NUM
+
+4/NUM 、/PUNCT 招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN                /SPACE 863/NUM ./PUNCT
+85/NUM
+
+5/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN              /SPACE 820/NUM ./PUNCT
+72/NUM
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (百万/NUM 份/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+3/NUM    /SPACE 580004/NUM    /SPACE 首创/NOUN JTB1/NOUN   /SPACE 24/NUM ./NOUN 01/NUM       /SPACE 285/NUM ./PUNCT
+33/NUM       /SPACE 83216/NUM ./PUNCT
+18/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 海通/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 临汾路/ADJ 营业部/NOUN                   /SPACE 6218/NUM ./PUNCT
+53/NUM
+
+2/NUM 、/PUNCT 海通/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 建国西路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 4786/NUM ./PUNCT
+9/NUM
+
+3/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 4140/NUM ./PUNCT
+72/NUM
+
+4/NUM 、/PUNCT 东方/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 宛平南路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 2593/NUM ./PUNCT
+21/NUM
+
+5/NUM 、/PUNCT 西南/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 西南/NOUN 证券/NOUN 总部/NOUN （/PUNCT 网上/NOUN 交易/NOUN ）/PUNCT
+          /SPACE 2562/NUM ./PUNCT 38/NUM
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (百万/NUM 份/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+4/NUM    /SPACE 580005/NOUN    /SPACE 万/NUM 华/PROPN HXB1/NOUN   /SPACE 19/NUM ./PUNCT 91/NUM        /SPACE 43/NUM ./PUNCT
+36/NUM       /SPACE 48210/NUM ./PUNCT
+59/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 天一/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 广州/PROPN 林和西路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 4783/NUM ./PUNCT
+73/NUM
+
+2/NUM 、/PUNCT 东吴/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 杭州/PROPN 湖墅/NOUN 南路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 2808/NUM ./PUNCT
+3/NUM
+
+3/NUM 、/PUNCT 西南/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 西南/NOUN 证券/NOUN 总部/NOUN （/PUNCT 网上/NOUN 交易/NOUN ）/PUNCT
+          /SPACE 2693/NUM ./PUNCT
+98/NUM
+
+4/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 2230/NUM ./PUNCT
+85/NUM
+
+5/NUM 、/PUNCT 东方/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 遵义路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 1601/NUM ./PUNCT
+01/NUM
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (/PUNCT 万/NUM 股/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+5/NUM    /SPACE 600832/NUM    /SPACE G明珠/NOUN (/PUNCT 行情/NOUN ,/PUNCT 论坛/NOUN )/NOUN       /SPACE 9/NUM ./PUNCT
+97/NUM      /SPACE 4343/NUM ./PUNCT
+25/NUM       /SPACE 45861/NUM ./PUNCT
+89/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 光大/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 张杨路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 2292/NUM ./PUNCT
+73/NUM
+
+2/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN             /SPACE 1708/NUM ./PUNCT
+99/NUM
+
+3/NUM 、/PUNCT 长江/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 东方路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 1309/NUM ./PUNCT
+94/NUM
+
+4/NUM 、/PUNCT 招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN               /SPACE 1259/NUM ./PUNCT
+88/NUM
+
+5/NUM 、/PUNCT 东吴/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 杭州/PROPN 湖墅/NOUN 南路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 1146/NUM ./PUNCT
+77/NUM
+
+跌幅/NOUN 超过/VERB 7%/PUNCT 的/PART
+前/DET 五/NUM 种/NUM 证券/NOUN
+
+名次/PROPN 证券/NOUN 代码/NOUN  /SPACE 证券/NOUN 简称/NOUN   /SPACE 涨幅%/NOUN   /SPACE 成交量/NOUN (/PUNCT 万/NUM 股/NUM )/NOUN   /SPACE 成交/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM    /SPACE 600509/NUM    /SPACE G天/NOUN 富(/PROPN 行情/NOUN ,/PUNCT 论坛/VERB )/NOUN      /SPACE -/PUNCT 7./NUM 68/NUM      /SPACE 2177/NUM ./PUNCT 37/NUM        /SPACE 9415/NUM ./PUNCT
+12/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　          /SPACE 买卖/VERB 金额/NOUN (/PUNCT 万元/NOUN )/PROPN
+
+1/NUM 、/PUNCT 国信/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN              /SPACE 491/NUM ./PUNCT
+98/NUM
+
+2/NUM 、/PUNCT 光大/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 张杨路/PROPN 证券/NOUN 营业部/NOUN                /SPACE 267/NUM ./PUNCT
+8/NUM
+
+3/NUM 、/PUNCT 招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN                /SPACE 217/NUM ./PUNCT
+09/NOUN
+
+4/NUM 、/PUNCT 广发/NOUN 华福/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 广发/NOUN 华福/PROPN 总部/NOUN                    /SPACE 173/NUM ./PUNCT
+15/NUM
+
+5/NUM 、/PUNCT 中关村/PROPN (/PUNCT 行情/NOUN ,/PUNCT 论坛/VERB )/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 中关村/PROPN (/PUNCT 行情/NOUN ,/PUNCT 论坛/VERB )/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 总部/NOUN        /SPACE 152/NUM ./PUNCT
+04/NUM
+
+*/PROPN 注/VERB ：/PUNCT 股票/NOUN 的/PART 成交量/NOUN 单位/NOUN 为/VERB "/PUNCT 万/NUM 股"/NOUN ；/PUNCT 权证/NOUN 的/PART 成交量/NOUN 单位/NOUN 为/VERB "百万/NOUN 份/VERB "/PUNCT 。/PUNCT
+
+●/PUNCT 深圳/PROPN 证券/NOUN 市场/NOUN 2006年/NOUN 05月/NOUN 09日/NOUN 公开/ADV 信息/NOUN
+
+日涨幅/ADV 超过/VERB 7%/PUNCT 的/PART 前/DET 五/NUM 只/NUM 证券/NOUN :/PUNCT
+
+G/PROPN 西/NOUN  /SPACE 飞/VERB  /SPACE (/PUNCT 代码/NOUN :/PUNCT 000768/NOUN )/NOUN    /SPACE 涨幅/NOUN
+：/PUNCT   /SPACE 12/NUM ./PUNCT
+97%/PROPN    /SPACE 成交/NOUN 数量/NOUN :/PUNCT 4446万/NUM 股/NUM      /SPACE 成交/VERB 金额/NOUN :/PUNCT 28094万/NUM 元/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　　　 　　　 /SPACE 交易/NOUN 金额/NOUN (元/NOUN )/NOUN
+
+券商/VERB 集合/VERB 资产/NOUN 管理/NOUN 计划/NOUN 专用/ADJ 席位/NOUN                                         /SPACE 15791102/NUM ./PUNCT
+94/NUM
+
+国信/NOUN 证券/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN                               /SPACE 13715628/NUM ./PUNCT
+14/NUM
+
+国泰君安/PROPN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 江苏路/PROPN 证券/NOUN 营业部/NOUN                         /SPACE 12606379/NUM ./PUNCT
+72/NUM
+
+工商/NOUN 银行/NOUN 特别/ADJ 席位/NOUN                                                      /SPACE 9421381/NUM ./PUNCT
+31/NUM
+
+蔚深/VERB 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 长沙/PROPN 五一/NOUN 中路/NOUN 证券/NOUN 营业部/NOUN                            /SPACE 8955142/NUM ./PUNCT
+82/NUM
+
+G/PROPN 五粮液/NUM (/PUNCT 代码/NOUN :/PUNCT 000858/NUM )/NOUN 达/VERB 涨幅/NOUN 限制/VERB 价位/NOUN 成交/NOUN 数量/NOUN :/PUNCT 6464万/NUM 股/NUM 成交/NOUN 金额/NOUN :/PUNCT 81447万/NUM 元/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　　　 　　　 /SPACE 交易/NOUN 金额/NOUN (元/NOUN )/NOUN
+
+广发/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 蛇口/NOUN 证券/NOUN 营业部/NOUN                               /SPACE 29936676/NUM ./PUNCT 42/NUM
+
+国信/NOUN 证券/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN                               /SPACE 27532256/NUM ./PUNCT
+66/NUM
+
+中国/PROPN 国际/NOUN 金融/NOUN 有限/ADJ 公司/NOUN 上海/PROPN 陆家嘴/PROPN 东路/NOUN 证券/NOUN 营业部/NOUN                         /SPACE 26688011/NUM ./PUNCT
+30/NUM
+
+招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN                             /SPACE 26017182/NUM ./PUNCT
+95/NOUN
+
+银河/NOUN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                                                 /SPACE 25600000/NUM ./PUNCT
+00/NUM
+
+G/PROPN 丰/VERB 原/ADV (/PUNCT 代码/NOUN :/PUNCT
+000930/NUM )/NOUN 达/VERB 涨幅/NOUN 限制/VERB 价位/NOUN 成交/NOUN 数量/NOUN :/PUNCT 12130万/NUM 股/NUM 成交/NOUN 金额/NOUN :/PUNCT 70871万/NUM 元/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　　　 　　　 /SPACE 交易/NOUN 金额/NOUN (元/NOUN )/NOUN
+
+东海/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 水城/NOUN 南路/PROPN 证券/NOUN 营业部/NOUN                           /SPACE 46517035/NUM ./PUNCT
+61/NUM
+
+国信/NOUN 证券/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN                               /SPACE 29573912/NUM ./PUNCT
+45/NUM
+
+招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN                             /SPACE 26905770/NUM ./PUNCT
+75/NUM
+
+财达/ADJ 证券/NOUN 二席/NUM                                                         /SPACE 20933038/NUM ./PUNCT
+27/NUM
+
+天一/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 宁波/PROPN 解放南路/PROPN 证券/NOUN 营业部/NOUN                           /SPACE 15917091/NUM ./PUNCT
+44/NUM
+
+G/PROPN 华/PROPN 联/VERB (/PUNCT 代码/NOUN :/PUNCT 000036/NOUN )/NOUN 达/VERB 涨幅/NOUN 限制/VERB 价位/NOUN 成交/NOUN 数量/NOUN :/PUNCT 9114万/NOUN 股/NUM 成交/NOUN 金额/NOUN :/PUNCT 24057万/NUM 元/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　　　 　　　 /SPACE 交易/NOUN 金额/NOUN (元/NOUN )/NOUN
+
+天一/PROPN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 宁波/PROPN 解放南路/PROPN 证券/NOUN 营业部/NOUN                           /SPACE 33973286/NUM ./PUNCT
+03/NUM
+
+国信/NOUN 证券/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN                               /SPACE 12286254/NUM ./PUNCT 73/NUM
+
+招商/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN                             /SPACE 11064435/NUM ./PUNCT
+49/NUM
+
+国盛/ADJ 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 南昌/PROPN 永叔路/PROPN 证券/NOUN 营业部/NOUN                              /SPACE 8316259/NOUN ./PUNCT
+94/NUM
+
+联合/ADJ 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 深圳/PROPN 振兴路/NOUN 第二/NUM 证券/NOUN 营业部/NOUN                          /SPACE 7874368/NUM ./PUNCT
+23/NUM
+
+山推/PROPN 股份/NOUN (/PUNCT 行情/NOUN ,/PUNCT 论坛/NOUN )/NOUN (/PUNCT 代码/NOUN :/PUNCT 000680/NUM )/NOUN 达/VERB 涨幅/NOUN 限制/VERB 价位/NOUN 成交/NOUN 数量/NOUN :/PUNCT 4380万/NUM 股/NUM 成交/NOUN 金额/NOUN :/PUNCT 20884万/NUM 元/NUM
+
+营业部/NOUN 名称/NOUN 　　　　　　　　　　 　　　 /SPACE 交易/NOUN 金额/NOUN (元/NOUN )/NOUN
+
+广发/NOUN 华福/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                                                 /SPACE 16801827/NUM ./PUNCT
+66/NUM
+
+渤海/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                                                 /SPACE 11409952/NUM ./PUNCT
+70/NUM
+
+海通/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 杭州/PROPN 解放路/NOUN 证券/NOUN 营业部/NOUN                             /SPACE 11280105/NUM ./PUNCT
+59/NUM
+
+国信/NOUN 证券/NOUN 有限/ADJ 公司/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN                                /SPACE 9816477/NUM ./PUNCT
+61/NUM
+
+第一/NUM 创业/NOUN 证券/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 佛山/PROPN 季华/NOUN 五路/NOUN 证券/NOUN 营业部/NOUN                        /SPACE 9387328/NUM ./PUNCT
+27/NUM
+
+日/PROPN 跌幅/NOUN 超过/VERB 7%/PUNCT 的/PART 前/DET 五/NUM 只/NUM 证券/NOUN :/PUNCT 无/VERB
+
+●/PUNCT 深圳/PROPN 证券/NOUN 市场/NOUN 中小/ADJ 企业板/NOUN 2006年/NOUN 05月/NOUN 09日/NOUN 公开/ADV 信息/NOUN
+
+日涨幅/PROPN 偏离值/PROPN 达/VERB 7%/NUM 的/PART 前/DET 三/NUM 只/NUM 股票/NOUN ：/PUNCT 无/VERB
+
+日/PROPN 跌幅/NOUN 偏离值/PROPN 达/VERB 7%/NUM 的/PART 前/DET 三/NUM 只/NUM 股票/NOUN ：/PUNCT 无/VERB
+
+日振/NOUN 幅值/NOUN 达/VERB 15%/NUM 的/PART 前/DET 三/NUM 只/NUM 股票/NOUN ：/PUNCT 无/VERB
+
+日换/NOUN 手率/NOUN 达/VERB 20%/NOUN 的/PART 前/DET 三/NUM 只/NUM 股票/NOUN ：/PUNCT 无/VERB
+
+连续/ADV 三/NUM 个/NUM 交易/NOUN 日内/NOUN ，/PUNCT 涨幅/NOUN 偏离值/PROPN 累计/ADV 达/VERB 20%/NUM 的/PART 股票/NOUN ：/PUNCT 无/VERB
+
+连续/ADV 三/NUM 个/NUM 交易/NOUN 日内/NOUN ，/PUNCT 跌幅/NOUN 偏离值/PROPN 累计/ADV 达/VERB 20%/NUM 的/PART 股票/NOUN ：/PUNCT 无/VERB
+
+连续/ADV 三/NUM 个/NUM 交易/NOUN 日内/NOUN ，/PUNCT 涨幅/NOUN 偏离值/PROPN 累计/ADV 达/VERB 15%/NUM 的/PART ST/NOUN 股票/NOUN ：/PUNCT 无/VERB
+
+连续/ADV 三/NUM 个/NUM 交易/NOUN 日内/NOUN ，/PUNCT 跌幅/NOUN 偏离值/PROPN 累计/ADV 达/VERB 15%/NUM 的/PART ST/NOUN 股票/NOUN ：/PUNCT 无/VERB
+
+连续/ADV 三/NUM 个/NUM 交易日/NOUN 内/PART ，/PUNCT 日均/ADJ 换手率/NOUN 与/CCONJ 前/DET 五/NUM 个/NUM 交易日/NOUN 的/PART 日均/ADJ 换手率/NOUN 的/PART 比值/NOUN 达到/VERB 30/NUM 倍/NUM ，/PUNCT 且/ADV 换手率/NOUN 累计/ADV 达/VERB 20%/NUM 的/PART 股票/NOUN ：/PUNCT 无/VERB
+
+其它/DET 异常/ADV 波动/VERB 的/PART 股票/NOUN ：/PUNCT 无/VERB

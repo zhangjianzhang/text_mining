@@ -1,0 +1,22 @@
+Sandy/NOUN Bin/ADV 15/NUM //PUNCT F,TOWA/NOUN RD/NOUN ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE OBJECTIVE/PROPN 　　/SPACE A/NOUN position/NOUN that/NOUN will/NOUN further/VERB develop/ADV my/VERB superior/NOUN marketing/ADJ skills/NOUN ./PUNCT
+　　/SPACE EX/PROPN PER/NOUN I/PRON ENCE/NOUN 　　/SPACE Marketing/PROPN Assistant/NOUN ,/PUNCT The/DET art/NOUN lover/NOUN 's/VERB institute/NOUN 　　/SPACE Indianapolis/NOUN ,/PUNCT IN/NOUN Marketing/PROPN Assistant/NOUN ,/PUNCT The/DET art/NOUN lover/NOUN 's/VERB ine/NOUN 2/NUM //PUNCT 91/NUM -/PUNCT Present/PROPN 　　/SPACE Temporary/PROPN position/NOUN assisting/VERB the/DET Manager/NOUN of/ADP Public/PROPN Information/NOUN on/ADP the/DET exhibit/NOUN "Proud/PUNCT
+Triangles;/VERB Gary/NOUN Lift/NOUN in/ADP America/NOUN ./PUNCT "/PUNCT
+　　/SPACE Executed/PROPN the/DET distribution/NOUN of/ADP exhibit/PROPN posters/NOUN and/CCONJ organized/ADV the/DET development/NOUN of/ADP displays/NOUN merchandising/PROPN products/PROPN to/ADP promote/PROPN the/DET exhibit/NOUN at/ADP local/NOUN retailers/VERB ./PUNCT
+　　/SPACE Coordinated/PROPN press/NOUN clippings/PROPN and/CCONJ releases/NOUN about/PROPN the/DET exhibit/VERB ./PUNCT
+　　/SPACE Assistant/NOUN Box/NOUN Office/NOUN Manager/PROPN ,/PUNCT Terre/PROPN Haute/PROPN Performing/PROPN Arts/NOUN Center/PROPN 　　/SPACE Terre/PROPN Haute/PROPN ,/PUNCT IN/PROPN Marketing/PROPN Assistant/NOUN ,/PUNCT The/DET art/NOUN lover/NOUN 's/VERB ine/NOUN 6/NUM //PUNCT 90/NOUN -/NOUN 1/NUM //PUNCT 91/NOUN 　　/SPACE Managed/PROPN daily/NOUN operations/NOUN for/ADP a/NUM staff/NOUN of/ADP 20/NUM operators/NOUN responsible/NOUN for/ADP customer/NOUN service/NOUN and/CCONJ the/DET sale/NOUN of/ADP all/DET tickets/NOUN in/ADP a/NUM theater/ADJ seating/NOUN 5/NUM ,/PUNCT 000/NUM ./PUNCT
+　　/SPACE Compiled/PROPN all/DET financial/NOUN statements/NOUN on/ADP a/NUM daily/NOUN and/CCONJ monthly/NOUN basis/VERB for/ADP each/ADJ perfor/NOUN mance/NOUN in/ADP the/DET theater/NOUN averaging/VERB 10/NUM perfor/NOUN mances/NOUN per/NOUN month,including/PROPN daily/NOUN deposits/NOUN and/CCONJ revenue/PROPN from/ADP outlet/ADP sales/NOUN on/ADP secondary/NOUN ticketing/VERB systems/NOUN ./PUNCT
+　　/SPACE Gallery/PROPN Assistant/PROPN //PUNCT Window/PROPN Exhibit/PROPN Coordinator/NOUN ,/PUNCT 　　/SPACE Jim/NOUN Cannon/NOUN 's/VERB Art/NOUN Implosion/PROPN 　　/SPACE Bourbon/PROPN ,/PUNCT IN/NOUN Marketing/PROPN Assistant/NOUN ,/PUNCT The/DET art/NOUN lover/NOUN 's/VERB ine/NOUN 5/NUM //PUNCT 89/NUM -/PUNCT 6/NUM //PUNCT 90/NOUN 　　/SPACE Developed/ADJ marketing/ADJ plan/NOUN for/ADP fine/PROPN art/NOUN prints/NOUN and/CCONJ coordinating/PROPN notecards/VERB ./PUNCT
+　　/SPACE Developed/NOUN client/VERB base/NOUN and/CCONJ serviced/NOUN ac/NOUN counts/NOUN ./PUNCT
+　　/SPACE Coordinated/PROPN special/NOUN events/ADV relating/VERB to/ADP current/NOUN exhibits/VERB ,/PUNCT opening/ADV receptions/NOUN ,/PUNCT and/CCONJ artist/NOUN signings/NOUN ./PUNCT
+Handled/PROPN press/NOUN releases/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE VALPA/PROPN RAISO/NOUN UN/NOUN I/PRON VERSIT/PROPN Y/NOUN ,/PUNCT VALPARAI/ADJ SOO/NOUN ,/PUNCT IN/PROPN 　　/SPACE BACHELOR/PROPN OF/PROPN ARTS/PROPN ,/PUNCT 1991/NUM ./PUNCT
+　　/SPACE ARTS/PROPN ADM/NOUN I/PRON NISTRATION/NOUN WITH/PROPN A/NOUN CONCENTRATION/PROPN IN/PROPN MARKETING/PROPN //PUNCT COM/NOUN MUN/PROPN I/PRON CATION/PROPN S/X ./PUNCT
+　　/SPACE SKILLS/PROPN 　　/SPACE Mackintosh;Pagemaker/PUNCT ,/PUNCT Word/NOUN 　　/SPACE IBM/PROPN ;/ADJ Word/NOUN Perfect/NOUN ,/PUNCT Excel/PROPN and/CCONJ rBase/PROPN ./PUNCT
+　　/SPACE Job/NOUN descriptions/NOUN are/VERB straightforward/NOUN and/CCONJ understandable/VERB ./PUNCT
+　　/SPACE Specific/PROPN dates/PROPN of/ADP employment/NOUN (month/NOUN and/CCONJ year/VERB )are/INTJ id/VERB eal/NOUN for/ADP candidates/PROPN with/DET no/NOUN gaps/NOUN in/NOUN work/NOUN history/VERB ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT Assistant/PROPN +/PUNCT lover/PROPN +/PUNCT art/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+907/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

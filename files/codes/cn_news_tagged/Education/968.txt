@@ -1,0 +1,31 @@
+【/PUNCT 来源/NOUN ：/PUNCT 考试/NOUN 吧/PART 】/PUNCT
+
+ANTI-POLLUTION/NOUN NEEDS/PROPN YOUR/PROPN EF/PROPN FORTS/NOUN
+
+People/PROPN today/NOUN are/VERB beginning/VERB to/ADP hear/ADJ more/NOUN &/PUNCT more/VERB about/PROPN the/DET problem/VERB
+of/ADP
+
+pollution/NOUN ./PUNCT
+Pollution/PROPN is/VERB caused/VERB either/VERB by/ADP the/DET release/NOUN of/ADP artificial/ADV substances/NOUN
+
+in/NOUN to/ADP the/DET environment/VERB (/PUNCT 人造/VERB 物质/NOUN 的/PART 排放)/NOUN ,/PUNCT or/CCONJ by/ADP increased/PROPN amounts/VERB of/ADP natural/NOUN substances/VERB ,/PUNCT
+
+such/NOUN as/VERB oil/NOUN ,/PUNCT from/ADP oil/NOUN tankers/PROPN in/NOUN to/ADP the/DET sea/NOUN ./PUNCT
+
+Many/ADJ people/NOUN ,/PUNCT therefore/NOUN ,/PUNCT see/VERB pollution/NOUN as/NOUN only/NOUN part/NOUN of/ADP a/DET larger/PROPN &/NOUN more/VERB
+
+complex/PROPN problem/VERB ./PUNCT
+Whatever/NOUN its/NOUN underlying/PROPN reasons/NOUN ,/PUNCT it/ADV is/VERB no/NOUN doubt/NOUN that/ADV much/VERB of/ADP
+
+the/DET pollution/NOUN could/PROPN be/ADJ controlled/PROPN if/NOUN companies/VERB ,/PUNCT individuals/PROPN &/NOUN governments/PROPN
+
+would/PROPN make/NOUN more/ADV efforts/VERB ./PUNCT
+For/NOUN instance/NOUN ,/PUNCT there/NOUN is/VERB an/NUM obvious/NOUN need/VERB to/ADP control/NOUN
+
+litter/PROPN &/NOUN waste/PROPN ,/PUNCT which/PROPN everyone/PROPN can/VERB help/VERB to/ADP do/VERB by/ADP cutting/PROPN out/ADP excess/ADV
+
+consumption/NOUN &/NOUN careless/PROPN disposal/PROPN of/ADP the/DET products/NOUN we/NOUN use/NOUN in/NOUN our/NOUN daily/NOUN
+
+lives/PROPN ./PUNCT
+
+In/NOUN a/X word/NOUN ,/PUNCT anti-pollution/NOUN need/NOUN s/VERB your/PRON effort/VERB s!/NOUN

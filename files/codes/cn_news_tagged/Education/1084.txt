@@ -1,0 +1,45 @@
+Out/NOUN of/ADP debt/VERB ,/PUNCT out/PROPN of/ADP danger/PROPN ./PUNCT
+无债/VERB 一身轻/ADV 。/PUNCT
+
+Out/NOUN of/ADP office/NOUN ,/PUNCT out/PROPN of/ADP danger/PROPN ./PUNCT
+无官一身轻/VERB 。/PUNCT
+
+Out/NOUN of/ADP sight/VERB ,/PUNCT out/PROPN of/ADP mind/NOUN ./PUNCT
+眼/NOUN 不见/VERB ,/PUNCT 心/NOUN 不/ADV 烦/VERB 。/PUNCT
+
+Patience/PROPN is/VERB the/DET best/ADJ remedy/NOUN ./PUNCT
+忍耐/VERB 是/VERB 良药/NOUN 。/PUNCT
+
+Penny/NOUN wise/NOUN ,/PUNCT pound/NOUN foolish/VERB ./PUNCT
+贪小便宜吃大亏/VERB 。/PUNCT
+
+Pleasure/NOUN comes/PROPN through/NOUN toil/NOUN ./PUNCT
+苦尽甘来/VERB 。/PUNCT
+
+Pour/NOUN water/NOUN in/NOUN to/ADP asieve/VERB ./PUNCT
+竹篮打水一场空/PROPN 。/PUNCT
+
+Practice/NOUN makes/NOUN perfect/NOUN ./PUNCT
+熟能生巧/PROPN 。/PUNCT
+
+Praise/PROPN is/VERB not/PROPN pudding/VERB ./PUNCT
+恭/VERB 维话/NOUN 不/ADV 能/VERB 当饭/VERB 吃/VERB 。/PUNCT
+
+Praise/NOUN makes/NOUN good/NUM men/NOUN better/VERB ,/PUNCT and/CCONJ bad/PROPN men/NOUN worse/PROPN
+
+./PUNCT
+好人/NOUN 越/ADV 夸/VERB 越/ADV 好/VERB ,/PUNCT 坏人/NOUN 越/ADV 夸/VERB 越/ADV 糟/VERB 。/PUNCT
+
+Prefer/PROPN loss/NOUN to/ADP unjust/PROPN gain/PROPN ./PUNCT
+宁可/ADV 吃亏/VERB ,/PUNCT 不/ADV 贪便宜/VERB 。/PUNCT
+
+Prevention/NOUN is/VERB better/ADJ than/NOUN cure/NOUN ./PUNCT
+预防/VERB 胜于/NOUN 治疗/NOUN 。/PUNCT
+
+Pride/PROPN goes/NOUN before/VERB ,/PUNCT and/CCONJ shame/NOUN come/PROPN safter/NOUN ./PUNCT
+骄傲使人落后/VERB 。/PUNCT
+
+Promise/PROPN is/VERB debt/VERB ./PUNCT
+一诺千金/NOUN 。/PUNCT
+
+来源/NOUN :/PUNCT 大连/PROPN 日报/NOUN

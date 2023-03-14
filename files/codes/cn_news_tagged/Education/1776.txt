@@ -1,0 +1,66 @@
+货物/NOUN 检验/NOUN 实用/NOUN 例句/ADV
+
+[/PROPN 2006/NOUN -/PUNCT 04/NUM -/NOUN 24/NOUN 10/NUM :/PUNCT 02/NUM ]/NUM
+
+商品/NOUN 检验/NOUN 是/VERB 贸易/NOUN 中/PART 的/PART 一个/NUM 重要/ADJ 问题/NOUN 。/PUNCT
+只有/SCONJ 双方/PRON 都/ADV 满意/VERB 了/PART 检验/NOUN 程序/NOUN 和/CCONJ 结果/NOUN ，/PUNCT 货物/NOUN 才能/ADV 顺利/ADV 签收/VERB 。/PUNCT
+给/ADP 大家/PRON 提供/VERB 一些/NUM 有关/ADP 检验/NOUN 的/PART 实用/ADJ 表达/NOUN ，/PUNCT 保证/VERB 检验/NOUN 时/PART 对答如流/VERB ！/PUNCT
+
+Shall/PROPN we/NOUN take/VERB up/DET the/DET question/VERB of/ADP inspection/PROPN today/VERB ?/PUNCT
+
+今天/NOUN 咱们/PRON 讨论/NOUN 商品/NOUN 检验/NOUN 问题/NOUN 吧/PART 。/PUNCT
+
+The/DET commodity/NOUN inspection/NOUN is/VERB no/NOUN easy/NOUN job/NOUN ./PUNCT
+
+商检/NOUN 工作/NOUN 不是/ADV 那么/ADV 简单/VERB 。/PUNCT
+
+Mr/NOUN ./PUNCT Black/PROPN is/VERB talking/NOUN with/ADP the/DET Chinese/NOUN importer/PROPN about/PROPN inspecting/PROPN the/DET
+
+goods/PROPN ./PUNCT
+
+布莱克/PROPN 先生/NOUN 与/CCONJ 中方/NOUN 进口商/NOUN 就/ADP 商品/NOUN 检验/NOUN 问题/NOUN 进行/VERB 洽谈/NOUN 。/PUNCT
+
+As/NOUN an/PROPN integral/NOUN part/NOUN of/ADP the/DET contract/NOUN ,/PUNCT the/DET inspection/NOUN of/ADP goods/PROPN has/PROPN special/PROPN
+
+importance/NOUN ./PUNCT
+
+作为/VERB 合同/NOUN 里/PART 的/PART 一个/NUM 组成/NOUN 部分/NOUN ，/PUNCT 商品/NOUN 检验/NOUN 具有/VERB 特殊/VERB 的/PART 重要性/NOUN 。/PUNCT
+
+We/PROPN should/PROPN inspect/VERB this/PRON batch/NOUN of/ADP porcelain/PROPN wares/VERB to/ADP see/NOUN if/VERB there/NOUN is/VERB any/PROPN
+
+breakage/NOUN ./PUNCT
+
+我们/PRON 要/VERB 检查/VERB 一下/ADV 这/DET 批/NUM 瓷器/NOUN 是否/VERB 有/VERB 破损/VERB 的/PART 。/PUNCT
+
+The/DET exporters/PROPN have/PROPN the/DET right/NOUN to/ADP inspect/PROPN the/DET export/VERB goods/PROPN before/ADP delivery/NOUN to/ADP
+
+the/DET shipping/NOUN line/NOUN ./PUNCT
+
+出口商/NOUN 在/ADP 向/ADP 船运/NOUN 公司/NOUN 托运/VERB 前/PART 有/VERB 权/NOUN 检验/ADJ 商品/NOUN 。/PUNCT
+
+The/DET inspection/NOUN should/PROPN be/PROPN completed/NOUN within/PROPN a/NUM month/ADJ after/PROPN the/DET arrival/VERB of/ADP the/DET
+
+goods/PROPN ./PUNCT
+
+商品/NOUN 检验/NOUN 工作/NOUN 应/VERB 在/ADP 到货/VERB 后/PART 一个/ADV 月/NOUN 内/PART 完成/VERB 。/PUNCT
+
+How/PROPN should/PROPN we/NOUN define/PROPN the/DET inspection/NOUN rights/NOUN ?/PUNCT
+
+商检/NOUN 的/PART 权力/NOUN 怎样/ADV 加以/VERB 明确/NOUN 呢/PART ？/PUNCT
+
+I'm/VERB worried/NOUN that/VERB there/PRON might/VERB be/ADJ some/NOUN disputes/PROPN over/VERB the/DET results/NOUN
+of/ADP
+
+inspection/NOUN ./PUNCT
+
+我/PRON 担心/VERB 对/ADP 商检/NOUN 的/PART 结果/NOUN 会/VERB 发生/VERB 争议/NOUN 。/PUNCT
+
+We'll/NOUN acce/NUM
+pt/NOUN the/DET goods/NOUN
+only/ADP if/ADP the/DET results/NOUN from/ADP the/DET two/NOUN inspections/NOUN are/VERB
+
+id/VERB entical/NOUN with/ADP each/VERB o/ADV ther/NOUN ./PUNCT
+
+如果/SCONJ 双方/PRON 的/PART 检测/NOUN 结果/NOUN 一致/VERB ，/PUNCT 我们/PRON 就/ADV 收货/VERB 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

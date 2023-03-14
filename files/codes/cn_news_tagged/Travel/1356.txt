@@ -1,0 +1,56 @@
+旅馆/NOUN 住宿/NOUN
+
+青年/NOUN 旅舍/NOUN 和/CCONJ 面向/VERB 青年人/NOUN 的/PART 旅舍/NOUN
+
+旅店/NOUN 名称/VERB ：/PUNCT 自然/NOUN 公园/NOUN 和/CCONJ 森林/NOUN 的/PART 青年/NOUN 旅社/NOUN Hochspeyer/PROPN
+
+距离/NOUN 体育场/NOUN 10/NUM 公里/NUM 。/PUNCT
+
+地址/NOUN ：/PUNCT Trippstadter/PROPN Straße街/PROPN 150/NUM 号/NOUN
+
+67691/NOUN
+Hochspeyer/PROPN
+
+Tel/NOUN :/PUNCT 06305/NUM //PUNCT 336/NUM
+
+Fax/VERB :/PUNCT 06305/NUM //PUNCT 5152/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT hochspeyer/PROPN @/PUNCT diejugendherbergen/PROPN ./PUNCT
+de/VERB
+
+联系人/NOUN ：/PUNCT Frank/PROPN Graus/PROPN 先生/NOUN
+
+价格/NOUN ：/PUNCT 13/NUM ,/PUNCT 50/NUM 欧元/NOUN 、/PUNCT 18/NUM ,/PUNCT 50/NUM 欧元/NOUN 、/PUNCT 21/NUM ,/PUNCT 00/NUM 欧元/NOUN
+
+最近/NOUN 的/PART 机场/NOUN ：/PUNCT Saar/VERB brücken/ADJ 机场/NOUN ,/PUNCT Zweibrücken/PROPN 机场/NOUN
+
+最近/NOUN 的/PART 火车站/NOUN ：/PUNCT Hochspeyer/PROPN 火车站/NOUN >>/NUM >/PUNCT
+凯泽斯/PROPN 劳腾/NOUN 交通/NOUN 指南/NOUN
+
+最近/NOUN 的/PART 公车站/NOUN ：/PUNCT 6519/NOUN 路车/NOUN ，/PUNCT 从/ADP Kaiserslautern/PROPN 火车站/NOUN von/NOUN K/NOUN L/NOUN -/PUNCT Hbf/NOUN
+
+地理/NOUN 位置/NOUN ：/PUNCT 在/ADP Hochspeyer/PROPN 城市/NOUN 的/PART 东边/NOUN ，/PUNCT 在/ADP Johanniskreuz街/PROPN 上/PART 。/PUNCT
+
+到达/VERB 方式/NOUN ：/PUNCT
+
+开车/VERB ：/PUNCT 高速/ADJ 公路/NOUN A/NOUN 6号/NOUN
+
+从/ADP 曼海姆/PROPN Mannhe/PROPN im/VERB 到/VERB 萨尔布吕肯/PROPN Saar/VERB brücken/VERB ,/PUNCT 出口/VERB Enkenbach/PROPN -/PUNCT Alsenborn/PROPN ,/PUNCT in/ADP Hochspeyer/PROPN außerhalb/PROPN
+
+des/NOUN Ortes/PROPN an/DET der/NOUN B/NOUN 48/NUM in/NOUN Richtung/PROPN Johanniskreuz/PROPN ./PUNCT
+
+坐车/NOUN ：/PUNCT Hochspeyer/PROPN 是/VERB 从/ADP 曼海姆/PROPN Mannhe/PROPN im/VERB 到/VERB 萨尔布吕肯/PROPN Saar/VERB brücken/NOUN 的/PART 一/NUM 站/NOUN ，/PUNCT 或者/CCONJ 从/ADP 冰恩Bingen/PROPN 到/ADP Saar/VERB brücken/NOUN 中/PART 的/PART 一/NUM 站/NOUN ，/PUNCT 从/ADP 火车站/NOUN 步行/VERB 30/NUM 分钟/NUM ，/PUNCT 可以/VERB 运送/VERB 行李/NOUN 。/PUNCT
+
+中高级/ADJ 饭店/NOUN
+
+Bremerhof/PROPN
+
+地址/NOUN ：/PUNCT Bremerhof/PROPN 1/NUM 号/NOUN
+
+67663/NUM
+Kaiserslautern/PROPN
+
+Tel/NOUN :/PUNCT 0631/NOUN 316320/NOUN
+
+Fax/VERB :/PUNCT 0631/NUM 3163220/NOUN [/PROPN 详细/VERB ]/NOUN

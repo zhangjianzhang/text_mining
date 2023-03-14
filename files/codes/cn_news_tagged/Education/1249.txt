@@ -1,0 +1,125 @@
+06/NUM ./PUNCT 01/NUM ./PUNCT
+07/NUM
+
+Some/NOUN people/NOUN believe/PROPN they/PROPN should/VERB keep/VERB all/DET the/DET money/NOUN they/PROPN have/PRON earned/VERB and/CCONJ
+
+should/PROPN not/PROPN pay/NOUN tax/PROPN to/ADP the/DET state/NOUN ./PUNCT
+Do/ADV you/PRON agree/VERB or/CCONJ disagree/VERB ?/PUNCT
+
+06/NUM ./PUNCT 01/NUM ./PUNCT
+14/NUM
+
+There/PROPN are/VERB social/NOUN ,/PUNCT medical/NOUN and/CCONJ technical/NOUN problems/NOUN associated/ADP with/ADP the/DET use/NOUN of/ADP
+
+mobile/VERB phones/NOUN ./PUNCT
+What/PROPN forms/PROPN do/VERB they/PROPN take/NOUN ?/PUNCT
+Do/ADV you/PRON agree/ADV that/ADV the/DET problems/NOUN outweigh/PROPN
+
+the/DET benefits/NOUN of/ADP mobile/VERB phones/NOUN ?/PUNCT
+
+06/NUM ./PUNCT 01/NUM ./PUNCT
+21/NUM
+
+Today/PROPN ,/PUNCT the/DET advanced/ADJ science/NOUN and/CCONJ technology/NOUN have/NOUN made/NOUN great/NOUN changes/NOUN to/ADP
+
+people's/NOUN life/VERB ,/PUNCT but/ADV artists/VERB such/NOUN as/VERB musicians/NOUN ,/PUNCT painters/NOUN and/CCONJ writers/PROPN are/VERB still/NOUN
+
+highly/PROPN valued/VERB ./PUNCT
+What/NOUN can/VERB arts/VERB tell/NOUN us/VERB about/VERB life/PROPN that/NOUN science/NOUN and/CCONJ technology/NOUN
+
+cannot/VERB ?/PUNCT
+
+06/NUM ./PUNCT
+02/NUM ./PUNCT
+11/NUM
+
+In/NOUN many/ADV countries/VERB ,/PUNCT the/DET proportion/NOUN of/ADP older/NOUN people/NOUN is/VERB steadily/NOUN increasing/VERB ./PUNCT
+
+Does/NOUN this/PRON trend/NOUN have/PROPN more/ADP positive/NOUN or/CCONJ negative/NOUN effects/NOUN on/ADP the/DET society/NOUN ?/PUNCT
+
+06/NUM ./PUNCT
+02/NUM ./PUNCT
+18/NUM
+
+Some/NOUN people/NOUN believe/PROPN that/NOUN air/ADV travel/NOUN should/PROPN be/ADJ restricted/NOUN because/NOUN it/NOUN causes/PROPN
+
+serious/PROPN pollution/NOUN and/CCONJ uses/VERB up/NOUN the/DET world/NOUN 's/VERB fuel/ADJ resources/NOUN ./PUNCT
+To/NOUN what/NOUN extent/ADV do/VERB you/PRON
+
+agree/VERB or/CCONJ disagree/VERB ?/PUNCT
+
+06/NUM ./PUNCT
+02/NUM ./PUNCT 25/NUM
+
+More/PROPN and/CCONJ more/NOUN measures/NOUN to/ADP improve/PROPN the/DET security/NOUN in/ADP large/NOUN ur/ADJ ban/PROPN areas/PROPN have/NOUN
+
+been/NOUN introduced/NOUN in/ADP many/ADJ countries/NOUN because/NOUN of/ADP the/DET increased/NOUN crime/NOUN ./PUNCT
+Do/ADV the/DET
+
+benefits/NOUN of/ADP these/NOUN measures/PRON outweigh/PROPN the/DET drawbacks/PRON ?/PUNCT
+
+06/NUM ./PUNCT
+03/NUM ./PUNCT
+11/NUM
+
+In/NOUN many/ADV countries/VERB more/NOUN and/CCONJ more/NOUN young/VERB people/NOUN are/VERB leaving/NOUN school/NOUN but/PROPN unable/PROPN
+
+to/ADP find/VERB jobs/PROPN ./PUNCT
+What/NOUN problems/NOUN do/VERB you/PRON think/VERB you/PRON th/VERB unemployment/VERB causes/PROPN for/ADP
+
+individuals/PROPN and/CCONJ the/DET society/NOUN ?/PUNCT
+What/NOUN measures/PRON should/VERB be/VERB taken/NOUN to/ADP reduce/NOUN the/DET level/VERB
+
+of/ADP unemployment/VERB among/PROPN youngsters/PROPN ?/PUNCT
+
+06/NUM ./PUNCT
+03/NUM ./PUNCT
+18/NUM
+
+Some/NOUN people/NOUN think/NOUN that/NOUN teachers/NOUN should/NOUN be/ADJ responsible/NOUN for/ADP teaching/NOUN students/VERB
+
+to/ADP judge/PROPN what/VERB is/VERB right/ADP and/CCONJ wrong/PROPN so/ADV that/NOUN they/NOUN can/VERB be/VERB have/NOUN well/NOUN ./PUNCT
+Others/PROPN say/NOUN that/ADV
+
+teachers/NOUN should/VERB only/VERB teach/NOUN students/VERB academic/NOUN subjects/NOUN ./PUNCT Discuss/PROPN both/PROPN views/VERB and/CCONJ
+
+give/PROPN your/PRON opinion/VERB ./PUNCT
+
+06/NUM ./PUNCT
+03/NUM ./PUNCT
+25/NUM
+
+One/NOUN long-distance/NOUN flight/NOUN consumes/PROPN fuel/NOUN which/PROPN a/NOUN cars/NOUN uses/VERB in/ADP several/NOUN years/VERB ’/PUNCT
+
+time/NOUN ,/PUNCT but/ADV they/PROPN cause/VERB the/DET same/NOUN amount/VERB of/ADP pollution/NOUN ./PUNCT
+So/NOUN some/NOUN people/NOUN think/VERB that/NOUN we/NOUN
+
+should/NOUN discourage/VERB non-essential/PUNCT flights/VERB ,/PUNCT such/NOUN as/VERB tourist/NOUN travel/NOUN ,/PUNCT rather/ADV than/VERB to/ADP
+
+limit/VERB the/DET use/NOUN of/ADP cars/NOUN ./PUNCT
+To/NOUN what/NOUN extent/ADV do/VERB you/PRON agree/VERB or/CCONJ disagree/VERB ?/PUNCT
+
+06/NUM ./PUNCT
+04/NUM ./PUNCT
+08/NUM
+
+In/NOUN the/DET last/NOUN century/NOUN when/PROPN a/NUM human/VERB astronaut/NOUN first/ADV arrived/VERB on/ADP the/DET Moon/NOUN he/NOUN
+
+said/PROPN :/PUNCT "It/PROPN is/VERB a/NUM big/ADJ step/NOUN for/NOUN mankind"/NOUN ./PUNCT
+But/NOUN some/NOUN people/NOUN think/VERB it/ADP makes/NOUN little/NUM
+
+difference/NOUN to/ADP our/NOUN daily/NOUN life/VERB ./PUNCT
+To/NOUN what/NOUN extent/ADV do/VERB you/PRON agree/VERB or/CCONJ disagree/VERB ?/PUNCT
+
+06/NUM ./PUNCT
+04/NUM ./PUNCT
+22/NUM
+
+Some/NOUN people/NOUN think/VERB history/PROPN has/PROPN nothing/VERB or/CCONJ little/VERB to/ADP tell/PRON us/VERB ,/PUNCT
+but/ADV o/ADP thers/NOUN
+
+think/VERB that/NOUN studying/VERB the/DET past/NOUN history/PROPN can/VERB help/VERB us/VERB better/PROPN understand/VERB the/DET present/NOUN ./PUNCT
+
+Please/PROPN discuss/PROPN the/DET two/NOUN views/VERB and/CCONJ give/PROPN your/PRON own/NOUN opinion/VERB ./PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 无忧雅思/VERB ）/PUNCT

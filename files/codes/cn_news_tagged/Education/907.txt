@@ -1,0 +1,28 @@
+JOB/PROPN PROBLEM/NOUN S/NOUN FOR/PROPN GRADUA/PROPN TES/PROPN
+
+According/VERB to/ADP the/DET statistics/NOUN ,/PUNCT only/ADV 58/NUM %/PUNCT of/ADP college/NOUN graduates/VERB could/PROPN find/NOUN jobs/PROPN
+
+in/ADP the/DET ir/NOUN specialties/NOUN ./PUNCT Why/NOUN do/VERB college/NOUN graduates/VERB find/VERB it/ADP increasingly/NOUN difficult/NOUN to/ADP
+
+get/PROPN a/NUM rewarding/ADJ job/NOUN ?/PUNCT
+
+One/NOUN reason/PROPN perhaps/NOUN is/VERB that/ADV many/NOUN colleges/NOUN and/CCONJ universities/NOUN fail/VERB to/ADP adapt/PROPN
+
+the/DET ir/VERB courses/PROPN to/ADP the/DET development/NOUN of/ADP economy/VERB ./PUNCT
+Degree/NOUN courses/PROPN offered/NOUN in/ADJ these/NOUN
+
+institutions/NOUN of/ADP higher/PROPN learning/VERB are/VERB so/ADV out/ADP dated/NOUN ,/PUNCT irrelevant/PROPN and/CCONJ impractical/NUM that/NOUN
+
+the/DET students/VERB themselves/NOUN find/NOUN it/NOUN hard/NOUN to/ADP translate/PROPN the/DET ir/VERB book/PROPN knowledge/PROPN in/NOUN to/ADP real/PROPN
+
+job/NOUN skills/NOUN ./PUNCT
+Second/PROPN ,/PUNCT there/NOUN is/VERB an/PROPN oversupply/VERB of/ADP graduates/PROPN in/ADP certain/NOUN
+
+specialties/NOUN ./PUNCT
+
+So/ADV many/NOUN of/ADP the/DET m/NOUN can/ADJ not/PROPN enter/VERB the/DET professions/NOUN for/ADP which/PROPN they/PROPN are/VERB trained/NOUN ./PUNCT
+
+College/PROPN graduates/NOUN are/VERB valuable/ADJ resources/NOUN in/NOUN our/NOUN country/VERB ./PUNCT
+The/DET problems/NOUN they/PROPN
+
+encounter/NOUN in/ADP job/NOUN hunting/VERB deserve/PROPN more/ADJ attention/VERB ./PUNCT

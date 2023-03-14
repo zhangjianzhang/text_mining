@@ -1,0 +1,21 @@
+点击/VERB 下载/VERB 本期/NOUN 杂志/NOUN 征集/VERB 宝贵/ADJ 意见/NOUN 　　　　　　　　　　　　/SPACE 往期/ADP 电子/NOUN 杂志/NOUN 回顾/VERB ：/PUNCT 第一/NUM 期/NUM 　/SPACE 第二/NUM 期/NUM 　/SPACE 第三/NUM 期/NUM
+
+主要/ADJ 内容/NOUN ：/PUNCT
+
+旅游/NOUN 视点/NOUN
+
+金瓶梅/NOUN 遗址/NOUN 公园/NOUN 要/VERB 复活/VERB ？/PUNCT
+
+人文/NOUN 自然/ADV
+
+绝美/VERB 阿尔卑斯/PROPN 风光/VERB
+
+激情/NOUN 户外/NOUN
+
+山地/NOUN 自行车/NOUN ：/PUNCT 穿上/VERB 防弹衣/NOUN 谨/VERB “/PUNCT 肾/NOUN ”/PUNCT 而/ADV 行/VERB
+
+穿越/VERB 新疆/PROPN 最/ADV 漫长/VERB 、/PUNCT 最/ADV 艰险/VERB 的/PART 徒步/ADJ 线路/NOUN
+
+搜狐/PROPN 旅游/NOUN 频道/NOUN 近期/NOUN 活动/NOUN
+
+2006/NOUN 中国/PROPN 旅游/NOUN 行业/NOUN 高峰/NOUN 论坛/NOUN

@@ -1,0 +1,25 @@
+今日/NOUN 提醒/VERB
+
+今日/NOUN 发行/NOUN :/PUNCT
+
+申购/NOUN 代码/NOUN 申购/NOUN 简称/NOUN  /SPACE 发行/VERB 数量/NOUN (/PUNCT 万/NUM 股/NUM )/NOUN  /SPACE 申购/VERB 上限/NOUN  /SPACE 申购/VERB 价格区/NOUN 间/PART    /SPACE 发行/NOUN 日期/NOUN
+
+(元/NOUN //PUNCT 股)/PUNCT
+
+----------------------------------------------------------------------/INTJ
+
+450002/NUM   /SPACE 富兰克林/PROPN                                           /SPACE 2006/NUM -/NOUN 05/NUM -/PUNCT 10/NUM
+
+国海/NOUN 弹性/NOUN
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+100025/NUM   /SPACE 富国/VERB 天时/NOUN                                           /SPACE 2006/NUM -/NOUN 05/NUM -/PUNCT 10/NUM
+
+货币/NOUN (开/NOUN
+
+放式/NOUN 基金/NOUN
+
+)/PROPN

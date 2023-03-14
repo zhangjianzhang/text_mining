@@ -1,0 +1,26 @@
+【eNet/NUM 硅谷/VERB 动力/NOUN 消息/NOUN 】据/VERB 国外/NOUN 媒体/NOUN 报道/VERB ，/PUNCT 一些/NUM 开源/PROPN 开发/NOUN 人员/NOUN 目前/NOUN 已经/ADV 成功/ADV 开发/VERB 出/VERB 了/PART 一个/ADV 为/ADP 目前/NOUN "激战/PUNCT 正/ADV 酣"/VERB 的/PART OpenDocument/PROPN 和/CCONJ 微软Office/PROPN "搭/NOUN 桥"/NOUN 的/PART 程序/NOUN ，/PUNCT 这个/DET 插件/NOUN 程序/NOUN 可以/VERB 让/VERB Office/NOUN 用户/NOUN 打开/VERB 或/CCONJ 保存OpenDocument格式/VERB 的/PART 文档/NOUN 。/PUNCT
+
+这个/DET 第三方/NUM 插件/VERB 的/PART 主要/ADJ 开发/NOUN 人员/NOUN 名叫/VERB 加里·爱德华/PROPN ，/PUNCT 目前/NOUN 参加/VERB 了/PART 开源/PROPN 办公/NOUN 软件/NOUN OpenOffice.org/PUNCT 项目/NOUN 的/PART 开发/NOUN ，/PUNCT 还是/CCONJ "OpenDocument/NOUN 基金会/NOUN "/PUNCT 的/PART 创建人/NOUN 。/PUNCT
+上周四/NOUN ，/PUNCT 爱德华/PROPN 在/ADP Groklaw/PROPN 撰文/VERB 谈及/VERB 了/PART 如何/ADV 让/VERB OpenDocument/PROPN 和/CCONJ 微软Office/NOUN 共同/ADV 生存/VERB 。/PUNCT
+
+不过/ADV ，/PUNCT 这个/DET 新/ADJ 插件/NOUN 程序/NOUN 尚未/ADV 正式/ADV 对外/ADV 发布/VERB 。/PUNCT
+爱德华/PROPN 等/PART 人/NOUN 已经/ADV 开发/VERB 了/PART 长/ADV 达/VERB 一/NUM 年/NUM 的/PART 时间/NOUN ，/PUNCT 并/ADV 在/ADP 一/NUM 周/NUM 前/PART 完成/VERB 了/PART 初步/ADJ 的/PART 测试/NOUN 。/PUNCT
+它/PRON 可以/VERB 让/VERB 微软Office/NOUN 用户/NOUN 随意/ADV 地/PART 访问/VERB 或/CCONJ 保存OpenDocument格式/VERB 的/PART 文档/NOUN 。/PUNCT
+
+爱德华/PROPN 表示/VERB ：/PUNCT "/PUNCT 这个/DET OpenDocument/NOUN 插件/VERB 的/PART 功能/NOUN 会/VERB 出现/VERB 在/ADP 微软Office/NOUN 的/PART '/ADJ 文件/NOUN '/ADJ 菜单/NOUN ，/PUNCT 对于/ADP 用户/NOUN 来说/PART 是/VERB 完全/ADV 透明/VERB 的/PART 。/PUNCT
+当/ADP 用户/NOUN 打开/VERB 、/PUNCT 保存/VERB 或/CCONJ 另存/NOUN 为时/VERB ，/PUNCT 都/ADV 是/VERB 出现/VERB OpenDocument格式/PROPN 的/PART 选项/NOUN 。/PUNCT
+通过/ADP 这个/DET 插件/NOUN ，/PUNCT 微软Office/NOUN 将/ADV 可以/VERB 方便/VERB 地/PART 打开/VERB OpenDocument/PROPN 文档/NOUN 。/PUNCT
+"/PUNCT
+
+媒体/NOUN 分析/VERB 认为/VERB ，/PUNCT 如果/SCONJ 这个/DET 插件/NOUN 程序/NOUN 诚/ADV 如/ADP 爱德华/NOUN 所/PART 言/VERB ，/PUNCT 它/PRON 将/ADV 改变/VERB 目前/NOUN OpenDocument/PROPN 和/CCONJ 微软Office/ADJ 的/PART 竞争/NOUN 格局/NOUN 。/PUNCT
+考虑/VERB 到/VERB 微软Office/NOUN 的/PART 普及/NOUN 程度/NOUN ，/PUNCT OpenDocument格式/PROPN 以及/CCONJ 相关/ADJ 产品/NOUN 将/ADV 获得/VERB 提升/NOUN 。/PUNCT
+
+上周/VERB ，/PUNCT 国际/NOUN 标准/NOUN 组织/NOUN 和/CCONJ 国际/NOUN 电工/NOUN 委员会/NOUN 31/NUM 名/NUM 委员/NOUN 进行/VERB 了/PART 表决/NOUN 投票/NOUN ，/PUNCT 正式/ADV 批准/VERB OpenDocument/PROPN 为/VERB 一/NUM 种/NUM 标准/ADJ 的/PART 文档/NOUN 文件/NOUN 格式/PROPN ，/PUNCT 这个/DET 标准/NOUN 即将/ADV 在/ADP 近期/NOUN 对外/ADV 公布/VERB 。/PUNCT
+微软/PROPN 作为/VERB 表决/NOUN 成员/NOUN 之一/NOUN ，/PUNCT 并/ADV 未/ADV 投/VERB 出否/NOUN 决票/NOUN 。/PUNCT
+微软/PROPN 方面/NOUN 表示/VERB ，/PUNCT 不/ADV 反对/VERB 其他/DET 组织/NOUN 将/X OpenDocument/PROPN 列为/VERB 标准/NOUN ，/PUNCT 微软/PROPN 将/ADV 谋求/VERB 和/ADP 它/PRON 的/PART 互操/ADJ 作性/NOUN 。/PUNCT
+不过/ADV ，/PUNCT 微软/PROPN 另外/DET 一个/PART 官员/NOUN 则/ADV 表示/VERB ，/PUNCT OpenDocument/PROPN 无法/ADV 满足/VERB 今天/NOUN Office/NOUN 用户/NOUN 的/PART 需求/NOUN 。/PUNCT
+
+OpenDocument/PROPN 成为/VERB ISO/PROPN 标准/NOUN 将/ADV 对/ADP 微软/PROPN 和/CCONJ OpenDocument/PROPN 的/PART "大/PUNCT 战"/NOUN 产生/VERB 何种/ADJ 影响/NOUN ，/PUNCT 目前/NOUN 还/ADV 有待/VERB 观察/NOUN 。/PUNCT
+微软/PROPN 已经/ADV 将/X 其/PRON Office/NOUN
+
+2007/NOUN 采用/VERB 的/PART 开放/NOUN XM/NOUN L文/PROPN 档/NOUN 标准/NOUN 提交/VERB 给/VERB 了/PART 另外/DET 几/NUM 个/NUM 标准/NOUN 组织/VERB ，/PUNCT 以/PART 供/VERB 审核/VERB 。/PUNCT

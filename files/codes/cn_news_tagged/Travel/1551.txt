@@ -1,0 +1,7 @@
+多特蒙德/ADJ 音乐厅/NOUN Konzerthaus/PROPN Dortmund/PROPN
+
+于/ADP 2002年/NOUN 9月/NOUN 运行/VERB 使用/VERB 的/PART 多特蒙德/ADJ 音乐厅/NOUN 为/VERB 多特蒙德/ADJ 的/PART 文化/NOUN 生活/NOUN 增添/VERB 了/PART 灿烂/VERB 的/PART 光彩/NOUN ，/PUNCT 这里/PRON 设备/NOUN 先进/VERB ，/PUNCT 吸引/VERB 着/PART 附近/NOUN 两百多万/NUM 人口/NOUN ，/PUNCT 建筑/NOUN 风格/NOUN 模仿/VERB 了/PART 维也纳/PROPN 音乐/NOUN 大厅/NOUN ，/PUNCT 其/PRON 音响/NOUN 效果/NOUN 极/ADV 佳/VERB 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+圣莱恩奥尔/NOUN 第教/NUM 堂/NUM     /SPACE 水上/NOUN 宫殿/NOUN    /SPACE >>/NUM >多/PUNCT 特蒙德/NOUN 旅行/NOUN 小/ADJ 贴士/NOUN

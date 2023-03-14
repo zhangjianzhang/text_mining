@@ -1,0 +1,194 @@
+足彩/VERB 进球/VERB 玩法/VERB
+
+<</NOUN 06022/NUM 期/NUM 06023/NUM 期/NUM
+
+06024/NUM 期/NUM >>/NUM
+
+澳门/PROPN 盘口/VERB 澳门/PROPN 波胆/PROPN 欧洲/PROPN 赔率/VERB 进球/VERB 彩数/NOUN
+据/ADP
+
+06023/NUM 期/NUM
+
+队名/NOUN
+
+比赛/NOUN 时间/NOUN
+
+实力/NOUN %/PUNCT
+
+赛果/NOUN
+
+历史/NOUN 交锋/VERB
+
+数据/NOUN 分析/VERB
+
+亚盘/PROPN
+
+欧赔/PROPN
+
+评/VERB
+
+意甲/NOUN 联赛/NOUN 第三十七/NUM 轮/NUM
+
+01/NUM
+
+佛罗伦/PROPN
+
+5/NUM -2/PUNCT
+
+52%/NOUN
+
+3/NUM +/PUNCT
+
+4/NUM 胜/VERB 3平/NUM 0/NOUN 负/ADV
+
+查看/VERB
+
+评/VERB
+
+02/NUM
+
+雷吉纳/PROPN
+
+48/NUM
+%/PUNCT
+
+2/NUM
+
+评/VERB
+
+03/NUM
+
+国米/NOUN
+
+1-1/NUM
+
+62/NUM %/PUNCT
+
+1/NUM
+
+3/NUM 胜/VERB 2平/NOUN 0/NOUN
+负/ADV
+
+查看/VERB
+
+评/VERB
+
+04/NUM
+
+锡/VERB 耶纳/PROPN
+
+38%/NUM
+
+1/NUM
+
+评/VERB
+
+05/NUM
+
+尤文/ADV
+
+2-1/NUM
+
+60%/NOUN
+
+2/NUM
+
+1/NOUN 胜/VERB 1平/NOUN 1/NOUN 负/NOUN
+
+查看/VERB
+
+评/VERB
+
+06/NUM
+
+巴勒莫/PROPN
+
+40%/PUNCT
+
+1/NUM
+
+评/VERB
+
+07/NUM
+
+梅西纳/PROPN
+
+1-2/NUM
+
+51%/NOUN
+
+1/NUM
+
+2/NUM 胜/VERB 0平/NOUN 1/NOUN 负/ADV
+
+查看/VERB
+
+评/VERB
+
+08/NUM
+
+恩波利/PROPN
+
+49%/NOUN
+
+2/NUM
+
+评/VERB
+
+09/NOUN
+
+帕尔玛/PROPN
+
+2-3/NUM
+
+48/NUM
+%/PUNCT
+
+2/NUM
+
+7/NUM 胜/VERB 8平/NOUN 14/NOUN 负/VERB
+
+查看/VERB
+
+评/VERB
+
+10/NUM
+
+AC米兰/PUNCT
+
+52%/NOUN
+
+3/NUM +/PUNCT
+
+评/VERB
+
+11/NUM
+
+罗马/PROPN
+
+1-0/NOUN
+
+64/NUM
+%/PUNCT
+
+1/NUM
+
+1/NUM 胜/VERB 0平/NUM 0/NOUN 负/ADV
+
+查看/VERB
+
+评/VERB
+
+12/NUM
+
+特瑞维/PROPN
+
+36%/NUM
+
+0/NUM
+
+评/VERB
+
+开售/VERB ：/PUNCT 06/NUM //PUNCT 05/NUM //PUNCT 03/NUM 20:00/NOUN 停售/VERB ：/PUNCT 06/NUM //PUNCT 05/NUM //PUNCT 07/NOUN 20/NUM :/PUNCT 15/NUM 开奖/VERB ：/PUNCT 06/NUM //PUNCT 05/NUM //PUNCT 08/NUM
+
+10/NUM :/PUNCT 00/NUM

@@ -1,0 +1,31 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE CAREE/PROPN R/X OBJECTIVE/PROPN 　　/SPACE Efficient/PROPN supervisor/NOUN seeks/NOUN a/NUM team/NOUN leader/NOUN position/NOUN to/ADP help/NUM increase/PROPN productivity/NOUN and/CCONJ meet/NOUN or/CCONJ ex/NOUN ceed/NOUN company/PROPN goals/PROPN ./PUNCT
+　　/SPACE BAC/NOUN KGROUN/PROPN D/NOUN SUM/NOUN MARY/PROPN 　　/SPACE Extensive/NOUN and/CCONJ diversified/NOUN supervisory/VERB experience/VERB in/NOUN computer/NOUN ,/PUNCT office/NOUN furniture/VERB ,/PUNCT and/CCONJ boat/ADJ manufacturing/NOUN operations/NOUN ./PUNCT
+Particularly/PROPN effective/VERB in/ADP increasing/NOUN productivity/NOUN and/CCONJ capavcity/VERB ./PUNCT
+Demonstrated/NOUN ability/PROPN to/ADP learn/NUM new/NOUN skills/NOUN quickly/VERB ./PUNCT
+Able/VERB to/ADP supervise/NOUN new/NOUN departments/NUM without/VERB prior/NOUN experience/VERB and/CCONJ meet/ADJ production/NOUN goals/PROPN ./PUNCT
+Successfuily/PROPN motivate/NOUN employees/VERB ./PUNCT
+Excellent/NOUN interpersonal/ADJ skills/NOUN ./PUNCT
+Gained/PROPN reputation/NOUN for/ADP honesty/PROPN and/CCONJ placed/NOUN in/ADP a/DET position/NOUN of/ADP trust/NOUN ./PUNCT
+　　/SPACE SUM/NOUN MARY/PROPN OF/PROPN ACCOMPLISHMENTS/PROPN 　　/SPACE Supervised/PROPN the/DET start/NOUN -/PUNCT up/PROPN of/ADP second/NOUN shift/NOUN shipping/NOUN department/VERB ./PUNCT
+Trained/PROPN new/NOUN employees/VERB ,/PUNCT reached/VERB full/PROPN capacity/PROPN while/ADV maintaining/NOUN quality/NOUN and/CCONJ production/NOUN goals/PROPN ./PUNCT
+　　/SPACE Instructed/PROPN Quality/NOUN Development/PROPN courses/VERB ./PUNCT
+　　/SPACE Participated/NOUN in/ADV upgrading/VERB assembly/PROPN systems/NOUN at/ADP Lennon/PROPN and/CCONJ Epstein/PROPN Systems/NOUN ./PUNCT
+　　/SPACE Consistently/NOUN met/NOUN and/CCONJ //PUNCT or/CCONJ surpassed/NOUN production/NOUN goals/PROPN ./PUNCT
+Supervised/PROPN same/NOUN day/PROPN shipping/NOUN of/ADP orders/NOUN ./PUNCT
+　　/SPACE Participated/NOUN with/ADP Lennon/PROPN management/NOUN team/NOUN in/ADP the/DET move/NOUN of/ADP logistics/NOUN ,/PUNCT service/NOUN operations/NOUN from/VERB St/NOUN ./PUNCT
+Paui/NOUN to/VERB Winona/PROPN facility/VERB ./PUNCT
+Rece/NOUN ived/NOUN cash/NOUN achievement/VERB award/ADV for/ADP this/PRON project/NOUN ./PUNCT
+　　/SPACE Operated/PROPN computerized/NOUN warehouse/PROPN management/NOUN ,/PUNCT inventory/PROPN control/PROPN and/CCONJ order/NOUN processing/VERB systems/NOUN ./PUNCT
+　　/SPACE Researched/PROPN requirements/NOUN and/CCONJ supervised/PROPN the/DET development/NOUN of/ADP a/DET high-tech/NUM paint/NOUN laboratory/PROPN including/PROPN procurement/NOUN and/CCONJ staffing/NOUN ./PUNCT
+　　/SPACE Planned/NOUN ,/PUNCT arranged/PROPN and/CCONJ supervised/PROPN rework/NOUN grou/PROPN ps/NOUN which/PROPN traveled/VERB to/ADP on/NOUN -/PUNCT site/NOUN locations/VERB to/ADP perform/NOUN engineering/VERB repairs/NOUN and/CCONJ o/ADP ther/NOUN problem/VERB -/PUNCT solving/NOUN activities/VERB ./PUNCT
+　　/SPACE Supervised/PROPN development/NOUN of/ADP new/PROPN preassembled/NOUN components/PROPN of/ADP cabin/PROPN cruisers/PROPN at/ADP Howell/PROPN Boat/PROPN Company/NOUN ./PUNCT
+　　/SPACE Consistently/NOUN built/PROPN and/CCONJ maintained/ADJ strong/NOUN relation/NOUN ships/VERB with/ADP vendors/NOUN and/CCONJ customers/PROPN through/VERB close/NOUN and/CCONJ effective/NOUN communication/NOUN ./PUNCT
+　　/SPACE Supervised,scheduled/NOUN and/CCONJ coordinated/NOUN production/NOUN of/ADP four/PROPN departments/NOUN in/ADP a/NUM metal/NOUN fabrication/NOUN operation/VERB ./PUNCT
+　　/SPACE Notice/PROPN :/PUNCT 　　/SPACE Since/PROPN candidate/VERB has/PROPN held/VERB six/NOUN jobs/PROPN as/NOUN production/NOUN supervisor/NOUN ,/PUNCT he/X //PUNCT she/NOUN chooses/PROPN not/PROPN to/ADP repeat/VERB same/NOUN job/NOUN description/NOUN six/NOUN times/VERB ./PUNCT
+　　/SPACE Instead/NOUN ,/PUNCT candidate/NOUN summarizes/NOUN work/VERB history/PROPN under/PROPN "/PUNCT Summary/NOUN of/ADP Accomplishment/NOUN s"/NOUN ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT production/NOUN +/PUNCT goals+new/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+9/NUM ,/PUNCT 019/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

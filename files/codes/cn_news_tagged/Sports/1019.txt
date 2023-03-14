@@ -1,0 +1,124 @@
+2005/NOUN -/PUNCT 2006/NOUN 德甲/NOUN 第33/NUM 轮/NUM
+
+时间/NOUN
+
+主队/VERB 射手/NOUN
+
+主队/NOUN
+
+比分/NOUN
+
+客队/NOUN
+
+客队/VERB 射手/NOUN
+
+全场/ADV
+
+比勒菲尔德/ADV
+
+0/NUM -2/PUNCT
+
+杜伊斯堡/PROPN
+
+60/NUM '/NUM 安贞焕/NOUN 82/NUM '/PUNCT 马科·卡利久利/PROPN
+
+全场/ADV
+
+87/NUM '/ADJ 甘比诺/PROPN
+
+多/NUM 特蒙德/NOUN
+
+1-1/NUM
+
+法兰克福/PROPN
+
+54/NUM '/ADJ 车杜/NOUN 里/PART
+
+全场/ADV
+
+13/NUM '/NUM 纽恩多夫/NOUN 55/NUM '/NUM
+马德伦/PROPN 69/NUM '/ADJ 尼科·科瓦奇/PROPN 71/NUM '/CCONJ 潘塔利奇/NUM
+
+柏林/PROPN 赫塔/NOUN
+
+4/NUM -2/PUNCT
+
+汉堡/PROPN
+
+10/NUM '/NUM 特罗乔夫斯基/PROPN 18/NUM '/NUM 劳特/NOUN
+
+全场/ADV
+
+26/NUM '/ADJ 哈里尔·奥汀托普/PROPN
+
+凯泽斯/PROPN 劳滕/NOUN
+
+1-1/NUM
+
+拜仁/VERB 慕尼黑/PROPN
+
+68/NUM '/NUM 安德雷斯·奥特尔/PROPN
+
+全场/ADV
+
+15/NUM '/NUM 奥尔/PROPN
+
+美因茨/NOUN 05/NUM
+
+1-0/NOUN
+
+沙尔克04/NOUN
+
+全场/ADV
+
+77/NUM '/NUM 扬森/CCONJ 83/NUM '/NUM 松克/VERB
+
+门兴/NOUN
+
+2-2/PROPN
+
+汉诺威/NOUN 96/NOUN
+
+13/NUM '/PROPN 梅特萨克/NOUN 89/NUM '/PROPN 博甘丁/NOUN
+
+全场/ADV
+
+17/NUM '/PROPN 鲁博亚/NOUN 70/NUM '/CCONJ 根特纳/NOUN
+
+斯图加特/PROPN
+
+2-1/NUM
+
+沃尔夫斯堡/PROPN
+
+5/NUM '/NUM 门/NOUN 赛格斯/PROPN
+
+全场/ADV
+
+11/NUM '/PROPN 博洛夫斯基/PROPN 19/NUM '/PROPN
+克洛泽/PROPN 25/NUM '/ADJ 博洛夫斯基/PROPN 50/NUM '/NUM 克拉斯尼奇/PROPN 69/NOUN '/PROPN 克拉斯尼奇/PROPN 75/NUM '/PROPN 克洛泽/PROPN
+
+云达不莱梅/PROPN
+
+6/NUM -/PUNCT 0/NUM
+
+科隆/PROPN
+
+全场/ADV
+
+49/NUM '/NOUN 贝尔巴托夫/PROPN 89/NUM '/PROPN
+贝尔巴托夫/PROPN
+
+勒沃/VERB 库森/NOUN
+
+2-2/PROPN
+
+纽伦堡/PROPN
+
+36/NUM '/ADJ 穆纳/NOUN 里/PART 90/NOUN '/PROPN 凯瑟林/PROPN
+
+积分榜/PROPN
+
+射手/NOUN 榜/VERB
+
+赛程/PROPN 表/VERB

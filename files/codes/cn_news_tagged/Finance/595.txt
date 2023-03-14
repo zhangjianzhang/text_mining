@@ -1,0 +1,344 @@
+五月份/NOUN 新/ADV 发行/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 发行/NOUN 日期/NOUN    /SPACE 发行/VERB 价格/NOUN     /SPACE 发行/VERB 数量/NOUN      /SPACE 申购/NOUN 上限/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+450002/NUM   /SPACE 富兰克林/PROPN     /SPACE 2006/NUM -/PUNCT 05/NUM -/PUNCT 10/NUM
+
+国海/NOUN 弹性/NOUN
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+100025/NUM   /SPACE 富国/VERB 天时/NOUN     /SPACE 2006/NUM -/PUNCT 05/NUM -/PUNCT 10/NUM
+
+货币/NOUN (开/NOUN
+
+放式/NOUN 基金/NOUN
+
+)/PROPN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519690/NUM   /SPACE 交银/NOUN 稳健/ADJ     /SPACE 2006/NUM -/PUNCT 05/NUM -/CCONJ 09/NOUN                             /SPACE 9999/NUM ./PUNCT
+99万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+270006/NOUN   /SPACE 广发/NOUN 优选/NOUN     /SPACE 2006/NUM -/PUNCT 05/NUM -/PUNCT 08/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+四月份/NOUN 新/ADV 发行/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 发行/NOUN 日期/NOUN    /SPACE 发行/VERB 价格/NOUN     /SPACE 发行/VERB 数量/NOUN      /SPACE 申购/NOUN 上限/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+180010/NUM   /SPACE 银华/NOUN 优质/ADJ     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 29/NUM
+
+增长/VERB (开/NOUN
+
+放式/NOUN 基金/NOUN
+
+)/PROPN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519508/NUM   /SPACE 万/NUM 家/NUM 货币/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/NOUN 19/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+050007/NUM   /SPACE 博时/PROPN 平衡/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 18/NUM
+
+配置/VERB (开/NOUN
+
+放式/NOUN 基金/NOUN
+
+)/PROPN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+340005/NUM   /SPACE 兴业/PROPN 货币/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 12/NUM               /SPACE 17/NUM ./PUNCT
+2958亿/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519007/NUM   /SPACE 海富/NOUN 回报/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 10/NUM                             /SPACE 9999/NUM ./PUNCT
+99万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+540001/NOUN   /SPACE 汇丰/NOUN 晋信/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 10/NUM
+
+2016/NUM (/PUNCT 开/VERB
+
+放式/NOUN 基金/NOUN
+
+)/PROPN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+373010/NUM   /SPACE 上/PART 投/VERB 摩根/PROPN     /SPACE 2006/NUM -/PUNCT 04/NUM -/CCONJ 10/NUM               /SPACE 64/NUM ./PUNCT
+3574亿/NUM 份/NUM
+
+双息/NOUN 平衡/VERB
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+550001/NUM   /SPACE 信诚/NOUN 混合/ADJ     /SPACE 2006/NUM -/PUNCT 04/NUM -/NOUN 05/NUM               /SPACE 30/NUM ./PUNCT
+0632亿/NOUN 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+530002/NUM   /SPACE 建信/VERB 货币/NOUN     /SPACE 2006/NUM -/PUNCT 04/NUM -/NOUN 05/NUM               /SPACE 76/NUM ./PUNCT
+6061亿/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+三月份/NOUN 新/ADV 发行/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 发行/NOUN 日期/NOUN    /SPACE 发行/VERB 价格/NOUN     /SPACE 发行/VERB 数量/NOUN      /SPACE 申购/NOUN 上限/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+070009/NOUN   /SPACE 嘉实/PROPN 超短/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 30/NUM               /SPACE 61/NUM ./PUNCT
+4626亿/NUM 份/NUM
+
+债(/NOUN 开放/VERB
+
+式/NOUN 基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+162207/NOUN   /SPACE 荷银/NOUN 效率/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/CCONJ 30/NUM     /SPACE 1/NUM                       /SPACE 9999/NUM ./PUNCT
+9万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519994/NOUN   /SPACE 长信/ADJ 金利/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 27/NUM               /SPACE
+6/NUM ./PUNCT
+1325亿/NUM 份/NUM    /SPACE 9999/NUM ./PUNCT
+99万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+020008/NOUN   /SPACE 国泰/PROPN 混合/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 24/NUM               /SPACE 25/NUM ./PUNCT
+1771亿/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+121003/NOUN   /SPACE 国投/NOUN 股票/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/CCONJ 16/NUM               /SPACE 26/NUM ./PUNCT
+5868亿/NOUN 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519519/NUM   /SPACE 友邦/NOUN 短债/ADJ     /SPACE 2006/NUM -/PUNCT 03/NUM -/CCONJ 15/NUM               /SPACE 56/NUM ./PUNCT
+543亿/NUM 份/NUM    /SPACE 9999/NUM ./PUNCT
+99万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+510183/NOUN   /SPACE 180ET/NOUN F(/PUNCT      /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 09/NOUN     /SPACE 1/NUM         /SPACE 10/NUM ./PUNCT
+7282亿/NUM 份/NUM   /SPACE 9999/NUM ./PUNCT
+9万/NUM 份/NUM
+
+开放式/NOUN 基/VERB
+
+金)/PUNCT
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+200006/NOUN   /SPACE 长城/PROPN 股票/NOUN     /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 06/NUM               /SPACE 9/NUM ./PUNCT
+1552亿/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+202102/NOUN   /SPACE 南方/NOUN 多利/VERB     /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 06/NUM               /SPACE 89/NUM ./PUNCT
+7711亿/NOUN 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+519300/NOUN   /SPACE 大成/PROPN 300/NUM      /SPACE 2006/NUM -/PUNCT 03/NUM -/PUNCT 02/NUM               /SPACE 18/NUM ./PUNCT
+1336亿/NUM 份/NUM   /SPACE 9999/NUM ./PUNCT
+99万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+二月份/NOUN 新/ADV 发行/VERB
+
+证券/NOUN 代码/NOUN 证券/NOUN 简称/NOUN     /SPACE 发行/NOUN 日期/NOUN    /SPACE 发行/VERB 价格/NOUN     /SPACE 发行/VERB 数量/NOUN      /SPACE 申购/NOUN 上限/NOUN
+
+---------------------------------------------------------------------/NOUN
+
+519518/NOUN   /SPACE 汇添/VERB 富货/VERB     /SPACE 2006/NUM -/PUNCT 02/NUM -/PUNCT 27/NUM               /SPACE 41/NUM ./PUNCT
+0491亿/NOUN 份/NUM
+
+币(/VERB 开放/NOUN
+
+式/NOUN 基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+482002/NOUN   /SPACE 工银/NOUN 货币/NOUN     /SPACE 2006/NUM -/PUNCT 02/NUM -/PUNCT 23/NUM               /SPACE 88/NUM ./PUNCT
+399亿/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+159901/NOUN   /SPACE 深/PROPN 100ET/NOUN      /SPACE 2006/NUM -/PUNCT 02/NUM -/PUNCT 21/NUM     /SPACE 1/NUM         /SPACE 51/NUM ./PUNCT
+5774亿/NUM 份/NUM   /SPACE 9999/NUM ./PUNCT
+9万/NUM 份/NUM
+
+F(/PUNCT 开放式/ADJ
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+163803/NOUN   /SPACE 中银/PROPN 增长/NOUN     /SPACE 2006/NUM -/PUNCT 02/NUM -/PUNCT 13/NUM     /SPACE 1/NUM         /SPACE 24/NUM ./PUNCT
+589亿/NUM 份/NUM    /SPACE 9999/NUM ./PUNCT
+9万/NUM 份/NUM
+
+(开/NOUN 放式/VERB
+
+基金/NOUN )/NOUN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN
+
+360005/NOUN   /SPACE 光大/NOUN 红利/NOUN     /SPACE 2006/NUM -/PUNCT 02/NUM -/PUNCT 09/NOUN               /SPACE 5./NUM 3247亿/NUM 份/NUM
+
+股票/NOUN (开/NOUN
+
+放式/NOUN 基金/NOUN
+
+)/PROPN
+
+发行/NOUN 方式/NOUN ：/PUNCT 公开/ADV 发行/VERB
+
+---------------------------------------------------------------------/NOUN

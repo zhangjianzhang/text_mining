@@ -1,0 +1,8 @@
+南非/PROPN 之所以/ADV 成为/VERB 旅游/NOUN 胜地/NOUN ，/PUNCT 主要/ADV 是/VERB 因为/ADP 当地/NOUN 各类/NOUN 繁多/NOUN 且/CCONJ 形态/NOUN 优美/VERB 的/PART 野生/ADJ 动物/NOUN ，/PUNCT 因此/ADV ，/PUNCT 参观/VERB 当地/NOUN 一/NUM 座/NUM 大型/ADJ 野生/ADJ 动物园/NOUN ，/PUNCT 看看/VERB 生活/VERB 在/ADP 此/PRON 的/PART 狮子/NOUN 、/PUNCT 大象/NOUN 、/PUNCT 长颈鹿/NOUN 和/CCONJ 羚羊/NOUN ，/PUNCT 成为/VERB 游客/NOUN 不可/ADV 错过/VERB 的/PART 一/NUM 项/NUM 体验/NOUN 。/PUNCT
+假使/ADV 你/PRON 没/VERB 机会/NOUN 一/ADV 游/VERB 大型/ADJ 野生/ADJ 动物园/NOUN ，/PUNCT 不妨/ADV 到/VERB 市中心/NOUN 附近/NOUN 的/PART 小型/ADJ 动物园/NOUN 走走/VERB 。/PUNCT
+位于/VERB 霍尼/PROPN 都/ADV （/PUNCT Honeydew/PROPN ）/PUNCT 的/PART 狮子园/PROPN （/PUNCT Lion/NOUN
+
+Park/NOUN ）/PUNCT 和/CCONJ 附近/NOUN 的/PART 克鲁格斯多/PROPN 普野生/PROPN 动物/NOUN 保护区/NOUN （/PUNCT Krugersdorp/NOUN Ganme/PROPN
+
+Peserve/PROPN ）/PUNCT
+都/ADV 有/VERB 许多/NUM 狮子/NOUN 和/CCONJ 羚羊/NOUN ，/PUNCT 而且/ADV 距离/ADP 约翰内斯堡市/PROPN 不到/ADV 半/NUM 小时/NOUN 车程/NOUN 。/PUNCT

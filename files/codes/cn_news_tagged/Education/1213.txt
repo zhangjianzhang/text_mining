@@ -1,0 +1,36 @@
+4月/NOUN 25日/NOUN ，/PUNCT 《/PUNCT 中华/PROPN 人民/NOUN 共和国/NOUN 反洗/VERB 钱/NOUN 法/NOUN （/PUNCT 草案/NOUN ）/PUNCT 》/PUNCT 提请/VERB 十/NUM 届/NUM 全国/ADJ 人大/NOUN 常委会/NOUN 第二十一/NUM 次/NUM 会议/NOUN 首次/ADV 审议/VERB ，/PUNCT 这/PRON 标志/VERB 着/PART 中国/PROPN 加快/VERB 了/PART 反洗/ADJ 钱/NOUN 法律/NOUN 制度/NOUN 建设/NOUN 。/PUNCT
+
+请/VERB 看/VERB 《/PUNCT 中国/PROPN 日报/NOUN 》/PUNCT 的/PART 相关/ADJ 报道/NOUN
+：/PUNCT A/NOUN draft/NOUN bill/PROPN to/ADP combat/PROPN money/NUM laundering/NOUN widens/NOUN the/DET scope/NOUN
+of/ADP
+
+the/DET proposed/VERB law/PROPN from/ADP financial/NOUN institutions/VERB to/ADV real/PROPN tors/NOUN ,/PUNCT law/NOUN and/CCONJ ac/ADJ counting/PROPN
+
+firms/VERB and/CCONJ jewellers/NOUN ./PUNCT
+Money/PROPN laundering/NOUN refers/NOUN to/ADP the/DET practice/NOUN of/ADP moving/NUM illegally/NOUN
+
+acquired/PROPN cash/NOUN through/NOUN financial/NOUN and/CCONJ o/ADP ther/NOUN systems/NOUN so/ADV that/ADV it/NOUN appears/PROPN to/ADP be/PROPN
+
+legally/NOUN acquired/VERB ./PUNCT
+
+报道/NOUN 中/PART 的/PART money/NOUN laundering/NOUN 就是/ADV “/PUNCT 洗钱/VERB ”/PUNCT ，/PUNCT 而/ADV “/PUNCT 反/VERB 洗钱/NOUN 法案/NOUN ”/PUNCT 则/ADV 可/VERB 表示/VERB 为/ADP anti-money/NUM laundering/NOUN
+
+bill/PROPN 。/PUNCT
+Launder/PROPN 在/ADP 文中/NOUN 可用/VERB 英语/NOUN 解释/NOUN 为/VERB to/NOUN
+
+disguise/VERB the/DET source/NOUN or/CCONJ nature/NOUN of/ADP illegal/NOUN funds/PROPN by/ADP channeling/PROPN through/VERB an/ADJ
+
+intermediate/PROPN agent/VERB （/PUNCT 通过/ADP 中间/NOUN 代理人/NOUN 来/PART 隐藏/VERB 非法/ADJ 资金/NOUN 的/PART 来源/NOUN 或/CCONJ 性质/NOUN ，/PUNCT 即/ADV 让/VERB 不/ADV 合法/VERB 的/PART “/PUNCT 脏钱/NOUN ”/PUNCT 合法化/VERB ）/PUNCT 。/PUNCT
+
+Launder/PROPN （/PUNCT 洗钱/NOUN ）/PUNCT 的/PART 这/DET 层/NUM 含义/NOUN 实际上/ADV 是/VERB 对/ADP 其/PRON 原意/NOUN “/PUNCT 洗涤/VERB 、/PUNCT 熨烫/NOUN ”/PUNCT 的/PART 引申/NOUN ，/PUNCT 经过/ADP 清洗/NOUN 和/CCONJ 烫熨/NOUN ，/PUNCT 脏兮兮/NOUN 、/PUNCT 皱巴巴/NOUN 的/PART 衣服/NOUN 肯定/ADV 亮丽/ADV 如新/VERB 。/PUNCT
+同样/ADV 道理/NOUN ，/PUNCT “/PUNCT 黑钱/NOUN ”/PUNCT 若/SCONJ 经过/ADP 非法/ADJ 处理/NOUN ，/PUNCT 如/ADV 把/X 其/PRON 变成/VERB 旅行/NOUN 支票/NOUN 、/PUNCT 债券/NOUN 、/PUNCT 股票/NOUN 或/CCONJ 存入/VERB 保密/ADJ 银行/NOUN ，/PUNCT 肯定/ADV 也/ADV “/PUNCT 干净/ADJ 可人/NOUN ”/PUNCT 了/PART 。/PUNCT
+
+其实/ADV ，/PUNCT 说白了/VERB ，/PUNCT launder/NOUN 就是/ADV “/PUNCT 做手脚/PROPN ”/PUNCT 。/PUNCT
+举/VERB 个/NUM 例子/NOUN ：/PUNCT
+
+The/DET transcripts/NOUN are/VERB ,/PUNCT of/ADP course/PROPN ,/PUNCT laundered/PROPN since/NOUN unidentified/PROPN larger/PROPN chunks/VERB
+
+of/ADP conversation/NOUN are/VERB reported/ADJ missing/NOUN throughout/NOUN ./PUNCT
+（/PUNCT 录音带/NOUN 当然/ADV 已/ADV 被/X 做/VERB 过/PART 手脚/NOUN ，/PUNCT 谈话/NOUN 中/PART 很多/NUM 部分/NOUN 都/ADV 不见/VERB 了/PART 。/PUNCT ）/PUNCT
+
+(/PUNCT 来源/NOUN ：/PUNCT 中国/PROPN 日报/NOUN 网站/NOUN 编译/VERB ）/PUNCT

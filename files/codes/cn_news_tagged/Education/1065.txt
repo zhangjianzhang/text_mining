@@ -1,0 +1,212 @@
+TOEFL/ADJ 考试/NOUN 作文/NOUN 常见/ADJ 错误/NOUN 简析/NOUN
+
+结构/NOUN 不/ADV 平行/VERB
+
+例/NOUN ：/PUNCT I/PRON was/NOUN able/VERB to/ADP raise/NOUN my/VERB TOEFL/PROPN score/NOUN by/CCONJ studying/NOUN hard/VERB and/CCONJ I/PRON read/NOUN lots/PROPN
+of/ADP
+
+books/PROPN ./PUNCT
+
+当/ADP 使用/NOUN 连词/NOUN 将/X 一系列/NUM 的/PART 单词/NOUN 联接/VERB 起来/VERB 的/PART 时候/NOUN ，/PUNCT 应当/VERB 使用/VERB 词性/NOUN 相同/VERB 或/CCONJ 同一/DET 类型/NOUN 的/PART 短语/NOUN 。/PUNCT
+
+不知所云/VERB
+
+例/NOUN ：/PUNCT Many/NOUN companies/VERB began/PROPN using/VERB computers/PROPN mouth/NOUN ./PUNCT
+
+段落/NOUN 过长/VERB ，/PUNCT 不/ADV 分段/VERB
+
+主语/NOUN 与/ADP 动词/NOUN 一致/ADJ 问题/NOUN
+
+She/NOUN are/VERB a/NUM good/NOUN friend/VERB of/ADP mine/NOUN that/NOUN I/PRON has/PROPN known/PROPN for/ADP a/DET long/NOUN time/NOUN ./PUNCT
+
+主语/NOUN 和/CCONJ 动词/NOUN 在/ADP 数/NUM 方面/NOUN 不/ADV 一致/VERB 。/PUNCT
+
+句子/ADV 别扭/VERB
+
+We/NUM heated/VERB the/DET soup/NOUN in/ADP the/DET microwave/NOUN for/ADP too/ADV long/NOUN and/CCONJ the/DET shape/NOUN of/ADP the/DET
+
+container/NOUN changed/VERB ./PUNCT
+
+措辞/VERB 过长/VERB 或/CCONJ 不/ADV 清/VERB 。/PUNCT
+换言之/VERB ，/PUNCT 句子/ADV 显得/VERB 滑稽可笑/VERB 。/PUNCT
+
+不要/ADV 使用/VERB 缩写/VERB
+
+在/ADP 正式/VERB 的/PART 写作/NOUN 中/PART 不要/ADV 使用/VERB 缩写/NOUN 形式(can/NOUN ’t/VERB ，/PUNCT don't/X ，/PUNCT it/NOUN 's/VERB ，/PUNCT we'll/PUNCT ，/PUNCT the/DET y've/NOUN 等等/PART )/NOUN ，/PUNCT 而/CCONJ 应当/VERB 使用/VERB 单词/NOUN 的/PART 完整/ADJ 形式/NOUN
+
+(/PUNCT cannot/VERB ，/PUNCT do/VERB not/PROPN ，/PUNCT it/NOUN is/VERB ，/PUNCT we/NOUN will/VERB ，/PUNCT they/PROPN have/PROPN 等等/PART )/NOUN 。/PUNCT
+
+关联/NOUN 词语/NOUN 重复/VERB
+
+Since/PROPN I/PRON want/VERB to/ADV go/VERB to/ADP a/NUM good/PROPN school/NOUN ,/PUNCT therefore/NOUN I/PRON am/VERB trying/NOUN to/ADP raise/NOUN my/VERB test/NOUN
+
+scores/NOUN ./PUNCT
+
+不/ADV 能/VERB 在/ADP 该/DET 句/NOUN 的/PART 主要/ADJ 主语/NOUN 和/CCONJ 主要/ADJ 动词/NOUN 前/PART 使用/VERB 连词/VERB 。/PUNCT
+
+句子/ADV 不/ADV 完整/VERB
+
+Many/PROPN students/VERB have/PROPN a/NUM hard/ADJ time/NOUN passing/NOUN all/DET the/DET tests/NOUN to/ADP get/PROPN in/VERB to/VERB college/VERB ./PUNCT
+
+For/NOUN example/VERB ,/PUNCT my/VERB friend/NOUN in/ADP high/PROPN school/NOUN ./PUNCT
+
+句子/NOUN 没有/VERB 主要/ADJ 主语/NOUN 或/CCONJ 主要/ADJ 动词/NOUN ，/PUNCT 因为/ADP 其实/ADV 它/PRON 应/VERB 是/VERB 一个/NUM 从/ADP 句/NOUN 。/PUNCT
+这是/VERB 一个/ADV 非常/ADV 常见/ADJ 的/PART 错误/NOUN ，/PUNCT 修改/VERB 的/PART 方法/NOUN 是/VERB 将/X 两/NUM 个/NUM 句子/ADV 连接/VERB 起来/VERB 。/PUNCT
+
+不要/ADV 使用/VERB get/PRON
+
+When/PROPN I/PRON got/VERB home/NOUN ,/PUNCT I/PRON got/NOUN tired/NOUN ,/PUNCT so/ADV I/PRON got/VERB a/NUM book/NOUN and/CCONJ got/NOUN in/NOUN to/VERB bed/PROPN ./PUNCT
+
+Get/VERB 太/ADV 不/ADV 正式/VERB ，/PUNCT 意思/NOUN 也/ADV 过于/ADV 含糊/VERB ，/PUNCT 不/ADV 适合/VERB 用/VERB 在/ADP 正式/VERB 的/PART 场合/NOUN 。/PUNCT
+应/VERB 将/X get/PROPN 改为/VERB 一个/NUM 更加/ADV 具体/ADJ 的/PART 单词/NOUN ，/PUNCT 如become/VERB ,/PUNCT rece/NOUN ive/NOUN ,/PUNCT find/VERB ,/PUNCT
+
+achieve/VERB ,/PUNCT 等等/PART 。/PUNCT
+
+书写/NOUN 难以/ADV 辨认/VERB
+
+信息/NOUN 不/ADV 正确/VERB
+
+I/PRON would/PROPN like/PROPN to/ADP study/NOUN in/ADP America/NOUN because/NOUN all/ADJ modern/NOUN technology/NOUN originated/VERB
+
+there/NOUN ./PUNCT
+
+传/VERB 的/PART 信息/NOUN 不/ADV 正确/VERB ，/PUNCT 或者/CCONJ 让/VERB 人/NOUN 听起来/ADV 觉得/VERB 可能/VERB 不/ADV 正确/VERB （/PUNCT 如果/SCONJ 确实/ADV 是/VERB 正确/VERB 的/PART ，/PUNCT 应当/VERB 解释/VERB 为什么/ADV 这样/VERB ，/PUNCT 因为/ADP 读者/NOUN 不/ADV 认为/VERB 是/VERB 正确/VERB 的/PART ）/PUNCT 。/PUNCT
+上述/ADJ 例句/NOUN 中/PART ，/PUNCT all/DET 的/PART 意思/NOUN 是/VERB 百分之百/NUM ；/PUNCT 我们/PRON 不/ADV 能/VERB 绝对/ADV 地/PART 说/VERB 每/DET 一/NUM 件/NUM 新/ADJ 东西/NOUN 都/ADV 是/VERB 从/ADP 美国/PROPN 诞生/VERB 的/PART 。/PUNCT
+为/ADP 保险/NOUN 起见/PART ，/PUNCT 应当/VERB 使用/VERB many/NOUN 或/CCONJ most/NOUN 。/PUNCT
+
+非/VERB 英语/NOUN 单词/NOUN
+
+Computers/PROPN are/VERB very/ADJ helpful/NOUN and/CCONJ advantageable/PROPN ./PUNCT
+
+尽管/SCONJ 看起来/ADV 象/VERB 个/NUM 单词/NOUN ，/PUNCT 其实/ADV 不是/ADV ，/PUNCT 至少/ADV 不是/ADV 个/NUM 英文/NOUN 单词/NOUN 。/PUNCT
+使用/VERB 这个/DET 单词/NOUN 的/PART 另/DET 一/NUM 种/NUM 形式/NOUN 。/PUNCT
+
+介词/NOUN 多余/ADV
+
+I/PRON would/PROPN like/PROPN to/ADP discuss/PROPN about/PROPN something/NOUN important/PROPN that/ADV you/PRON mentioned/NOUN about/VERB
+
+to/ADP me/PRON during/VERB yesterday/NUM ./PUNCT
+
+We/NOUN went/VERB to/ADP downtown/NOUN yesterday/VERB to/ADP buy/PROPN a/NOUN watch/NOUN ./PUNCT
+
+When/PROPN I/PRON first/VERB came/VERB to/ADP the/DET US/NOUN ,/PUNCT I/PRON did/NOUN not/PROPN have/PROPN a/NUM lot/NOUN of/ADP friends/PROPN in/ADP here/PRON ./PUNCT
+
+In/NOUN class/PROPN ,/PUNCT my/VERB classmate/NOUN never/NOUN mentioned/NOUN about/VERB her/PROPN husband/VERB ./PUNCT
+
+在/ADP 表示/VERB 这种/DET 意思/NOUN 时/PART 此/DET 单词/NOUN 不/ADV 能/VERB 与/ADP 介词/NOUN 连用/VERB 。/PUNCT
+这种/ADV 情况/NOUN 常见于downtown/VERB ，/PUNCT home/NOUN ，/PUNCT there/NOUN ，/PUNCT here/PRON 等词/VERB 。/PUNCT
+这些/DET 词语/NOUN 在/ADP 英语/NOUN 中/PART 是/VERB 副词而非/NOUN 名词/NOUN ，/PUNCT 因而/ADV 不/ADV 能/VERB 在/ADP 它们/PRON 前面/NOUN 添加/VERB 介词/NOUN 。/PUNCT
+
+跑题/VERB 或/CCONJ 不/ADV 相关/VERB
+
+There/PROPN are/VERB many/ADJ reasons/NOUN to/ADP buy/PROPN a/NOUN car/PROPN ,/PUNCT preferably/NOUN a/NUM nice/NOUN car/PROPN ./PUNCT
+
+这个/DET 意思/NOUN 与/CCONJ 文章/NOUN 的/PART 主题/NOUN 无关/VERB 。/PUNCT
+
+陈词滥调/PROPN
+
+It/NOUN is/VERB okay/ADP for/ADP children/PROPN to/ADP fail/PROPN sometimes/NOUN ./PUNCT
+
+所/PART 表达/VERB 的/PART 意思/NOUN 很/ADV 普通/ADJ 大多数/NUM 人/NOUN 都/ADV 已经/ADV 知道/VERB 到/VERB 了/PART ，/PUNCT 因而/ADV 就/ADV 没有/VERB 必要/NOUN 再说/VERB 出来/VERB 。/PUNCT
+
+标点/NOUN 问题/NOUN
+
+I/PRON love/VERB animals/VERB ./PUNCT
+and/ADV I/PRON like/PROPN to/ADP help/NUM them/NOUN ./PUNCT
+because/NOUN they/PROPN are/VERB helpless/NOUN ./PUNCT
+so/ADV I/PRON
+
+want/VERB to/ADP become/PROPN a/NOUN vet/NOUN ./PUNCT
+
+这是/VERB 一个/ADV 非常/ADV 普遍/ADJ 的/PART 问题/NOUN ！/PUNCT
+许多/NUM 学生/NOUN 在/ADP 句子/NOUN 中/PART 使用/VERB 了/PART 太/ADV 多/NUM 的/PART 句号/NOUN ，/PUNCT 尤其是/ADV 当/ADP 他们/PRON 用/ADP 手写/VERB 的/PART 时候/NOUN 。/PUNCT
+
+重复/ADV 冗余/VERB
+
+Personally/PROPN ,/PUNCT I/PRON believe/NOUN what/VERB the/DET newspaper/NOUN prints/NOUN ./PUNCT
+
+一/NUM 种/NUM 意思/NOUN 的/PART 表述/NOUN 不止/ADV 一/NUM 次/NUM ，/PUNCT 或者/CCONJ 某个/DET 词语/NOUN 不/ADV 必要/VERB 。/PUNCT
+
+单数/ADJ //PUNCT 复数/VERB
+
+Many/NOUN year/VERB a/NUM go/NOUN ,/PUNCT dinosaur/NOUN roamed/NOUN the/DET Earths/NOUN ./PUNCT
+
+单词/NOUN 需要/VERB 从/ADP 单数/ADV 变为/VERB 复数/NOUN ，/PUNCT 或者/CCONJ 由/ADP 复数/NOUN 变成/VERB 单数/NOUN 。/PUNCT
+
+单数/ADV 可/VERB 数/NUM 名词/NOUN
+
+单数/ADV 可/VERB 数/NUM 名词/NOUN 不/ADV 能/VERB 单独/ADV 使用/VERB ，/PUNCT 应该/VERB 将/X 其/PRON 变为/VERB 复数/ADJ 形式/NOUN 或者/CCONJ 加上/VERB 限定/NOUN 词/NOUN （/PUNCT a/NOUN ,/PUNCT the/DET ,/PUNCT my/VERB ,/PUNCT his/NOUN ,/PUNCT her/PROPN ,/PUNCT Gary/NOUN 's/VERB ,/PUNCT no/NOUN ,/PUNCT any/PROPN ,/PUNCT 1/NUM ,/PUNCT 3/NUM ,/PUNCT
+
+50/NUM ,/PUNCT most/NOUN ,/PUNCT 等等/PART ）/PUNCT 。/PUNCT
+
+拼写/NOUN 错误/NOUN
+
+主语/NOUN 、/PUNCT 动词/NOUN 或/CCONJ 宾语/NOUN 有/VERB 问题/NOUN
+
+I/PRON want/VERB to/ADP buy/PROPN something/NOUN for/ADP my/VERB mother/NOUN that/ADV she/VERB will/VERB like/NOUN it/NOUN ./PUNCT
+
+There/PROPN was/NOUN a/ADP terrible/VERB accident/NOUN happen/VERB yesterday/PROPN ./PUNCT
+
+句子/VERB 的/PART 基本/ADJ 结构/NOUN 有/VERB 问题/NOUN 　/SPACE 缺少/VERB 主语/NOUN 、/PUNCT 动词/NOUN 或/CCONJ 宾语/NOUN ，/PUNCT 或者/CCONJ 这些/DET 成分/NOUN 重复/NOUN 。/PUNCT
+
+语气/NOUN 与/CCONJ 文章/NOUN 不符/VERB
+
+I/PRON was/NOUN kind/VERB of/ADP mad/PROPN at/ADP the/DET guy/NOUN who/NOUN vociferated/VERB angry/ADV words/NOUN at/VERB me/PRON ./PUNCT
+
+I/PRON have/NOUN heard/VERB many/ADJ wonderful/PROPN things/NOUN about/PROPN such/NOUN cosmopolitan/PROPN cities/PROPN as/VERB Paris/PROPN ,/PUNCT
+
+London/PROPN ,/PUNCT Tok/NOUN yo/NOUN ,/PUNCT and/CCONJ Hong/NOUN Kong/NOUN and/CCONJ I/PRON would/PROPN love/VERB to/ADP visit/PROPN these/NOUN cities/NOUN to/ADP check/VERB
+
+the/DET m/NOUN out/X ./PUNCT
+
+语气/NOUN 与/CCONJ 文章/NOUN 其他/DET 部分/NOUN 不/ADV 相符/VERB 可能/VERB 是/VERB 过于/ADV 正式/VERB 或者/CCONJ 太/ADV 不/ADV 正式/VERB 。/PUNCT
+
+代词/NOUN 指代/VERB 不明/VERB
+
+If/NOUN people/NOUN do/VERB not/PROPN speak/VERB the/DET same/NOUN language/VERB ,/PUNCT it/ADP has/PROPN a/NUM greater/NOUN chance/NOUN of/ADP
+
+miscommunication/NOUN ./PUNCT
+
+I/PRON intend/VERB to/ADP complete/VERB my/VERB studies/NOUN in/ADP the/DET United/ADP States/PROPN because/NOUN they/PROPN have/NOUN good/X
+
+programs/NOUN there/NOUN ./PUNCT
+
+代词/NOUN 所/PART 指代/VERB 的/PART 指示词/NOUN （/PUNCT 介词/NOUN 所/PART 代替/VERB 的/PART 名词/NOUN ）/PUNCT 不/ADV 清楚/VERB 。/PUNCT
+
+过于/ADV 笼统/VERB
+
+We/NOUN should/PROPN use/NOUN our/NOUN resources/NOUN on/ADP Earth/PROPN because/NOUN the/DET Earth/NOUN is/VERB getting/NOUN
+
+worse/PROPN ./PUNCT
+
+句子/ADV 或/CCONJ 它/PRON 所/PART 表达/VERB 的/PART 意思/NOUN 过于/ADV 笼统/VERB ，/PUNCT 不/ADV 能/VERB 提供/VERB 多少/NUM 信息/NOUN 。/PUNCT
+
+动词/NOUN 时态/NOUN 错误/VERB
+
+Yesterday/PROPN I/PRON will/NOUN go/VERB to/ADP the/DET store/VERB because/NOUN tomorrow/VERB I/PRON needed/NOUN some/NOUN food/VERB ./PUNCT
+
+动词/NOUN 时态/NOUN 不/ADV 正确/ADV 检查/VERB 一下/ADV 是/VERB 应该/VERB 用/ADP 现在/NOUN 时/PART 、/PUNCT 过去/NOUN 时/PART 、/PUNCT 将来/NOUN 时/PART 还是/ADV 完成/VERB 时/PART 等等/PART 。/PUNCT
+
+选词/NOUN 不/ADV 恰当/VERB
+
+I/PRON was/NOUN late/NOUN getting/VERB home/NOUN because/NOUN I/PRON lost/NOUN my/VERB way/NOUN ./PUNCT
+
+在/ADP 这种/DET 情况/NOUN 下/PART 不/ADV 应该/VERB 使用/VERB 该/DET 词/NOUN 可/VERB 选择/VERB 更/ADV 好的/ADJ 词语/NOUN 或者/CCONJ 所/PART 使用/VERB 的/PART 词语/NOUN 与/CCONJ 文章/NOUN 的/PART 总体/NOUN 语气/NOUN 不符/VERB 。/PUNCT
+
+单词/NOUN 形式/NOUN 不当/VERB
+
+I/PRON want/VERB to/ADP creation/VERB a/NUM great/PROPN web/NOUN site/NOUN so/ADV that/NOUN I/PRON can/VERB becoming/VERB weal/VERB th/VERB ./PUNCT
+
+所/PART 使用/VERB 的/PART 单词/NOUN 的/PART 形式/NOUN 不/ADV 正确/ADV 检查/VERB 一下/ADV 应该/VERB 使用/VERB 该/DET 词/NOUN 的/PART 名词/NOUN 、/PUNCT 形容词/NOUN 或/CCONJ 副词形式/NOUN 的/PART 哪/DET 一/NUM 种/NUM 。/PUNCT
+
+用词/NOUN 错误/VERB
+
+Even/ADJ I/NOUN don/PROPN ’t/VERB speak/NOUN Spanish/VERB ,/PUNCT I/PRON was/NOUN able/VERB to/ADP find/VERB a/NUM bathroom/NOUN in/ADP the/DET department/NOUN
+
+store/NOUN ./PUNCT
+
+I/PRON gained/NOUN a/NUM lot/NOUN of/ADP pounds/NOUN during/NOUN vacation/VERB ./PUNCT
+
+用词/NOUN 错误/VERB 或/CCONJ 在/ADP 此/DET 种/NUM 情况/NOUN 下/PART 该/DET 词/NOUN 不是/ADV 最佳/ADJ 用词/NOUN 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 搜狐/PROPN 教育/NOUN 社区/NOUN ）/PUNCT

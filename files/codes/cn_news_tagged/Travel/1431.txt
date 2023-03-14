@@ -1,0 +1,11 @@
+在/ADP 盖尔森基兴/PROPN 市中心/NOUN 的/PART 火车站/NOUN 的/PART 街上/NOUN 、/PUNCT Gelsenkirchen/PROPN -/PUNCT
+Buer/PROPN
+
+街上/NOUN 有/VERB 许多/NUM 购物/NOUN 商店/NOUN 。/PUNCT
+一年到头/ADV 这里/PRON 都/ADV 有/VERB 很多/NUM 购物/NOUN 的/PART 助兴/NOUN 活动/NOUN ，/PUNCT 比如/ADV ：/PUNCT 奥古斯丁努斯/PROPN 市场/NOUN 、/PUNCT 马丁斯/PROPN 市场/NOUN 、/PUNCT 爵士/NOUN 节日/NOUN 、/PUNCT 格尔森/NOUN 基兴/NOUN 周/PROPN 、/PUNCT 布尔/PROPN 什音乐/PROPN 晚会/NOUN 、/PUNCT 艺术/NOUN 市场/NOUN 和/CCONJ 手工/NOUN 作坊/NOUN 市场/NOUN 等/PART 。/PUNCT
+
+盖尔森基兴/PROPN 交通/NOUN 指南/NOUN
+
+盖尔森基兴/PROPN 位于/VERB 鲁尔区/PROPN 的/PART 中心/NOUN 位置/NOUN ，/PUNCT 交通/NOUN 便利/VERB ，/PUNCT 可以/VERB 乘坐/VERB 火车/NOUN 、/PUNCT 汽车/NOUN 、/PUNCT 和/CCONJ 水路/NOUN 到达/VERB 。/PUNCT
+
+火车/NOUN 格尔森/NOUN 基兴/PROPN 火车站/NOUN [详/PROPN 细]/NOUN

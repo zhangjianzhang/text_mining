@@ -1,0 +1,42 @@
+白鹤山/PROPN
+
+狐眼/NOUN 看成/VERB 都/ADV [图/PROPN 库]/PROPN 旅游/NOUN 今天/NOUN 给/ADP 大家/PRON 介绍/VERB “/PUNCT 邛崃/PROPN 风景/NOUN ”/PUNCT
+
+采/VERB 茶/NOUN
+
+火井/NOUN
+
+平乐/PROPN
+乐善桥/NOUN
+
+十/NUM 方/NOUN 堂邛/NOUN 窑/VERB
+
+水乡/NOUN 平乐/NOUN
+
+天台山/NOUN
+
+./PUNCT
+水/NOUN 美/PROPN
+
+天台山/NOUN ./PUNCT
+香草/PROPN 沟蝴/NOUN 蝶滩/NOUN
+
+天台山/NOUN ./PUNCT
+响水滩/VERB 瀑布/NOUN
+
+天台山/NOUN ./PUNCT
+小/ADJ 磨房/VERB
+
+文君/PROPN 井/NOUN
+
+五彩/ADJ 广场/NOUN
+
+一/NUM 江/NUM 分/VERB 三水/PROPN 全/DET 图/NOUN
+
+题字/NOUN
+
+竹溪湖/PROPN
+
+竹溪湖/PROPN
+
+2/NUM

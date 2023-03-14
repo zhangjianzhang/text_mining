@@ -1,0 +1,24 @@
+Sandy/NOUN Bin/ADV 15/NUM //PUNCT F,TOWA/NOUN RD/NOUN ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE OBJECTIVE/PROPN 　　/SPACE A/NOUN career/NOUN within/PROPN sales/VERB and/CCONJ marketing/NOUN ./PUNCT
+　　/SPACE PROFES/NOUN SION/PROPN A/NOUN L/NOUN EX/PROPN PER/NOUN I/NOUN ENCE/NOUN 　　/SPACE JOLEN/PROPN E'S/PUNCT Columbia/PROPN ,/PUNCT SC/PROPN 　　/SPACE Marketing/PROPN Director/NOUN //PUNCT Amber/NOUN Rain/NOUN ,/PUNCT 1989/NOUN -/PUNCT Present/PROPN 　　/SPACE Maximize/PROPN sales/NOUN in/ADP 19/NUM stores;consistently/NOUN achieve/VERB monthly/PROPN sales/NOUN plan/NOUN ./PUNCT
+　　/SPACE Recruit/NOUN //PUNCT interview/NOUN //PUNCT hire,train/NOUN and/CCONJ develop/PROPN counter/PROPN managers/NOUN and/CCONJ beauty/PROPN advisors;stress/PROPN improved/VERB customer/PROPN service/NOUN and/CCONJ follow/NOUN through/NOUN ./PUNCT
+　　/SPACE Act/NOUN as/ADP liaison/PROPN between/VERB Jolene/PROPN 's/VERB and/CCONJ Amber/NOUN Rain/NOUN ac/ADP count/NOUN executives;communicate/execute/NOUN corporate/PROPN plans/NOUN ./PUNCT
+　　/SPACE Merchandise/PROPN cases/NOUN //PUNCT counters/PROPN ;oversee/organize/ADJ stock/NOUN areas/VERB ;/ADJ review/VERB stock/NOUN control/NOUN and/CCONJ productivity/PROPN books/PROPN ./PUNCT
+　　/SPACE Actuate/implement/NOUN promotional/PROPN events/VERB to/ADP generate/NOUN additional/ADJ business/NOUN ./PUNCT
+Hire/train/NUM freelance/NOUN models/VERB to/ADP promote/PROPN business/PROPN ./PUNCT
+Conduct/PROPN product/NOUN sales/NOUN and/CCONJ seminars/VERB for/ADP promotional/NOUN agencies/NOUN ./PUNCT
+　　/SPACE Review/NOUN and/CCONJ analyze/PROPN goals/PROPN and/CCONJ retail/NOUN sales;interact/NOUN with/ADP general/PROPN managers/NOUN and/CCONJ cosmetic/ADJ buyers/NOUN ./PUNCT
+　　/SPACE Organize/NOUN //PUNCT supervise/NOUN 25/NUM clinics/NOUN and/CCONJ special/VERB promotional/NOUN events/VERB ./PUNCT
+　　/SPACE Marketing/PROPN Director/PROPN //PUNCT Emerald/PROPN Haze/NOUN ,/PUNCT 1984/NUM -/PUNCT 1989/NOUN 　　/SPACE Responsible/NOUN for/ADP 25/NUM stores/NOUN and/CCONJ $/NOUN 3/NUM million/NOUN ac/ADP count/NOUN ./PUNCT
+Improved/PROPN staffing,increased/VERB business/PROPN 30%/PROPN in/NOUN spring'/NUM 89/NUM ,/PUNCT 60%/NOUN Christmas/PROPN '/VERB 88/NUM ,/PUNCT and/CCONJ 42%/NUM Fall'/NOUN 87/NUM ./PUNCT
+　　/SPACE Restructured/PROPN special/NOUN events/VERB to/ADP generate/VERB business/VERB ./PUNCT
+Actuated/INTJ "Days/VERB of/ADP Haze"program/NOUN ,/PUNCT stressing/VERB customer/NOUN service/NOUN //PUNCT follow/VERB through;established/NOUN goals/PROPN to/ADP increase/PROPN average/NOUN unit/PROPN sales/VERB ,/PUNCT makeovers/VERB ,/PUNCT and/CCONJ consultations/NOUN ./PUNCT
+　　/SPACE Brought/NOUN ac/ADP count/NOUN to/ADP #/PUNCT 2/NUM in/ADP the/DET country/PROPN ;exce/NOUN eded/PROPN sales/NOUN goals/VERB ./PUNCT
+　　/SPACE Rece/NOUN ived/NOUN numerous/VERB Galena/PROPN Marketing/ADJ Awards/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE Columbia/PROPN Institute/NOUN of/ADP Aesthetics/PROPN ,/PUNCT Columbia/PROPN ,/PUNCT SC/PROPN 　　/SPACE Courses/PROPN in/ADP Advanced/NOUN Makeup/PROPN Artistry/NOUN ,/PUNCT 1988/NUM 　　/SPACE University/NOUN of/ADP Florida/PROPN ,/PUNCT Gainesville/PROPN ,/PUNCT FL/PROPN 　　/SPACE B/NOUN ./PUNCT
+A/NOUN .,/PUNCT Marketing/PROPN ,/PUNCT 1982/NOUN 　　/SPACE PER/NOUN SONA/PROPN L/NOUN 　　/SPACE Willing/VERB to/ADP relocate/NOUN 　　/SPACE Percentages/NOUN and/CCONJ dollar/NOUN amounts/PROPN quantify/VERB candidate/NOUN 's/VERB ac/NOUN complishments/NOUN ./PUNCT
+　　/SPACE Courses/PROPN listed/NOUN under/PROPN education/VERB are/VERB related/NOUN to/ADP candidate/VERB 's/VERB field/NOUN of/ADP interest/NOUN 　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT sales/NOUN +/PUNCT Marketing/PROPN +/PUNCT business/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+57/NUM ,/PUNCT 628/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

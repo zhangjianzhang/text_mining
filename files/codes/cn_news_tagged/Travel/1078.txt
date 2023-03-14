@@ -1,0 +1,25 @@
+马来西亚/PROPN 旅游局/NOUN 展台/NOUN
+
+韩国/PROPN 旅游局/NOUN 展台/NOUN
+
+突尼斯/NOUN 旅游局/NOUN 展台/NOUN
+
+英国/PROPN 旅游局/NOUN 展台/NOUN
+
+英国/PROPN 航空/NOUN 展台/NOUN
+
+爱尔兰/PROPN 旅游局/NOUN 展台/NOUN
+
+芬兰/PROPN 旅游局/NOUN 展台/NOUN
+
+埃及/PROPN 旅游局/NOUN 展台/NOUN
+
+斯里兰卡/PROPN 旅游局/NOUN 展台/NOUN
+
+太平洋/PROPN 岛国/NOUN 论坛/NOUN 驻华/ADJ 贸易/NOUN 代表处/NOUN 展台/NOUN
+
+太平洋/PROPN 岛国/NOUN 论坛/NOUN 驻华/ADJ 贸易/NOUN 代表处/NOUN 展台/NOUN
+
+意大利/PROPN 旅游局/NOUN 展台/NOUN
+
+2/NUM

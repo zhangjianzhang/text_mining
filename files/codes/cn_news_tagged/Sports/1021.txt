@@ -1,0 +1,126 @@
+2005/NOUN -/PUNCT 2006/NOUN 赛季/NOUN 英/PROPN 超联赛/NOUN 第38/NUM 轮/NUM
+
+时间/NOUN
+
+主队/VERB 射手/NOUN
+
+主队/NOUN
+
+比分/NOUN
+
+客队/NOUN
+
+客队/VERB 射手/NOUN
+
+全场/ADV
+
+8/NUM ’/PUNCT 皮雷/NOUN 35/NUM ’/PUNCT 56/NUM ’/PUNCT 76/NUM ’/PUNCT 亨利/VERB
+
+阿森纳/PROPN
+
+4/NUM -2/PUNCT
+
+维甘/VERB
+
+10/NUM ’/PUNCT 沙尔纳/PROPN 33/NUM ’/PUNCT 汤普森/PROPN
+
+全场/ADV
+
+65/NUM ’/PUNCT 瓦兹/PROPN 泰/PROPN
+
+博尔顿/NOUN
+
+1-0/NOUN
+
+伯明翰/PROPN
+
+全场/ADV
+
+84/NUM ’/PUNCT 安切/PROPN 比/ADP 90/NOUN ’/PUNCT 邓肯/PROPN 弗格森/PROPN
+
+埃弗顿/PROPN
+
+2-2/PROPN
+
+西布朗维奇/PROPN
+
+14/NUM ’/PUNCT 格拉/ADV 47/NUM ’/PUNCT 马丁内斯/PROPN
+
+全场/ADV
+
+19/NUM ’/PUNCT 萨哈/PROPN 23/NUM ’/PUNCT 罗纳尔多/PROPN 58/NUM ’/PUNCT 里/PART 查德森/NOUN
+
+曼联/NOUN
+
+4-0/NUM
+
+查尔顿/PROPN
+
+35/NUM ’/PUNCT 尤尔/PROPN （/PUNCT 乌龙/NOUN ）/PUNCT
+
+全场/ADV
+
+83/NUM ’/PUNCT 科罗曼/PROPN
+
+朴茨/VERB 茅斯/VERB
+
+1/NUM -3/NUM
+
+利物浦/NOUN
+
+52/NUM ’/PUNCT 福勒/PROPN 84/NUM ’/PUNCT 克劳奇/PROPN 89/NUM ’/PUNCT 西塞/PROPN
+
+全场/ADV
+
+10/NUM ’/PUNCT 弗莱彻/PROPN 80/NUM ’/PUNCT 贝纳/PROPN
+永/ADV
+
+西汉/PROPN 姆联/VERB
+
+2-1/NUM
+
+托特纳姆/ADJ 热刺/NOUN
+
+35/NUM ’/PUNCT 迪福/PROPN
+
+全场/ADV
+
+73/NUM ’/PUNCT 布兰布尔/PROPN
+
+纽卡斯尔联/PROPN
+
+1-0/NOUN
+
+切尔西/NOUN
+
+全场/ADV
+
+84/NUM ’/PUNCT 赫尔古森/VERB
+
+富勒姆/PROPN
+
+1-0/NOUN
+
+米德尔斯堡/PROPN
+
+全场/ADV
+
+35/NUM ’/PUNCT 科扎/NOUN 尼什/VERB 维利/NOUN 52/NUM ’/PUNCT 库奇/NOUN
+
+布莱克本/PROPN
+
+2-0/NOUN
+
+曼城/PROPN
+
+全场/ADV
+
+43/NUM ’/PUNCT 巴里/PROPN 78/NUM ’/PUNCT 里/PART 奇维尔/PROPN
+
+阿斯顿维拉/PROPN
+
+2-1/NUM
+
+桑德兰/PROPN
+
+88/NUM ’/PUNCT 科林斯/NOUN

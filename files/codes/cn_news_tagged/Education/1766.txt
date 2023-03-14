@@ -1,0 +1,47 @@
+table/NOUN tennis/NOUN 乒乓球/NOUN
+
+serve/NOUN 发球/VERB
+
+return/ADV 回球/VERB
+
+umpire/NOUN 裁判/VERB
+
+net/PROPN 球网/NOUN
+
+net/PROPN ball/NOUN 落/VERB 网球/NOUN
+
+let/NOUN ball/NOUN 擦/VERB 网球/NOUN
+
+fault/VERB 失误/NOUN
+
+deuce/NOUN 平分/NOUN
+
+advantage/PROPN 优势/NOUN 分/VERB
+
+fore/VERB hand/NOUN 正手/VERB
+
+backhand/ADV 反手/VERB
+
+rally/PROPN 连续/ADV 对/ADP 打/VERB
+
+singles/NOUN 单打/NOUN
+
+doubles/PROPN 双打/NOUN
+
+mixed/ADP doubles/NOUN 混双/NOUN
+
+english/VERB 旋球/VERB
+
+pen-hold/PUNCT grip/PROPN 直/ADV 拍握法/VERB
+
+hand/NOUN -/PUNCT and/CCONJ -/PUNCT shake/NOUN grip/VERB 横/ADV 拍握法/VERB
+
+paddle/NOUN 球拍/NOUN
+
+chop/PROPN 削球/VERB
+
+push/VERB 推球/VERB
+
+drive/PROPN 抽杀/PART
+
+smash/NOUN 扣球/VERB

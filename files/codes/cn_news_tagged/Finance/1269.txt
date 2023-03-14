@@ -1,0 +1,91 @@
+4月份/NOUN 上榜/VERB 金额/NOUN 最/ADV 高/VERB 的/PART 30/NUM 家/NUM 营业部/NOUN
+
+营业部/NOUN 名称/NOUN                       /SPACE 合计/NOUN 成交额/NOUN (万/NUM 元/NUM )/NOUN
+
+国信/NOUN 证券/NOUN 深圳/PROPN 红岭/PROPN 中路/NOUN 证券/NOUN 营业部/NOUN          /SPACE 114953/NUM ./PUNCT
+71/NUM
+
+招商/NOUN 证券/NOUN 深圳/PROPN 振华路/PROPN 证券/NOUN 营业部/NOUN             /SPACE 60320/NUM ./PUNCT
+42/NUM
+
+天一/PROPN 证券/NOUN 宁波/PROPN 解放南路/PROPN 证券/NOUN 营业部/NOUN           /SPACE 42938/NOUN ./PUNCT
+49/NUM
+
+国泰君安/PROPN 七/NUM 席/NUM                             /SPACE 34438/NUM ./PUNCT
+30/NUM
+
+申银/NOUN 万国/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 31971/NUM ./PUNCT
+66/NUM
+
+中信/PROPN 建投/PROPN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 31334/NUM ./PUNCT
+89/NUM
+
+中信/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 29884/NUM ./PUNCT
+08/NOUN
+
+银河/NOUN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 29846/NUM ./PUNCT
+56/NUM
+
+国信/NOUN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 29256/NUM ./PUNCT
+07/NUM
+
+长城/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 27372/NUM ./PUNCT
+88/NUM
+
+国泰君安/PROPN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 27257/NUM ./PUNCT
+60/NUM
+
+中金/ADJ 公司/NOUN 上海/PROPN 陆家嘴/PROPN 东路/NOUN 营业部/NOUN             /SPACE 26793/NUM ./PUNCT
+22/NUM
+
+东吴/PROPN 证券/NOUN 杭州湖/NOUN 墅南路/NOUN 证券/NOUN 营业部/NOUN           /SPACE 19156/NUM ./PUNCT
+59/NUM
+
+东方/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 17402/NUM ./PUNCT
+53/NUM
+
+招商/NOUN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 16935/NUM ./PUNCT
+03/NUM
+
+中金/ADJ 公司/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 15114/NUM ./PUNCT
+12/NUM
+
+第一/NUM 创业/NOUN 证券/NOUN 佛山/PROPN 季华/NOUN 五路/PROPN 营业部/NOUN           /SPACE 14446/NUM ./PUNCT 16/NUM
+
+国泰君安/PROPN 石家庄/PROPN 建/VERB 华南/PROPN 大街/NOUN 营业部/NOUN           /SPACE 14227/NUM ./PUNCT
+27/NUM
+
+东方/PROPN 证券/NOUN 杭州/PROPN 体育场/NOUN 路/NOUN 证券/NOUN 营业部/NOUN           /SPACE 13654/NUM ./PUNCT 30/NUM
+
+广发/NOUN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                     /SPACE 13003/NUM ./PUNCT
+52/NUM
+
+申银/VERB 万国/NOUN 上海/PROPN 新昌路/NOUN 营业部/NOUN                 /SPACE 12567/NUM ./PUNCT
+06/NUM
+
+国泰君安/PROPN 证券/NOUN 上海/PROPN 水城路/NOUN 营业部/NOUN             /SPACE 12230/NUM ./PUNCT
+96/NUM
+
+首创/ADJ 证券/NOUN 北京/PROPN 北辰东路/NOUN 营业部/NOUN               /SPACE 11439/NUM ./PUNCT
+10/NUM
+
+海通/NOUN 证券/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 交易/NOUN 总部/NOUN             /SPACE 10234/NUM ./PUNCT
+55/NUM
+
+国泰君安/PROPN 证券/NOUN 上海/PROPN 江苏路/PROPN 营业部/NOUN             /SPACE 10130/NUM ./PUNCT
+93/NUM
+
+光大/PROPN 证券/NOUN 上海/PROPN 张杨路/PROPN 证券/NOUN 营业部/NOUN              /SPACE 8887/NUM ./PUNCT
+31/NUM
+
+湘财/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                      /SPACE 8166/NUM ./PUNCT
+68/NUM
+
+光大/PROPN 证券/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                      /SPACE 7930/NUM ./PUNCT
+19/NUM
+
+保险/NOUN 机构/NOUN 专用/ADJ 席位/NOUN                          /SPACE 7148/NUM ./PUNCT
+93/NUM
+
+华西/PROPN 证券/NOUN                                  /SPACE 7056/NUM ./PUNCT
+84/NUM

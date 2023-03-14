@@ -1,0 +1,50 @@
+大家/PRON 都/ADV 知道/VERB 第一/NUM 印象/NOUN 的/PART 重要性/NOUN 。/PUNCT
+老美/NOUN 是/VERB 很/ADV 讲/VERB 效益/NOUN 的/PART ，/PUNCT 但/ADV 和/ADP 人/NOUN 第一/NUM 次/NUM 见面/VERB 时/PART ，/PUNCT 他们/PRON 往往/ADV 会/VERB 先/ADV 问/VERB 一些/NUM 无关紧要/VERB 的/PART 问题/NOUN 。/PUNCT
+这/PRON 叫做/VERB "Breaking/PUNCT
+the/DET
+
+ice/NOUN （/PUNCT e/ADJ stablish/NOUN a/NOUN rapport/NOUN ）/PUNCT "/PUNCT 。/PUNCT
+求职/VERB 面试/VERB 的/PART 时候/NOUN 他们/PRON 也/ADV 是/VERB 一样/VERB ，/PUNCT 一/ADV 见面/NOUN 通常/ADV 都会/PART 问/VERB ：/PUNCT
+
+How/NOUN are/VERB you/PRON today/NOUN ?/PUNCT
+
+Did/NOUN you/PRON have/PUNCT any/PROPN trouble/PROPN finding/VERB this/PRON place/NOUN ?/PUNCT
+
+How/NOUN did/PROPN you/PRON get/VERB here/PRON ?/PUNCT
+
+是/VERB 不是/ADV 为面/ADV 试官/VERB 友好/VERB 的/PART 问话/NOUN 和/CCONJ 语调/NOUN 感到/VERB 吃惊/VERB 了/PART ？/PUNCT
+其实/ADV 他们/PRON 只是/ADV 想/VERB 让/VERB 你/PRON 放松/VERB 一下/ADV ，/PUNCT 让/VERB 面试/NOUN 在/ADP 一个/NUM 轻松/VERB 的/PART 气氛/NOUN 中/PART 开始/VERB ，/PUNCT 所以/ADV 你/PRON 也/ADV 只/ADV 需/VERB 客套/NOUN 的/PART 回答/NOUN 一下/ADV 就/ADV 可以/VERB ，/PUNCT 例如/ADV "Fine/VERB ,/PUNCT
+
+thank/NOUN you/PRON ./PUNCT
+"/PUNCT 之类/NOUN 。/PUNCT
+
+面试/VERB 时/PART 最/ADV 重要/VERB 的/PART 部分/NOUN 是/VERB 谈/VERB 你/PRON 的/PART experience/NOUN and/CCONJ
+
+qualifications/NOUN 。/PUNCT
+qualification/NOUN 包括/VERB 你/PRON 所/PART 受/VERB 过/PART 的/PART 教育/NOUN 和/CCONJ 培训/NOUN ，/PUNCT 而/ADV experience/VERB 就是/ADV 你/PRON 曾经/ADV 做/VERB 过/PART 的/PART 、/PUNCT 与/ADP 你/PRON 要/VERB 申请/VERB 的/PART 工作/NOUN 有/VERB 直接/ADJ 或/CCONJ 间接/ADJ 关系/NOUN 的/PART 工作/NOUN 经历/NOUN 。/PUNCT
+
+对于/ADP 换/VERB 工作/NOUN 跳槽/VERB 的/PART 人/NOUN 来说/PART ，/PUNCT 教育/NOUN 都/ADV 是/VERB 发生/VERB 在/ADP 过去/NOUN 的/PART 事情/NOUN ，/PUNCT 所以/ADV 记住/VERB 要/VERB 用/ADP 过去/NOUN 时态/NOUN 来讲/PART 。/PUNCT
+例如/ADV ：/PUNCT
+
+I/PRON attended/VERB the/DET University/NOUN of/ADP California/PROPN from/ADP 1992/NUM to/CCONJ 1996/NUM ./PUNCT
+
+I/PRON graduated/VERB with/ADP a/NUM degree/NOUN in/ADP social/NOUN science/VERB ./PUNCT
+
+如果/SCONJ 你/PRON 目前/NOUN 还是/ADV 个/NUM 学生/NOUN ，/PUNCT 那么/ADV 就/ADV 应该/VERB 用/ADP 现在/NOUN 时/PART 来/VERB 谈/VERB 。/PUNCT
+例如/ADV ：/PUNCT
+
+I/PRON am/VERB currently/NOUN studying/VERB at/ADP the/DET University/NOUN of/ADP Chicago/NOUN and/CCONJ will/NOUN graduate/PRON with/VERB
+
+a/NUM degree/NOUN in/NOUN computer/NOUN science/NOUN in/ADP this/PRON fall/VERB ./PUNCT
+
+I/PRON am/VERB studying/NOUN English/PROPN at/ADP City/NOUN College/PROPN of/ADP New/PRON York/PROPN ./PUNCT
+
+当谈/VERB 你/PRON 受/VERB 的/PART 教育/NOUN 时/PART ，/PUNCT 可/ADV 别/ADV 忘/VERB 了/PART 提起/VERB 你/PRON 参加/VERB 过/PART 的/PART 培训/NOUN 、/PUNCT 得/VERB 过/PART 的/PART 证书/NOUN 和/CCONJ 选过/NOUN 的/PART 一些/NUM 和/CCONJ 这/DET 份/NUM 工作/NOUN 有关/VERB 的/PART 课程/NOUN 。/PUNCT
+例如/ADV 你/PRON 要/VERB 应聘/VERB 国际/NOUN 贸易类/NOUN 的/PART 工作/NOUN 就/ADV 一定/ADV 要/VERB 提/VERB correspondence/NOUN
+
+courses/PROPN ,/PUNCT BEC/PROPN Certificate/NOUN 等等/PART 。/PUNCT
+
+如果/SCONJ 你/PRON 的/PART 工作/NOUN 要求/VERB 你/PRON 用/ADP 英语/NOUN 沟通/VERB 的话/PART ，/PUNCT 你/PRON 还/ADV 得/VERB 特别/ADV 提到/VERB 你/PRON 英语/NOUN 的/PART 娴熟/NOUN 程度/NOUN 或/CCONJ 告诉/VERB 对方/PRON 你/PRON 是/VERB 如何/ADV 在/ADP 这/DET 方面/NOUN 做/VERB 努力/NOUN 的/PART 。/PUNCT
+同样/ADV 对于/ADP 使用/VERB 其他/DET 语言/NOUN 的/PART 工作/NOUN 也/ADV 是/VERB 如此/VERB 。/PUNCT
+
+（/PUNCT 来源/NOUN ：/PUNCT 英语点津/PROPN ）/PUNCT

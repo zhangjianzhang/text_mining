@@ -1,0 +1,20 @@
+据/ADP 新华社/PROPN 电/NOUN 信息/NOUN 产业部/NOUN 清算/NOUN 司８日/PROPN 发布/VERB 消息/NOUN ，/PUNCT 从/ADP ５月份/NUM 起/PART ，/PUNCT 中国/PROPN 移动/VERB 北京/PROPN 地区/NOUN 手机/NOUN 资费/NOUN 开始/VERB 下调/VERB 。/PUNCT
+其中/NOUN ，/PUNCT 被叫/ADJ 套餐/NOUN 接近/VERB 单向/ADJ 收费/NOUN 。/PUNCT
+
+据/ADP 介绍/NOUN ，/PUNCT 全球/NOUN 通本/VERB 地/PART 套餐/NOUN 包括/VERB 四/NUM 种/NUM ：/PUNCT
+
+——/PUNCT ８０/NUM 元/NUM 套餐/NOUN ，/PUNCT 含/VERB ２００/NUM 分钟/NUM 本地/NOUN 基本/ADJ 通话/NOUN ，/PUNCT 超出/VERB 部分/NUM 本地/NOUN 通话费/NOUN 按/ADP 忙时/ADV 每/DET 分钟/NUM ０．４/NUM 元/NUM ，/PUNCT 闲时/ADV 每/DET 分钟/NUM ０．２４/NUM 元/NUM 收取/VERB ；/PUNCT
+
+——/PUNCT １０８/NUM 元/NUM 套餐/NOUN ，/PUNCT 含/VERB ３６０/NUM 分钟/NUM 本地/NOUN 基本/ADJ 通话/NOUN ，/PUNCT 超出/VERB 部分/NUM 本地/NOUN 通话费/NOUN 按/ADP 忙时/ADV 每/DET 分钟/NUM ０．３/NUM 元/NUM ，/PUNCT 闲时/ADV 每/DET 分钟/NUM ０．１８/NUM 元/NUM 收取/NOUN ；/PUNCT
+
+——/PUNCT １６８/NUM 元/NUM 套餐/NOUN ，/PUNCT 含/VERB ７００/NUM 分钟/NUM 本地/NOUN 基本/ADJ 通话/NOUN ，/PUNCT 超出/VERB 部分/NUM 本地/NOUN 通话费/NOUN 按/ADP 忙时/ADV 每/DET 分钟/NUM ０．２５/NUM 元/NUM ，/PUNCT 闲时/ADV 每/DET 分钟/NUM ０．１５/NUM 元/NUM 收取/VERB ；/PUNCT
+
+——/PUNCT ２２０/NUM 元/NUM 套餐/NOUN ，/PUNCT 含/VERB １１００/NUM 分钟/NUM 本地/NOUN 基本/ADJ 通话/NOUN ，/PUNCT 超出/VERB 部分/NUM 本地/NOUN 通话费/NOUN 按/ADP 忙时/ADV 每/DET 分钟/NUM ０．２/NUM 元/NUM ，/PUNCT 闲时/ADV 每/DET 分钟/NUM ０．１２/NUM 元/NUM 收取/VERB 。/PUNCT
+套餐/NOUN 中/PART ，/PUNCT 忙时/ADV 为/VERB ８时/NOUN 至/CCONJ ２０时/NUM ，/PUNCT 闲时/ADV 为/VERB ２０时/NUM 至/CCONJ ８时/NOUN 。/PUNCT
+
+引人注意/VERB 的/PART 是/VERB ，/PUNCT 下调/NOUN 方案/NOUN 还/ADV 包括/VERB 被叫/ADJ 套餐/NOUN 。/PUNCT
+月/NOUN 被叫/NOUN 基本费/NOUN １０/NUM 元/NUM 含/VERB ５００/NUM 分钟/NUM 、/PUNCT ２０/NUM 元/NUM 含/VERB １０００/NUM 分钟/NUM 本地/NOUN 被叫/ADV 通话/NOUN ，/PUNCT 超出/VERB 部分/NUM 本地/NOUN 被叫/ADJ 通话费/NOUN 按照/ADP 每/DET 分钟/NUM ０．２/NUM 元/NUM 收取/VERB 。/PUNCT
+使用/NOUN 范围/NOUN 为/VERB 标准/NOUN 全球通/NOUN 和/CCONJ 神州/NOUN 行/NOUN 用户/NOUN 。/PUNCT
+
+用户/NOUN 需要/VERB 注意/VERB 的/PART 是/VERB ，/PUNCT 不论/ADV 选择/VERB 主叫/VERB 套餐/NOUN ，/PUNCT 还是/CCONJ 被叫/ADV 套餐/VERB ，/PUNCT 只能/ADV 选择/VERB 其中/NOUN 的/PART 一/NUM 种/NUM ，/PUNCT 两/NUM 种/NUM 套餐/NOUN 不/ADV 能/VERB 叠加/VERB 使用/VERB 。/PUNCT
+据悉/ADV ，/PUNCT 中国/PROPN 联通/VERB 北京/PROPN 地区/NOUN 手机/NOUN 资费/NOUN 下调/NOUN 方案/NOUN 也/ADV 正在/ADV 酝酿/VERB 中/PART 。/PUNCT

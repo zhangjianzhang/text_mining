@@ -1,0 +1,55 @@
+多/ADV 读/VERB ,/PUNCT 精泛/ADV 结合/VERB ,/PUNCT
+
+把握/VERB 读/NOUN 的/PART 方法/NOUN ,/PUNCT 使用/VERB 浏览/VERB ,/PUNCT 查读/VERB ,/PUNCT 寻读/VERB ,/PUNCT 对/ADP 不同/ADJ 文体/NOUN 采用/VERB 不同/ADJ 的/PART 方法/NOUN ,/PUNCT 就/ADV 好比/NOUN 驾驶员/NOUN 开车/VERB 要/VERB 用/VERB 不同/ADJ 的/PART 速度/NOUN 一样/VERB ,/PUNCT
+
+学会/VERB 揣词/VERB ,/PUNCT 分析/VERB 长/ADJ 句/NUM \/NOUN 难/ADV 句/NUM ,/PUNCT 抓住/VERB 句子/ADV 主干/NOUN 或/CCONJ 关键词/NOUN ,/PUNCT 善于/ADV 找/VERB 主题/NOUN 句/NOUN ,/PUNCT 知道/VERB 常见/ADJ 的/PART 问题/NOUN 怎么/ADV 出/VERB :/PUNCT
+
+问/VERB 主题/NOUN :/PUNCT main/NOUN id/VERB ea/NOUN ,/PUNCT topic/VERB sentence/NOUN ,/PUNCT mainly/NOUN talk/ADV about/VERB ,/PUNCT
+
+问/VERB 细节/NOUN ：/PUNCT 5/NUM 个/NUM “/PUNCT W/NOUN ”/PUNCT ，/PUNCT
+
+考/VERB 推理/NOUN ：/PUNCT infer/VERB ,/PUNCT draw/PROPN a/NUM conclusion/NOUN ,/PUNCT conclude/VERB ,/PUNCT ac/ADP cording/VERB to/ADP .../ADV from/ADP .../NOUN
+
+问/VERB 观点/NOUN :/PUNCT idea/ADV ,/PUNCT opinion/NOUN ,/PUNCT attitude/VERB ,/PUNCT in/NOUN .../ADJ opinion/VERB ,/PUNCT the/DET author/NOUN thinks/NOUN .../ADV
+
+语感/NOUN 对/ADP 英语/NOUN 学习/NOUN 来说/PART 很/ADV 重要/VERB ，/PUNCT 但/ADV 仅/ADV 凭语感/NOUN 是/VERB 不/ADV 能/VERB 取得/VERB 好/ADJ 成绩/NOUN 的/PART ，/PUNCT 正确/VERB 的/PART 语感/NOUN 是/VERB 建立/VERB 在/ADP 扎实/VERB 的/PART 基础/NOUN 上/PART 的/PART 。/PUNCT
+如果/SCONJ 没有/VERB 平时/ADV 对/ADP 语法/NOUN 的/PART 准确/ADJ 掌握/NOUN 和/CCONJ 坚持/VERB 不懈/ADJ 的/PART 大声/ADJ 朗诵/NOUN ，/PUNCT 是/VERB 无法/ADV 建立/VERB 好的/ADJ 语感/NOUN 的/PART 。/PUNCT
+虽然/SCONJ 快/ADV 高考/VERB 了/PART ，/PUNCT 但/ADV 千万/ADV 不要/ADV 着急/VERB ，/PUNCT 从/ADP 现在/NOUN 开始/PART ，/PUNCT 语法/NOUN 知识/NOUN 点咱/NOUN 碰到/VERB 一个/ADV 掌握/VERB 一个/ADV ，/PUNCT 重要/VERB 的/PART 是/VERB 学会/NOUN 划分/VERB 句子/ADJ 结构/NOUN 和/CCONJ 增加/VERB 词汇量/NOUN ，/PUNCT 遇到/VERB 句子/ADV 能/VERB 读懂其意思/VERB 。/PUNCT
+因为/ADP 在/ADP 考试/NOUN 中/PART ，/PUNCT 完全/ADV 是/VERB 考语法/NOUN 的/PART 只有/ADV 单选/NOUN 中/PART 的/PART 几/NUM 个/NUM 题/NOUN ，/PUNCT 分值/NOUN 不/ADV 高/VERB 。/PUNCT
+
+在/ADP 平时/ADV 学习/VERB 中/PART ，/PUNCT 也/ADV 要/VERB 大声/ADV 朗诵/PROPN 许多/NUM 文章/NOUN 来/PART 增加/VERB 语感/NOUN ，/PUNCT 好的/ADJ 语感/NOUN 会/VERB 帮助/VERB 自己/PRON 做题/VERB 更加/ADV 得心应手/VERB 。/PUNCT
+
+1/NUM 。/PUNCT 找/VERB 一/NUM 本/NUM 2006年/NOUN 的/PART 高考/NOUN 英语/NOUN 词汇表/NOUN ，/PUNCT 从头到尾/ADV 认真/ADV 背/VERB 3－5遍/NUM ，/PUNCT 当然/ADV 是/VERB 只/ADV 背/VERB 你/PRON 不/ADV 熟/VERB 的/PART 词/NOUN ，/PUNCT 并且/ADV 要/VERB 特别/ADV 记忆/VERB 一下/ADV 每个/DET 单词/NOUN 的/PART 后/ADJ 几/NUM 个/NUM 意义/NOUN ，/PUNCT 如/ADV cover/VERB ,/PUNCT 采访/VERB ,/PUNCT 涉及/VERB ,/PUNCT 走/VERB ../PUNCT ../NUM ../PUNCT
+
+add/NOUN --/PUNCT 补冲/NOUN 说/VERB ，/PUNCT 又/ADV 说/VERB ，/PUNCT advance/NOUN 提前/VERB ，/PUNCT 预先/VERB 。/PUNCT
+
+2/NUM 。/PUNCT 每/DET 复习/VERB 一个/NUM 词/NOUN ，/PUNCT 尽量/ADV 想/VERB 一/ADV 想/VERB 于/ADP 它/PRON 相关/ADJ 的/PART 词/NOUN ：/PUNCT
+act/ADV --/PUNCT action/PROPN -/PUNCT --active--inactive/INTJ
+
+-/PUNCT --actively/NOUN -/PUNCT --activity/VERB ,/PUNCT maybe/ADV ---/PUNCT may/PROPN
+
+be/NOUN ---/PUNCT perhaps---probably/NOUN --/PUNCT
+possibly--likely/NOUN ,/PUNCT special---especial---particular/VERB --/PUNCT
+peculiar/NOUN ---/PUNCT common/PROPN
+
+---general/VERB --/PUNCT
+formal--unsual---extrordinary/NOUN ../PUNCT ../PUNCT
+
+这样/ADV 就/ADV 能/VERB 在/ADP 有限/ADJ 时间/NOUN 积累/VERB 并/CCONJ 运用/VERB 。/PUNCT
+
+3/NUM ./PUNCT 同义词/ADV 完形/VERB 、/PUNCT 单选/NOUN 中都/PART 有/VERB ，/PUNCT 其实/ADV 都/ADV 在/ADV 考/VERB 具体/ADJ 上下文/NOUN 语境/NOUN ，/PUNCT
+既然/SCONJ 你/PRON 的/PART
+
+“/PUNCT 语感/NOUN 和/CCONJ 理解/NOUN 能力/NOUN 勉强/ADV 还/ADV 可以/VERB ”/PUNCT ，/PUNCT 那/ADV 就/ADV 充分/ADV 发挥/VERB 你/PRON 的/PART 语感/NOUN ，/PUNCT 你/PRON 能否/VERB 试试/VERB 不/ADV 看/VERB 完形/VERB 的/PART 选项/NOUN 能/VERB 直接/ADV 作对/VERB 8－10/NUM 空/NOUN 呢/PART ？/PUNCT
+我/PRON 较/VERB 我/PRON 的/PART 学生/NOUN 训练/NOUN 时/PART ，/PUNCT 就是/ADV 不/ADV 给/VERB 选项/NOUN ，/PUNCT 开始/VERB 有的/PRON 只能/ADV 填/VERB 对/ADP 1－2空/NUM ，/PUNCT 后来/ADV 慢慢/ADV 地/PART 增加/VERB 到/VERB 5－10/NUM
+
+甚至/ADV 更/ADV 多/VERB ，/PUNCT 完形/NOUN 还要/ADV 特别/ADV 注意/VERB 下文/NOUN 提示/NOUN 上文/NOUN 的/PART 地方/NOUN ，/PUNCT 有的/PRON 要/VERB 到/VERB 下文/NOUN 10几/NOUN 行/VERB 后采/ADJ 提示/NOUN ，/PUNCT 作/VERB 后/PART 一定/ADV 要/VERB 复核/VERB 一遍/ADV 。/PUNCT
+这样/ADV 训练/VERB 50/NUM 篇/NUM 左右/PART 就/ADV 可以/VERB 将/X 它/PRON 提高/VERB 到/VERB 20分/NUM 以上/PART 哦/PART ！/PUNCT
+^/PROPN _/PUNCT
+^/PROPN
+
+4./NUM 书面/ADV 表达/VERB 建议/NOUN 背/NOUN 50/NUM 篇/NUM 范文/NOUN ,/PUNCT 不是/ADV 新/ADJ 概念/NOUN 3/NUM ,/PUNCT 而是/ADV 学生/NOUN 优秀/ADJ 作文/NOUN ,/PUNCT 在/ADP 仔细/ADV 研究/VERB 每/DET 中/NUM 文体/NOUN 的/PART 写法/NOUN 和/CCONJ 每/DET 一/NUM 篇/NUM 的/PART 优秀/ADJ 句子/NOUN ./PUNCT
+看一看/VERB 我/PRON 怎么/ADV 写/VERB ,/PUNCT 人家/PRON 有/VERB 怎么/ADV 写/VERB ../PUNCT ../NUM ../PUNCT
+再/ADV 自己/PRON 坚持/VERB 每/DET 周/NUM 写/VERB 一/NUM 篇/NUM ./PUNCT
+
+5./NUM 单选/NOUN 最好/ADV 作/VERB 一/NUM 本/NUM 错题/NOUN 本/NOUN :/PUNCT 把/X 每次/ADJ 作业/NOUN 及/CCONJ 考试/NOUN 的/PART 易/ADJ 错题/NOUN 归类/VERB 整理/VERB ,/PUNCT 并/ADV 表明/VERB 出错/VERB 原因/NOUN ,/PUNCT 以便/ADV 下次/ADV 避免/VERB 在/ADP 犯/VERB 同样/ADV 错误/VERB ./PUNCT

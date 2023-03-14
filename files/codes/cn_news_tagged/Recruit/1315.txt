@@ -1,0 +1,31 @@
+个人/NOUN 简历/NOUN 　　/SPACE 个人/NOUN 概况/NOUN :/PUNCT 　　/SPACE 求职/NOUN 意向/NOUN ;/VERB ________________/VERB 　　/SPACE 姓名/NOUN :/PUNCT ________________/VERB 性别/NOUN :/PUNCT __/PUNCT __/PUNCT __/PUNCT
+__/PUNCT
+　　/SPACE 出生/VERB 年月/VERB :/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN __/PUNCT 日/PROPN 健康/ADJ 状况/NOUN :/PUNCT ___________/DET 　　/SPACE 毕业/VERB 院校/NOUN :/PUNCT _______________/NOUN 专业/NOUN :/PUNCT ____________________/DET 　　/SPACE 电子/NOUN 邮件/NOUN :/PUNCT _______________/NOUN 传呼/NOUN :/PUNCT ____________________/ADP 　　/SPACE 联系/VERB 电话/NOUN :/PUNCT _______________/NOUN 　　/SPACE 通信/NOUN 地址/NOUN :/PUNCT _______________/NUM 邮编/NOUN :/PUNCT ____________________/ADP 　　/SPACE 教育/NOUN 背景/NOUN :/PUNCT 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN --/PUNCT __/PUNCT __/PUNCT 年/NOUN ___________/PUNCT 大学/NOUN __________/PROPN 专业/NOUN (请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 主修/VERB 课程/NOUN :/PUNCT 　　/SPACE ________________________________________________/NOUN (注/NOUN :/PUNCT 如/ADV 需要/VERB 详细/ADJ 成绩单/NOUN ,/PUNCT 请/VERB 联系/VERB 我/PRON )/PROPN 　　/SPACE 论文/NOUN 情况/NOUN :/PUNCT 　　/SPACE ____________________________________________________/NOUN (注/NOUN :/PUNCT 请/VERB 注明/VERB 是否/VERB 已/ADV 发表/VERB )/PROPN 　　/SPACE 英语/NOUN 水平/NOUN :/PUNCT 　　/SPACE */NOUN 基本/ADJ 技能/NOUN :/PUNCT 听/VERB 、/PUNCT 说/VERB 、/PUNCT 读/VERB 、/PUNCT 写/VERB 能力/NOUN 　　/SPACE */NOUN 标准/NOUN 测试/VERB
+:/PUNCT 国家/NOUN 四/NUM 、/PUNCT 六级/NUM ;TOEFL;GRE/NOUN ...../PROPN 　　/SPACE 计算机/NOUN 水平/NOUN :/PUNCT 　　/SPACE 编程/NOUN 、/PUNCT 操作/NOUN 应用/NOUN 系统/NOUN 、/PUNCT 网络/NOUN 、/PUNCT 数据库/NOUN ../PUNCT ../X ../NUM
+(请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 获奖/VERB 情况/NOUN :/PUNCT 　　/SPACE ________________/NOUN 、/PUNCT ________________/NOUN 、/PUNCT ________________/NOUN (请/NOUN 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 实践/VERB 与/CCONJ 实习/NOUN :/PUNCT 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN --/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN _________/NOUN 公司/NOUN _/PUNCT _________/NOUN 工作/NOUN 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN --/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN _________/NOUN 公司/NOUN _/PUNCT _________/NOUN 工作/NOUN (/PUNCT 请/VERB 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 工作/NOUN 经历/NOUN :/PUNCT 　　/SPACE __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN --/PUNCT __/PUNCT
+__/PUNCT 年/NOUN __/PUNCT 月/NOUN _________/NOUN 公司/NOUN _/PUNCT _________/NOUN 工作/NOUN (/PUNCT 请/VERB 依/ADP 个人/NOUN 情况/NOUN 酌情/NOUN 增减/VERB )/PROPN 　　/SPACE 个性/NOUN 特点/NOUN :/PUNCT 　　/SPACE ___________________________________/NOUN （/PUNCT 请/VERB 描述/VERB 出/VERB 自己/PRON 的/PART 个性/NOUN 、/PUNCT 工作/NOUN 态度/NOUN 、/PUNCT 自我/PRON 评价/NOUN 等/PART ）/PUNCT
+　　/SPACE 另/ADV ：/PUNCT 　　/SPACE (/PUNCT 如果/SCONJ 你/PRON 还有/CCONJ 什么/DET 要/VERB 写/VERB 上去/VERB 的/PART ，/PUNCT 请/VERB 填写/NOUN 在/VERB 这里/PRON ！/PUNCT
+)/PROPN 　　/SPACE */PROPN 附言/VERB :/PUNCT (请/NOUN 写出/VERB 你/PRON 的/PART 希望/NOUN 或/CCONJ 总结/VERB 此/DET 简历/NOUN 的/PART 一/NUM 句/NUM 精炼/NOUN 的话/PART !/PUNCT
+)/PROPN 　　/SPACE 例如/ADV :/PUNCT 相信/VERB 您/PRON 的/PART 信任/NOUN 与/ADP 我/PRON 的/PART 实力/NOUN 将/ADV 为/ADP 我们/PRON 带来/VERB 共同/ADJ 的/PART 成功/NOUN !/PUNCT 或/CCONJ 希望/VERB 我/PRON 能/VERB 为/ADP 贵/ADJ 公司/NOUN 贡献/VERB 自己/PRON 的/PART 力量/NOUN !/PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 简历/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+5/NUM ,/PUNCT 474/NUM ,/PUNCT 793/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 毕业/VERB ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+27/NUM ,/PUNCT 747/NUM ,/PUNCT 029/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 工作/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+194/NUM ,/PUNCT 095/NUM ,/PUNCT 998/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

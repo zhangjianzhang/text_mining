@@ -1,0 +1,11 @@
+圣莱恩/NOUN 奥尔第教堂/PROPN St/NOUN ./PUNCT
+Reinold/PROPN i/PRON -/PUNCT Kirche/PROPN
+
+这是/ADV 座/NUM 基督教/NOUN 教堂/NOUN ，/PUNCT 是/VERB 多特蒙德/ADJ 最/ADV 古老/VERB 的/PART 中世纪/ADJ 教堂/NOUN ，/PUNCT 1250年/NOUN 至/CCONJ 1270年/NOUN 修建/VERB 。/PUNCT
+旁边/NOUN 就是/ADV 海耳街/NOUN ，/PUNCT 这里/PRON 原来/ADV 是/VERB 古/ADJ 贸易/NOUN 大街/NOUN －/PUNCT 城市/NOUN 的/PART 市中心/NOUN ，/PUNCT 现在/NOUN 这里/PRON 依然/ADV 热闹/VERB 。/PUNCT
+从/ADP 远出/PROPN 就/ADV 能/VERB 看到/VERB 圣莱恩/NOUN 奥尔第教堂/VERB ，/PUNCT 所以/ADV 它/PRON 也/ADV 就/ADV 成为/VERB 城市/NOUN 的/PART 标志/NOUN 。/PUNCT
+
+推荐/VERB 景点/NOUN
+
+多特蒙德/ADJ 音乐厅/NOUN     /SPACE 水上/NOUN 宫殿/NOUN     /SPACE >>/NUM >多/PUNCT
+特蒙德/NOUN 旅行/NOUN 小/ADJ 贴士/NOUN

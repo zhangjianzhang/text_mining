@@ -1,0 +1,14 @@
+英国/PROPN 花园/NOUN
+
+英国/PROPN 花园/NOUN (/PUNCT Englischer/PROPN Garten)/VERB
+
+英国式/NOUN 的/PART 花园/NOUN 。/PUNCT
+园中/NOUN 有仿/VERB 中国/PROPN 的/PART 塔(/NOUN Chinesischer/NOUN Tur/NOUN m)/NOUN 。/PUNCT
+
+西部/NOUN 公园/NOUN (Westpark/NOUN )/PROPN
+
+为/VERB 1983年/NOUN 国际/NOUN 园林展/NOUN 而/PART 建/VERB 。/PUNCT
+是/VERB 各国/NOUN 园林/VERB 的/PART 大/ADJ 荟萃/NOUN 。/PUNCT
+园内/NOUN 有/VERB 占地/VERB 700/NUM 平米/NUM 的/PART 中国/PROPN 园林/NOUN “/PUNCT 芳华园/PROPN ”/PUNCT 。/PUNCT
+
+推荐/VERB 景点/NOUN ：/PUNCT 玛利亚/PROPN 广场/NOUN     /SPACE 啤酒馆/NOUN     /SPACE 慕尼/NOUN 黑奥/PROPN 林匹克/PROPN 公园/NOUN    /SPACE 新/ADJ 天鹅/NOUN 堡/NOUN

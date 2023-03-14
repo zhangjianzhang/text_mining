@@ -1,0 +1,24 @@
+4月/NOUN 26日/NOUN 是/VERB 第六/NUM 个/NUM 世界/NOUN 知识/NOUN 产权日/NOUN ，/PUNCT 正如/ADP 商务部/NOUN 部长/NOUN 薄熙来/PROPN 在/ADP 不久/NOUN 前国/NOUN 新办/NOUN 举行/VERB 的/PART 新闻/NOUN 发布会/NOUN 上/PART 所/PART 言/VERB ，/PUNCT 保护/VERB 知识/NOUN 产权/NOUN 已/ADV 逐渐/ADV 上升/VERB 为/VERB 我们/PRON 的/PART 基本/ADJ 国策/NOUN ，/PUNCT 政府/NOUN 对/ADP 网络/NOUN 侵权/NOUN 、/PUNCT 网络/NOUN 盗版/NOUN 行为/NOUN 的/PART 打击/NOUN 力度/NOUN 也/ADV 将/ADV 逐步/ADV 加大/VERB 。/PUNCT
+
+请/VERB 看/VERB 《/PUNCT 中国/PROPN 日报/NOUN 》/PUNCT 相关/ADJ 报道/NOUN ：/PUNCT An/ADV action/PROPN plan/NOUN to/ADP combat/PROPN intellectual/VERB property/NOUN rights/NOUN (/PUNCT IPR/PROPN )/PROPN
+
+violations/VERB was/NOUN unveiled/VERB by/ADP the/DET State/NOUN Council/PROPN Wednesday/PROPN to/ADP add/NOUN more/NOUN muscle/NOUN to/VERB
+
+existing/ADJ regulations/NOUN ./PUNCT
+Illegal/PROPN publications/NOUN and/CCONJ Internet/NOUN piracy/NOUN and/CCONJ infringements/PROPN
+
+are/VERB targeted/NOUN ./PUNCT
+
+报道/NOUN 中/PART 的/PART piracy/NOUN 是/VERB “/PUNCT 盗版/NOUN ”/PUNCT ，/PUNCT infringement/NOUN 则/ADV 是/VERB “/PUNCT 侵权/NOUN ”/PUNCT ，/PUNCT 而/ADV “/PUNCT 网络/NOUN 侵权/NOUN ”/PUNCT 可以/VERB 表示/VERB 为/ADP internet/NOUN
+
+infringement/NOUN 。/PUNCT
+顾名思义/ADV ，/PUNCT “/PUNCT 网络/NOUN 侵权/NOUN ”/PUNCT 就是/ADV 通过/ADP 互联网/NOUN 从事/VERB 侵犯/VERB 他人/NOUN 权利/NOUN 的/PART 行为/NOUN 。/PUNCT
+不同于/VERB 一般/ADJ 的/PART 民事/ADJ 侵权/NOUN ，/PUNCT 网络/NOUN 侵权/NOUN 除侵犯/NOUN 他人/PRON 隐私权/NOUN 外/PART ，/PUNCT 也/ADV 包括/VERB 侵犯/VERB 知识/NOUN 产权/NOUN ，/PUNCT 如/ADV 网络/NOUN 用户/NOUN 在/ADP 复制/VERB 他人/PRON 作品/NOUN 时/PART ，/PUNCT 必须/VERB 取得/VERB 著作/NOUN 权人/NOUN 的/PART 授权/NOUN 。/PUNCT
+
+Infringement/PROPN 来源于/VERB 动词infringe/VERB （/PUNCT 违背/VERB ，/PUNCT 侵犯/NOUN ）/PUNCT ，/PUNCT 如/ADP ：/PUNCT infringe/VERB a/PUNCT contract/NOUN （/PUNCT 违反/VERB 合同/NOUN ）/PUNCT ；/PUNCT infringe/VERB
+an/PROPN
+
+oath/PROPN （/PUNCT 违背/VERB 誓言/NOUN ）/PUNCT ；/PUNCT infringe/VERB a/NUM patent/NOUN （/PUNCT 侵犯/VERB 专利权/NOUN ）/PUNCT 。/PUNCT
+常/ADV 与/ADP infringement/NOUN 搭配/VERB 的/PART 词组/NOUN 有/VERB ：/PUNCT copyright/ADV
+
+infringement/PROPN （/PUNCT 版权/NOUN 侵犯/NOUN ）/PUNCT ；/PUNCT patent/NOUN infringement/NOUN （/PUNCT 专利/NOUN 侵权/NOUN ）/PUNCT 。/PUNCT

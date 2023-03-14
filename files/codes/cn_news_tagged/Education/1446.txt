@@ -1,0 +1,39 @@
+经/ADP 全国/ADJ 考办/NOUN 研究/NOUN 决定/NOUN ，/PUNCT 同意/VERB 甘肃省/PROPN 开考/VERB 高等/ADJ 教育/NOUN 自学/VERB 考试/VERB 资源/NOUN 环境/NOUN 与/CCONJ 城乡/NOUN 规划/NOUN 管理/NOUN 专业/NOUN （/PUNCT 独立/ADJ 本科段/PROPN ）/PUNCT ，/PUNCT 遴选/VERB 西北/NOUN 师范/NOUN 大学/NOUN 为/ADP 该/DET 专业/NOUN 的/PART 主考/NOUN 学校/NOUN ，/PUNCT 专业/NOUN 代码/NOUN 参见/VERB 下表/NOUN ：/PUNCT
+
+序号/NOUN
+
+课程/NOUN 代码/NOUN
+
+课程/NOUN 名称/NOUN
+
+学分/NOUN
+
+1/NUM
+
+4499/NUM
+
+规划/VERB CAD/PROPN
+
+4/NUM
+
+4500/NUM
+
+规划/VERB CAD/PROPN （/PUNCT 实践/NOUN ）/PUNCT
+
+1/NUM
+
+2/NUM
+
+4501/NUM
+
+旅游/NOUN 开发/NOUN 与/CCONJ 规划/NOUN
+
+4/NUM
+
+3/NUM
+
+4502/NUM
+
+地理学/NOUN 基础/NOUN
+
+4/NUM

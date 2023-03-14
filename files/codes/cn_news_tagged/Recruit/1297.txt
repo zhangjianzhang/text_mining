@@ -1,0 +1,31 @@
+Sandy/PROPN Lin/PROPN 15/NUM //PUNCT F,TOWER/NUM 2/NUM ,/PUNCT BRIG/PROPN HT/PROPN CHINA/PROPN ,/PUNCT BUI/PROPN LDIN/PROPN G/PROPN 1/NUM ,/PUNCT BEI/NOUN JING/NOUN ./PUNCT
+　　/SPACE SUM/NOUN MARY/PROPN OF/PROPN QUALI/NOUN FICATION/PROPN S/X 　　/SPACE Over/PROPN twenty/NOUN years/VERB of/ADP progressive,professional/NOUN ac/ADP counting/PROPN and/CCONJ supervisory/NOUN experience/VERB ./PUNCT
+　　/SPACE Computer/NOUN skills/PROPN include:Lotus/NOUN 1-2/NUM -3/NUM ,/PUNCT Taxware/PROPN Systems/PROPN ,/PUNCT IBM/PROPN PC/NOUN ,/PUNCT and/CCONJ Micros/NOUN of/ADP t/NOUN word/NOUN ./PUNCT
+　　/SPACE Proficient/NOUN in/ADP Spanish/PROPN and/CCONJ some/NOUN knowledge/VERB of/ADP French/PROPN ./PUNCT
+　　/SPACE Self/PROPN -/PUNCT motivated/NOUN ;able/VERB to/ADP set/NOUN effective/VERB priorities/ADJ decisions/NOUN to/ADP achieve/VERB immediate/NOUN and/CCONJ long-ter/NOUN m/NOUN goals/NOUN and/CCONJ meet/ADJ operational/NOUN deadlines/NOUN ./PUNCT
+　　/SPACE EDUCATION/NOUN 　　/SPACE Passed/PROPN C/NOUN ./PUNCT P./PROPN A/NOUN ./PUNCT
+Examination/NOUN ,/PUNCT January/NOUN 1989/NOUN 　　/SPACE UN/NOUN
+I/PRON
+VERSIT/PROPN Y/NOUN OF/NOUN VIR/NOUN G/NOUN I/PRON NIA/PROPN ,/PUNCT Charlottesville/NOUN ,/PUNCT V/NOUN A/NOUN 　　/SPACE certificate/NOUN in/ADV ac/ADP countancy/NOUN with/VERB high/NUM honors/NOUN ,/PUNCT 1988/NUM G/X ./PUNCT
+P./PROPN A/NOUN .:/NOUN 3/NUM ./PUNCT 6/NUM //PUNCT 4./NUM 0/NUM 　　/SPACE UN/NOUN
+I/PRON VERSIT/PROPN Y/NOUN OF/NOUN MADRID/PROPN 　　/SPACE Graduate/PROPN School/PROPN of/ADP Spanish/PROPN Literature/PROPN ,/PUNCT 1972/NOUN 　　/SPACE UN/NOUN I/PRON VERSIT/PROPN Y/NOUN OF/NOUN R/X I/X CHMOND/PROPN ,/PUNCT Richmond/PROPN ,/PUNCT V/NOUN A/NOUN 　　/SPACE Bachelor/NOUN of/ADP arts/NOUN ,/PUNCT arts/NOUN ,/PUNCT modern/NOUN languages/VERB ,/PUNCT 1971/NUM G/X ./PUNCT
+P./PROPN A/NOUN .:/NOUN 3/NUM ./PUNCT 0/NUM //PUNCT 4./NUM 0/NUM 　　/SPACE PROFES/PROPN SION/PROPN A/NOUN L/NOUN EX/PROPN PER/NOUN I/NOUN ENCE/NOUN 　　/SPACE 1992-present/NOUN K/NOUN END/NOUN A/NOUN L/NOUN L/NOUN MANA/NOUN GE/NOUN MENT/PROPN GROUP/PROPN ,/PUNCT Richmond/PROPN ,/PUNCT V/NOUN A/NOUN 　　/SPACE Controller/PROPN 　　/SPACE Initiate/PROPN and/CCONJ maintain/NOUN general/PROPN ledgers/PROPN for/ADP three/PROPN closely/PROPN held/VERB corporations/NOUN ./PUNCT
+Compile/NOUN financial/NOUN statements/NOUN ./PUNCT
+Process/NOUN payroll,payables/NOUN and/CCONJ rece/NOUN ivables/VERB ./PUNCT
+Prepare/PROPN budget/NOUN and/CCONJ cost/NOUN reports/NOUN ./PUNCT
+　　/SPACE 1989-present/NUM B/NOUN ./PUNCT
+T/NOUN ./PUNCT
+JOHN/PROPN SON/NOUN ,/PUNCT C/NOUN ./PUNCT P./PROPN A/NOUN ,/PUNCT Richmond/PROPN ,/PUNCT V/NOUN
+A/NOUN 　　/SPACE Staff/PROPN Ac/NOUN countant/PROPN 　　/SPACE Prepare/PROPN individual,corporate/VERB ,/PUNCT and/CCONJ fiduciary/ADP income/NOUN and/CCONJ e/NOUN state/NOUN tax/NOUN returns/NOUN ./PUNCT
+Generate/PROPN compilations/NOUN and/CCONJ financial/NOUN statement/NOUN audits/VERB ./PUNCT
+Research/PROPN tax/NOUN issues/VERB ./PUNCT
+　　/SPACE 1973/NOUN -/PUNCT 1989/NOUN ASHLAND/NOUN AUTHORIT/PROPN Y/NOUN ,/PUNCT Ashland/PROPN ,/PUNCT V/NOUN A/NOUN 　　/SPACE Assistant/NOUN Terminal/PROPN Agent/NOUN 　　/SPACE Supervised/PROPN ten/PRON ticket/NOUN agents/ADV ./PUNCT
+Implemented/PROPN ac/ADP counting/PROPN department/NOUN policies/NOUN ./PUNCT
+Assisted/NOUN in/ADP conversion/NOUN of/ADP sales/NOUN reporting/VERB to/ADP Lotus/PROPN 1-2/NOUN -3/NUM ./PUNCT
+　　/SPACE Strong/NOUN educational/VERB credentials/NOUN streng/NOUN then/PROPN resume/NOUN ./PUNCT
+　　/SPACE Foreign/PROPN language/NOUN skills/NOUN further/VERB streng/NOUN then/PROPN candidate/NOUN 's/VERB qualifications/NOUN ./PUNCT
+　　/SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT UN/NOUN I/PRON VER/NOUN SITY/NOUN +/PUNCT Richmond/PROPN +/PUNCT skills/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+745/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

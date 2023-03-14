@@ -1,0 +1,3 @@
+本报/NOUN 综合/ADJ 报道/NOUN 部分/NUM 特富龙/ADJ 涂层/NOUN 炊具/NOUN 的/PART 用户/NOUN 于/ADP 本周一/PROPN 将/X 杜邦/PROPN 公司/NOUN 告上/VERB 法庭/NOUN ，/PUNCT 指控/VERB 该/DET 公司/NOUN 未能/ADV 披露/VERB 此类/ADV 炊具/NOUN 的/PART 潜在/ADJ 危险/NOUN 。/PUNCT
+
+这些/DET 用户/NOUN 向/ADP 爱荷华州/PROPN 得/VERB 梅因市/PROPN 联邦/NOUN 地方法院/NOUN 递交/VERB 的/PART 诉状/NOUN 称/VERB ，/PUNCT 杜邦/PROPN 此前/ADV 清楚/VERB 或/CCONJ 应当/VERB 清楚/VERB 特富龙/ADJ 涂层/NOUN 炊具/NOUN 被/X 加热/VERB 时/PART 所/PART 释放/VERB 出/VERB 的/PART 化学/NOUN 物质/NOUN 具有/VERB 的/PART 潜在/ADJ 危险/NOUN ，/PUNCT 其中/NOUN 包括/VERB 一/NUM 种/NUM 最近/NOUN 被/X 确定/VERB 为/VERB “/PUNCT 有可能/ADV ”/PUNCT 致癌/VERB 的/PART 化学/NOUN 物质/NOUN ，/PUNCT 然而/ADV 杜邦/PROPN 却/ADV 一直/ADV 声称/VERB 此类/DET 产品/NOUN 是/VERB 安全/VERB 的/PART 。/PUNCT

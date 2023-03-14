@@ -1,0 +1,48 @@
+职场/NOUN 人/NOUN 办公室/NOUN 六忌/NOUN 你/PRON 占/VERB 了/PART 几/NUM 项/NUM
+
+1/NUM 、/PUNCT 选出/VERB 你/PRON 多/ADV 具有/VERB 的/PART 小动作/NOUN
+
+轻举妄动/VERB
+
+角色/NOUN 不明/VERB
+
+单打独斗/VERB
+
+优柔寡断/PROPN
+
+适应性/NOUN 差/VERB
+
+掩饰/NOUN 错误/VERB
+
+2/NUM 、/PUNCT 你/PRON 觉得/VERB 这些/DET 小动作/NOUN 有/VERB 影响/VERB 到/VERB 你/PRON 的/PART 仕途/NOUN 发展/VERB 吗/PART ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+不/ADV 知道/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT 第1/NUM 页/NUM
+:/PUNCT 轻举妄动/VERB 第2/NUM 页/NUM :/PUNCT 适应性/VERB 差/VERB 　　/SPACE 办公室/NOUN 中/PART 有/VERB 一个/NUM 基本/ADJ 的/PART 道理/NOUN ：/PUNCT 无心/ADJ 的/PART 小/ADJ 疏忽/NOUN 有时/ADV 会/VERB 酿成/VERB 事业/NOUN 上/PART 的/PART 大/ADJ 陷阱/NOUN 。/PUNCT
+只要/SCONJ 知道/VERB 陷阱/NOUN 何在/VERB ，/PUNCT 就/ADV 能/VERB 避开/VERB 。/PUNCT
+美国/PROPN 著名/ADJ 的/PART 贝顿/NOUN 。/PUNCT
+迪克森/PROPN 人才/NOUN 资源/NOUN 公司/NOUN 曾/ADV 对/ADP 2000多/NUM 名/NUM 公司/NOUN 主管/NOUN 进行/VERB 调查/NOUN ，/PUNCT 根据/ADP 这些/DET 主管/NOUN 的/PART 意见/NOUN ，/PUNCT 归纳/VERB 出/VERB 如下/ADJ 6点/NOUN 最/ADV 常见/VERB 的/PART 错误/NOUN ：/PUNCT
+
+轻举妄动/VERB 　　/SPACE 繁忙/VERB 的/PART 工作/NOUN 之中/PART 必然/ADV 会/VERB 有/VERB 冲突/NOUN ，/PUNCT 在/ADP 你/PRON 作出/VERB 某个/DET 决定/NOUN 之前/PART ，/PUNCT 一定/ADV 要/VERB “/PUNCT 三思而后行/VERB ”/PUNCT 。/PUNCT
+有/VERB 一点/NUM 更/ADV 重要/VERB ，/PUNCT 那/PRON 就是/ADV 你/PRON 若/SCONJ 与/ADP 可能/VERB 让/VERB 你/PRON 丢掉/VERB 饭碗/NOUN 的/PART 人/NOUN 发生/VERB 冲突/NOUN 时/PART ，/PUNCT 一定/ADV 要/VERB 问/VERB 一/ADV 问/VERB 自己/PRON ，/PUNCT 我/PRON 究竟/ADV 想/VERB 得到/VERB 什么样/ADJ 的/PART 结果/NOUN ？/PUNCT
+大家/PRON 讲/VERB 一下/ADV 你/PRON 眼中/NOUN 最/ADV 有/VERB 魅力/NOUN 的/PART 职场/NOUN 女人/NOUN
+
+角色/NOUN 不明/VERB 　　/SPACE 如果/SCONJ 上司/NOUN 没有/ADV 说/VERB 清楚/VERB 你/PRON 的/PART 职责/NOUN 范围/NOUN ，/PUNCT 也/ADV 没/ADV 说明/VERB 对/ADP 你/PRON 的/PART 工作/NOUN 要求/NOUN ，/PUNCT 你/PRON 应该/VERB 不断/ADV 询问/VERB ，/PUNCT 直到/ADP 完全/ADV 明白/VERB 为止/PART 。/PUNCT
+弄清/VERB 自己/PRON 在/ADP 公司/NOUN 的/PART 所/PART 扮演/VERB 的/PART 角色/NOUN ，/PUNCT 正确/ADV 行使/VERB 和/CCONJ 履行/VERB 自己/PRON 的/PART 职责/NOUN ，/PUNCT 才/ADV 不至于/ADV 让/VERB 自己/PRON 处处/ADV 为难/VERB 。/PUNCT
+ /SPACE 淑女/NOUN 就是/VERB 淑女/NOUN [1/NUM ]/NOUN  /SPACE [/PROPN 2/NUM ]/NOUN  /SPACE 下/DET 一/NUM 页/NUM  /SPACE 搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 财务部/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+28/NUM ,/PUNCT 511/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

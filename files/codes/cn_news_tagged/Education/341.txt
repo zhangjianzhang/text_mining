@@ -1,0 +1,136 @@
+A/PROPN new/NOUN report/NOUN by/ADP the/DET International/PROPN Labor/PROPN Organization/NOUN ,/PUNCT ILO/PROPN ,/PUNCT
+says/NOUN child/VERB
+
+labor/NOUN ,/PUNCT especially/VERB in/ADP its/NOUN worst/NOUN forms/VERB ,/PUNCT is/VERB in/ADP decline/PROPN for/ADP the/DET first/ADJ time/NOUN across/VERB
+
+the/DET globe/NOUN ./PUNCT
+Between/PROPN 2000/NUM and/CCONJ 2004/NUM ,/PUNCT the/DET ILO/NOUN report/NOUN finds/VERB the/DET number/NOUN of/ADP child/NOUN
+
+laborers/PROPN worldwide/NOUN fell/PROPN by/ADP 11/NUM percent/NOUN from/ADP 246/NUM million/NOUN to/ADP 218/NUM million/NOUN ./PUNCT
+
+国际/NOUN 劳工/NOUN 组织/NOUN 发表/VERB 的/PART 一/NUM 份/NUM 新/ADJ 的/PART 报告/NOUN 说/VERB ，/PUNCT 儿童/NOUN 劳工/NOUN ，/PUNCT 特别是/ADV 形式/NOUN 最/ADV 恶劣/VERB 的/PART 童工/NOUN ，/PUNCT 在/ADP 世界/NOUN 范围/NOUN 内/PART 第一/NUM 次/NUM 出现/VERB 了/PART 下降/VERB 的/PART 趋势/NOUN 。/PUNCT
+根据/ADP 国际/NOUN 劳工/NOUN 组织/NOUN 的/PART 这/DET 份/NUM 报告/NOUN ，/PUNCT 在/ADP 2000年/NOUN 到/CCONJ 2004年/NOUN 间/PART ，/PUNCT 世界/NOUN 童工/NOUN 人数/NOUN 下降/VERB 了/PART 11%/NOUN ，/PUNCT
+
+从/ADP 两亿四千六百万/NUM 人/NOUN 降低/VERB 到/VERB 两亿一千八百万/NUM 人/NOUN 。/PUNCT
+
+The/DET International/PROPN Labor/PROPN Organization/NOUN says/NOUN the/DET good/PROPN news/PROPN goes/NOUN on/NOUN ./PUNCT
+It/NOUN notes/PROPN
+
+the/DET number/NOUN of/ADP children/PROPN and/CCONJ young/NOUN people/NOUN between/VERB the/DET age/NOUN of/ADP five/PROPN and/CCONJ 17/NUM trapped/NOUN
+
+in/ADP hazardous/PROPN work/NOUN decreased/PROPN by/ADP 26/NUM percent/NOUN ./PUNCT
+It/NOUN fell/VERB to/ADP 126/NUM million/NOUN in/NOUN 2004/NUM from/ADP a/NUM
+
+p/NOUN revious/NOUN estimate/VERB of/ADP 171/NUM million/NOUN ./PUNCT
+
+国际/NOUN 劳工/NOUN 组织/NOUN 说/VERB ，/PUNCT 好/ADJ 消息/NOUN 出现/VERB 了/PART ：/PUNCT 从事/VERB 危险/ADJ 工作/NOUN 的/PART 五/NUM 岁/NUM 到/CCONJ 十七/NUM 岁/NUM 的/PART 儿童/NOUN 和/CCONJ 青少年/NOUN 人数/NOUN 下降/VERB 了/PART 26%/NUM ，/PUNCT 从/ADP 以前/NOUN 估计/VERB 的/PART 一亿七千一百万/NUM 人/NOUN 下降/VERB 到/VERB 2004年/NOUN 的/PART 一亿两千六百万/NUM 人/NOUN 。/PUNCT
+
+ILO/NOUN Executive/NOUN Director/NOUN ,/PUNCT Kari/VERB Tapiola/NOUN ,/PUNCT says/NOUN these/NOUN latest/VERB figures/PRON make/NOUN the/DET
+
+ILO/PROPN cautiously/NOUN optimistic/PROPN that/NOUN the/DET fight/NOUN against/VERB child/NOUN labor/NOUN can/VERB be/ADV won/NOUN ./PUNCT
+
+国际/NOUN 劳工/NOUN 组织/NOUN 的/PART 执行长/NOUN 塔皮奥拉说/PROPN ，/PUNCT 最近/NOUN 的/PART 数字/NOUN 使得/VERB 国际/NOUN 劳工/NOUN 组织/NOUN 感到/VERB 谨慎/VERB 的/PART 乐观/NOUN 。/PUNCT
+他们/PRON 认为/VERB 消除/VERB 童工/NOUN 的/PART 运动/NOUN 正在/ADV 取得/VERB 胜利/NOUN 。/PUNCT
+
+"It/PROPN is/VERB feasible/ADP that/NOUN within/NOUN a/NUM period/NOUN of/ADP say/NOUN 10/NUM years/VERB ,/PUNCT we/NOUN could/PROPN get/PROPN rid/NOUN
+of/ADP
+
+the/DET whole/ADJ issue/NOUN of/ADP worst/PROPN forms/PROPN of/ADP child/VERB labor/NOUN ,/PUNCT "/PUNCT he/X said/VERB ./PUNCT "/PUNCT
+Now/PROPN that/NOUN is/VERB a/NUM very/ADJ
+
+tall/NOUN order/NOUN ./PUNCT
+If/NOUN the/DET international/PROPN attention/NOUN is/VERB maintained/NOUN and/CCONJ if/VERB it/NOUN continues/NOUN
+to/ADP
+
+be/PROPN translated/NOUN in/ADP to/ADP concrete/PROPN global/PROPN support/NOUN for/ADP action/PROPN ,/PUNCT then/PROPN we/NOUN believe/VERB it/NOUN is/VERB
+
+realistic/PROPN to/ADP arrive/NUM at/ADP this/PRON task/VERB ./PUNCT "/PUNCT
+
+他/PRON 说/VERB ：/PUNCT “/PUNCT
+
+这是/VERB 可行/VERB 的/PART ，/PUNCT 譬如说/ADV 在/ADP 十/NUM 年内/PART ，/PUNCT 我们/PRON 彻底/ADV 消除/VERB 最/ADV 恶劣/ADJ 形式/NOUN 的/PART 童工/NOUN 。/PUNCT
+目前/NOUN ，/PUNCT 这/DET 一点/ADV 还/ADV 很/ADV 难/ADV 实现/VERB 。/PUNCT
+但/ADV 如果/SCONJ 国际/NOUN 间/PART 能够/VERB 继续/VERB 关注/VERB 这个/DET 问题/NOUN ，/PUNCT 继续/VERB 得到/VERB 全世界/NOUN 的/PART 支持/NOUN ，/PUNCT 我们/PRON 相信/VERB 我们/PRON 可以/VERB 实际/ADV 达到/VERB 这/DET 一/NUM 目标/NOUN 。/PUNCT ”/PUNCT
+
+The/DET ILO/NOUN describes/NOUN the/DET worst/NOUN forms/PROPN of/ADP child/PROPN labor/NOUN as/NOUN activities/ADJ that/NOUN are/VERB
+
+illegal/VERB ./PUNCT
+These/PROPN include/NOUN child/NOUN prostitution/NOUN ,/PUNCT the/DET use/NOUN of/ADP children/PROPN for/ADP drug/PROPN
+
+trafficking/NOUN or/CCONJ pornographic/NOUN purposes/NOUN and/CCONJ debt/NOUN bondage/NOUN ./PUNCT
+Four/NOUN years/ADV a/NUM go/NOUN ,/PUNCT the/DET ILO/NOUN
+
+estimated/VERB at/ADP least/PROPN eight/ADJ million/NOUN children/PROPN work/NOUN in/NOUN these/NOUN areas/VERB ./PUNCT
+
+国际/NOUN 劳工/NOUN 组织/NOUN 认为/VERB 最/ADV 恶劣/ADJ 形式/NOUN 的/PART 童工/NOUN 是/VERB 非法/ADJ 活动/VERB ，/PUNCT 包括/VERB 儿童/NOUN 娼妓/NOUN ，/PUNCT 利用/VERB 儿童/NOUN 运输/VERB 毒品/NOUN 、/PUNCT 制作/VERB 色情/NOUN 刊物/NOUN 或/CCONJ 抵偿/NOUN 债务/NOUN 。/PUNCT
+四/NUM 年前/PART ，/PUNCT 国际/NOUN 劳工/NOUN 组织/NOUN 估计/VERB ，/PUNCT 至少/ADV 有/VERB 八百万/NUM 名/NUM 儿童/NOUN 在/ADP 这些/DET 领域/NOUN 工作/NOUN 。/PUNCT
+
+The/DET ILO/NOUN also/VERB considers/PROPN hazardous/PROPN work/NOUN ,/PUNCT that/ADV is/VERB work/NOUN that/NOUN endangers/VERB a/NUM
+
+child/NOUN 's/VERB life/VERB and/CCONJ heal/VERB th/NOUN ,/PUNCT to/ADP be/ADP among/PROPN the/DET worst/NOUN forms/PROPN of/ADP child/VERB labor/NOUN ./PUNCT
+This/PRON
+
+includes/VERB deep/NOUN -/PUNCT sea/NOUN diving/NOUN ,/PUNCT certain/NOUN forms/PROPN of/ADP domestic/PROPN work/NOUN and/CCONJ quarry/VERB mining/VERB ./PUNCT
+
+国际/NOUN 劳工/NOUN 组织/NOUN 也/ADV 提到/VERB 了/PART 危险/VERB 的/PART 工作/NOUN ，/PUNCT 他们/PRON 认为/VERB 可能/VERB 给/ADP 儿童/NOUN 带来/VERB 生命/NOUN 或/CCONJ 健康/ADJ 危险/NOUN 的/PART 工作/NOUN 也/ADV 是/VERB 最/ADV 恶劣/ADJ 形式/NOUN 的/PART 儿童/NOUN 劳工/NOUN ，/PUNCT 包括/VERB 深海/ADJ 潜水/NOUN ，/PUNCT 某些/DET 形式/NOUN 的/PART 家庭/NOUN 帮佣/NOUN 和/CCONJ 采矿/NOUN 。/PUNCT
+
+The/DET report/NOUN finds/VERB the/DET most/NOUN rapid/NOUN decline/NOUN in/ADP child/PROPN labor/NOUN has/PROPN occurred/PROPN in/NOUN
+
+Latin/PROPN America/NOUN and/CCONJ the/DET Caribbean/NOUN ./PUNCT
+Asia/NOUN and/CCONJ the/DET Pacific/NOUN also/PROPN registered/ADV a/NUM
+
+significant/NOUN drop/NOUN in/ADP the/DET number/NOUN of/ADP working/NOUN children/VERB ./PUNCT
+But/NOUN ,/PUNCT the/DET ILO/NOUN says/NOUN this/PRON
+
+region/NOUN still/NOUN has/PROPN the/DET largest/NOUN number/NOUN of/ADP child/PROPN workers/NOUN in/ADP the/DET five/VERB to/ADP 14/NUM age/NOUN
+
+group/PROPN ,/PUNCT about/PROPN 122/NUM million/NOUN ./PUNCT
+
+这/DET 份/NUM 报告/NOUN 发现/VERB 童工/NOUN 人数/NOUN 下降/VERB 最/ADV 快/VERB 的/PART 地方/NOUN 是/VERB 拉美/PROPN 和/CCONJ 加勒比海/PROPN 。/PUNCT
+亚洲/PROPN 和/CCONJ 太平洋/PROPN 地区/NOUN 的/PART 童工/NOUN 人数/NOUN 也/ADV 有/VERB 大幅度/ADJ 下降/NOUN 。/PUNCT
+可是/ADV 世界/NOUN 劳工/NOUN 组织/NOUN 说/VERB ，/PUNCT 这/DET 一/NUM 地区/NOUN 内/PART ，/PUNCT 5/NUM 岁/NUM 到/CCONJ 14/NUM 岁/NUM 的/PART 童工/NOUN 人数/NOUN 仍然/ADV 很多/NUM ，/PUNCT 高达/VERB 一亿两千两百万/NUM 人/NOUN 。/PUNCT
+
+Tapiola/PROPN says/NOUN the/DET sub/NOUN -/PUNCT Saharan/PROPN A/NOUN frica/NOUN region/NOUN has/PROPN the/DET highest/NUM proportion/NOUN
+of/ADP
+
+children/PROPN engaged/NOUN in/NOUN economic/NUM activities/NOUN of/ADP any/PROPN region/NOUN in/ADP the/DET world/VERB ./PUNCT
+He/VERB says/NOUN 26/NUM
+
+percent/NOUN of/ADP the/DET child/NOUN population/NOUN ,/PUNCT or/CCONJ almost/NOUN 50/NUM million/NOUN A/NOUN frican/NOUN children/PROPN work/NOUN ./PUNCT
+
+塔皮奥拉说/PROPN ，/PUNCT 非洲/PROPN 撒哈拉/PROPN 以南/PART 地区/NOUN 从事/VERB 经济/NOUN 活动/NOUN 的/PART 儿童/NOUN 按/ADP 比例/NOUN 计算/VERB 多于/VERB 全球/NOUN 任何/DET 其他/DET 地区/NOUN ，/PUNCT 占/VERB 当地/NOUN 全体/DET 儿童/NOUN 人数/NOUN 的/PART 26%/NUM ，/PUNCT 也/ADV 就是/ADV 将近/ADV 5千万/NUM 名/NUM 非洲/PROPN 儿童/NOUN 被迫/ADV 做工/VERB 。/PUNCT
+
+"/PUNCT The/DET least/NOUN progress/NOUN has/PROPN been/NOUN made/NOUN in/ADP sub/NOUN -/PUNCT Saharan/PROPN A/NOUN frica/NOUN ,/PUNCT unfortunately/PROPN ,/PUNCT
+
+where/NOUN there/NOUN are/VERB problems/NOUN of/ADP infrastructure/VERB ,/PUNCT of/ADP conflict/PROPN ,/PUNCT of/ADP population/NOUN growth/NOUN
+
+rates/NOUN ,/PUNCT HIV/PROPN //PUNCT A/NOUN IDS/NOUN infection/NOUN and/CCONJ so/NOUN on/NOUN ,/PUNCT "/PUNCT he/X added/VERB ./PUNCT
+
+他/PRON 说/VERB ：/PUNCT “/PUNCT 不幸/VERB 的/PART 是/VERB ，/PUNCT 非洲/PROPN 撒哈拉/PROPN 以南/PART 地区/NOUN 的/PART 进步/NOUN 最/ADV 小/VERB 。/PUNCT
+这/DET 一/NUM 地区/NOUN 在/ADP 公用/ADJ 设施/NOUN 、/PUNCT 武装/NOUN 冲突/NOUN 、/PUNCT 人口/NOUN 增长/NOUN 、/PUNCT 爱滋病/NOUN 传染/NOUN 等/PART 方面/NOUN 都/ADV 存在/VERB 着/PART 问题/NOUN 。/PUNCT ”/PUNCT
+
+But/NOUN Tapiola/PROPN says/NOUN there/NOUN are/VERB some/NOUN hopeful/PRON signs/VERB that/VERB the/DET situation/NOUN of/ADP child/NOUN
+
+labor/NOUN can/VERB get/VERB better/NOUN in/ADV A/NOUN frica/VERB ./PUNCT
+He/NOUN notes/PROPN that/NOUN primary/VERB school/NOUN enrollments/VERB in/ADP the/DET
+
+region/NOUN increased/PROPN by/ADP 38/NUM percent/NOUN between/VERB 1990/NOUN and/CCONJ 2000/NUM ./PUNCT
+
+可是/ADV 塔皮奥拉说/VERB ，/PUNCT 当地/NOUN 也/ADV 出现/VERB 了/PART 一些/NUM 希望/NOUN ，/PUNCT 使得/VERB 非洲/PROPN 的/PART 童工/NOUN 问题/NOUN 可能/ADV 渐渐/ADV 好转/VERB 。/PUNCT
+他/PRON 说/VERB ，/PUNCT 从/ADP 1990年/NOUN 到/CCONJ 2000年/NOUN 间/PART ，/PUNCT 这/DET 一/NUM 地区/NOUN 的/PART 小学/NOUN 入学率/NOUN 增加/VERB 了/PART 38%/NOUN 。/PUNCT
+
+The/DET report/NOUN at/ADP tributes/NOUN the/DET reduction/NOUN in/ADP child/PROPN labor/NOUN to/ADP increased/PROPN political/NOUN
+
+will/NOUN and/CCONJ public/ADJ awareness/NOUN of/ADP the/DET problem/VERB ./PUNCT
+Tapiola/PROPN says/NOUN a/NUM worldwide/NOUN movement/NOUN
+
+against/VERB child/VERB labor/NOUN has/PROPN been/NOUN gathering/VERB steam/NOUN ./PUNCT
+He/VERB says/NOUN more/VERB consumers/PROPN are/VERB
+
+boycotting/PROPN goods/PROPN that/NOUN are/VERB produced/NOUN by/ADP children/PROPN and/CCONJ this/NOUN is/VERB having/PROPN an/NOUN effect/VERB ./PUNCT
+
+这/DET 份/NUM 报告/NOUN 认为/VERB ，/PUNCT 童工/NOUN 减少/VERB 是/VERB 因为/ADP 人们/NOUN 提高/VERB 了/PART 解决/VERB 这个/DET 问题/NOUN 的/PART 政治/NOUN 意志/NOUN ，/PUNCT 加强/VERB 了/PART 对/ADP 这/DET 一/NUM 问题/NOUN 的/PART 关注/NOUN 。/PUNCT
+塔皮/PROPN 奥拉说/PROPN ，/PUNCT 全球性/ADJ 的/PART 消除/VERB 童工/NOUN 运动/NOUN 越来越/ADV 声势/VERB 浩大/VERB 。/PUNCT
+特别是/ADV 越来越/ADV 多/VERB 的/PART 消费者/NOUN 抵制/VERB 童工/NOUN 产品/NOUN ，/PUNCT 这/PRON 对/ADP 消除/VERB 童工/NOUN 也/ADV 起到/VERB 了/PART 作用/NOUN 。/PUNCT
+
+来源/NOUN :/PUNCT VOA/PROPN 慢速/ADJ 英语/NOUN 网/NOUN

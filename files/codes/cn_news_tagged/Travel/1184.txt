@@ -1,0 +1,8 @@
+新华/PROPN 网呼/NOUN 和/CCONJ 浩特/VERB [图/PROPN 库]/PROPN 专电/NOUN （/PUNCT 记者/NOUN 李云平/PROPN ）/PUNCT
+记者/NOUN 从/ADP 内蒙古/PROPN [图/PROPN 库]/PROPN 自治区/NOUN 政府/NOUN 办公厅/NOUN 获悉/VERB ，/PUNCT 兴安盟/PROPN 政府/NOUN 所在地/NOUN 乌兰浩特/PROPN [图/PROPN 库]/PROPN 至/CCONJ 大连/PROPN 的/PART Ｎ１０５／１０６/PROPN 直达/VERB 快速/ADJ 旅客/NOUN 列车于/NOUN 日前/NOUN 正式/ADV 开通/VERB ，/PUNCT 为/ADP 内蒙古/PROPN 东北部/NOUN 地区/NOUN 连接/VERB 东北/NOUN 三/NUM 省/NOUN 提供/VERB 了/PART 一/NUM 条/NUM 重要/VERB 的/PART 便捷/ADJ 通道/NOUN 。/PUNCT
+
+本次/ADV 列车/NOUN 由/ADP ７/NUM 节/NUM 硬卧/NOUN 车厢/NOUN 、/PUNCT ４/NUM 节/NUM 硬座/NOUN 车厢/NOUN 、/PUNCT １/NUM 节/NUM 软卧/NOUN 车厢/NOUN 和/CCONJ １/NUM 节/NUM 餐车/NOUN 组成/VERB ，/PUNCT 每日/ADV １２时４０分/NOUN 从/ADP 乌兰浩特/PROPN 始发/NOUN ，/PUNCT 次日/NOUN ５时４２分/NOUN 到达/VERB 大连/PROPN ，/PUNCT 全程/ADV １１１８/NUM 公里/NUM ，/PUNCT 运行/NOUN 时间/NOUN １７/NUM 小时/NOUN ０２/NUM 分/VERB 。/PUNCT
+其中/NOUN 到达/VERB 长春/PROPN 时间/NOUN 为/VERB １８时５１分/NOUN ，/PUNCT 到达/VERB 沈阳/PROPN 时间/NOUN 为/VERB ０时１５分/NOUN 。/PUNCT
+大连站/NOUN 始发/ADJ 时间/NOUN 为/VERB １９时０５分/NOUN ，/PUNCT 第二/NUM 天/NUM １１时２６分/NOUN 到达/VERB 乌兰浩特/PROPN ，/PUNCT 全程/ADV 运行/VERB 时间/NOUN １６时２１分/NOUN 。/PUNCT
+其中/NOUN 到达/VERB 沈阳/PROPN 的/PART 时间/NOUN 为/VERB １时０５分/NOUN ，/PUNCT 到达/VERB 长春/PROPN 时间/NOUN 为/VERB ５时/NOUN 。/PUNCT
+（/PUNCT 完/VERB ）/PUNCT

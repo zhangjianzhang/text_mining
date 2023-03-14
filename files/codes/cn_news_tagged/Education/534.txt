@@ -1,0 +1,60 @@
+【/PUNCT 来源/NOUN ：/PUNCT 外语/NOUN 教育网/NOUN 】/PUNCT
+
+Directions/NOUN :/PUNCT
+
+A/NOUN ./PUNCT
+Title/PROPN :/PUNCT Globle/PROPN Shortage/PROPN of/ADP Fresh/PROPN Water/PROPN
+
+B/NOUN ./PUNCT
+Word/NOUN Limit/PROPN :/PUNCT about/PROPN 200/NUM words/NUM
+
+C/NOUN ./PUNCT
+Your/PRON composition/VERB should/VERB be/ADJ based/PROPN on/ADP the/DET Outline/PROPN given/NOUN in/ADJ Chinese/PROPN
+
+below/PROPN :/PUNCT
+
+1./NUM 人们/NOUN 认为/VERB 淡水/PROPN 是/VERB 取之不尽/VERB 的/PART （/PUNCT 提示/NOUN ：/PUNCT 雨水/NOUN ，/PUNCT 河水/NOUN ，/PUNCT 井水/NOUN ）/PUNCT
+
+2/NUM ./PUNCT 实际上/ADV 淡水/PROPN 是/VERB 短缺/VERB 的/PART （/PUNCT 提示/NOUN ：/PUNCT 人口/NOUN 增加/VERB ，/PUNCT 工业/NOUN 用水/NOUN 增加/VERB ，/PUNCT 污染/NOUN 严重/VERB ）/PUNCT
+
+3/NUM ./PUNCT 我们/PRON 应当/VERB 怎么办/VERB （/PUNCT 提示/NOUN ：/PUNCT 节约/VERB 用水/NOUN ，/PUNCT 开发/VERB 新/ADJ 水源/NOUN ）/PUNCT
+
+例文/NOUN ：/PUNCT
+
+Global/PROPN Shortage/PROPN of/ADP Fresh/PROPN Water/PROPN
+
+People/PROPN often/ADP think/NOUN that/NOUN water/NOUN will/VERB never/PROPN be/NOUN used/VERB up/ADV ./PUNCT
+There/PROPN is/VERB plenty/NOUN
+of/ADP
+
+water/NOUN ,/PUNCT such/NOUN as/ADJ rain/NOUN ,/PUNCT water/PROPN from/ADP the/DET rivers/NOUN and/CCONJ wells/NOUN ./PUNCT
+It/NOUN seems/NOUN as/ADV if/NOUN water/NOUN is/VERB
+
+always/ADV available/VERB around/PROPN us/NOUN and/CCONJ we/NOUN never/NOUN have/PROPN to/ADP worry/NOUN about/VERB water/PROPN shortage/VERB ./PUNCT
+
+In/NOUN fact/VERB water/PROPN is/VERB rather/NOUN limited/VERB on/ADP the/DET earth/VERB ./PUNCT
+With/VERB the/DET rapid/NOUN increase/PROPN of/ADP
+
+population/NOUN and/CCONJ fast/NOUN development/NOUN of/ADP industries/NOUN ,/PUNCT water/PROPN is/VERB more/ADJ needed/NOUN than/NOUN before/VERB ./PUNCT
+
+At/NOUN the/DET same/NOUN time/NOUN ,/PUNCT a/NUM large/NOUN amount/VERB of/ADP water/PROPN has/PROPN been/NOUN polluted/NOUN and/CCONJ wasted/NOUN every/NOUN
+
+day/PROPN ./PUNCT
+Some/NOUN big/ADJ cities/NOUN in/ADP China/PROPN are/VERB facing/VERB the/DET problem/VERB of/ADP water/PROPN shorage/NOUN already/VERB ./PUNCT
+
+There/PROPN ,/PUNCT water/PROPN supply/NOUN is/VERB controlled/NOUN and/CCONJ industry/PROPN has/PROPN been/NOUN restrained/NOUN ./PUNCT
+
+What/PROPN should/NOUN we/NOUN do/VERB about/VERB the/DET water/NOUN shorage/NOUN ?/PUNCT
+I/PRON think/VERB ,/PUNCT first/VERB ,/PUNCT the/DET people/NOUN
+
+should/PROPN be/PROPN made/NOUN aware/VERB of/ADP the/DET real/NOUN situation/NOUN about/VERB the/DET water/NOUN ./PUNCT
+Everyone/PROPN should/NOUN
+
+consciously/PROPN save/NOUN on/ADP water/PROPN and/CCONJ certain/NOUN law/PROPN should/VERB be/NOUN made/NOUN that/ADV no/NOUN water/PROPN will/NOUN be/PROPN
+
+polluted/NOUN ./PUNCT
+We/NOUN have/PROPN to/ADP protect/VERB the/DET existing/VERB water/NOUN resources/NOUN and/CCONJ develop/PROPN new/NOUN ones/NOUN ./PUNCT
+
+In/NOUN this/NOUN way/NOUN I/PRON believe/PROPN that/NOUN our/NOUN cities/NOUN will/VERB not/PROPN be/ADJ thirsty/NOUN for/ADP water/NOUN in/ADP the/DET
+
+future/NOUN ./PUNCT

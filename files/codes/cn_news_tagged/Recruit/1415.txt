@@ -1,0 +1,11 @@
+北京/PROPN 宝洁/PROPN 人力/NOUN 资源/NOUN 经理/NOUN Maurits/PROPN
+
+以下/PRON 为/ADP 北京/PROPN 宝洁/PROPN 人力/NOUN 资源/NOUN 经理/NOUN Maurits/PROPN 发表/VERB 获奖/VERB 感言/NOUN ：/PUNCT
+
+Wesseling/PROPN Maurits/NOUN ：/PUNCT 女士们/NOUN 、/PUNCT 先生们/PROPN ，/PUNCT 非常/ADV 感谢/VERB ！/PUNCT
+
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 北京/PROPN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+214/NUM ,/PUNCT 927/NUM ,/PUNCT 467/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT

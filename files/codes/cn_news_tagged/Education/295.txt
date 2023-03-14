@@ -1,0 +1,61 @@
+购物/NOUN 是/VERB 日常/ADJ 生活/NOUN 中/PART 的/PART 重要/ADJ 活动/NOUN 。/PUNCT
+英美/NOUN 等/PART 西方/NOUN 国家/NOUN 的/PART 购物场/NOUN 所有/DET 外观/NOUN 气派/VERB 的/PART department/NOUN stores/NOUN ，/PUNCT 有/VERB 货物/NOUN 齐全/VERB 、/PUNCT 购物/VERB 便利/VERB 的/PART
+
+super/NOUN markets/NOUN 等等/PART 。/PUNCT
+如果/SCONJ 你/PRON 想/VERB 去/VERB 小/ADJ 商店/NOUN 或/CCONJ 百货/NOUN 商场/NOUN 购买/VERB 一些/NUM 物美价廉/VERB 的/PART 东西/NOUN ，/PUNCT 不光/ADV 要/VERB 精心/ADV 挑选/VERB ，/PUNCT 还要/ADV 学会/VERB 如何/ADV 去/VERB 讨价还价/VERB 。/PUNCT
+先/ADV 学/VERB 几/NUM 招/NOUN 吧/PART ！/PUNCT
+
+［/PUNCT 加料区/PROPN ］/PUNCT
+
+1./NOUN Can/NOUN you/PRON come/PROPN down/NOUN a/NUM bit/NOUN ？/PUNCT
+你/PRON 能/VERB 不/ADV 能/VERB 便宜/VERB 点/ADV ？/PUNCT
+
+2/NUM ./PUNCT I/PRON ’/PUNCT m/NOUN sure/NOUN you/PRON can/VERB do/VERB better/PROPN than/NOUN that/VERB ./PUNCT
+我/PRON 相信/VERB 你/PRON 可以/VERB 卖/VERB 得/PART 更/ADV 公道/VERB 点/ADV 。/PUNCT
+
+3/NUM ./PUNCT Sheer/PROPN robbery/NOUN ！/PUNCT
+太/ADV 贵/VERB ！/PUNCT
+
+4./NUM It/NOUN ’/PUNCT s/NOUN a/NOUN real/NOUN bargain/PROPN ./PUNCT
+真/ADV 便宜/VERB 。/PUNCT
+
+5./NUM 1000/NOUN dollars/NOUN ，/PUNCT you/PRON can/VERB ’/PUNCT t/NOUN be/ADJ wrong/NOUN on/NOUN that/NOUN ./PUNCT
+1000/NUM 美元/NUM ，/PUNCT 这个/DET 价钱/NOUN 您/PRON 不/ADV 会/VERB 吃亏/VERB 的/PART 。/PUNCT
+
+6/NUM ./PUNCT We/NOUN will/VERB offer/VERB you/PRON a/NUM special/NOUN discount/NOUN of/ADP five/PROPN percent/NOUN ./PUNCT
+我们/PRON 给/ADP 你/PRON 打/VERB 九五/NOUN 折/NOUN 吧/PART 。/PUNCT
+
+7./NUM Well/NUM then/NOUN ，/PUNCT how/PROPN about/PROPN splitting/VERB the/DET difference/NOUN ？/PUNCT
+那/ADV 好/VERB 吧/PART ，/PUNCT 各/ADV 让/VERB 一半/NUM 怎么样/VERB ？/PUNCT
+
+8/NUM ./PUNCT
+Can/ADV you/PRON sell/NOUN it/VERB for/NOUN 3/NUM pounds/NOUN ？/PUNCT
+3/NUM 英镑/NUM 你/PRON 卖/VERB 吗/PART ？/PUNCT
+
+9/NUM ./PUNCT
+That/NOUN ’/PUNCT s/ADP the/DET best/NOUN we/NOUN can/VERB do/VERB ./PUNCT
+我们/PRON 不/ADV 能/VERB 再/ADV 让/VERB 了/PART 。/PUNCT
+
+10/NUM ./PUNCT
+You/PRON won/NOUN ’t/VERB get/PRON a/NUM better/PROPN buy/NOUN than/VERB this/PRON one/NOUN ./PUNCT
+你/PRON 再/ADV 买/VERB 不/ADV 到/VERB 比/ADP 这个/PRON 更/ADV 便宜/VERB 的/PART 了/PART 。/PUNCT
+
+［/PUNCT 聊天室/VERB ］/PUNCT
+
+A/NOUN ：/PUNCT I/PRON like/NOUN this/PRON shirt/NOUN ./PUNCT
+How/NOUN much/NOUN is/VERB it/NOUN ？/PUNCT
+
+B/NOUN ：/PUNCT $/NOUN 135/NUM ./PUNCT
+
+A/NOUN ：/PUNCT This/PRON is/VERB nice/NOUN ，/PUNCT but/ADV I/PRON suppose/NOUN it/NOUN ’/PUNCT s/NOUN too/ADV expensive/VERB ./PUNCT
+Can/ADV you/PRON work/NOUN it/VERB down/NOUN a/NUM
+
+little/VERB ？/PUNCT
+
+B/NOUN ：/PUNCT We/NOUN will/VERB offer/VERB you/PRON a/NUM special/NOUN discount/VERB of/ADP ten/NOUN percent/NOUN ./PUNCT
+
+A/NOUN ：/PUNCT I/PRON can/VERB give/VERB you/PRON no/VERB more/NOUN than/NOUN $/NOUN 100/NUM ./PUNCT
+Can/ADV you/PRON sell/NOUN it/VERB for/NOUN that/VERB ？/PUNCT
+
+B/NOUN ：/PUNCT Sorry/PROPN ，/PUNCT sir/NOUN ./PUNCT
+That/NOUN ’/PUNCT s/ADP the/DET best/NOUN we/NOUN can/VERB do/VERB ./PUNCT

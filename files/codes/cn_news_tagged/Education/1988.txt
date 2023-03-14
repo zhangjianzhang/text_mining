@@ -1,0 +1,18 @@
+1．结尾万/NOUN 能/VERB 公式/VERB 一/NUM ：/PUNCT 如此/ADJ 结论/NOUN 说/VERB 完了/VERB ，/PUNCT 毕竟/ADV 要/VERB 归纳/VERB 一番/ADV ，/PUNCT 相信/VERB 各位/PRON 都/ADV 有/VERB 这样/ADJ 的/PART 经历/NOUN ，/PUNCT 领导/NOUN 长篇大论/VERB ，/PUNCT 到/ADP 最后/ADV 终于/ADV 冒出/VERB 个/NUM “/PUNCT 总而言之/NOUN ”/PUNCT 之类/NOUN 的话/PART ，/PUNCT 我们/PRON 马上/ADV 停止/VERB 开小差/NOUN ，/PUNCT 等待/VERB 领导/NOUN 说/VERB 结束语/NOUN 。/PUNCT
+也就是说/ADV ，/PUNCT 开头/NOUN 很/ADV 好/VERB ，/PUNCT 也/ADV 必然/ADV 要/VERB 有/VERB 一个/ADV 精彩/ADJ 的/PART 结尾/NOUN ，/PUNCT 让/VERB 读者/NOUN 眼前/NOUN 一/ADV 亮/VERB ，/PUNCT 这样/ADV ，/PUNCT 你/PRON 就/ADV 可以/VERB 拿/VERB 高分/NOUN 了/PART ！/PUNCT
+比如/ADV 下面/NOUN 的/PART 例子/NOUN ：/PUNCT obviously/PROPN （/PUNCT 此/PRON 为/VERB 过渡/NOUN 短语/NOUN ）/PUNCT
+
+wecandrawtheconclusionthatgoodmannersarisefrompolitenessandrespectforothers/VERB ./PUNCT
+如果/SCONJ 读者/NOUN 很/ADV 难/VERB “/PUNCT 显/VERB 而/PART 见/VERB 之/PART ”/PUNCT ，/PUNCT 但/ADV 说/VERB 无妨/VERB ，/PUNCT 就/ADV 当/ADP 读者/NOUN 的/PART 眼光/NOUN 太/ADV 浅/VERB 罢了/PART ！/PUNCT
+更/ADV 多/NUM 过渡/NOUN 短语/NOUN ：/PUNCT to/ADP sumup,inconclusion/NOUN ,/PUNCT inbrief/PROPN ,/PUNCT onac/PROPN count/NOUN of/ADP this/PRON ,/PUNCT thus/NOUN 更/ADV 多/NUM 句型/NOUN ：/PUNCT thus,itcanbeconcluded/VERB that/NOUN …/PUNCT ,/PUNCT therefore,wecanfind/ADV that/NOUN …/PUNCT
+
+2．结尾万/NOUN 能/VERB 公式/VERB 二/NUM ：/PUNCT 如此/ADV 建议/VERB 如果说/SCONJ “/PUNCT 如此/ADJ 结论/NOUN ”/PUNCT 是/VERB 结尾/VERB 最/ADV 没用/VERB 的/PART 废话/NOUN ，/PUNCT 那么/ADV “/PUNCT 如此/ADV 建议/NOUN ”/PUNCT 应该/VERB 是/VERB 最/ADV 有/VERB 价值/NOUN 的/PART 废话/NOUN 了/PART ，/PUNCT 因为/ADP 这里/PRON 虽然/SCONJ 也/ADV 是/VERB 废话/NOUN ，/PUNCT 但是/ADV 却/ADV 用/VERB 了/PART 一个/NUM 很/ADV 经典/ADJ 的/PART 虚拟/ADJ 语气/NOUN 的/PART 句型/NOUN 。/PUNCT
+拽/VERB ！/PUNCT
+obviously,itishightime/VERB thatwe/NOUN tooksomemeasurestosolvetheproblem/VERB ./PUNCT
+这里/PRON 的/PART 虚拟/ADJ 语气/NOUN 用/VERB 得/PART 很/ADV 经典/VERB ，/PUNCT 因为/ADP 考官/NOUN 本来/ADV 经常/ADV 考/VERB 这个/DET 句型/NOUN ，/PUNCT 而/ADV 如果/SCONJ 我们/PRON 自己/PRON 写/VERB 出来/VERB ，/PUNCT 你/PRON 说/VERB 考官/NOUN 会/VERB 怎么/ADV 想/VERB 呢/PART ？/PUNCT
+更/ADV 多/NUM 句型/NOUN ：/PUNCT
+ac/VERB cordingly/PROPN ,/PUNCT irecommend/VERB thatsomemeasuresbetaken/NOUN ./PUNCT
+
+conse/NOUN quently/VERB ,/PUNCT tosolvetheproblem/VERB ,/PUNCT somemeasuresshould/PROPN betaken/VERB ./PUNCT
+
+来源/NOUN :/PUNCT 中国/PROPN 幼教网/NOUN

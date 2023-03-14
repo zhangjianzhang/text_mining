@@ -1,0 +1,12 @@
+天山/ADJ 纺织/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 已/ADV 于/ADP 2006年/NOUN 4月/NOUN 17日/NOUN 经/ADP 公司/NOUN 相关/ADJ 股东/NOUN 会议/NOUN 表决/VERB 通/VERB
+
+过/PART 。/PUNCT
+
+因/ADP 公司/NOUN 为/ADP 外商/NOUN 投资/NOUN 企业/NOUN ，/PUNCT 根据/ADP 有关/ADJ 规定/NOUN ，/PUNCT 公司/NOUN 股权/NOUN 分置/ADJ 改革/NOUN 方案/NOUN 在/ADP 相关/ADJ 股/NOUN
+
+东/NOUN 会议/NOUN 表决/VERB 通过/VERB 后/PART ，/PUNCT 须经/VERB 国家/NOUN 商务部/NOUN 批准/VERB 后方/PART 可/VERB 实施/VERB 。/PUNCT
+
+目前/NOUN ，/PUNCT 公司/NOUN 已/ADV 向/ADP 国家/NOUN 商务部/NOUN 相关/ADJ 部门/NOUN 提交/VERB 申请/NOUN 报告/NOUN 及/CCONJ 相关/ADJ 资料/NOUN 。/PUNCT
+公司/NOUN 董事/NOUN
+
+会/VERB 将/ADV 积极/ADV 配合/VERB 相关/ADJ 部门/NOUN ，/PUNCT 尽快/ADV 取得/VERB 国家/NOUN 商务部/NOUN 批复/NOUN 。/PUNCT

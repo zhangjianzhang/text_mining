@@ -1,0 +1,229 @@
+中国/PROPN 教育/NOUN 电视台/NOUN  　　　　　　/SPACE 搜狐/PROPN 教育/NOUN 频道/NOUN
+
+据/ADP 中国/PROPN 互联/ADJ 网络/NOUN 信息/NOUN 中心/NOUN （/PUNCT CNNIC/PROPN ）/PUNCT
+日前/NOUN 透露/VERB ，/PUNCT 到/ADP 2005年/NOUN 4月底/NOUN 我国/NOUN 上网/NOUN 用户/NOUN 已经/ADV 突破/VERB 1亿/NOUN ，/PUNCT 达到/VERB 1./NUM 002亿/NUM 人/NOUN 。/PUNCT
+目前/NOUN ，/PUNCT 中国/PROPN 网民/NOUN 数/NOUN 仅次于/VERB 美国/PROPN 居/VERB 世界/NOUN 第二/NUM 位/NUM 。/PUNCT
+时至今日/ADV ，/PUNCT 互联网/NOUN 已经/ADV 如此/ADV 广泛/VERB 地/PART 影响/VERB 着/PART 中国人/NOUN 的/PART 生活/NOUN ：/PUNCT 今天/NOUN ，/PUNCT 每/DET 13/NUM 个/NUM 中国人/NOUN 就/ADV 有/VERB 一个/DET 与/ADP 它/PRON 亲密/ADV 接触/VERB ，/PUNCT 网络/NOUN 不/ADV 再/ADV 仅仅/ADV 是/VERB 一/NUM 种/NUM 工具/NOUN ，/PUNCT 它/PRON 正在/ADV 成为/VERB 影响/VERB 我们/PRON 的/PART 生活/NOUN 中/PART 的/PART 重要/ADJ 砝码/NOUN ，/PUNCT 影响/VERB 着/PART 我们/PRON 的/PART 生活/NOUN 、/PUNCT 事业/NOUN 、/PUNCT 爱情/NOUN 的/PART 各个/DET 方面/NOUN 。/PUNCT
+那么/ADV 网络/NOUN 到底/ADV 正在/ADV 如何/ADV 改变/VERB 了/PART 我们/PRON 的/PART 生活/NOUN 呢/PART ？/PUNCT
+中国/PROPN 教育/NOUN 电视台/NOUN 新闻/NOUN 中心/NOUN 《/PUNCT 国视/NOUN 资讯/NOUN 》/PUNCT 栏目/NOUN 7月/NOUN 4日/NUM 起/PART ，/PUNCT 将/ADV 隆重/ADV 推出/VERB 六/NUM 期/NUM 头条/ADJ 调查/VERB 的/PART 系列/NOUN 节目/NOUN ：/PUNCT 网络/NOUN 改变/NOUN 生活/NOUN 。/PUNCT
+我们/PRON 的/PART 调查/NOUN 将/ADV 与/ADP 《/PUNCT 国视/NOUN 资讯/NOUN 》/PUNCT 栏目/NOUN 联动/VERB ，/PUNCT 收看/VERB 并/CCONJ 上网/VERB 填写/NOUN 调查表/NOUN ，/PUNCT 也许/ADV 您/PRON 的/PART 意见/NOUN 和/CCONJ 建议/NOUN 将/ADV 出现/VERB 在/ADP 节目/NOUN 中/PART 。/PUNCT
+
+网络/NOUN 给/ADP 我/PRON 以/ADP 自由/NOUN
+
+主题/NOUN 一/NUM ：/PUNCT 网络/NOUN 改变/VERB 人们/NOUN 的/PART 生活/NOUN 态度/NOUN ：/PUNCT 当/ADP 网络/NOUN 普及/VERB 以前/PART ，/PUNCT 成为/VERB 一个/NUM 自由/ADJ 职业者/NOUN 似乎/ADV 是/VERB 距离/VERB 遥远/VERB 的/PART 事情/NOUN ，/PUNCT 但/ADV 随着/ADP 网络/NOUN 成为/VERB 一/NUM 种/NUM 普及/VERB 的/PART 工具/NOUN ，/PUNCT 在家/VERB 工作/NOUN ，/PUNCT 为/ADP 自己/PRON 工作/VERB 的/PART soho/ADJ 生活/NOUN 状态/NOUN 就/ADV 成为/VERB 很/ADV 年轻人/NOUN 的/PART 选择/NOUN 。/PUNCT
+无眉/ADV 这个/DET id/VERB 在/ADP 网络/NOUN 上/PART 颇/ADV 有/VERB 名气/NOUN ，/PUNCT 现实/NOUN 中/PART 的/PART 她/PRON 选择/VERB 了/PART soho/VERB 这种/DET 生活/NOUN 方式/NOUN ，/PUNCT 她/PRON 是/VERB 如何soho着/VERB 生活/VERB 的/PART ？/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 如何/ADV 看待/VERB 网络/NOUN ？/PUNCT
+
+1/NUM 、/PUNCT 网络/NOUN 对/ADP 你/PRON 的/PART 生活/NOUN 有/VERB 影响/NOUN 么/PART ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+无所谓/VERB
+
+2/NUM 、/PUNCT 如果/SCONJ 现在/NOUN 忽然/ADV 没有/VERB 了/PART 网络/NOUN ，/PUNCT 你/PRON 的/PART 生活/NOUN 将/ADV 会/VERB 有/VERB 什么/DET 改变/NOUN ？/PUNCT
+
+没/ADV 改变/VERB
+
+影响/NOUN 很/ADV 大/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+主题/NOUN 二/NUM ：/PUNCT 网络/NOUN 改变/VERB 人们/NOUN 的/PART 就业/NOUN 方式/NOUN ：/PUNCT 开/VERB 个/NUM 网店/NOUN 做/VERB 老板/NOUN 。/PUNCT
+淘宝/NOUN 、/PUNCT 阿里巴巴/PROPN 等/PART 网站/NOUN 的/PART 商业/NOUN 模式/NOUN 的/PART 成熟/ADJ 发展/NOUN ，/PUNCT 使得/VERB 网上/ADJ 店铺/NOUN 的/PART 开设/VERB 成为/VERB 一/NUM 件/NUM 简单/ADV 容易/VERB 的/PART 事情/NOUN 。/PUNCT
+开/VERB 一家/NUM 网店/NOUN 成为/VERB 很多/NUM 人/NOUN 实现/VERB 自己/PRON 的/PART 商业/NOUN 理想/NOUN 第一/NUM 步/NUM 。/PUNCT
+银子/NOUN 记/VERB 就是/ADV 这样/ADJ 一家/NUM 网上/ADJ 小店/NOUN ，/PUNCT 她/PRON 的/PART 主人/NOUN 李颖/PROPN 是/VERB 一个/ADV 非常/ADV 喜欢/VERB 银饰/NOUN 的/PART 北京/PROPN 女孩儿/NOUN 。/PUNCT
+在/ADP 她/PRON 最初/ADV 建立/VERB 自己/PRON 的/PART 网店/NOUN 的/PART 时候/NOUN 是/VERB 抱/VERB 着/PART 好玩/VERB 的/PART 态度/NOUN ，/PUNCT 而/ADV 在/ADP 她/PRON 的/PART 网店/NOUN 开设/VERB 了/PART 不到/ADV 一/NUM 年/NUM 以后/PART ，/PUNCT 现在/NOUN 她/PRON 已经/ADV 准备/VERB 辞掉/VERB 工作/NOUN ，/PUNCT 专心/ADV 经营/VERB ，/PUNCT 把/X 自己/PRON 的/PART 这家/ADV 小店/NOUN 开成/ADJ 实体店/NOUN ，/PUNCT 实现/VERB 自己/PRON 的/PART 商业/NOUN 理想/NOUN 。/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 开个/VERB 网店/VERB 做/VERB 老板/NOUN
+
+1/NUM 、/PUNCT 你/PRON 有/VERB 过/PART 网络/NOUN 购物/NOUN 经验/NOUN 吗/PART ？/PUNCT
+
+知道/VERB
+
+不/ADV 知道/VERB
+
+2/NUM 、/PUNCT 你/PRON 有/VERB 过/PART 经营/NOUN 网络/NOUN 商店/NOUN 的/PART 想法/NOUN 吗/PART ？/PUNCT
+
+曾经/ADV 想/VERB 过/PART
+
+没/VERB 这/DET 方面/NOUN 打算/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+主题/NOUN 三/NUM ：/PUNCT 网络/NOUN 游戏/NOUN 塑造/VERB 了/PART 中国/PROPN 游戏/NOUN 产业界/NOUN 的/PART 面貌/NOUN ，/PUNCT 也/ADV 改变/VERB 着/PART 许多/NUM 热爱/VERB 网络/NOUN 游戏/NOUN 的/PART 人/NOUN 的/PART 命运/NOUN 。/PUNCT
+刘晋生/PROPN 曾经/ADV 是/VERB 一个/ADV 非常/ADV 热爱/VERB 打/VERB 游戏/NOUN 的/PART 少年/NOUN ，/PUNCT 但是/ADV 现在/NOUN 他/PRON 却/ADV 是/VERB 北京/PROPN 一家/NUM 游戏/NOUN 网络/NOUN 公司/NOUN 的/PART 媒体/NOUN 专员/NOUN ，/PUNCT 而/ADV 这家/DET 公司/NOUN 生产/VERB 的/PART 游戏/NOUN 就/ADV 曾经/ADV 是/VERB 他/PRON 的/PART 最爱/NOUN 。/PUNCT
+他/PRON 是/VERB 如何/ADV 从/ADP 一个/NUM 游戏/NOUN 玩家/VERB 成为/VERB 游戏/NOUN 产业/NOUN 的/PART 从业者/NOUN 呢/PART ？/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 从/ADP 一个/NUM 游戏/NOUN 玩家/VERB 成为/VERB 游戏/NOUN 产业/NOUN 的/PART
+从业者/NOUN
+
+1/NUM 、/PUNCT 你/PRON 对/ADP “/PUNCT 网络/NOUN 游戏/NOUN ”/PUNCT 的/PART 感情/NOUN 如何/VERB ？/PUNCT
+
+是的/ADV ，/PUNCT 经常/ADV 玩/VERB
+
+偶尔/ADV 玩玩/VERB
+
+从不/ADV 玩/VERB
+
+2/NUM 、/PUNCT 如果/SCONJ 给/VERB 你/PRON 一个/NUM 机会/NOUN ，/PUNCT 你/PRON 是否/VERB 会/VERB 把/X 对/ADP 网络/NOUN 游戏/NOUN 的/PART 热爱/NOUN ，/PUNCT 转会/VERB 为/ADP 自己/PRON 的/PART 事业/NOUN ？/PUNCT
+
+一定/ADV 会/VERB
+
+不/ADV 会/VERB
+
+或许/ADV 会/VERB 吧/PART
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+主题/NOUN 四/NUM ：/PUNCT 网络/NOUN 爱情/NOUN 改变/VERB 人们/NOUN 的/PART 婚恋观/NOUN 。/PUNCT
+网络/NOUN ，/PUNCT 可以/VERB 让/VERB 两/NUM 个/NUM 生活/NOUN 中/PART 原本/ADV 毫无/VERB 交集/NOUN 的/PART 人/NOUN 成为/VERB 朋友/NOUN ，/PUNCT 甚至/ADV 走向/VERB 婚姻/NOUN 的/PART 殿堂/NOUN 。/PUNCT
+一对/ADV 在/ADP 网上/NOUN 结识/VERB 的/PART 恋人/NOUN ，/PUNCT 和/CCONJ 现实/ADJ 生活/NOUN 中/PART 的/PART 恋人/NOUN 有/VERB 什么/DET 不同/NOUN 么/PART ？/PUNCT
+他们/PRON 的/PART 恋爱/NOUN 能/VERB 得到/VERB 家人/NOUN 的/PART 支持/NOUN 么/PART ？/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 网恋/NOUN 现象/NOUN
+
+1/NUM 、/PUNCT 对于/ADP 来自/VERB 网络/NOUN 的/PART 爱情/NOUN 你/PRON 能够/VERB 接受/VERB 吗/PART ？/PUNCT
+
+可以/VERB
+
+不/ADV 可以/VERB
+
+看/VERB 情况/NOUN 而/PART 定/VERB
+
+2/NUM 、/PUNCT 你/PRON 有/VERB 过/PART 网恋/NOUN 经历/NOUN 么/PART ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+主题/NOUN 五/NUM ：/PUNCT 网络/NOUN 资源/NOUN 的/PART 自由/ADJ 支配/NOUN 和/CCONJ 网络/NOUN 图书馆/NOUN 的/PART 应用/NOUN ，/PUNCT 给予/VERB 诸多/NUM 科研/NOUN 人员/NOUN 、/PUNCT 高校/NOUN 学生/NOUN 非常/ADV 多/VERB 的/PART 便利/VERB 。/PUNCT
+网络/NOUN 图书馆/NOUN 越来越/ADV 成为/VERB 他们/PRON 进行/VERB 研究/NOUN 无法/ADV 或缺/VERB 的/PART 工具/NOUN 。/PUNCT
+网络/NOUN 图书/NOUN 的/PART 发展/NOUN 也/ADV 在/ADP 其中/NOUN 扮演/VERB 着/PART 日益/ADV 重要/VERB 的/PART 角色/NOUN 。/PUNCT
+来自/VERB 北京/PROPN 大学/NOUN 的/PART 杜世强/PROPN ，/PUNCT 讲述/VERB 网络/NOUN 在/ADP 他/PRON 的/PART 工作/NOUN 学习/NOUN 中/PART 不可或缺/VERB 的/PART 感受/NOUN ！/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 网络/NOUN 学习/NOUN 感受/VERB
+
+1/NUM 、/PUNCT 你/PRON 知道/VERB 什么/PRON 是/VERB 网络/NOUN 图书馆/NOUN ？/PUNCT
+
+知道/VERB
+
+不/ADV 知道/VERB
+
+2/NUM 、/PUNCT 你/PRON 是否/ADV 利用/VERB 网络/NOUN 来/PART 搜集/VERB 资料/NOUN ，/PUNCT 为/ADP 你/PRON 的/PART 工作/NOUN 服务/NOUN ？/PUNCT
+
+经常/ADV 用/VERB
+
+没用/VERB 过/PART
+
+偶尔/ADV
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+主题/NOUN 六/NUM ：/PUNCT 声音/NOUN 收集/VERB 。/PUNCT
+来自/VERB 各/DET 方面/NOUN 的/PART 声音/NOUN ，/PUNCT 网络/NOUN 改变/VERB 了/PART 你/PRON 的/PART 生活/NOUN 吗/PART ？/PUNCT
+你/PRON 如何/ADV 看待/VERB 网络/NOUN 生活/NOUN ？/PUNCT
+也许/ADV 网络/NOUN 给/ADP 你/PRON 造成/VERB 了/PART 伤害/NOUN ？/PUNCT
+也许/ADV 网络/NOUN 给/ADP 你/PRON 带/VERB 了/PART 方便/NOUN ？/PUNCT
+看看/VERB 人们/NOUN 是/VERB 怎么/ADV 看待/VERB 网络/NOUN 的/PART ？/PUNCT
+
+小/ADJ 调查/NOUN －/PUNCT 如何/ADV 看待/VERB 网络/NOUN ？/PUNCT
+
+1/NUM 、/PUNCT 网络/NOUN 对/ADP 你/PRON 的/PART 生活/NOUN 有/VERB 影响/NOUN 么/PART ？/PUNCT
+
+有/VERB
+
+没有/VERB
+
+无所谓/VERB
+
+2/NUM 、/PUNCT 如果/SCONJ 现在/NOUN 忽然/ADV 没有/VERB 了/PART 网络/NOUN ，/PUNCT 你/PRON 的/PART 生活/NOUN 将/ADV 会/VERB 有/VERB 什么/DET 改变/NOUN ？/PUNCT
+
+没/ADV 改变/VERB
+
+影响/NOUN 很/ADV 大/VERB
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT
+
+本次/NOUN 调查/NOUN 活动/NOUN ，/PUNCT 由/ADP 中国/PROPN 教育/NOUN 电视台/NOUN 网站/NOUN 发起/VERB ，/PUNCT 联合/ADJ 搜狐/PROPN 教育/NOUN 、/PUNCT tom/NOUN 新闻/NOUN 中心/NOUN 、/PUNCT 网易/PROPN 教育/NOUN 、/PUNCT 腾讯/PROPN 教育/NOUN 、/PUNCT 中华网/PROPN 、/PUNCT 新浪/PROPN 教育/NOUN 以及/CCONJ 天涯/NOUN 论坛/NOUN 共同/ADV 完成/VERB 。/PUNCT
+在/ADP 此/PRON 感谢/VERB 广大/ADJ 网友/NOUN 的/PART 配合/NOUN ，/PUNCT 并/ADV 请/VERB 关注/VERB 我们/PRON 在/ADP 中国/PROPN 教育/NOUN 电视台/NOUN 一/NUM 套/NUM 每/DET 晚/NOUN 9点/NOUN 的/PART 《/PUNCT 国视/NOUN 资讯/NOUN 》/PUNCT 之/PART 头条/NOUN 调查/NOUN 的/PART 连续/ADJ 报道/NOUN 。/PUNCT
+
+搜狗(www.sogou/NOUN ./PUNCT com/PROPN )/NOUN 搜索/NOUN :/PUNCT “/PUNCT 生活/NOUN 方式/NOUN ”/PUNCT ,/PUNCT 共/ADV 找到/VERB
+
+25/NUM ,/PUNCT 721/NUM ,/PUNCT 466/NUM
+
+个/NUM 相关/ADJ 网页/NOUN ./PUNCT
+  /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /NOUN   /VERB

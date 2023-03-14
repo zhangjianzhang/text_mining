@@ -1,0 +1,51 @@
+The/DET international/PROPN observance/NOUN of/ADP World/PROPN Water/PROPN Day/NOUN is/VERB an/PROPN initiative/NOUN that/VERB grew/PROPN out/PROPN of/ADP the/DET 1992/NUM United/ADJ Nations/PROPN Conference/PROPN on/CCONJ Environment/PROPN and/CCONJ Development/PROPN (UNCED/ADJ )/NOUN in/ADP Rio/NOUN de/VERB Janeiro/PROPN ./PUNCT
+
+The/DET international/PROPN observance/NOUN of/ADP World/PROPN Water/PROPN Day/NOUN is/VERB an/PROPN initiative/NOUN that/VERB grew/PROPN out/PROPN of/ADP the/DET 1992/NUM United/ADJ Nations/PROPN Conference/PROPN on/CCONJ Environment/PROPN and/CCONJ Development/PROPN (UNCED/ADJ )/NOUN in/ADP Rio/NOUN de/VERB Janeiro/PROPN ./PUNCT
+
+The/DET United/NOUN Nations/NOUN General/PROPN Assembly/PROPN designated/PROPN 22/NUM March/PROPN of/ADP each/PROPN year/VERB as/VERB the/DET World/NOUN Day/NOUN for/ADP Water/PROPN by/CCONJ adopting/VERB a/NUM resolution/NOUN ./PUNCT
+This/PRON world/VERB day/PROPN for/ADP water/PROPN was/NOUN to/ADP be/PROPN observed/VERB starting/NOUN in/VERB 1993/NUM ,/PUNCT in/ADP conformity/VERB with/DET the/DET recommendations/NOUN of/ADP the/DET United/PROPN Nations/PROPN Conference/NOUN on/CCONJ Environment/PROPN and/CCONJ Development/PROPN contained/NOUN in/NOUN chapter/NOUN 18/NUM (/PUNCT Fresh/PROPN Water/PROPN Resources/NOUN )/PROPN of/ADP Agenda/VERB 21/NUM ./PUNCT
+
+States/PROPN were/PROPN invited/PROPN to/ADP devote/PROPN the/DET Day/NOUN to/ADP implement/VERB the/DET UN/NOUN recommendations/NOUN and/CCONJ set/VERB up/PROPN concrete/VERB activities/ADP as/ADJ deemed/NOUN appropriate/ADJ in/ADP the/DET national/VERB context/NOUN ./PUNCT
+
+The/DET Subcommittee/PROPN welcomes/PROPN the/DET assistance/NOUN offered/NOUN by/ADP IRC/PROPN International/PROPN Water/PROPN and/CCONJ Sanitation/NOUN Centre/NOUN to/ADP contribute/VERB to/ADP an/PROPN information/NOUN network/VERB centre/DET in/ADP support/NOUN of/ADP the/DET observance/NOUN of/ADP the/DET Day/NOUN by/ADP Governments/PROPN ,/PUNCT as/ADV required/NOUN ./PUNCT
+
+The/DET theme/NOUN of/ADP World/PROPN Water/PROPN Day/NOUN 2005/NOUN is/VERB :/PUNCT Water/PROPN for/NOUN Life/VERB 2005/NOUN -/PUNCT 2015/NUM
+
+1993年/NOUN 1月/NOUN 18日/NOUN ,/PUNCT 第四十七/NUM 届/NUM 联合国/PROPN 大会/NOUN 作出/VERB 决议/NOUN ,/PUNCT 确定/VERB 每年/ADJ 的/PART 3月/NOUN 22日/NOUN 为/VERB “/PUNCT 世界/NOUN 水日/NOUN ”/PUNCT 。/PUNCT
+决议/NOUN 的/PART 主要/ADJ 内容/NOUN 如下/VERB :/PUNCT
+
+大会/NOUN 回顾/VERB 联合国/PROPN 环境/NOUN 与/CCONJ 发展/NOUN 大会/NOUN 通过/VERB 的/PART 《/PUNCT 二十一/NUM 世纪/NOUN 议程/NOUN 》/PUNCT 第十八/NUM 章/NUM 的/PART 有关/ADJ 条款/NOUN ;/ADV 考虑/VERB 到/VERB 虽然/SCONJ 一切/DET 社会/NOUN 和/CCONJ 经济/NOUN 活动/NOUN 都/ADV 极/ADV 大地/VERB 依赖于/VERB 淡水/NOUN 的/PART 供应量/NOUN 和/CCONJ 质量/NOUN ,/PUNCT 但/ADV 人们/NOUN 并未/ADV 普遍/ADV 认识/VERB 到/VERB 水资源/NOUN 开发/VERB 对/ADP 提高/VERB 经济/NOUN 生产力/NOUN 、/PUNCT 改善/VERB 社会/NOUN 福利/NOUN 所/PART 起/VERB 的/PART 作用/NOUN ;/ADV 还/ADV 考虑/VERB 到/VERB 随着/ADP 人口/NOUN 增长/NOUN 和/CCONJ 经济/NOUN 发展/NOUN ,/PUNCT 许多/NUM 国家/NOUN 将/ADV 很快/ADV 陷入/VERB 缺水/NOUN 的/PART 困境/NOUN ,/PUNCT 经济/NOUN 发展/NOUN 将/ADV 受到/VERB 限制/VERB ;/NOUN 进一步/ADV 考虑/VERB 到/VERB 推动/VERB 水/NOUN 的/PART 保护/NOUN 和/CCONJ 持续性/ADJ 管理/NOUN 需要/VERB 地方/NOUN 一级/NOUN 、/PUNCT 全国/ADJ 一级/NOUN 、/PUNCT 地区/NOUN 间/PART 、/PUNCT 国际/NOUN 间/PART 的/PART 公众/NOUN 意识/NOUN 。/PUNCT
+
+1/NUM 、/PUNCT 根据/ADP 《/PUNCT 二十一/NUM 世纪/NOUN 议程/NOUN 》/PUNCT 第十八/NUM 章/NUM 所/PART 提出/VERB 的/PART 建议/NOUN ,/PUNCT 从/ADP 1993年/NOUN 开始/VERB ,/PUNCT 确定/VERB 每年/ADJ 的/PART 3月/NOUN 22日/NOUN 为/VERB “/PUNCT 世界/NOUN 水日/NOUN ”/PUNCT 。/PUNCT
+
+2/NUM 、/PUNCT 请/VERB 各国/NOUN 根据/ADP 各自/PRON 的/PART 国情/NOUN ,/PUNCT 在/ADP 这/DET 一/NUM 天/NUM 就/ADP 水资源/NOUN 保护/VERB 与/CCONJ 开发/NOUN 和/CCONJ 实施/VERB 《/PUNCT 二十一/NUM 世纪/NOUN 议程/NOUN 》/PUNCT 所/PART 提出/VERB 的/PART 建议/NOUN ,/PUNCT 开展/VERB 一些/NUM 具体/ADJ 的/PART 活动/NOUN ,/PUNCT 如/ADV 出版/VERB 、/PUNCT 散发/VERB 宣传品/NOUN 、/PUNCT 举行/VERB 会议/NOUN 、/PUNCT 圆桌/ADJ 会议/NOUN 、/PUNCT 研讨会/NOUN 、/PUNCT 展览会/NOUN 等/PART ,/PUNCT 以/PART 提高/VERB 公众/NOUN 意识/NOUN 。/PUNCT
+
+3/NUM 、/PUNCT 请/VERB 秘书长/NOUN 就/ADP 联合国/PROPN 秘书处/NOUN 尽/VERB 目前/NOUN 条件/NOUN 之/PART 可能/NOUN ,/PUNCT 且/ADV 在/ADP 不/ADV 影响/VERB 现行/ADJ 活动/NOUN 的/PART 情况/NOUN 下/PART ,/PUNCT 以/ADP 任何/DET 方式/NOUN 与/CCONJ 方法/NOUN 帮助/VERB 各国/NOUN 组织/VERB “/PUNCT 世界/NOUN 水日/NOUN ”/PUNCT 活动/NOUN ,/PUNCT 提出/VERB 建议/NOUN ,/PUNCT 集中/VERB 在/ADP 一个/NUM 与/ADP 水资源/NOUN 保护/VERB 有关/ADJ 的/PART 特定/ADJ 主题/NOUN ,/PUNCT 做出/VERB 必要/ADJ 的/PART 部署/NOUN ,/PUNCT 并/ADV 保证/VERB 活动/NOUN 的/PART 成功/NOUN 。/PUNCT
+
+4/NUM 、/PUNCT 建议/NOUN 可持续/ADJ 发展/NOUN 委员会/NOUN 在/ADP 执行/VERB 其/PRON 任务/NOUN 时/PART 把/X 实施/VERB 《/PUNCT 二十一/NUM 世纪/NOUN 议程/NOUN 》/PUNCT 第十八/NUM 章/NUM 放/VERB 在/ADP 优先/ADJ 地位/NOUN 。/PUNCT
+
+1995年/NOUN 以来/PART ，/PUNCT “/PUNCT 世界/NOUN 水日/NOUN ”/PUNCT 的/PART 主题/NOUN 如下/VERB ：/PUNCT
+
+1995年/NOUN ：/PUNCT "/PUNCT 妇女/NOUN 和/CCONJ 水"/NOUN
+
+1996年/NOUN ：/PUNCT “/PUNCT 为/ADP 干渴/VERB 的/PART 城市/NOUN 供水/NOUN ”/PUNCT
+
+1997年/NOUN ：/PUNCT “/PUNCT 水/NOUN 的/PART 短缺/NOUN ”/PUNCT
+
+1998年/NOUN ：/PUNCT “/PUNCT 地下水/NOUN ---/PUNCT 正在/ADV 不知不觉/VERB 衰减/VERB 的/PART 资源/NOUN ”/PUNCT
+
+1999年/NOUN ：/PUNCT “/PUNCT 每人/PRON 都/ADV 生活/VERB 在/ADP 下游/NOUN ”/PUNCT
+
+2000年/NOUN ：/PUNCT “/PUNCT 卫生/NOUN 用水/NOUN ”/PUNCT
+
+2001年/NOUN
+：/PUNCT "/PUNCT 21/NUM 世纪/NOUN 的/PART
+水"/NOUN
+
+2002年/NOUN ：/PUNCT "水/NOUN 为/ADP 发展/VERB 服务/VERB "/PUNCT
+
+2003年/NOUN ：/PUNCT “/PUNCT 水/NOUN －/PUNCT 人类/NOUN 的/PART 未来/NOUN ”/PUNCT
+
+2004年/NOUN ：/PUNCT “/PUNCT 水/NOUN 和/CCONJ 灾害/NOUN ”/PUNCT
+
+联合国/PROPN 确定/VERB 2005年/NOUN －/PUNCT 2015年/NOUN 为/VERB 生命/NOUN 之/PART 水/NOUN 国际/NOUN 行动/NOUN 10年/NOUN ，/PUNCT 主题/NOUN 是/VERB “/PUNCT 生命/NOUN 之/PART 水/NOUN ”/PUNCT 。/PUNCT

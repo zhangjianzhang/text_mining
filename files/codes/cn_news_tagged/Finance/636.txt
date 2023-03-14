@@ -1,0 +1,18 @@
+根据/ADP 中国/PROPN 银监会/NOUN 有关/ADJ 文件/NOUN ，/PUNCT 中国/PROPN 建设/NOUN 银行/NOUN 改制/VERB 分离/VERB 为/ADP 中国/PROPN 建设/NOUN 银行/NOUN 股份/NOUN 有/VERB
+
+限公/NOUN 和/ADP 中国/PROPN 建银/NOUN 投资/NOUN 有限/ADJ 责任/NOUN 公司/NOUN ，/PUNCT 由/ADP 中国/PROPN 建银/VERB 投资/VERB 承继/VERB 未/ADV 纳入/VERB 建设/NOUN 银行/NOUN 的/PART 资/NOUN
+
+产和/VERB 负债/VERB 。/PUNCT
+五洲/NOUN 明珠/NOUN 股份/NOUN 有限/ADJ 公司/NOUN 社会/NOUN 法人股/NOUN 股东/NOUN 兴藏/VERB 实业/NOUN 开发/NOUN 公司/NOUN [/PROPN 原系/NOUN 中国/PROPN
+
+建设/NOUN 银行/NOUN 西藏/PROPN 自治区/NOUN 分行/NOUN 全资/ADV 自办/VERB 实体/NOUN ，/PUNCT 持有/ADJ 公司/NOUN 股份/NOUN 373/NUM ./PUNCT
+1万/NOUN 股]/NOUN 所/PART 持/VERB 公司/NOUN 股/NOUN
+
+权属/NOUN 中国/PROPN 建银/NOUN 投资/VERB 承继/VERB 资产/NOUN 范畴/NOUN 。/PUNCT
+建设/NOUN 银行/NOUN 西藏/PROPN 分行/NOUN 同意/VERB 将/X 原/ADJ 兴藏/NOUN 实业/NOUN 持有/VERB 的/PART
+
+公司/NOUN 股权/NOUN 变更/VERB 到/VERB 中国/PROPN 建银/VERB 投资/NOUN 名下/NOUN 。/PUNCT
+
+目前/NOUN ，/PUNCT 股东/NOUN 变更/VERB 相关/ADJ 事宜/NOUN 已/ADV 在/ADP 中国/PROPN 证券/NOUN 登记/VERB 结算/NOUN 有限/ADJ 责任/NOUN 公司/NOUN 上海/PROPN 分公司/NOUN
+
+办理/VERB 完毕/VERB 。/PUNCT

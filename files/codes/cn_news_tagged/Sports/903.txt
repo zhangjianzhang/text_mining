@@ -1,0 +1,107 @@
+足彩/NOUN 胜/VERB 负彩/NOUN 06032/NUM 期/NUM 调查/NOUN
+
+上期/VERB
+
+本期/NOUN
+
+下期/VERB
+
+开售/NOUN ：/PUNCT
+05月/NOUN 10日/NOUN 20:00/NUM
+
+停售/VERB ：/PUNCT 05月/NOUN 13日/NOUN 20/NOUN :/PUNCT 15/NUM
+
+01/NUM 、/PUNCT 卡利亚vs国/PROPN 米/NUM
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+02/NUM 、/PUNCT 切沃vs/VERB 佛罗伦/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+03/NUM 、/PUNCT 恩波利vs/PROPN 阿斯科/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+04/NUM 、/PUNCT 拉齐/PROPN 奥vs帕尔/PROPN 玛/ADV
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+05/NUM 、/PUNCT AC米兰vs/PROPN 罗马/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+06/NUM 、/PUNCT 巴勒莫vs/PROPN 梅西纳/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+07/NUM 、/PUNCT 雷吉纳vs/PROPN 尤文/ADV
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+08/NUM 、/PUNCT 特雷维vs/PROPN 乌迪/PROPN 内/PART
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+09/NOUN 、/PUNCT 科隆vs/PROPN 比/ADP 勒菲/VERB
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+10/NUM 、/PUNCT 拜仁vs/PROPN 多/ADV 特蒙/VERB
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+11/NUM 、/PUNCT 汉堡/PROPN vs/VERB 不来梅/VERB
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+12/NUM 、/PUNCT 杜伊斯vs/PROPN 美/PROPN 因兹/NOUN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+13/NUM 、/PUNCT 沙尔克vs斯图加/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+14/NUM 、/PUNCT 沃尔夫vs/PROPN 凯泽斯/PROPN
+
+评/VERB
+
+胜/VERB  /SPACE 平/VERB  /SPACE 负/VERB
+
+进入/VERB 评论/NOUN
+
+var/NOUN NewWin/NOUN =/PROPN null/PROPN ;/PART function/VERB WinOpen(ur/PUNCT l)/PUNCT
+{if(!NewWin/VERB ||/VERB
+NewWin.closed/PROPN )/PROPN {NewWin=/NOUN LoadWin(url/PUNCT ,/PUNCT '/VERB win_poll/PUNCT '/VERB ,/PUNCT 418/NUM ,/PUNCT 300/NUM )/NOUN ;}else{NewWin/VERB ./PUNCT
+focus/PROPN ()/NOUN ;}/VERB }/PUNCT
+function/VERB LoadWin(url/PROPN ,/PUNCT name/PROPN ,/PUNCT width/PROPN ,/PUNCT height/PROPN )/NOUN {var/NOUN str='scrollbars/NOUN ,/PUNCT resizable,location/NOUN ,/PUNCT height/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/NOUN ,/PUNCT innerHeight/PROPN ='/NOUN +/PUNCT height/PROPN +/PUNCT '/VERB ,/PUNCT width/NOUN ='/NOUN +/PUNCT width/PROPN +/PUNCT '/VERB ,/PUNCT innerWid/PUNCT th/NOUN ='/NOUN +/PUNCT width/VERB ;/ADJ if/NOUN (/PUNCT window.screen/ADJ )/NOUN {var/NOUN ah=screen/NOUN ./PUNCT
+availHeight/NUM -/PUNCT 30/NUM ;/NOUN var/NOUN aw=screen/NOUN ./PUNCT
+availWid/DET th/NOUN -/PUNCT 10/NUM ;/NOUN var/NOUN x/PUNCT c=(aw/NOUN -/PUNCT widt/NOUN h)/PUNCT //PUNCT 2/NUM ;/NOUN var/NOUN yc=(ah/VERB -/PUNCT
+height/PROPN )/NOUN //PUNCT 2/NUM ;/ADJ str/NOUN +/PUNCT ='/NOUN ,/PUNCT left/PROPN ='/NOUN +/PUNCT xc/VERB +/PUNCT '/NOUN ,/PUNCT screenX/NOUN ='/NOUN +/PUNCT xc;/PROPN str/NOUN +/PUNCT ='/NOUN ,/PUNCT to/ADP p=/NOUN '/VERB +/PUNCT yc/VERB +/PUNCT '/NOUN ,/PUNCT screenY/NOUN ='/NOUN +/PUNCT yc/VERB ;}/VERB return/NOUN window.open(url,name/NOUN ,/PUNCT str)/NOUN ;/NOUN }/PUNCT

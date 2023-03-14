@@ -1,0 +1,69 @@
+旅馆/NOUN 住宿/NOUN
+
+青年/NOUN 旅舍/NOUN 和/CCONJ 面向/VERB 青年人/NOUN 的/PART 旅舍/NOUN
+
+1/NUM 、/PUNCT 旅馆/NOUN 名称/NOUN ：/PUNCT Adolph/PROPN Kolping/ADJ 青年/NOUN 旅舍/NOUN
+
+离/ADP 体育馆/NOUN 大概/ADV 6/NUM 公里/NUM
+
+地址/NOUN ：/PUNCT Silberstrasse街/PROPN ./PUNCT
+24/NUM -/PUNCT 26/NUM
+
+44137/NUM Dortmund/PROPN
+
+Tel/NOUN :/PUNCT 0231/NOUN //PUNCT 140074/NUM
+
+Fax/VERB :/PUNCT 0231/NOUN //PUNCT 142654/NUM
+
+E/NOUN -/PUNCT
+Mail/NOUN :/PUNCT jgh-dortmund/PUNCT
+@djh-wl.de/NOUN
+
+联系人/NOUN ：/PUNCT Wolfgang/PROPN van/NOUN der/NOUN Sanden/PROPN 先生/NOUN
+
+价格/NOUN ：/PUNCT 24/NUM ./PUNCT
+4/NUM 欧元/NOUN 、/PUNCT 29/NUM ./PUNCT 4/NUM 欧元/NOUN 、/PUNCT 34/NUM ./PUNCT
+4/NUM 欧元/NOUN
+
+最近/NOUN 的/PART 机场/NOUN ：/PUNCT Dortmund/Holzwickede/PROPN >>/NUM >多/PUNCT 特蒙德/NOUN 交通/NOUN 指南/NOUN
+
+最近/NOUN 的/PART 火车站/NOUN ：/PUNCT Dortmund/PROPN 火车/NOUN 总站/NOUN
+
+地理/NOUN 位置/NOUN ：/PUNCT 市中心/NOUN
+
+地区/NOUN ：/PUNCT 鲁尔区/PROPN
+
+到达/VERB 方式/NOUN ：/PUNCT 坐/VERB 火车/NOUN ，/PUNCT 汽车/NOUN ，/PUNCT 或/CCONJ 开车/VERB 到/VERB 市中心/NOUN ，/PUNCT 停车场/NOUN 在/ADP 威斯特/PROPN 法伦厅/NOUN [详/PROPN 细]/NOUN
+
+中高级/ADJ 饭店/NOUN >>/NUM >多/PUNCT 特蒙德/NOUN 推荐/VERB 餐馆/NOUN
+
+1/NUM 、/PUNCT Hilton/PROPN Dortmund/PROPN
+
+离/VERB 体育场/NOUN 3/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 65/NUM 公里/NUM ，/PUNCT 是/VERB 四星级/NOUN 饭店/NOUN
+
+地址/NOUN ：/PUNCT An/PRON der/NOUN Buschmühle/NOUN 1/NUM
+
+44139/NUM Dortmund/PROPN
+
+费用/NOUN ：/PUNCT 201/NUM 欧元/NOUN －/PUNCT 250/NUM 欧元/NOUN
+
+2/NUM 、/PUNCT Ibis/PROPN Dortmund/PROPN City/NOUN
+
+离/VERB 体育场/NOUN 2/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 8/NUM 公里/NUM ，/PUNCT 是/VERB 二星级/NOUN 饭店/NOUN
+
+地址/NOUN ：/PUNCT Maekische/NOUN Strasse街/PROPN
+73号/NOUN
+
+44141/NUM Dortmund/PROPN
+
+费用/NOUN ：/PUNCT 50/NUM 欧元/NOUN －/PUNCT 100/NUM 欧元/NOUN
+
+3/NUM 、/PUNCT Steigenberger/PROPN Hotel/PROPN Dortmund/PROPN
+
+离/VERB 体育场/NOUN 1/NUM 公里/NUM ，/PUNCT 离/ADP 机场/NOUN 15/NUM 公里/NUM ，/PUNCT 是/VERB 四星级/NOUN 饭店/NOUN
+
+地址/NOUN ：/PUNCT Berswordtstrasse街/PROPN 2号/NOUN
+
+44139/NUM Dortmund/PROPN
+
+费用/NOUN ：/PUNCT 100/NUM 欧元/NOUN －/PUNCT 150/NUM 欧元/NOUN [详/PROPN 细]/NOUN
