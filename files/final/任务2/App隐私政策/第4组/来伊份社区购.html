@@ -1,0 +1,831 @@
+<html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="https://static.laiyifen.com/cms/front/ncms/libs/frozenui/css/basic.css?0" rel="stylesheet">
+<link href="https://static.laiyifen.com/cms/front/ncms/libs/frozenui/css/frozen.css?0" rel="stylesheet">
+<link href="https://static.laiyifen.com/cms/front/ncms/common/common.css?0" rel="stylesheet">
+<script defer="" id="-mob-share" src="https://static.laiyifen.com/cms/front/ncms/libs/mob-share.js?appkey=9ca572cc88e6"></script>
+<title>来伊份移动商城</title>
+<style>
+@charset "UTF-8";
+.showHeader {
+display: none; }
+.marL5 {
+margin-left: 5px; }
+.ui-icon-return {
+color: #ff6900; }
+.bT0 {
+border-bottom: 0 !important; }
+.cmsTitle {
+font-family: 'Microsoft Yahei', 'PingFangSC-Regular';
+width: 100%;
+height: 45px;
+display: block;
+line-height: 45px;
+text-overflow: ellipsis;
+color: #333;
+font-size: 18px;
+text-align: center;
+overflow: hidden;
+white-space: nowrap;
+box-sizing: border-box;
+padding: 0px 80px;
+word-break: break-all;
+}
+.cmsMore {
+display: inline-block;
+vertical-align: middle;
+background-image: url("https://static.laiyifen.com/cms/front/ncms/images/header-more.png?v=1507620891688");
+background-repeat: no-repeat;
+background-size: 335px auto;
+width: 30px;
+background-position: -30px -159px;
+position: absolute;
+top: 0;
+right: 10px;
+height: 44px;
+line-height: 44px;
+color: #333;
+-webkit-transition: transform 0.4s;
+transition: transform 0.4s;
+transform: rotate(0);
+outline: none;
+moz-user-select: -moz-none;
+-moz-user-select: none;
+-o-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: transparent; }
+.cmsMore::selection {
+background-color: white;
+-webkit-tap-highlight-color: transparent; }
+.cmsMore .cmsCircle {
+width: 0px;
+height: 0px;
+display: block;
+border: 2px solid #666;
+border-radius: 50%;
+/* line-height: 51px; */
+margin: 22px 2px;
+float: left; }
+.cmsMore.hover {
+transform: rotate(90deg);
+outline: none;
+moz-user-select: -moz-none;
+-moz-user-select: none;
+-o-user-select: none;
+-khtml-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: transparent; }
+.cms-ds-header-right.active {
+right: 2px; }
+.cms-ds-header-right {
+position: absolute;
+right: -100px;
+top: 45px;
+width: 80px;
+opacity: 0.9;
+border-radius: 4px;
+background-color: #3d3d3d;
+transition: right 0.4s;
+-webkit-transition: right 0.4s; }
+.cms-ds-header-right a {
+display: block;
+text-align: center;
+text-decoration: none;
+color: #fff;
+border-bottom: 1px solid #666;
+line-height: 45px; }
+.cms-ds-header-right .cms-header-home-icon {
+background-position: -213px -142px; }
+.cms-ds-header-right .cms-header-my-icon {
+background-position: -248px -113px; }
+.cms-ds-header-right .cms-header-share-icon {
+background-position: -140px -53px; }
+.cms-ds-header-right .cms-icon {
+display: inline-block;
+vertical-align: middle;
+background-image: url("https://static.laiyifen.com/cms/front/ncms/images/header-more.png?v=1507620891688");
+background-repeat: no-repeat;
+background-size: 335px auto;
+height: 18px;
+width: 18px; }
+.cms-ds-header-right .cms-icon.cms-ds-header-favorite-icon {
+background-image: url("https://static.laiyifen.com/cms/front/ncms/images/header-favorite.png?v=1507620891688");
+background-position: -82px -28px;
+background-size: 291px auto; }
+.cms-ds-header-right .cms-ds-header-arrow {
+position: absolute;
+top: -5px;
+right: 10px;
+border-left: 5px solid transparent;
+border-right: 5px solid transparent;
+border-bottom: 5px solid #3d3d3d;
+font-size: 0;
+line-height: 0; }
+.cms-ds-header-share-mask {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+z-index: 9999;
+opacity: 0;
+pointer-events: none;
+display: -webkit-box;
+-webkit-box-orient: horizontal;
+-webkit-box-pack: center;
+-webkit-box-align: end;
+background: rgba(0, 0, 0, 0.4);
+z-index: 9999; }
+.cms-ds-header-share-mask.show {
+pointer-events: inherit;
+opacity: 1;
+display: block; }
+.cms-ds-header-share-mask.show .cms-ds-header-share-wrap {
+-webkit-transform: translateY(0);
+-webkit-transition-delay: .3s;
+background-color: #fff; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap {
+font-size: 21px;
+position: fixed;
+bottom: 0;
+padding: 0 8px;
+width: 100%;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+text-align: center;
+-webkit-transform: translateY(100%);
+-webkit-transition-property: all;
+-webkit-transition-timing-function: ease-out;
+-webkit-transition-duration: .3s;
+background-color: #f5f5f5; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop {
+display: -webkit-box;
+width: 100%;
+-webkit-box-sizing: border-box;
+padding: 20px 0; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop li {
+list-style: none;
+-webkit-box-flex: 1;
+width: 100%;
+text-align: center;
+display: -webkit-box;
+-webkit-box-orient: vertical;
+-webkit-box-pack: center;
+-webkit-box-align: center; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-weixin {
+background-position: 0px -354px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .f10 {
+font-size: 10px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .c3 {
+color: #333; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-qq {
+background-position: -142px -390px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-xinlang {
+background-position: -284px -390px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-qzone {
+background-position: -212px -389px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .cms-divider {
+height: 1px;
+margin: 0 12px; }
+.cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .cms-ds-header-share-cancel {
+height: 50px;
+color: #000;
+font-size: 18px;
+line-height: 50px;
+border: none;
+background-color: #fff;
+background: rgba(255, 255, 255, 0.84);
+display: block;
+margin: 0 auto;
+font-family: 'Microsoft Yahei'; }
+.cms-icon2 {
+display: inline-block;
+vertical-align: middle;
+background-image: url("https://static.laiyifen.com/cms/front/ncms/images/header-favorite.png?v=1507620891688");
+background-repeat: no-repeat;
+background-size: 375px auto;
+width: 50px;
+height: 50px; }
+/*微信分享弹层*/
+.share-mask {
+position: fixed;
+width: 100%;
+height: 100%;
+top: 0;
+left: 0;
+color: #fff;
+z-index: 102;
+background: rgba(51, 51, 51, 0.8); }
+.share-mask .arrow {
+position: absolute;
+top: 20px;
+right: 25px;
+width: 70px; }
+.share-mask .inner {
+padding-top: 100px;
+margin-left: 30%;
+font-size: 18px; }
+.ui-badge-wrap {
+position: relative;
+text-align: center; }
+.icons3-index-slide-1 {
+width: 18px;
+height: 18px;
+background-position: 0px -71px; }
+.icons3 {
+display: inline-block;
+vertical-align: middle;
+background-image: url("https://static.laiyifen.com/cms/front/ncms/images/header-cmsicon.png?v=1490944619079");
+background-repeat: no-repeat;
+background-size: 375px auto; }
+.ui-badge-cornernum {
+padding: 0px 2px;
+color: white;
+font-size: 10px;
+text-align: center;
+line-height: 14px;
+background-color: #ff6900;
+border-radius: 10px;
+height: 14px;
+min-width: 11px;
+z-index: 106;
+position: absolute;
+top: 3px;
+right: 3px; }
+[v-cloak] {
+display: none; }
+</style>
+<style>
+.clr-lyf{
+color:#ff6900;
+}
+.pd12{
+padding:0 12px;
+}
+img{
+width:100%;
+max-width:100%;
+}
+.ui-border-b{
+border-bottom:1px solid #e0e0e0!important;
+}
+.fz20{
+font-size: 20px;
+padding: 12px 0;
+}
+.sub-info{
+font-size: 14px;
+color:#999;
+padding-bottom: 8px;
+}
+section .con{
+margin-top: 24px;
+}
+.noCon{
+font-size: 38px;
+color: #ccc;
+margin-top: 33.33%;
+text-align: center;
+}
+[v-cloak]{display:none;}
+</style>
+<link rel="stylesheet" type="text/css" href="https://static.laiyifen.com/cms/front/ncms/libs/mob-share.css"></head>
+<body style="">
+<div id="cms-header-template"><div class="header-placeholer" style="height: 45px;"></div> <header id="cmsHeader" class="cmsHeader ui-header ui-header-stable" style="height: 45px;"><a href="javascript:void(0);" class="ui-icon-return marL5"></a> <b class="cmsTitle">来伊份用户隐私协议</b> <a href="javascript:void(0)" class="cmsMore"></a> <div class="cms-ds-header-right"><i class="cms-ds-header-arrow"></i> <a href="javascript:void(0)"><i class="cms-icon cms-header-home-icon"></i> 首页</a> <a href="javascript:void(0)" class="cms-header-share"><i class="cms-icon cms-header-share-icon"></i> 分享</a> <a href="javascript:void(0)"><i class="cms-icon cms-header-my-icon bT0"></i> &nbsp;&nbsp;我&nbsp;&nbsp;</a></div> <div class="cms-ds-header-share-mask"><div class="cms-ds-header-share-wrap"><ul class="cms-ds-header-share-pop"><li><div><i class="cms-icon2 icon-share-weixin -mob-share-weixin -mob-share-initialized"></i></div> <span class="f10 c3">微信</span></li> <li><div><i class="cms-icon2 icon-share-xinlang -mob-share-qzone -mob-share-initialized"></i></div> <span class="f10 c3">QQ空间</span></li> <li><div><i class="cms-icon2 icon-share-qzone -mob-share-weibo -mob-share-initialized"></i></div> <span class="f10 c3">新浪微博</span></li></ul> <div class="cms-divider"></div> <button class="cms-ds-header-share-cancel">取消分享</button></div></div> <div class="share-mask" style="display: none;"><img alt="" class="arrow"> <div class="inner"><p>点击右上角<br>将它分享到朋友圈<br>或指定的朋友</p></div></div></header></div>
+<div id="articleApp"><section class="ui-container pd12"><h1 class="fz20" style="">来伊份用户隐私协议</h1> <div><div class="ui-border-b sub-info" style=""><ul class="ui-row-flex"><li class="ui-col ui-flex ui-flex-pack-start">
+
+</li> <li class="ui-col ui-flex ui-flex-pack-end">
+2022.11.14
+</li></ul></div> <div class="con"><p>《来伊份社区购用户隐私协议》<br><br>本版更新时间：2023年【02】月【21】日<br>本版生效时间：2023年【02】月【21】日<br>尊敬的来伊份社区购用户：我们对《来伊份社区购用户隐私协议》进行了更新。此版本《来伊份社区购用户隐私协议》的更新主要集中在来伊份收集的您个人信息的目的、方式、范围。</p><p>【特别提示】请仔细阅读《来伊份社区购用户隐私协议》（尤其是加粗或下划线的内容）并确定了解我们对您个人信息的处理规则。阅读过程中，如您有任何疑问，可通过《来伊份社区购用户隐私协议》中的联系方式咨询我们；在您同意隐私政策前，我们不会收集您个人信息。如您不同意《来伊份社区购用户隐私协议》中关于收集个人信息的任何条款，只会影响其对应的功能，如果您不同意我们获取运行APP所需的基本权限，我们将无法为您继续服务，您可以与我们联系，我们将竭诚为您解决困扰。</p><p><br>引言<br><br>上海来伊份股份有限公司（注册地址：上海市松江区九亭镇久富路300号；联系电话：021-5176099；以下简称“我们 ”），上海来伊份科技有限公司，非常重视用户的隐私和个人信息保护。您在使用我们的产品与/或服务时，我们可能会收集和使用您的相关信息。我们希望通过《来伊份社区购用户隐私协议》（以下简称“本隐私协议”）向您说明在您使用我们的产品与/或服务时，我们如何收集、使用、存储、共享和转让这些信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。</p><p>本隐私协议将帮助您了解以下内容：<br>一、我们如何收集和使用您的个人信息<br>二、我们如何使用 Cookies 和同类技术<br>三、我们如何共享、转让、公开披露您的个人信息<br>四、我们如何保护和存储您的个人信息<br>五、您如何管理个人信息<br>六、未成年人的个人信息保护<br>七、通知和修订<br>八、如何联系我们<br><br>本隐私协议与您所使用的来伊份社区购商城服务以及该服务所包括的各种业务功能（以下统称“我们的产品与/或服务”）息息相关，希望您在使用我们的产品与/或服务前仔细阅读并确认您已经充分理解本隐私协议所写明的内容，并让您可以按照本隐私协议的指引做出您认为适当的选择。本隐私协议中涉及的相关术语，我们尽量简明扼要的表述，并提供进一步说明的链接，以便您更好地理解。当您开始使用APP或当隐私协议更新时，我们将通过弹窗的方式及时通知您最新的隐私协议内容，当您同意我们的隐私协议即意味着您同意我们按照本隐私协议收集、使用、存储和共享您的相关信息。</p><p>请您特别注意：本隐私协议适用于我们APP、小程序以及随技术发展出现的新形态向您提供的各项产品和服务。如我们及关联公司的产品或服务中使用了来伊份社区购商城的产品或服务（如使用来伊份商城社区购账户登录）但未设独立隐私权协议的，则本隐私协议同样适用于该部分产品或服务。我们及关联公司就其向您提供的产品或服务单独设有隐私权协议的，则相应产品或服务适用相应隐私权协议。</p><p>如对本隐私协议或相关事宜有任何问题，您可随时通过访问来伊份社区购APP在线客服系统或拨打我们的任何一部客服电话（参考本隐私协议第八章 “如何联系我们”）等多种方式与我们联系。</p><p><br>一、我们如何收集和使用您的个人信息<br><br>个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人敏感信息是指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇的个人信息，下文中所有敏感信息加粗显示。本隐私协议中涉及的个人信息包括：<br>（1） 基本账户信息（个人手机号码、密码）；<br>（2） 额外账户信息（昵称、生日、性别）；<br>（3） 第三方账户信息（头像、第三方账户昵称、微信号、QQ号、APPLE ID）；<br>（4） 基本订单信息（订单所在门店、订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）；<br>（5） 额外订单信息（收货人固定电话、额外收货地址）；<br>（6） 发票信息（收票人邮箱、单位名称、社会统一信用代码）<br>（7） 支付信息（支付金额）；<br>（8） 浏览和搜索信息（用户浏览商品记录、关注信息、收藏信息、搜索历史记录、搜索关键词）；<br>（9） 社区发布信息（社区中的评论、晒单、问答、图片、视频）；<br>（10） 无聊信息（无聊中的聊天文字、图片、视频、文件）；<br>（11） 个人财产信息（交易和消费记录、余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡）；<br>（12） 实名认证信息（包括姓名、身份证号、手机号、银行卡号）；<br>（13） 通讯录（联系人名称、联系人通讯号码）；<br>（14） 网络身份标识信息（IP地址、SSID、BSSID）；<br>（15） 个人常用设备信息（硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息）；<br>（16） 个人位置信息（精准定位信息）。<br><br>（一）需要收集的信息<br><br>我们仅会出于以下目的，收集和使用您的个人信息：<br><br>我们的产品与/或服务包括一些核心功能，这些功能包含了实现网上购物所必须的功能及保障交易安全所必须的功能。我们可能会收集和使用下列与您有关的信息才能实现上述这些功能。如果您不提供相关信息，您将无法享受对应的产品与/或服务。这些功能包括：<br><br>1、用户注册<br>您首先需要注册一个来伊份账户以成为来伊份用户。当您注册时，您至少需要向我们提供您准备使用的您的基本账户信息（个人手机号码、密码），我们将通过发送短信验证码的方式来验证您的身份是否有效。如果您拒绝提供基本账户信息，您将无法使用基于账户的所有功能，但不影响您浏览和搜索商品信息。<br>您可以通过向我们提供第三方账户信息（头像、第三方账户昵称、微信号、QQ号、APPLE ID）的方式进行注册。如果您不提供以上信息，将无法进行下单购物，但不影响您浏览APP商城。您的账户名为您的默认第三方账户昵称。如果您拒绝提供第三方账户信息，您将无法使用第三方账户登录我们的产品。<br>您可以提供您的额外账号信息（昵称、性别、生日）以帮助我们为您提供个性化的商品推荐和更优的购物体验。如果您拒绝提供额外账户信息，不会影响您使用网上购物的基本功能。<br><br>2、浏览和搜索商品信息<br>为给您提供最优的商品展示方式，我们需要收集您的网络身份标识信息（IP地址、SSID、BSSID），当您所处的网络不畅时，APP会通过识别网络身份标识判断您的网络是否恢复通讯，当网络恢复通畅时，APP会重新加载商品信息，以确保您的商品浏览体验。如果您拒绝提供网络身份标识信息，会影响您正常的商品体验，但不会影响您使用其他功能。<br>我们需要收集您的个人常用设备信息（包括硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息），以保证可以适配您的手机型号、操作系统型号、浏览器型号，以优化您的用户体验。如果您拒绝提供个人常用设备信息，可能会出现不适配的情况，会对您的使用体验造成影响。<br>您也可以通过搜索来精准地找到您所需要的商品或服务。为方便您重复输入或为您展示与您搜索内容相关联的商品，我们需要收集您的浏览和搜索信息（搜索历史记录、搜索关键词）。 如果您拒绝提供浏览和搜索信息，将不会为您重复输入和关联商品提供便利，但不会影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里清除、拒绝提供浏览和搜索信息。<br><br>3、下单功能<br>当您准备对您购物车内的商品进行结算时，来伊份系统会生成您购买该商品的订单。订单中部分基本订单信息（收货人姓名、收货地址以及收货人手机号码）需要您主动填写，同时会自动载入部分基本订单信息（订单内容、购买金额）和个人财产信息（余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡）。如果您拒绝提供本条中涉及的基本订单信息，您将无法使用下单以及后续支付、交付产品/服务功能，您仍可正常使用其他功能。<br>您可以另外填写额外订单信息（收货人固定电话、收获地址）以增加更多的联系方式和更精确的收货地址确保商品可以准确送达；在您填写这些信息的时候，您可以快捷填入通讯录内的联系人信息，这需要您提供您的通讯录信息（联系人名称、联系人通讯号码）。如果您拒绝提供通讯录信息，您将无法使用任何基于通讯录的功能，但不影响其他功能；如果您拒绝提供额外订单信息，您仍可正常使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭通讯录功能。<br><br>4、支付功能<br>在您下单后，您可以选择来伊份的关联方或与来伊份合作的第三方支付机构（包括支付宝支付、微信支付及银联、网联、来伊份钱包（来伊份钱包由第三方支付机构商银信提供）等支付通道，以下称“支付机构”）所提供的支付服务。支付功能本身并不收集您的个人信息，但我们需要将您的基本订单信息（订单号）与支付信息（支付金额）与这些支付机构共享以实现其确认您的支付指令并完成支付。如果您拒绝提供本条涉及的订单信息和支付信息，您将无法使用支付功能，同时也将无法使后交付产品/服务功能，但不影响您使用其他功能。<br>“关联方”指一方现在或将来控制、受控制或与其处于共同控制下的任何公司、机构以及上述公司或机构的法定代表人。“控制”是指直接或间接地拥有影响所提及公司管理的能力，无论是通过所有权、有投票权的股份、合同或其他被人民法院认定的方式。<br><br>5、交付产品与/或服务功能<br>在当您下单并选择货到付款或在线完成支付后，来伊份的关联方或与来伊份合作的第三方配送公司（包括顺丰、圆通等，以下称“配送公司”）将为您完成订单的交付。您知晓并同意来伊份的关联方或与来伊份合作的第三方配送公司会在上述环节内使用您的基本订单信息基本订单信息（订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）和额外订单信息（收货人固定电话、额外收货地址）以保证您的订购的商品能够安全送达。如果您拒绝提供基本订单信息和额外订单信息，我们将无法交付产品/服务，但不影响您使用其他功能。<br><br>6、客服与售后功能<br>为保证您的账号安全，我们的呼叫中心客服和在线客服会使用您的基本账户信息（个人手机号码、密码）与您核验您的身份。当您需要我们提供与您订单信息相关的客服与售后服务时，我们将会查询您的基本订单信息（订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）。当您在与我们的客服人员沟通要求补充额外订单信息时，我们需要收集您新提交的额外订单信息（收货人固定电话、额外收货地址）；如果您拒绝提供本条涉及的基本账户信息和额外订单信息，我们的客服将无法为您提供和订单相关的服务，但不影响客服为您提供其他服务以及您使用其他功能。<br><br>7、改进我们的产品与/或服务所需要的功能<br>我们可能会收集您的基本订单信息（订单内容）、浏览和搜索信息（用户浏览商品记录、关注信息、收藏信息、搜索历史记录、搜索关键词）进行数据分析以形成用户画像，用来将您感兴趣的商品或服务信息展示给您；或在您搜索时向您展示您可能希望找到的商品。如果您拒绝提供本条涉及的基本订单信息、浏览和搜索信息，我们将无法向您展示您可能感兴趣的商品或服务，可能会影响您的用户体验，但不会影响您使用其他功能。<br>如果您不希望受个性化内容的影响，您可以在商品展示页选择按照分类进行浏览和查找商品和服务。 我们还在搜索结果中向您提供了按照价格、销量排序等不针对个人特征的选项；未经您的明确同意，我们不会将您的相关个人信息提供给第三方。问卷调查不是强制性的。 您可以在APP-我的-设置-隐私设置里开启或关闭个性化推荐。<br>我们还可能为了提供服务及改进服务质量的合理需要而希望您参与我们的问卷调查，您参与问卷调查时我们将向您提供单独的隐私协议来收集您的具体信息。如果您不希望向我们提供问卷中的信息，您可以拒绝参加，这不会影响您使用其他功能。<br><br>8、保障交易安全所需要的功能<br>为提高您使用我们的产品与/或服务时系统的安全性，更准确地保护账户安全，我们可能会收集您的个人常用设备信息（硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息）与您的账号进行绑定（其中，我们可能会在应用后台运行期间收集MAC地址、IMEI及其他设备标识符进行风险校验），以此来分析您的账号在非可信设备上登录的风险，您也可以选择向我们发送异常信息，我们会予以排查。如果不收集您的个人常用设备信息，我们将无法判断您的账号是否在可信设备上登录，这会降低您账号的安全性，如果您对此有异议，请联系我们的客服。<br><br>9、无聊（聊天、朋友圈、群聊）、社区（包括社区外卖、社区生活、社区拼团）所需要的功能<br>您正常使用无聊和社区功能，我们会收集您的无聊信息（无聊中的聊天文字、图片、视频、文件）和社区发布信息（社区中的包括评论、晒单、问答、图片、视频），以保证无聊和社区的内容可以在APP上正常展示。如果您拒绝提供无聊群信息和社区发布信息的话，您将无法正常使用无聊和社区功能，但不影响您使用其他功能。<br>为了向您推荐附近的社区，并允许您在无聊中寻找附近的人，我们需要您的个人位置信息（精准定位信息）。如果您拒绝提供您的个人位置信息的话，您将无法准确找到您身边的社区，并且无法使用无聊的附近的人功能，但不会影响您使用其他功能。<br><br>10、使用来伊份钱包需要的功能<br>为了您正常使用来伊份钱包功能，我们需要您进行实名认证，并收集您的实名认证信息（姓名、身份证号、手机号、银行卡号）和个人财产信息（交易和消费记录、余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡），以确保您能安全的使用我们的钱包功能(包括信息展示和钱包支付功能)。如果您拒绝提供的话，您将不能使用来伊份钱包相关的所有功能，但不影响您使用其他功能以及第三方支付功能。<br><br>11、使用积分商城需要的功能<br>为了您正常使用积分商城功能，我们需要您提供个人财产信息（积分、优惠券），以确保您能安全的使用我们的积分商城。如果您拒绝提供的话，您将不能使用来伊份积分商城相关的所有功能，但不影响您使用其他功能。<br><br>12、在来伊份门店购物时可能需要的功能<br>当您在来伊份门店购买商品时，如果您使用APP的会员码功能，我们需要您提供个人财产信息（余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡），以确保您能安全的使用我们的会员码功能，享受相应的会员权益。同时您的基本订单信息（订单所在门店、订单内容、购买金额、订单号）会展示在“我的订单”里。如果您拒绝提供的话，您将不能使用来伊份会员码相关的所有功能，但不影响您使用其他功能以及在来伊份门店购买商品。<br>13、发票功能<br>当您在使用发票功能时，需要您提交发票信息（收票人邮箱、单位名称、社会统一信用代码），以确保您能安全的使用我们的发票功能。如果您拒绝提供的话，您将不能使用来伊份发票相关的所有功能，但不影响您使用其他功能。<br><br>（二）需授权的权限<br>在APP的使用过程中，我们可能需要您提供您的设备权限，下面会向您解释我们为什么需要这些权限以及如果缺少这些权限会对您的使用造成何种影响。这些权限包括：<br>（1）基于网络权限的扩展功能：获取IPAPP的所有功能均需要您授权网络权限，来获取来伊份服务器上的数据。如果您拒绝提供的话，将无法使用APP所有功能。<br>（2）基于个人位置信息的个性化推荐功能：我们会收集您的个人位置信息（包括精准定位信息）以及网络身份标识信息（IP地址），我们仅收集您当时所处的地理位置，但不会将您各时段的个人位置信息进行结合以判断您的行踪轨迹）来判断您所处的地点，自动为您推荐您所在区域可以购买的产品与/或服务，例如向您推荐离您最近的可选门店。如果您拒绝提供的话，将不能使用外卖下单、无法搜索附近外卖店铺、无聊群无法精准的发送位置类型信息，无法获取附近人列表的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭个性化推荐。<br><br>（3）基于摄像头（相机）的扩展功能：您可以使用这项扩展功能完成社区、朋友圈发帖、App扫码、个人头像、订单评论拍照上传、无聊群音视频通话功能、相册，拍摄类型消息的发送的功能。如果您拒绝提供的话，不能使用拍照上传，不能扫二维码，评论无法拍照上传，无法进行无聊群音视频通话,无法发送相册、拍摄类型消息的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭摄像头权限。<br><br>（4）基于访问照片,媒体内容的扩展功能：您可以使用这项扩展功能完成社区、朋友圈发帖,选择头像,订单评论,发送图片类型消息,无聊群修改头像。如果您拒绝提供的话，不能使用社区、朋友圈、不能选择图片、视频上传,不能上传个人头像、评论无法选择照片，无法发送图片类型消息，无法修改群头像的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭相册权限。<br><br>（5）基于手机设备信息的扩展功能：您可以使用这项扩展功能完成一键登录,精准推送，系统防盗刷风控。如果您拒绝提供的话，不能使用一键登录的功能（只能短信登录，只能账号密码登录，只能第三方授权登录），但不影响您使用其他功能。<br>（6）基于拨打电话的扩展功能：您可以使用这项扩展功能完成联系客服,联系店铺商家。如果您拒绝提供的话，不能使用APP内拨打电话的功能，但不影响您使用其他功能。<br>（7）基于访问通讯录的扩展功能：我们访问您的通讯录，获取您的全部通讯录列表，是为了方便您在购物时避免您重复填写其他联系人信息（比如您可以直接为通讯录中的电话号码充值）；为了更好地使用来伊份无聊工具，在获得您的同意下我们也可以判断您的通讯录好友是否也同为来伊份用户，并在无聊工具中为你们的交流建立联系。如您拒绝提供，不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭通讯录功能。</p><p>（8）基于蓝牙权限的扩展功能：您可以使用这项扩展功能完成无聊群语音信息，音视频聊天。如果您拒绝提供的话，不能使用无聊群聊天语音信息播放时、音视频功能时可能会出现扬声器和蓝牙共同播放声音的功能，但不影响您使用其他功能。<br>（9）基于悬浮窗权限的扩展功能：您可以使用这项扩展功能完成音视频功能最小化悬浮窗功能和直播观看功能。如果您拒绝提供的话，不能使用音视频通话时最小化的功能和直播功能，但不影响您使用其他功能。<br>（10）基于获取本机号码的扩展功能：您可以使用这项扩展功能完成一键登录。如果您拒绝提供的话，不能使用银联支付sdk和一键登录的功能，但不影响您使用其他功能。<br>（11）基于闪光灯、震动权限的扩展功能：您可以使用这项扩展功能完成无聊群新消息到来时,手机提示功能。如果您拒绝提供的话，不能使用无聊群新消息到来时,部分手机无法使用该功能的功能，但不影响您使用其他功能。<br>（12）基于保持屏幕唤醒（不锁屏）的扩展功能：您可以使用这项扩展功能完成无聊群音视频通话。如果您拒绝提供的话，可能会造成正在通话的音视频异常挂断等通话问题的功能，但不影响您使用其他功能。<br>（13）基于短信的扩展功能：您可以使用这项扩展功能分享活动到短信中。如果您拒绝提供的话，短信分享渠道将不能唤起，但不影响您使用其他功能。<br>（14）基于麦克风的扩展功能：您可以使用这项扩展功能完成无聊中的音视频通话和发送语音。如果您拒绝提供的话，您将无法在无聊中音视频通话和发送语音，但不影响您使用其他功能。<br>（15）基于获取应用列表的扩展功能：您可以使用这项扩展功能完成第三方账号登录和第三方支付。如果您拒绝提供的话，将无法使用第三方账号登录和第三方支付，但不影响您使用其他功能。<br>（16）基于剪切板的扩展功能：您可以使用这项扩展功能完成订单编号的复制。如果您拒绝提供的话，将无法直接复制订单编号，但不影响您使用其他功能。<br>（17）基于华为手机角标权限（Android 特有）的扩展功能：您可以使用这项扩展功能完成无聊群有消息时更新桌面应用角标。如果您拒绝提供的话，无法更新APP桌面角标的功能，但不影响您使用其他功能。<br>（18）基于小米推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成小米手机离线推送。如果您拒绝提供的话，小米手机无法收到离线消息，但不影响您使用其他功能。<br>（19）基于魅族推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成魅族手机离线推送。如果您拒绝提供的话，魅族手机无法收到离线消息，但不影响您使用其他功能。<br>（20）基于OPPO推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成OPPO手机离线推送。如果您拒绝提供的话，OPPO手机无法收到离线消息，但不影响您使用其他功能。<br><br>（三）第三方SDK<br><br>在APP中存在第三方SDK，下面向您解释这些SDK的功能<br>（1）友盟统计：我们使用此接口来统计用户的设备，访问量和APP版本信息。 使用SDK名称：友盟SDK<br>服务类型：统计分析<br>收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置等）<br>隐私权政策链接：https://www.umeng.com/page/policy<br><br><br>（2）友盟分享：我们使用此接口来实现Android分享功能，您可以通过此接口分享活动页面给您的朋友。<br>使用SDK名称：友盟SDK<br>服务类型：分享服务<br>收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置等）<br>隐私权政策链接：https://www.umeng.com/page/policy<br><br>（3）腾讯 bugly：我们使用此接口来监控APP中发生的错误。</p><p>&nbsp;<br>（4）MobShare SDK：为了闭环分享功能进行来源追溯及地理维度的统计，我们会收集您的地理位置。为了调起您设备中社交平台APP以实现第三方登录和社会化分享，我们会收集您终端用户的系统在装应用列表信息。为了完成第三方登录和社会化分享统计服务，我们会收集您的社交平台OpenID。当您需要进行口令分享时，我们将读取您的剪切板信息，该读取不是采集信息，不会持久保存。</p><p>隐私协议链接：https://www.mob.com/about/policy</p><p>（5）极光推送：我们使用此接口在APP中给您推送信息。<br>我们的第三方合作伙伴【极光】，在提供服务的过程中，需要收集您的相关个人信息，包括设备信息[ 设备信息包括：设备标识符（IMEI、IDFA、Android ID、MAC、OAID等相关信息）、应用信息（应用崩溃信息、通知开关状态、软件列表等相关信息）、设备参数及系统信息（设备类型、设备型号、操作系统及硬件相关信息）]、网络信息[ 网络信息包括：IP地址，WiFi信息，基站信息等相关信息。 ]、地理位置信息。通过识别设备信息为App赋予推送能力，用于消息推送；地理位置和网络信息用于创建智能标签，实现区域、分群推送功能。<br>为向您提供更好的服务、改善技术和提升用户体验，您理解并同意，我们有权在必要范围内向第三方合作伙伴提供您的个人信息，且第三方合作伙伴亦可以基于前述目的自行收集和使用您的个人信息，并在保护您个人信息和隐私权以及符合适用法律法规的前提下，将收集的信息和数据经去标识化或匿名化处理后用于其他服务和用途。当我们要将个人信息用于本政策未载明的其它用途时，会事先通知您并征求您的同意。当我们要将基于特定目的收集而来的信息用于其他目的时，也会事先通知您并并征求您的同意。</p><p><br>（6）云信即时通讯（网易IM）：</p><p>第三方公司名称：杭州网易质云科技有限公司<br>共享类型：内嵌SDK<br>共享信息：唯一设备识别码（APNS Token、设备序列号、AndroidID、OAID、GAID、IDFV、CID、MAC地址）；设备运行状态（SIM卡状态、USB状态、充电状态、电池容量及电量、锁屏时间、启动时间）；设备信息（设备类型、设备品牌及型号、设备厂商、设备所运行系统版本、名称、编辑版本信息、系统内核信息、CPU型号、设备内存及存储大小、屏幕亮度及分辨率、设备输入装置、设备架构、基带信息、字体HASH、HOSTNAME、辅助功能列表、系统进程列表）；日志信息（设备运行状态（CPU、内存运行状态）、浏览器类型及版本信息、网络连接类型及状态、WIFISSID、WIFIBSSID、IP地址、运营商信息、网络代理、云信通信服务运行日志信息）。<br>使用目的：提供消息投递、多端消息同步、消息漫游功能，同时为了预防安全风险，准确识别违反法律法规的情况<br>使用场景：提供即时通讯服务<br>共享方式：（外部）接口共享<br></p><p>第三方隐私链接：https://yunxin.163.com/clauses?serviceType=3&nbsp;&nbsp;<br>（7）360加固：我们使用360加固来强化APP的安全水平。<br>（8）腾讯X5（com.tencent.smtt）：我们使用此接口来完成APP中的H5页面的展示。</p><p>为实现SDK产品的网页等浏览功能所必须，我们将向终端用户或开发者收集终端用户在使用与SDK产品相关的功能时产生的如下个人信息:&nbsp;</p><p>
+</p><table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td valign="top">
+<p>个人信息类型</p>
+</td>
+<td valign="top">
+<p>使用目的及功能场景</p>
+</td>
+<td valign="top">
+<p>处理方式</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>设备信息（设备型号、操作系统、CPU类型）</p>
+</td>
+<td valign="top">
+<p>浏览器内核升级和禁用细化控制</p>
+</td>
+<td valign="top">
+<p>通过去标识化、加密传输和处理的安全处理方式</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>应用信息（宿主应用包名，版本号）</p>
+</td>
+<td valign="top">
+<p>浏览器内核升级及禁用细化控制需要</p>
+</td>
+<td valign="top">
+<p>通过去标识化、加密传输和处理的安全处理方式</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>Wi-Fi状态和参数</p>
+</td>
+<td valign="top">
+<p>判断Wi-Fi是否连接，进行网络优化</p>
+</td>
+<td valign="top">
+<p>通过去标识化、加密传输和处理的安全处理方式</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<p>位置信息、附近的<b><i>Wi-Fi</i></b>、<b><i>CellID</i></b></p>
+</td>
+<td valign="top">
+<p>用户主动打开网页且网页自身需要定位位置时触发</p>
+</td>
+<td valign="top">
+<p>内存中获取使用，程序退出立即销毁</p>
+</td>
+</tr>
+</tbody>
+</table><p>（9）高德开放平台定位SDK</p><p>第三方名称：高德软件有限公司</p><p>使用目的：实现定位/展现地图（请根据具体使用目的填写）</p><p>收集个人信息：位置信息（经纬度、精确位置、粗略位置）【通过IP&nbsp;地址、GNSS信息、WiFi状态、WiFi参数、WiFi列表、基站信息、信号强度的信息、蓝牙信息、传感器信息（矢量、加速度、压力）、设备信号强度信息获取】、设备标识信息（IMEI、IDFA、IDFV、Android&nbsp;ID、MEID、MAC地址、OAID、IMSI、硬件序列号）、当前应用信息（应用名、应用版本号）、设备参数及系统信息（系统属性、设备型号、操作系统）。基于不同的设备和系统（安卓/iOS）及系统版本，以及开发者在集成、使用我们SDK产品时决定的权限，收集的设备信息会有所不同，因此开发者应对实际收集的个人信息向用户进行说明。各SDK具体收集使用个人信息情况详见<a href="https://lbs.amap.com/agreement/sample" target="_blank" rel="noopener noreferrer">https://lbs.amap.com/agreement/sample</a>）</p><p></p><p>隐私权政策链接：<a href="https://lbs.amap.com/pages/privacy/" target="_blank" rel="noopener noreferrer">https://lbs.amap.com/pages/privacy/</a>&nbsp;<br>（10）华为推送：我们使用此接口在APP中给您推送信息（华为专用接口）<br>（11）小米推送：我们使用此接口在APP中给您推送信息（小米专用接口）<br>（12）vivo推送：我们使用此接口在APP中给您推送信息（vivo专用接口）<br>（13）oppo推送：我们使用此接口在APP中给您推送信息（oppo专用接口）<br>（14）百度AR: 我们使用此接口来完成APP中的AR扫码功能。<br>（15）创蓝：我们使用此接口来完成APP中的一键登录及发送产品、服务信息的功能。我们的产品为改善注册及登录界面用户体验，集成第三方SDK一键登录服务：闪验SDK，用于帮助实现用户一键登录行为。为了实现网关取号技术，闪验SDK需要获取IP地址、网卡（MAC)地址、国际移动设备识别码（IMEI）、OAID（替代IMEI）、sim卡信息，并会收集手机机型、系统类型、系统版本、网络环境、网关取号报错日志等数据以提供统计分析服务能力，并可提供反欺诈等功能。<br>我们或我们合作伙伴【创蓝】会并通过站内信息、短信方式、发送服务状态通知、电话的方式向您推荐您可能感兴趣的内容，包括但不限于向您发出产品、服务信息，或通过系统向您展示的第三方推广信息。此外，我们会与我们的合作伙伴共享您的个人信息便他们自行或协助我们向您发送有关产品和服务的信息。如您不希望接收上述信息，可通过退订功能退订；<br>当您注册或【使用手机号登录】时，我们或我们合作伙伴【创蓝】会给您发送短信验证码，当您收到短信验证码时，我们会自动读取您的该条短信息并将其中的验证码同步至我们注册或登录界面中，您可以直接点击验证码完成填写。我们不会读取您的其他短信内容。<br>（16）支付宝：我们使用此接口完成APP中支付宝支付功能。<br>（17）招行：我们使用此接口完成APP中招行支付功能。<br>（18）建行：我们使用此接口完成APP中建行支付功能。<br>（19）翼支付：我们使用此接口完成APP中翼支付支付功能。<br>（20）华为pay：我们使用此接口完成APP中华为pay支付功能。<br>（21）云闪付：我们使用此接口完成APP中云闪付支付功能。<br>（22）微信支付：我们使用此接口完成APP中微信支付功能。<br>（23）京东支付：我们使用此接口完成APP中京东支付功能。<br>（24）ApplePay：我们使用此接口完成APP中苹果支付功能。<br>（25）兑吧：我们使用此接口提供APP中积分商城的积分活动和游戏中心的小游戏<br>（26）七鱼云客服SDK<br>设备识别码（IMEI和MAC）：被用于确定唯一的客户服务对象，以便在您的设备在未登录状态下，我们也能向您提供连续的会话服务；<br>网络信息（IP）：为了最大程度保持网络连接的稳定性，我们需要了解设备的网络状态和变化，从而实现稳定连续的会话服务。<br>（27）腾讯云音视频SDK<br>采集方式<br>自动采集<br>收集个人信息用途/目的<br>发布商品时拍摄短视频功能、编辑视频；<br>收集个人信息类型<br>常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号、设备操作系统）、网络状态<br>第三方机构名称及其隐私政策链接<br>腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470<br><br>（28）腾讯云RTMP 移动直播 SDK<br>采集方式<br>自动采集<br>收集个人信息用途/目的<br>提供直播观看、直播连麦、互动功能、美颜滤镜功能；<br>收集个人信息类型<br>常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号、设备操作系统）、网络状态<br>第三方机构名称及其隐私政策链接<br>腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470<br>（29）腾讯云人脸核验<br>采集方式<br>自 动 采 集；用户手动输入<br>收集个人信息用途/目的<br>提供实人认证功能<br>收集个人信息类型<br>常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号设备操作系统）、网络状态、姓名、身份证、人脸识别信息<br>第三方机构名称及其隐私政策链接<br>腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470</p><p>（30）字节跳动视频点播SDK&nbsp;</p><p>收集个人信息目的：通过采集客户端的相关信息，提供业务性能监控报表与故障排查能力</p><p><strong>设备信息：</strong><br>【Android】设备品牌、型号、软件系统版本相关信息、oaid等基础信息、无线网SSID名称、WIFI路由器MAC地址、设备的mac地址、设备IMEI<br>【IOS】设备品牌、型号、软件系统版本相关信息、手机系统重启时间、磁盘总空间、系统总内存空间、CPU数目等基础信息<br><strong>应用信息</strong>&nbsp;：开发者应用名、应用包名、版本号等信息<br><strong>其他信息：</strong>&nbsp;运营商信息、设备时区</p><p>（31）GrowingIO SDK</p><p>为向您提供个性化的信息或服务，向您展示、推荐或推送与您有更高相关度、您更感兴趣的等内容，我们收集和使用您的以下个人信息并进行分析：<br>1)您的浏览、收藏、搜索记录。<br>2)您主动提供的点赞、分享、评论的行为信息。<br>3)获得您同意后的设备信息，包括设备品牌、设备型号、设备操作系统及版本号、唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID)&nbsp;</p><p>隐私协议链接：https://accounts.growingio.com/privacy</p><p><br>（四）您应充分知晓，以下情形中，我们收集、使用个人信息无需征得您的授权同意：<br>1、与国家安全、国防安全有关的；<br>2、与公共安全、公共卫生、重大公共利益有关的；<br>3、与犯罪侦查、起诉、审判和判决执行等有关的；<br>4、出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；<br>5、所涉及的个人信息是个人信息主体或监护人自行向社会公众公开的；<br>6、从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；<br>7、根据您的要求签订和履行合同所必需的；<br>8、用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；<br>9、为合法的新闻报道所必需的；<br>10、法律法规规定的其他情形。<br><br>（五）您个人信息使用的规则<br>1、我们会根据本隐私协议的约定，为实现我们的产品与/或服务功能而对所收集的个人信息进行使用。<br>2、在收集您的个人信息后，我们将通过技术手段对信息进行去标识化处理，去标识化处理的信息将无法识别主体。请您了解并同意，在此情况下我们有权使用已经去标识化的信息；并在不透露您个人信息的前提下，我们有权对用户数据库进行分析并予以商业化的利用。<br>3、请您了解并同意，对于您在使用我们的产品与/或服务时所提供的所有个人信息，除非您删除或通过系统设置拒绝我们收集，否则将被视为在您使用我们的产品与/或服务期间持续授权同意我们使用。<br>4、我们会对我们的产品与/或服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息，以展示我们的产品与/或服务的整体使用趋势。但这些统计信息不包含您的任何身份识别信息。<br>5、当我们展示您的个人信息时，我们会采用包括内容替换、匿名处理方式对您的信息进行脱敏，以保护您的信息安全。<br>6、当我们要将您的个人信息用于本隐私协议未载明的其它用途时，或基于特定目的收集而来的个人信息用于其他目的时，会事先征求您的明示同意。请您理解，我们向您提供的产品与/或服务将不断更新变化。如果您选择使用本隐私协议中尚未列明的其他产品与/或服务时，我们会在收集您的个人信息前通过协议、页面提示等方式向您详细说明信息收集的目的、方式、范围并征求您的同意。若您不同意提供前述信息，您可能无法使用该项产品与/或服务，但不影响您使用现有产品与/或服务。<br><br>二、我们如何使用 Cookies 和同类技术<br><br>（一）Cookies的使用<br>1、为实现您联机体验的个性化需求，使您获得更轻松的访问体验。我们会在您的计算机或移动设备上发送一个或多个名为Cookies的小数据文件，指定给您的Cookies 是唯一的，它只能被将Cookies发布给您的域中的Web服务器读取。我们向您发送Cookies是为了简化您重复登录的步骤、存储您的购物偏好或您购物车中的商品数据，进而为您提供购物的偏好设置、帮助您优化对广告的选择与互动、帮助判断您的登录状态以及账户或数据安全。<br>2、我们不会将 Cookies 用于本隐私协议所述目的之外的任何用途。您可根据自己的偏好管理或删除 Cookies。您可以清除计算机上保存的所有 Cookies，大部分网络浏览器会自动接受Cookies，但您通常可根据自己的需要来修改浏览器的设置以拒绝 Cookies；另外，您也可以清除软件内保存的所有Cookies。但如果您这么做，您可能需要在每一次访问来伊份网站时亲自更改用户设置，而且您之前所记录的相应信息也均会被删除，并且可能会对您所使用服务的安全性有一定影响。<br><br>（二）网络Beacon和同类技术的使用<br>除Cookies 外，我们还会在网站上使用网络Beacon等其他同类技术。我们的网页上常会包含一些电子图像（称为"单像素" GIF 文件或 "网络 Beacon"）。我们使用网络Beacon的方式有：<br>1、通过在来伊份网站上使用网络Beacon，计算用户访问数量、停留时间，并通过访问 Cookies 辨认注册的来伊份用户；<br>2、通过得到的Cookies信息，为您提供个性化服务。<br><br>三、我们如何共享、转让、公开披露您的个人信息<br><br>（一）共享<br>我们不会与来伊份以外的任何公司、组织和个人共享您的个人信息，但以下情况除外：<br>1、在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。<br>2、在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。<br>3、在您主动选择情况下共享：您通过来伊份平台购买商品或服务，我们会根据您的选择，将您的订单信息中与交易有关的必要信息共享给相关商品或服务的提供者，以实现您的交易及售后服务需求。<br>4、我们可能会将您的个人信息与我们的关联方共享。为便于我们基于来伊份平台账户向您提供产品和服务，推荐您可能感兴趣的信息，识别会员账号异常，保护来伊份关联公司或其他用户或公众的人身财产安全免遭侵害，您的个人信息可能会与我们的关联公司和/或其指定的服务提供商共享。我们只会共享必要的个人信息，且受本隐私协议中所声明目的的约束，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。<br>5、我们可能会向合作伙伴等第三方共享您的订单信息、账户信息、设备信息以及位置信息，以保障为您提供的服务顺利完成。但我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供产品/与或服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。 我们的合作伙伴包括以下类型：<br>（1）商品或技术服务的供应商。我们可能会将您的个人信息共享给支持我们功能的供应商。这些支持包括为我们供货或提供基础设施技术服务、物流配送服务、支付服务、数据处理等。我们共享这些信息的目的是可以实现我们产品与/或服务的核心购物功能，比如我们必须与物流服务供应商共享您的订单信息才能安排送货；当您下单的商品或服务由供应商直接发货或提供服务时，我们需要将您订单中的订购信息和收货信息共享给供应商，以指示其交付商品或提供服务。<br>（2）第三方商家。我们必须将您的订单信息与交易有关的必要信息与第三方商家共享来实现您向其购买商品或服务的需求，并促使其可以完成后续的售后服务。<br>（3）委托我们进行推广的合作伙伴（“委托方”）。有时我们会接受其他企业委托向使用我们产品与/或服务的用户群进行促销推广。我们可能会使用您的个人信息以及您的非个人信息集合形成的间接用户画像与委托方共享，但我们仅会向这些委托方提供推广的覆盖面和有效性的信息，而不会提供您的个人身份信息或者将这些信息进行汇总，以便提供该等信息并不会识别您个人。例如我们可以告知该委托方在浏览了委托方推广信息或在看到这些信息后购买了委托方的商品的人数，或者向委托方提供不能识别个人身份的统计信息，以帮助其了解受众或顾客。<br>（4）供应商、服务提供商和其他合作伙伴。我们将信息发送给支持我们业务的供应商、服务提供商和其他合作伙伴，这些支持包括受我们委托提供的技术基础设施服务、分析我们服务的使用方式、衡量广告和服务的有效性、提供客户服务、支付便利。<br>为了使您能够使用上述服务及功能，我们的应用中会嵌入授权合作伙伴的SDK或其他类似的应用程序。如您使用华为/小米/魅族手机时，华为/小米/魅族Push SDK需要读取您的设备识别号、联网相关信息，用于推送/下发通知栏消息；如您使用向微博分享信息功能，相关SDK会收集您的设备识别号、联网相关信息。我们会对授权合作伙伴获取有关信息的应用程序接口（API）、软件工具开发包（SDK）进行严格的安全检测，并与授权合作伙伴约定严格的数据保护措施，令其按照我们的委托目的、服务说明、本隐私权协议以及其他任何相关的保密和安全措施来处理个人信息。<br>6、对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的说明、本隐私协议以及其他任何相关的保密和安全措施来处理个人信息。<br>7、为了遵守法律、执行或适用我们的使用条件和其他协议，或者为了保护来伊份、您或其他来伊份用户的权利及其财产或安全，比如为防止欺诈等违法活动和减少信用风险，而与其他公司和组织交换信息。不过，这并不包括违反本隐私协议中所作的承诺而为获利目的出售、出租、共享或以其它方式披露的个人信息。<br><br>（二）转让<br><br>我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：<br>1、获得您明确同意或基于您的主动选择，我们可能会公开披露您的个人信息；<br>2、符合与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；<br>3、在涉及合并、收购、资产转让或类似的交易时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本隐私协议的约束，否则，我们将要求该公司、组织重新征求您的授权同意。<br><br>（三）公开披露<br><br>我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会公开披露您的个人信息：<br>1、根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息；<br>2、根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。在法律法规许可的前提下，我们披露的文件均在加密密钥的保护之下。<br><br>四、我们如何保护和存储您的个人信息<br><br>（一）我们保护您个人信息的技术与措施<br><br>我们非常重视个人信息安全，并采取一切合理可行的措施，保护您的个人信息：<br>1、数据安全技术措施<br>我们会采用符合业界标准的安全防护措施，包括建立合理的制度规范、安全技术来防止您的个人信息遭到未经授权的访问使用、修改，避免数据的损坏或丢失。<br>来伊份的网络服务采取了传输层安全协议等加密技术，通过https等方式提供浏览服务，确保用户数据在传输过程中的安全。<br>在个人信息使用时，例如个人信息展示、个人信息关联计算，我们会采用去标识化技术对敏感个人信息脱敏处理以增强个人信息在使用中的安全性。<br>来伊份采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免数据被违规使用。<br>来伊份采用代码安全自动检查、数据访问日志分析技术进行个人信息安全审计。<br>2、来伊份为保护个人信息采取的其他安全措施<br>来伊份通过建立数据分类分级制度、数据安全管理规范、数据安全开发规范来管理规范个人信息的存储和使用。<br>来伊份通过信息接触者保密协议、监控和审计机制来对数据进行全面安全控制。<br>来伊份建立数据安全委员会并下设信息保护专职部门、数据安全应急响应组织来推进和保障个人信息安全。<br>3、我们仅允许有必要知晓这些信息的来伊份及来伊份关联方的员工、合作伙伴访问个人信息，并为此设置了严格的访问权限控制和监控机制。我们同时要求可能接触到您个人信息的所有人员履行相应的保密义务。如果未能履行这些义务，可能会被追究法律责任或被终止与来伊份的合作关系。<br>4、我们会采取一切合理可行的措施，确保未收集无关的个人信息。<br>5、互联网并非绝对安全的环境，而且电子邮件、即时通讯、社交软件等与其他用户的交流方式无法确定是否完全加密，我们建议您使用此类工具时请使用复杂密码，并注意保护您的个人信息安全。在通过来伊份与第三方进行网上产品与/或服务的交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址等。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。<br>6、安全事件处置<br>为应对个人信息泄露、损毁和丢失等可能出现的风险，来伊份制定了多项制度，明确安全事件、安全漏洞的分类分级标准及相应的处理流程。来伊份也为安全事件建立了专门的应急响应团队，按照安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、定位、制定补救措施并联合相关部门进行溯源和打击。<br>一旦发生个人信息安全事件，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们同时将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，当难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。<br>7、互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。<br>8、如果您对我们的个人信息保护有任何疑问，可通过本隐私协议中约定的联系方式联系我们。如您发现自己的个人信息泄露，尤其是您的账户及密码发生泄露，请您立即通过本隐私协议【八、如何联系我们】中约定的联系方式联络我们，以便我们采取相应措施。<br><br>（二）您个人信息的存储<br><br>1、您的个人信息将存储于中华人民共和国境内。如您使用跨境交易服务，且需要向境外传输您的个人信息完成交易的，我们会单独征得您的授权同意并要求接收方按照我们的说明、本隐私协议以及其他任何相关的保密和安全措施来处理这些个人信息。<br>2、在您使用我们的产品与/或服务期间，您的个人信息将在为了实现本协议所述目的之期限内存储，同时将结合法律有强制的留存要求期限的规定确定，如《中华人民共和国电子商务法》要求商品和服务信息、交易信息存储时间自交易完成之日起不少于三年。在超出存储期间后，我们会根据适用法律的要求删除您的个人信息，或进行匿名化处理。<br>3、请您注意，当您成功注销来伊份账户后，我们将对您的个人信息进行删除或匿名化处理。当您或我们协助您删除相关信息后，因为适用的法律和安全技术限制，我们可能无法立即从备份系统中删除相应的信息，我们将安全地存储您的个人信息并限制对其的任何进一步的处理，直到备份可以删除或实现匿名化。<br>4、如果我们终止服务或运营，我们会至少提前三十日向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理。<br><br>五、您如何管理您的个人信息<br><br>来伊份非常重视您对个人信息的关注，并尽全力保护您对于您个人信息访问、更正、删除以及撤回同意的权利，以使您拥有充分的能力保障您的隐私和安全。您的权利包括：<br>1、访问和更正您的个人信息<br>除法律法规规定外，您有权随时访问和更正您的个人信息，具体包括：<br>（1）您的账户信息：APP具体路径为：首页--“我的”进入我的来伊份—“右上角设置图标”进入个人设置；<br>（2）您的收货信息：APP具体路径为：首页--“我的”进入我的来伊份--“常用应用”进入常用应用中—收获地址。您也可以将最常用的收货地址设置为默认地址，如此，若您下次购买商品时未更改收货地址，您的商品会配送到该默认地址。<br>（3）您的订单信息：APP具体路径为：APP首页--“我的”进入我的来伊份--我的订单/待收款/待收货/退换售后。您可以选择删除已经完成和已取消的订单来删除您的订单信息，但这样可能导致我们无法准确判断您的购买信息而难以提供相应的售后服务，您也无法对删除的订单使用我们的晒单和评价功能。<br>（4）您的浏览信息：您可以访问或清除您的搜索历史记录、查看和修改兴趣以及管理其他数据。APP路径为：搜索历史记录：首页--“我的”进入我的来伊份--浏览记录；<br>（5）您的评论信息：首页--“我的”进入我的来伊份--“常用应用”进入常用应用中—评论中心。<br>（6）对于您在使用我们的产品与/或服务过程中产生的其他个人信息需要访问或更正，请随时联系我们。我们会根据本隐私协议所列明的方式和期限响应您的请求。<br>（7）您无法访问和更正的个人信息：除上述列明的信息外，您的部分个人信息我们无法为您提供访问和更正的服务，这些信息主要是为了提升您的用户体验和保证交易安全所收集的您的设备信息、您使用扩展功能时产生的个人信息。上述信息我们会在您的授权范围内进行使用，您无法访问和更正，但您可通过客服联系我们进行删除或做匿名化处理。<br><br>2、删除您的个人信息<br>您在我们的产品与/或服务页面中可以直接清除或删除的信息，包括订单信息、浏览信息、收货地址信息。<br>我们在来伊份 App 上提供以下方式帮助您删除您在来伊份APP上的信息。<br>您可通过【发现 → 朋友圈】，删除您在社区发布的信息（评论、晒单、问答、图片、视频）；<br>您可通过【我的 → 设置】，删除您的个人信息（包括姓名、昵称、个人手机号码、身份证、生日、性别）；<br>您可通过【我的 → 我的订单】，删除您的订单记录（包括收货人姓名、收货手机号码、个人固定电话、收货地址、订单号、购买商品和服务、购买金额）；<br>您可通过联系APP在线客服或者致电4008819777注销您的个人账户（推荐使用APP在线客服）。</p><p>在以下情形中，您可以向我们提出删除个人信息的请求：<br>（1） 如果我们处理个人信息的行为违反法律法规；<br>（2） 如果我们收集、使用您的个人信息，却未征得您的同意；<br>（3） 如果我们处理个人信息的行为违反了与您的约定；<br>（4） 您出于任何原因撤回个人同意或授权；<br>（5） 您的个人信息的处理目的已实现；<br>（6） 如果我们终止服务及运营；<br>（7） 法律、行政法规规定的其他情形。<br>若我们决定响应您的删除请求，我们还将同时通知从我们获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定，或这些实体已经获得您的独立授权。若我们响应您的删除请求，我们不能保证立即从备份系统中删除相应的信息，但会在备份系统更新时删除这些信息。<br><br>3、改变您授权同意的范围或撤回您的授权<br>您可以通过删除信息、关闭设备功能、在来伊份网站或软件中进行隐私设置等方式改变您授权我们继续收集个人信息的范围或撤回您的授权。您也可以通过注销账户的方式，撤回我们继续收集您个人信息的全部授权。<br>请您理解，每个业务功能需要一些基本的个人信息才能得以完成，当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响此前基于您的授权而开展的个人信息处理。<br><br>4、如果您不想接受我们给您发送的促销信息，您可随时通过以下方式取消：<br>（1）您可以通过APP“账户设置-设置-消息设置”勾选或去除对应的通知类型。<br>5、响应您的请求<br>如果您无法通过上述方式访问、更正或删除您的个人信息，或您需要访问、更正或删除您在使用我们产品与/或服务时所产生的其他个人信息，或您认为来伊份存在任何违反法律法规或与您关于个人信息的收集或使用的约定，您均可以通过点击“无聊-客服小伊”联系APP在线客服或致电400-8819-777与我们联系。为了保障安全，我们可能需要您提供书面请求，或提供您的身份证明文件，我们将在收到您反馈并验证您的身份后的15天内答复您的请求。对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际（例如，涉及备份磁带上存放的信息）的请求，我们可能会予以拒绝。</p><p><br>在以下情形中，按照法律法规要求，我们将无法响应您的请求：<br>（1）与个人信息控制者履行法律法规规定的义务相关的；<br>（2）与国家安全、国防安全有关的；<br>（3）与公共安全、公共卫生、重大公共利益有关的；<br>（4）与刑事侦查、起诉、审判和执行判决等有关的；<br>（5）有充分证据表明您存在主观恶意或滥用权利的；<br>（6）出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；<br>（7）响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；<br>（8）涉及商业秘密的。<br><br>六、未成年人的个人信息保护<br><br>1、来伊份非常重视对未成年人个人信息的保护。若您是18周岁以下的未成年人，在使用我们的产品与/或服务前，应事先取得您监护人的同意。来伊份根据国家相关法律法规的规定保护未成年人的个人信息。<br>2、我们不会主动直接向未成年人收集其个人信息。对于经监护人同意而收集未成年人个人信息的情况，我们只会在受到法律允许、监护人同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。<br>3、如果有事实证明未成年人并未取得监护人同意的情况下注册使用了我们的产品与/或服务，我们会与相关监护人协商，并设法尽快删除相关个人信息。<br>4、对于可能涉及的不满14周岁的儿童个人信息，我们进一步采取以下措施予以保障：<br>（1）对于收集到的儿童个人信息，我们除遵守本隐私协议关于用户个人信息的约定外，还会秉持正当必要、知情同意、目的明确、安全保障、依法利用的原则，严格遵循《儿童个人信息网络保护规定》等法律法规的要求进行存储、使用、披露，且不会超过实现收集、使用目的所必须的期限，到期后我们会对儿童个人信息进行删除或匿名化处理。<br>（2）当您作为监护人为被监护的儿童选择使用来伊份相关服务时，我们可能需要向您收集被监护的儿童个人信息，用于向您履行相关服务之必要。在具体服务中需要向您收集儿童个人信息的，我们会事先取得您的授权同意，并告知您收集的目的和用途。如果您不提供前述信息，您将无法享受我们提供的相关服务。此外，您在使用晒单、评价及问答功能分享商品相关信息时可能会主动向我们提供儿童个人信息，请您明确知悉并谨慎选择。您作为监护人应当正确履行监护职责，保护儿童个人信息安全。若儿童本人需要注册或使用我们的产品与/或服务，您应正确引导并予以监护。<br>（3）儿童或其监护人有权随时访问和更正儿童个人信息，还可以向我们提出更正和删除的请求。如您对儿童个人信息相关事宜有任何意见、建议或投诉、举报，请联系我们。我们会随时为您提供帮助。<br><br>七、通知和修订<br><br>1、为给您提供更好的服务以及随着来伊份业务的发展，本隐私协议也会随之更新。但未经您明确同意，我们不会削减您依据本隐私协议所应享有的权利。我们会通过在来伊份APP上发出更新版本并在生效前通过弹窗的方式提醒您相关内容的更新，也请您访问来伊份APP以便及时了解最新的隐私协议。</p><p>2、对于重大变更，我们还会提供更为显著的通知（我们会通过包括但不限于短信或在浏览页面做特别提示等方式，说明隐私协议的具体变更内容）。<br>本隐私协议所指的重大变更包括但不限于：<br>（1）我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；<br>（2）我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；<br>（3）个人信息共享、转让或公开披露的主要对象发生变化；<br>（4）您参与个人信息处理方面的权利及其行使方式发生重大变化；<br>（5）我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；<br>（6）个人信息安全影响评估报告表明存在高风险时。<br><br>八、如何联系我们<br><br>1、如您对本隐私协议或您个人信息的相关事宜有任何问题、意见或建议，请通过以下方式与我们联系：<br>客服热线：400-8819-777<br>您还可以随时通过访问来伊份社区购APP，点击“无聊-客服小伊”与我们联系。<br>2、一般情况下，我们将在15天内回复。如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报。<br>注：本隐私协议版本更新日期为2023年02月21日。&nbsp;</p></div></div> <div class="noCon" style="display: none;"></div> <!----></section></div>
+<textarea id="var1592015633381376" style="display: none;">{"isAvailable":1,"endDate":{"date":1,"hours":7,"seconds":59,"month":11,"timezoneOffset":-480,"year":199,"minutes":59,"time":4099766399000,"day":2},"tagIds":[],"description":"《来伊份用户隐私协议》本版更新时间：2022年【09】月【20】日本版生效时间：2022年【09】月【20】","templateHtml":"&lt;div id=\"articleApp\" v-cloak&gt;\n &lt;section class=\"ui-container pd12\"&gt;\n &lt;h1 class=\"fz20\" v-show=\"isShow\"&gt;{{articleInfo.title}}&lt;\/h1&gt;\n &lt;div v-show=\"!noCon\"&gt;\n &lt;div class=\"ui-border-b sub-info\" v-show=\"isShow\"&gt;\n &lt;ul class=\"ui-row-flex\"&gt;\n &lt;li class=\"ui-col ui-flex ui-flex-pack-start\"&gt;\n {{articleInfo.author}}\n &lt;\/li&gt;\n &lt;li class=\"ui-col ui-flex ui-flex-pack-end\"&gt;\n {{articleInfo.date | dateYMD}}\n &lt;\/li&gt;\n &lt;\/ul&gt;\n &lt;\/div&gt;\n &lt;div class=\"con\" v-html=\"articleCon\"&gt;&lt;\/div&gt;\n &lt;\/div&gt;\n &lt;div class=\"noCon\" v-show=\"noCon\"&gt;&lt;\/div&gt;\n &lt;div class=\"ui-btn ui-btn-primary\" @click=\"save()\" v-if=\"mobileShow\" style=\"position: absolute; left: 39%; margin-top:-180px;\"&gt; 保存海报&lt;\/div&gt;\n &lt;\/section&gt;\n &lt;\/div&gt;","type":8,"categoryName":"文章","cmsPageSectionsHeaderVO":{"sectionVersion":0,"pageType":0,"sectionJs":"&lt;script&gt;\nvar vm = new Vue({\n el: '#cms-header-template',\n data: function () {\n return {\n dHeight: 45,\n showHeader: true,\n rightNavFlag: false,\n title: '',\n isShareAvailable: true,\n template: (window['template'] || window['frontTemplate']),\n msgSummary: 0, //消息数量\n //分享内容\n shareConfig: null,\n //第三方分享\n showShare: false,\n //微信分享\n wxShare: false,\n appback: false,\n isClick: false,\n isDistribution:false,\n shareCodeSession : Vue.sessionStorage.getItem('s_currentsharecode')\n }\n },\n mounted: function () {\n var self = this;\n $('body').on('touchstart', function () {\n self.rightNavFlag = false;\n });\n self.$nextTick(function () {\n if (location.pathname.indexOf('category/') &gt; -1) {\n var reg = /\\/(\\w+)\\.html/i;\n var mat = location.pathname.match(reg) ? location.pathname.match(reg)[1] : '';\n var title = '资讯';\n switch (mat) {\n case 'yznk':\n title = '伊仔内刊';\n break;\n case 'headlines':\n title = '伊仔热点';\n break;\n case 'gg_1':\n title = '公告';\n break;\n case 'yiqizhuanheadline':\n title = '伊起赚公告';\n break;\n case 'cysc_1':\n title = '创意素材';\n break;\n default:\n title = '资讯';\n break;\n }\n self.title = title;\n self.isShareAvailable = false;\n } else if (location.pathname.indexOf('article') &gt; -1) {\n //如果是伊仔热点就显示伊仔热点\n if ($('textarea').length &gt; 0) {\n $('textarea').each(function () {\n if (/var\\d{16,}/.test($.trim($(this).attr('id')))) {\n try {\n var catInfo = $.parseJSON($.trim($(this).val()));\n if (catInfo) {\n if (catInfo.categoryName == '漫画' || catInfo.categoryName == '热点') {\n self.title = '伊仔热点';\n } else {\n self.title = document.title;\n }\n }\n } catch (e) {\n console.log(e);\n }\n }\n });\n }\n } else {\n self.title = document.title;\n }\n //重新设置页面标题\n document.title = self.getMallSetting('mobileMallName');\n var hideHeader = self.getUrlParam('hideHeader')\n if(Vue.browser.isApp() || Vue.browser.weixin() || hideHeader=='1'){\n self.showHeader = false;\n }\n Vue.app.postMessage('hiddenHead', {\n 'isHidden': '1'\n });\n //在app中底部全球尖货页面不需要返回按钮\n var pageId = location.pathname.match(/\\/(\\d+)\\./)[1];\n var param = Vue.utils.paramsFormat(location.href);\n if (param.appback) {\n if (Vue.browser.isApp()) {\n self.appback = true;\n }\n }\n if (!Vue.auth.loggedIn()) { //如果没有登录 不初始化分享\n return;\n } else {\n if (Vue.browser.weixin()) {\n setTimeout(function () {\n self.share(false);\n }, 1000);\n }\n }\n });\n\n },\n methods: {\n getUrlParam:function(name){\n var reg = new RegExp(\"(^|&amp;)\"+ name +\"=([^&amp;]*)(&amp;|$)\"); //构造一个含有目标参数的正则表达式对象\n var r = window.location.search.substr(1).match(reg); //匹配目标参数\n if (r) return decodeURI(r[2]); return null; //返回参数值\n },\n getMallSetting: function (setKey) {\n var settingsKey = \"mallSettings\";\n var expireDateKey = \"settingExpireDate\";\n var appIdKey = \"weixinAppId\";\n var appIdexpireDateKey = \"appIdExpireDate\";\n var mallSettings = Vue.localStorage.getItem(settingsKey);\n return (mallSettings &amp;&amp; mallSettings[setKey]) || '来伊份移动商城';\n },\n goHome: function () {\n this.rightNavFlag = false;\n if (Vue.browser.isApp()) {\n location.href = 'lyf://home';\n } else {\n location.href = '/index.html';\n }\n\n },\n goMy: function () {\n this.rightNavFlag = false;\n if (Vue.browser.isApp()) {\n location.href = 'lyf://myhome';\n } else {\n location.href = '/my/home.html';\n }\n },\n stope: function (e) {\n e.stopPropagation();\n },\n clickBack: function () {\n //调用app的回退\n this.rightNavFlag = false;\n if (Vue.browser.isApp()) {\n Vue.app.back();\n return;\n }\n var cmsUrl = document.referrer;\n if( cmsUrl.indexOf( 'applyToTuike.html') &gt;= 0 ) {\n window.location.href = '/index.html'\n } else {\n history.back();\n }\n },\n initShare: function () {\n var self = this;\n var config = self.shareConfig;\n self.rightNavFlag = false;\n if ($.trim(config.title).length == 0) {\n $.tips({\n content: '获取分享信息失败',\n stayTime: 2000,\n type: \"error\"\n });\n return;\n }\n if (Vue.browser.isApp()) {\n Vue.app.postMessage('cmsShare', {\n url:config.link,\n title: config.title,\n description: config.desc,\n url160x160: config.imgUrl,\n pic: config.imgUrl,\n isDistribution:self.distribution\n });\n } else if (Vue.browser.weixin()) {\n if (self.isClick) {\n self.wxShare = true;\n self.showShare = false;\n }\n Vue.weixin.weixinShare(config, self.getYidou);\n } else {\n self.wxShare = false;\n self.showShare = true;\n mobShare.config({\n debug: false, // 开启调试，将在浏览器的控制台输出调试信息\n appkey: '9ca572cc88e6', // appkey\n params: {\n url: config.link, // 分享链接\n title: config.title, // 分享标题\n description: config.desc, // 分享内容\n pic: config.imgUrl, // 分享图片，使用逗号,隔开\n reason: config.reason || '' //只应用与QZone与朋友网\n },\n /**\n * 分享时触发的回调函数\n * 分享是否成功，目前第三方平台并没有相关接口，因此无法知道分享结果\n * 所以此函数只会提供分享时的相关信息\n *\n * @param {String} plat 平台名称\n * @param {Object} params 实际分享的参数 { url: 链接, title: 标题, description: 内容, pic: 图片连接 }\n */\n callback: function (plat, params) {\n /*if(typeof this.callback == 'function') {\n this.callback(plat, params);\n }*/\n }\n });\n }\n },\n share: function (isClick, e) {\n var articleId, url, param, self = this;\n self.isClick = isClick;\n e &amp;&amp; e.stopPropagation();\n if (!Vue.auth.loggedIn()) { //如果没有登录 需要先登录 为了获取自家did\n if (Vue.browser.isApp()) {\n Vue.app.login();\n } else {\n var from = Vue.utils.getRelatedUrl();\n window.location.href = \"/login.html?from=\" + encodeURIComponent(from);\n }\n return;\n }\n //资讯分享调用接口，营销页分享读取pageVO对象\n //获取分享信息\n if (location.pathname.indexOf('article') &gt; 0) {\n articleId = location.pathname.match(/\\/(\\d+)\\./)[1];\n url = location.protocol + '//' + self.template.h5_host + '/api/share/shareInfo';\n param = {\n type: 4,\n ut: Vue.auth.getUserToken(),\n paramId: articleId,\n platformId: 3,\n shareType: 1, //0:非分销模式，1：分销模式\n };\n Vue.api.get(url, param, function (res) {\n self.shareConfig = {\n link: res.data.linkUrl,\n title: res.data.title,\n desc: res.data.content,\n imgUrl: res.data.sharePicUrl\n };\n self.initShare();\n });\n } else { //营销页分享\n self.shareConfig = {\n link: location.href + '?shareCode=' + this.shareCodeSession ,\n title: '${page.shareTitle!}',\n desc: '${page.shareDesc!}',\n imgUrl: '${page.shareImg!}'\n };\n self.initShare();\n }\n },\n\n }\n});\n&lt;\/script&gt;","id":1006020401000013,"sectionId":1006020401000008,"addContent":"&lt;script defer id=\"-mob-share\" src=\"https://static.laiyifen.com/cms/front/ncms/libs/mob-share.js?appkey=9ca572cc88e6\"&gt;&lt;\/script&gt;","sectionType":1,"cmsPageId":0,"sectionCss":"&lt;style&gt;\r\n@charset \"UTF-8\";\r\n.showHeader {\r\n display: none; }\r\n\r\n.marL5 {\r\n margin-left: 5px; }\r\n\r\n.ui-icon-return {\r\n color: #ff6900; }\r\n\r\n.bT0 {\r\n border-bottom: 0 !important; }\r\n\r\n.cmsTitle {\r\n font-family: 'Microsoft Yahei', 'PingFangSC-Regular';\r\n width: 100%;\r\n height: 45px;\r\n display: block;\r\n line-height: 45px;\r\n text-overflow: ellipsis;\r\n color: #333;\r\n font-size: 18px;\r\n text-align: center;\r\n overflow: hidden;\r\n white-space: nowrap;\r\n box-sizing: border-box;\r\n padding: 0px 80px;\r\n word-break: break-all;\r\n }\r\n\r\n.cmsMore {\r\n display: inline-block;\r\n vertical-align: middle;\r\n background-image: url(\"https://static.laiyifen.com/cms/front/ncms/images/header-more.png?v=1507620891688\");\r\n background-repeat: no-repeat;\r\n background-size: 335px auto;\r\n width: 30px;\r\n background-position: -30px -159px;\r\n position: absolute;\r\n top: 0;\r\n right: 10px;\r\n height: 44px;\r\n line-height: 44px;\r\n color: #333;\r\n -webkit-transition: transform 0.4s;\r\n transition: transform 0.4s;\r\n transform: rotate(0);\r\n outline: none;\r\n moz-user-select: -moz-none;\r\n -moz-user-select: none;\r\n -o-user-select: none;\r\n -khtml-user-select: none;\r\n -webkit-user-select: none;\r\n -ms-user-select: none;\r\n user-select: none;\r\n -webkit-tap-highlight-color: transparent; }\r\n .cmsMore::selection {\r\n background-color: white;\r\n -webkit-tap-highlight-color: transparent; }\r\n .cmsMore .cmsCircle {\r\n width: 0px;\r\n height: 0px;\r\n display: block;\r\n border: 2px solid #666;\r\n border-radius: 50%;\r\n /* line-height: 51px; */\r\n margin: 22px 2px;\r\n float: left; }\r\n .cmsMore.hover {\r\n transform: rotate(90deg);\r\n outline: none;\r\n moz-user-select: -moz-none;\r\n -moz-user-select: none;\r\n -o-user-select: none;\r\n -khtml-user-select: none;\r\n -webkit-user-select: none;\r\n -ms-user-select: none;\r\n user-select: none;\r\n -webkit-tap-highlight-color: transparent; }\r\n\r\n.cms-ds-header-right.active {\r\n right: 2px; }\r\n\r\n.cms-ds-header-right {\r\n position: absolute;\r\n right: -100px;\r\n top: 45px;\r\n width: 80px;\r\n opacity: 0.9;\r\n border-radius: 4px;\r\n background-color: #3d3d3d;\r\n transition: right 0.4s;\r\n -webkit-transition: right 0.4s; }\r\n .cms-ds-header-right a {\r\n display: block;\r\n text-align: center;\r\n text-decoration: none;\r\n color: #fff;\r\n border-bottom: 1px solid #666;\r\n line-height: 45px; }\r\n .cms-ds-header-right .cms-header-home-icon {\r\n background-position: -213px -142px; }\r\n .cms-ds-header-right .cms-header-my-icon {\r\n background-position: -248px -113px; }\r\n .cms-ds-header-right .cms-header-share-icon {\r\n background-position: -140px -53px; }\r\n .cms-ds-header-right .cms-icon {\r\n display: inline-block;\r\n vertical-align: middle;\r\n background-image: url(\"https://static.laiyifen.com/cms/front/ncms/images/header-more.png?v=1507620891688\");\r\n background-repeat: no-repeat;\r\n background-size: 335px auto;\r\n height: 18px;\r\n width: 18px; }\r\n .cms-ds-header-right .cms-icon.cms-ds-header-favorite-icon {\r\n background-image: url(\"https://static.laiyifen.com/cms/front/ncms/images/header-favorite.png?v=1507620891688\");\r\n background-position: -82px -28px;\r\n background-size: 291px auto; }\r\n .cms-ds-header-right .cms-ds-header-arrow {\r\n position: absolute;\r\n top: -5px;\r\n right: 10px;\r\n border-left: 5px solid transparent;\r\n border-right: 5px solid transparent;\r\n border-bottom: 5px solid #3d3d3d;\r\n font-size: 0;\r\n line-height: 0; }\r\n\r\n.cms-ds-header-share-mask {\r\n position: fixed;\r\n top: 0;\r\n left: 0;\r\n width: 100%;\r\n height: 100%;\r\n z-index: 9999;\r\n opacity: 0;\r\n pointer-events: none;\r\n display: -webkit-box;\r\n -webkit-box-orient: horizontal;\r\n -webkit-box-pack: center;\r\n -webkit-box-align: end;\r\n background: rgba(0, 0, 0, 0.4);\r\n z-index: 9999; }\r\n .cms-ds-header-share-mask.show {\r\n pointer-events: inherit;\r\n opacity: 1;\r\n display: block; }\r\n .cms-ds-header-share-mask.show .cms-ds-header-share-wrap {\r\n -webkit-transform: translateY(0);\r\n -webkit-transition-delay: .3s;\r\n background-color: #fff; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap {\r\n font-size: 21px;\r\n position: fixed;\r\n bottom: 0;\r\n padding: 0 8px;\r\n width: 100%;\r\n -webkit-box-sizing: border-box;\r\n box-sizing: border-box;\r\n text-align: center;\r\n -webkit-transform: translateY(100%);\r\n -webkit-transition-property: all;\r\n -webkit-transition-timing-function: ease-out;\r\n -webkit-transition-duration: .3s;\r\n background-color: #f5f5f5; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop {\r\n display: -webkit-box;\r\n width: 100%;\r\n -webkit-box-sizing: border-box;\r\n padding: 20px 0; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop li {\r\n list-style: none;\r\n -webkit-box-flex: 1;\r\n width: 100%;\r\n text-align: center;\r\n display: -webkit-box;\r\n -webkit-box-orient: vertical;\r\n -webkit-box-pack: center;\r\n -webkit-box-align: center; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-weixin {\r\n background-position: 0px -354px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .f10 {\r\n font-size: 10px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .c3 {\r\n color: #333; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-qq {\r\n background-position: -142px -390px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-xinlang {\r\n background-position: -284px -390px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .icon-share-qzone {\r\n background-position: -212px -389px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .cms-divider {\r\n height: 1px;\r\n margin: 0 12px; }\r\n .cms-ds-header-share-mask .cms-ds-header-share-wrap .cms-ds-header-share-pop .cms-ds-header-share-cancel {\r\n height: 50px;\r\n color: #000;\r\n font-size: 18px;\r\n line-height: 50px;\r\n border: none;\r\n background-color: #fff;\r\n background: rgba(255, 255, 255, 0.84);\r\n display: block;\r\n margin: 0 auto;\r\n font-family: 'Microsoft Yahei'; }\r\n\r\n.cms-icon2 {\r\n display: inline-block;\r\n vertical-align: middle;\r\n background-image: url(\"https://static.laiyifen.com/cms/front/ncms/images/header-favorite.png?v=1507620891688\");\r\n background-repeat: no-repeat;\r\n background-size: 375px auto;\r\n width: 50px;\r\n height: 50px; }\r\n\r\n/*微信分享弹层*/\r\n.share-mask {\r\n position: fixed;\r\n width: 100%;\r\n height: 100%;\r\n top: 0;\r\n left: 0;\r\n color: #fff;\r\n z-index: 102;\r\n background: rgba(51, 51, 51, 0.8); }\r\n\r\n.share-mask .arrow {\r\n position: absolute;\r\n top: 20px;\r\n right: 25px;\r\n width: 70px; }\r\n\r\n.share-mask .inner {\r\n padding-top: 100px;\r\n margin-left: 30%;\r\n font-size: 18px; }\r\n\r\n.ui-badge-wrap {\r\n position: relative;\r\n text-align: center; }\r\n\r\n.icons3-index-slide-1 {\r\n width: 18px;\r\n height: 18px;\r\n background-position: 0px -71px; }\r\n\r\n.icons3 {\r\n display: inline-block;\r\n vertical-align: middle;\r\n background-image: url(\"https://static.laiyifen.com/cms/front/ncms/images/header-cmsicon.png?v=1490944619079\");\r\n background-repeat: no-repeat;\r\n background-size: 375px auto; }\r\n\r\n.ui-badge-cornernum {\r\n padding: 0px 2px;\r\n color: white;\r\n font-size: 10px;\r\n text-align: center;\r\n line-height: 14px;\r\n background-color: #ff6900;\r\n border-radius: 10px;\r\n height: 14px;\r\n min-width: 11px;\r\n z-index: 106;\r\n position: absolute;\r\n top: 3px;\r\n right: 3px; }\r\n\r\n[v-cloak] {\r\n display: none; }\r\n&lt;\/style&gt;","sectionHtml":"&lt;div id=\"cms-header-template\" v-show=\"showHeader\" v-cloak @touchstart=\"stope($event)\"&gt;\r\n &lt;div class=\"header-placeholer\" :style=\"{height:dHeight + 'px'}\"&gt;&lt;\/div&gt;\r\n &lt;header class=\"cmsHeader ui-header ui-header-stable\" id=\"cmsHeader\" :style=\"{height:dHeight + 'px'}\"&gt;\r\n &lt;a href=\"javascript:void(0);\" class=\"ui-icon-return marL5\" @click=\"clickBack\" v-show=\"!appback\"&gt;&lt;\/a&gt;\r\n &lt;b class=\"cmsTitle\"&gt;{{title}}&lt;\/b&gt;\r\n &lt;a href=\"javascript:void(0)\" :class=\"{'cmsMore':true,'hover':rightNavFlag}\" @click=\"rightNavFlag = !rightNavFlag\"&gt;&lt;\/a&gt;\r\n &lt;div :class=\"{'cms-ds-header-right':true,'active':rightNavFlag}\"&gt;\r\n &lt;i class=\"cms-ds-header-arrow\"&gt;&lt;\/i&gt;\r\n &lt;a href=\"javascript:void(0)\" @click=\"goHome()\"&gt;&lt;i class=\"cms-icon cms-header-home-icon\"&gt;&lt;\/i&gt; 首页&lt;\/a&gt;\r\n &lt;a href=\"javascript:void(0)\" v-show=\"isShareAvailable\" class=\"cms-header-share\" @click=\"share(true,$event)\"&gt;&lt;i class=\"cms-icon cms-header-share-icon\"&gt;&lt;\/i&gt; 分享&lt;\/a&gt;\r\n &lt;a href=\"javascript:void(0)\" @click=\"goMy()\"&gt;&lt;i class=\"cms-icon cms-header-my-icon bT0\"&gt;&lt;\/i&gt; &nbsp;&nbsp;我&nbsp;&nbsp;&lt;\/a&gt;\r\n &lt;\/div&gt;\r\n &lt;div class=\"cms-ds-header-share-mask\" v-bind:class=\"{'show':showShare}\" @click=\"showShare=false\"&gt;\r\n &lt;div class=\"cms-ds-header-share-wrap\"&gt;\r\n &lt;ul class=\"cms-ds-header-share-pop\"&gt;\r\n &lt;li&gt;\r\n &lt;div&gt;&lt;i class=\"cms-icon2 icon-share-weixin -mob-share-weixin\"&gt;&lt;\/i&gt;&lt;\/div&gt;\r\n &lt;span class=\"f10 c3\"&gt;微信&lt;\/span&gt;&lt;\/li&gt;\r\n &lt;li&gt;\r\n &lt;div&gt;&lt;i class=\"cms-icon2 icon-share-xinlang -mob-share-qzone\"&gt;&lt;\/i&gt;&lt;\/div&gt;\r\n &lt;span class=\"f10 c3\"&gt;QQ空间&lt;\/span&gt;&lt;\/li&gt;\r\n &lt;li&gt;\r\n &lt;div&gt;&lt;i class=\"cms-icon2 icon-share-qzone -mob-share-weibo\"&gt;&lt;\/i&gt;&lt;\/div&gt;\r\n &lt;span class=\"f10 c3\"&gt;新浪微博&lt;\/span&gt;&lt;\/li&gt;\r\n &lt;\/ul&gt;\r\n &lt;div class=\"cms-divider\"&gt;&lt;\/div&gt;\r\n &lt;button class=\"cms-ds-header-share-cancel\" @click=\"showShare=false\"&gt;取消分享&lt;\/button&gt;\r\n &lt;\/div&gt;\r\n &lt;\/div&gt;\r\n &lt;div class=\"share-mask\" @click=\"wxShare=false\" v-show=\"wxShare\"&gt;&lt;img class=\"arrow\" alt=\"\"&gt;\r\n &lt;div class=\"inner\"&gt;\r\n &lt;p&gt;点击右上角&lt;br&gt;将它分享到朋友圈&lt;br&gt;或指定的朋友&lt;\/p&gt;\r\n &lt;\/div&gt;\r\n &lt;\/div&gt;\r\n &lt;\/header&gt;\r\n&lt;\/div&gt;"},"cmsThemeId":0,"pageVer":2,"articleLink":"","displayTitle":"来伊份用户隐私协议","templateCss":"&lt;style&gt;\n .clr-lyf{\n color:#ff6900;\n }\n .pd12{\n padding:0 12px;\n }\n img{\n width:100%;\n max-width:100%;\n }\n .ui-border-b{\n border-bottom:1px solid #e0e0e0!important;\n }\n .fz20{\n font-size: 20px;\n padding: 12px 0;\n }\n .sub-info{\n font-size: 14px;\n color:#999;\n padding-bottom: 8px;\n }\n section .con{\n margin-top: 24px;\n }\n .noCon{\n font-size: 38px;\n color: #ccc;\n margin-top: 33.33%;\n text-align: center;\n }\n [v-cloak]{display:none;}\n &lt;\/style&gt;","articleType":0,"articleContent":"","templateJs":"&lt;script&gt;\nvar app = new Vue({\nel:'#articleApp',\ndata:{\nnoCon:false,\narticleInfo:{\ntitle:'',\ndate:'',\nauthor:'',\n},\nmobileShow:false,\narticleCon:'',\nisShow:false\n},\nmounted:function(){\nvar self = this;\nif($(\"#var1592015633381376\").length&gt;0 &amp;&amp; $.trim($(\"#var1592015633381376\").val()).length&gt;0){\nif($(\"#avar1592015633381376\").length &amp;&amp; $.trim($(\"#avar1592015633381376\").val()).length&gt;0){\nself.noCon = false;\nvar info = JSON.parse($.trim($(\"#var1592015633381376\").val()));\nself.articleInfo.author='';\nself.articleInfo.date = info.createTime.time;\nself.articleInfo.title = info.displayTitle;\nself.articleCon = $.trim($(\"#avar1592015633381376\").val());\nif(info.categoryName != '公告' &amp;&amp; info.categoryName != '海报'){\nself.isShow = true;\n}\n}else{\nself.noCon = true;\n}\nif(info.categoryName == '海报'){\n\nvar art = self.articleCon.split(\"&lt;p&gt;\")\nif(art.length &gt; 0)\nfor(var i = 0 ; i &lt; art.length; i++){\n\tif(art[i].indexOf(\"&lt;img\") != -1){\n\tself.articleCon = art[i].substring(0,art[i].indexOf('/&gt;'))+'style=\" width: 90%; height: 100%;padding: 0 5%; max-width: 100%;\"'+'/&gt; ';\n break;\n\t}\n\t\n}\nself.mobileShow = true;\nvar qrcodeImg = $(\"#code\");\nif(qrcodeImg){\n//$(\"#code\").remove();\n//qrcodeImg.css=(\"position:absolute,bottom:40%,left:25%\");\n$(\"#articleApp\").append(qrcodeImg);\n$(\"#code\").css({\n\"position\": \"absolute\",\n\"margin-top\": \"-125px\",\n\"left\":\"30%\"\n});\n}\n}\n}\n\n},\nmethods:{\nsave:function(){\nvar posterUrl = $(\"#articleApp\").html().split(\"&lt;img\")[1].split(\"=\")[1].split(\"\\\"\")[1];\nif(Vue.browser.isApp()) {\nVue.app.postMessage('poster',{\nposterPicUrl:posterUrl,\nqrCodeUrl:url\n});\n}else{\nvar canvas = document.createElement('canvas'); //准备空画布\nvar a = document.createElement('a');\na.href=posterUrl;\na.click();\n}\n}\n}\n});\n&lt;\/script&gt;","id":1592015633381376,"cmsPageSectionsNavigationVO":null,"updateTimeStr":"","platformStr":"","images":"","cmsPlatformList":[{"objId":1592015633381376,"objType":1,"platform":2}],"articleTags":[],"isShowQcode":0,"updateTime":{"date":28,"hours":13,"seconds":35,"month":1,"timezoneOffset":-480,"year":123,"minutes":41,"time":1677562895000,"day":2},"categoryCode":"wz_2","url":"","templateVariables":"","categoryType":1,"sortValue":0,"companyId":30,"showSections":0,"cmsArticleId":1592015650158592,"createTime":{"date":14,"hours":17,"seconds":41,"month":10,"timezoneOffset":-480,"year":122,"minutes":1,"time":1668416501000,"day":1},"name":"来伊份用户隐私协议","sticky":0,"shareUrl":"","cmsPageSectionsTailVO":null,"categoryId":0,"startDate":{"date":10,"hours":1,"seconds":51,"month":10,"timezoneOffset":-480,"year":121,"minutes":0,"time":1636477251000,"day":3},"status":2}
+</textarea>
+<textarea id="avar1592015633381376" style="display: none;">&lt;p&gt;《来伊份社区购用户隐私协议》&lt;br&gt;&lt;br&gt;本版更新时间：2023年【02】月【21】日&lt;br&gt;本版生效时间：2023年【02】月【21】日&lt;br&gt;尊敬的来伊份社区购用户：我们对《来伊份社区购用户隐私协议》进行了更新。此版本《来伊份社区购用户隐私协议》的更新主要集中在来伊份收集的您个人信息的目的、方式、范围。&lt;/p&gt;&lt;p&gt;【特别提示】请仔细阅读《来伊份社区购用户隐私协议》（尤其是加粗或下划线的内容）并确定了解我们对您个人信息的处理规则。阅读过程中，如您有任何疑问，可通过《来伊份社区购用户隐私协议》中的联系方式咨询我们；在您同意隐私政策前，我们不会收集您个人信息。如您不同意《来伊份社区购用户隐私协议》中关于收集个人信息的任何条款，只会影响其对应的功能，如果您不同意我们获取运行APP所需的基本权限，我们将无法为您继续服务，您可以与我们联系，我们将竭诚为您解决困扰。&lt;/p&gt;&lt;p&gt;&lt;br&gt;引言&lt;br&gt;&lt;br&gt;上海来伊份股份有限公司（注册地址：上海市松江区九亭镇久富路300号；联系电话：021-5176099；以下简称“我们 ”），上海来伊份科技有限公司，非常重视用户的隐私和个人信息保护。您在使用我们的产品与/或服务时，我们可能会收集和使用您的相关信息。我们希望通过《来伊份社区购用户隐私协议》（以下简称“本隐私协议”）向您说明在您使用我们的产品与/或服务时，我们如何收集、使用、存储、共享和转让这些信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。&lt;/p&gt;&lt;p&gt;本隐私协议将帮助您了解以下内容：&lt;br&gt;一、我们如何收集和使用您的个人信息&lt;br&gt;二、我们如何使用 Cookies 和同类技术&lt;br&gt;三、我们如何共享、转让、公开披露您的个人信息&lt;br&gt;四、我们如何保护和存储您的个人信息&lt;br&gt;五、您如何管理个人信息&lt;br&gt;六、未成年人的个人信息保护&lt;br&gt;七、通知和修订&lt;br&gt;八、如何联系我们&lt;br&gt;&lt;br&gt;本隐私协议与您所使用的来伊份社区购商城服务以及该服务所包括的各种业务功能（以下统称“我们的产品与/或服务”）息息相关，希望您在使用我们的产品与/或服务前仔细阅读并确认您已经充分理解本隐私协议所写明的内容，并让您可以按照本隐私协议的指引做出您认为适当的选择。本隐私协议中涉及的相关术语，我们尽量简明扼要的表述，并提供进一步说明的链接，以便您更好地理解。当您开始使用APP或当隐私协议更新时，我们将通过弹窗的方式及时通知您最新的隐私协议内容，当您同意我们的隐私协议即意味着您同意我们按照本隐私协议收集、使用、存储和共享您的相关信息。&lt;/p&gt;&lt;p&gt;请您特别注意：本隐私协议适用于我们APP、小程序以及随技术发展出现的新形态向您提供的各项产品和服务。如我们及关联公司的产品或服务中使用了来伊份社区购商城的产品或服务（如使用来伊份商城社区购账户登录）但未设独立隐私权协议的，则本隐私协议同样适用于该部分产品或服务。我们及关联公司就其向您提供的产品或服务单独设有隐私权协议的，则相应产品或服务适用相应隐私权协议。&lt;/p&gt;&lt;p&gt;如对本隐私协议或相关事宜有任何问题，您可随时通过访问来伊份社区购APP在线客服系统或拨打我们的任何一部客服电话（参考本隐私协议第八章 “如何联系我们”）等多种方式与我们联系。&lt;/p&gt;&lt;p&gt;&lt;br&gt;一、我们如何收集和使用您的个人信息&lt;br&gt;&lt;br&gt;个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人敏感信息是指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇的个人信息，下文中所有敏感信息加粗显示。本隐私协议中涉及的个人信息包括：&lt;br&gt;（1） 基本账户信息（个人手机号码、密码）；&lt;br&gt;（2） 额外账户信息（昵称、生日、性别）；&lt;br&gt;（3） 第三方账户信息（头像、第三方账户昵称、微信号、QQ号、APPLE ID）；&lt;br&gt;（4） 基本订单信息（订单所在门店、订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）；&lt;br&gt;（5） 额外订单信息（收货人固定电话、额外收货地址）；&lt;br&gt;（6） 发票信息（收票人邮箱、单位名称、社会统一信用代码）&lt;br&gt;（7） 支付信息（支付金额）；&lt;br&gt;（8） 浏览和搜索信息（用户浏览商品记录、关注信息、收藏信息、搜索历史记录、搜索关键词）；&lt;br&gt;（9） 社区发布信息（社区中的评论、晒单、问答、图片、视频）；&lt;br&gt;（10） 无聊信息（无聊中的聊天文字、图片、视频、文件）；&lt;br&gt;（11） 个人财产信息（交易和消费记录、余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡）；&lt;br&gt;（12） 实名认证信息（包括姓名、身份证号、手机号、银行卡号）；&lt;br&gt;（13） 通讯录（联系人名称、联系人通讯号码）；&lt;br&gt;（14） 网络身份标识信息（IP地址、SSID、BSSID）；&lt;br&gt;（15） 个人常用设备信息（硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息）；&lt;br&gt;（16） 个人位置信息（精准定位信息）。&lt;br&gt;&lt;br&gt;（一）需要收集的信息&lt;br&gt;&lt;br&gt;我们仅会出于以下目的，收集和使用您的个人信息：&lt;br&gt;&lt;br&gt;我们的产品与/或服务包括一些核心功能，这些功能包含了实现网上购物所必须的功能及保障交易安全所必须的功能。我们可能会收集和使用下列与您有关的信息才能实现上述这些功能。如果您不提供相关信息，您将无法享受对应的产品与/或服务。这些功能包括：&lt;br&gt;&lt;br&gt;1、用户注册&lt;br&gt;您首先需要注册一个来伊份账户以成为来伊份用户。当您注册时，您至少需要向我们提供您准备使用的您的基本账户信息（个人手机号码、密码），我们将通过发送短信验证码的方式来验证您的身份是否有效。如果您拒绝提供基本账户信息，您将无法使用基于账户的所有功能，但不影响您浏览和搜索商品信息。&lt;br&gt;您可以通过向我们提供第三方账户信息（头像、第三方账户昵称、微信号、QQ号、APPLE ID）的方式进行注册。如果您不提供以上信息，将无法进行下单购物，但不影响您浏览APP商城。您的账户名为您的默认第三方账户昵称。如果您拒绝提供第三方账户信息，您将无法使用第三方账户登录我们的产品。&lt;br&gt;您可以提供您的额外账号信息（昵称、性别、生日）以帮助我们为您提供个性化的商品推荐和更优的购物体验。如果您拒绝提供额外账户信息，不会影响您使用网上购物的基本功能。&lt;br&gt;&lt;br&gt;2、浏览和搜索商品信息&lt;br&gt;为给您提供最优的商品展示方式，我们需要收集您的网络身份标识信息（IP地址、SSID、BSSID），当您所处的网络不畅时，APP会通过识别网络身份标识判断您的网络是否恢复通讯，当网络恢复通畅时，APP会重新加载商品信息，以确保您的商品浏览体验。如果您拒绝提供网络身份标识信息，会影响您正常的商品体验，但不会影响您使用其他功能。&lt;br&gt;我们需要收集您的个人常用设备信息（包括硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息），以保证可以适配您的手机型号、操作系统型号、浏览器型号，以优化您的用户体验。如果您拒绝提供个人常用设备信息，可能会出现不适配的情况，会对您的使用体验造成影响。&lt;br&gt;您也可以通过搜索来精准地找到您所需要的商品或服务。为方便您重复输入或为您展示与您搜索内容相关联的商品，我们需要收集您的浏览和搜索信息（搜索历史记录、搜索关键词）。 如果您拒绝提供浏览和搜索信息，将不会为您重复输入和关联商品提供便利，但不会影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里清除、拒绝提供浏览和搜索信息。&lt;br&gt;&lt;br&gt;3、下单功能&lt;br&gt;当您准备对您购物车内的商品进行结算时，来伊份系统会生成您购买该商品的订单。订单中部分基本订单信息（收货人姓名、收货地址以及收货人手机号码）需要您主动填写，同时会自动载入部分基本订单信息（订单内容、购买金额）和个人财产信息（余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡）。如果您拒绝提供本条中涉及的基本订单信息，您将无法使用下单以及后续支付、交付产品/服务功能，您仍可正常使用其他功能。&lt;br&gt;您可以另外填写额外订单信息（收货人固定电话、收获地址）以增加更多的联系方式和更精确的收货地址确保商品可以准确送达；在您填写这些信息的时候，您可以快捷填入通讯录内的联系人信息，这需要您提供您的通讯录信息（联系人名称、联系人通讯号码）。如果您拒绝提供通讯录信息，您将无法使用任何基于通讯录的功能，但不影响其他功能；如果您拒绝提供额外订单信息，您仍可正常使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭通讯录功能。&lt;br&gt;&lt;br&gt;4、支付功能&lt;br&gt;在您下单后，您可以选择来伊份的关联方或与来伊份合作的第三方支付机构（包括支付宝支付、微信支付及银联、网联、来伊份钱包（来伊份钱包由第三方支付机构商银信提供）等支付通道，以下称“支付机构”）所提供的支付服务。支付功能本身并不收集您的个人信息，但我们需要将您的基本订单信息（订单号）与支付信息（支付金额）与这些支付机构共享以实现其确认您的支付指令并完成支付。如果您拒绝提供本条涉及的订单信息和支付信息，您将无法使用支付功能，同时也将无法使后交付产品/服务功能，但不影响您使用其他功能。&lt;br&gt;“关联方”指一方现在或将来控制、受控制或与其处于共同控制下的任何公司、机构以及上述公司或机构的法定代表人。“控制”是指直接或间接地拥有影响所提及公司管理的能力，无论是通过所有权、有投票权的股份、合同或其他被人民法院认定的方式。&lt;br&gt;&lt;br&gt;5、交付产品与/或服务功能&lt;br&gt;在当您下单并选择货到付款或在线完成支付后，来伊份的关联方或与来伊份合作的第三方配送公司（包括顺丰、圆通等，以下称“配送公司”）将为您完成订单的交付。您知晓并同意来伊份的关联方或与来伊份合作的第三方配送公司会在上述环节内使用您的基本订单信息基本订单信息（订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）和额外订单信息（收货人固定电话、额外收货地址）以保证您的订购的商品能够安全送达。如果您拒绝提供基本订单信息和额外订单信息，我们将无法交付产品/服务，但不影响您使用其他功能。&lt;br&gt;&lt;br&gt;6、客服与售后功能&lt;br&gt;为保证您的账号安全，我们的呼叫中心客服和在线客服会使用您的基本账户信息（个人手机号码、密码）与您核验您的身份。当您需要我们提供与您订单信息相关的客服与售后服务时，我们将会查询您的基本订单信息（订单内容、购买金额、订单号、收货人姓名、收货手机号码、收货地址）。当您在与我们的客服人员沟通要求补充额外订单信息时，我们需要收集您新提交的额外订单信息（收货人固定电话、额外收货地址）；如果您拒绝提供本条涉及的基本账户信息和额外订单信息，我们的客服将无法为您提供和订单相关的服务，但不影响客服为您提供其他服务以及您使用其他功能。&lt;br&gt;&lt;br&gt;7、改进我们的产品与/或服务所需要的功能&lt;br&gt;我们可能会收集您的基本订单信息（订单内容）、浏览和搜索信息（用户浏览商品记录、关注信息、收藏信息、搜索历史记录、搜索关键词）进行数据分析以形成用户画像，用来将您感兴趣的商品或服务信息展示给您；或在您搜索时向您展示您可能希望找到的商品。如果您拒绝提供本条涉及的基本订单信息、浏览和搜索信息，我们将无法向您展示您可能感兴趣的商品或服务，可能会影响您的用户体验，但不会影响您使用其他功能。&lt;br&gt;如果您不希望受个性化内容的影响，您可以在商品展示页选择按照分类进行浏览和查找商品和服务。 我们还在搜索结果中向您提供了按照价格、销量排序等不针对个人特征的选项；未经您的明确同意，我们不会将您的相关个人信息提供给第三方。问卷调查不是强制性的。 您可以在APP-我的-设置-隐私设置里开启或关闭个性化推荐。&lt;br&gt;我们还可能为了提供服务及改进服务质量的合理需要而希望您参与我们的问卷调查，您参与问卷调查时我们将向您提供单独的隐私协议来收集您的具体信息。如果您不希望向我们提供问卷中的信息，您可以拒绝参加，这不会影响您使用其他功能。&lt;br&gt;&lt;br&gt;8、保障交易安全所需要的功能&lt;br&gt;为提高您使用我们的产品与/或服务时系统的安全性，更准确地保护账户安全，我们可能会收集您的个人常用设备信息（硬件型号、设备MAC地址、操作系统类型、序列号、软件列表唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息内的描述个人常用设备基本情况的信息）与您的账号进行绑定（其中，我们可能会在应用后台运行期间收集MAC地址、IMEI及其他设备标识符进行风险校验），以此来分析您的账号在非可信设备上登录的风险，您也可以选择向我们发送异常信息，我们会予以排查。如果不收集您的个人常用设备信息，我们将无法判断您的账号是否在可信设备上登录，这会降低您账号的安全性，如果您对此有异议，请联系我们的客服。&lt;br&gt;&lt;br&gt;9、无聊（聊天、朋友圈、群聊）、社区（包括社区外卖、社区生活、社区拼团）所需要的功能&lt;br&gt;您正常使用无聊和社区功能，我们会收集您的无聊信息（无聊中的聊天文字、图片、视频、文件）和社区发布信息（社区中的包括评论、晒单、问答、图片、视频），以保证无聊和社区的内容可以在APP上正常展示。如果您拒绝提供无聊群信息和社区发布信息的话，您将无法正常使用无聊和社区功能，但不影响您使用其他功能。&lt;br&gt;为了向您推荐附近的社区，并允许您在无聊中寻找附近的人，我们需要您的个人位置信息（精准定位信息）。如果您拒绝提供您的个人位置信息的话，您将无法准确找到您身边的社区，并且无法使用无聊的附近的人功能，但不会影响您使用其他功能。&lt;br&gt;&lt;br&gt;10、使用来伊份钱包需要的功能&lt;br&gt;为了您正常使用来伊份钱包功能，我们需要您进行实名认证，并收集您的实名认证信息（姓名、身份证号、手机号、银行卡号）和个人财产信息（交易和消费记录、余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡），以确保您能安全的使用我们的钱包功能(包括信息展示和钱包支付功能)。如果您拒绝提供的话，您将不能使用来伊份钱包相关的所有功能，但不影响您使用其他功能以及第三方支付功能。&lt;br&gt;&lt;br&gt;11、使用积分商城需要的功能&lt;br&gt;为了您正常使用积分商城功能，我们需要您提供个人财产信息（积分、优惠券），以确保您能安全的使用我们的积分商城。如果您拒绝提供的话，您将不能使用来伊份积分商城相关的所有功能，但不影响您使用其他功能。&lt;br&gt;&lt;br&gt;12、在来伊份门店购物时可能需要的功能&lt;br&gt;当您在来伊份门店购买商品时，如果您使用APP的会员码功能，我们需要您提供个人财产信息（余额、伊豆、积分、优惠券、来伊份伊点卡、悠点卡、黑金卡），以确保您能安全的使用我们的会员码功能，享受相应的会员权益。同时您的基本订单信息（订单所在门店、订单内容、购买金额、订单号）会展示在“我的订单”里。如果您拒绝提供的话，您将不能使用来伊份会员码相关的所有功能，但不影响您使用其他功能以及在来伊份门店购买商品。&lt;br&gt;13、发票功能&lt;br&gt;当您在使用发票功能时，需要您提交发票信息（收票人邮箱、单位名称、社会统一信用代码），以确保您能安全的使用我们的发票功能。如果您拒绝提供的话，您将不能使用来伊份发票相关的所有功能，但不影响您使用其他功能。&lt;br&gt;&lt;br&gt;（二）需授权的权限&lt;br&gt;在APP的使用过程中，我们可能需要您提供您的设备权限，下面会向您解释我们为什么需要这些权限以及如果缺少这些权限会对您的使用造成何种影响。这些权限包括：&lt;br&gt;（1）基于网络权限的扩展功能：获取IPAPP的所有功能均需要您授权网络权限，来获取来伊份服务器上的数据。如果您拒绝提供的话，将无法使用APP所有功能。&lt;br&gt;（2）基于个人位置信息的个性化推荐功能：我们会收集您的个人位置信息（包括精准定位信息）以及网络身份标识信息（IP地址），我们仅收集您当时所处的地理位置，但不会将您各时段的个人位置信息进行结合以判断您的行踪轨迹）来判断您所处的地点，自动为您推荐您所在区域可以购买的产品与/或服务，例如向您推荐离您最近的可选门店。如果您拒绝提供的话，将不能使用外卖下单、无法搜索附近外卖店铺、无聊群无法精准的发送位置类型信息，无法获取附近人列表的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭个性化推荐。&lt;br&gt;&lt;br&gt;（3）基于摄像头（相机）的扩展功能：您可以使用这项扩展功能完成社区、朋友圈发帖、App扫码、个人头像、订单评论拍照上传、无聊群音视频通话功能、相册，拍摄类型消息的发送的功能。如果您拒绝提供的话，不能使用拍照上传，不能扫二维码，评论无法拍照上传，无法进行无聊群音视频通话,无法发送相册、拍摄类型消息的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭摄像头权限。&lt;br&gt;&lt;br&gt;（4）基于访问照片,媒体内容的扩展功能：您可以使用这项扩展功能完成社区、朋友圈发帖,选择头像,订单评论,发送图片类型消息,无聊群修改头像。如果您拒绝提供的话，不能使用社区、朋友圈、不能选择图片、视频上传,不能上传个人头像、评论无法选择照片，无法发送图片类型消息，无法修改群头像的功能，但不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭相册权限。&lt;br&gt;&lt;br&gt;（5）基于手机设备信息的扩展功能：您可以使用这项扩展功能完成一键登录,精准推送，系统防盗刷风控。如果您拒绝提供的话，不能使用一键登录的功能（只能短信登录，只能账号密码登录，只能第三方授权登录），但不影响您使用其他功能。&lt;br&gt;（6）基于拨打电话的扩展功能：您可以使用这项扩展功能完成联系客服,联系店铺商家。如果您拒绝提供的话，不能使用APP内拨打电话的功能，但不影响您使用其他功能。&lt;br&gt;（7）基于访问通讯录的扩展功能：我们访问您的通讯录，获取您的全部通讯录列表，是为了方便您在购物时避免您重复填写其他联系人信息（比如您可以直接为通讯录中的电话号码充值）；为了更好地使用来伊份无聊工具，在获得您的同意下我们也可以判断您的通讯录好友是否也同为来伊份用户，并在无聊工具中为你们的交流建立联系。如您拒绝提供，不影响您使用其他功能。 您可以在APP-我的-设置-隐私设置里开启或关闭通讯录功能。&lt;/p&gt;&lt;p&gt;（8）基于蓝牙权限的扩展功能：您可以使用这项扩展功能完成无聊群语音信息，音视频聊天。如果您拒绝提供的话，不能使用无聊群聊天语音信息播放时、音视频功能时可能会出现扬声器和蓝牙共同播放声音的功能，但不影响您使用其他功能。&lt;br&gt;（9）基于悬浮窗权限的扩展功能：您可以使用这项扩展功能完成音视频功能最小化悬浮窗功能和直播观看功能。如果您拒绝提供的话，不能使用音视频通话时最小化的功能和直播功能，但不影响您使用其他功能。&lt;br&gt;（10）基于获取本机号码的扩展功能：您可以使用这项扩展功能完成一键登录。如果您拒绝提供的话，不能使用银联支付sdk和一键登录的功能，但不影响您使用其他功能。&lt;br&gt;（11）基于闪光灯、震动权限的扩展功能：您可以使用这项扩展功能完成无聊群新消息到来时,手机提示功能。如果您拒绝提供的话，不能使用无聊群新消息到来时,部分手机无法使用该功能的功能，但不影响您使用其他功能。&lt;br&gt;（12）基于保持屏幕唤醒（不锁屏）的扩展功能：您可以使用这项扩展功能完成无聊群音视频通话。如果您拒绝提供的话，可能会造成正在通话的音视频异常挂断等通话问题的功能，但不影响您使用其他功能。&lt;br&gt;（13）基于短信的扩展功能：您可以使用这项扩展功能分享活动到短信中。如果您拒绝提供的话，短信分享渠道将不能唤起，但不影响您使用其他功能。&lt;br&gt;（14）基于麦克风的扩展功能：您可以使用这项扩展功能完成无聊中的音视频通话和发送语音。如果您拒绝提供的话，您将无法在无聊中音视频通话和发送语音，但不影响您使用其他功能。&lt;br&gt;（15）基于获取应用列表的扩展功能：您可以使用这项扩展功能完成第三方账号登录和第三方支付。如果您拒绝提供的话，将无法使用第三方账号登录和第三方支付，但不影响您使用其他功能。&lt;br&gt;（16）基于剪切板的扩展功能：您可以使用这项扩展功能完成订单编号的复制。如果您拒绝提供的话，将无法直接复制订单编号，但不影响您使用其他功能。&lt;br&gt;（17）基于华为手机角标权限（Android 特有）的扩展功能：您可以使用这项扩展功能完成无聊群有消息时更新桌面应用角标。如果您拒绝提供的话，无法更新APP桌面角标的功能，但不影响您使用其他功能。&lt;br&gt;（18）基于小米推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成小米手机离线推送。如果您拒绝提供的话，小米手机无法收到离线消息，但不影响您使用其他功能。&lt;br&gt;（19）基于魅族推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成魅族手机离线推送。如果您拒绝提供的话，魅族手机无法收到离线消息，但不影响您使用其他功能。&lt;br&gt;（20）基于OPPO推送（Android 特有）的扩展功能：您可以使用这项扩展功能完成OPPO手机离线推送。如果您拒绝提供的话，OPPO手机无法收到离线消息，但不影响您使用其他功能。&lt;br&gt;&lt;br&gt;（三）第三方SDK&lt;br&gt;&lt;br&gt;在APP中存在第三方SDK，下面向您解释这些SDK的功能&lt;br&gt;（1）友盟统计：我们使用此接口来统计用户的设备，访问量和APP版本信息。 使用SDK名称：友盟SDK&lt;br&gt;服务类型：统计分析&lt;br&gt;收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置等）&lt;br&gt;隐私权政策链接：https://www.umeng.com/page/policy&lt;br&gt;&lt;br&gt;&lt;br&gt;（2）友盟分享：我们使用此接口来实现Android分享功能，您可以通过此接口分享活动页面给您的朋友。&lt;br&gt;使用SDK名称：友盟SDK&lt;br&gt;服务类型：分享服务&lt;br&gt;收集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/地理位置等）&lt;br&gt;隐私权政策链接：https://www.umeng.com/page/policy&lt;br&gt;&lt;br&gt;（3）腾讯 bugly：我们使用此接口来监控APP中发生的错误。&lt;/p&gt;&lt;p&gt;&nbsp;&lt;br&gt;（4）MobShare SDK：为了闭环分享功能进行来源追溯及地理维度的统计，我们会收集您的地理位置。为了调起您设备中社交平台APP以实现第三方登录和社会化分享，我们会收集您终端用户的系统在装应用列表信息。为了完成第三方登录和社会化分享统计服务，我们会收集您的社交平台OpenID。当您需要进行口令分享时，我们将读取您的剪切板信息，该读取不是采集信息，不会持久保存。&lt;/p&gt;&lt;p&gt;隐私协议链接：https://www.mob.com/about/policy&lt;/p&gt;&lt;p&gt;（5）极光推送：我们使用此接口在APP中给您推送信息。&lt;br&gt;我们的第三方合作伙伴【极光】，在提供服务的过程中，需要收集您的相关个人信息，包括设备信息[ 设备信息包括：设备标识符（IMEI、IDFA、Android ID、MAC、OAID等相关信息）、应用信息（应用崩溃信息、通知开关状态、软件列表等相关信息）、设备参数及系统信息（设备类型、设备型号、操作系统及硬件相关信息）]、网络信息[ 网络信息包括：IP地址，WiFi信息，基站信息等相关信息。 ]、地理位置信息。通过识别设备信息为App赋予推送能力，用于消息推送；地理位置和网络信息用于创建智能标签，实现区域、分群推送功能。&lt;br&gt;为向您提供更好的服务、改善技术和提升用户体验，您理解并同意，我们有权在必要范围内向第三方合作伙伴提供您的个人信息，且第三方合作伙伴亦可以基于前述目的自行收集和使用您的个人信息，并在保护您个人信息和隐私权以及符合适用法律法规的前提下，将收集的信息和数据经去标识化或匿名化处理后用于其他服务和用途。当我们要将个人信息用于本政策未载明的其它用途时，会事先通知您并征求您的同意。当我们要将基于特定目的收集而来的信息用于其他目的时，也会事先通知您并并征求您的同意。&lt;/p&gt;&lt;p&gt;&lt;br&gt;（6）云信即时通讯（网易IM）：&lt;/p&gt;&lt;p&gt;第三方公司名称：杭州网易质云科技有限公司&lt;br&gt;共享类型：内嵌SDK&lt;br&gt;共享信息：唯一设备识别码（APNS Token、设备序列号、AndroidID、OAID、GAID、IDFV、CID、MAC地址）；设备运行状态（SIM卡状态、USB状态、充电状态、电池容量及电量、锁屏时间、启动时间）；设备信息（设备类型、设备品牌及型号、设备厂商、设备所运行系统版本、名称、编辑版本信息、系统内核信息、CPU型号、设备内存及存储大小、屏幕亮度及分辨率、设备输入装置、设备架构、基带信息、字体HASH、HOSTNAME、辅助功能列表、系统进程列表）；日志信息（设备运行状态（CPU、内存运行状态）、浏览器类型及版本信息、网络连接类型及状态、WIFISSID、WIFIBSSID、IP地址、运营商信息、网络代理、云信通信服务运行日志信息）。&lt;br&gt;使用目的：提供消息投递、多端消息同步、消息漫游功能，同时为了预防安全风险，准确识别违反法律法规的情况&lt;br&gt;使用场景：提供即时通讯服务&lt;br&gt;共享方式：（外部）接口共享&lt;br&gt;&lt;/p&gt;&lt;p&gt;第三方隐私链接：https://yunxin.163.com/clauses?serviceType=3&nbsp;&nbsp;&lt;br&gt;（7）360加固：我们使用360加固来强化APP的安全水平。&lt;br&gt;（8）腾讯X5（com.tencent.smtt）：我们使用此接口来完成APP中的H5页面的展示。&lt;/p&gt;&lt;p&gt;为实现SDK产品的网页等浏览功能所必须，我们将向终端用户或开发者收集终端用户在使用与SDK产品相关的功能时产生的如下个人信息:&nbsp;&lt;/p&gt;&lt;p&gt;
+&lt;/p&gt;&lt;table cellspacing="0" cellpadding="0"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;个人信息类型&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;使用目的及功能场景&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;处理方式&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;设备信息（设备型号、操作系统、CPU类型）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;浏览器内核升级和禁用细化控制&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;通过去标识化、加密传输和处理的安全处理方式&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;应用信息（宿主应用包名，版本号）&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;浏览器内核升级及禁用细化控制需要&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;通过去标识化、加密传输和处理的安全处理方式&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;Wi-Fi状态和参数&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;判断Wi-Fi是否连接，进行网络优化&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;通过去标识化、加密传输和处理的安全处理方式&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;位置信息、附近的&lt;b&gt;&lt;i&gt;Wi-Fi&lt;/i&gt;&lt;/b&gt;、&lt;b&gt;&lt;i&gt;CellID&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;用户主动打开网页且网页自身需要定位位置时触发&lt;/p&gt;
+&lt;/td&gt;
+&lt;td valign="top"&gt;
+&lt;p&gt;内存中获取使用，程序退出立即销毁&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;（9）高德开放平台定位SDK&lt;/p&gt;&lt;p&gt;第三方名称：高德软件有限公司&lt;/p&gt;&lt;p&gt;使用目的：实现定位/展现地图（请根据具体使用目的填写）&lt;/p&gt;&lt;p&gt;收集个人信息：位置信息（经纬度、精确位置、粗略位置）【通过IP&nbsp;地址、GNSS信息、WiFi状态、WiFi参数、WiFi列表、基站信息、信号强度的信息、蓝牙信息、传感器信息（矢量、加速度、压力）、设备信号强度信息获取】、设备标识信息（IMEI、IDFA、IDFV、Android&nbsp;ID、MEID、MAC地址、OAID、IMSI、硬件序列号）、当前应用信息（应用名、应用版本号）、设备参数及系统信息（系统属性、设备型号、操作系统）。基于不同的设备和系统（安卓/iOS）及系统版本，以及开发者在集成、使用我们SDK产品时决定的权限，收集的设备信息会有所不同，因此开发者应对实际收集的个人信息向用户进行说明。各SDK具体收集使用个人信息情况详见&lt;a href="https://lbs.amap.com/agreement/sample" target="_blank" rel="noopener noreferrer"&gt;https://lbs.amap.com/agreement/sample&lt;/a&gt;）&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;隐私权政策链接：&lt;a href="https://lbs.amap.com/pages/privacy/" target="_blank" rel="noopener noreferrer"&gt;https://lbs.amap.com/pages/privacy/&lt;/a&gt;&nbsp;&lt;br&gt;（10）华为推送：我们使用此接口在APP中给您推送信息（华为专用接口）&lt;br&gt;（11）小米推送：我们使用此接口在APP中给您推送信息（小米专用接口）&lt;br&gt;（12）vivo推送：我们使用此接口在APP中给您推送信息（vivo专用接口）&lt;br&gt;（13）oppo推送：我们使用此接口在APP中给您推送信息（oppo专用接口）&lt;br&gt;（14）百度AR: 我们使用此接口来完成APP中的AR扫码功能。&lt;br&gt;（15）创蓝：我们使用此接口来完成APP中的一键登录及发送产品、服务信息的功能。我们的产品为改善注册及登录界面用户体验，集成第三方SDK一键登录服务：闪验SDK，用于帮助实现用户一键登录行为。为了实现网关取号技术，闪验SDK需要获取IP地址、网卡（MAC)地址、国际移动设备识别码（IMEI）、OAID（替代IMEI）、sim卡信息，并会收集手机机型、系统类型、系统版本、网络环境、网关取号报错日志等数据以提供统计分析服务能力，并可提供反欺诈等功能。&lt;br&gt;我们或我们合作伙伴【创蓝】会并通过站内信息、短信方式、发送服务状态通知、电话的方式向您推荐您可能感兴趣的内容，包括但不限于向您发出产品、服务信息，或通过系统向您展示的第三方推广信息。此外，我们会与我们的合作伙伴共享您的个人信息便他们自行或协助我们向您发送有关产品和服务的信息。如您不希望接收上述信息，可通过退订功能退订；&lt;br&gt;当您注册或【使用手机号登录】时，我们或我们合作伙伴【创蓝】会给您发送短信验证码，当您收到短信验证码时，我们会自动读取您的该条短信息并将其中的验证码同步至我们注册或登录界面中，您可以直接点击验证码完成填写。我们不会读取您的其他短信内容。&lt;br&gt;（16）支付宝：我们使用此接口完成APP中支付宝支付功能。&lt;br&gt;（17）招行：我们使用此接口完成APP中招行支付功能。&lt;br&gt;（18）建行：我们使用此接口完成APP中建行支付功能。&lt;br&gt;（19）翼支付：我们使用此接口完成APP中翼支付支付功能。&lt;br&gt;（20）华为pay：我们使用此接口完成APP中华为pay支付功能。&lt;br&gt;（21）云闪付：我们使用此接口完成APP中云闪付支付功能。&lt;br&gt;（22）微信支付：我们使用此接口完成APP中微信支付功能。&lt;br&gt;（23）京东支付：我们使用此接口完成APP中京东支付功能。&lt;br&gt;（24）ApplePay：我们使用此接口完成APP中苹果支付功能。&lt;br&gt;（25）兑吧：我们使用此接口提供APP中积分商城的积分活动和游戏中心的小游戏&lt;br&gt;（26）七鱼云客服SDK&lt;br&gt;设备识别码（IMEI和MAC）：被用于确定唯一的客户服务对象，以便在您的设备在未登录状态下，我们也能向您提供连续的会话服务；&lt;br&gt;网络信息（IP）：为了最大程度保持网络连接的稳定性，我们需要了解设备的网络状态和变化，从而实现稳定连续的会话服务。&lt;br&gt;（27）腾讯云音视频SDK&lt;br&gt;采集方式&lt;br&gt;自动采集&lt;br&gt;收集个人信息用途/目的&lt;br&gt;发布商品时拍摄短视频功能、编辑视频；&lt;br&gt;收集个人信息类型&lt;br&gt;常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号、设备操作系统）、网络状态&lt;br&gt;第三方机构名称及其隐私政策链接&lt;br&gt;腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470&lt;br&gt;&lt;br&gt;（28）腾讯云RTMP 移动直播 SDK&lt;br&gt;采集方式&lt;br&gt;自动采集&lt;br&gt;收集个人信息用途/目的&lt;br&gt;提供直播观看、直播连麦、互动功能、美颜滤镜功能；&lt;br&gt;收集个人信息类型&lt;br&gt;常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号、设备操作系统）、网络状态&lt;br&gt;第三方机构名称及其隐私政策链接&lt;br&gt;腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470&lt;br&gt;（29）腾讯云人脸核验&lt;br&gt;采集方式&lt;br&gt;自 动 采 集；用户手动输入&lt;br&gt;收集个人信息用途/目的&lt;br&gt;提供实人认证功能&lt;br&gt;收集个人信息类型&lt;br&gt;常用设备信息（IMEI、SIM 卡 IMSI 信息、MAC 地址、广告标识符IDFA、AndroidId、OAID、设备品牌型号设备操作系统）、网络状态、姓名、身份证、人脸识别信息&lt;br&gt;第三方机构名称及其隐私政策链接&lt;br&gt;腾讯云计算（北京）有限责任公司https://cloud.tencent.com/document/product/301/11470&lt;/p&gt;&lt;p&gt;（30）字节跳动视频点播SDK&nbsp;&lt;/p&gt;&lt;p&gt;收集个人信息目的：通过采集客户端的相关信息，提供业务性能监控报表与故障排查能力&lt;/p&gt;&lt;p&gt;&lt;strong&gt;设备信息：&lt;/strong&gt;&lt;br&gt;【Android】设备品牌、型号、软件系统版本相关信息、oaid等基础信息、无线网SSID名称、WIFI路由器MAC地址、设备的mac地址、设备IMEI&lt;br&gt;【IOS】设备品牌、型号、软件系统版本相关信息、手机系统重启时间、磁盘总空间、系统总内存空间、CPU数目等基础信息&lt;br&gt;&lt;strong&gt;应用信息&lt;/strong&gt;&nbsp;：开发者应用名、应用包名、版本号等信息&lt;br&gt;&lt;strong&gt;其他信息：&lt;/strong&gt;&nbsp;运营商信息、设备时区&lt;/p&gt;&lt;p&gt;（31）GrowingIO SDK&lt;/p&gt;&lt;p&gt;为向您提供个性化的信息或服务，向您展示、推荐或推送与您有更高相关度、您更感兴趣的等内容，我们收集和使用您的以下个人信息并进行分析：&lt;br&gt;1)您的浏览、收藏、搜索记录。&lt;br&gt;2)您主动提供的点赞、分享、评论的行为信息。&lt;br&gt;3)获得您同意后的设备信息，包括设备品牌、设备型号、设备操作系统及版本号、唯一设备识别码（如IMEI/android ID/IDFA/OPENUDID/GUID)&nbsp;&lt;/p&gt;&lt;p&gt;隐私协议链接：https://accounts.growingio.com/privacy&lt;/p&gt;&lt;p&gt;&lt;br&gt;（四）您应充分知晓，以下情形中，我们收集、使用个人信息无需征得您的授权同意：&lt;br&gt;1、与国家安全、国防安全有关的；&lt;br&gt;2、与公共安全、公共卫生、重大公共利益有关的；&lt;br&gt;3、与犯罪侦查、起诉、审判和判决执行等有关的；&lt;br&gt;4、出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；&lt;br&gt;5、所涉及的个人信息是个人信息主体或监护人自行向社会公众公开的；&lt;br&gt;6、从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；&lt;br&gt;7、根据您的要求签订和履行合同所必需的；&lt;br&gt;8、用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；&lt;br&gt;9、为合法的新闻报道所必需的；&lt;br&gt;10、法律法规规定的其他情形。&lt;br&gt;&lt;br&gt;（五）您个人信息使用的规则&lt;br&gt;1、我们会根据本隐私协议的约定，为实现我们的产品与/或服务功能而对所收集的个人信息进行使用。&lt;br&gt;2、在收集您的个人信息后，我们将通过技术手段对信息进行去标识化处理，去标识化处理的信息将无法识别主体。请您了解并同意，在此情况下我们有权使用已经去标识化的信息；并在不透露您个人信息的前提下，我们有权对用户数据库进行分析并予以商业化的利用。&lt;br&gt;3、请您了解并同意，对于您在使用我们的产品与/或服务时所提供的所有个人信息，除非您删除或通过系统设置拒绝我们收集，否则将被视为在您使用我们的产品与/或服务期间持续授权同意我们使用。&lt;br&gt;4、我们会对我们的产品与/或服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息，以展示我们的产品与/或服务的整体使用趋势。但这些统计信息不包含您的任何身份识别信息。&lt;br&gt;5、当我们展示您的个人信息时，我们会采用包括内容替换、匿名处理方式对您的信息进行脱敏，以保护您的信息安全。&lt;br&gt;6、当我们要将您的个人信息用于本隐私协议未载明的其它用途时，或基于特定目的收集而来的个人信息用于其他目的时，会事先征求您的明示同意。请您理解，我们向您提供的产品与/或服务将不断更新变化。如果您选择使用本隐私协议中尚未列明的其他产品与/或服务时，我们会在收集您的个人信息前通过协议、页面提示等方式向您详细说明信息收集的目的、方式、范围并征求您的同意。若您不同意提供前述信息，您可能无法使用该项产品与/或服务，但不影响您使用现有产品与/或服务。&lt;br&gt;&lt;br&gt;二、我们如何使用 Cookies 和同类技术&lt;br&gt;&lt;br&gt;（一）Cookies的使用&lt;br&gt;1、为实现您联机体验的个性化需求，使您获得更轻松的访问体验。我们会在您的计算机或移动设备上发送一个或多个名为Cookies的小数据文件，指定给您的Cookies 是唯一的，它只能被将Cookies发布给您的域中的Web服务器读取。我们向您发送Cookies是为了简化您重复登录的步骤、存储您的购物偏好或您购物车中的商品数据，进而为您提供购物的偏好设置、帮助您优化对广告的选择与互动、帮助判断您的登录状态以及账户或数据安全。&lt;br&gt;2、我们不会将 Cookies 用于本隐私协议所述目的之外的任何用途。您可根据自己的偏好管理或删除 Cookies。您可以清除计算机上保存的所有 Cookies，大部分网络浏览器会自动接受Cookies，但您通常可根据自己的需要来修改浏览器的设置以拒绝 Cookies；另外，您也可以清除软件内保存的所有Cookies。但如果您这么做，您可能需要在每一次访问来伊份网站时亲自更改用户设置，而且您之前所记录的相应信息也均会被删除，并且可能会对您所使用服务的安全性有一定影响。&lt;br&gt;&lt;br&gt;（二）网络Beacon和同类技术的使用&lt;br&gt;除Cookies 外，我们还会在网站上使用网络Beacon等其他同类技术。我们的网页上常会包含一些电子图像（称为"单像素" GIF 文件或 "网络 Beacon"）。我们使用网络Beacon的方式有：&lt;br&gt;1、通过在来伊份网站上使用网络Beacon，计算用户访问数量、停留时间，并通过访问 Cookies 辨认注册的来伊份用户；&lt;br&gt;2、通过得到的Cookies信息，为您提供个性化服务。&lt;br&gt;&lt;br&gt;三、我们如何共享、转让、公开披露您的个人信息&lt;br&gt;&lt;br&gt;（一）共享&lt;br&gt;我们不会与来伊份以外的任何公司、组织和个人共享您的个人信息，但以下情况除外：&lt;br&gt;1、在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。&lt;br&gt;2、在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。&lt;br&gt;3、在您主动选择情况下共享：您通过来伊份平台购买商品或服务，我们会根据您的选择，将您的订单信息中与交易有关的必要信息共享给相关商品或服务的提供者，以实现您的交易及售后服务需求。&lt;br&gt;4、我们可能会将您的个人信息与我们的关联方共享。为便于我们基于来伊份平台账户向您提供产品和服务，推荐您可能感兴趣的信息，识别会员账号异常，保护来伊份关联公司或其他用户或公众的人身财产安全免遭侵害，您的个人信息可能会与我们的关联公司和/或其指定的服务提供商共享。我们只会共享必要的个人信息，且受本隐私协议中所声明目的的约束，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。&lt;br&gt;5、我们可能会向合作伙伴等第三方共享您的订单信息、账户信息、设备信息以及位置信息，以保障为您提供的服务顺利完成。但我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供产品/与或服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。 我们的合作伙伴包括以下类型：&lt;br&gt;（1）商品或技术服务的供应商。我们可能会将您的个人信息共享给支持我们功能的供应商。这些支持包括为我们供货或提供基础设施技术服务、物流配送服务、支付服务、数据处理等。我们共享这些信息的目的是可以实现我们产品与/或服务的核心购物功能，比如我们必须与物流服务供应商共享您的订单信息才能安排送货；当您下单的商品或服务由供应商直接发货或提供服务时，我们需要将您订单中的订购信息和收货信息共享给供应商，以指示其交付商品或提供服务。&lt;br&gt;（2）第三方商家。我们必须将您的订单信息与交易有关的必要信息与第三方商家共享来实现您向其购买商品或服务的需求，并促使其可以完成后续的售后服务。&lt;br&gt;（3）委托我们进行推广的合作伙伴（“委托方”）。有时我们会接受其他企业委托向使用我们产品与/或服务的用户群进行促销推广。我们可能会使用您的个人信息以及您的非个人信息集合形成的间接用户画像与委托方共享，但我们仅会向这些委托方提供推广的覆盖面和有效性的信息，而不会提供您的个人身份信息或者将这些信息进行汇总，以便提供该等信息并不会识别您个人。例如我们可以告知该委托方在浏览了委托方推广信息或在看到这些信息后购买了委托方的商品的人数，或者向委托方提供不能识别个人身份的统计信息，以帮助其了解受众或顾客。&lt;br&gt;（4）供应商、服务提供商和其他合作伙伴。我们将信息发送给支持我们业务的供应商、服务提供商和其他合作伙伴，这些支持包括受我们委托提供的技术基础设施服务、分析我们服务的使用方式、衡量广告和服务的有效性、提供客户服务、支付便利。&lt;br&gt;为了使您能够使用上述服务及功能，我们的应用中会嵌入授权合作伙伴的SDK或其他类似的应用程序。如您使用华为/小米/魅族手机时，华为/小米/魅族Push SDK需要读取您的设备识别号、联网相关信息，用于推送/下发通知栏消息；如您使用向微博分享信息功能，相关SDK会收集您的设备识别号、联网相关信息。我们会对授权合作伙伴获取有关信息的应用程序接口（API）、软件工具开发包（SDK）进行严格的安全检测，并与授权合作伙伴约定严格的数据保护措施，令其按照我们的委托目的、服务说明、本隐私权协议以及其他任何相关的保密和安全措施来处理个人信息。&lt;br&gt;6、对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的说明、本隐私协议以及其他任何相关的保密和安全措施来处理个人信息。&lt;br&gt;7、为了遵守法律、执行或适用我们的使用条件和其他协议，或者为了保护来伊份、您或其他来伊份用户的权利及其财产或安全，比如为防止欺诈等违法活动和减少信用风险，而与其他公司和组织交换信息。不过，这并不包括违反本隐私协议中所作的承诺而为获利目的出售、出租、共享或以其它方式披露的个人信息。&lt;br&gt;&lt;br&gt;（二）转让&lt;br&gt;&lt;br&gt;我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：&lt;br&gt;1、获得您明确同意或基于您的主动选择，我们可能会公开披露您的个人信息；&lt;br&gt;2、符合与您签署的相关协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；&lt;br&gt;3、在涉及合并、收购、资产转让或类似的交易时，如涉及到个人信息转让，我们会要求新的持有您个人信息的公司、组织继续受本隐私协议的约束，否则，我们将要求该公司、组织重新征求您的授权同意。&lt;br&gt;&lt;br&gt;（三）公开披露&lt;br&gt;&lt;br&gt;我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会公开披露您的个人信息：&lt;br&gt;1、根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息；&lt;br&gt;2、根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。在法律法规许可的前提下，我们披露的文件均在加密密钥的保护之下。&lt;br&gt;&lt;br&gt;四、我们如何保护和存储您的个人信息&lt;br&gt;&lt;br&gt;（一）我们保护您个人信息的技术与措施&lt;br&gt;&lt;br&gt;我们非常重视个人信息安全，并采取一切合理可行的措施，保护您的个人信息：&lt;br&gt;1、数据安全技术措施&lt;br&gt;我们会采用符合业界标准的安全防护措施，包括建立合理的制度规范、安全技术来防止您的个人信息遭到未经授权的访问使用、修改，避免数据的损坏或丢失。&lt;br&gt;来伊份的网络服务采取了传输层安全协议等加密技术，通过https等方式提供浏览服务，确保用户数据在传输过程中的安全。&lt;br&gt;在个人信息使用时，例如个人信息展示、个人信息关联计算，我们会采用去标识化技术对敏感个人信息脱敏处理以增强个人信息在使用中的安全性。&lt;br&gt;来伊份采用严格的数据访问权限控制和多重身份认证技术保护个人信息，避免数据被违规使用。&lt;br&gt;来伊份采用代码安全自动检查、数据访问日志分析技术进行个人信息安全审计。&lt;br&gt;2、来伊份为保护个人信息采取的其他安全措施&lt;br&gt;来伊份通过建立数据分类分级制度、数据安全管理规范、数据安全开发规范来管理规范个人信息的存储和使用。&lt;br&gt;来伊份通过信息接触者保密协议、监控和审计机制来对数据进行全面安全控制。&lt;br&gt;来伊份建立数据安全委员会并下设信息保护专职部门、数据安全应急响应组织来推进和保障个人信息安全。&lt;br&gt;3、我们仅允许有必要知晓这些信息的来伊份及来伊份关联方的员工、合作伙伴访问个人信息，并为此设置了严格的访问权限控制和监控机制。我们同时要求可能接触到您个人信息的所有人员履行相应的保密义务。如果未能履行这些义务，可能会被追究法律责任或被终止与来伊份的合作关系。&lt;br&gt;4、我们会采取一切合理可行的措施，确保未收集无关的个人信息。&lt;br&gt;5、互联网并非绝对安全的环境，而且电子邮件、即时通讯、社交软件等与其他用户的交流方式无法确定是否完全加密，我们建议您使用此类工具时请使用复杂密码，并注意保护您的个人信息安全。在通过来伊份与第三方进行网上产品与/或服务的交易时，您不可避免的要向交易对方或潜在的交易对方披露自己的个人信息，如联络方式或者邮政地址等。请您妥善保护自己的个人信息，仅在必要的情形下向他人提供。&lt;br&gt;6、安全事件处置&lt;br&gt;为应对个人信息泄露、损毁和丢失等可能出现的风险，来伊份制定了多项制度，明确安全事件、安全漏洞的分类分级标准及相应的处理流程。来伊份也为安全事件建立了专门的应急响应团队，按照安全事件处置规范要求，针对不同安全事件启动安全预案，进行止损、分析、定位、制定补救措施并联合相关部门进行溯源和打击。&lt;br&gt;一旦发生个人信息安全事件，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们同时将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，当难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。&lt;br&gt;7、互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。&lt;br&gt;8、如果您对我们的个人信息保护有任何疑问，可通过本隐私协议中约定的联系方式联系我们。如您发现自己的个人信息泄露，尤其是您的账户及密码发生泄露，请您立即通过本隐私协议【八、如何联系我们】中约定的联系方式联络我们，以便我们采取相应措施。&lt;br&gt;&lt;br&gt;（二）您个人信息的存储&lt;br&gt;&lt;br&gt;1、您的个人信息将存储于中华人民共和国境内。如您使用跨境交易服务，且需要向境外传输您的个人信息完成交易的，我们会单独征得您的授权同意并要求接收方按照我们的说明、本隐私协议以及其他任何相关的保密和安全措施来处理这些个人信息。&lt;br&gt;2、在您使用我们的产品与/或服务期间，您的个人信息将在为了实现本协议所述目的之期限内存储，同时将结合法律有强制的留存要求期限的规定确定，如《中华人民共和国电子商务法》要求商品和服务信息、交易信息存储时间自交易完成之日起不少于三年。在超出存储期间后，我们会根据适用法律的要求删除您的个人信息，或进行匿名化处理。&lt;br&gt;3、请您注意，当您成功注销来伊份账户后，我们将对您的个人信息进行删除或匿名化处理。当您或我们协助您删除相关信息后，因为适用的法律和安全技术限制，我们可能无法立即从备份系统中删除相应的信息，我们将安全地存储您的个人信息并限制对其的任何进一步的处理，直到备份可以删除或实现匿名化。&lt;br&gt;4、如果我们终止服务或运营，我们会至少提前三十日向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理。&lt;br&gt;&lt;br&gt;五、您如何管理您的个人信息&lt;br&gt;&lt;br&gt;来伊份非常重视您对个人信息的关注，并尽全力保护您对于您个人信息访问、更正、删除以及撤回同意的权利，以使您拥有充分的能力保障您的隐私和安全。您的权利包括：&lt;br&gt;1、访问和更正您的个人信息&lt;br&gt;除法律法规规定外，您有权随时访问和更正您的个人信息，具体包括：&lt;br&gt;（1）您的账户信息：APP具体路径为：首页--“我的”进入我的来伊份—“右上角设置图标”进入个人设置；&lt;br&gt;（2）您的收货信息：APP具体路径为：首页--“我的”进入我的来伊份--“常用应用”进入常用应用中—收获地址。您也可以将最常用的收货地址设置为默认地址，如此，若您下次购买商品时未更改收货地址，您的商品会配送到该默认地址。&lt;br&gt;（3）您的订单信息：APP具体路径为：APP首页--“我的”进入我的来伊份--我的订单/待收款/待收货/退换售后。您可以选择删除已经完成和已取消的订单来删除您的订单信息，但这样可能导致我们无法准确判断您的购买信息而难以提供相应的售后服务，您也无法对删除的订单使用我们的晒单和评价功能。&lt;br&gt;（4）您的浏览信息：您可以访问或清除您的搜索历史记录、查看和修改兴趣以及管理其他数据。APP路径为：搜索历史记录：首页--“我的”进入我的来伊份--浏览记录；&lt;br&gt;（5）您的评论信息：首页--“我的”进入我的来伊份--“常用应用”进入常用应用中—评论中心。&lt;br&gt;（6）对于您在使用我们的产品与/或服务过程中产生的其他个人信息需要访问或更正，请随时联系我们。我们会根据本隐私协议所列明的方式和期限响应您的请求。&lt;br&gt;（7）您无法访问和更正的个人信息：除上述列明的信息外，您的部分个人信息我们无法为您提供访问和更正的服务，这些信息主要是为了提升您的用户体验和保证交易安全所收集的您的设备信息、您使用扩展功能时产生的个人信息。上述信息我们会在您的授权范围内进行使用，您无法访问和更正，但您可通过客服联系我们进行删除或做匿名化处理。&lt;br&gt;&lt;br&gt;2、删除您的个人信息&lt;br&gt;您在我们的产品与/或服务页面中可以直接清除或删除的信息，包括订单信息、浏览信息、收货地址信息。&lt;br&gt;我们在来伊份 App 上提供以下方式帮助您删除您在来伊份APP上的信息。&lt;br&gt;您可通过【发现 → 朋友圈】，删除您在社区发布的信息（评论、晒单、问答、图片、视频）；&lt;br&gt;您可通过【我的 → 设置】，删除您的个人信息（包括姓名、昵称、个人手机号码、身份证、生日、性别）；&lt;br&gt;您可通过【我的 → 我的订单】，删除您的订单记录（包括收货人姓名、收货手机号码、个人固定电话、收货地址、订单号、购买商品和服务、购买金额）；&lt;br&gt;您可通过联系APP在线客服或者致电4008819777注销您的个人账户（推荐使用APP在线客服）。&lt;/p&gt;&lt;p&gt;在以下情形中，您可以向我们提出删除个人信息的请求：&lt;br&gt;（1） 如果我们处理个人信息的行为违反法律法规；&lt;br&gt;（2） 如果我们收集、使用您的个人信息，却未征得您的同意；&lt;br&gt;（3） 如果我们处理个人信息的行为违反了与您的约定；&lt;br&gt;（4） 您出于任何原因撤回个人同意或授权；&lt;br&gt;（5） 您的个人信息的处理目的已实现；&lt;br&gt;（6） 如果我们终止服务及运营；&lt;br&gt;（7） 法律、行政法规规定的其他情形。&lt;br&gt;若我们决定响应您的删除请求，我们还将同时通知从我们获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定，或这些实体已经获得您的独立授权。若我们响应您的删除请求，我们不能保证立即从备份系统中删除相应的信息，但会在备份系统更新时删除这些信息。&lt;br&gt;&lt;br&gt;3、改变您授权同意的范围或撤回您的授权&lt;br&gt;您可以通过删除信息、关闭设备功能、在来伊份网站或软件中进行隐私设置等方式改变您授权我们继续收集个人信息的范围或撤回您的授权。您也可以通过注销账户的方式，撤回我们继续收集您个人信息的全部授权。&lt;br&gt;请您理解，每个业务功能需要一些基本的个人信息才能得以完成，当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的服务，也不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响此前基于您的授权而开展的个人信息处理。&lt;br&gt;&lt;br&gt;4、如果您不想接受我们给您发送的促销信息，您可随时通过以下方式取消：&lt;br&gt;（1）您可以通过APP“账户设置-设置-消息设置”勾选或去除对应的通知类型。&lt;br&gt;5、响应您的请求&lt;br&gt;如果您无法通过上述方式访问、更正或删除您的个人信息，或您需要访问、更正或删除您在使用我们产品与/或服务时所产生的其他个人信息，或您认为来伊份存在任何违反法律法规或与您关于个人信息的收集或使用的约定，您均可以通过点击“无聊-客服小伊”联系APP在线客服或致电400-8819-777与我们联系。为了保障安全，我们可能需要您提供书面请求，或提供您的身份证明文件，我们将在收到您反馈并验证您的身份后的15天内答复您的请求。对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际（例如，涉及备份磁带上存放的信息）的请求，我们可能会予以拒绝。&lt;/p&gt;&lt;p&gt;&lt;br&gt;在以下情形中，按照法律法规要求，我们将无法响应您的请求：&lt;br&gt;（1）与个人信息控制者履行法律法规规定的义务相关的；&lt;br&gt;（2）与国家安全、国防安全有关的；&lt;br&gt;（3）与公共安全、公共卫生、重大公共利益有关的；&lt;br&gt;（4）与刑事侦查、起诉、审判和执行判决等有关的；&lt;br&gt;（5）有充分证据表明您存在主观恶意或滥用权利的；&lt;br&gt;（6）出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；&lt;br&gt;（7）响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；&lt;br&gt;（8）涉及商业秘密的。&lt;br&gt;&lt;br&gt;六、未成年人的个人信息保护&lt;br&gt;&lt;br&gt;1、来伊份非常重视对未成年人个人信息的保护。若您是18周岁以下的未成年人，在使用我们的产品与/或服务前，应事先取得您监护人的同意。来伊份根据国家相关法律法规的规定保护未成年人的个人信息。&lt;br&gt;2、我们不会主动直接向未成年人收集其个人信息。对于经监护人同意而收集未成年人个人信息的情况，我们只会在受到法律允许、监护人同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。&lt;br&gt;3、如果有事实证明未成年人并未取得监护人同意的情况下注册使用了我们的产品与/或服务，我们会与相关监护人协商，并设法尽快删除相关个人信息。&lt;br&gt;4、对于可能涉及的不满14周岁的儿童个人信息，我们进一步采取以下措施予以保障：&lt;br&gt;（1）对于收集到的儿童个人信息，我们除遵守本隐私协议关于用户个人信息的约定外，还会秉持正当必要、知情同意、目的明确、安全保障、依法利用的原则，严格遵循《儿童个人信息网络保护规定》等法律法规的要求进行存储、使用、披露，且不会超过实现收集、使用目的所必须的期限，到期后我们会对儿童个人信息进行删除或匿名化处理。&lt;br&gt;（2）当您作为监护人为被监护的儿童选择使用来伊份相关服务时，我们可能需要向您收集被监护的儿童个人信息，用于向您履行相关服务之必要。在具体服务中需要向您收集儿童个人信息的，我们会事先取得您的授权同意，并告知您收集的目的和用途。如果您不提供前述信息，您将无法享受我们提供的相关服务。此外，您在使用晒单、评价及问答功能分享商品相关信息时可能会主动向我们提供儿童个人信息，请您明确知悉并谨慎选择。您作为监护人应当正确履行监护职责，保护儿童个人信息安全。若儿童本人需要注册或使用我们的产品与/或服务，您应正确引导并予以监护。&lt;br&gt;（3）儿童或其监护人有权随时访问和更正儿童个人信息，还可以向我们提出更正和删除的请求。如您对儿童个人信息相关事宜有任何意见、建议或投诉、举报，请联系我们。我们会随时为您提供帮助。&lt;br&gt;&lt;br&gt;七、通知和修订&lt;br&gt;&lt;br&gt;1、为给您提供更好的服务以及随着来伊份业务的发展，本隐私协议也会随之更新。但未经您明确同意，我们不会削减您依据本隐私协议所应享有的权利。我们会通过在来伊份APP上发出更新版本并在生效前通过弹窗的方式提醒您相关内容的更新，也请您访问来伊份APP以便及时了解最新的隐私协议。&lt;/p&gt;&lt;p&gt;2、对于重大变更，我们还会提供更为显著的通知（我们会通过包括但不限于短信或在浏览页面做特别提示等方式，说明隐私协议的具体变更内容）。&lt;br&gt;本隐私协议所指的重大变更包括但不限于：&lt;br&gt;（1）我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；&lt;br&gt;（2）我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；&lt;br&gt;（3）个人信息共享、转让或公开披露的主要对象发生变化；&lt;br&gt;（4）您参与个人信息处理方面的权利及其行使方式发生重大变化；&lt;br&gt;（5）我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；&lt;br&gt;（6）个人信息安全影响评估报告表明存在高风险时。&lt;br&gt;&lt;br&gt;八、如何联系我们&lt;br&gt;&lt;br&gt;1、如您对本隐私协议或您个人信息的相关事宜有任何问题、意见或建议，请通过以下方式与我们联系：&lt;br&gt;客服热线：400-8819-777&lt;br&gt;您还可以随时通过访问来伊份社区购APP，点击“无聊-客服小伊”与我们联系。&lt;br&gt;2、一般情况下，我们将在15天内回复。如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报。&lt;br&gt;注：本隐私协议版本更新日期为2023年02月21日。&nbsp;&lt;/p&gt;
+</textarea>
+
+<style type="text/css">
+.center{
+width:125px;
+height:125px;
+margin-left:20px;
+}
+</style>
+<!--global scripts -->
+<script src="/view/cms/h5/templateJS.json"></script>
+<script src="https://static.laiyifen.com/cms/front/js/jquery.min.js"></script>
+<script>jQuery.noConflict()</script>
+<script src="https://static.laiyifen.com/cms/front/plugin/qrcode/jquery.qrcode.min.js"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/zepto/zepto.min.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/zepto-fx.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/vue/vue.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/vue-resource/vue-resource.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/vue-lazyload/vue-lazyload.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/iscroll/iscroll.js?0"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/libs/frozenui/js/frozen.js?0"></script>
+<script src="https://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+<script src="https://static.laiyifen.com/cms/front/ncms/common/common.js?0"></script>
+<script>
+var app = new Vue({
+el:'#articleApp',
+data:{
+noCon:false,
+articleInfo:{
+title:'',
+date:'',
+author:'',
+},
+mobileShow:false,
+articleCon:'',
+isShow:false
+},
+mounted:function(){
+var self = this;
+if($("#var1592015633381376").length>0 && $.trim($("#var1592015633381376").val()).length>0){
+if($("#avar1592015633381376").length && $.trim($("#avar1592015633381376").val()).length>0){
+self.noCon = false;
+var info = JSON.parse($.trim($("#var1592015633381376").val()));
+self.articleInfo.author='';
+self.articleInfo.date = info.createTime.time;
+self.articleInfo.title = info.displayTitle;
+self.articleCon = $.trim($("#avar1592015633381376").val());
+if(info.categoryName != '公告' && info.categoryName != '海报'){
+self.isShow = true;
+}
+}else{
+self.noCon = true;
+}
+if(info.categoryName == '海报'){
+var art = self.articleCon.split("<p>")
+if(art.length > 0)
+for(var i = 0 ; i < art.length; i++){
+if(art[i].indexOf("<img") != -1){
+self.articleCon = art[i].substring(0,art[i].indexOf('/>'))+'style=" width: 90%; height: 100%;padding: 0 5%; max-width: 100%;"'+'/> ';
+break;
+}
+}
+self.mobileShow = true;
+var qrcodeImg = $("#code");
+if(qrcodeImg){
+//$("#code").remove();
+//qrcodeImg.css=("position:absolute,bottom:40%,left:25%");
+$("#articleApp").append(qrcodeImg);
+$("#code").css({
+"position": "absolute",
+"margin-top": "-125px",
+"left":"30%"
+});
+}
+}
+}
+},
+methods:{
+save:function(){
+var posterUrl = $("#articleApp").html().split("<img")[1].split("=")[1].split("\"")[1];
+if(Vue.browser.isApp()) {
+Vue.app.postMessage('poster',{
+posterPicUrl:posterUrl,
+qrCodeUrl:url
+});
+}else{
+var canvas = document.createElement('canvas'); //准备空画布
+var a = document.createElement('a');
+a.href=posterUrl;
+a.click();
+}
+}
+}
+});
+</script>
+<script>
+var vm = new Vue({
+el: '#cms-header-template',
+data: function () {
+return {
+dHeight: 45,
+showHeader: true,
+rightNavFlag: false,
+title: '',
+isShareAvailable: true,
+template: (window['template'] || window['frontTemplate']),
+msgSummary: 0, //消息数量
+//分享内容
+shareConfig: null,
+//第三方分享
+showShare: false,
+//微信分享
+wxShare: false,
+appback: false,
+isClick: false,
+isDistribution:false,
+shareCodeSession : Vue.sessionStorage.getItem('s_currentsharecode')
+}
+},
+mounted: function () {
+var self = this;
+$('body').on('touchstart', function () {
+self.rightNavFlag = false;
+});
+self.$nextTick(function () {
+if (location.pathname.indexOf('category/') > -1) {
+var reg = /\/(\w+)\.html/i;
+var mat = location.pathname.match(reg) ? location.pathname.match(reg)[1] : '';
+var title = '资讯';
+switch (mat) {
+case 'yznk':
+title = '伊仔内刊';
+break;
+case 'headlines':
+title = '伊仔热点';
+break;
+case 'gg_1':
+title = '公告';
+break;
+case 'yiqizhuanheadline':
+title = '伊起赚公告';
+break;
+case 'cysc_1':
+title = '创意素材';
+break;
+default:
+title = '资讯';
+break;
+}
+self.title = title;
+self.isShareAvailable = false;
+} else if (location.pathname.indexOf('article') > -1) {
+//如果是伊仔热点就显示伊仔热点
+if ($('textarea').length > 0) {
+$('textarea').each(function () {
+if (/var\d{16,}/.test($.trim($(this).attr('id')))) {
+try {
+var catInfo = $.parseJSON($.trim($(this).val()));
+if (catInfo) {
+if (catInfo.categoryName == '漫画' || catInfo.categoryName == '热点') {
+self.title = '伊仔热点';
+} else {
+self.title = document.title;
+}
+}
+} catch (e) {
+console.log(e);
+}
+}
+});
+}
+} else {
+self.title = document.title;
+}
+//重新设置页面标题
+document.title = self.getMallSetting('mobileMallName');
+var hideHeader = self.getUrlParam('hideHeader')
+if(Vue.browser.isApp() || Vue.browser.weixin() || hideHeader=='1'){
+self.showHeader = false;
+}
+Vue.app.postMessage('hiddenHead', {
+'isHidden': '1'
+});
+//在app中底部全球尖货页面不需要返回按钮
+var pageId = location.pathname.match(/\/(\d+)\./)[1];
+var param = Vue.utils.paramsFormat(location.href);
+if (param.appback) {
+if (Vue.browser.isApp()) {
+self.appback = true;
+}
+}
+if (!Vue.auth.loggedIn()) { //如果没有登录 不初始化分享
+return;
+} else {
+if (Vue.browser.weixin()) {
+setTimeout(function () {
+self.share(false);
+}, 1000);
+}
+}
+});
+},
+methods: {
+getUrlParam:function(name){
+var reg = new RegExp("(^|&)"+ name +"=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+var r = window.location.search.substr(1).match(reg); //匹配目标参数
+if (r) return decodeURI(r[2]); return null; //返回参数值
+},
+getMallSetting: function (setKey) {
+var settingsKey = "mallSettings";
+var expireDateKey = "settingExpireDate";
+var appIdKey = "weixinAppId";
+var appIdexpireDateKey = "appIdExpireDate";
+var mallSettings = Vue.localStorage.getItem(settingsKey);
+return (mallSettings && mallSettings[setKey]) || '来伊份移动商城';
+},
+goHome: function () {
+this.rightNavFlag = false;
+if (Vue.browser.isApp()) {
+location.href = 'lyf://home';
+} else {
+location.href = '/index.html';
+}
+},
+goMy: function () {
+this.rightNavFlag = false;
+if (Vue.browser.isApp()) {
+location.href = 'lyf://myhome';
+} else {
+location.href = '/my/home.html';
+}
+},
+stope: function (e) {
+e.stopPropagation();
+},
+clickBack: function () {
+//调用app的回退
+this.rightNavFlag = false;
+if (Vue.browser.isApp()) {
+Vue.app.back();
+return;
+}
+var cmsUrl = document.referrer;
+if( cmsUrl.indexOf( 'applyToTuike.html') >= 0 ) {
+window.location.href = '/index.html'
+} else {
+history.back();
+}
+},
+initShare: function () {
+var self = this;
+var config = self.shareConfig;
+self.rightNavFlag = false;
+if ($.trim(config.title).length == 0) {
+$.tips({
+content: '获取分享信息失败',
+stayTime: 2000,
+type: "error"
+});
+return;
+}
+if (Vue.browser.isApp()) {
+Vue.app.postMessage('cmsShare', {
+url:config.link,
+title: config.title,
+description: config.desc,
+url160x160: config.imgUrl,
+pic: config.imgUrl,
+isDistribution:self.distribution
+});
+} else if (Vue.browser.weixin()) {
+if (self.isClick) {
+self.wxShare = true;
+self.showShare = false;
+}
+Vue.weixin.weixinShare(config, self.getYidou);
+} else {
+self.wxShare = false;
+self.showShare = true;
+mobShare.config({
+debug: false, // 开启调试，将在浏览器的控制台输出调试信息
+appkey: '9ca572cc88e6', // appkey
+params: {
+url: config.link, // 分享链接
+title: config.title, // 分享标题
+description: config.desc, // 分享内容
+pic: config.imgUrl, // 分享图片，使用逗号,隔开
+reason: config.reason || '' //只应用与QZone与朋友网
+},
+/**
+* 分享时触发的回调函数
+* 分享是否成功，目前第三方平台并没有相关接口，因此无法知道分享结果
+* 所以此函数只会提供分享时的相关信息
+*
+* @param {String} plat 平台名称
+* @param {Object} params 实际分享的参数 { url: 链接, title: 标题, description: 内容, pic: 图片连接 }
+*/
+callback: function (plat, params) {
+/*if(typeof this.callback == 'function') {
+this.callback(plat, params);
+}*/
+}
+});
+}
+},
+share: function (isClick, e) {
+var articleId, url, param, self = this;
+self.isClick = isClick;
+e && e.stopPropagation();
+if (!Vue.auth.loggedIn()) { //如果没有登录 需要先登录 为了获取自家did
+if (Vue.browser.isApp()) {
+Vue.app.login();
+} else {
+var from = Vue.utils.getRelatedUrl();
+window.location.href = "/login.html?from=" + encodeURIComponent(from);
+}
+return;
+}
+//资讯分享调用接口，营销页分享读取pageVO对象
+//获取分享信息
+if (location.pathname.indexOf('article') > 0) {
+articleId = location.pathname.match(/\/(\d+)\./)[1];
+url = location.protocol + '//' + self.template.h5_host + '/api/share/shareInfo';
+param = {
+type: 4,
+ut: Vue.auth.getUserToken(),
+paramId: articleId,
+platformId: 3,
+shareType: 1, //0:非分销模式，1：分销模式
+};
+Vue.api.get(url, param, function (res) {
+self.shareConfig = {
+link: res.data.linkUrl,
+title: res.data.title,
+desc: res.data.content,
+imgUrl: res.data.sharePicUrl
+};
+self.initShare();
+});
+} else { //营销页分享
+self.shareConfig = {
+link: location.href + '?shareCode=' + this.shareCodeSession ,
+title: '${page.shareTitle!}',
+desc: '${page.shareDesc!}',
+imgUrl: '${page.shareImg!}'
+};
+self.initShare();
+}
+},
+}
+});
+</script>
+<script>
+function getCookie(name)
+{
+var arr,reg=new RegExp("(^| )"+name+"=([^;]*)(;|$)");
+if(arr=document.cookie.match(reg))
+return unescape(arr[2]);
+else
+return null;
+}
+function getShareCode() {
+var shareCode = getCookie('shareCode');
+if(!shareCode || shareCode == null || shareCode == undefined || shareCode == "" ){
+if(Vue.sessionStorage.getItem("currDistributor") == null || !Vue.sessionStorage.getItem("currDistributor")){
+return null;
+}
+shareCode = Vue.sessionStorage.getItem("currDistributor").shareCode;
+}
+return shareCode;
+}
+function getUrlParam(url) {
+var url = location.search; //获取url中"?"符后的字串
+var theRequest = {};
+if (url.indexOf("?") != -1) {
+var str = url.substr(1);
+strs = str.split("&");
+for(var i = 0; i < strs.length; i ++) {
+theRequest[strs[i].split("=")[0]]=unescape(strs[i].split("=")[1]);
+}
+}
+return theRequest;
+}
+var url = "";
+var isShowQcode = "0"
+if(isShowQcode == "1"){
+var appdStr = "?";
+if (url.indexOf("?") > 0) {
+appdStr = "&";
+}
+var shareCode = getShareCode();
+if (shareCode) {
+url = url + appdStr + "shareCode=" + shareCode;
+}
+jQuery("#code").qrcode({width:125,height:125,text:url});
+}else{
+jQuery("#code").remove();
+if(url != null && url != ""){
+$("#articleApp").append("<a href = "+url+">分享链接："+url+"</a>")
+}
+}
+//console.log(url);
+</script>
+
+</body></html>

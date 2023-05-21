@@ -1,0 +1,1645 @@
+<html><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width initial-scale=1">
+    <link href="https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
+    <style type="text/css">html {
+      overflow-x: initial !important;
+    }
+      :root {
+        --bg-color:#ffffff;
+        --text-color:#333333;
+        --select-text-bg-color:#B5D6FC;
+        --select-text-font-color:auto;
+        --monospace:"Lucida Console",Consolas,"Courier",monospace;
+        --title-bar-height:20px;
+      }
+      .mac-os-11 {
+        --title-bar-height:28px;
+      }
+      html {
+        font-size: 14px;
+        background-color: var(--bg-color);
+        color: var(--text-color);
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+        -webkit-font-smoothing: antialiased;
+      }
+      body {
+        margin: 0px;
+        padding: 0px;
+        height: auto;
+        inset: 0px;
+        font-size: 1rem;
+        line-height: 1.42857;
+        overflow-x: hidden;
+        background: inherit;
+        tab-size: 4;
+      }
+      iframe {
+        margin: auto;
+      }
+      a.url {
+        word-break: break-all;
+      }
+      a:active, a:hover {
+        outline: 0px;
+      }
+      .in-text-selection, ::selection {
+        text-shadow: none;
+        background: var(--select-text-bg-color);
+        color: var(--select-text-font-color);
+      }
+      #write {
+        margin: 0px auto;
+        height: auto;
+        width: inherit;
+        word-break: normal;
+        overflow-wrap: break-word;
+        position: relative;
+        white-space: normal;
+        overflow-x: visible;
+        padding-top: 36px;
+      }
+      #write.first-line-indent p {
+        text-indent: 2em;
+      }
+      #write.first-line-indent li p, #write.first-line-indent p * {
+        text-indent: 0px;
+      }
+      #write.first-line-indent li {
+        margin-left: 2em;
+      }
+      .for-image #write {
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+      body.typora-export {
+        padding-left: 30px;
+        padding-right: 30px;
+      }
+      .typora-export .footnote-line, .typora-export li, .typora-export p {
+        white-space: pre-wrap;
+      }
+      .typora-export .task-list-item input {
+        pointer-events: none;
+      }
+      @media screen and (max-width: 500px) {
+        body.typora-export {
+          padding-left: 0px;
+          padding-right: 0px;
+        }
+        #write {
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+        .CodeMirror-sizer {
+          margin-left: 0px !important;
+        }
+        .CodeMirror-gutters {
+          display: none !important;
+        }
+      }
+      #write li > figure:last-child {
+        margin-bottom: 0.5rem;
+      }
+      #write ol, #write ul {
+        position: relative;
+      }
+      img {
+        max-width: 100%;
+        vertical-align: middle;
+        image-orientation: from-image;
+      }
+      button, input, select, textarea {
+        color: inherit;
+        font: inherit;
+      }
+      input[type="checkbox"], input[type="radio"] {
+        line-height: normal;
+        padding: 0px;
+      }
+      *, ::after, ::before {
+        box-sizing: border-box;
+      }
+      #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre {
+        width: inherit;
+      }
+      #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p {
+        position: relative;
+      }
+      p {
+        line-height: inherit;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        break-after: avoid-page;
+        break-inside: avoid;
+        orphans: 4;
+      }
+      p {
+        orphans: 4;
+      }
+      h1 {
+        font-size: 2rem;
+      }
+      h2 {
+        font-size: 1.8rem;
+      }
+      h3 {
+        font-size: 1.6rem;
+      }
+      h4 {
+        font-size: 1.4rem;
+      }
+      h5 {
+        font-size: 1.2rem;
+      }
+      h6 {
+        font-size: 1rem;
+      }
+      .md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+      .hidden {
+        display: none;
+      }
+      .md-blockmeta {
+        color: rgb(204, 204, 204);
+        font-weight: 700;
+        font-style: italic;
+      }
+      a {
+        cursor: pointer;
+      }
+      sup.md-footnote {
+        padding: 2px 4px;
+        background-color: rgba(238, 238, 238, 0.7);
+        color: rgb(85, 85, 85);
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      sup.md-footnote a, sup.md-footnote a:hover {
+        color: inherit;
+        text-transform: inherit;
+        text-decoration: inherit;
+      }
+      #write input[type="checkbox"] {
+        cursor: pointer;
+        width: inherit;
+        height: inherit;
+      }
+      figure {
+        overflow-x: auto;
+        margin: 1.2em 0px;
+        max-width: calc(100% + 16px);
+        padding: 0px;
+      }
+      figure > table {
+        margin: 0px;
+      }
+      tr {
+        break-inside: avoid;
+        break-after: auto;
+      }
+      thead {
+        display: table-header-group;
+      }
+      table {
+        border-collapse: collapse;
+        border-spacing: 0px;
+        width: 100%;
+        overflow: auto;
+        break-inside: auto;
+        text-align: left;
+      }
+      table.md-table td {
+        min-width: 32px;
+      }
+      .CodeMirror-gutters {
+        border-right: 0px;
+        background-color: inherit;
+      }
+      .CodeMirror-linenumber {
+        user-select: none;
+      }
+      .CodeMirror {
+        text-align: left;
+      }
+      .CodeMirror-placeholder {
+        opacity: 0.3;
+      }
+      .CodeMirror pre {
+        padding: 0px 4px;
+      }
+      .CodeMirror-lines {
+        padding: 0px;
+      }
+      div.hr:focus {
+        cursor: none;
+      }
+      #write pre {
+        white-space: pre-wrap;
+      }
+      #write.fences-no-line-wrapping pre {
+        white-space: pre;
+      }
+      #write pre.ty-contain-cm {
+        white-space: normal;
+      }
+      .CodeMirror-gutters {
+        margin-right: 4px;
+      }
+      .md-fences {
+        font-size: 0.9rem;
+        display: block;
+        break-inside: avoid;
+        text-align: left;
+        overflow: visible;
+        white-space: pre;
+        background: inherit;
+        position: relative !important;
+      }
+      .md-fences-adv-panel {
+        width: 100%;
+        margin-top: 10px;
+        text-align: center;
+        padding-top: 0px;
+        padding-bottom: 8px;
+        overflow-x: auto;
+      }
+      #write .md-fences.mock-cm {
+        white-space: pre-wrap;
+      }
+      .md-fences.md-fences-with-lineno {
+        padding-left: 0px;
+      }
+      #write.fences-no-line-wrapping .md-fences.mock-cm {
+        white-space: pre;
+        overflow-x: auto;
+      }
+      .md-fences.mock-cm.md-fences-with-lineno {
+        padding-left: 8px;
+      }
+      .CodeMirror-line, twitterwidget {
+        break-inside: avoid;
+      }
+      .footnotes {
+        opacity: 0.8;
+        font-size: 0.9rem;
+        margin-top: 1em;
+        margin-bottom: 1em;
+      }
+      .footnotes + .footnotes {
+        margin-top: 0px;
+      }
+      .md-reset {
+        margin: 0px;
+        padding: 0px;
+        border: 0px;
+        outline: 0px;
+        vertical-align: top;
+        background: 0px 0px;
+        text-decoration: none;
+        text-shadow: none;
+        float: none;
+        position: static;
+        width: auto;
+        height: auto;
+        white-space: nowrap;
+        cursor: inherit;
+        -webkit-tap-highlight-color: transparent;
+        line-height: normal;
+        font-weight: 400;
+        text-align: left;
+        box-sizing: content-box;
+        direction: ltr;
+      }
+      li div {
+        padding-top: 0px;
+      }
+      blockquote {
+        margin: 1rem 0px;
+      }
+      li .mathjax-block, li p {
+        margin: 0.5rem 0px;
+      }
+      li blockquote {
+        margin: 1rem 0px;
+      }
+      li {
+        margin: 0px;
+        position: relative;
+      }
+      blockquote > :last-child {
+        margin-bottom: 0px;
+      }
+      blockquote > :first-child, li > :first-child {
+        margin-top: 0px;
+      }
+      .footnotes-area {
+        color: rgb(136, 136, 136);
+        margin-top: 0.714rem;
+        padding-bottom: 0.143rem;
+        white-space: normal;
+      }
+      #write .footnote-line {
+        white-space: pre-wrap;
+      }
+      @media print {
+        body, html {
+          border: 1px solid transparent;
+          height: 99%;
+          break-after: avoid;
+          break-before: avoid;
+          font-variant-ligatures: no-common-ligatures;
+        }
+        #write {
+          margin-top: 0px;
+          padding-top: 0px;
+          border-color: transparent !important;
+        }
+        .typora-export * {
+          -webkit-print-color-adjust: exact;
+        }
+        .typora-export #write {
+          break-after: avoid;
+        }
+        .typora-export #write::after {
+          height: 0px;
+        }
+        .is-mac table {
+          break-inside: avoid;
+        }
+        .typora-export-show-outline .typora-export-sidebar {
+          display: none;
+        }
+      }
+      .footnote-line {
+        margin-top: 0.714em;
+        font-size: 0.7em;
+      }
+      a img, img a {
+        cursor: pointer;
+      }
+      pre.md-meta-block {
+        font-size: 0.8rem;
+        min-height: 0.8rem;
+        white-space: pre-wrap;
+        background: rgb(204, 204, 204);
+        display: block;
+        overflow-x: hidden;
+      }
+      p > .md-image:only-child:not(.md-img-error) img, p > img:only-child {
+        display: block;
+        margin: auto;
+      }
+      #write.first-line-indent p > .md-image:only-child:not(.md-img-error) img {
+        left: -2em;
+        position: relative;
+      }
+      p > .md-image:only-child {
+        display: inline-block;
+        width: 100%;
+      }
+      #write .MathJax_Display {
+        margin: 0.8em 0px 0px;
+      }
+      .md-math-block {
+        width: 100%;
+      }
+      .md-math-block:not(:empty)::after {
+        display: none;
+      }
+      .MathJax_ref {
+        fill: currentcolor;
+      }
+      [contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus {
+        outline: 0px;
+        box-shadow: none;
+      }
+      .md-task-list-item {
+        position: relative;
+        list-style-type: none;
+      }
+      .task-list-item.md-task-list-item {
+        padding-left: 0px;
+      }
+      .md-task-list-item > input {
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        margin-left: -1.2em;
+        margin-top: calc(1em - 10px);
+        border: none;
+      }
+      .math {
+        font-size: 1rem;
+      }
+      .md-toc {
+        min-height: 3.58rem;
+        position: relative;
+        font-size: 0.9rem;
+        border-radius: 10px;
+      }
+      .md-toc-content {
+        position: relative;
+        margin-left: 0px;
+      }
+      .md-toc-content::after, .md-toc::after {
+        display: none;
+      }
+      .md-toc-item {
+        display: block;
+        color: rgb(65, 131, 196);
+      }
+      .md-toc-item a {
+        text-decoration: none;
+      }
+      .md-toc-inner:hover {
+        text-decoration: underline;
+      }
+      .md-toc-inner {
+        display: inline-block;
+        cursor: pointer;
+      }
+      .md-toc-h1 .md-toc-inner {
+        margin-left: 0px;
+        font-weight: 700;
+      }
+      .md-toc-h2 .md-toc-inner {
+        margin-left: 2em;
+      }
+      .md-toc-h3 .md-toc-inner {
+        margin-left: 4em;
+      }
+      .md-toc-h4 .md-toc-inner {
+        margin-left: 6em;
+      }
+      .md-toc-h5 .md-toc-inner {
+        margin-left: 8em;
+      }
+      .md-toc-h6 .md-toc-inner {
+        margin-left: 10em;
+      }
+      @media screen and (max-width: 48em) {
+        .md-toc-h3 .md-toc-inner {
+          margin-left: 3.5em;
+        }
+        .md-toc-h4 .md-toc-inner {
+          margin-left: 5em;
+        }
+        .md-toc-h5 .md-toc-inner {
+          margin-left: 6.5em;
+        }
+        .md-toc-h6 .md-toc-inner {
+          margin-left: 8em;
+        }
+      }
+      a.md-toc-inner {
+        font-size: inherit;
+        font-style: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+      .footnote-line a:not(.reversefootnote) {
+        color: inherit;
+      }
+      .md-attr {
+        display: none;
+      }
+      .md-fn-count::after {
+        content: ".";
+      }
+      code, pre, samp, tt {
+        font-family: var(--monospace);
+      }
+      kbd {
+        margin: 0px 0.1em;
+        padding: 0.1em 0.6em;
+        font-size: 0.8em;
+        color: rgb(36, 39, 41);
+        background: rgb(255, 255, 255);
+        border: 1px solid rgb(173, 179, 185);
+        border-radius: 3px;
+        box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset;
+        white-space: nowrap;
+        vertical-align: middle;
+      }
+      .md-comment {
+        color: rgb(162, 127, 3);
+        opacity: 0.8;
+        font-family: var(--monospace);
+      }
+      code {
+        text-align: left;
+        vertical-align: initial;
+      }
+      a.md-print-anchor {
+        white-space: pre !important;
+        border-width: initial !important;
+        border-style: none !important;
+        border-color: initial !important;
+        display: inline-block !important;
+        position: absolute !important;
+        width: 1px !important;
+        right: 0px !important;
+        outline: 0px !important;
+        background: 0px 0px !important;
+        text-decoration: initial !important;
+        text-shadow: initial !important;
+      }
+      .os-windows.monocolor-emoji .md-emoji {
+        font-family: "Segoe UI Symbol", sans-serif;
+      }
+      .md-diagram-panel > svg {
+        max-width: 100%;
+      }
+      [lang="flow"] svg, [lang="mermaid"] svg {
+        max-width: 100%;
+        height: auto;
+      }
+      [lang="mermaid"] .node text {
+        font-size: 1rem;
+      }
+      table tr th {
+        border-bottom: 0px;
+      }
+      video {
+        max-width: 100%;
+        display: block;
+        margin: 0px auto;
+      }
+      iframe {
+        max-width: 100%;
+        width: 100%;
+        border: none;
+      }
+      .highlight td, .highlight tr {
+        border: 0px;
+      }
+      mark {
+        background: rgb(255, 255, 0);
+        color: rgb(0, 0, 0);
+      }
+      .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong {
+        color: inherit;
+      }
+      .md-expand mark .md-meta {
+        opacity: 0.3 !important;
+      }
+      mark .md-meta {
+        color: rgb(0, 0, 0);
+      }
+      @media print {
+        .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 {
+          break-inside: avoid;
+        }
+      }
+      .md-diagram-panel .messageText {
+        stroke: none !important;
+      }
+      .md-diagram-panel .start-state {
+        fill: var(--node-fill);
+      }
+      .md-diagram-panel .edgeLabel rect {
+        opacity: 1 !important;
+      }
+      .md-fences.md-fences-math {
+        font-size: 1em;
+      }
+      .md-fences-advanced:not(.md-focus) {
+        padding: 0px;
+        white-space: nowrap;
+        border: 0px;
+      }
+      .md-fences-advanced:not(.md-focus) {
+        background: inherit;
+      }
+      .typora-export-show-outline .typora-export-content {
+        max-width: 1440px;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+      }
+      .typora-export-sidebar {
+        width: 300px;
+        font-size: 0.8rem;
+        margin-top: 80px;
+        margin-right: 18px;
+      }
+      .typora-export-show-outline #write {
+        --webkit-flex:2;
+        flex: 2 1 0%;
+      }
+      .typora-export-sidebar .outline-content {
+        position: fixed;
+        top: 0px;
+        max-height: 100%;
+        overflow: hidden auto;
+        padding-bottom: 30px;
+        padding-top: 60px;
+        width: 300px;
+      }
+      @media screen and (max-width: 1024px) {
+        .typora-export-sidebar, .typora-export-sidebar .outline-content {
+          width: 240px;
+        }
+      }
+      @media screen and (max-width: 800px) {
+        .typora-export-sidebar {
+          display: none;
+        }
+      }
+      .outline-content li, .outline-content ul {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+        list-style: none;
+      }
+      .outline-content ul {
+        margin-top: 0px;
+        margin-bottom: 0px;
+      }
+      .outline-content strong {
+        font-weight: 400;
+      }
+      .outline-expander {
+        width: 1rem;
+        height: 1.42857rem;
+        position: relative;
+        display: table-cell;
+        vertical-align: middle;
+        cursor: pointer;
+        padding-left: 4px;
+      }
+      .outline-expander::before {
+        content: "";
+        position: relative;
+        font-family: Ionicons;
+        display: inline-block;
+        font-size: 8px;
+        vertical-align: middle;
+      }
+      .outline-item {
+        padding-top: 3px;
+        padding-bottom: 3px;
+        cursor: pointer;
+      }
+      .outline-expander:hover::before {
+        content: "";
+      }
+      .outline-h1 > .outline-item {
+        padding-left: 0px;
+      }
+      .outline-h2 > .outline-item {
+        padding-left: 1em;
+      }
+      .outline-h3 > .outline-item {
+        padding-left: 2em;
+      }
+      .outline-h4 > .outline-item {
+        padding-left: 3em;
+      }
+      .outline-h5 > .outline-item {
+        padding-left: 4em;
+      }
+      .outline-h6 > .outline-item {
+        padding-left: 5em;
+      }
+      .outline-label {
+        cursor: pointer;
+        display: table-cell;
+        vertical-align: middle;
+        text-decoration: none;
+        color: inherit;
+      }
+      .outline-label:hover {
+        text-decoration: underline;
+      }
+      .outline-item:hover {
+        border-color: rgb(245, 245, 245);
+        background-color: var(--item-hover-bg-color);
+      }
+      .outline-item:hover {
+        margin-left: -28px;
+        margin-right: -28px;
+        border-left: 28px solid transparent;
+        border-right: 28px solid transparent;
+      }
+      .outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before {
+        display: none;
+      }
+      .outline-item-open > .outline-item > .outline-expander::before {
+        content: "";
+      }
+      .outline-children {
+        display: none;
+      }
+      .info-panel-tab-wrapper {
+        display: none;
+      }
+      .outline-item-open > .outline-children {
+        display: block;
+      }
+      .typora-export .outline-item {
+        padding-top: 1px;
+        padding-bottom: 1px;
+      }
+      .typora-export .outline-item:hover {
+        margin-right: -8px;
+        border-right: 8px solid transparent;
+      }
+      .typora-export .outline-expander::before {
+        content: "+";
+        font-family: inherit;
+        top: -1px;
+      }
+      .typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before {
+        content: "−";
+      }
+      .typora-export-collapse-outline .outline-children {
+        display: none;
+      }
+      .typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children {
+        display: block;
+      }
+      .typora-export-no-collapse-outline .outline-expander::before {
+        content: "" !important;
+      }
+      .typora-export-show-outline .outline-item-active > .outline-item .outline-label {
+        font-weight: 700;
+      }
+      .md-inline-math-container mjx-container {
+        zoom: 0.95;
+      }
+      :root {
+        --side-bar-bg-color: #fafafa;
+        --control-text-color: #777;
+      }
+      @include-when-export url(https://fonts.loli.net/css?family=Open+Sans:400italic,700italic,700,400&subset=latin,latin-ext);
+      /* open-sans-regular - latin-ext_latin */
+      /* open-sans-italic - latin-ext_latin */
+      /* open-sans-700 - latin-ext_latin */
+      /* open-sans-700italic - latin-ext_latin */
+      html {
+        font-size: 16px;
+        -webkit-font-smoothing: antialiased;
+      }
+      body {
+        font-family: "Open Sans","Clear Sans", "Helvetica Neue", Helvetica, Arial, 'Segoe UI Emoji', sans-serif;
+        color: rgb(51, 51, 51);
+        line-height: 1.6;
+      }
+      #write {
+        max-width: 860px;
+        margin: 0 auto;
+        padding: 30px;
+        padding-bottom: 100px;
+      }
+      @media only screen and (min-width: 1400px) {
+        #write {
+          max-width: 1024px;
+        }
+      }
+      @media only screen and (min-width: 1800px) {
+        #write {
+          max-width: 1200px;
+        }
+      }
+      #write > ul:first-child,
+      #write > ol:first-child{
+        margin-top: 30px;
+      }
+      a {
+        color: #4183C4;
+      }
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        position: relative;
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        font-weight: bold;
+        line-height: 1.4;
+        cursor: text;
+      }
+      h1:hover a.anchor,
+      h2:hover a.anchor,
+      h3:hover a.anchor,
+      h4:hover a.anchor,
+      h5:hover a.anchor,
+      h6:hover a.anchor {
+        text-decoration: none;
+      }
+      h1 tt,
+      h1 code {
+        font-size: inherit;
+      }
+      h2 tt,
+      h2 code {
+        font-size: inherit;
+      }
+      h3 tt,
+      h3 code {
+        font-size: inherit;
+      }
+      h4 tt,
+      h4 code {
+        font-size: inherit;
+      }
+      h5 tt,
+      h5 code {
+        font-size: inherit;
+      }
+      h6 tt,
+      h6 code {
+        font-size: inherit;
+      }
+      h1 {
+        font-size: 2.25em;
+        line-height: 1.2;
+        border-bottom: 1px solid #eee;
+      }
+      h2 {
+        font-size: 1.75em;
+        line-height: 1.225;
+        border-bottom: 1px solid #eee;
+      }
+      /*@media print {
+      .typora-export h1,
+      .typora-export h2 {
+      border-bottom: none;
+      padding-bottom: initial;
+      }
+      .typora-export h1::after,
+      .typora-export h2::after {
+      content: "";
+      display: block;
+      height: 100px;
+      margin-top: -96px;
+      border-top: 1px solid #eee;
+      }
+      }*/
+      h3 {
+        font-size: 1.5em;
+        line-height: 1.43;
+      }
+      h4 {
+        font-size: 1.25em;
+      }
+      h5 {
+        font-size: 1em;
+      }
+      h6 {
+        font-size: 1em;
+        color: #777;
+      }
+      p,
+      blockquote,
+      ul,
+      ol,
+      dl,
+      table{
+        margin: 0.8em 0;
+      }
+      li>ol,
+      li>ul {
+        margin: 0 0;
+      }
+      hr {
+        height: 2px;
+        padding: 0;
+        margin: 16px 0;
+        background-color: #e7e7e7;
+        border: 0 none;
+        overflow: hidden;
+        box-sizing: content-box;
+      }
+      li p.first {
+        display: inline-block;
+      }
+      ul,
+      ol {
+        padding-left: 30px;
+      }
+      ul:first-child,
+      ol:first-child {
+        margin-top: 0;
+      }
+      ul:last-child,
+      ol:last-child {
+        margin-bottom: 0;
+      }
+      blockquote {
+        border-left: 4px solid #dfe2e5;
+        padding: 0 15px;
+        color: #777777;
+      }
+      blockquote blockquote {
+        padding-right: 0;
+      }
+      table {
+        padding: 0;
+        word-break: initial;
+      }
+      table tr {
+        border: 1px solid #dfe2e5;
+        margin: 0;
+        padding: 0;
+      }
+      table tr:nth-child(2n),
+      thead {
+        background-color: #f8f8f8;
+      }
+      table th {
+        font-weight: bold;
+        border: 1px solid #dfe2e5;
+        border-bottom: 0;
+        margin: 0;
+        padding: 6px 13px;
+      }
+      table td {
+        border: 1px solid #dfe2e5;
+        margin: 0;
+        padding: 6px 13px;
+      }
+      table th:first-child,
+      table td:first-child {
+        margin-top: 0;
+      }
+      table th:last-child,
+      table td:last-child {
+        margin-bottom: 0;
+      }
+      .CodeMirror-lines {
+        padding-left: 4px;
+      }
+      .code-tooltip {
+        box-shadow: 0 1px 1px 0 rgba(0,28,36,.3);
+        border-top: 1px solid #eef2f2;
+      }
+      .md-fences,
+      code,
+      tt {
+        border: 1px solid #e7eaed;
+        background-color: #f8f8f8;
+        border-radius: 3px;
+        padding: 0;
+        padding: 2px 4px 0px 4px;
+        font-size: 0.9em;
+      }
+      code {
+        background-color: #f3f4f4;
+        padding: 0 2px 0 2px;
+      }
+      .md-fences {
+        margin-bottom: 15px;
+        margin-top: 15px;
+        padding-top: 8px;
+        padding-bottom: 6px;
+      }
+      .md-task-list-item > input {
+        margin-left: -1.3em;
+      }
+      @media print {
+        html {
+          font-size: 13px;
+        }
+        table,
+        pre {
+          page-break-inside: avoid;
+        }
+        pre {
+          word-wrap: break-word;
+        }
+      }
+      .md-fences {
+        background-color: #f8f8f8;
+      }
+      #write pre.md-meta-block {
+        padding: 1rem;
+        font-size: 85%;
+        line-height: 1.45;
+        background-color: #f7f7f7;
+        border: 0;
+        border-radius: 3px;
+        color: #777777;
+        margin-top: 0 !important;
+      }
+      .mathjax-block>.code-tooltip {
+        bottom: .375rem;
+      }
+      .md-mathjax-midline {
+        background: #fafafa;
+      }
+      #write>h3.md-focus:before{
+        left: -1.5625rem;
+        top: .375rem;
+      }
+      #write>h4.md-focus:before{
+        left: -1.5625rem;
+        top: .285714286rem;
+      }
+      #write>h5.md-focus:before{
+        left: -1.5625rem;
+        top: .285714286rem;
+      }
+      #write>h6.md-focus:before{
+        left: -1.5625rem;
+        top: .285714286rem;
+      }
+      .md-image>.md-meta {
+        /*border: 1px solid #ddd;*/
+        border-radius: 3px;
+        padding: 2px 0px 0px 4px;
+        font-size: 0.9em;
+        color: inherit;
+      }
+      .md-tag {
+        color: #a7a7a7;
+        opacity: 1;
+      }
+      .md-toc {
+        margin-top:20px;
+        padding-bottom:20px;
+      }
+      .sidebar-tabs {
+        border-bottom: none;
+      }
+      #typora-quick-open {
+        border: 1px solid #ddd;
+        background-color: #f8f8f8;
+      }
+      #typora-quick-open-item {
+        background-color: #FAFAFA;
+        border-color: #FEFEFE #e5e5e5 #e5e5e5 #eee;
+        border-style: solid;
+        border-width: 1px;
+      }
+      /** focus mode */
+      .on-focus-mode blockquote {
+        border-left-color: rgba(85, 85, 85, 0.12);
+      }
+      header, .context-menu, .megamenu-content, footer{
+        font-family: "Segoe UI", "Arial", sans-serif;
+      }
+      .file-node-content:hover .file-node-icon,
+      .file-node-content:hover .file-node-open-state{
+        visibility: visible;
+      }
+      .mac-seamless-mode #typora-sidebar {
+        background-color: #fafafa;
+        background-color: var(--side-bar-bg-color);
+      }
+      .md-lang {
+        color: #b4654d;
+      }
+      /*.html-for-mac {
+      --item-hover-bg-color: #E6F0FE;
+      }*/
+      #md-notification .btn {
+        border: 0;
+      }
+      .dropdown-menu .divider {
+        border-color: #e5e5e5;
+        opacity: 0.4;
+      }
+      .ty-preferences .window-content {
+        background-color: #fafafa;
+      }
+      .ty-preferences .nav-group-item.active {
+        color: white;
+        background: #999;
+      }
+      .menu-item-container a.menu-style-btn {
+        background-color: #f5f8fa;
+        background-image: linear-gradient( 180deg , hsla(0, 0%, 100%, 0.8), hsla(0, 0%, 100%, 0));
+      }
+    </style><title>鲁大师安卓版隐私政策</title>
+  </head>
+  <body class="typora-export os-windows">
+    <div class="typora-export-content">
+      <div id="write" class="">
+        <h1 id="鲁大师安卓版隐私政策"><strong><span>鲁大师安卓版隐私政策</span></strong>
+        </h1>
+        <p><span>更新日期：2023年04月25日</span>
+        </p>
+        <p><span>生效日期：2023年04月25日</span>
+        </p>
+        <p><span>鲁大师安卓版（以下简称“</span><strong><span>鲁大师</span></strong><span>”或“</span><strong><span>本款产品</span></strong><span>”）由成都奇鲁科技有限公司（以下简称“</span><strong><span>我们</span></strong><span>”或“</span><strong><span>公司</span></strong><span>”）提供。我们深知个人信息对用户的重要性，也深知为用户的个人信息提供有效保护是我们业务健康可持续发展的基石。感谢您对我们产品和服务的使用和信任！我们郑重承诺，我们将按业界成熟的安全标准，采取相应的安全保护措施来保护您的个人信息。</span>
+        </p>
+        <h4 id="本隐私政策将帮助您了解"><strong><span>本隐私政策将帮助您了解：</span></strong>
+        </h4>
+        <p><strong><span>1.我们如何收集和使用个人信息</span></strong>
+        </p>
+        <p><strong><span>2.我们如何存储个人信息</span></strong>
+        </p>
+        <p><strong><span>3.我们如何共享、转让、公开披露个人信息</span></strong>
+        </p>
+        <p><strong><span>4.我们如何保护个人信息的安全</span></strong>
+        </p>
+        <p><strong><span>5.管理您的个人信息</span></strong>
+        </p>
+        <p><strong><span>6.未成年人使用条款</span></strong>
+        </p>
+        <p><strong><span>7.隐私政策的适用范围</span></strong>
+        </p>
+        <p><strong><span>8.隐私政策的修订和通知</span></strong>
+        </p>
+        <p><strong><span>9.联系我们</span></strong>
+        </p>
+        <p><span>       </span><span>我们希望通过本隐私政策向您说明，在使用我们的产品和服务时，我们如何收集、使用、存储、分享和转让您的个人信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。</span>
+        </p>
+        <p><span>       </span><strong><span>请在使用我们的产品和服务前，务必仔细阅读并了解本隐私政策，在确认充分理解并同意后使用我们的产品或服务。一旦您开始使用我们的产品和服务，即表示您已充分理解并同意本政策，并同意我们按照本隐私政策收集、使用、储存和分享您的相关信息。</span></strong><span>如对本政策内容有任何疑问、意见或建议，您可通过本隐私政策提供的各种联系方式与我们联系。</span>
+        </p>
+        <p>&nbsp;
+        </p>
+        <h2 id="一我们如何收集和使用个人信息"><strong><span>一、我们如何收集和使用个人信息</span></strong>
+        </h2>
+        <p><span>       </span><span>我们将按照本隐私政策所述的实现本款产品的核心功能、附加功能以及第三方功能所必需收集和使用您的个人信息。其中，将涉及您的敏感信息，包括您的个人电话号码、定位信息，以及收集和使用这些敏感信息的目的和用途详见下述功能描述部分。个人敏感信息一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视行待遇等。因此，我们会采取合规技术对您明确同意和主动提供的敏感信息进行加密存储，保护您个人信息的安全。</span>
+        </p>
+        <p><span>       </span><span>我们没有通过共享、转让、搜集公开信息的其他渠道间接获取相关您的个人信息。如将来发生需通过其他渠道间接获取您的个人信息时，我们只获取实现产品或服务的业务功能所必需的最少数量的信息，且在收集和使用之前明确告知您并征求您的明示同意。同时，我们将在收集信息前确保信息来源的合法性，了解个人信息提供方已获得的个人信息处理的授权同意范围，包括使用目的、授权同意转让、共享、公开披露。若我们开展业务需进行的个人信息处理活动超出该授权同意范围，会在获取个人信息后的合理期限内或处理个人信息前，征得您的明示同意。</span>
+        </p>
+        <h3 id="一）实现鲁大师核心功能"><strong><span>（一）实现鲁大师核心功能</span></strong>
+        </h3>
+        <p><span>       </span><span>核心功能是指支撑本款产品正常运行和提供服务的基本功能，在您安装本款产品后默认开启，为您提供相应的基本服务。核心业务功能对所需信息和权限的调用频率不会超出功能所需。若您不同意我们为向您提供服务所必须收集和使用的您的以下信息，请停止使用本产品或相关功能服务。</span>
+        </p>
+        <ol><li><span>垃圾清理（快捷清理/全面清理）：本产品为您提供手机清理功能，释放手机存储空间。每当您点击使用此功能时，我们会调用手机操作系统提供的公共接口，扫描系统里的无用文件、缩略图缓存文件、程序日志文件、空白文件目录、广告插件产生的缓存文件、广告缩略图等，实现安全卸载残留、广告清理、清除系统垃圾。同时，本产品还会扫描联网产生的缓存文件、大文件、卸载软件的残留数据、当前应用软件上的使用文件信息，并向您呈现文件列表，您可自行选择文件进行清理。我们仅获取已安装应用列表或运行中的进程信息、SD卡根目录信息（包含文件夹的名称、格式、大小、时间信息）、部分文件的MD5标识，不会获取您的文件内容。您清理过后的文件，将需要重新加载、缓存或不能修复，请慎重清理。</span></li><li><span>手机加速：本产品提供清理后台运行进程，释放运行内存，实现手机加速的功能。每当您点击使用此功能时，我们会调用手机操作系统提供的公共接口扫描手机已安装的应用列表或运行中的进程信息，并进行清理，为手机加速。</span></li><li><span>手机验机：此功能会自动读取您手机的硬件配置（包含摄像头像素、芯片型号、屏幕分辨率、传感器信息）并和云端进行对比和检测，我们需要获取您的设备标识符。</span></li><li><span>手机降温：本产品提供手机降温功能。当您启动使用本功能时，我们通过调用手机操作系统提供的公共接口，本地读取您手机电池温度传感器和CPU温度传感器来检测手机的温度，关闭高消耗CPU的后台软件，从而降低CPU功耗实现降温。鲁大师不会收集和上传这些信息，也不会将这些信息用于其它商业服务。</span></li><li><span>通知栏清理：管理和拦截指定的应用程序推送的消息，避免频繁的消息推送打扰。此功能需要获取您的通知读取权限、通知展示权限以及自启动权限。权限获取时，您主动点击同意我们才会使用。</span></li><li><span>软件管理：帮助用户管理安装的应用，进行清理、卸载等。我们将获取手机存诸权限以及应用安装列表信息以实现此功能。</span></li><li><span>微信专清：本产品提供微信应用数据专清的功能。您可通过选择性地清理使用微信过程中产生的文件，以释放存储空间。为实现此功能，我们使用系统公用接口扫描分析您使用微信过程中在本地缓存或存储的数据，即包括视频、图片、表情包以及语音消息的文件名、文件类型、格式、大小、产生时间，以对文件进行归类，并在“微信清理”页面向您展示，便于您进行选择性的清理。我们不会获取并上传上述文件到鲁大师服务器。</span></li><li><span>QQ专清：本产品提供QQ应用数据专清的功能。您可通过选择性地清理使用QQ过程中产生的文件，以释放存储空间。为实现此功能，我们通过手机系统的公用接口本地读取您使用QQ过程中产生的数据的目录信息，包括视频、图片、表情包以及语音消息的文件名、类型、格式、大小、产生时间，以对文件进行归类，并在“QQ清理”页面向您展示，便于您进行选择性的清理。我们不会获取并上传上述文件到鲁大师服务器。</span></li><li><span>赚钱功能：用户使用鲁大师赚钱功能，可以获得相应的鲁币奖励，鲁币可以提现。功能使用中，我们会上传您的设备标识符，以及登录信息，用于验证是否是已注册的用户。</span></li><li><span>手机检测：我们需要访问您的电话状态，使用蓝牙信息权限，使用录音权限，使用相机权限，用以帮助您检测手机硬件功能是否能够正常使用，这些权限仅在使用时向您动态申请，您可以随时在设置中关闭，缺失这些权限将影响功能的正常使用。</span></li><li><span>游戏加速：帮助您监控游戏时的网络状态，并在您开始游戏前帮助您进行手机内存加速和关闭耗电的蓝牙开关。当您点击使用此功能时，我们会调用手机操作系统提供的公共接口扫描手机已安装的应用列表或运行中的进程信息，并进行清理，在游戏开始之前为手机加速。</span></li><li><span>网络测速：本功能提供当前网络环境的传输速率测试。为了实现此功能，当您点击使用此功能时，第三方SDK可能会获取您的设备Mac地址，唯一设备标识码，位置信息。</span></li><li><span>账号登录：为方便您的使用，我们提供账号登录功能。您可通过手机号码注册账号进行登录或者使用微信、QQ等三方软件进行登录。若您选择使用手机号码登录，我们会收集您的手机号码以用于账号注册；若您选择三方登录，我们会获取您的三方登录头像、昵称等基本信息。若您想注销账号，可参照本隐私说明“注销账号”内容进行账号注销。 </span></li>
+        </ol>
+        <h3 id="二）获取权限说明"><strong><span>（二）获取权限说明</span></strong>
+        </h3>
+        <ol><li><span>获取存储权限，动态获取，需要用户授权。用于垃圾清理功能，授权后可以扫描缓存垃圾、卸载残留、广告垃圾、无用安装包。</span></li><li><span>电话权限（手机状态），动态获取，需要用户授权。读取电话状态（设备IMSI/IMEI号）用于展示验机手机配置中IMEI号字段内容；用于用户身份识别（使用中我们会将IMEI进行加密），账号安全，业务安全等需要；获取设备识别码用于第三方广告SDK展示广告，包括头条，广点通，百度广告SDK等。</span></li><li><span>通知读取和展示权限，动态获取，需要用户授权。用于通知栏清理功能。</span></li><li><span>悬浮窗权限，动态获取，需要用户授权。用于悬浮球功能。</span></li><li><span>相机拍摄权限，动态获取，需要用户授权。用于完成手机检测时检测相机相关功能是否正常。</span></li><li><span>自启动权限，动态获取，需要用户授权。用于通知栏清理等功能。</span></li><li><span>获取加速度传感器和距离传感器信息，静默获取。用于手机检测功能。</span></li><li><span>录音权限，动态获取，需要用户授权。用于手机检测中检测手机麦克风和扬声器是否可用。</span></li><li><span>蓝牙信息权限，静默获取，用以完成手机检测中蓝牙功能的检测和游戏加速中关闭耗电的蓝牙设置和充电加速器的功能。</span></li><li><span>使用情况访问权限，动态获取，用以完成手机加速，手机降温，游戏加速等功能。</span></li>
+        </ol>
+        <h3 id="三）第三方服务"><strong><span>（三）第三方服务</span></strong>
+        </h3>
+        <p><span>       </span><span>鲁大师的部分功能，如广告等，由我们合作的第三方提供，在您使用鲁大师过程中，这些第三方会依据其自有的隐私政策收集、处理相关信息，以正常提供广告、购物等服务。您可以点击如下第三方的隐私政策链接，了解第三方收集、处理信息的具体规则。 </span>
+        </p>
+        <figure>
+          <table>
+            <thead>
+              <tr>
+                <th><strong><span>产品/服务名称</span></strong>
+                </th>
+                <th><strong><span>第三方名称</span></strong>
+                </th>
+                <th><strong><span>个人信息种类</span></strong>
+                </th>
+                <th><strong><span>个人信息内容</span></strong>
+                </th>
+                <th><strong><span>共享目的</span></strong>
+                </th>
+                <th><strong><span>使用场景</span></strong>
+                </th>
+                <th><strong><span>共享方式</span></strong>
+                </th>
+                <th><span>合作方隐私政策第三方隐私政策或官网链接</span>
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><span>今日头条穿山甲联盟广告</span>
+                </td>
+                <td><span>北京巨量引擎网络技术有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、SERIAL 、OAID、ICCID、DEVICEID）、网络信息、位置信息、传感器信息、运营商信息、设备时区、运行中的进程信息、应用列表</span>
+                </td>
+                <td><span>用户广告推荐</span>
+                </td>
+                <td><span>应用内商品或服务推荐</span>
+                </td>
+                <td><span>嵌入第三方SDK，在前台、后台状态下，SDK调用系统相关接口收集传输个人信息</span>
+                </td>
+                <td><a href="https://partner.oceanengine.com/privacy" target="_blank" class="url">https://partner.oceanengine.com/privacy</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>腾讯广告广点通</span>
+                </td>
+                <td><span>腾讯科技（深圳）有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、SERIAL）、位置信息、网络信息、基站ID数据信息、传感器信息、通话状态、设备制造商、品牌、设备型号、IP地址、时区、网络类型、运营商信息</span>
+                </td>
+                <td><span>用户广告推荐</span>
+                </td>
+                <td><span>应用内商品或服务推荐</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://e.qq.com/dev/help_detail.html?cid=2005&amp;pid=5983" target="_blank" class="url">https://e.qq.com/dev/help_detail.html?cid=2005&amp;pid=5983</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>百度联盟广告</span>
+                </td>
+                <td><span>百度时代网络技术（北京）有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、IMEI、IMSI、MEID、IDFA、AndroidID）、应用列表、传感器信息、系统版本号，设备厂商，设备型号，手机运营商信息，手机网络状态，设备剩余存储空间，手机重启时间和更新时间</span>
+                </td>
+                <td><span>用户广告推荐</span>
+                </td>
+                <td><span>应用内商品或服务推荐</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://union.baidu.com/bqt/#/legal/policies" target="_blank" class="url">https://union.baidu.com/bqt/#/legal/policies</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>快手联盟</span>
+                </td>
+                <td><span>北京快手广告有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、ICCID、OAID、MEID）、位置信息、网络信息、应用列表、传感器信息、sim卡激活信息</span>
+                </td>
+                <td><span>用户广告推荐</span>
+                </td>
+                <td><span>应用内商品或服务推荐</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://u.kuaishou.com/home/detail/1290" target="_blank" class="url">https://u.kuaishou.com/home/detail/1220</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>QQ开放平台</span>
+                </td>
+                <td><span>深圳市腾讯计算机系统有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备Mac地址，唯一设备标识码</span>
+                </td>
+                <td><span>第三方登录</span>
+                </td>
+                <td><span>在用户登录或注册账号时使用</span>
+                </td>
+                <td>&nbsp;
+                </td>
+                <td><a href="https://privacy.qq.com/" target="_blank" class="url">https://privacy.qq.com/</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>微信开放平台</span>
+                </td>
+                <td><span>深圳市腾讯计算机系统有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备识别信息</span>
+                </td>
+                <td><span>第三方登录</span>
+                </td>
+                <td><span>在用户登录或注册账号时使用</span>
+                </td>
+                <td>&nbsp;
+                </td>
+                <td><a href="https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&amp;key=1503979103&amp;version=1&amp;lang=zh_CN&amp;platform=2" target="_blank" class="url">https://mp.weixin.qq.com/cgi-bin/announce?action=getannouncement&amp;key=1503979103&amp;version=1&amp;lang=zh_CN&amp;platform=2</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>新浪微博开放平台</span>
+                </td>
+                <td><span>北京微梦创科网络技术有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备Mac地址，唯一设备标识码</span>
+                </td>
+                <td><span>第三方登录</span>
+                </td>
+                <td><span>在用户登录或注册账号时使用</span>
+                </td>
+                <td>&nbsp;
+                </td>
+                <td><a href="https://weibo.com/signup/v5/protocol" target="_blank" class="url">https://weibo.com/signup/v5/protocol</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>友盟推送SDK</span>
+                </td>
+                <td><span>友盟同欣（北京）科技有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM卡IMSI/ICCID/地理位置）</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://developer.umeng.com/docs/147377/detail/209997" target="_blank" class="url">https://developer.umeng.com/docs/147377/detail/209997</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>友盟统计SDK</span>
+                </td>
+                <td><span>友盟同欣（北京）科技有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识符（Android如IMEI、Android ID、Serial、IMSI、OPENUDID、ICCID、OAID）、MAC地址、软件列表、设备传感器信息</span>
+                </td>
+                <td><span>统计分析</span>
+                </td>
+                <td><span>在用户使用APP时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://developer.umeng.com/docs/147377/detail/209997" target="_blank" class="url">https://developer.umeng.com/docs/147377/detail/209997</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>小米推送SDK</span>
+                </td>
+                <td><span>小米通讯技术有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、ICCID）、网络信息、设备归属地（国家或地区）、SIM卡运营商名称、当前网络类型</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>在小米手机终端推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://dev.mi.com/console/doc/detail?pId=1822" target="_blank" class="url">https://dev.mi.com/console/doc/detail?pId=1822</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>华为推送SDK</span>
+                </td>
+                <td><span>华为软件技术有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>应用基本信息、应用内设备标识符、设备的硬件信息、系统基本信息和系统设置信息推送消息</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>在华为手机终端推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-statement-0000001050042021" target="_blank" class="url">https://developer.huawei.com/consumer/cn/doc/development/HMSCore-Guides/privacy-statement-0000001050042021</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>OPPO推送SDK</span>
+                </td>
+                <td><span>广东欢太科技有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识符（IMEI、ICCID、IMSI、Android ID、GAID）、应用信息（应用包名、版本号和运行状态）、网络信息（IP或域名连接结果，当前网络类型）</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>在OPPO手机终端推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://open.oppomobile.com/new/developmentDoc/info?id=10288" target="_blank" class="url">https://open.oppomobile.com/new/developmentDoc/info?id=10288</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>VIVO推送SDK</span>
+                </td>
+                <td><span>维沃移动通信有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、SERIAL）、网络信息、应用列表、位置信息</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>在VIVO手机终端推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://dev.vivo.com.cn/documentCenter/doc/366#w1-08512613" target="_blank" class="url">https://dev.vivo.com.cn/documentCenter/doc/366#w1-08512613</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>魅族推送SDK</span>
+                </td>
+                <td><span>珠海市魅族通讯设备有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备标识信息（MAC地址、AndroidID、IMEI、IMSI、ICCID）、网络信息、应用列表、位置信息</span>
+                </td>
+                <td><span>推送消息</span>
+                </td>
+                <td><span>在魅族手机终端推送消息时使用</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://www.meizu.com/legal.html" target="_blank" class="url">https://www.meizu.com/legal.html</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>小游戏服务</span>
+                </td>
+                <td><span>珠海海鸟科技有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备信息（IMEI/OAID/MAC/AndroidID/序列号/UUID）</span>
+                </td>
+                <td><span>提供小游戏</span>
+                </td>
+                <td><span>提供小游戏</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="http://superman.cmcm.com/yinsixieyi-finaldocx.html" target="_blank" class="url">http://superman.cmcm.com/yinsixieyi-finaldocx.html</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>小满活动运营工具</span>
+                </td>
+                <td><span>杭州小满信息科技有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>设备信息（IMEI/OAID/MAC/AndroidID/序列号/UUID）</span>
+                </td>
+                <td><span>提供活动工具</span>
+                </td>
+                <td><span>提供活动工具</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://web.hixiaoman.com/app-h5/1.0.0/privacy.html" target="_blank" class="url">https://web.hixiaoman.com/app-h5/1.0.0/privacy.html</a>
+                </td>
+              </tr>
+              <tr>
+                <td><span>App 支付宝客户端 SDK</span>
+                </td>
+                <td><span>支付宝（中国）网络技术有限公司</span>
+                </td>
+                <td><span>设备及系统</span>
+                </td>
+                <td><span>IMEI、IMSI、MAC 地址、设备序列号、硬件序列号、SIM卡序列号、ICCID、；Android ID、OAID、SSID、BSSID；系统设置、系统属性、设备型号、设备品牌、操作系统；IP 地址、网络类型、运营商信息、Wi-Fi 状态、Wi-Fi 参数、Wi-Fi 列表；软件安装列表</span>
+                </td>
+                <td><span>保障用户账户和资金安全以及支付服务的安全稳定运行</span>
+                </td>
+                <td><span>用户提现</span>
+                </td>
+                <td><span>嵌入第三方SDK，SDK收集传输个人信息</span>
+                </td>
+                <td><a href="https://opendocs.alipay.com/open/54/01g6qm" target="_blank" class="url">https://opendocs.alipay.com/open/54/01g6qm</a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </figure>
+        <p>&nbsp;
+        </p>
+        <h2 id="二我们如何存储个人信息"><strong><span>二、我们如何存储个人信息</span></strong>
+        </h2>
+        <p><span>       </span><span>我们在中华人民共和国境内收集和产生的个人信息将存储在中华人民共和国境内，不涉及跨境传输。</span>
+        </p>
+        <p><span>       </span><span>将来本款产品如发生数据跨境处理时，确需向境外机构传输境内收集的相关个人信息的，我们会按照法律、行政法规和相关监管部门的规定执行。并在数据跨境传输前再次征求您的同意和允许，再进行数据传输。同时，我们确保会在隐私政策中详细说明数据传输的地点和用途，让您随时了解个人信息的存储位置。同时,我们将采取相应的加密、匿名化等技术确保您的个人信息在传输时得到足够的保护。</span>
+        </p>
+        <p><span>       </span><span>我们仅在本政策所属目的的所必须最短期限和法律法规要求的时限内存储您的个人信息。在您停止使用本款产品时，我们将立即停止收集您的个人信息，并对您已提供给我们的个人信息进行匿名化处理，且在3年内删除。若我们存储您的个人信息的时间超出保存期限（3年）时，我们直接对您的信息进行删除或匿名化处理。</span>
+        </p>
+        <p><span>       </span><span>如我们停止运营产品或服务，我们将及时停止继续收集您个人信息的活动，将停止运营的通知以逐一送达或公告的形式通知您，并对我们存储的个人信息进行删除或匿名化处理。</span>
+        </p>
+        <p><span> </span>
+        </p>
+        <h2 id="三我们如何共享转让公开披露个人信息"><strong><span>三、我们如何共享、转让、公开披露个人信息</span></strong>
+        </h2>
+        <h3 id="一）共享"><strong><span>（一）共享</span></strong>
+        </h3>
+        <p><span>我们不会与任何公司、组织和个人共享您的个人信息，但以下情况除外：</span>
+        </p>
+        <ol><li><span>在获取您明确同意的情况下，我们会与其他方共享您的个人信息。</span></li><li><span>我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。</span></li><li><span>在法律法规允许的范围内，为维护鲁大师、鲁大师的关联方或合作伙伴、您或社会公众利益、财产或安全免遭损害而有必要共享您的个人信息。</span></li><li><span>与关联公司间共享：独立为您直接提供服务的关联方为实现功能所必需而收集和使用您的个人信息前，会明示告知您并获得您的明确同意。详情可阅读其相关产品“隐私政策”。您授权给鲁大师的个人信息只有在您明确授权同意的情况下，才会与关联方共享必要个人信息，否则我们不会与关联方共享您的任何信息。若共享内容发生变更时，我们会再次明示告知您并征求您的明示同意。关联方对您信息的处理受相关协议约束。如关联公司要改变您个人信息的处理目的，将再次征求您的授权和同意。</span></li><li><span>与合作伙伴间共享：我们仅会出于合法的、正当的、必要的、特定的、明确的以及为实现本隐私政策中声明的目的，并在您明示授权同意的情况下,我们将会与我们的供应商、服务提供商、顾问、代理人、第三方广告商、应用程序开发者、开放平台或其他合作伙伴共享必要的个人信息（或您举报的短信或来电号码），或是汇总后的信息、匿名化后的信息或者其他不会识别到您个人身份的信息（例如，我们可能会告知应用程序开发者有多少人安装过其开发的应用程序。），以提供更好的客户服务和用户体验。这些供应商、服务提供商、顾问、代理人可能为我们提供技术基础设施服务，分析我们服务的使用方式，衡量广告和服务的有效性，提供客户服务和支付服务，进行学术研究和调查，或提供法律、财务与技术顾问服务。例如，我们可能会不定期地邀请注册您参加抽奖活动。如您幸运中奖，我们需要向物流服务提供商提供您的个人信息，以便向您发送我们的奖品，或者安排合作伙伴提供服务。我们所有的合作伙伴无权将共享的个人信息用于与产品或服务无关的其他用途。</span></li>
+        </ol>
+        <p><span>目前，我们的授权合作伙伴包括以下类型：</span>
+        </p>
+        <ol><li><span>广告、分析服务类的授权合作伙伴。除非得到您的许可，否则我们不会将您的个人身份信息（指可以识别您身份的信息，例如姓名或电子邮箱，通过这些信息可以联系到您或识别您的身份）与提供广告、分析服务的合作伙伴分享。我们会向这些合作伙伴提供有关其广告覆盖面和有效性的信息，而不会提供您的个人身份信息，或者我们将这些信息进行汇总，以便它不会识别您个人。例如，只有在广告主同意遵守我们的广告发布准则后，我们才可能会告诉广告主他们广告的效果如何，或者有多少人看了他们广告或在看到广告后安装了应用，或者向这些合作伙伴提供不能识别个人身份的人口统计信息（例如“位于北京的25岁男性，喜欢软件开发”），帮助他们了解其受众或顾客。</span></li><li><span>供应商、服务提供商和其他合作伙伴。我们将信息发送给在全球范围内支持我们业务的供应商、服务提供商和其他合作伙伴，这些支持包括提供技术基础设施服务、分析我们服务的使用方式、衡量广告和服务的有效性、提供客户服务、支付便利或进行学术研究和调查。</span></li>
+        </ol>
+        <p><span>对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的数据保护协定，要求其按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理个人信息。</span>
+        </p>
+        <h3 id="二）转让"><strong><span>（二）转让</span></strong>
+        </h3>
+        <p><span>我们不会将您的个人信息转让给其他任何公司、组织和个人，但以下情形除外：</span>
+        </p>
+        <ol><li><span>随着鲁大师业务的发展，我们及我们的关联公司有可能进行合并、收购、资产转让或其他类似的交易。如相关交易涉及到您的个人信息转让，我们会要求新持有您个人信息的公司、组织和个人继续受此政策约束，否则我们将要求该公司、组织和个人重新征得您的授权同意。</span></li><li><span>在获得您明确同意的情形下转让，亦即获得您明确同意后，我们会向其他方转让我们已经获取的您的个人信息。</span></li>
+        </ol>
+        <h3 id="三）披露"><strong><span>（三）披露</span></strong>
+        </h3>
+        <p><span>我们仅会在以下情况下，公开披露您的个人信息：</span>
+        </p>
+        <ol><li><span>已经获得您明确同意。</span></li><li><span>在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。</span></li><li><span>在法律法规允许的范围内，为维护鲁大师、鲁大师的关联方或合作伙伴、您或社会公众利益、财产或安全免遭损害而有必要披露您的个人信息。</span></li><li><span>法律法规规定的其他情形。</span></li>
+        </ol>
+        <p><span>根据法律规定，共享、转让经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别个人信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。</span>
+        </p>
+        <p>&nbsp;
+        </p>
+        <h2 id="四我们如何保护个人信息的安全"><strong><span>四、我们如何保护个人信息的安全</span></strong>
+        </h2>
+        <p><span>       </span><span>我们已采取符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。</span>
+        </p>
+        <ol><li><span>我们会对可识别的个人身份信息进行加密传输和存储，以确保数据的保密性。对于您手机设备标识符国际移动设备身份码（IMEI）、网络设备地址（MAC），我们在您的设备端会用MD5算法进行匿名化和加密，并仅收集和上传经过匿名化和加密后的标识符。</span></li><li><span>如果您注册了鲁大师账号，我们可能通过对您的登录时间、IP、登录次数等信息进行分析，妥善做好风控管理。如有疑似非本人登录操作的情况，我们将通过短信提醒您，避免鲁大师账户被非本人登录操作。对于您使用的手机与我们客户端之间的数据交换，我们采用了我们自定义的加密方案和https双重加密的方式进行传输，以确保数据传输的安全性。</span></li><li><span>我们在服务端部署访问控制机制，对可能接触到您个人信息的工作人员采取最小够用授权原则，并定期核查访问人员名单和访问记录。</span></li><li><span>我们存储您个人信息的服务器系统均为安全加固后的操作系统。我们会对服务器操作进行账户审计及监控。如果发现外部公告有安全问题的服务器操作系统，鲁大师会在第一时间会进行服务器安全升级，确保鲁大师所有服务器系统及应用安全。</span></li><li><span>我们为工作人员定期举办个人信息保护相关法律法规培训，以加强工作人员的您个人隐私保护意识。</span></li><li><span>如果不幸发生我们的物理、技术或管理防护措施遭到破坏的事件，我们会及时启动应急预案，防止安全事件扩大，按照法律法规的要求上报国家主管机关，并及时采取推送、公告等合理、有效的方式向您告知安全事件的基本情况、可能的影响、已经采取的措施或将要采取的措施等。</span></li>
+        </ol>
+        <p>&nbsp;
+        </p>
+        <h2 id="五管理您的个人信息"><strong><span>五、管理您的个人信息</span></strong>
+        </h2>
+        <h3 id="一）访问和更正您的个人信息"><strong><span>（一）访问和更正您的个人信息</span></strong>
+        </h3>
+        <ol><li><span>您有权访问您的个人信息，法律法规规定的例外情况除外。您可以随时使用我们的 Web 表单联系入口在【我的】→【设置】→【反馈】，或发送电子邮件至</span><a href="mailto:kefu@ludashi.com" target="_blank" class="url">kefu@ludashi.com</a><span>。</span></li><li><span>我们将在15天内回复您的访问请求。</span></li><li><span>对于您在使用我们的产品或服务过程中产生的其他个人信息，只要我们不需要过多投入，我们会向您提供。如果您想行使数据访问权，请发送电子邮件至</span><a href="mailto:kefu@ludashi.com" target="_blank" class="url">kefu@ludashi.com</a><span>。</span></li>
+        </ol>
+        <h3 id="二）删除您的个人信息"><strong><span>（二）删除您的个人信息</span></strong>
+        </h3>
+        <p><span>以下情况发生时，您有权要求我们删除您的个人信息：</span>
+        </p>
+        <ol><li><span>我们没有征求您的明确同意，收集了您的个人信息。</span></li><li><span>我们处理您的个人信息违反了法律法规要求。</span></li><li><span>我们违反了与您的约定来使用和处理您的个人信息。</span></li><li><span>您注销了账号、卸载或者不再使用我们的产品（或服务）。</span></li><li><span>我们停止对您提供服务。</span></li>
+        </ol>
+        <p><span>    您可以通过本隐私政策提供的方式联系我们要求删除您的个人信息。</span>
+        </p>
+        <h3 id="三）注销您的个人账户"><strong><span>（三）注销您的个人账户</span></strong>
+        </h3>
+        <ol><li><span>您随时可注销此前注册的账户，您可以通过以下方式自行操作：操作路径为【我的】→【设置】→【账号管理】→【账号注销】进行操作。</span></li><li><span>在注销账户之后，我们将停止为您提供产品或服务，并依据您的要求，删除您的个人信息，法律法规另有规定的除外。</span></li><li><span>您也可以通过上文提供的联系方式要求我们清除您的鲁大师APP账号下的所有数据。这些一旦删除将不可以恢复，因此请您理解，在您提交申请后，为保障账号安全，我们可能需要验证您的身份后再进行人工审核和确认。</span></li>
+        </ol>
+        <h3 id="四）撤回您的同意或授权"><strong><span>（四）撤回您的同意或授权</span></strong>
+        </h3>
+        <ol><li><span>每个业务功能需要一些基本的个人信息才能得以完成。对于额外收集的个人信息的收集和使用，您可以随时给予或收回您的授权同意。</span></li><li><span>您可以通过以下方式自行操作：通过手机系统设置调整对鲁大师安卓版APP的授权。</span></li><li><span>当您收回同意后，我们将不再处理相应的个人信息。但您收回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。</span></li>
+        </ol>
+        <h3 id="五）响应您的上述请求"><strong><span>（五）响应您的上述请求</span></strong>
+        </h3>
+        <p><span>       </span><span>为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。但请您理解，基于法律法规要求、保障信息安全、技术限制等原因，您的部分信息可能无法访问、修改和删除。</span>
+        </p>
+        <p><span>请通过以下方式与我们联系：</span>
+        </p>
+        <p><strong><span>联系邮箱</span></strong><span> </span><a href="kefu@ludashi.com"><strong><span>kefu@ludashi.com</span></strong></a>
+        </p>
+        <p>&nbsp;
+        </p>
+        <h2 id="六未成年人使用条款"><strong><span>六、未成年人使用条款</span></strong>
+        </h2>
+        <p><span>    若您是18周岁以下的未成年人，在使用我们的产品和服务前，应事先取得您的家长或法定监护人的同意。</span>
+        </p>
+        <p><span>    若您是未满14周岁的儿童，须在监护人的陪同下阅读本隐私政策或相应产品或服务的隐私政策，决定是否使用我们的产品或服务。如获得产品和服务需要提交个人信息，请取得监护人的同意，并在监护人的指导下完成。</span>
+        </p>
+        <p><span>    若您是儿童的监护人，当您在帮助儿童完成产品或服务的注册、使用前，应当仔细阅读本政策或特定产品的隐私保护政策，决定是否同意隐私政策。当您对您所监护的儿童的个人信息有疑问时，您可以通过本隐私政策第九节的联系方式与我们联系。</span>
+        </p>
+        <p>&nbsp;
+        </p>
+        <h2 id="七隐私政策的适用范围"><strong><span>七、隐私政策的适用范围</span></strong>
+        </h2>
+        <p><span>本私政策仅适用于鲁大师安卓版。我们的其他产品和服务将使用相关产品或服务的隐私政策。特别需要说明的是，本隐私政策不适用以下情况：</span>
+        </p>
+        <ol><li><span>将我们的产品（或服务）嵌入到第三方产品（或服务），第三方产品（或服务）收集的信息。</span></li><li><span>在我们的产品（或服务）中接入的第三方服务、广告或其他公司、组织或个人所收集的信息。</span></li>
+        </ol>
+        <p><span>我们在此提醒您，您在使用第三方产品与/或服务时，请仔细阅读第三方向您展示的相关用户协议和隐私政策，并妥善保管和谨慎提供您的个人信息。</span>
+        </p>
+        <p>&nbsp;
+        </p>
+        <h2 id="八隐私政策的变更和修订"><strong><span>八、隐私政策的变更和修订</span></strong>
+        </h2>
+        <p><span>我们的隐私政策可能变更。未经您明确同意，我们不会限制您按照本隐私政策所应享有的权利。</span>
+        </p>
+        <p><span>对于本隐私政策的重大变更，我们还会提供显著的通知（例如，在软件改版或升级、或您重新登录时，以弹窗形式对您进行及时通知）。</span>
+        </p>
+        <p><span>本政策所指的重大变更包括但不限于：</span>
+        </p>
+        <ol><li><span>我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；</span></li><li><span>我们在控制权等方面发生重大变化。如并购重组等引起的所有者变更等；</span></li><li><span>个人信息共享、转让或公开披露的主要对象发生变化；</span></li><li><span>您参与个人信息处理方面的权利及其行使方式发生重大变化；</span></li><li><span>我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；</span></li><li><span>个人信息安全影响评估报告表明存在高风险时。</span></li>
+        </ol>
+        <h4><span> </span>
+        </h4>
+        <h2 id="九如何联系我们"><strong><span>九、如何联系我们</span></strong>
+        </h2>
+        <p><span>如果您对我们的隐私政策及对您个人信息的处理有任何疑问、意见、建议或投诉，请通过以下方式与我们联系。</span>
+        </p>
+        <p><span>联系邮箱：</span><a href="mailto:kefu@ludashi.com" target="_blank" class="url">kefu@ludashi.com</a>
+        </p>
+        <p><span>在一般情况下，我们会在15个工作日内对您的请求予以答复。</span>
+        </p>
+        <p>&nbsp;
+        </p>
+        <p><span>附录一 名词释义</span>
+        </p>
+        <ol><li><strong><span>个人信息：</span></strong><span>指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。个人信息包括：基本信息（包括个人姓名、生日、性别、住址、个人电话号码、电子邮箱）；个人身份信息（包括身份证、军官证、护照、驾驶证等）；个人生物识别信息（包括声纹、指纹、面部特征等）；网络身份标识信息（包括系统账号、IP地址等）；个人财产信息（包括银行账户、交易和消费记录、游戏类兑换码等虚拟财产信息）；个人通信信息（包括通讯录内容等）；个人上网记录（包括网站浏览记录、软件使用记录、点击记录等）；个人常用设备信息（包括硬件型号、设备MAC地址、、软件列表、唯一设备识别码（如IMEI/IDFA/AndroidID/OPENUDID/GUID/SIM卡IMSI信息等在内的描述个人常用设备基本情况的信息）；个人位置信息（包括行踪轨迹、精准定位信息、住宿信息、经纬度等）。</span></li><li><strong><span>个人敏感信息：</span></strong><span>指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息，个人敏感信息包括：个人财产信息（包括银行账户、交易和消费记录、游戏类兑换码等虚拟财产信息）；个人生物识别信息（包括声纹、指纹、面部特征等）；个人身份信息（包括身份证、军官证、护照、驾驶证等）；其他信息（包括通讯录、行踪轨迹、网页浏览记录、住宿信息、精准定位信息）。</span></li><li><strong><span>去标识化：</span></strong><span>指通过对个人信息的技术处理，使其在不借助额外信息的情况下，无法识别个人信息主体的过程。</span></li><li><strong><span>匿名化：</span></strong><span>指通过对个人信息的技术处理，使得个人信息主体无法被识别，且处理后的信息不能被复原的过程。</span></li><li><strong><span>个人信息删除：</span></strong><span>指在实现日常业务功能所涉及的系统中去除个人信息的行为，使其保持不可被检索、访问的状态。</span></li><li><strong><span>儿童：</span></strong><span>指不满十四周岁的未成年人。</span></li>
+        </ol>
+      </div>
+    </div>
+  
+</body></html>

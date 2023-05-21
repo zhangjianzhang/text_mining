@@ -1,0 +1,1390 @@
+<html style="font-size: 53.9583px;"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="cache-control" content="no-cache">
+    <meta name="renderer" content="webkit">
+    <meta name="viewport" content="width=100%, initial-scale=1.0, maximum-scale=1.0, shrink-to-fit=no, user-scalable=0">
+    <title>用户隐私政策</title>
+
+
+    <style>
+        /* 公共UI */
+        /* 安卓模态框内协议各留25，全屏内协议左右各留57 */
+        * {
+            padding: 0;
+            margin: 0;
+            font-family: 'Microsoft Yahei';
+            text-align: justify;
+            word-break: break-all;
+            color: #4C688E;
+            /* 解决部分ios设备字体偏大的问题  */
+            -webkit-text-size-adjust: 100%;
+        }
+
+        .no-indent {
+            text-indent: 0;
+        }
+
+        i {
+            font-style: normal;
+        }
+
+        ul {
+            list-style-type: none;
+        }
+
+        .sub-list>li {
+            list-style-type: circle;
+            list-style-position: inside;
+        }
+
+        .a_href {
+            text-align: left;
+            letter-spacing: -0.02rem;
+        }
+
+        .hide {
+            display: none !important
+        }
+
+        /* 新版本UI */
+        .main-wrapper {
+            padding: 0.11rem 0.31rem;
+            overflow-x: hidden;
+        }
+
+        /* 模态框内打开 */
+        .miniScreen .main-wrapper {
+            /* 下边距是因为会被客户端确认框盖住，所以要多加 */
+            padding: 0.11rem 0.31rem 1.8rem 0.31rem;
+        }
+
+        /* 家长中心全屏状态下 */
+        .fullScreen .main-wrapper {
+            padding: 0.52rem 0.52rem 1rem 0.52rem;
+        }
+
+        /* 家长中心全屏状态下的刘海屏 */
+        .style-3.fullScreen .main-wrapper {
+            /* 横屏下的刘海屏增加左右间距 */
+            padding: 0.52rem 1rem 1rem 1rem;
+        }
+
+        .portrait .main-wrapper {
+            /* 竖屏下的协议边框 */
+            padding: 0.42rem 0.23rem 2.0rem 0.23rem;
+        }
+
+        article {
+            color: #4C688E;
+            font-size: 0.39rem;
+            line-height: 0.56rem;
+            text-indent: 0.78rem;
+        }
+        .style-3 article {
+            /* 横屏下的iphonex字体过大，整体缩小 */
+            font-size: 0.32rem;
+            line-height: 0.48rem;
+            text-indent: 0.66rem;
+        }
+
+        .title,
+        .portrait .title {
+            font-size: 0.44rem;
+            font-weight: bold;
+            color: #0EAFFB;
+            line-height: 0.56rem;
+            text-align: center;
+            margin-bottom: 0.07rem;
+            margin-left: -0.44rem;
+        }
+        .style-3 .title {
+            /* 横屏下的iphonex字体过大，整体缩小 */
+            font-size: 0.37rem;
+            line-height: 0.47rem;
+        }
+
+        .title i {
+            color: #0EAFFB;
+        }
+        .text-justify {
+            text-align: justify;
+        }
+
+
+        .no-indent {
+            text-indent: 0;
+        }
+
+        .table-box,
+        .table-box-default {
+            width: 100%;
+            overflow-x: scroll;
+        }
+        table {
+            width: 100%;
+            border-right: 1px solid #4C688E;
+            border-bottom: 1px solid #4C688E;
+            margin: 0.2rem 0 0.2rem 0;
+            text-indent: 0;
+        }
+        .section-header {
+            margin-top: 0.2rem;
+        }
+        .text-align {
+            text-align: center;
+        }
+        .sub-title {
+            margin-top: 0.1rem;
+        }
+
+        @media screen and (orientation:portrait) {
+            table {
+                width: 17rem;
+            }
+        }
+        .miniScreen table {
+            width: 17rem;
+        }
+
+        table td,
+        table th {
+            border-left: 1px solid #4C688E;
+            border-top: 1px solid #4C688E;
+            padding: 0.1rem;
+            font-size: 0.36rem;
+            text-align: left;
+        }
+
+        .style-3 table td,
+        .style-3 table th {
+            font-size: 0.3rem;
+        }
+
+        .loading-wrap {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .loading-wrap .loading-bg {
+            position: absolute;
+            z-index: 101;
+            width: 100%;
+            height: 100%;
+            border-radius: 20px;
+            font-size: 0;
+            border-bottom-left-radius: 0;
+            border-bottom-right-radius: 0;
+            background: #ffffff;
+        }
+
+        .loading-wrap .loading {
+            position: absolute;
+            z-index: 102;
+            margin: 0 auto;
+            left: 0;
+            right: 0;
+            top: 100px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            border: 6px solid rgb(193,193,193,0.25);
+            border-top-color: #0EAFFB;
+            -webkit-animation: spin 1s infinite linear;
+            animation: spin 1s infinite linear;
+        }
+
+        .miniScreen .loading-wrap .loading {
+            top: 60px;
+            border-radius: 50%;
+            width: 60px;
+            height: 60px;
+        }
+
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+            }
+            100% {
+                -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body style="overflow: scroll;" class=" fullScreen">
+    <!-- 用于在链接时候获取不到链接参数的时候使用 -->
+    <!-- 产品名称 -->
+    <input type="hidden" value="宝宝超市" id="appname">
+    <!-- 产品渠道 -->
+    <input type="hidden" value="{$sign$}" id="channel">
+    <!-- 产品使用插件 -->
+    <input type="hidden" value="|pay_base|webview|videoview|umengshare|download|babybusad|videool|parentcenter|rest|verify|videocache|box|payview|timer|alarm|audiofocus|tencentwebview|babybusupdate|shutdown|magicview|admanager|startupview|permissionsdialog|account|hotfix|bugly|downloadmanager|baidusdk|gdtsdk|toutiaosdk|bannermanager|debugsystem|msasdk|welcomeinsert|agreement|shanyan|kuaishouad|umanalysis|aiolos|membercenter|ad_base|config|parentcenterinsert|bbunityframeworknormal2019" id="appPlugin">
+    <!-- 产品使用sdk -->
+    <input type="hidden" value="|JG_360|WXShare|UmengShare|Pay_Ali|Pay_WX|TXWeb|Bugly|Ad_Baidu|Ad_GDT|Ad_Toutiao|ShanYan|ShanYan_YD|ShanYan_LT|ShanYan_DX|Ad_KuaiShou|UmengAnalytics|Engine_Unity" id="appSdk">    
+    <!-- 权限列表 -->
+    <input type="hidden" value="|android.permission.WRITE_EXTERNAL_STORAGE|android.permission.READ_EXTERNAL_STORAGE|android.permission.READ_PHONE_STATE|android.permission.ACCESS_NETWORK_STATE|android.permission.ACCESS_WIFI_STATE|android.permission.INTERNET|android.permission.REQUEST_INSTALL_PACKAGES|android.permission.WAKE_LOCK" id="permissions">    
+    <!-- 产品包名 -->
+    <input type="hidden" value="com.sinyee.babybus.shopping" id="appId">
+    <!-- 公司证书 -->
+    <input type="hidden" value="zy" id="company">
+    <!-- 公司主体 -->
+    <input type="hidden" value="zy" id="sign">
+    <!-- app版本号 -->
+    <input type="hidden" value="{$app_version$}" id="appVersion">         
+    <!-- 设备分辨率-宽 -->
+    <input type="hidden" value="{$width$}" id="width">
+    <!-- 设备分辨率-高 -->
+    <input type="hidden" value="{$height$}" id="height">   
+    <!-- 判断是模态框还是全屏 -->
+    <input type="hidden" value="{$is_modal$}" id="isModal">
+    <div class="loading-wrap hide">
+        <div class="loading-bg"></div>
+        <div class="loading"></div>
+    </div>
+    <div class="main-wrapper">
+        <article>
+            <h1 class="title"><i class="appName">宝宝超市</i>隐私政策</h1>
+            <p class="no-indent">更新日期：2023年01月06日</p>
+            <p class="no-indent">生效日期：2023年01月11日</p>            
+            <p class="detail">
+                <span><strong>宝宝巴士（下称“我们”）</strong>非常注重保护用户（“您”）的个人信息及隐私，我们深知个人信息对您的重要性，并将按照法律法规要求和业界成熟的安全标准，采取相应的安全保护措施来保护您的个人信息。我们希望通过本隐私政策向您清晰地介绍在使用我们的产品/服务时，我们如何处理您的个人信息，以及我们保护这些信息的方式。</span>
+            </p>
+            <p class="detail">
+                <span><strong>【特别提示】请您在使用我们提供的各项产品/服务前，仔细阅读并充分理解本《隐私政策》（重点内容我们已将字体加粗请您特别关注）并作出相应选择。一旦您使用或继续使用我们的产品/服务时，即意味着您同意我们按照本隐私政策处理您的相关信息。若您是未满18周岁的未成年人（特别是未满14周岁的儿童），在使用我们的产品/服务前，您应在监护人的监护、指导下阅读本政策，并在征得您的监护人对本政策的同意后，使用我们的产品或服务及向我们提供您的个人信息。如果您是未成年人的监护人，请您仔细阅读和审慎选择是否同意本政策。当您对您所监护的未成年人使用我们的产品或服务及向我们提供个人信息有任何疑问时，请通过本政策公示的联系方式与我们联系。</strong></span>
+            </p>
+            <p class="detail">
+                <span><strong>本隐私政策仅适用于我们所收集的您的个人信息，以及为您提供的服务和功能。并不适用于任何第三方对您的个人信息的收集，以及任何第三方提供的服务或第三方的信息使用规则。</strong></span>
+            </p>   
+            <p class="detail text-align sub-title">相关术语及定义</p>   
+            <p class="detail">
+                </p><ul>
+                    <li>1. 宝宝巴士：指宝宝巴士股份有限公司及其关联公司。</li>
+                    <li>2. 关联公司：指与宝宝巴士股份有限公司存在关联关系，且与本政策所述产品或服务有关的公司，即宝宝巴士（福建）网络科技有限公司、学海拾贝（福建）科技有限公司。</li>
+                    <li>3. 个人信息：是以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息，不包括匿名化处理后的信息。</li>
+                    <li>4. 个人敏感信息：是一旦泄露或者非法使用，容易导致自然人的人格尊严受到侵害或者人身、财产安全受到危害的个人信息，包括生物识别、宗教信仰、特定身份、医疗健康、金融帐户、行踪轨迹等信息，以及不满十四周岁未成年人的个人信息。</li>
+                    <li>5. 匿名化处理：是指通过对个人信息的技术处理，使得个人信息主体无法被识别，且处理后的信息不能被复原的过程。个人信息经匿名化处理后所得的信息不属于个人信息。</li>
+                    <li>6. 自动化决策：是指通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好或者经济、健康、信用状况等，并进行决策的活动。</li>
+                </ul>
+            <p></p>                   
+            <p class="detail section-header">
+                <strong><span>一、我们收集、使用的信息</span></strong>
+            </p>
+            <p class="detail_1">
+                <span><strong>1. 注册、登录我们的帐号</strong></span>
+            </p><ul>
+                <li>当您注册、登录我们的产品及相关服务时，您可以通过手机号创建帐号，我们将通过发送短信验证码来验证您的身份是否有效，并且您可以完善相关的网络身份识别信息（昵称、密码、手机号），收集这些信息是为了帮助您完成注册。您还可以根据自身需求选择填写性别、生日、地区及介绍信息完善您的个人信息。</li>
+            </ul>
+            <p></p>
+            <p class="detail_1">
+                <span><strong>2. 产品的正常运行</strong></span>
+            </p><ul>
+                <li>当您使用我们的相关服务时，为了保障软件与服务的正常运行，以及第三方支付分享功能的正常使用，我们会收集以下数据：
+                    <ul>
+                        <li>硬件型号、操作系统版本号、软件版本号、读取已安装应用列表、网络接入方式及类型、操作日志信息（错误信息）、硬件序列号、设备语言、设备地域、用户设备名称、设备分辨率、当前运行进程、设置剪切板内容。收集这些信息，有助于我们了解您使用过程中遇到的问题，优化我们的产品。</li>
+                        <li>设备Mac地址、唯一设备识别码（IMEI、ANDROID ID、IDFA、OPENUDID、OAID、MEID、SIM卡IMSI信息）。我们在应用第一次启动时，需要收集此类信息，用于确认您的唯一身份，以方便我们能为您提供一致的服务。</li>
+                        <li>为帮助我们更好地了解您的使用情况，解决您在产品中出现的问题。我们可能记录网络日志信息，以及使用软件及相关服务的频率、崩溃数据、总体安装、使用情况、性能数据等信息。</li>
+                    </ul>
+                </li>
+            </ul>
+            <p></p>   
+            <p class="detail_1">
+                <span><strong>3. 设备权限调用</strong></span>
+            </p><ul>
+                <li>在提供服务的过程中，基于服务的具体场景和功能，我们可能需要您开启一些设备访问权限。您可以选择是否授权我们使用您设备的相关权限。如果您不授权我们使用相关权限，可能会导致部分产品/服务无法使用，但是不影响您使用所对应产品/服务的基本功能和其他功能。
+                    <ul>
+                        <li>读写外置存储信息：我们在应用第一次启动时，将会请求您授权读写外置存储信息权限。我们申请此权限用于存储您在产品使用过程中产生的数据，拒绝此权限将导致家长中心功能无法正常使用。</li>
+                        <li class="speechrecognitioncore soundevaluation RecordNew recordnew permission_android_permission_record_audio hide">当您使用我们的互动对话、语音搜索功能时，我们会请求您授权麦克风权限。因为收集是实现上述功能所必须的。我们实时处理之后，向您返回处理结果。使用您的数据时，我们将进行脱敏处理，保护您的个人隐私安全。</li>
+                        <li class="camera permission_android_permission_camera hide">当您使用我们的拍照功能时，我们会请求您授权相机权限。因为收集是实现上述功能所必须的。您如果拒绝授权提供，将无法使用此功能，但不影响您正常使用其他功能。</li>
+                        <li class="permisssion_body hide">当您使用我们的肢体互动功能时，我们会请求您的传感器信息（包括加速度传感器、重力传感器、光线传感器、陀螺仪传感器、旋转矢量传感器、线性加速器、磁场传感器、压力传感器）。因为收集是实现上述功能所必须的。您如果拒绝授权提供，将无法使用此功能，但不影响您正常使用其他功能。</li>
+                    </ul>
+                </li>
+            </ul>
+            <p></p>                         
+            <p class="detail_1">
+                <span><strong>4. 授权同意的例外</strong></span>
+                </p><ul>
+                    <li>根据相关法律法规及国家标准，以下情形中，我们可能会收集、使用您的相关个人信息无需征求您的授权同意：
+                        <ul>
+                            <li>4.1. 为订立、履行您作为一方当事人的合同所必需；</li>
+                            <li>4.2. 为履行法定职责或者法定义务所必需；</li>
+                            <li>4.3. 为应对突发公共卫生事件，或者紧急情况下为保护自然人的生命健康和财产安全所必需；</li>
+                            <li>4.4. 为公共利益实施新闻报道、舆论监督等行为，在合理的范围内处理个人信息；</li>
+                            <li>4.5. 在合理的范围内处理个人自行公开或者其他已经合法公开的个人信息；</li>
+                            <li>4.6. 法律法规规定的其他情形。</li>                     
+                        </ul>
+                    </li>
+                </ul>
+            <p></p>   
+
+            <p class="detail section-header">
+                <strong><span>二、我们如何共享、披露您的个人信息</span></strong>
+            </p>
+            <p class="detail_1">
+                <span><strong>1. 委托处理</strong><span>
+                </span></span></p><ul>
+                    <li>1.1. 我们可能委托授权合作伙伴处理您的个人信息，以便向您提供相应的产品或服务。但我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供产品或服务所必要的个人信息。我们的应用中会接入由第三方提供的软件开发包（SDK）实现该目的。如果我们的合作伙伴将您的个人信息用于我们未委托的用途，该等第三方应再次取得您的同意。</li>
+                    <li>1.2. 我们的合作伙伴包括以下类型：
+                        <ul class="sub-list">
+                            <li>1.2.1. 提供技术服务的供应商。我们可能会将您的个人信息提供给支持我们功能的第三方，包括为我们提供基础设施技术服务、数据分析服务及数据处理服务的供应商。</li>
+                            <li>1.2.2. 广告、分析服务类合作伙伴。我们会遵守法律法规及行业通用安全技术，委托这些合作伙伴处理与广告投放、覆盖面和有效性相关的信息。</li>
+                            <li>1.2.3. 对我们委托合作伙伴处理个人信息的，我们会与其签署数据保护协议，要求其按照协议约定、本隐私政策以及相关法律法规要求来处理个人信息。</li>
+                        </ul>
+                    </li>
+                </ul>
+            <p></p>
+            <p class="detail_1">
+                <span><strong>2. 共享</strong><span>
+                </span></span></p><p>除以下情形外，我们不会与任何公司、组织和个人共享您的个人信息：</p>
+                <ul>
+                    <li>2.1. 获得您的明确授权或同意后共享。获得您的明确授权或同意后，我们会与其他方共享您的个人信息。</li>
+                    <li>2.2. 在法定情形下的共享。我们可能会根据法律法规规定、行政或司法机关的要求，对外共享您的个人信息。</li>
+                    <li>2.3. 在涉及合并、收购或破产清算时的共享。如涉及到个人信息转让，我们会在要求新的持有您个人信息的公司、组织继续受此隐私政策的约束，否则我们将要求该公司、组织重新向您征求授权同意。</li>
+                    <li>2.4. 与关联公司共享。本政策所述的部分业务功能是由关联公司共同向您提供，因此您的个人信息可能会在关联公司之间共享。我们只会共享必要的个人信息，且受本政策中所声明目的的约束。</li>
+                    <li class="has_plugins">2.5. 与授权合作伙伴共享。为了提升用户使用体验，以及使您能够接收信息、支付、登录、分享信息等服务功能，我们的应用中会接入由第三方提供的软件开发包（SDK）实现该目的。
+                        <p><strong>请注意：</strong></p>
+                        <ul class="sub-list">
+                            <li><strong>(1) 第三方SDK代码内包含多种权限，但我们仅允许SDK使用网络访问权限、查看WLAN连接、切换网络连接、读写外置存储卡、读取手机状态和身份、检索正在运行的应用、读取已安装应用列表权限。我们将审慎评估、监测授权合作伙伴的安全保障能力，并要求其遵守合作协议的约定，以保护您的个人信息安全。</strong></li>
+                            <li><strong>(2) 第三方SDK会收集您设备的设备版本、系统版本、传感器信息、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、OAID、Android ID、GUID、OPENUDID、IDFA、MEID，IP地址等，我们将在您同意该隐私政策后，允许第三方SDK收集您的个人信息。第三方SDK可能会在应用前台或后台运行时，收集这些信息。</strong></li>
+                            <li><strong>(3) 如您在宝宝巴士使用这类由第三方提供的服务，您将同意由其直接收集和处理您的个人信息。前述第三方收集和处理个人信息的行为应遵守其自身的个人信息保护政策，为了最大程度保障您的信息安全，我们建议您在使用任何第三方SDK服务前先行查看其隐私政策。</strong></li>
+                        </ul>
+                        <div class="table-box only-android has_plugins">
+                            <table cellspacing="0" cellpadding="0">
+                                <thead>
+                                    <tr>
+                                        <th style="width: 10%;">SDK名称</th>
+                                        <th style="width: 24%;">共享的信息</th>
+                                        <th style="width: 15%;">信息共享的目的</th>
+                                        <th style="width: 13%;">信息共享主体</th>
+                                        <th style="width: 15%;">隐私政策链接</th>
+                                        <th style="width: 23%;">包含的权限代码</th>  
+                                    </tr>
+                                </thead>
+                                <tbody> 
+								 <tr class="hide sdk_vivounion">
+									<td>Vivo联运</td> 
+									<td class="collect_info_detail">设备信息（使用vivo设备及服务过程中的操作系统版本号、应用程序信息、IMSI、IMEI、MEID、SIM、移动国家码、vivo Android设备的移动网号、MAC地址、移动运营商、使用语言、系统设置等系统、设备和应用程序数据）、外部存储目录、存储文件、目录、空间状态</td> 
+									<td>平台联运要求，用于支付、数据统计</td> 
+									<td>维沃移动通信有限公司</td> 
+									<td><a href="https://www.vivo.com.cn/about-vivo/privacy-policy">https://www.vivo.com.cn/about-vivo/privacy-policy</a></td> 
+									<td class="includeCode">读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_ad_baidu">
+									<td>百度联盟SDK</td> 
+									<td class="collect_info_detail">设备品牌、型号、软件系统版本、分辨率、网络信号强度、传感器信息，磁盘总空间、系统总内存空间、手机重启信息、手机系统更新时间等基础信息、OAID、AndroidID（仅Andriod端采集）、点击记录等日志信息、应用包名、应用前后台状态、IMEI、IMSI、MEID（仅Andriod端采集）、屏幕宽高，屏幕像素密度，系统版本号，设备厂商，设备型号，手机运营商，手机网络状态，设备剩余存储空间，手机重启时间和更新时间</td> 
+									<td>广告投放合作</td> 
+									<td>百度在线网络技术（北京）有限公司</td> 
+									<td><a href="https://union.baidu.com/bqt/#/legal/policies">https://union.baidu.com/bqt/#/legal/policies</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、拨打电话、读取手机状态和身份、发送短信、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_ad_toutiao">
+									<td>穿山甲SDK</td> 
+									<td class="collect_info_detail">设备品牌、型号、软件系统版本、分辨率、网络信号强度、IP地址、设备语言、传感器信息等基础信息、AndroidID、无线网SSID名称、WiFi路由器MAC地址、设备的MAC地址、设备标识符（如IMEI、OAID、IMSI、ICCID、GAID（仅GMS服务）、MEID、设备序列号build_serial，具体字段因软硬件版本不同而存在差异）、开发者应用名、应用包名、版本号、应用前后台状态、应用列表信息、对广告的展示、点击及转化等交互数据、崩溃数据、性能数据、运营商信息、设备时区</td> 
+									<td>广告投放合作</td> 
+									<td>北京字节跳动科技有限公司
+北京巨量引擎网络技术有限公司
+北京吉云互动科技有限公司</td> 
+									<td><a href="https://www.csjplatform.com/privacy?from=ad.oceanengine.com&amp;">https://www.csjplatform.com/privacy?from=ad.oceanengine.com&amp;</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_pay_union">
+									<td>银联支付</td> 
+									<td class="collect_info_detail">个人常用设备信息（包括硬件型号、硬件序列号、设备MAC地址、操作系统类型、软件列表唯一设备识别码（如IMEI/MEID/android ID/IDFA/OPENUDID/GUID、SIM卡IMSI信息等）等在内的描述个人常用设备基本情况的信息）；</td> 
+									<td>用于购买支付</td> 
+									<td>银联商务股份有限公司</td> 
+									<td><a href="https://www.chinaums.com/chinaums/dsfdy/qmfapplb/201708/t20170828_25547.shtml">https://www.chinaums.com/chinaums/dsfdy/qmfapplb/201708/t20170828_25547.shtml</a></td> 
+									<td class="includeCode">读取外置存储卡、写入外部存储卡、读取手机状态和身份、读取本机电话号码、近距离通讯操作、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_baidu_speechrecognition">
+									<td>百度语音</td> 
+									<td class="collect_info_detail">设备属性信息（例如您的硬件型号、操作设备名称、设备配置、唯一设备标识符（国际移动设备身份码IMEI、MEID、网络设备硬件地址MAC、广告标识符IDFA）），（浏览器的类型、运营商、使用的语言、WiFi信息、IP地址）以及设备状态信息（例如设备传感器数据，设备应用安装列表）</td> 
+									<td>用于使用中识别对话</td> 
+									<td>百度在线网络技术（北京）有限公司</td> 
+									<td><a href="http://privacy.baidu.com/detail?id=288">http://privacy.baidu.com/detail?id=288</a></td> 
+									<td class="includeCode">录音</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_huawei">
+									<td>华为广告SDK</td> 
+									<td class="collect_info_detail">设备标识符、操作系统的设置信息、设备的硬件信息、应用的基本信息及使用信息、网络信息、运营商信息、华为帐号信息、对广告的浏览、点击、关闭和播放信息，打开和关闭应用的时间、应用使用频率、应用错误日志</td> 
+									<td>广告投放合作</td> 
+									<td>华为技术有限公司</td> 
+									<td><a href="https://developer.huawei.com/consumer/cn/doc/distribution/monetize/yinsishengming-0000001085219712">https://developer.huawei.com/consumer/cn/doc/distribution/monetize/yinsishengming-0000001085219712</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、拨打电话、读取手机状态和身份、发送短信、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_ad_gdt">
+									<td>优量汇SDK</td> 
+									<td class="collect_info_detail">基站、附近的WIFI、连接的WIFI、设备制造商、设备型号、操作系统版本、屏幕分辨率、屏幕方向、屏幕DPI、IP地址、加速度传感器、磁场传感器、OAID、 IMEI/MEID（Device ID）、Android_ID、宿主应用的包名、版本号、宿主应用的进程名称、运行状态、可疑行为、应用安装信息、产品交互数据、广告数据、崩溃数据、性能数据</td> 
+									<td>广告投放合作</td> 
+									<td>腾讯控股有限公司</td> 
+									<td><a href="https://e.qq.com/dev/help_detail.html?cid=2005&amp;pid=5983">https://e.qq.com/dev/help_detail.html?cid=2005&amp;pid=5983</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_engine_unity">
+									<td>unity</td> 
+									<td class="collect_info_detail">设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、MEID</td> 
+									<td>应用所使用的物理引擎</td> 
+									<td>优美缔软件（上海）有限公司</td> 
+									<td><a href="https://unity.cn/legal/privacy-policy">https://unity.cn/legal/privacy-policy</a></td> 
+									<td class="includeCode">查看WLAN链接、读取外置存储卡、写入外部存储卡、读取手机相册、录音、相机、获取粗略位置、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_bugly">
+									<td>bugly</td> 
+									<td class="collect_info_detail">设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、MEID、AndroidID</td> 
+									<td>用于上报使用中出现的问题故障</td> 
+									<td>腾讯控股有限公司</td> 
+									<td><a href="https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56">https://privacy.qq.com/document/preview/fc748b3d96224fdb825ea79e132c1a56</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、读取手机状态和身份、获取网络状态、获取WiFi状态、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_singsound">
+									<td>先声语音识别</td> 
+									<td class="collect_info_detail">设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、MEID</td> 
+									<td>用于使用中识别对话</td> 
+									<td>北京先声智能科技有限公司</td> 
+									<td><a href="http://www.singsound.com/privacy_h5.html">http://www.singsound.com/privacy_h5.html</a></td> 
+									<td class="includeCode">录音、查看WLAN连接、写入外部存储卡、读取手机状态和身份、获取网络状态、获取WiFi状态、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_xiaomiunion">
+									<td>小米联运</td> 
+									<td class="collect_info_detail">设备信息（BSSID、SSID、IMEI、MEID、AndroidID、设备序列码）、外部文件存储目录、存储文件、目录、空间状态</td> 
+									<td>平台联运要求，用于支付、数据统计</td> 
+									<td>北京小米科技有限责任公司</td> 
+									<td><a href="https://privacy.mi.com/xiaomicloud/zh_CN">https://privacy.mi.com/xiaomicloud/zh_CN</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、获取WiFi状态、读取手机状态和身份、获取网络状态、获取粗略位置、获取精确位置、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_huaweianalytics">
+									<td>华为分析</td> 
+									<td class="collect_info_detail">国际移动设备识别码（IMEI、MEID）,设备信息,用户私有目录文件,IP 地址、网关地址、掩码、DNS、WLAN接入点、Wi-Fi接入点,BSSID,SSID,设备序列码,应用安装列表,移动设备国家代码MCC,移动设备国家代码MCC+移动设备网络代码MNC,运行中进程、packagename,RSSI（信号强度）,android_id</td> 
+									<td>用于分析用户数据</td> 
+									<td>华为技术有限公司</td> 
+									<td><a href="https://consumer.huawei.com/cn/privacy/privacy-policy/">https://consumer.huawei.com/cn/privacy/privacy-policy/</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、获取网络状态、获取WiFi状态、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_huaweiunion">
+									<td>华为联运</td> 
+									<td class="collect_info_detail">国际移动设备识别码（IMEI、MEID）,设备信息,用户私有目录文件,IP 地址、网关地址、掩码、DNS、WLAN接入点、Wi-Fi接入点,BSSID,SSID,设备序列码,应用安装列表,移动设备国家代码MCC,移动设备国家代码MCC+移动设备网络代码MNC,运行中进程、packagename,RSSI（信号强度）,android_id</td> 
+									<td>平台联运要求，用于支付、数据统计</td> 
+									<td>华为技术有限公司</td> 
+									<td><a href="https://consumer.huawei.com/cn/privacy/privacy-policy/">https://consumer.huawei.com/cn/privacy/privacy-policy/</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、获取网络状态、获取WiFi状态、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_oppounion">
+									<td>oppo联运</td> 
+									<td class="collect_info_detail">设备信息（设备名称、设备型号、地区和语言设置、设备识别码、设备硬件信息与状态、使用习惯、IP地址、Mac 地址、操作系统版本以及用于访问服务的设备的设置）、外部文件存储目录、应用安装列表</td> 
+									<td>平台联运要求，用于支付、数据统计</td> 
+									<td>OPPO广东移动通信有限公司</td> 
+									<td><a href="https://www.oppo.com/cn/privacy/">https://www.oppo.com/cn/privacy/</a></td> 
+									<td class="includeCode">改变网络状态、获取WiFi状态、查看WLAN连接、获取网络状态、读取手机状态和身份、写入外部存储卡、读取外部存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_mtg">
+									<td>Mintegral</td> 
+									<td class="collect_info_detail">设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、MEID</td> 
+									<td>提升广告精准度</td> 
+									<td>广州汇世信息科技有限公司
+广州汇量信息科技有限公司</td> 
+									<td><a href="https://www.mintegral.com/cn/privacy/">https://www.mintegral.com/cn/privacy/</a></td> 
+									<td class="includeCode">查看WLAN连接、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_sigmob">
+									<td>Sigmob</td> 
+									<td class="collect_info_detail">设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、MEID</td> 
+									<td>提升广告精准度</td> 
+									<td>北京创智汇聚科技有限公司</td> 
+									<td><a href="https://www.sigmob.com/policy.html">https://www.sigmob.com/policy.html</a></td> 
+									<td class="includeCode">查看WLAN连接、读取手机状态和身份、获取粗略位置、写入外部存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_topon">
+									<td>TopOn</td> 
+									<td class="collect_info_detail">系统版本名、系统版本号、当前应用包名、应用版本名、应用版本号、设备生产商、设备型号、分辨率、网络类型、MNC(mobile network code)、MCC(mobile country code)、系统语言、时区、时间戳、user_agent信息、屏幕方向、设备id(android_id)、应用安装来源、IMEI、MEID、OAID、MAC地址</td> 
+									<td>提升广告精准度</td> 
+									<td>广州布里奇信息科技有限公司
+广州塔酷信息科技有限公司</td> 
+									<td><a href="https://docs.toponad.com/#/zh-cn/android/NetworkAccess/SDK_Policy/TopOn_SDK_Privacy_Policy_CN">https://docs.toponad.com/#/zh-cn/android/NetworkAccess/SDK_Policy/TopOn_SDK_Privacy_Policy_CN</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_shanyan">
+									<td>闪验</td> 
+									<td class="collect_info_detail">设备信息、位置信息、网络信息、SDK认证相关请求结果、手机号码设备信息：设备标识符（IMEI、IDFA、Android ID、MAC、OAID、ICCID、IMSI、subid等相关信息）、应用信息（应用崩溃信息、通知开关状态、软件列表等相关信息）、设备参数及系统信息（设备类型、设备型号、操作系统及硬件相关信息）</td> 
+									<td>用于实现App一键登录和验证用户手机号码与本机流量卡号是否一致的服务</td> 
+									<td>上海璟梦信息科技有限公司</td> 
+									<td><a href="https://tensdk.com/commit-detail/rcc5zd/fd21s8">https://tensdk.com/commit-detail/rcc5zd/fd21s8</a></td> 
+									<td class="includeCode">查看WLAN连接、切换网络连接、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_shanyan_yd">
+									<td>移动SDK</td> 
+									<td class="collect_info_detail">网络类型、网络制式、设备类型、系统、imsi（仅android）、idfv（仅iOS）、IMEI、MEID</td> 
+									<td>以手机号为基础进行一键式登录</td> 
+									<td>中移互联网有限公司</td> 
+									<td><a href="http://wap.cmpassport.com/resources/html/contract.html">http://wap.cmpassport.com/resources/html/contract.html</a></td> 
+									<td class="includeCode">查看WLAN连接、切换网络连接、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_shanyan_lt">
+									<td>联通SDK</td> 
+									<td class="collect_info_detail">操作系统版本、手机型号、设备ID、公网IP、私网IP、IMEI、MEID</td> 
+									<td>以手机号为基础进行一键式登录</td> 
+									<td>中国联合网络通信有限公司北京市分公司/小沃科技有限公司</td> 
+									<td><a href="https://ms.zzx9.cn/html/oauth/protocol2.html">https://ms.zzx9.cn/html/oauth/protocol2.html</a></td> 
+									<td class="includeCode">查看WLAN连接、切换网络连接、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_shanyan_dx">
+									<td>电信SDK</td> 
+									<td class="collect_info_detail">操作系统类型（Android/iOS），操作系统版本号，设备品牌，设备型号，当前用户连接网络类型（WiFi，蜂窝数据），bundleId（仅iOS），本机IP地址、IMEI、MEID</td> 
+									<td>以手机号为基础进行一键式登录</td> 
+									<td>世纪龙信息网络有限责任公司</td> 
+									<td><a href="https://e.189.cn/sdk/agreement/detail.do?isWap=true&amp;hidetop=true&amp;appKey=">https://e.189.cn/sdk/agreement/detail.do?isWap=true&amp;hidetop=true&amp;appKey=</a></td> 
+									<td class="includeCode">查看WLAN连接、切换网络连接、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_ad_kuaishou">
+									<td>快手联盟SDK</td> 
+									<td class="collect_info_detail">设备品牌、设备型号、软件系统版本、存储信息、运营商信息、设备时区、设备语言、网络信息等基础信息、IMEI、MEID、OAID、Androidld、 IMSI、ICCID、IP地址、MAC地址、基站信息、WIFI信息、应用安装列表、传感器信息、sim卡激活信息、硬件序列号</td> 
+									<td>广告投放合作</td> 
+									<td>北京快手科技有限公司</td> 
+									<td><a href="https://u.kuaishou.com/home/detail/1220">https://u.kuaishou.com/home/detail/1220</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_growingio">
+									<td>Growingio</td> 
+									<td class="collect_info_detail">设备标识信息（如IMEI、Android ID、OAID），粘贴板内容，设备类型，设备版本，系统版本，地理位置信息，网络设备制造商，IP地址，网络模式</td> 
+									<td>用于数据统计</td> 
+									<td>北京易数科技有限公司</td> 
+									<td><a href="https://accounts.growingio.com/privacy">https://accounts.growingio.com/privacy</a></td> 
+									<td class="includeCode">查看WLAN连接、使用蓝牙、读取应用列表、读取外置存储卡、写入外置存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_wxshare">
+									<td>微信分享与收藏</td> 
+									<td class="collect_info_detail">设备信息（BSSID、SSID、IMSI、IMEI、MEID、SIM 卡序列号、AndroidID、MAC地址、设备序列码）、外部文件存储目录、存储文件、目录、空间状态</td> 
+									<td>用于将内容分享至微信</td> 
+									<td>腾讯控股有限公司</td> 
+									<td><a href="https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;t=weixin_agreement&amp;s=privacy">https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;t=weixin_agreement&amp;s=privacy</a></td> 
+									<td class="includeCode">读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、查看WLAN连接、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_umenganalytics">
+									<td>友盟统计</td> 
+									<td class="collect_info_detail">IMEI、MEID、ICCID、Mac、Android ID、IDFA、OPENUDID、GUID、SIM 卡 IMSI、硬件序列号</td> 
+									<td>用于数据统计</td> 
+									<td>北京友盟网络科技有限公司</td> 
+									<td><a href="https://www.umeng.com/policy">https://www.umeng.com/policy</a></td> 
+									<td class="includeCode">查看WLAN连接、使用蓝牙、
+
+获取粗略位置、获取精确位置、摄像头、读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_txweb">
+									<td>腾讯浏览服务</td> 
+									<td class="collect_info_detail">应用安装列表,国际移动设备识别码（IMEI、MEID、IMSI）,SIM 卡序列号,网络设备硬件MAC地址,android_id,外部文件存储目录信息、剪贴板、传感器</td> 
+									<td>用于浏览网页</td> 
+									<td>腾讯控股有限公司</td> 
+									<td><a href="https://privacy.tencent.com/">https://privacy.tencent.com/</a></td> 
+									<td class="includeCode">查看WLAN连接、读取外置存储卡、写入外部存储卡、读取手机状态和身份、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_pay_ali">
+									<td>支付宝</td> 
+									<td class="collect_info_detail">设备品牌、设备型号、设备名称、IP地址、MAC地址、设备软件版本信息、设备识别信息（如IMEI、MEID、IDFA、OAID、IMSI、AndroidId、ICCID）、所在地区、传感器、网络使用习惯、设备相关应用信息/软件安装列表</td> 
+									<td>用于购买支付</td> 
+									<td>阿里巴巴集团控股有限公司</td> 
+									<td><a href="https://render.alipay.com/p/c/k2cx0tg8">https://render.alipay.com/p/c/k2cx0tg8</a></td> 
+									<td class="includeCode">查看WLAN连接、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_umengshare">
+									<td>Umeng社会化分享</td> 
+									<td class="collect_info_detail">IMEI、MEID、Mac、Android ID、IDFA、ICCID、OPENUDID、GUID、SIM 卡 IMSI、硬件序列号</td> 
+									<td>用于将内容分享至微信、微博、QQ等平台</td> 
+									<td>北京友盟网络科技有限公司</td> 
+									<td><a href="https://www.umeng.com/policy">https://www.umeng.com/policy</a></td> 
+									<td class="includeCode">读取手机状态和身份、写入外部存储卡、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_pay_wx">
+									<td>微信开放平台</td> 
+									<td class="collect_info_detail">设备信息（BSSID、SSID、IMSI、IMEI、MEID、SIM 卡序列号、AndroidID、MAC地址、设备序列码）、外部文件存储目录、存储文件、目录、空间状态</td> 
+									<td>用于购买支付</td> 
+									<td>腾讯控股有限公司</td> 
+									<td><a href="https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;t=weixin_agreement&amp;s=privacy">https://weixin.qq.com/cgi-bin/readtemplate?lang=zh_CN&amp;t=weixin_agreement&amp;s=privacy</a></td> 
+									<td class="includeCode">读取外置存储卡、写入外部存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_pay_ali">
+									<td>支付宝安全</td> 
+									<td class="collect_info_detail">设备品牌、设备型号、设备名称、IP地址、MAC地址、设备软件版本信息、设备识别信息（如IMEI、MEID、IDFA、OAID、IMSI、AndroidId、ICCID）、所在地区、传感器、网络使用习惯、设备相关应用信息/软件安装列表</td> 
+									<td>用于购买支付</td> 
+									<td>阿里巴巴集团控股有限公司</td> 
+									<td><a href="https://render.alipay.com/p/c/k2cx0tg8">https://render.alipay.com/p/c/k2cx0tg8</a></td> 
+									<td class="includeCode">查看WLAN连接、使用蓝牙、读取外置存储卡 、读取手机状态和身份、写入外部存储卡、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_dueros">
+									<td>Dueros</td> 
+									<td class="collect_info_detail">硬件类型、型号、固件编号、区域和语言设置、硬件MAC地址、硬件系统版本号、您的IP地址、终端设备的类型、软硬件特征信息、您浏览的页面、点击等操作行为 、互联网服务提供商、独立设备标识符、iOS广告标识符（IDFA）、网卡（MAC）地址、国际移动设备识别码（IMEI、MEID）、设备型号、终端制造厂商、终端设备操作系统版本、会话启动/停止时间、语言所在地、时区和网络状态（WiFi等）、硬盘、CPU和电池使用情况</td> 
+									<td>用于小度音箱下的语音交互</td> 
+									<td>百度在线网络技术（北京）有限公司</td> 
+									<td><a href="https://dueros.baidu.com/didp/doc/overall/privacy-policy_markdown">https://dueros.baidu.com/didp/doc/overall/privacy-policy_markdown</a></td> 
+									<td class="includeCode">查看WLAN连接、写入外部存储卡、获取WiFi状态、读取手机状态和身份、获取网络状态、获取粗略位置、获取精确位置、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="sdk_jg_360">
+									<td>360加固保</td> 
+									<td class="collect_info_detail">应用或SDK的包名、版本、签名文件的MD5、Android ID、设备标识符的MD5值、OAID、网络类型、系统运行语言环境、操作系统版本名称、操作系统版本、机型、系统版本、厂商、终端主板名称、品牌、设备内存大小、手机屏幕分辨率、运行环境、DNS 服务器IP、是否开启VPN、安全补丁程序级别</td> 
+									<td>用于加固产品本身</td> 
+									<td>北京鸿享技术服务有限公司</td> 
+									<td><a href="https://jiagu.360.cn/#/global/help/295">https://jiagu.360.cn/#/global/help/295</a></td> 
+									<td class="includeCode">查看WLAN连接、使用蓝牙、获取粗略位置、获取精确位置、摄像头、读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_bopu">
+									<td>波普广告</td> 
+									<td class="collect_info_detail">应用或SDK的包名、版本、签名文件的MD5、Android ID、设备标识符的MD5值、OAID、网络类型、系统运行语言环境、操作系统版本名称、操作系统版本、机型、系统版本、厂商、终端主板名称、品牌、设备内存大小、手机屏幕分辨率、运行环境、DNS 服务器IP、是否开启VPN、安全补丁程序级别</td> 
+									<td>提升广告精准度</td> 
+									<td>波普悦游（天津）科技有限公司</td> 
+									<td><a href="http://bbbs.bjgjhb.com/privacy.html">http://bbbs.bjgjhb.com/privacy.html</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_tuia">
+									<td>推啊广告</td> 
+									<td class="collect_info_detail">IMEI</td> 
+									<td>提升广告精准度</td> 
+									<td>杭州推啊网络科技有限公司</td> 
+									<td><a href="https://www.tuia.cn/rmobile.html#/agreement">https://www.tuia.cn/rmobile.html#/agreement</a></td> 
+									<td class="includeCode">无</td> 
+								</tr> 
+								 <tr class="sdk_ad_gdt">
+									<td>MMA中国广告监测通用SDK</td> 
+									<td class="collect_info_detail">硬件类型（机型）、屏幕尺寸、IMEI、MEID、MAC、 IDFA、AAID、OAID、操作系统类型、操作系统版本号、接入的WIFI信息（名称、BSSID）、广告开始渲染（BtR）、可见曝光区域、广告曝光详细时间片信息、软件唯一标识符名称、软件版本、签名字符串</td> 
+									<td>广告监测</td> 
+									<td>上海亦拓广告有限公司</td> 
+									<td><a href="https://mmachina.cn/sdk-privacy/">https://mmachina.cn/sdk-privacy/</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_oppo">
+									<td>OPPO广告联盟SDK</td> 
+									<td class="collect_info_detail">网路身份识别信息（IP地址）、已安装应用列表、软件版本号、软件签名、软件包名、设备连接信息（电信运营商、网络环境）、设备属性信息（设备型号、操作系统版本、IMEI、MAC地址、OpenID、设备SN码）、MAC地址、Wi-Fi信息（SSID\BSSID\信号强度\连接情况）、电池电量、充电状态、充电方式、内存情况（总内存、可用内存）、存储情况（总存储、可用存储）、CPU信息、Cookie（Android_ID、Cookie时间戳、IP地址）、IMSI、ICCID、Rom构建时间、响铃模式、屏幕亮度、SIM卡槽数、激活状态SIM卡数量、传感器信息（陀螺仪、加速度传感器、重力传感器）</td> 
+									<td>广告投放合作</td> 
+									<td>广东欢太科技有限公司</td> 
+									<td><a href="https://u.oppomobile.com/main/privacy.html">https://u.oppomobile.com/main/privacy.html</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_vivo">
+									<td>VIVO流量联盟SDK</td> 
+									<td class="collect_info_detail">厂商、型号、系统版本、手机imei、手机android id、设备WIFI网卡MAC地址、ip地址、手机产品序列号、ICCID、MEID、IMSI、Android   10唯一标识符、开发者标识等信息（其中，Android 10唯一标识符，开发者标识仅适用于安卓10以后版本）、开发者应用名，应用包名，版本号等信息、联网方式，运营商等信息</td> 
+									<td>广告投放合作</td> 
+									<td>维沃移动通信有限公司</td> 
+									<td><a href="https://www.vivo.com.cn/about-vivo/privacy-policy">https://www.vivo.com.cn/about-vivo/privacy-policy</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+								 <tr class="hide sdk_ad_beizi">
+									<td>倍孜广告</td> 
+									<td class="collect_info_detail">设备品牌、设备型号、设备时区、设备语言、系统版本、开发者应用名、应用版本号、应用包名、网络类型、UserAgent信息、网络状态、崩溃信息、性能数据、屏幕高宽、屏幕方向、屏幕DPI信息、系统更新时间、开机时间、USB调试模式、运营商、cpu、应用的进程名称、应用的进程信息、运行状态、设备ID（OAID、GAID）（IMEI 用户授权才收集）</td> 
+									<td>用于投放广告</td> 
+									<td>上海倍孜网络技术有限公司</td> 
+									<td><a href="http://sdkdoc.beizi.biz/#/zh-cn/guide/UsePrivacy">http://sdkdoc.beizi.biz/#/zh-cn/guide/UsePrivacy</a></td> 
+									<td class="includeCode">查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td> 
+								</tr> 
+							</tbody>
+                            </table>  
+                        </div>                        
+                        <div class="table-box-default only-android has_plugins hide">
+                            <table cellspacing="0" cellpadding="0">
+                                <thead>
+                                    <tr>
+                                        <th style="width: 10%;">SDK名称</th>
+                                        <th style="width: 24%;">共享的信息</th>
+                                        <th style="width: 15%;">信息共享的目的</th>
+                                        <th style="width: 13%;">信息共享主体</th>
+                                        <th style="width: 15%;">隐私政策链接</th>
+                                        <th style="width: 23%;">包含的权限代码</th>                                        
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="hide vivounion vivocharacterlianyun pay_vivo">
+                                        <td>Vivo联运</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>平台联运要求，用于支付、数据统计</td>
+                                        <td>维沃移动通信有限公司</td>
+                                        <td><a href="https://www.vivo.com.cn/about-vivo/privacy-policy">https://www.vivo.com.cn/about-vivo/privacy-policy</a></td>
+                                        <td>读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide baidusdk skydex topon">
+                                        <td>百度网盟广告</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>
+                                        <td>百度在线网络技术（北京）有限公司</td>
+                                        <td><a href="https://u.baidu.com/ucweb/rules-privacy.html">https://u.baidu.com/ucweb/rules-privacy.html</a></td>
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、拨打电话、读取手机状态和身份、发送短信、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide toutiaoad toutiaosdk topon">
+                                        <td>穿山甲SDK</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、硬件序列号</td>
+                                        <td>提升广告精准度</td>
+                                        <td>北京字节跳动科技有限公司、北京巨量引擎网络技术有限公司、北京吉云互动科技有限公司</td>
+                                        <td><a href="https://www.pangle.cn/privacy?from=ad.oceanengine.com&amp;">https://www.pangle.cn/privacy?from=ad.oceanengine.com&amp;</a></td>                                        
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide vivounion">
+                                        <td>银联支付</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于购买支付</td>                                        
+                                        <td>银联商务股份有限公司</td>
+                                        <td><a href="https://www.chinaums.com/chinaums/dsfdy/qmfapplb/201708/t20170828_25547.shtml">https://www.chinaums.com/chinaums/dsfdy/qmfapplb/201708/t20170828_25547.shtml</a></td>                                        
+                                        <td>读取外置存储卡、写入外部存储卡、读取手机状态和身份、读取本机电话号码、近距离通讯操作</td>
+                                    </tr>
+                                    <tr class="hide speechrecognitioncore">
+                                        <td>百度语音</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于使用中识别对话</td>                                        
+                                        <td>百度在线网络技术（北京）有限公司</td>
+                                        <td><a href="http://www.singsound.com/privacy_h5.html">http://www.singsound.com/privacy_h5.html</a></td>                                        
+                                        <td>录音</td>
+                                    </tr>
+                                    <tr class="huaweiad hide">
+                                        <td>华为广告</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>                                        
+                                        <td>华为技术有限公司</td>
+                                        <td><a href="https://developer.huawei.com/consumer/cn/doc/distribution/monetize/20786350#h2-1576661624879-4">https://developer.huawei.com/consumer/cn/doc/distribution/monetize/20786350#h2-1576661624879-4</a></td>
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、拨打电话、读取手机状态和身份、发送短信、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide gdt gdtsdk topon">
+                                        <td>广点通</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>                                        
+                                        <td>腾讯控股有限公司</td>
+                                        <td><a href="https://www.tencent.com/zh-cn/privacy-policy.html">https://www.tencent.com/zh-cn/privacy-policy.html</a></td>
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide unity">
+                                        <td>unity</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>应用所使用的物理引擎</td>
+                                        <td>优美缔软件（上海）有限公司</td>
+                                        <td><a href="https://unity.cn/legal/privacy-policy">https://unity.cn/legal/privacy-policy</a></td>
+                                        <td>查看WLAN链接、读取外置存储卡、写入外部存储卡、读取手机相册、录音、相机、获取粗略位置</td>                                        
+                                    </tr>
+                                    <tr class="hide bugly">
+                                        <td>bugly</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于上报使用中出现的问题故障</td>                                        
+                                        <td>腾讯控股有限公司</td>
+                                        <td><a href="https://bugly.qq.com/v2/contract">https://bugly.qq.com/v2/contract</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡、读取手机状态和身份、获取网络状态、获取WiFi状态</td>                                        
+                                    </tr>
+                                    <tr class="hide soundevaluation">
+                                        <td>先声语音识别</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于使用中识别对话</td>                                        
+                                        <td>北京先声智能科技有限公司</td>
+                                        <td><a href="http://www.singsound.com/privacy_h5.html">http://www.singsound.com/privacy_h5.html</a></td>
+                                        <td>录音、查看WLAN连接、写入外部存储卡、读取手机状态和身份、获取网络状态、获取WiFi状态</td>
+                                    </tr>
+                                    <tr class="hide xiaomicharacterlianyun pay_xiaomi xiaomiunion">
+                                        <td>小米联运</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>平台联运要求，用于支付、数据统计</td>
+                                        <td>北京小米科技有限责任公司</td>
+                                        <td><a href="https://privacy.mi.com/xiaomicloud/zh_CN">https://privacy.mi.com/xiaomicloud/zh_CN</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡、获取WiFi状态、读取手机状态和身份、获取网络状态、获取粗略位置、获取精确位置</td>
+                                    </tr>
+                                    <tr class="hide huaweianalytics">
+                                        <td>华为分析</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于分析用户数据</td>
+                                        <td>华为技术有限公司</td>
+                                        <td><a href="https://consumer.huawei.com/cn/privacy/privacy-policy/">https://consumer.huawei.com/cn/privacy/privacy-policy/</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡、获取网络状态、获取WiFi状态、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide huaweipay huaweiaccount huaweicharacterlianyun pay_huawei3">
+                                        <td>华为联运</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>平台联运要求，用于支付、数据统计</td>
+                                        <td>华为技术有限公司</td>
+                                        <td><a href="https://consumer.huawei.com/cn/privacy/privacy-policy/">https://consumer.huawei.com/cn/privacy/privacy-policy/</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡、获取网络状态、获取WiFi状态、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide oppocharacterlianyun oppopay pay_oppo">
+                                        <td>oppo联运</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>平台联运要求，用于支付、数据统计</td>
+                                        <td>OPPO广东移动通信有限公司</td>
+                                        <td><a href="https://www.oppo.com/cn/privacy/">https://www.oppo.com/cn/privacy/</a></td>
+                                        <td>改变网络状态、获取WiFi状态、查看WLAN连接、获取网络状态、读取手机状态和身份、写入外部存储卡、读取外部存储卡</td>
+                                    </tr>
+                                    <tr class="hide mintegral">
+                                        <td>Mintegral</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>
+                                        <td>广州汇世信息科技有限公司、广州汇量信息科技有限公司</td>
+                                        <td><a href="https://www.mintegral.com/cn/privacy/">https://www.mintegral.com/cn/privacy/</a></td>
+                                        <td>查看WLAN连接、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide sigmobsdk">
+                                        <td>Sigmob</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>
+                                        <td>北京创智汇聚科技有限公司</td>
+                                        <td><a href="https://www.sigmob.com/policy.html">https://www.sigmob.com/policy.html</a></td>
+                                        <td>查看WLAN连接、读取手机状态和身份、获取粗略位置、写入外部存储卡</td>
+                                    </tr>
+                                    <tr class="hide topon">
+                                        <td>TopOn</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>提升广告精准度</td>
+                                        <td>广州布里奇信息科技有限公司、广州塔酷信息科技有限公司</td>
+                                        <td><a href="https://www.toponad.com/privacy-policy">https://www.toponad.com/privacy-policy</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡</td>
+                                    </tr>
+                                    <tr class="hide shanyan login charactersfastlogin">
+                                        <td>闪验</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于一键登录功能</td>
+                                        <td>上海创蓝文化传播有限公司</td>
+                                        <td><a href="http://static.253.com/wanshu/Termsofservice.html">http://static.253.com/wanshu/Termsofservice.html</a></td>
+                                        <td>查看WLAN连接、切换网络连接、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide shanyan login charactersfastlogin">
+                                        <td>移动SDK</td>
+                                        <td>网络类型、网络制式、设备类型、系统、imsi（仅android）、idfv（仅iOS）、IMEI</td>
+                                        <td>以手机号为基础进行一键式登录</td>
+                                        <td>中移互联网有限公司</td>
+                                        <td><a href="http://wap.cmpassport.com/resources/html/contract.html">http://wap.cmpassport.com/resources/html/contract.html</a></td>
+                                        <td>查看WLAN连接、切换网络连接、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide shanyan login charactersfastlogin">
+                                        <td>联通SDK</td>
+                                        <td>操作系统版本、手机型号、设备ID、公网IP、私网IP、IMEI</td>
+                                        <td>以手机号为基础进行一键式登录</td>
+                                        <td>中国联合网络通信有限公司北京市分公司/小沃科技有限公司</td>
+                                        <td><a href="https://ms.zzx9.cn/html/oauth/protocol2.html">https://ms.zzx9.cn/html/oauth/protocol2.html</a></td>
+                                        <td>查看WLAN连接、切换网络连接、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide shanyan login charactersfastlogin">
+                                        <td>电信SDK</td>
+                                        <td>操作系统类型（Android/iOS），操作系统版本号，设备品牌，设备型号，当前用户连接网络类型（WiFi，蜂窝数据），bundleId（仅iOS），本机IP地址、IMEI</td>
+                                        <td>以手机号为基础进行一键式登录</td>
+                                        <td>世纪龙信息网络有限责任公司</td>
+                                        <td><a href="https://e.189.cn/sdk/agreement/detail.do?isWap=true&amp;hidetop=true&amp;appKey=">https://e.189.cn/sdk/agreement/detail.do?isWap=true&amp;hidetop=true&amp;appKey=</a></td>
+                                        <td>查看WLAN连接、切换网络连接、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide kuaishouad">
+                                        <td>快手广告SDK</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、硬件序列号</td>
+                                        <td>提升广告精准度</td>
+                                        <td>北京快手科技有限公司</td>
+                                        <td><a href="https://www.kuaishou.com/about/policy?tab=privacy">https://www.kuaishou.com/about/policy?tab=privacy</a></td>
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="Growingio growingio hide">
+                                        <td>Growingio</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于数据统计</td>
+                                        <td>北京易数科技有限公司</td>
+                                        <td><a href="https://accounts.growingio.com/privacy">https://accounts.growingio.com/privacy</a></td>
+                                        <td>查看WLAN连接、使用蓝牙、读取应用列表、读取外置存储卡、写入外置存储卡</td>
+                                    </tr>
+                                    <tr class="hide parentscenter parentcenter umengshare chinesewechat">
+                                        <td>微信分享与收藏</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于将内容分享至微信</td>
+                                        <td>腾讯控股有限公司</td>
+                                        <td><a href="https://privacy.tencent.com/">https://privacy.tencent.com/</a></td>
+                                        <td>读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、查看WLAN连接</td>
+                                    </tr>
+                                    <tr class="hide umanalysis base_um um">
+                                        <td>友盟统计</td>
+                                        <td>IMEI/Mac/Android ID/IDFA/OPENUDID/GUID/SIM 卡 IMSI</td>
+                                        <td>用于数据统计</td>
+                                        <td>北京友盟网络科技有限公司</td>
+                                        <td><a href="https://www.umeng.com/policy">https://www.umeng.com/policy</a></td>
+                                        <td>查看WLAN连接、使用蓝牙、获取粗略位置、获取精确位置、摄像头、读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide tencentwebview">
+                                        <td>腾讯浏览服务</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于浏览网页</td>
+                                        <td>腾讯控股有限公司</td>
+                                        <td><a href="https://privacy.tencent.com/">https://privacy.tencent.com/</a></td>
+                                        <td>查看WLAN连接、读取外置存储卡、写入外部存储卡、读取手机状态和身份</td>
+                                    </tr>
+                                    <tr class="hide payview ly_alipay pay_alipay">
+                                        <td>支付宝</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于购买支付</td>
+                                        <td>阿里巴巴集团控股有限公司</td>
+                                        <td><a href="https://render.alipay.com/p/c/k2cx0tg8">https://render.alipay.com/p/c/k2cx0tg8</a></td>
+                                        <td>查看WLAN连接、读取手机状态和身份、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide umengshare">
+                                        <td>Umeng社会化分享</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、硬件序列号</td>
+                                        <td>用于将内容分享至微信、微博、QQ等平台</td>
+                                        <td>北京友盟网络科技有限公司</td>
+                                        <td><a href="https://www.umeng.com/policy">https://www.umeng.com/policy</a></td>
+                                        <td>读取手机状态和身份、写入外部存储卡、检索正在运行的应用</td>
+                                    </tr>
+                                    <tr class="hide ly_weixinpay parentscenter parentcenter payview vivounion pay_wechat">
+                                        <td>微信开放平台</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于购买支付</td>
+                                        <td>腾讯控股有限公司</td>
+                                        <td><a href="https://privacy.tencent.com/">https://privacy.tencent.com/</a></td>
+                                        <td>读取外置存储卡、写入外部存储卡</td>
+                                    </tr>
+                                    <tr class="hide payview ly_alipay pay_alipay">
+                                        <td>支付宝安全</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机型号、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于购买支付</td>
+                                        <td>阿里巴巴集团控股有限公司</td>
+                                        <td><a href="https://render.alipay.com/p/c/k2cx0tg8">https://render.alipay.com/p/c/k2cx0tg8</a></td>
+                                        <td>查看WLAN连接、使用蓝牙、读取外置存储卡 、读取手机状态和身份、写入外部存储卡</td>
+                                    </tr>
+                                    <tr class="dueros hide">
+                                        <td>Dueros</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于小度音箱下的语音交互</td>
+                                        <td>百度在线网络技术（北京）有限公司</td>
+                                        <td><a href="https://dueros.baidu.com/didp/doc/overall/privacy-policy_markdown">https://dueros.baidu.com/didp/doc/overall/privacy-policy_markdown</a></td>
+                                        <td>查看WLAN连接、写入外部存储卡、获取WiFi状态、读取手机状态和身份、获取网络状态、获取粗略位置、获取精确位置、获取已安装应用列表</td>
+                                    </tr>
+                                    <tr>
+                                        <td>360加固保</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI</td>
+                                        <td>用于加固产品本身</td>    
+                                        <td>北京鸿享技术服务有限公司</td>                          
+                                        <td><a href="https://jiagu.360.cn/#/global/help/295">https://jiagu.360.cn/#/global/help/295</a></td>
+                                        <td>查看WLAN连接、使用蓝牙、获取粗略位置、获取精确位置、摄像头、读取外置存储卡、读取手机状态和身份、写入外部存储卡、检索正在运行的应用、获取已安装应用列表</td> 
+                                    </tr> 
+                                    <tr class="bopuad hide">
+                                        <td>波普广告</td>
+                                        <td>设备版本、系统版本、生成ID、手机样式、手机名、iccid、bssid、MAC地址、IMSI、IMEI、硬件序列号</td>
+                                        <td>提升广告精准度</td>   
+                                        <td>波普悦游（天津）科技有限公司</td>                          
+                                        <td><a href="http://bbbs.bjgjhb.com/privacy.html">http://bbbs.bjgjhb.com/privacy.html</a></td>
+                                        <td>查看WLAN连接、获取粗略位置、获取精确位置、读取外置存储卡、写入外部存储卡、读取手机状态和身份、检索正在运行的应用、获取已安装应用列表</td>  
+                                    </tr>                             
+                                </tbody>
+                            </table>  
+                        </div>                         
+                    </li>
+                </ul>
+            <p></p>
+            <p class="detail_1">
+                <span><strong>3. 公开披露</strong><span>
+                </span></span></p><p>我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才可能公开披露您的个人信息：</p>
+                <ul>
+                    <li>3.1. 根据您的需求，在您明确同意的披露方式下披露您所指定的个人信息。</li>
+                    <li>3.2. 根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您个人信息的情况下，我们可能会依据所要求的个人信息类型和披露方式公开披露您的个人信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求必须出具与之相应的法律文件，如传票或调查函。</li>
+                </ul>
+            <p></p>
+            <p class="detail section-header">
+                <strong><span>三、Cookie</span></strong>
+            </p>
+            <p class="detail_1">
+                <span><strong>1. 什么是Cookie</strong></span>
+                </p><ul>
+                    <li>当您使用我们的产品时，我们会在您的计算机或移动设备上存储名为Cookie的小型数据文件，通常包含标识符、站点名称以及一些号码和字符。当您登录帐号时，借助于Cookie，我们可以在您每次使用我们的产品时识别您是否属于我们的用户；还可以实现直接从一个页面跳转到另一个页面，而不必在每个页面上重新登录。网站信标、像素或其他类似文件也可以做同样的事情。我们在此政策中使用术语“Cookies”来指代以这种方式收集信息的所有文件。</li>
+                </ul>
+            <p></p>
+            <p class="detail_1">
+                <span><strong>2. 我们如何使用Cookie</strong></span>
+                </p><ul>
+                    <li>我们使用Cookies来判断您是否已经登录而不必在每个页面上重新登录、记录您曾浏览过的页面以便您下次更快速、便捷地浏览并提升服务质量及优化用户体验。我们还通过Cookie启用支持安全功能，监控和防止可疑活动、欺诈性流量和违反我们的用户协议的行为。我们不会将Cookie用于本政策所述目的之外的任何其他用途。</li>
+                </ul>
+            <p></p>            
+            <p class="detail section-header">
+                <strong><span>四、个人信息安全保护</span></strong>
+            </p>
+            <p class="detail_1">
+            </p><ul>
+                <li>1. 为提高您使用我们提供的服务的安全性，我们通过不断提升的技术手段加强安装在您设备端的软件的安全能力，以防止您的个人信息泄露。我们建立专门的管理制度、流程和组织以保障信息的安全。目前，我们已通过了国家网络安全等级保护（三级）的测评和备案。我们会尽全力保护您的个人信息，我们也请您理解，任何安全措施都无法做到无懈可击。</li>
+                <li>2. 我们努力为用户的信息安全提供保障，以防止信息的泄露、丢失、不当使用、未经授权访问和披露等。我们使用多方位的安全保护措施，以确保用户的个人信息保护处于合理的安全水平，包括技术保护手段、管理制度控制、安全体系保障等诸多方面。同时，我们采用业界领先的技术保护措施。我们使用的技术手段包括但不限于防火墙、加密（例如SSL）、去标识化或匿名化处理、访问控制措施等。此外，我们还会不断加强安装在您设备端的软件的安全能力。例如，我们会在您的设备本地完成部分信息加密工作，以巩固安全传输；我们会了解您设备安装的应用信息和运行的进程信息，以预防病毒、木马等恶意程序。</li>
+                <li>3. 在不幸发生个人信息安全事件后，我们会立即成立专项应急小组，启动应急预案，防止安全事件扩大，并按照法律法规的要求及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。</li>
+            </ul>
+            <p></p>
+            <p class="detail section-header">
+                <strong><span>五、信息的存储地点、期限</span></strong>
+            </p>
+            <p class="detail_1">
+                </p><ul>
+                    <li><strong>1. 存储信息的地点</strong></li>
+                    <li>存储地点为：中华人民共和国境内。目前我们不会跨境传输或存储您的个人信息。将来如需跨境传输或存储的，我们将遵守《个人信息保护法》第三十八条的规定，并会向您告知信息出境的目的、接收方、安全保护措施和安全风险，并征得您的同意。</li>
+                    <li><strong>2. 存储信息的期限</strong>
+                        <ul>
+                            <li>2.1. 我们仅为实现目的在法律规定的所必须的时间内保留用户的个人信息。在超出保存期限后，我们会对您的个人信息进行删除或者匿名化处理，但国家法律法规、规章、规范性文件或政府的政策、命令等另有要求或为履行我们的合规义务而保留您的个人信息的除外。如：手机号码——若您需要使用宝宝巴士产品服务，我们需要一直保存您的手机号码，以保证您正常使用该服务，当您注销宝宝巴士帐号后，您的信息会被删除或进行匿名化处理。此外，当本产品或服务发生停止运营的情形时，我们将采取例如，推送通知、公告等形式通知用户，并在合理的期限内删除或匿名化处理所收集的个人信息。</li>
+                        </ul>
+                    </li>
+                </ul>
+            <p></p>
+            <p class="detail section-header">
+                <strong><span>六、未成年人的个人信息保护</span></strong>
+            </p>
+            <p class="detail_1">
+            </p><ul>
+                <li>1. 我们非常重视对未成年人个人信息的保护。我们的网站和服务主要面向未成年人。父母或监护人请仔细阅读本隐私政策，并在同意的前提下陪同您的未成年人子女使用我们的服务或向我们提供信息。</li>
+                <li>2. 对于经父母或监护人同意使用我们的产品或服务而收集未成年人个人信息的情况，我们只会在法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。</li>
+                <li>3. 如果我们发现自己在未事先获得可证实的父母或法定监护人同意的情况下收集了未成年人的个人信息，我们会设法尽快删除相关数据。</li>
+            </ul>
+            <p></p> 
+            <p class="detail section-header">
+                <strong><span>七、您的权利</span></strong>
+            </p>
+            <p class="detail_1">
+                <span>我们非常重视您对个人信息的管理，并尽全力保护您对于您个人信息的查询、访问、修改、删除、撤回同意授权、注销帐号、投诉举报以及设置隐私功能等权利，以使您有能力保障您的隐私和安全。</span>
+                </p><ul>
+                    <li><strong>1. 访问、删除、更正您的个人信息</strong></li>
+                    <li>您可以查询、访问和更改您的头像、用户名、性别、生日等基本信息，您可以在我们的【帐号中心】中进行查询、访问和更改。</li>
+                </ul>
+                <ul>
+                    <li><strong>2. 改变您授权同意范围或撤销授权</strong></li>
+                    <li>2.1. 改变或撤回权限：您可以在【家长中心】中删除信息、更改隐私设置以及在设备本身操作系统中关闭上述权限，以改变同意范围或撤回您的授权。如果您希望撤销同意我们收集、使用和披露您的其他个人信息或者希望我们更正、更新或删除您的个人信息，可通过本政策中的联系方式与我们联系。我们将会在收到您的电子邮件或者挂号信后的合理时间内处理您的请求并停止收集、使用您的个人信息。</li>
+                    <li>2.2. 但请您理解并同意，当您撤回某些授权时，将导致与之相关的产品功能不可用，我们无法继续为您提供撤回同意或授权所对应的特定功能，并且您撤回授权的决定不会影响此前基于您的授权而开展的个人信息处理。</li>
+                    <li>2.3. 注销您的帐号：您可以通过<span class="only-pinyin">【家长中心-帮助反馈-注销帐号问题】下</span>申请注销帐号。在您注销帐号前，我们将验证您的个人身份、安全状态、设备信息等。自收到用户帐号注销请求之日起，我们将在15个自然日内予以受理且在15个工作日内完成处理。请您知悉并理解，注销帐号的行为是不可逆的行为，当您注销帐号后，我们将删除有关您的相关信息或进行匿名化处理，但法律法规另有规定的除外。</li>
+                </ul>
+                <ul class="only-pinyin-persion hide">
+                    <li><strong>3. 投诉举报</strong></li>
+                    <li>您可按照我们公示的制度进行投诉或举报。如果您认为您的个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索（例如：认为我们收集您的个人信息违反法律规定或者双方约定），您可以通过点击用户反馈，进入用户反馈界面与我们联系。我们核查后会及时反馈您的投诉与举报。</li>
+                </ul>                 
+                <div class="no-pinyin-persion">
+                    <ul>
+                        <li><strong>3. 关闭个性化广告</strong></li>
+                        <li>您可以在【“帮助反馈”的“如何关闭广告的个性化推荐”问题下】关闭个性化广告。请注意，关闭个性化广告并不会减少您看到的广告数量。</li>
+                    </ul>
+                    <ul>
+                        <li><strong>4. 投诉举报</strong></li>
+                        <li>您可按照我们公示的制度进行投诉或举报。如果您认为您的个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索（例如：认为我们收集您的个人信息违反法律规定或者双方约定），您可以通过点击用户反馈，进入用户反馈界面与我们联系。我们核查后会及时反馈您的投诉与举报。</li>
+                    </ul>
+                </div>                
+            <p></p>                         
+            <p class="detail section-header">
+                <strong><span>八、通知和修订</span></strong>
+            </p>
+            <p class="detail_1">
+            </p><ul>
+                <li>为给您提供更好的服务，我们的业务将不时变化，本隐私政策也将随之调整。未经您明确同意，我们不会削减您依据本隐私政策所应享有的权利。我们会通过在我们网站、移动端上发出更新版本或以其他方式提醒您相关内容的更新，也请您访问我们以便及时了解最新的隐私政策。在前述情况下，若您继续使用我们的服务，即表示同意接受修订后的本政策并受之约束。</li>
+            </ul>
+            <p></p>         
+            <p class="detail section-header">
+                <strong><span>九、联系我们</span></strong>
+            </p>
+            <p class="detail_1">
+            </p><div>
+                <ul class="address company_1">
+                    <!-- 宝宝巴士公司 -->
+                    <li>如果您对于我们的个人信息处理行为存在任何投诉举报需求，您可以通过如下方式与我们的个人信息保护负责人联系，我们将在验证您身份的15个工作日内答复您的请求并尽力解决：
+                        <ul>
+                            <li>
+                                <p>(i) 发送邮件至service@babybus.com；</p>
+                            </li>
+                            <li>
+                                <p>(ii) 拨打客服电话（18059175351）；</p>
+                            </li>
+                            <li>
+                                <p class="a_href">(iii) 宝宝巴士网站（<a href="https://cn.babybus.com/business/cooperation.shtml">https://cn.babybus.com/business/cooperation.shtml</a>）上载明的联系方式；</p>
+                            </li>
+                            <li>
+                                <p>(iv) 邮寄信件至下列公司地址：</p>
+                                <ul class="sub-list">
+                                    <li class="sub-title">公司名称：宝宝巴士股份有限公司</li>
+                                    <li>公司注册地址：福州市仓山区建新镇西三环路18号金山橘园工业园区项目A</li>
+                                    <li class="sub-title">关联公司名称：宝宝巴士（福建）网络科技有限公司</li>
+                                    <li>公司注册地址：福州市鼓楼区软件大道89号福州软件园F区3号楼15层</li>
+                                    <li class="sub-title">关联公司名称：学海拾贝（福建）科技有限公司</li>
+                                    <li>公司注册地址：福州市仓山区建新镇西三环路18号金山橘园工业园区项目A</li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>                              
+            </div>                    
+            <p></p>
+        </article>
+    </div>
+    <script>
+        /* Zepto v1.2.0 - zepto event ajax form ie - zeptojs.com/license */
+        !function (t, e) { "function" == typeof define && define.amd ? define(function () { return e(t) }) : e(t) }(this, function (t) { var e = function () { function $(t) { return null == t ? String(t) : S[C.call(t)] || "object" } function F(t) { return "function" == $(t) } function k(t) { return null != t && t == t.window } function M(t) { return null != t && t.nodeType == t.DOCUMENT_NODE } function R(t) { return "object" == $(t) } function Z(t) { return R(t) && !k(t) && Object.getPrototypeOf(t) == Object.prototype } function z(t) { var e = !!t && "length" in t && t.length, n = r.type(t); return "function" != n && !k(t) && ("array" == n || 0 === e || "number" == typeof e && e > 0 && e - 1 in t) } function q(t) { return a.call(t, function (t) { return null != t }) } function H(t) { return t.length > 0 ? r.fn.concat.apply([], t) : t } function I(t) { return t.replace(/::/g, "/").replace(/([A-Z]+)([A-Z][a-z])/g, "$1_$2").replace(/([a-z\d])([A-Z])/g, "$1_$2").replace(/_/g, "-").toLowerCase() } function V(t) { return t in l ? l[t] : l[t] = new RegExp("(^|\\s)" + t + "(\\s|$)") } function _(t, e) { return "number" != typeof e || h[I(t)] ? e : e + "px" } function B(t) { var e, n; return c[t] || (e = f.createElement(t), f.body.appendChild(e), n = getComputedStyle(e, "").getPropertyValue("display"), e.parentNode.removeChild(e), "none" == n && (n = "block"), c[t] = n), c[t] } function U(t) { return "children" in t ? u.call(t.children) : r.map(t.childNodes, function (t) { return 1 == t.nodeType ? t : void 0 }) } function X(t, e) { var n, r = t ? t.length : 0; for (n = 0; r > n; n++)this[n] = t[n]; this.length = r, this.selector = e || "" } function J(t, r, i) { for (n in r) i && (Z(r[n]) || L(r[n])) ? (Z(r[n]) && !Z(t[n]) && (t[n] = {}), L(r[n]) && !L(t[n]) && (t[n] = []), J(t[n], r[n], i)) : r[n] !== e && (t[n] = r[n]) } function W(t, e) { return null == e ? r(t) : r(t).filter(e) } function Y(t, e, n, r) { return F(e) ? e.call(t, n, r) : e } function G(t, e, n) { null == n ? t.removeAttribute(e) : t.setAttribute(e, n) } function K(t, n) { var r = t.className || "", i = r && r.baseVal !== e; return n === e ? i ? r.baseVal : r : void (i ? r.baseVal = n : t.className = n) } function Q(t) { try { return t ? "true" == t || ("false" == t ? !1 : "null" == t ? null : +t + "" == t ? +t : /^[\[\{]/.test(t) ? r.parseJSON(t) : t) : t } catch (e) { return t } } function tt(t, e) { e(t); for (var n = 0, r = t.childNodes.length; r > n; n++)tt(t.childNodes[n], e) } var e, n, r, i, O, P, o = [], s = o.concat, a = o.filter, u = o.slice, f = t.document, c = {}, l = {}, h = { "column-count": 1, columns: 1, "font-weight": 1, "line-height": 1, opacity: 1, "z-index": 1, zoom: 1 }, p = /^\s*<(\w+|!)[^>]*>/, d = /^<(\w+)\s*\/?>(?:<\/\1>|)$/, m = /<(?!area|br|col|embed|hr|img|input|link|meta|param)(([\w:]+)[^>]*)\/>/gi, g = /^(?:body|html)$/i, v = /([A-Z])/g, y = ["val", "css", "html", "text", "data", "width", "height", "offset"], x = ["after", "prepend", "before", "append"], b = f.createElement("table"), E = f.createElement("tr"), j = { tr: f.createElement("tbody"), tbody: b, thead: b, tfoot: b, td: E, th: E, "*": f.createElement("div") }, w = /complete|loaded|interactive/, T = /^[\w-]*$/, S = {}, C = S.toString, N = {}, A = f.createElement("div"), D = { tabindex: "tabIndex", readonly: "readOnly", "for": "htmlFor", "class": "className", maxlength: "maxLength", cellspacing: "cellSpacing", cellpadding: "cellPadding", rowspan: "rowSpan", colspan: "colSpan", usemap: "useMap", frameborder: "frameBorder", contenteditable: "contentEditable" }, L = Array.isArray || function (t) { return t instanceof Array }; return N.matches = function (t, e) { if (!e || !t || 1 !== t.nodeType) return !1; var n = t.matches || t.webkitMatchesSelector || t.mozMatchesSelector || t.oMatchesSelector || t.matchesSelector; if (n) return n.call(t, e); var r, i = t.parentNode, o = !i; return o && (i = A).appendChild(t), r = ~N.qsa(i, e).indexOf(t), o && A.removeChild(t), r }, O = function (t) { return t.replace(/-+(.)?/g, function (t, e) { return e ? e.toUpperCase() : "" }) }, P = function (t) { return a.call(t, function (e, n) { return t.indexOf(e) == n }) }, N.fragment = function (t, n, i) { var o, s, a; return d.test(t) && (o = r(f.createElement(RegExp.$1))), o || (t.replace && (t = t.replace(m, "<$1></$2>")), n === e && (n = p.test(t) && RegExp.$1), n in j || (n = "*"), a = j[n], a.innerHTML = "" + t, o = r.each(u.call(a.childNodes), function () { a.removeChild(this) })), Z(i) && (s = r(o), r.each(i, function (t, e) { y.indexOf(t) > -1 ? s[t](e) : s.attr(t, e) })), o }, N.Z = function (t, e) { return new X(t, e) }, N.isZ = function (t) { return t instanceof N.Z }, N.init = function (t, n) { var i; if (!t) return N.Z(); if ("string" == typeof t) if (t = t.trim(), "<" == t[0] && p.test(t)) i = N.fragment(t, RegExp.$1, n), t = null; else { if (n !== e) return r(n).find(t); i = N.qsa(f, t) } else { if (F(t)) return r(f).ready(t); if (N.isZ(t)) return t; if (L(t)) i = q(t); else if (R(t)) i = [t], t = null; else if (p.test(t)) i = N.fragment(t.trim(), RegExp.$1, n), t = null; else { if (n !== e) return r(n).find(t); i = N.qsa(f, t) } } return N.Z(i, t) }, r = function (t, e) { return N.init(t, e) }, r.extend = function (t) { var e, n = u.call(arguments, 1); return "boolean" == typeof t && (e = t, t = n.shift()), n.forEach(function (n) { J(t, n, e) }), t }, N.qsa = function (t, e) { var n, r = "#" == e[0], i = !r && "." == e[0], o = r || i ? e.slice(1) : e, s = T.test(o); return t.getElementById && s && r ? (n = t.getElementById(o)) ? [n] : [] : 1 !== t.nodeType && 9 !== t.nodeType && 11 !== t.nodeType ? [] : u.call(s && !r && t.getElementsByClassName ? i ? t.getElementsByClassName(o) : t.getElementsByTagName(e) : t.querySelectorAll(e)) }, r.contains = f.documentElement.contains ? function (t, e) { return t !== e && t.contains(e) } : function (t, e) { for (; e && (e = e.parentNode);)if (e === t) return !0; return !1 }, r.type = $, r.isFunction = F, r.isWindow = k, r.isArray = L, r.isPlainObject = Z, r.isEmptyObject = function (t) { var e; for (e in t) return !1; return !0 }, r.isNumeric = function (t) { var e = Number(t), n = typeof t; return null != t && "boolean" != n && ("string" != n || t.length) && !isNaN(e) && isFinite(e) || !1 }, r.inArray = function (t, e, n) { return o.indexOf.call(e, t, n) }, r.camelCase = O, r.trim = function (t) { return null == t ? "" : String.prototype.trim.call(t) }, r.uuid = 0, r.support = {}, r.expr = {}, r.noop = function () { }, r.map = function (t, e) { var n, i, o, r = []; if (z(t)) for (i = 0; i < t.length; i++)n = e(t[i], i), null != n && r.push(n); else for (o in t) n = e(t[o], o), null != n && r.push(n); return H(r) }, r.each = function (t, e) { var n, r; if (z(t)) { for (n = 0; n < t.length; n++)if (e.call(t[n], n, t[n]) === !1) return t } else for (r in t) if (e.call(t[r], r, t[r]) === !1) return t; return t }, r.grep = function (t, e) { return a.call(t, e) }, t.JSON && (r.parseJSON = JSON.parse), r.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function (t, e) { S["[object " + e + "]"] = e.toLowerCase() }), r.fn = { constructor: N.Z, length: 0, forEach: o.forEach, reduce: o.reduce, push: o.push, sort: o.sort, splice: o.splice, indexOf: o.indexOf, concat: function () { var t, e, n = []; for (t = 0; t < arguments.length; t++)e = arguments[t], n[t] = N.isZ(e) ? e.toArray() : e; return s.apply(N.isZ(this) ? this.toArray() : this, n) }, map: function (t) { return r(r.map(this, function (e, n) { return t.call(e, n, e) })) }, slice: function () { return r(u.apply(this, arguments)) }, ready: function (t) { return w.test(f.readyState) && f.body ? t(r) : f.addEventListener("DOMContentLoaded", function () { t(r) }, !1), this }, get: function (t) { return t === e ? u.call(this) : this[t >= 0 ? t : t + this.length] }, toArray: function () { return this.get() }, size: function () { return this.length }, remove: function () { return this.each(function () { null != this.parentNode && this.parentNode.removeChild(this) }) }, each: function (t) { return o.every.call(this, function (e, n) { return t.call(e, n, e) !== !1 }), this }, filter: function (t) { return F(t) ? this.not(this.not(t)) : r(a.call(this, function (e) { return N.matches(e, t) })) }, add: function (t, e) { return r(P(this.concat(r(t, e)))) }, is: function (t) { return this.length > 0 && N.matches(this[0], t) }, not: function (t) { var n = []; if (F(t) && t.call !== e) this.each(function (e) { t.call(this, e) || n.push(this) }); else { var i = "string" == typeof t ? this.filter(t) : z(t) && F(t.item) ? u.call(t) : r(t); this.forEach(function (t) { i.indexOf(t) < 0 && n.push(t) }) } return r(n) }, has: function (t) { return this.filter(function () { return R(t) ? r.contains(this, t) : r(this).find(t).size() }) }, eq: function (t) { return -1 === t ? this.slice(t) : this.slice(t, +t + 1) }, first: function () { var t = this[0]; return t && !R(t) ? t : r(t) }, last: function () { var t = this[this.length - 1]; return t && !R(t) ? t : r(t) }, find: function (t) { var e, n = this; return e = t ? "object" == typeof t ? r(t).filter(function () { var t = this; return o.some.call(n, function (e) { return r.contains(e, t) }) }) : 1 == this.length ? r(N.qsa(this[0], t)) : this.map(function () { return N.qsa(this, t) }) : r() }, closest: function (t, e) { var n = [], i = "object" == typeof t && r(t); return this.each(function (r, o) { for (; o && !(i ? i.indexOf(o) >= 0 : N.matches(o, t));)o = o !== e && !M(o) && o.parentNode; o && n.indexOf(o) < 0 && n.push(o) }), r(n) }, parents: function (t) { for (var e = [], n = this; n.length > 0;)n = r.map(n, function (t) { return (t = t.parentNode) && !M(t) && e.indexOf(t) < 0 ? (e.push(t), t) : void 0 }); return W(e, t) }, parent: function (t) { return W(P(this.pluck("parentNode")), t) }, children: function (t) { return W(this.map(function () { return U(this) }), t) }, contents: function () { return this.map(function () { return this.contentDocument || u.call(this.childNodes) }) }, siblings: function (t) { return W(this.map(function (t, e) { return a.call(U(e.parentNode), function (t) { return t !== e }) }), t) }, empty: function () { return this.each(function () { this.innerHTML = "" }) }, pluck: function (t) { return r.map(this, function (e) { return e[t] }) }, show: function () { return this.each(function () { "none" == this.style.display && (this.style.display = ""), "none" == getComputedStyle(this, "").getPropertyValue("display") && (this.style.display = B(this.nodeName)) }) }, replaceWith: function (t) { return this.before(t).remove() }, wrap: function (t) { var e = F(t); if (this[0] && !e) var n = r(t).get(0), i = n.parentNode || this.length > 1; return this.each(function (o) { r(this).wrapAll(e ? t.call(this, o) : i ? n.cloneNode(!0) : n) }) }, wrapAll: function (t) { if (this[0]) { r(this[0]).before(t = r(t)); for (var e; (e = t.children()).length;)t = e.first(); r(t).append(this) } return this }, wrapInner: function (t) { var e = F(t); return this.each(function (n) { var i = r(this), o = i.contents(), s = e ? t.call(this, n) : t; o.length ? o.wrapAll(s) : i.append(s) }) }, unwrap: function () { return this.parent().each(function () { r(this).replaceWith(r(this).children()) }), this }, clone: function () { return this.map(function () { return this.cloneNode(!0) }) }, hide: function () { return this.css("display", "none") }, toggle: function (t) { return this.each(function () { var n = r(this); (t === e ? "none" == n.css("display") : t) ? n.show() : n.hide() }) }, prev: function (t) { return r(this.pluck("previousElementSibling")).filter(t || "*") }, next: function (t) { return r(this.pluck("nextElementSibling")).filter(t || "*") }, html: function (t) { return 0 in arguments ? this.each(function (e) { var n = this.innerHTML; r(this).empty().append(Y(this, t, e, n)) }) : 0 in this ? this[0].innerHTML : null }, text: function (t) { return 0 in arguments ? this.each(function (e) { var n = Y(this, t, e, this.textContent); this.textContent = null == n ? "" : "" + n }) : 0 in this ? this.pluck("textContent").join("") : null }, attr: function (t, r) { var i; return "string" != typeof t || 1 in arguments ? this.each(function (e) { if (1 === this.nodeType) if (R(t)) for (n in t) G(this, n, t[n]); else G(this, t, Y(this, r, e, this.getAttribute(t))) }) : 0 in this && 1 == this[0].nodeType && null != (i = this[0].getAttribute(t)) ? i : e }, removeAttr: function (t) { return this.each(function () { 1 === this.nodeType && t.split(" ").forEach(function (t) { G(this, t) }, this) }) }, prop: function (t, e) { return t = D[t] || t, 1 in arguments ? this.each(function (n) { this[t] = Y(this, e, n, this[t]) }) : this[0] && this[0][t] }, removeProp: function (t) { return t = D[t] || t, this.each(function () { delete this[t] }) }, data: function (t, n) { var r = "data-" + t.replace(v, "-$1").toLowerCase(), i = 1 in arguments ? this.attr(r, n) : this.attr(r); return null !== i ? Q(i) : e }, val: function (t) { return 0 in arguments ? (null == t && (t = ""), this.each(function (e) { this.value = Y(this, t, e, this.value) })) : this[0] && (this[0].multiple ? r(this[0]).find("option").filter(function () { return this.selected }).pluck("value") : this[0].value) }, offset: function (e) { if (e) return this.each(function (t) { var n = r(this), i = Y(this, e, t, n.offset()), o = n.offsetParent().offset(), s = { top: i.top - o.top, left: i.left - o.left }; "static" == n.css("position") && (s.position = "relative"), n.css(s) }); if (!this.length) return null; if (f.documentElement !== this[0] && !r.contains(f.documentElement, this[0])) return { top: 0, left: 0 }; var n = this[0].getBoundingClientRect(); return { left: n.left + t.pageXOffset, top: n.top + t.pageYOffset, width: Math.round(n.width), height: Math.round(n.height) } }, css: function (t, e) { if (arguments.length < 2) { var i = this[0]; if ("string" == typeof t) { if (!i) return; return i.style[O(t)] || getComputedStyle(i, "").getPropertyValue(t) } if (L(t)) { if (!i) return; var o = {}, s = getComputedStyle(i, ""); return r.each(t, function (t, e) { o[e] = i.style[O(e)] || s.getPropertyValue(e) }), o } } var a = ""; if ("string" == $(t)) e || 0 === e ? a = I(t) + ":" + _(t, e) : this.each(function () { this.style.removeProperty(I(t)) }); else for (n in t) t[n] || 0 === t[n] ? a += I(n) + ":" + _(n, t[n]) + ";" : this.each(function () { this.style.removeProperty(I(n)) }); return this.each(function () { this.style.cssText += ";" + a }) }, index: function (t) { return t ? this.indexOf(r(t)[0]) : this.parent().children().indexOf(this[0]) }, hasClass: function (t) { return t ? o.some.call(this, function (t) { return this.test(K(t)) }, V(t)) : !1 }, addClass: function (t) { return t ? this.each(function (e) { if ("className" in this) { i = []; var n = K(this), o = Y(this, t, e, n); o.split(/\s+/g).forEach(function (t) { r(this).hasClass(t) || i.push(t) }, this), i.length && K(this, n + (n ? " " : "") + i.join(" ")) } }) : this }, removeClass: function (t) { return this.each(function (n) { if ("className" in this) { if (t === e) return K(this, ""); i = K(this), Y(this, t, n, i).split(/\s+/g).forEach(function (t) { i = i.replace(V(t), " ") }), K(this, i.trim()) } }) }, toggleClass: function (t, n) { return t ? this.each(function (i) { var o = r(this), s = Y(this, t, i, K(this)); s.split(/\s+/g).forEach(function (t) { (n === e ? !o.hasClass(t) : n) ? o.addClass(t) : o.removeClass(t) }) }) : this }, scrollTop: function (t) { if (this.length) { var n = "scrollTop" in this[0]; return t === e ? n ? this[0].scrollTop : this[0].pageYOffset : this.each(n ? function () { this.scrollTop = t } : function () { this.scrollTo(this.scrollX, t) }) } }, scrollLeft: function (t) { if (this.length) { var n = "scrollLeft" in this[0]; return t === e ? n ? this[0].scrollLeft : this[0].pageXOffset : this.each(n ? function () { this.scrollLeft = t } : function () { this.scrollTo(t, this.scrollY) }) } }, position: function () { if (this.length) { var t = this[0], e = this.offsetParent(), n = this.offset(), i = g.test(e[0].nodeName) ? { top: 0, left: 0 } : e.offset(); return n.top -= parseFloat(r(t).css("margin-top")) || 0, n.left -= parseFloat(r(t).css("margin-left")) || 0, i.top += parseFloat(r(e[0]).css("border-top-width")) || 0, i.left += parseFloat(r(e[0]).css("border-left-width")) || 0, { top: n.top - i.top, left: n.left - i.left } } }, offsetParent: function () { return this.map(function () { for (var t = this.offsetParent || f.body; t && !g.test(t.nodeName) && "static" == r(t).css("position");)t = t.offsetParent; return t }) } }, r.fn.detach = r.fn.remove, ["width", "height"].forEach(function (t) { var n = t.replace(/./, function (t) { return t[0].toUpperCase() }); r.fn[t] = function (i) { var o, s = this[0]; return i === e ? k(s) ? s["inner" + n] : M(s) ? s.documentElement["scroll" + n] : (o = this.offset()) && o[t] : this.each(function (e) { s = r(this), s.css(t, Y(this, i, e, s[t]())) }) } }), x.forEach(function (n, i) { var o = i % 2; r.fn[n] = function () { var n, a, s = r.map(arguments, function (t) { var i = []; return n = $(t), "array" == n ? (t.forEach(function (t) { return t.nodeType !== e ? i.push(t) : r.zepto.isZ(t) ? i = i.concat(t.get()) : void (i = i.concat(N.fragment(t))) }), i) : "object" == n || null == t ? t : N.fragment(t) }), u = this.length > 1; return s.length < 1 ? this : this.each(function (e, n) { a = o ? n : n.parentNode, n = 0 == i ? n.nextSibling : 1 == i ? n.firstChild : 2 == i ? n : null; var c = r.contains(f.documentElement, a); s.forEach(function (e) { if (u) e = e.cloneNode(!0); else if (!a) return r(e).remove(); a.insertBefore(e, n), c && tt(e, function (e) { if (!(null == e.nodeName || "SCRIPT" !== e.nodeName.toUpperCase() || e.type && "text/javascript" !== e.type || e.src)) { var n = e.ownerDocument ? e.ownerDocument.defaultView : t; n.eval.call(n, e.innerHTML) } }) }) }) }, r.fn[o ? n + "To" : "insert" + (i ? "Before" : "After")] = function (t) { return r(t)[n](this), this } }), N.Z.prototype = X.prototype = r.fn, N.uniq = P, N.deserializeValue = Q, r.zepto = N, r }(); return t.Zepto = e, void 0 === t.$ && (t.$ = e), function (e) { function h(t) { return t._zid || (t._zid = n++) } function p(t, e, n, r) { if (e = d(e), e.ns) var i = m(e.ns); return (a[h(t)] || []).filter(function (t) { return t && (!e.e || t.e == e.e) && (!e.ns || i.test(t.ns)) && (!n || h(t.fn) === h(n)) && (!r || t.sel == r) }) } function d(t) { var e = ("" + t).split("."); return { e: e[0], ns: e.slice(1).sort().join(" ") } } function m(t) { return new RegExp("(?:^| )" + t.replace(" ", " .* ?") + "(?: |$)") } function g(t, e) { return t.del && !f && t.e in c || !!e } function v(t) { return l[t] || f && c[t] || t } function y(t, n, i, o, s, u, f) { var c = h(t), p = a[c] || (a[c] = []); n.split(/\s/).forEach(function (n) { if ("ready" == n) return e(document).ready(i); var a = d(n); a.fn = i, a.sel = s, a.e in l && (i = function (t) { var n = t.relatedTarget; return !n || n !== this && !e.contains(this, n) ? a.fn.apply(this, arguments) : void 0 }), a.del = u; var c = u || i; a.proxy = function (e) { if (e = T(e), !e.isImmediatePropagationStopped()) { e.data = o; var n = c.apply(t, e._args == r ? [e] : [e].concat(e._args)); return n === !1 && (e.preventDefault(), e.stopPropagation()), n } }, a.i = p.length, p.push(a), "addEventListener" in t && t.addEventListener(v(a.e), a.proxy, g(a, f)) }) } function x(t, e, n, r, i) { var o = h(t); (e || "").split(/\s/).forEach(function (e) { p(t, e, n, r).forEach(function (e) { delete a[o][e.i], "removeEventListener" in t && t.removeEventListener(v(e.e), e.proxy, g(e, i)) }) }) } function T(t, n) { return (n || !t.isDefaultPrevented) && (n || (n = t), e.each(w, function (e, r) { var i = n[e]; t[e] = function () { return this[r] = b, i && i.apply(n, arguments) }, t[r] = E }), t.timeStamp || (t.timeStamp = Date.now()), (n.defaultPrevented !== r ? n.defaultPrevented : "returnValue" in n ? n.returnValue === !1 : n.getPreventDefault && n.getPreventDefault()) && (t.isDefaultPrevented = b)), t } function S(t) { var e, n = { originalEvent: t }; for (e in t) j.test(e) || t[e] === r || (n[e] = t[e]); return T(n, t) } var r, n = 1, i = Array.prototype.slice, o = e.isFunction, s = function (t) { return "string" == typeof t }, a = {}, u = {}, f = "onfocusin" in t, c = { focus: "focusin", blur: "focusout" }, l = { mouseenter: "mouseover", mouseleave: "mouseout" }; u.click = u.mousedown = u.mouseup = u.mousemove = "MouseEvents", e.event = { add: y, remove: x }, e.proxy = function (t, n) { var r = 2 in arguments && i.call(arguments, 2); if (o(t)) { var a = function () { return t.apply(n, r ? r.concat(i.call(arguments)) : arguments) }; return a._zid = h(t), a } if (s(n)) return r ? (r.unshift(t[n], t), e.proxy.apply(null, r)) : e.proxy(t[n], t); throw new TypeError("expected function") }, e.fn.bind = function (t, e, n) { return this.on(t, e, n) }, e.fn.unbind = function (t, e) { return this.off(t, e) }, e.fn.one = function (t, e, n, r) { return this.on(t, e, n, r, 1) }; var b = function () { return !0 }, E = function () { return !1 }, j = /^([A-Z]|returnValue$|layer[XY]$|webkitMovement[XY]$)/, w = { preventDefault: "isDefaultPrevented", stopImmediatePropagation: "isImmediatePropagationStopped", stopPropagation: "isPropagationStopped" }; e.fn.delegate = function (t, e, n) { return this.on(e, t, n) }, e.fn.undelegate = function (t, e, n) { return this.off(e, t, n) }, e.fn.live = function (t, n) { return e(document.body).delegate(this.selector, t, n), this }, e.fn.die = function (t, n) { return e(document.body).undelegate(this.selector, t, n), this }, e.fn.on = function (t, n, a, u, f) { var c, l, h = this; return t && !s(t) ? (e.each(t, function (t, e) { h.on(t, n, a, e, f) }), h) : (s(n) || o(u) || u === !1 || (u = a, a = n, n = r), (u === r || a === !1) && (u = a, a = r), u === !1 && (u = E), h.each(function (r, o) { f && (c = function (t) { return x(o, t.type, u), u.apply(this, arguments) }), n && (l = function (t) { var r, s = e(t.target).closest(n, o).get(0); return s && s !== o ? (r = e.extend(S(t), { currentTarget: s, liveFired: o }), (c || u).apply(s, [r].concat(i.call(arguments, 1)))) : void 0 }), y(o, t, u, a, n, l || c) })) }, e.fn.off = function (t, n, i) { var a = this; return t && !s(t) ? (e.each(t, function (t, e) { a.off(t, n, e) }), a) : (s(n) || o(i) || i === !1 || (i = n, n = r), i === !1 && (i = E), a.each(function () { x(this, t, i, n) })) }, e.fn.trigger = function (t, n) { return t = s(t) || e.isPlainObject(t) ? e.Event(t) : T(t), t._args = n, this.each(function () { t.type in c && "function" == typeof this[t.type] ? this[t.type]() : "dispatchEvent" in this ? this.dispatchEvent(t) : e(this).triggerHandler(t, n) }) }, e.fn.triggerHandler = function (t, n) { var r, i; return this.each(function (o, a) { r = S(s(t) ? e.Event(t) : t), r._args = n, r.target = a, e.each(p(a, t.type || t), function (t, e) { return i = e.proxy(r), r.isImmediatePropagationStopped() ? !1 : void 0 }) }), i }, "focusin focusout focus blur load resize scroll unload click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select keydown keypress keyup error".split(" ").forEach(function (t) { e.fn[t] = function (e) { return 0 in arguments ? this.bind(t, e) : this.trigger(t) } }), e.Event = function (t, e) { s(t) || (e = t, t = e.type); var n = document.createEvent(u[t] || "Events"), r = !0; if (e) for (var i in e) "bubbles" == i ? r = !!e[i] : n[i] = e[i]; return n.initEvent(t, r, !0), T(n) } }(e), function (e) { function p(t, n, r) { var i = e.Event(n); return e(t).trigger(i, r), !i.isDefaultPrevented() } function d(t, e, n, i) { return t.global ? p(e || r, n, i) : void 0 } function m(t) { t.global && 0 === e.active++ && d(t, null, "ajaxStart") } function g(t) { t.global && !--e.active && d(t, null, "ajaxStop") } function v(t, e) { var n = e.context; return e.beforeSend.call(n, t, e) === !1 || d(e, n, "ajaxBeforeSend", [t, e]) === !1 ? !1 : void d(e, n, "ajaxSend", [t, e]) } function y(t, e, n, r) { var i = n.context, o = "success"; n.success.call(i, t, o, e), r && r.resolveWith(i, [t, o, e]), d(n, i, "ajaxSuccess", [e, n, t]), b(o, e, n) } function x(t, e, n, r, i) { var o = r.context; r.error.call(o, n, e, t), i && i.rejectWith(o, [n, e, t]), d(r, o, "ajaxError", [n, r, t || e]), b(e, n, r) } function b(t, e, n) { var r = n.context; n.complete.call(r, e, t), d(n, r, "ajaxComplete", [e, n]), g(n) } function E(t, e, n) { if (n.dataFilter == j) return t; var r = n.context; return n.dataFilter.call(r, t, e) } function j() { } function w(t) { return t && (t = t.split(";", 2)[0]), t && (t == c ? "html" : t == f ? "json" : a.test(t) ? "script" : u.test(t) && "xml") || "text" } function T(t, e) { return "" == e ? t : (t + "&" + e).replace(/[&?]{1,2}/, "?") } function S(t) { t.processData && t.data && "string" != e.type(t.data) && (t.data = e.param(t.data, t.traditional)), !t.data || t.type && "GET" != t.type.toUpperCase() && "jsonp" != t.dataType || (t.url = T(t.url, t.data), t.data = void 0) } function C(t, n, r, i) { return e.isFunction(n) && (i = r, r = n, n = void 0), e.isFunction(r) || (i = r, r = void 0), { url: t, data: n, success: r, dataType: i } } function O(t, n, r, i) { var o, s = e.isArray(n), a = e.isPlainObject(n); e.each(n, function (n, u) { o = e.type(u), i && (n = r ? i : i + "[" + (a || "object" == o || "array" == o ? n : "") + "]"), !i && s ? t.add(u.name, u.value) : "array" == o || !r && "object" == o ? O(t, u, r, n) : t.add(n, u) }) } var i, o, n = +new Date, r = t.document, s = /<script\b[^<]*(?:(?!<\/script>)<[^<]*)*<\/script>/gi, a = /^(?:text|application)\/javascript/i, u = /^(?:text|application)\/xml/i, f = "application/json", c = "text/html", l = /^\s*$/, h = r.createElement("a"); h.href = t.location.href, e.active = 0, e.ajaxJSONP = function (i, o) { if (!("type" in i)) return e.ajax(i); var c, p, s = i.jsonpCallback, a = (e.isFunction(s) ? s() : s) || "Zepto" + n++, u = r.createElement("script"), f = t[a], l = function (t) { e(u).triggerHandler("error", t || "abort") }, h = { abort: l }; return o && o.promise(h), e(u).on("load error", function (n, r) { clearTimeout(p), e(u).off().remove(), "error" != n.type && c ? y(c[0], h, i, o) : x(null, r || "error", h, i, o), t[a] = f, c && e.isFunction(f) && f(c[0]), f = c = void 0 }), v(h, i) === !1 ? (l("abort"), h) : (t[a] = function () { c = arguments }, u.src = i.url.replace(/\?(.+)=\?/, "?$1=" + a), r.head.appendChild(u), i.timeout > 0 && (p = setTimeout(function () { l("timeout") }, i.timeout)), h) }, e.ajaxSettings = { type: "GET", beforeSend: j, success: j, error: j, complete: j, context: null, global: !0, xhr: function () { return new t.XMLHttpRequest }, accepts: { script: "text/javascript, application/javascript, application/x-javascript", json: f, xml: "application/xml, text/xml", html: c, text: "text/plain" }, crossDomain: !1, timeout: 0, processData: !0, cache: !0, dataFilter: j }, e.ajax = function (n) { var u, f, s = e.extend({}, n || {}), a = e.Deferred && e.Deferred(); for (i in e.ajaxSettings) void 0 === s[i] && (s[i] = e.ajaxSettings[i]); m(s), s.crossDomain || (u = r.createElement("a"), u.href = s.url, u.href = u.href, s.crossDomain = h.protocol + "//" + h.host != u.protocol + "//" + u.host), s.url || (s.url = t.location.toString()), (f = s.url.indexOf("#")) > -1 && (s.url = s.url.slice(0, f)), S(s); var c = s.dataType, p = /\?.+=\?/.test(s.url); if (p && (c = "jsonp"), s.cache !== !1 && (n && n.cache === !0 || "script" != c && "jsonp" != c) || (s.url = T(s.url, "_=" + Date.now())), "jsonp" == c) return p || (s.url = T(s.url, s.jsonp ? s.jsonp + "=?" : s.jsonp === !1 ? "" : "callback=?")), e.ajaxJSONP(s, a); var P, d = s.accepts[c], g = {}, b = function (t, e) { g[t.toLowerCase()] = [t, e] }, C = /^([\w-]+:)\/\//.test(s.url) ? RegExp.$1 : t.location.protocol, N = s.xhr(), O = N.setRequestHeader; if (a && a.promise(N), s.crossDomain || b("X-Requested-With", "XMLHttpRequest"), b("Accept", d || "*/*"), (d = s.mimeType || d) && (d.indexOf(",") > -1 && (d = d.split(",", 2)[0]), N.overrideMimeType && N.overrideMimeType(d)), (s.contentType || s.contentType !== !1 && s.data && "GET" != s.type.toUpperCase()) && b("Content-Type", s.contentType || "application/x-www-form-urlencoded"), s.headers) for (o in s.headers) b(o, s.headers[o]); if (N.setRequestHeader = b, N.onreadystatechange = function () { if (4 == N.readyState) { N.onreadystatechange = j, clearTimeout(P); var t, n = !1; if (N.status >= 200 && N.status < 300 || 304 == N.status || 0 == N.status && "file:" == C) { if (c = c || w(s.mimeType || N.getResponseHeader("content-type")), "arraybuffer" == N.responseType || "blob" == N.responseType) t = N.response; else { t = N.responseText; try { t = E(t, c, s), "script" == c ? (1, eval)(t) : "xml" == c ? t = N.responseXML : "json" == c && (t = l.test(t) ? null : e.parseJSON(t)) } catch (r) { n = r } if (n) return x(n, "parsererror", N, s, a) } y(t, N, s, a) } else x(N.statusText || null, N.status ? "error" : "abort", N, s, a) } }, v(N, s) === !1) return N.abort(), x(null, "abort", N, s, a), N; var A = "async" in s ? s.async : !0; if (N.open(s.type, s.url, A, s.username, s.password), s.xhrFields) for (o in s.xhrFields) N[o] = s.xhrFields[o]; for (o in g) O.apply(N, g[o]); return s.timeout > 0 && (P = setTimeout(function () { N.onreadystatechange = j, N.abort(), x(null, "timeout", N, s, a) }, s.timeout)), N.send(s.data ? s.data : null), N }, e.get = function () { return e.ajax(C.apply(null, arguments)) }, e.post = function () { var t = C.apply(null, arguments); return t.type = "POST", e.ajax(t) }, e.getJSON = function () { var t = C.apply(null, arguments); return t.dataType = "json", e.ajax(t) }, e.fn.load = function (t, n, r) { if (!this.length) return this; var a, i = this, o = t.split(/\s/), u = C(t, n, r), f = u.success; return o.length > 1 && (u.url = o[0], a = o[1]), u.success = function (t) { i.html(a ? e("<div>").html(t.replace(s, "")).find(a) : t), f && f.apply(i, arguments) }, e.ajax(u), this }; var N = encodeURIComponent; e.param = function (t, n) { var r = []; return r.add = function (t, n) { e.isFunction(n) && (n = n()), null == n && (n = ""), this.push(N(t) + "=" + N(n)) }, O(r, t, n), r.join("&").replace(/%20/g, "+") } }(e), function (t) { t.fn.serializeArray = function () { var e, n, r = [], i = function (t) { return t.forEach ? t.forEach(i) : void r.push({ name: e, value: t }) }; return this[0] && t.each(this[0].elements, function (r, o) { n = o.type, e = o.name, e && "fieldset" != o.nodeName.toLowerCase() && !o.disabled && "submit" != n && "reset" != n && "button" != n && "file" != n && ("radio" != n && "checkbox" != n || o.checked) && i(t(o).val()) }), r }, t.fn.serialize = function () { var t = []; return this.serializeArray().forEach(function (e) { t.push(encodeURIComponent(e.name) + "=" + encodeURIComponent(e.value)) }), t.join("&") }, t.fn.submit = function (e) { if (0 in arguments) this.bind("submit", e); else if (this.length) { var n = t.Event("submit"); this.eq(0).trigger(n), n.isDefaultPrevented() || this.get(0).submit() } return this } }(e), function () { try { getComputedStyle(void 0) } catch (e) { var n = getComputedStyle; t.getComputedStyle = function (t, e) { try { return n(t, e) } catch (r) { return null } } } }(), e });
+    </script>
+<script>
+    $(function () {
+        /**
+         * 获取链接中携带的参数
+         * @getParamDecode保护您的个人隐私安全
+         * @name  需要获取的参数的名字
+         */
+        var getParamDecode = function (name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+            var link = window.location.search;
+            var r = decodeURI(link).substr(1).match(reg);
+            // var r = decodeURIComponent(window.location.search).substr(1).match(reg);
+            if (r != null)
+                return decodeURI(r[2]);
+            return null;
+        }
+
+        /**
+         * 获取平台参数
+         * @getPlatform
+         */
+        function getPlatform() {
+            var u = navigator.userAgent;
+            var isAndroid = u.indexOf('Android') > -1 || u.indexOf('Adr') > -1; //android终端
+            var isiOS = !!u.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+            return {
+                isAndroid: isAndroid,
+                isiOS: isiOS
+            }
+        }
+
+        var no_self_text = ['com.sinyee.babybus.read', 'com.sinyee.babybus.read.ios', 'com.sinyee.babybus.voicerecognition', 'com.sinyee.babybus.drawIII', 'com.kid58.tiyong.characters', 'com.kid58.tiyongcharacters', 'com.ailiyong.pinyin', 'com.sinyee.babybus.homeland'];
+        var liyongArr = ['奇妙拼音', , '小豚识字', '妙学识字', '妙学汉字', '贝壳识字']; //学海拾贝
+        var liyong_key_arr = ['com.ailiyong.pinyin', 'com.kid58.tiyong.characters', 'com.kid58.tiyongcharacters']; //学海拾贝包名集合校验
+        var noheadArr = ['奇妙拼音', '贝壳启蒙', '拼音星球'];  //拼音系列不展示头部
+        var nohead_key_arr = ['com.ailiyong.pinyin', 'cn.kidvideo.pyxq'];  //拼音系列不展示头部  
+        var pinying_KEY_ARR = ['com.ailiyong.pinyin', 'com.sinyee.babybus.read.ios', 'com.sinyee.babybus.voicerecognition', 'com.sinyee.babybus.read']; //家长中心文案
+        var appName = getParamDecode('appName') ? getParamDecode('appName') : $("#appname").val();
+        var appPlugin = getParamDecode('appPlugin') ? getParamDecode('appPlugin') : $("#appPlugin").val();
+        var appSdk = getParamDecode('appSdk') ? getParamDecode('appSdk') : $("#appSdk").val();  //app sdk
+        var permissions = getParamDecode('permissions') ? getParamDecode('permissions') : $("#permissions").val();  //app 权限
+        var appId = getParamDecode('appId') ? getParamDecode('appId') : $("#appId").val();
+        var cert_type = getParamDecode('company') ? getParamDecode('company') : $("#company").val(); //打包证书
+        var company_sign = getParamDecode('sign') ? getParamDecode('sign') : $("#sign").val(); //公司主体
+        var company = company_sign ? company_sign : cert_type;
+        var deviceWidth = getParamDecode('width') ? getParamDecode('width') : $("#width").val(); //保证一个设备不论窗口多大都能展示一样的字体
+        var deviceHeight = getParamDecode('height') ? getParamDecode('height') : $("#height").val(); //保证一个设备不论窗口多大都能展示一样的字体          
+        var isModal = getParamDecode('isModal') ? getParamDecode('isModal') : $("#isModal").val(); //判断是模态框还是全屏
+        var channel = getParamDecode('channel') ? getParamDecode('channel') : $("#channel").val();
+        var channel_complete = getParamDecode('channel') ? getParamDecode('channel') : $("#channel").val();
+        channel = channel.split('_')[0]; //渠道做了拓展，类似A001_sousou-01，所以只需要去取A001；
+        var appVersion = getParamDecode('appVersion') ? getParamDecode('appVersion') : $("#appVersion").val();
+        if(appVersion) {
+            appVersion = parseInt(appVersion);   //涂鸦在10000000版本开始后关闭
+        }
+        /**
+         * 页面换算方法-新版本s
+         */
+        function init() {
+            setFont(false);
+            detectOrient();
+            var docEl = document.documentElement,
+                resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+                detect = function () {
+                    detectOrient();
+                };
+
+            if (!document.addEventListener) return;
+            window.addEventListener(resizeEvt, detect, false);
+            document.addEventListener('DOMContentLoaded', detect, false);
+        }
+
+        function detectOrient() {
+            var cw = document.documentElement.clientWidth;
+            var _Width = 0,
+                _Height = 0;
+
+            sw = window.screen.width;
+            sh = window.screen.height;
+            _Width = sw < sh ? sw : sh;
+            _Height = sw >= sh ? sw : sh;     
+
+            if (isModal == '1' || isModal == 1) {
+                if(parseInt(deviceWidth) > parseInt(deviceHeight)) {
+                    // 横屏状态
+                    setFont(false);
+                    return;                        
+                } else {
+                    // 竖屏状态
+                    setFont(true);
+                    return;                        
+                }
+            } else{
+                if (window.orientation === 180 || window.orientation === 0 || (parseInt(deviceWidth) < parseInt(deviceHeight)) || (document.documentElement.clientWidth < window.screen.height)) {
+                    // 竖屏状态
+                    setFont(true);
+                    return;
+                }
+                if (window.orientation === 90 || window.orientation === -90) {
+                    // 横屏状态
+                    setFont(false);
+                    return;
+                }
+            }
+        }
+
+        // @ori boolean 屏幕方向，默认竖屏 true
+        function setFont(ori) {
+            var docEl = document.documentElement;
+            var clientWidth = '';
+            var clientHight = '';
+            if (getPlatform().isAndroid) {
+                clientWidth = (deviceWidth && deviceWidth.indexOf('width') <= -1) ? (deviceWidth / (window.devicePixelRatio)) : docEl.clientWidth;  //采用设备分辨率
+                clientHight = (deviceHeight && deviceHeight.indexOf('height') <= -1) ? (deviceHeight / (window.devicePixelRatio)) : docEl.clientHeight;  //采用设备分辨率
+            } else {
+                clientWidth = (deviceWidth && deviceWidth.indexOf('width') <= -1) ? parseInt(deviceWidth) : docEl.clientWidth;  //采用设备分辨率
+                clientHight = (deviceHeight && deviceHeight.indexOf('height') <= -1) ? parseInt(deviceHeight) : docEl.clientHeight;  //采用设备分辨率
+            }  
+            if (isModal == '1' || isModal == 1) {} else {
+                if (getPlatform().isAndroid) {
+                    // 补丁-避免客户端全屏传过来的宽高出现问题，所以前端自己获取一下
+                    clientWidth = docEl.clientWidth;
+                    clientHight = window.screen.height;
+                }
+            }
+            if (!clientWidth) return;
+
+            //横屏
+            if (!ori || (clientWidth > clientHight)) {
+                if (clientWidth < 1920) {
+                    docEl.style.fontSize = 100 * (clientWidth / 1920) + 'px';
+                } else {
+                    docEl.style.fontSize = '100px';
+                }
+
+            } else {
+                //竖屏
+                $("html").addClass("portrait");
+                if (clientWidth < 1080) {
+                    docEl.style.fontSize = 100 * (clientWidth / 1080) + 'px';
+                } else {
+                    docEl.style.fontSize = '100px';
+                }
+            }
+            if (isModal == '1' || isModal == 1) {
+                // 弹窗
+                if (!ori || (clientWidth > clientHight)) {
+                    // 横屏
+                    if (!ori || (clientWidth > clientHight)) {
+                    var screenRate = clientWidth / clientHight;
+                    var className = screenRate > 2.1 ? 'style-3' : '';
+                    document.body.className = className + ' miniScreen';
+                } else {
+                    document.body.className = 'miniScreen';
+                }
+                }
+            } else {
+                // 全屏
+                if (!ori || (clientWidth > clientHight)) {
+                    var screenRate = clientWidth / clientHight;
+                    var className = screenRate > 2.1 ? 'style-3' : '';
+                    document.body.className = className + ' fullScreen';
+                } else {
+                    document.body.className = 'fullScreen';
+                }
+            }
+        }
+
+        init(); //初始化页面字体
+        $(".appName").html(appName); //显示app名称
+        $(".loading-wrap").addClass("hide");
+        $("body").css("overflow", 'scroll');
+        
+        try {
+            // 获取sdk列表，如果不存在sdk，则判断组件，如果组件也不存在，则不显示sdk表格以及相关文案
+            var appSdkArr = [];
+            if (appSdk && (appSdk != "" && appSdk != undefined && appSdk != null) && appSdk.indexOf("$a") <= -1) {
+                if (appSdk.indexOf('|') > -1) {
+                    appSdkArr = appSdk.split('|');
+                } else {
+                    appSdkArr.push(appSdk);
+                }
+            }
+            var appPluginArr = [];
+            if (appPlugin && (appPlugin != "" && appPlugin != undefined && appPlugin != null) && appPlugin.indexOf("$a") <= -1) {
+                if (appPlugin.indexOf('|') > -1) {
+                    appPluginArr = appPlugin.split('|');
+                } else {
+                    appPluginArr.push(appPlugin);
+                }
+            }
+
+            if(appSdkArr.length != 0) {
+                // 渲染出对应的sdk表格数据
+                for (var i = 0; i < appSdkArr.length; i++) {
+                    var sdk = appSdkArr[i];
+                    if(sdk) {
+                        sdk = sdk.toLowerCase();
+                    }
+                    if(sdk && sdk.indexOf(".") > -1) {
+                        sdk = sdk.replace(new RegExp(".","gm"),"-");
+                    }
+                    if(sdk) {
+                        $('.table-box .sdk_' + sdk).removeClass('hide');
+                    }
+                }
+                $(".table-box-default").addClass("hide");
+                $(".table-box").removeClass("hide");
+            } else if(appPluginArr.length != 0) {
+                for (var i = 0; i < appPluginArr.length; i++) {
+                    var plugin = appPluginArr[i];
+                    plugin = plugin && plugin.toLowerCase();
+                    if(plugin && plugin.indexOf(".") > -1) {
+                        plugin = plugin.replace(new RegExp(".","gm"),"-");
+                    }
+                    if(plugin) {
+                        $('.table-box-default  .' + plugin).removeClass('hide');
+                    }
+                }
+                $(".table-box").addClass("hide");
+                $(".table-box-default").removeClass("hide");
+            } else {
+                $(".has_plugins").addClass("hide");
+            }
+
+            // 渲染权限列表
+            var permissionsArr = [];
+            if (permissions && (permissions != "" && permissions != undefined && permissions != null) && permissions.indexOf("$p") <= -1) {
+                if (permissions.indexOf('|') > -1) {
+                    permissionsArr = permissions.split('|');
+                } else {
+                    permissionsArr.push(permissions);
+                }
+                if(permissionsArr.length != 0) {
+                    for(var p = 0; p < permissionsArr.length; p++) {
+                        var permission = permissionsArr[p];
+                        if(permission.indexOf("RECORD_AUDIO") > -1) {
+                            $(".permission_android_permission_record_audio").removeClass("hide");
+                        }
+                        if(permission.indexOf("CAMERA") > -1) {
+                            $(".permission_android_permission_camera").removeClass("hide");
+                        } 
+                    }
+                }
+            }                 
+        } catch (error) {
+            
+        }   
+        
+        if(appId == 'com.sinyee.babybus.seed' || appId == 'com.sinyee.babybus.tadpole' || appId == 'com.sinyee.babybus.shadow' || appId == 'com.sinyee.babybus.restaurant') {
+            $(".permisssion_body").removeClass("hide");
+        }
+
+        if ((noheadArr.indexOf(appName) > -1) || (nohead_key_arr.indexOf(appId) > -1)) {
+            //使用奇妙拼音不需要标题
+            $(".title").addClass("hide");
+            $(".Growingio").removeClass("hide");
+        }  
+        if ((pinying_KEY_ARR.indexOf(appId) > -1) || (appId == 'com.sinyee.babybus.stroke' && appVersion >= 10000000)) {
+            //使用奇妙拼音不需要标题
+            $(".only-pinyin").html("【进入家长中心-帐号信息-注销帐号入口】");
+        }  
+        
+        if(no_self_text.indexOf(appId) > -1 || (appId == 'com.sinyee.babybus.stroke' && appVersion >= 10000000)) {
+            $(".only-pinyin-persion").removeClass("hide");
+            $(".no-pinyin-persion").addClass("hide");
+        }
+
+        if(channel =='C022' || channel == 'c022' || channel =='C011' || channel =='C021' || channel =='C020' || channel =='C025' || channel_complete =='C001_1' || channel =='C024' || channel =='C026') {
+            $(".main-wrapper a").css("text-decoration", "none");
+            $(".main-wrapper a").removeAttr("href")
+        }
+
+    })
+</script>
+
+
+
+</body></html>

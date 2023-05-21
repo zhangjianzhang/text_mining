@@ -1,0 +1,388 @@
+<html lang="zh" xml:lang="zh"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no"><meta name="color-scheme" content="light dark"><link rel="icon" href="/document/favicon.ico"><link rel="stylesheet" href="//at.alicdn.com/t/font_2741193_ifyz0d9koce.css"><title>腾讯隐私保护平台</title><script src="https://cdn-go.cn/aegis/aegis-sdk/latest/aegis.min.js"></script><script>const whiteList = {
+        'privacy.qq.com': 'aTSihIrSbVFyNktJdS',
+        'privacy.tencent.com': 'aTSihIrSZDFvdcoHua'
+      }
+      const id = whiteList[location.host]
+      
+      if (id) {
+        const aegis = new Aegis({
+          id, // 项目ID，即上报id
+          uin: '', // 用户唯一 ID（可选）
+          reportApiSpeed: true, // 接口测速
+          reportAssetSpeed: true, // 静态资源测速
+          spa: true,
+          ext1: 1,
+          beforeRequest: function (data) {
+            let msg = '';
+            if (data.logs) msg = data.logs.msg;
+
+            const ifFilterLog =
+            data.logType === 'log' &&
+              (msg.includes('Script error') ||
+                msg.includes('Uncaught TypeError') ||
+                msg.includes('ReferenceError') ||
+                msg.includes("SyntaxError: Unexpected token '<'") ||
+                msg.includes('fetch req url: https://') && !msg.includes(location.host));
+
+            if (ifFilterLog) {
+              return false; //  手动过滤掉这几种错误
+            }
+          },
+        });
+      }</script><link href="/document/static/js/chunk-2d216214.8ece6c8e.js" rel="prefetch"><link href="/document/static/js/chunk-dc4aec5a.30ab81bc.js" rel="prefetch"><link href="/document/static/css/chunk-elementUI.fbf8feb5.css" rel="preload" as="style"><link href="/document/static/css/chunk-libs.616508f1.css" rel="preload" as="style"><link href="/document/static/css/index.9ebefd9d.css" rel="preload" as="style"><link href="/document/static/js/chunk-elementUI.4ff5f3b1.js" rel="preload" as="script"><link href="/document/static/js/chunk-html2canvas.59c4e88c.js" rel="preload" as="script"><link href="/document/static/js/chunk-jspdf.53ce4900.js" rel="preload" as="script"><link href="/document/static/js/chunk-libs.02352699.js" rel="preload" as="script"><link href="/document/static/js/index.ab233a8b.js" rel="preload" as="script"><link href="/document/static/css/chunk-elementUI.fbf8feb5.css" rel="stylesheet"><link href="/document/static/css/chunk-libs.616508f1.css" rel="stylesheet"><link href="/document/static/css/index.9ebefd9d.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but 腾讯隐私保护平台 doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"><div data-v-94b38a18="" element-loading-text="下载中" element-loading-spinner="el-icon-loading" class="document-preview"><section data-v-94b38a18="" class="el-container web-container"><aside data-v-94b38a18="" class="el-aside side-bar" style="width: 280px;"><div data-v-94b38a18="" class="title" title="QQ同步助手隐私保护指引
+"> QQ同步助手隐私保护指引
+ </div><div data-v-94b38a18="" title="更新说明" class="list-title active"> 更新说明 </div><div data-v-94b38a18="" title="引言" class="list-title"> 引言 </div><div data-v-94b38a18="" title="一、我们如何收集和使用您的个人信息" class="list-title"> 一、我们如何收集和使用您的个人信息 </div><div data-v-94b38a18="" title="二、我们如何存储和保护您的个人信息" class="list-title"> 二、我们如何存储和保护您的个人信息 </div><div data-v-94b38a18="" title="三、我们如何委托处理、共享、转让、公开披露您的个人信息" class="list-title"> 三、我们如何委托处理、共享、转让、公开披露您的个人信息 </div><div data-v-94b38a18="" title="四、您如何管理您的个人信息" class="list-title"> 四、您如何管理您的个人信息 </div><div data-v-94b38a18="" title="五、未成年人使用我们的服务" class="list-title"> 五、未成年人使用我们的服务 </div><div data-v-94b38a18="" title="六、隐私保护指引的适用范围" class="list-title"> 六、隐私保护指引的适用范围 </div><div data-v-94b38a18="" title="七、修订与更新" class="list-title"> 七、修订与更新 </div><div data-v-94b38a18="" title="八、联系我们" class="list-title"> 八、联系我们 </div><div data-v-94b38a18="" title="历史版本" class="list-title"> 历史版本 </div></aside><section data-v-94b38a18="" class="el-container"><main data-v-94b38a18="" class="el-main main"><div data-v-94b38a18="" style="display: flex; font-weight: 600; font-size: 0.8rem;"><span data-v-94b38a18="" style="margin-left: auto; margin-right: 0px;"> 更新日期：2022-09-22 </span><span data-v-94b38a18="" style="margin-left: 2rem; margin-right: 0.5rem;"> 生效日期：2022-09-29 </span><span data-v-94b38a18="" class="download-btn"><span data-v-94b38a18="" class="iconfont privacy-xiazai"></span> 下载 </span></div><div data-v-94b38a18="" class="header"></div><div data-v-94b38a18="" id="pc-document-box" class="content-area"><div data-v-94b38a18="" id="pc-document"><!----><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 更新说明 </h1><div data-v-94b38a18=""><p>感谢您使用<strong>QQ同步助手&nbsp;</strong>。我们对《QQ同步助手隐私保护指引》进行了如下更新：</p>
+<p><strong>1、调整并优化了我们收集使用的信息，在第一部分1、我们如何收集和使用中，我们在1.17中向您细化说明收集应用运行中的进程信息，在1.18中向您解释说明了我们获取SD卡数据的逻辑。</strong></p>
+<p>为了更好的保护您的相关权利，建议您仔细阅读更新后的隐私保护指引，如果您对本隐私保护内容有任何疑问和建议，您可以通过本隐私保护指引中“联系我们”中公布的联系方式与我们联系。</p>
+<p>&nbsp;</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 引言 </h1><div data-v-94b38a18=""><p class="ql-align-justify"><span style="color: black;">欢迎您使用QQ同步助手！</span><strong style="color: black;">QQ同步助手</strong><span style="color: black;">是由</span><strong style="color: black;">深圳市腾讯计算机系统有限公司</strong><span style="color: black;">（以下简称“我们”）提供的服务，我们的注册地为</span><strong style="color: black;">深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层。</strong></p>
+<p class="ql-align-justify"><span style="color: black;">我们将通过《QQ同步助手隐私保护指引》帮助您了解我们收集、使用、存储和共享个人信息的情况，以及您所享有的相关权利。</span></p>
+<p class="ql-align-justify"><span style="color: windowtext;">&nbsp;</span></p>
+<p class="ql-align-justify"><span style="color: black;">腾讯重视用户的隐私。您在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过本《QQ同步助手隐私保护指引》向您说明，在使用我们的服务时，我们如何收集、使用、储存和分享这些信息，以及我们为您提供的访问、更新、控制和保护这些信息的方式。本指引与您所使用的腾讯服务息息相关，希望您仔细阅读，在需要时，按照本指引，作出您认为适当的选择。</span></p>
+<p class="ql-align-justify"><span style="color: black;">您使用或继续使用我们的服务，即意味着同意我们按照本《QQ同步助手隐私保护指引》收集、使用、储存和分享您的相关信息。</span></p>
+<p class="ql-align-justify"><span style="color: black;"><strong>如您希望快速了解本内容，您可以将通过<a href="https://privacy.qq.com/document/preview/a04d96d936914f33b4468f923fa7a967">《QQ同步助手隐私保护指引摘要》</a>简单、直观地说明我们是如何处理和保护您的个人信息。更多有关我们对您的个人信息的处理规则，请查阅如下完整版信息。</strong></span></p>
+<p class="ql-align-justify"><span style="color: black;">本隐私保护指引将帮助您了解</span>：</p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">一、我们如何收集和使用个人信息</p>
+<p class="ql-align-justify">二、我们如何存储和保护您的个人信息</p>
+<p class="ql-align-justify">三、我们如何委托处理、共享、转让、公开披露您的个人信息</p>
+<p class="ql-align-justify">四、您如何管理您的个人信息</p>
+<p class="ql-align-justify">五、未成年人使用我们的服务</p>
+<p class="ql-align-justify">六、隐私保护指引的使用范围</p>
+<p class="ql-align-justify">七、修订与更新</p>
+<p class="ql-align-justify">八、联系我们</p>
+<p>&nbsp;</p>
+<blockquote>
+<p class="ql-align-center"><a href="https://privacy.qq.com/document/preview/436ec92895d04079b29ef7284e78f7f0"><div style="display: inline-block; background: url(&quot;https://images-75651.picgzc.qpic.cn/9aPzOpIzpPxI4lmeRmGY6MQpSFUiskRi?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dd55ad54f7a038b521a1f743a5b7ab922ff9f5b4d&quot;) center center / contain no-repeat; width: 85px; height: 85px;"></div><div style="display: inline-block; background: url(&quot;https://images-75651.picgzc.qpic.cn/jVcROnqQXR5V4IH74cU9F6dYUdQSaXvN?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D5b9c8fd7a6f75444b7e30716d6420f3047360ba6&quot;) center center / contain no-repeat; width: 64px; height: 2px;"></div></a><a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab"><div style="display: inline-block; background: url(&quot;https://images-75651.picgzc.qpic.cn/sM7LQ2L5xoI0zUtTvZilUUutw-7eocOI?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D63b063d97e6ad830813ed17989da5db27a05f733&quot;) center center / contain no-repeat; width: 85px; height: 85px;"></div></a></p>
+</blockquote>
+<p class="ql-align-center"><a class="ql-size-small" href="https://privacy.qq.com/document/preview/436ec92895d04079b29ef7284e78f7f0" target="_blank" rel="noopener">我们收集使用的信息</a><span class="ql-size-small"><div style="display: inline-block; background: url(&quot;https://images-75651.picgzc.qpic.cn/bL3Kbw6BSPazS5Xbt4VlAJYcRAsFROa4?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D24581513643944a27feb9e9e1ebbb5d5e50b0bb5&quot;) center center / contain no-repeat; width: 46px; height: 3px;"></div></span><a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab">我们共享的信息<div style="display: inline-block; background: url(&quot;https://images-75651.picgzc.qpic.cn/MkIQNTo00qbuWFv77tkc4sEsYhYHlqkD?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390714%3B1632397914%26q-key-time%3D1632390714%3B1632397914%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D68b47b7b7d57af177d2622e43ea4c26a45b12a92&quot;) center center / contain no-repeat; width: 7px; height: 2px;"></div></a></p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 一、我们如何收集和使用您的个人信息 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、我们如何收集和使用您的个人信息</h3>
+<p class="ql-align-justify">在您使用QQ同步助手服务的过程中，为了使您能使用相应的功能或服务，我们会按照如下方式收集和使用您在使用服务时主动提供的或因为使用服务而产生的信息。</p>
+<p class="ql-align-justify">1.1&nbsp;&nbsp;当您注册登录我们的服务时，我们会收集您的<strong>手机号码/微信 Openid/QQ Openid、头像、昵称</strong>，以为您提供帐号相关服务。</p>
+<p class="ql-align-justify">1.2&nbsp;&nbsp;当您使用文件备份功能，备份您设备中资料（照片、音频、视频、文件），我们将获取您<strong>照片、视频、音频及文件的具体信息（存储目录、大小、时间、文件名）</strong>。当您需要使用文件搜索功能时，我们将收集您的<strong>查询记录信息</strong>，以便我们为您提供快捷的查询文件服务。</p>
+<p class="ql-align-justify">1.3 &nbsp;当您使用短信、通讯录、通话记录备份与恢复功能时，为实现备份功能并保障顺利运行，我们将获取您的<strong>短信权限、通讯录权限、通话记录权限</strong>，以收集您的<strong><span style="text-decoration: underline;"><em>短信信息、通讯录信息、通话记录信息</em></span></strong>，包括曾<span style="text-decoration: underline;"><em><strong>通讯账号、手机号码、通话时间、短信内容</strong></em></span>。具体授权的权限和收集的信息以您使用的功能和需要备份的为准，我们将根据您具体使用的功能收集提供相应功能所必要的信息。<br>请您知悉，当您使用搭载MIUI系统的设备时，基于MIUI系统要求，您还需要授权我们读取您在通讯录权限下的<strong>APP帐号权限</strong>，用以判断您是否有小米帐号，以提供针对机型适配不同的同步服务（如搭载MIUI系统的设备下，我们无法提供高级同步、时光机、重复联系人、清空通讯录、清理失效号码、回收站功能）。<br>当您使用备份通讯录、回收站、时光机功能时，我们将会在操作记录内记录您的备份通讯录、回收站、时光机的<strong>历史操作记录</strong>，以便我们为您提供可查看和删除备份、恢复通讯录记录以及时光机恢复成功和失败记录、回收站删除成功和失败记录。&nbsp;</p>
+<p class="ql-align-justify">1.4&nbsp;&nbsp;当您使用软件备份功能以备份您设备中的已安装应用列表，我们将收集您的<strong>手机型号、已安装应用列表</strong>，同时如您使用相关软件恢复功能，我们将获取您的<strong>存储权限</strong>以提供相关服务。相关软件备份及升级场景中，包括<strong>软件备份、恢复、推荐、显示待恢复软件数量、扫描可备份安装包、扫描可升级软件</strong>，在您触发实际功能时，为保证障您设备中已安装应用列表的准确性，我们将会在合理必要范围内收集您的已安装应用列表。在此场景下，当我们获取已安装列表信息，此信息将用于初始化同步的<strong>软件备份、软件恢复及升级通知</strong>功能时，通过已安装软件，帮助更准确恢复已备份软件，避免重复下发本地已有软件。</p>
+<p class="ql-align-justify">1.5&nbsp;当您使用垃圾清理功能时，用于清理设备上的文件、图片、缓存、视频，我们会收集您的<strong>SD卡媒体信息（手机型号、已安装应用列表、文件、照片信息、视频信息）</strong>，以对相关信息进行清理、使您的手机运行更流畅。在此场景下，我们将获取已安装应用列表信息，此信息将用于清理手机软件安装包时，判断哪些安装包是已使用过可以清理掉的，达成为您的手机瘦身效果。同时如您在清理软件包时需要卸载相关软件，我们将申请您的<strong>应用使用情况访问权限，以获取您的应用使用记录</strong>，帮助您完成卸载。</p>
+<p class="ql-align-justify">1.6 当您使用生日提醒功能添加提醒对象时，我们将通过您手动添加和读取通讯录内的信息方式，记录下你所添加的<strong>所有生日提醒名称及具体的生日记录</strong>，以便我们为您提供更便捷查看的生日提醒记录。</p>
+<p class="ql-align-justify">1.7 如果您对我们的服务有任何反馈、批评或建议时，您可反馈您的意见，此时您需要填写您的<strong>反馈内容（内容、图片）</strong>。同时为及时排查并响应您的反馈，我们将收集您的<strong>手机机型、系统版本、GUID、应用ID、应用版本号、您的联系方式（手机号码/微信/QQ）并记录下您的反馈记录</strong>，以帮助您快速解决问题。</p>
+<p class="ql-align-justify">1.8 当您使用领取游戏礼包功能时，您需要输入您的游戏账号信息，我们将收集您的<strong>已安装应用列表、游戏账号信息</strong>，以匹配您的已安装游戏应用并用于向您的账号发放游戏礼包。</p>
+<p class="ql-align-justify">1.9 当您需要使用设置账号安全、设置代接手机号码时，我们将收集您的<strong>手机号码信息</strong>，为您绑定及更换手机号码。</p>
+<p class="ql-align-justify">1.10 当您使用会员购买功能时，我们将收集您的会员购买记录，以记录并为您提供会员服务，我们将在产品页面为您提供可查看<strong>近3个月的会员购买记录</strong>。</p>
+<p class="ql-align-justify">1.11 当您需要使用管理手机功能时，我们将收集您的<strong>手机型号、存储空间信息，</strong>以便我们为您提供查看存储内容信息以及手机垃圾清理服务。</p>
+<p class="ql-align-justify">1.12 当您使用通讯录收集功能时，我们将会记录下您所创建<strong>号码集群</strong>并通过微信分享收集到的<strong>号码记录</strong>，以便我们为您提供更便捷查看的通讯录收集记录</p>
+<p class="ql-align-justify">1.13在您使用支付功能时，我们将收集您的<strong>QQ或微信Openid</strong>以记录您在支付、发货等虚拟交易过程中的唯一标识，同时为保障运营安全，我们将收集您的<strong>设备信息（包括设备ID、设备型号、系统版本、是否安装微信或QQ</strong>），用以设备特性进行页面展示的兼容性适配，同时在风控场景下判断您的账号是否存在安全；同时我们也将收集您的<strong>订阅记录</strong>，用以记录您的虚拟资产，并根据该记录为您提供购买服务的履约。&nbsp;</p>
+<p class="ql-align-justify">1.14当您需要使用共享空间功能添加共享成员时，我们将会收集共享成员的<strong>微信头像、昵称</strong>，以便为您提供更便捷的当前共享空间内的共享成员的信息；同时我们将会收集您的<strong>存储权限</strong>，为您提供上传、下载共享空间的文件（包含图片视频、文档、安装包）。当您需要使用共享文件搜索功能时，我们将收集您的<strong>查询记录信息</strong>，以便我们为您提供快捷的查询共享文件服务。&nbsp;&nbsp;</p>
+<p class="ql-align-justify"><strong>1.15自启动说明</strong></p>
+<p class="ql-align-justify"><strong>为了及时保护您的数据安全、防止数据丢失，QQ同步助手可能根据数据环境的变化，启动安全保护服务，如为防止数据丢失中备份与清理功能、来电接听助理功能及软件更新等安全防护功能。受不同系统限制，上述功能可能需要您开启自启权限，您可以“我的-设置-权限管理”中管理自启权限。具体以您使用系统为准。</strong>&nbsp;</p>
+<p class="ql-align-justify"><strong>1.16您提供的信息</strong></p>
+<p class="ql-align-justify">·&nbsp;您在注册帐户或使用我们的服务（下载您的个人信息）时，向我们提供的相关个人信息，含<strong>电话号码、电子邮件</strong>； 当你需要下载您的个人信息时，我们将会收集您的下载个人信息记录（包括申请时间、接收邮箱、文件格式、文件内容、预计发送时间），您可前往“我的-设置-隐私设置-个人信息下载”进行查看。&nbsp;</p>
+<p class="ql-align-justify">·&nbsp;您通过我们的服务向其他方提供的<strong>共享信息</strong>，以及您使用我们的服务时所<strong>储存的信息</strong>。</p>
+<p class="ql-align-justify">·&nbsp;其他方分享的您的信息</p>
+<p class="ql-align-justify">·&nbsp;其他方使用我们的服务时所提供有关您的共享信息。</p>
+<p class="ql-align-justify">1.17 您使用服务时，为保障您正常使用我们的服务，维护我们服务正常运行，改进及优化您的服务体验以及保障您的账号，我们会收集如下信息：</p>
+<p class="ql-align-justify"><strong>· 日志信息</strong>，包括：&nbsp;</p>
+<p class="ql-align-justify"><strong>设备或软件信息：</strong>您的<strong>移动设备信息和设备识别码（Android ID）信息、手机型号、设备厂商；</strong></p>
+<p class="ql-align-justify"><strong>·已安装应用列表 </strong>，指您使用我们软件相关功能时，收集的<strong>软件信息</strong>，主要用于：帮助您恢复已备份软件时，避免重复下发本地已有软件。</p>
+<p class="ql-align-justify">·&nbsp;<strong>mac地址信息</strong>，指您使用我们服务时，我们收集设备中的<strong>mac地址信息</strong>，主要用于：定位异常网络请求，确保网络服务稳定与安全。</p>
+<p class="ql-align-justify">·&nbsp;<strong>剪切板信息</strong>，为完成信息的复制操作，我们需要使用剪贴板能力以帮助您快速复制所需信息。当您使用扫描登录的复制网址功能及复制版本信息时，我们会调用剪贴板能力，用于为您提供复制网址服务、复制版本信息功能。如您拒绝授权，您将无法复制当前信息，但不会影响您使用其他功能。</p>
+<p class="ql-align-justify"><strong>·&nbsp;应用信息</strong>：为判断应用运行情况（判断当前进程是否为APP主进程及根据进程情况决定补丁合成和加载过程的逻辑），以及执行重启操作时用来终止应用的所有进程，以保障运营质量及效率，我们会收集<strong>应用运行中的进程信息</strong>。&nbsp;</p>
+<p class="ql-align-justify"><strong>1.18 SD卡数据获取说明</strong>：在文件备份与恢复、手机清理、格式转换、智能整理、文件共享、软件恢复、下载、联系人导入导出、照片（视频）展示、上传共享场景中，我们需要向您申请<strong>存储权限</strong>，通过<strong>写入SD卡数据或者读取SD卡数据获取SD卡数据</strong>。如您需要进一步了解获取情况，您可至1、我们如何收集和使用您的个人信息具体使用场景查看，我们将根据您实际触发的功能场景收集和使用您的SD卡数据信息。&nbsp; &nbsp;</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、我们可能如何使用信息</h3>
+<p class="ql-align-justify">&nbsp;·我们可能将在向您提供服务的过程之中所收集的信息用作下列用途：&nbsp;</p>
+<p class="ql-align-justify">&nbsp;2.1 向您提供服务；&nbsp;</p>
+<p class="ql-align-justify">&nbsp;·&nbsp;在我们提供服务时，向您提供各类备份功能，并确保我们向您提供的产品和服务的安全性；&nbsp;&nbsp;</p>
+<p class="ql-align-justify">2.2 让您参与有关我们产品和服务的调查。&nbsp;&nbsp;</p>
+<p class="ql-align-justify">2.3&nbsp;&nbsp;邮件和信息推送</p>
+<p class="ql-align-justify">您在使用我们的服务时，<strong>我们可能使用您的信息向您发送电子邮件、新闻或推送通知</strong>。</p>
+<p class="ql-align-justify">2.4 与服务有关的公告</p>
+<p class="ql-align-justify">我们可能在必要时（例如因系统维护而暂停某一项服务时）向您发出与服务有关的公告。您可能无法取消这些与服务有关、性质不属于推广的公告。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>3、自动化决策</h3>
+<p>自动化决策，是指通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好或者经济、健康、信用状况等，并进行决策的活动。</p>
+<p>为了实现软件内容展示、优化展示、了解产品对不同硬件的适配情况、完成不同广告的推荐策略、统计产品的运营数据的功能，我们会收集您的<strong>历史软件下载记录，设备标识符（OAID），广告数据如曝光、点击数据等，设备信息如系统语言、屏幕高宽、屏幕方向等信息。</strong></p>
+<p>具体个性化推荐的机制如下：本服务会使用基于您的数据来创建用户组别，即将特征相似的人群分组，并针对这些组别推荐定向软件分发内容。</p>
+<p>您的信息用于决定将您分配到哪个细分组别，以及相应地，会看到哪些推荐信息。我们可能使用上述信息在本产品中向您提供您可能感兴趣的广告，评估、改善我们的广告投放和其他促销及推广活动、商业分析的效果。</p>
+<p>具体个性化推荐的内容展示模块如下：在<strong>【初始化同步】过程的“必备软件推荐”、“闪屏”模块</strong>将会呈现个性化推荐广告。</p>
+<p><span style="color: #000000;">当您使用创新广告交互功能（如摇动、扭动、扭转设备）时，我们会调用设备的<strong>陀螺仪、加速度、重力传感器</strong>以识别判断您的设备状态。请您理解，单独的设备传感器数据不涉及任何个人位置信息且无法与其他信息结合用于识别特定自然人的身份。</span></p>
+<p>当您主动复制广告落地页上的链接等内容时，我们会访问设备<strong>剪切板</strong>能力，从而便于分享链接等功能的实现</p>
+<p>您可通过<strong>【“我的”页面-右上角设置按钮-隐私设置-个性化广告推荐设置】</strong>来关闭个性化推荐，关闭后我们在上述模块将不会给您推荐个性化广告，关闭个性化推荐并不会影响您其他功能的正常使用，您可以根据自身的喜好和判断随时决定开启或关闭该功能。如您对我们的自动化决策有疑问，您可通过“联系我们”章节中提到的联系方式向我们反馈。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、收集、使用您的个人信息征得授权同意的例外</h3>
+<p class="ql-align-justify">另外，根据法律法规的规定，以下是征得用户同意的例外情形：</p>
+<p class="ql-align-justify">1) &nbsp; &nbsp; &nbsp; 为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2) &nbsp; &nbsp; &nbsp; 为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3) &nbsp; &nbsp; &nbsp; 为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;&nbsp;</p>
+<p class="ql-align-justify">4) &nbsp; &nbsp; &nbsp; 为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;&nbsp;</p>
+<p class="ql-align-justify">5) &nbsp; &nbsp; &nbsp; 依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;&nbsp;</p>
+<p class="ql-align-justify">6) &nbsp; &nbsp; &nbsp; 法律行政法规规定的其他情形。&nbsp;</p>
+<p class="ql-align-justify">特别提示:&nbsp;如我们收集的信息无法单独或结合其他信息识别到终端用户的个人身份,&nbsp;其不属于法律意义上的个人信息。</p>
+<p class="ql-align-justify">请您理解，我们向您提供的功能和服务是不断更新和发展的，如果某一功能或服务未在前述说明中且收集了您的信息，我们会通过页面提示、交互流程、网站公告等方式另行向您说明信息收集的内容、范围和目的，以征得您的同意。</p>
+<p class="ql-align-justify">请您注意，目前我们不会主动从我们以外的第三方获取您的个人信息。如未来为业务发展需要从第三方间接获取您的个人信息，我们会在获取前向您告知个人信息的来源、类型及使用范围，如我们开展业务需进行的个人信息处理活动超出您原本向第三方提供个人信息时的授权同意范围，我们将在处理您该等个人信息前征得您的授权同意；此外，我们也将会严格遵守相关法律法规的规定，并要求第三方保障其提供的信息的合法性。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、设备权限调用</h3>
+<p class="ql-align-justify">为确保我们的功能和服务能正常实现，我们需要根据上述收集使用信息的具体场景调用对应的必要权限，并在调用前向您弹窗询问。其中的敏感权限例如<strong>通讯录权限、相机权限、存储权限、短信权限、通讯录权限、通话记录权限</strong>均不会默认开启，只有在你明确同意后才会向我们授权，且请您知悉，我们获得具体某一项敏感权限并不代表我们必然会收集你的相关信息；即使我们已经获得敏感权限，也仅在必要时、根据本指引来收集你的相关信息。具体的敏感权限调用说明请见<a href="https://privacy.qq.com/document/preview/2938bbb9120149c78f1fe0a595a259a4" target="_blank" rel="noopener noreferrer">“QQ同步助手权限调用表”</a>。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 二、我们如何存储和保护您的个人信息 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、信息的存储</h3>
+<p class="ql-align-justify"><span style="color: #666666;">一般情况下，我们只会在为实现服务目的所必需的时间内或法律法规规定的条件下存储您的个人信息。</span>请您注意，如您选择注销您的账户，我们会删除您的信息或对其进行匿名化处理，但相关法律法规规定必须在一定期间内留存的信息除外。对于上述必须留存的信息，我们会在法律法规规定的留存期间到期后删除或进行匿名化处理。</p>
+<p class="ql-align-justify">我们会按照法律法规规定，将<strong>境内收集的用户个人信息存储于中国境内</strong>。目前我们不会跨境传输或存储您的个人信息。将来如需跨境传输或存储的，我们会向您告知信息出境的目的、接收方、安全保证措施和安全风险，并征得您的同意。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、安全保护措施</h3>
+<p class="ql-align-justify">我们努力为用户的信息安全提供保障，以防止信息的泄露、丢失、不当使用、未经授权访问和披露等。我们使用多方位的安全保护措施，以确保用户的个人信息保护处于合理的安全水平，包括技术保护手段、管理制度控制、安全体系保障等诸多方面。</p>
+<p class="ql-align-justify">我们采用业界领先的技术保护措施。我们使用的技术手段包括但不限于防火墙、加密（例如SSL）、去标识化或匿名化处理、访问控制措施等。此外，我们还会不断加强安装在您设备端的软件的安全能力。例如，我们会在您的设备本地完成部分信息加密工作，以巩固安全传输；我们会了解您设备已安装应用列表和运行的进程信息，以预防病毒、木马等恶意程序。</p>
+<p class="ql-align-justify">我们建立了保障个人信息安全专门的管理制度、流程和组织。例如，我们严格限制访问信息的人员范围，要求他们遵守保密义务并进行审计，违反义务的人员会根据规定进行处罚。我们也会审查该管理制度、流程和组织，以防未经授权的人员擅自访问、使用或披露用户的信息。</p>
+<p class="ql-align-justify">我们建议您在使用产品和服务时充分注意对个人信息的保护，我们也会提供多种安全功能来协助您保护自己的个人信息安全。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>3、安全事件处置措施</h3>
+<p class="ql-align-justify">若发生个人信息泄露、损毁、丢失等安全事件，我们会启动应急预案，阻止安全事件扩大。安全事件发生后，我们会及时以推送通知、邮件等形式告知您安全事件的基本情况、我们即将或已经采取的处置措施和补救措施，以及我们对您的应对建议。如果难以实现逐一告知，我们将通过公告等方式发布警示。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、产品或服务停止运营时的通知</h3>
+<p class="ql-align-justify">当我们的产品或服务发生停止运营的情况时，我们将以推送通知、公告等形式通知您，并在合理期限内删除您的个人信息或进行匿名化处理，法律法规另有规定的除外。</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 三、我们如何委托处理、共享、转让、公开披露您的个人信息 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、委托处理</h3>
+<p class="ql-align-justify">当我们存在委托处理时，对我们委托处理个人信息的公司、组织和个人，我们会与其签署严格的保密协议，要求他们按照我们的要求、本隐私保护指引以及其他任何相关的保密和安全措施来处理个人信息。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、共享</h3>
+<p class="ql-align-justify">为保障QQ同步助手相关功能的实现与应用安全稳定的运行，我们可能会接入由第三方提供的服务（含软件开发包，SDK）实现相关目的。我们会对合作方获取信息的软件工具开发包（SDK）进行严格的安全监测，以保护数据安全。</p>
+<p class="ql-align-justify">我们向第三方共享个人信息的情况（含接入SDK的情况）详见<a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab" target="_blank" rel="noopener noreferrer">QQ同步助手第三方信息共享清单&nbsp;</a>&nbsp;&nbsp;。</p>
+<p class="ql-align-justify">除以上情形外，未经您同意，我们不会与任何第三方分享您的个人信息。如我们与任何上述第三方分享您的个人信息，我们将努力确保该等第三方在使用您的个人信息时遵守本隐私保护指引及我们要求其遵守的其他适当的保密和安全措施。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3 class="ql-align-justify">3、转让</h3>
+<p class="ql-align-justify">随着我们业务的持续发展，我们以及我们的关联公司有可能进行合并、收购、资产转让或类似的交易，您的个人信息有可能作为此类交易的一部分而被转移。我们将在转移前通知您。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3 class="ql-align-justify">4、公开披露</h3>
+<p class="ql-align-justify">我们不会对外公开披露所收集的个人信息，如必须公开披露时，我们会向您告知此次公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意。当我们展示您的个人信息时，我们会采用包括内容替换、匿名处理方式对您的信息进行脱敏，以保护您的信息安全。 &nbsp;</p>
+<p class="ql-align-justify">随着我们业务的持续发展，我们有可能进行合并、收购、资产转让等交易，我们将告知您相关情形，按照法律法规及不低于本隐私保护指引所要求的标准继续保护或要求新的处理者继续保护您的个人信息。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、共享、转让、公开披露个人信息实现征得授权同意的例外</h3>
+<p class="ql-align-justify">另外，根据相关法律法规及国家标准，以下情形中，我们可能会共享、转让、公开披露个人信息无需事先征得您的授权同意：</p>
+<p class="ql-align-justify">1）为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2）为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3）为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;&nbsp;</p>
+<p class="ql-align-justify">4）为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;&nbsp;</p>
+<p class="ql-align-justify">5）依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;&nbsp;</p>
+<p class="ql-align-justify">6）法律行政法规规定的其他情形。&nbsp;</p>
+<p class="ql-align-justify">特别提示:&nbsp;如我们收集的信息无法单独或结合其他信息识别到终端用户的个人身份,&nbsp;其不属于法律意义上的个人信息。</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 四、您如何管理您的个人信息 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">我们非常重视您对个人信息的管理，并尽全力保障您个人信息的访问、更正、删除、撤回同意授权、账号注销等相关权利，便于您便捷、安心地管理您的个人信息。请注意，不同操作系统、QQ同步助手软件的不同版本之间，操作设置可能存在差异；此外，为了优化您的使用体验，我们也可能对操作设置进行调整，故如下指引仅供参考，具体操作以您实际产品操作页面为准。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>1、个人信息查询与管理</h3>
+<p class="ql-align-justify">您可以在我们的产品中通过“隐私设置-个人信息查询与管理”查询和管理您的个人信息：</p>
+<p class="ql-align-justify"><strong>1.1 查看您的个人账户相关信息，如账号资料（如昵称、关联的第三方账号）；</strong></p>
+<p class="ql-align-justify"><strong>1.2 查看您的设备相关信息，如Android ID、GUID、手机型号、系统名称、系统版本；</strong></p>
+<p class="ql-align-justify"><strong>1.3&nbsp;当您希望删除您的个人游戏账号信息授权，您可以在设置-隐私设置-游戏数据内，针对每个游戏进行个人游戏账号信息授权的删除。</strong></p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">如果您无法通过上述路径查询、更正、删除或管理您的个人信息，您可以随时发送电子邮件至Dataprivacy@tencent.com联系我们。我们将自接到您的请求起十五日内回复您的请求。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、<strong>个人信息下载</strong></h3>
+<p class="ql-align-justify">您可以在我们的产品中通过<strong>“我的”页面-右上角设置按钮-隐私设置-个人信息下载-申请个人信息下载</strong>，申请下载您的个人信息，在收到您的申请后，我们将在十五日内，通过邮件将您的相关个人信息发送给您。</p>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>3、改变或撤回您授权同意的范围</h3>
+<p class="ql-align-justify">3.1 改变或撤回敏感权限设置：请在<strong>我的-设置-权限管理</strong>进行操作</p>
+<p class="ql-align-justify">3.2 改变或撤回个性化推荐：请在<strong>我的-设置-隐私设置-个性化广告推荐设置</strong>进行关闭</p>
+<p class="ql-align-justify">如果您无法通过上述路径管理您的个人信息，您可以随时发送电子邮件至Dataprivacy@tencent.com联系我们。我们将在自接到您的请求起十五日内回复您的请求。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、注销您的账号</h3>
+<p class="ql-align-justify">您有权注销您的QQ同步助手账号，您可以在我们的产品中申请注销您的账号，您可进入QQ同步助手-我的-设置-关于-账号注销，进行注销申请。</p>
+<p class="ql-align-justify"><strong>请您知悉，QQ同步助手账号一旦注销完成，将无法恢复，请您谨慎操作且您应自行备份QQ同步助手账号信息和数据。在进行注销操作之前，请确保与QQ同步助手账号相关的服务均已妥善处理。</strong></p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、响应您的上述请求</h3>
+<p class="ql-align-justify">如果您无法通过上述途径和方式行使您的个人信息主体权利，您可以通过本指引中提供的联系方式提出您的请求，我们会按照法律法规的规定予以反馈。为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。另请您知悉，在以下情形中，我们将无法响应您的请求:</p>
+<p class="ql-align-justify">1）为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2）为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3）为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;</p>
+<p class="ql-align-justify">4）为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;</p>
+<p class="ql-align-justify">5）&nbsp;依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;</p>
+<p class="ql-align-justify">6）法律行政法规规定的其他情形。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 五、未成年人使用我们的服务 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">我们非常重视对未成年人个人信息的保护。我们会根据相关法律法规的规定，要求不满十八周岁的未成年人（即儿童）在使用QQ同步助手的服务或向我们提供个人信息前，应当事先取得自己的监护人（比如自己的父母）的授权同意；</p>
+<p class="ql-align-justify">我们仅在法律法规允许、未成年人的监护人明确同意或者有必要保护未成年人的情况下使用、对外提供或公开披露该信息。</p>
+<p class="ql-align-justify">我们的产品、服务主要面向成年人。若您是十四周岁以下的未成年人，我们还专门为您制定了<a href="https://privacy.qq.com/document/preview/058da1a2b5ed44468b8272ae5df4502b" target="_blank" rel="noopener noreferrer">《QQ同步助手儿童隐私保护声明》</a>，儿童及其监护人在为使用我们产品或服务时，还应仔细阅读《QQ同步助手儿童隐私保护声明》。只有在取得监护人对《QQ同步助手儿童隐私保护声明》的同意后，十四周岁以下的儿童方可使用我们的服务。</p>
+<p class="ql-align-justify">若您是未成年人的监护人，请您关注您监护的未成年人是否是在取得您的授权同意之后使用QQ同步助手的服务。如果您对您所监护的未成年人的个人信息有疑问，请通过本指引中的联系方式与我们联系。</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 六、隐私保护指引的适用范围 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">腾讯<u>&nbsp;</u><a href="https://privacy.qq.com/" target="_blank" rel="noopener noreferrer"><u>《腾讯隐私政策》</u></a>是我们统一适用的一般性隐私条款，其中所规定的用户权利及信息安全保障措施均适用于QQ同步助手用户。如腾讯<u>&nbsp;</u><a href="https://privacy.qq.com/" target="_blank" rel="noopener noreferrer"><u>《腾讯隐私政策》</u></a>与本指引存在不一致或矛盾之处，请以本指引为准。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 七、修订与更新 </h1><div data-v-94b38a18=""><h1 class="ql-align-justify"><br></h1><p class="ql-align-justify">我们可能会适时对本隐私保护指引进行修订。当隐私保护指引的条款发生变更时，我们会在版本更新时以适当的方式向您提示变更后的隐私保护指引，并向您说明生效日期。请您仔细阅读变更后的隐私保护指引内容，您继续使用QQ同步助手表示您同意我们按照更新后的隐私保护指引处理您的个人信息。</p><p class="ql-align-justify"><br></p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold;"> 八、联系我们 </h1><div data-v-94b38a18=""><p class="ql-align-justify">我们设立了专门的个人信息保护团队和个人信息保护负责人，如果您对本隐私政策或个人信息保护相关事宜有任何疑问或投诉、建议时，您可以通过以下方式与我们联系：</p>
+<p class="ql-align-justify">1.&nbsp;&nbsp;将问题发送至Dataprivacy@tencent.com；</p>
+<p class="ql-align-justify">2. 通过 https://kf.qq.com/ 与我们联系；</p>
+<p class="ql-align-justify">3. 将您的问题邮寄至下列地址：</p>
+<p class="ql-align-justify">中国广东省深圳市南山区海天二路33号腾讯滨海大厦 数据隐私保护部（收）</p>
+<p class="ql-align-justify">邮编：518054</p>
+<p class="ql-align-justify">我们将尽快审核所涉问题，并在十五日或法律法规规定的期限内予以反馈。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18="" class="ql-editor content-display"><h1 data-v-94b38a18="" style="margin-bottom: 20px; font-weight: bold; margin-top: 50px;"> 历史版本 </h1><div data-v-5927abc0="" data-v-94b38a18="" list="[object Object]"><div data-v-5927abc0="" class="history-item"><div data-v-5927abc0="" class="item-wrapper"><div data-v-5927abc0="" style="margin-right: 5px;">QQ同步助手隐私保护指引
+</div><div data-v-5927abc0="" class="time">2022-08-15</div></div><a data-v-5927abc0="" href="https://privacy.qq.com/document/preview/92ada2f0cfae411cb11945eb5ca49f1f/v_20220815162146">查看</a></div></div></div></div></div></main></section></section><div data-v-94b38a18="" class="app-container scroll-wrapper"><div data-v-94b38a18="" class="app-header"><div data-v-94b38a18="" role="button" aria-label="目录" class="drawer-button"><svg data-v-94b38a18="" t="1600340336158" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2812" width="25" height="25" class="icon"><path data-v-94b38a18="" d="M170.666667 213.333333m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" p-id="2813" fill="#ffffff"></path><path data-v-94b38a18="" d="M170.666667 512m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" p-id="2814" fill="#ffffff"></path><path data-v-94b38a18="" d="M170.666667 810.666667m-64 0a64 64 0 1 0 128 0 64 64 0 1 0-128 0Z" p-id="2815" fill="#ffffff"></path><path data-v-94b38a18="" d="M896 778.666667H362.666667c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32h533.333333c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32zM362.666667 245.333333h533.333333c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32H362.666667c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32zM896 480H362.666667c-17.066667 0-32 14.933333-32 32s14.933333 32 32 32h533.333333c17.066667 0 32-14.933333 32-32s-14.933333-32-32-32z" p-id="2816" fill="#ffffff"></path></svg></div><div data-v-94b38a18="" class="title-text">QQ同步助手隐私保护指引
+</div></div><div data-v-94b38a18="" class="time-wrapper"><span data-v-94b38a18="" class="updata-time" style="margin-right: 0px;"> 更新日期：2022-09-22 </span><span data-v-94b38a18="" class="effect-time" style="margin: 0.5rem 2rem 0px;"> 生效日期：2022-09-29 </span></div><section data-v-94b38a18="" class="el-container app-container scroll-main"><aside data-v-94b38a18="" class="el-aside side-bar" style="width: 300px;"><div data-v-94b38a18="" tabindex="-1" class="el-drawer__wrapper" style="display: none;"><div role="document" tabindex="-1" class="el-drawer__container"><div aria-modal="true" aria-labelledby="el-drawer__title" aria-label="QQ同步助手隐私保护指引
+" role="dialog" tabindex="-1" class="el-drawer ltr" style="width: 30%;"><!----><!----></div></div></div></aside><section data-v-94b38a18="" class="el-container"><main data-v-94b38a18="" class="el-main main"><span data-v-94b38a18="" class="app-download-btn"><span data-v-94b38a18="" class="iconfont privacy-xiazai"></span> 下载 </span><div data-v-94b38a18="" id="app-document"><!----><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28767" name="content-item">更新说明</span></div><div data-v-94b38a18="" class="ql-editor"><p>感谢您使用<strong>QQ同步助手&nbsp;</strong>。我们对《QQ同步助手隐私保护指引》进行了如下更新：</p>
+<p><strong>1、调整并优化了我们收集使用的信息，在第一部分1、我们如何收集和使用中，我们在1.17中向您细化说明收集应用运行中的进程信息，在1.18中向您解释说明了我们获取SD卡数据的逻辑。</strong></p>
+<p>为了更好的保护您的相关权利，建议您仔细阅读更新后的隐私保护指引，如果您对本隐私保护内容有任何疑问和建议，您可以通过本隐私保护指引中“联系我们”中公布的联系方式与我们联系。</p>
+<p>&nbsp;</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28768" name="content-item">引言</span></div><div data-v-94b38a18="" class="ql-editor"><p class="ql-align-justify"><span style="color: black;">欢迎您使用QQ同步助手！</span><strong style="color: black;">QQ同步助手</strong><span style="color: black;">是由</span><strong style="color: black;">深圳市腾讯计算机系统有限公司</strong><span style="color: black;">（以下简称“我们”）提供的服务，我们的注册地为</span><strong style="color: black;">深圳市南山区粤海街道麻岭社区科技中一路腾讯大厦35层。</strong></p>
+<p class="ql-align-justify"><span style="color: black;">我们将通过《QQ同步助手隐私保护指引》帮助您了解我们收集、使用、存储和共享个人信息的情况，以及您所享有的相关权利。</span></p>
+<p class="ql-align-justify"><span style="color: windowtext;">&nbsp;</span></p>
+<p class="ql-align-justify"><span style="color: black;">腾讯重视用户的隐私。您在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过本《QQ同步助手隐私保护指引》向您说明，在使用我们的服务时，我们如何收集、使用、储存和分享这些信息，以及我们为您提供的访问、更新、控制和保护这些信息的方式。本指引与您所使用的腾讯服务息息相关，希望您仔细阅读，在需要时，按照本指引，作出您认为适当的选择。</span></p>
+<p class="ql-align-justify"><span style="color: black;">您使用或继续使用我们的服务，即意味着同意我们按照本《QQ同步助手隐私保护指引》收集、使用、储存和分享您的相关信息。</span></p>
+<p class="ql-align-justify"><span style="color: black;"><strong>如您希望快速了解本内容，您可以将通过<a href="https://privacy.qq.com/document/preview/a04d96d936914f33b4468f923fa7a967">《QQ同步助手隐私保护指引摘要》</a>简单、直观地说明我们是如何处理和保护您的个人信息。更多有关我们对您的个人信息的处理规则，请查阅如下完整版信息。</strong></span></p>
+<p class="ql-align-justify"><span style="color: black;">本隐私保护指引将帮助您了解</span>：</p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">一、我们如何收集和使用个人信息</p>
+<p class="ql-align-justify">二、我们如何存储和保护您的个人信息</p>
+<p class="ql-align-justify">三、我们如何委托处理、共享、转让、公开披露您的个人信息</p>
+<p class="ql-align-justify">四、您如何管理您的个人信息</p>
+<p class="ql-align-justify">五、未成年人使用我们的服务</p>
+<p class="ql-align-justify">六、隐私保护指引的使用范围</p>
+<p class="ql-align-justify">七、修订与更新</p>
+<p class="ql-align-justify">八、联系我们</p>
+<p>&nbsp;</p>
+<blockquote>
+<p class="ql-align-center"><a href="https://privacy.qq.com/document/preview/436ec92895d04079b29ef7284e78f7f0"><img src="https://images-75651.picgzc.qpic.cn/9aPzOpIzpPxI4lmeRmGY6MQpSFUiskRi?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3Dd55ad54f7a038b521a1f743a5b7ab922ff9f5b4d"><img src="https://images-75651.picgzc.qpic.cn/jVcROnqQXR5V4IH74cU9F6dYUdQSaXvN?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D5b9c8fd7a6f75444b7e30716d6420f3047360ba6"></a><a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab"><img src="https://images-75651.picgzc.qpic.cn/sM7LQ2L5xoI0zUtTvZilUUutw-7eocOI?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D63b063d97e6ad830813ed17989da5db27a05f733"></a></p>
+</blockquote>
+<p class="ql-align-center"><a class="ql-size-small" href="https://privacy.qq.com/document/preview/436ec92895d04079b29ef7284e78f7f0" target="_blank" rel="noopener">我们收集使用的信息</a><span class="ql-size-small"><img src="https://images-75651.picgzc.qpic.cn/bL3Kbw6BSPazS5Xbt4VlAJYcRAsFROa4?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390695%3B1632397895%26q-key-time%3D1632390695%3B1632397895%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D24581513643944a27feb9e9e1ebbb5d5e50b0bb5"></span><a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab">我们共享的信息<img src="https://images-75651.picgzc.qpic.cn/MkIQNTo00qbuWFv77tkc4sEsYhYHlqkD?sign=q-sign-algorithm%3Dsha1%26q-ak%3DZPi8634lYM6UOHNiZkhRFB6X%26q-sign-time%3D1632390714%3B1632397914%26q-key-time%3D1632390714%3B1632397914%26q-header-list%3Dhost%26q-url-param-list%3D%26q-signature%3D68b47b7b7d57af177d2622e43ea4c26a45b12a92"></a></p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28769" name="content-item">一、我们如何收集和使用您的个人信息</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、我们如何收集和使用您的个人信息</h3>
+<p class="ql-align-justify">在您使用QQ同步助手服务的过程中，为了使您能使用相应的功能或服务，我们会按照如下方式收集和使用您在使用服务时主动提供的或因为使用服务而产生的信息。</p>
+<p class="ql-align-justify">1.1&nbsp;&nbsp;当您注册登录我们的服务时，我们会收集您的<strong>手机号码/微信 Openid/QQ Openid、头像、昵称</strong>，以为您提供帐号相关服务。</p>
+<p class="ql-align-justify">1.2&nbsp;&nbsp;当您使用文件备份功能，备份您设备中资料（照片、音频、视频、文件），我们将获取您<strong>照片、视频、音频及文件的具体信息（存储目录、大小、时间、文件名）</strong>。当您需要使用文件搜索功能时，我们将收集您的<strong>查询记录信息</strong>，以便我们为您提供快捷的查询文件服务。</p>
+<p class="ql-align-justify">1.3 &nbsp;当您使用短信、通讯录、通话记录备份与恢复功能时，为实现备份功能并保障顺利运行，我们将获取您的<strong>短信权限、通讯录权限、通话记录权限</strong>，以收集您的<strong><span style="text-decoration: underline;"><em>短信信息、通讯录信息、通话记录信息</em></span></strong>，包括曾<span style="text-decoration: underline;"><em><strong>通讯账号、手机号码、通话时间、短信内容</strong></em></span>。具体授权的权限和收集的信息以您使用的功能和需要备份的为准，我们将根据您具体使用的功能收集提供相应功能所必要的信息。<br>请您知悉，当您使用搭载MIUI系统的设备时，基于MIUI系统要求，您还需要授权我们读取您在通讯录权限下的<strong>APP帐号权限</strong>，用以判断您是否有小米帐号，以提供针对机型适配不同的同步服务（如搭载MIUI系统的设备下，我们无法提供高级同步、时光机、重复联系人、清空通讯录、清理失效号码、回收站功能）。<br>当您使用备份通讯录、回收站、时光机功能时，我们将会在操作记录内记录您的备份通讯录、回收站、时光机的<strong>历史操作记录</strong>，以便我们为您提供可查看和删除备份、恢复通讯录记录以及时光机恢复成功和失败记录、回收站删除成功和失败记录。&nbsp;</p>
+<p class="ql-align-justify">1.4&nbsp;&nbsp;当您使用软件备份功能以备份您设备中的已安装应用列表，我们将收集您的<strong>手机型号、已安装应用列表</strong>，同时如您使用相关软件恢复功能，我们将获取您的<strong>存储权限</strong>以提供相关服务。相关软件备份及升级场景中，包括<strong>软件备份、恢复、推荐、显示待恢复软件数量、扫描可备份安装包、扫描可升级软件</strong>，在您触发实际功能时，为保证障您设备中已安装应用列表的准确性，我们将会在合理必要范围内收集您的已安装应用列表。在此场景下，当我们获取已安装列表信息，此信息将用于初始化同步的<strong>软件备份、软件恢复及升级通知</strong>功能时，通过已安装软件，帮助更准确恢复已备份软件，避免重复下发本地已有软件。</p>
+<p class="ql-align-justify">1.5&nbsp;当您使用垃圾清理功能时，用于清理设备上的文件、图片、缓存、视频，我们会收集您的<strong>SD卡媒体信息（手机型号、已安装应用列表、文件、照片信息、视频信息）</strong>，以对相关信息进行清理、使您的手机运行更流畅。在此场景下，我们将获取已安装应用列表信息，此信息将用于清理手机软件安装包时，判断哪些安装包是已使用过可以清理掉的，达成为您的手机瘦身效果。同时如您在清理软件包时需要卸载相关软件，我们将申请您的<strong>应用使用情况访问权限，以获取您的应用使用记录</strong>，帮助您完成卸载。</p>
+<p class="ql-align-justify">1.6 当您使用生日提醒功能添加提醒对象时，我们将通过您手动添加和读取通讯录内的信息方式，记录下你所添加的<strong>所有生日提醒名称及具体的生日记录</strong>，以便我们为您提供更便捷查看的生日提醒记录。</p>
+<p class="ql-align-justify">1.7 如果您对我们的服务有任何反馈、批评或建议时，您可反馈您的意见，此时您需要填写您的<strong>反馈内容（内容、图片）</strong>。同时为及时排查并响应您的反馈，我们将收集您的<strong>手机机型、系统版本、GUID、应用ID、应用版本号、您的联系方式（手机号码/微信/QQ）并记录下您的反馈记录</strong>，以帮助您快速解决问题。</p>
+<p class="ql-align-justify">1.8 当您使用领取游戏礼包功能时，您需要输入您的游戏账号信息，我们将收集您的<strong>已安装应用列表、游戏账号信息</strong>，以匹配您的已安装游戏应用并用于向您的账号发放游戏礼包。</p>
+<p class="ql-align-justify">1.9 当您需要使用设置账号安全、设置代接手机号码时，我们将收集您的<strong>手机号码信息</strong>，为您绑定及更换手机号码。</p>
+<p class="ql-align-justify">1.10 当您使用会员购买功能时，我们将收集您的会员购买记录，以记录并为您提供会员服务，我们将在产品页面为您提供可查看<strong>近3个月的会员购买记录</strong>。</p>
+<p class="ql-align-justify">1.11 当您需要使用管理手机功能时，我们将收集您的<strong>手机型号、存储空间信息，</strong>以便我们为您提供查看存储内容信息以及手机垃圾清理服务。</p>
+<p class="ql-align-justify">1.12 当您使用通讯录收集功能时，我们将会记录下您所创建<strong>号码集群</strong>并通过微信分享收集到的<strong>号码记录</strong>，以便我们为您提供更便捷查看的通讯录收集记录</p>
+<p class="ql-align-justify">1.13在您使用支付功能时，我们将收集您的<strong>QQ或微信Openid</strong>以记录您在支付、发货等虚拟交易过程中的唯一标识，同时为保障运营安全，我们将收集您的<strong>设备信息（包括设备ID、设备型号、系统版本、是否安装微信或QQ</strong>），用以设备特性进行页面展示的兼容性适配，同时在风控场景下判断您的账号是否存在安全；同时我们也将收集您的<strong>订阅记录</strong>，用以记录您的虚拟资产，并根据该记录为您提供购买服务的履约。&nbsp;</p>
+<p class="ql-align-justify">1.14当您需要使用共享空间功能添加共享成员时，我们将会收集共享成员的<strong>微信头像、昵称</strong>，以便为您提供更便捷的当前共享空间内的共享成员的信息；同时我们将会收集您的<strong>存储权限</strong>，为您提供上传、下载共享空间的文件（包含图片视频、文档、安装包）。当您需要使用共享文件搜索功能时，我们将收集您的<strong>查询记录信息</strong>，以便我们为您提供快捷的查询共享文件服务。&nbsp;&nbsp;</p>
+<p class="ql-align-justify"><strong>1.15自启动说明</strong></p>
+<p class="ql-align-justify"><strong>为了及时保护您的数据安全、防止数据丢失，QQ同步助手可能根据数据环境的变化，启动安全保护服务，如为防止数据丢失中备份与清理功能、来电接听助理功能及软件更新等安全防护功能。受不同系统限制，上述功能可能需要您开启自启权限，您可以“我的-设置-权限管理”中管理自启权限。具体以您使用系统为准。</strong>&nbsp;</p>
+<p class="ql-align-justify"><strong>1.16您提供的信息</strong></p>
+<p class="ql-align-justify">·&nbsp;您在注册帐户或使用我们的服务（下载您的个人信息）时，向我们提供的相关个人信息，含<strong>电话号码、电子邮件</strong>； 当你需要下载您的个人信息时，我们将会收集您的下载个人信息记录（包括申请时间、接收邮箱、文件格式、文件内容、预计发送时间），您可前往“我的-设置-隐私设置-个人信息下载”进行查看。&nbsp;</p>
+<p class="ql-align-justify">·&nbsp;您通过我们的服务向其他方提供的<strong>共享信息</strong>，以及您使用我们的服务时所<strong>储存的信息</strong>。</p>
+<p class="ql-align-justify">·&nbsp;其他方分享的您的信息</p>
+<p class="ql-align-justify">·&nbsp;其他方使用我们的服务时所提供有关您的共享信息。</p>
+<p class="ql-align-justify">1.17 您使用服务时，为保障您正常使用我们的服务，维护我们服务正常运行，改进及优化您的服务体验以及保障您的账号，我们会收集如下信息：</p>
+<p class="ql-align-justify"><strong>· 日志信息</strong>，包括：&nbsp;</p>
+<p class="ql-align-justify"><strong>设备或软件信息：</strong>您的<strong>移动设备信息和设备识别码（Android ID）信息、手机型号、设备厂商；</strong></p>
+<p class="ql-align-justify"><strong>·已安装应用列表 </strong>，指您使用我们软件相关功能时，收集的<strong>软件信息</strong>，主要用于：帮助您恢复已备份软件时，避免重复下发本地已有软件。</p>
+<p class="ql-align-justify">·&nbsp;<strong>mac地址信息</strong>，指您使用我们服务时，我们收集设备中的<strong>mac地址信息</strong>，主要用于：定位异常网络请求，确保网络服务稳定与安全。</p>
+<p class="ql-align-justify">·&nbsp;<strong>剪切板信息</strong>，为完成信息的复制操作，我们需要使用剪贴板能力以帮助您快速复制所需信息。当您使用扫描登录的复制网址功能及复制版本信息时，我们会调用剪贴板能力，用于为您提供复制网址服务、复制版本信息功能。如您拒绝授权，您将无法复制当前信息，但不会影响您使用其他功能。</p>
+<p class="ql-align-justify"><strong>·&nbsp;应用信息</strong>：为判断应用运行情况（判断当前进程是否为APP主进程及根据进程情况决定补丁合成和加载过程的逻辑），以及执行重启操作时用来终止应用的所有进程，以保障运营质量及效率，我们会收集<strong>应用运行中的进程信息</strong>。&nbsp;</p>
+<p class="ql-align-justify"><strong>1.18 SD卡数据获取说明</strong>：在文件备份与恢复、手机清理、格式转换、智能整理、文件共享、软件恢复、下载、联系人导入导出、照片（视频）展示、上传共享场景中，我们需要向您申请<strong>存储权限</strong>，通过<strong>写入SD卡数据或者读取SD卡数据获取SD卡数据</strong>。如您需要进一步了解获取情况，您可至1、我们如何收集和使用您的个人信息具体使用场景查看，我们将根据您实际触发的功能场景收集和使用您的SD卡数据信息。&nbsp; &nbsp;</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、我们可能如何使用信息</h3>
+<p class="ql-align-justify">&nbsp;·我们可能将在向您提供服务的过程之中所收集的信息用作下列用途：&nbsp;</p>
+<p class="ql-align-justify">&nbsp;2.1 向您提供服务；&nbsp;</p>
+<p class="ql-align-justify">&nbsp;·&nbsp;在我们提供服务时，向您提供各类备份功能，并确保我们向您提供的产品和服务的安全性；&nbsp;&nbsp;</p>
+<p class="ql-align-justify">2.2 让您参与有关我们产品和服务的调查。&nbsp;&nbsp;</p>
+<p class="ql-align-justify">2.3&nbsp;&nbsp;邮件和信息推送</p>
+<p class="ql-align-justify">您在使用我们的服务时，<strong>我们可能使用您的信息向您发送电子邮件、新闻或推送通知</strong>。</p>
+<p class="ql-align-justify">2.4 与服务有关的公告</p>
+<p class="ql-align-justify">我们可能在必要时（例如因系统维护而暂停某一项服务时）向您发出与服务有关的公告。您可能无法取消这些与服务有关、性质不属于推广的公告。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>3、自动化决策</h3>
+<p>自动化决策，是指通过计算机程序自动分析、评估个人的行为习惯、兴趣爱好或者经济、健康、信用状况等，并进行决策的活动。</p>
+<p>为了实现软件内容展示、优化展示、了解产品对不同硬件的适配情况、完成不同广告的推荐策略、统计产品的运营数据的功能，我们会收集您的<strong>历史软件下载记录，设备标识符（OAID），广告数据如曝光、点击数据等，设备信息如系统语言、屏幕高宽、屏幕方向等信息。</strong></p>
+<p>具体个性化推荐的机制如下：本服务会使用基于您的数据来创建用户组别，即将特征相似的人群分组，并针对这些组别推荐定向软件分发内容。</p>
+<p>您的信息用于决定将您分配到哪个细分组别，以及相应地，会看到哪些推荐信息。我们可能使用上述信息在本产品中向您提供您可能感兴趣的广告，评估、改善我们的广告投放和其他促销及推广活动、商业分析的效果。</p>
+<p>具体个性化推荐的内容展示模块如下：在<strong>【初始化同步】过程的“必备软件推荐”、“闪屏”模块</strong>将会呈现个性化推荐广告。</p>
+<p><span style="color: #000000;">当您使用创新广告交互功能（如摇动、扭动、扭转设备）时，我们会调用设备的<strong>陀螺仪、加速度、重力传感器</strong>以识别判断您的设备状态。请您理解，单独的设备传感器数据不涉及任何个人位置信息且无法与其他信息结合用于识别特定自然人的身份。</span></p>
+<p>当您主动复制广告落地页上的链接等内容时，我们会访问设备<strong>剪切板</strong>能力，从而便于分享链接等功能的实现</p>
+<p>您可通过<strong>【“我的”页面-右上角设置按钮-隐私设置-个性化广告推荐设置】</strong>来关闭个性化推荐，关闭后我们在上述模块将不会给您推荐个性化广告，关闭个性化推荐并不会影响您其他功能的正常使用，您可以根据自身的喜好和判断随时决定开启或关闭该功能。如您对我们的自动化决策有疑问，您可通过“联系我们”章节中提到的联系方式向我们反馈。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、收集、使用您的个人信息征得授权同意的例外</h3>
+<p class="ql-align-justify">另外，根据法律法规的规定，以下是征得用户同意的例外情形：</p>
+<p class="ql-align-justify">1) &nbsp; &nbsp; &nbsp; 为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2) &nbsp; &nbsp; &nbsp; 为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3) &nbsp; &nbsp; &nbsp; 为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;&nbsp;</p>
+<p class="ql-align-justify">4) &nbsp; &nbsp; &nbsp; 为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;&nbsp;</p>
+<p class="ql-align-justify">5) &nbsp; &nbsp; &nbsp; 依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;&nbsp;</p>
+<p class="ql-align-justify">6) &nbsp; &nbsp; &nbsp; 法律行政法规规定的其他情形。&nbsp;</p>
+<p class="ql-align-justify">特别提示:&nbsp;如我们收集的信息无法单独或结合其他信息识别到终端用户的个人身份,&nbsp;其不属于法律意义上的个人信息。</p>
+<p class="ql-align-justify">请您理解，我们向您提供的功能和服务是不断更新和发展的，如果某一功能或服务未在前述说明中且收集了您的信息，我们会通过页面提示、交互流程、网站公告等方式另行向您说明信息收集的内容、范围和目的，以征得您的同意。</p>
+<p class="ql-align-justify">请您注意，目前我们不会主动从我们以外的第三方获取您的个人信息。如未来为业务发展需要从第三方间接获取您的个人信息，我们会在获取前向您告知个人信息的来源、类型及使用范围，如我们开展业务需进行的个人信息处理活动超出您原本向第三方提供个人信息时的授权同意范围，我们将在处理您该等个人信息前征得您的授权同意；此外，我们也将会严格遵守相关法律法规的规定，并要求第三方保障其提供的信息的合法性。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、设备权限调用</h3>
+<p class="ql-align-justify">为确保我们的功能和服务能正常实现，我们需要根据上述收集使用信息的具体场景调用对应的必要权限，并在调用前向您弹窗询问。其中的敏感权限例如<strong>通讯录权限、相机权限、存储权限、短信权限、通讯录权限、通话记录权限</strong>均不会默认开启，只有在你明确同意后才会向我们授权，且请您知悉，我们获得具体某一项敏感权限并不代表我们必然会收集你的相关信息；即使我们已经获得敏感权限，也仅在必要时、根据本指引来收集你的相关信息。具体的敏感权限调用说明请见<a href="https://privacy.qq.com/document/preview/2938bbb9120149c78f1fe0a595a259a4" target="_blank" rel="noopener noreferrer">“QQ同步助手权限调用表”</a>。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28770" name="content-item">二、我们如何存储和保护您的个人信息</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、信息的存储</h3>
+<p class="ql-align-justify"><span style="color: #666666;">一般情况下，我们只会在为实现服务目的所必需的时间内或法律法规规定的条件下存储您的个人信息。</span>请您注意，如您选择注销您的账户，我们会删除您的信息或对其进行匿名化处理，但相关法律法规规定必须在一定期间内留存的信息除外。对于上述必须留存的信息，我们会在法律法规规定的留存期间到期后删除或进行匿名化处理。</p>
+<p class="ql-align-justify">我们会按照法律法规规定，将<strong>境内收集的用户个人信息存储于中国境内</strong>。目前我们不会跨境传输或存储您的个人信息。将来如需跨境传输或存储的，我们会向您告知信息出境的目的、接收方、安全保证措施和安全风险，并征得您的同意。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、安全保护措施</h3>
+<p class="ql-align-justify">我们努力为用户的信息安全提供保障，以防止信息的泄露、丢失、不当使用、未经授权访问和披露等。我们使用多方位的安全保护措施，以确保用户的个人信息保护处于合理的安全水平，包括技术保护手段、管理制度控制、安全体系保障等诸多方面。</p>
+<p class="ql-align-justify">我们采用业界领先的技术保护措施。我们使用的技术手段包括但不限于防火墙、加密（例如SSL）、去标识化或匿名化处理、访问控制措施等。此外，我们还会不断加强安装在您设备端的软件的安全能力。例如，我们会在您的设备本地完成部分信息加密工作，以巩固安全传输；我们会了解您设备已安装应用列表和运行的进程信息，以预防病毒、木马等恶意程序。</p>
+<p class="ql-align-justify">我们建立了保障个人信息安全专门的管理制度、流程和组织。例如，我们严格限制访问信息的人员范围，要求他们遵守保密义务并进行审计，违反义务的人员会根据规定进行处罚。我们也会审查该管理制度、流程和组织，以防未经授权的人员擅自访问、使用或披露用户的信息。</p>
+<p class="ql-align-justify">我们建议您在使用产品和服务时充分注意对个人信息的保护，我们也会提供多种安全功能来协助您保护自己的个人信息安全。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>3、安全事件处置措施</h3>
+<p class="ql-align-justify">若发生个人信息泄露、损毁、丢失等安全事件，我们会启动应急预案，阻止安全事件扩大。安全事件发生后，我们会及时以推送通知、邮件等形式告知您安全事件的基本情况、我们即将或已经采取的处置措施和补救措施，以及我们对您的应对建议。如果难以实现逐一告知，我们将通过公告等方式发布警示。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、产品或服务停止运营时的通知</h3>
+<p class="ql-align-justify">当我们的产品或服务发生停止运营的情况时，我们将以推送通知、公告等形式通知您，并在合理期限内删除您的个人信息或进行匿名化处理，法律法规另有规定的除外。</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28771" name="content-item">三、我们如何委托处理、共享、转让、公开披露您的个人信息</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<h3>1、委托处理</h3>
+<p class="ql-align-justify">当我们存在委托处理时，对我们委托处理个人信息的公司、组织和个人，我们会与其签署严格的保密协议，要求他们按照我们的要求、本隐私保护指引以及其他任何相关的保密和安全措施来处理个人信息。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、共享</h3>
+<p class="ql-align-justify">为保障QQ同步助手相关功能的实现与应用安全稳定的运行，我们可能会接入由第三方提供的服务（含软件开发包，SDK）实现相关目的。我们会对合作方获取信息的软件工具开发包（SDK）进行严格的安全监测，以保护数据安全。</p>
+<p class="ql-align-justify">我们向第三方共享个人信息的情况（含接入SDK的情况）详见<a href="https://privacy.qq.com/document/preview/29c6e77fa042444d8fa03c574171aaab" target="_blank" rel="noopener noreferrer">QQ同步助手第三方信息共享清单&nbsp;</a>&nbsp;&nbsp;。</p>
+<p class="ql-align-justify">除以上情形外，未经您同意，我们不会与任何第三方分享您的个人信息。如我们与任何上述第三方分享您的个人信息，我们将努力确保该等第三方在使用您的个人信息时遵守本隐私保护指引及我们要求其遵守的其他适当的保密和安全措施。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3 class="ql-align-justify">3、转让</h3>
+<p class="ql-align-justify">随着我们业务的持续发展，我们以及我们的关联公司有可能进行合并、收购、资产转让或类似的交易，您的个人信息有可能作为此类交易的一部分而被转移。我们将在转移前通知您。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3 class="ql-align-justify">4、公开披露</h3>
+<p class="ql-align-justify">我们不会对外公开披露所收集的个人信息，如必须公开披露时，我们会向您告知此次公开披露的目的、披露信息的类型及可能涉及的敏感信息，并征得您的明示同意。当我们展示您的个人信息时，我们会采用包括内容替换、匿名处理方式对您的信息进行脱敏，以保护您的信息安全。 &nbsp;</p>
+<p class="ql-align-justify">随着我们业务的持续发展，我们有可能进行合并、收购、资产转让等交易，我们将告知您相关情形，按照法律法规及不低于本隐私保护指引所要求的标准继续保护或要求新的处理者继续保护您的个人信息。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、共享、转让、公开披露个人信息实现征得授权同意的例外</h3>
+<p class="ql-align-justify">另外，根据相关法律法规及国家标准，以下情形中，我们可能会共享、转让、公开披露个人信息无需事先征得您的授权同意：</p>
+<p class="ql-align-justify">1）为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2）为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3）为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;&nbsp;</p>
+<p class="ql-align-justify">4）为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;&nbsp;</p>
+<p class="ql-align-justify">5）依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;&nbsp;</p>
+<p class="ql-align-justify">6）法律行政法规规定的其他情形。&nbsp;</p>
+<p class="ql-align-justify">特别提示:&nbsp;如我们收集的信息无法单独或结合其他信息识别到终端用户的个人身份,&nbsp;其不属于法律意义上的个人信息。</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28772" name="content-item">四、您如何管理您的个人信息</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">我们非常重视您对个人信息的管理，并尽全力保障您个人信息的访问、更正、删除、撤回同意授权、账号注销等相关权利，便于您便捷、安心地管理您的个人信息。请注意，不同操作系统、QQ同步助手软件的不同版本之间，操作设置可能存在差异；此外，为了优化您的使用体验，我们也可能对操作设置进行调整，故如下指引仅供参考，具体操作以您实际产品操作页面为准。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>1、个人信息查询与管理</h3>
+<p class="ql-align-justify">您可以在我们的产品中通过“隐私设置-个人信息查询与管理”查询和管理您的个人信息：</p>
+<p class="ql-align-justify"><strong>1.1 查看您的个人账户相关信息，如账号资料（如昵称、关联的第三方账号）；</strong></p>
+<p class="ql-align-justify"><strong>1.2 查看您的设备相关信息，如Android ID、GUID、手机型号、系统名称、系统版本；</strong></p>
+<p class="ql-align-justify"><strong>1.3&nbsp;当您希望删除您的个人游戏账号信息授权，您可以在设置-隐私设置-游戏数据内，针对每个游戏进行个人游戏账号信息授权的删除。</strong></p>
+<p class="ql-align-justify">&nbsp;</p>
+<p class="ql-align-justify">如果您无法通过上述路径查询、更正、删除或管理您的个人信息，您可以随时发送电子邮件至Dataprivacy@tencent.com联系我们。我们将自接到您的请求起十五日内回复您的请求。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>2、<strong>个人信息下载</strong></h3>
+<p class="ql-align-justify">您可以在我们的产品中通过<strong>“我的”页面-右上角设置按钮-隐私设置-个人信息下载-申请个人信息下载</strong>，申请下载您的个人信息，在收到您的申请后，我们将在十五日内，通过邮件将您的相关个人信息发送给您。</p>
+<h3>&nbsp;</h3>
+<h3>&nbsp;</h3>
+<h3>3、改变或撤回您授权同意的范围</h3>
+<p class="ql-align-justify">3.1 改变或撤回敏感权限设置：请在<strong>我的-设置-权限管理</strong>进行操作</p>
+<p class="ql-align-justify">3.2 改变或撤回个性化推荐：请在<strong>我的-设置-隐私设置-个性化广告推荐设置</strong>进行关闭</p>
+<p class="ql-align-justify">如果您无法通过上述路径管理您的个人信息，您可以随时发送电子邮件至Dataprivacy@tencent.com联系我们。我们将在自接到您的请求起十五日内回复您的请求。</p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>4、注销您的账号</h3>
+<p class="ql-align-justify">您有权注销您的QQ同步助手账号，您可以在我们的产品中申请注销您的账号，您可进入QQ同步助手-我的-设置-关于-账号注销，进行注销申请。</p>
+<p class="ql-align-justify"><strong>请您知悉，QQ同步助手账号一旦注销完成，将无法恢复，请您谨慎操作且您应自行备份QQ同步助手账号信息和数据。在进行注销操作之前，请确保与QQ同步助手账号相关的服务均已妥善处理。</strong></p>
+<p class="ql-align-justify">&nbsp;</p>
+<h3>5、响应您的上述请求</h3>
+<p class="ql-align-justify">如果您无法通过上述途径和方式行使您的个人信息主体权利，您可以通过本指引中提供的联系方式提出您的请求，我们会按照法律法规的规定予以反馈。为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。另请您知悉，在以下情形中，我们将无法响应您的请求:</p>
+<p class="ql-align-justify">1）为订立、履行与终端用户的合同所必需;&nbsp;</p>
+<p class="ql-align-justify">2）为履行我们的法定义务所必需;&nbsp;</p>
+<p class="ql-align-justify">3）为应对突发公共卫生事件,&nbsp;或者紧急情况下为保护终端用户的生命健康和财产安全所必需;</p>
+<p class="ql-align-justify">4）为公共利益实施新闻报道、舆论监督等行为,&nbsp;在合理的范围内处理终端用户的个人信息;</p>
+<p class="ql-align-justify">5）&nbsp;依照本法规定在合理的范围内处理终端用户自行公开或者其他已经合法公开的个人信息;</p>
+<p class="ql-align-justify">6）法律行政法规规定的其他情形。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28773" name="content-item">五、未成年人使用我们的服务</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">我们非常重视对未成年人个人信息的保护。我们会根据相关法律法规的规定，要求不满十八周岁的未成年人（即儿童）在使用QQ同步助手的服务或向我们提供个人信息前，应当事先取得自己的监护人（比如自己的父母）的授权同意；</p>
+<p class="ql-align-justify">我们仅在法律法规允许、未成年人的监护人明确同意或者有必要保护未成年人的情况下使用、对外提供或公开披露该信息。</p>
+<p class="ql-align-justify">我们的产品、服务主要面向成年人。若您是十四周岁以下的未成年人，我们还专门为您制定了<a href="https://privacy.qq.com/document/preview/058da1a2b5ed44468b8272ae5df4502b" target="_blank" rel="noopener noreferrer">《QQ同步助手儿童隐私保护声明》</a>，儿童及其监护人在为使用我们产品或服务时，还应仔细阅读《QQ同步助手儿童隐私保护声明》。只有在取得监护人对《QQ同步助手儿童隐私保护声明》的同意后，十四周岁以下的儿童方可使用我们的服务。</p>
+<p class="ql-align-justify">若您是未成年人的监护人，请您关注您监护的未成年人是否是在取得您的授权同意之后使用QQ同步助手的服务。如果您对您所监护的未成年人的个人信息有疑问，请通过本指引中的联系方式与我们联系。</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28774" name="content-item">六、隐私保护指引的适用范围</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify">&nbsp;</h1>
+<p class="ql-align-justify">腾讯<u>&nbsp;</u><a href="https://privacy.qq.com/" target="_blank" rel="noopener noreferrer"><u>《腾讯隐私政策》</u></a>是我们统一适用的一般性隐私条款，其中所规定的用户权利及信息安全保障措施均适用于QQ同步助手用户。如腾讯<u>&nbsp;</u><a href="https://privacy.qq.com/" target="_blank" rel="noopener noreferrer"><u>《腾讯隐私政策》</u></a>与本指引存在不一致或矛盾之处，请以本指引为准。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28775" name="content-item">七、修订与更新</span></div><div data-v-94b38a18="" class="ql-editor"><h1 class="ql-align-justify"><br></h1><p class="ql-align-justify">我们可能会适时对本隐私保护指引进行修订。当隐私保护指引的条款发生变更时，我们会在版本更新时以适当的方式向您提示变更后的隐私保护指引，并向您说明生效日期。请您仔细阅读变更后的隐私保护指引内容，您继续使用QQ同步助手表示您同意我们按照更新后的隐私保护指引处理您的个人信息。</p><p class="ql-align-justify"><br></p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="28776" name="content-item">八、联系我们</span></div><div data-v-94b38a18="" class="ql-editor"><p class="ql-align-justify">我们设立了专门的个人信息保护团队和个人信息保护负责人，如果您对本隐私政策或个人信息保护相关事宜有任何疑问或投诉、建议时，您可以通过以下方式与我们联系：</p>
+<p class="ql-align-justify">1.&nbsp;&nbsp;将问题发送至Dataprivacy@tencent.com；</p>
+<p class="ql-align-justify">2. 通过 https://kf.qq.com/ 与我们联系；</p>
+<p class="ql-align-justify">3. 将您的问题邮寄至下列地址：</p>
+<p class="ql-align-justify">中国广东省深圳市南山区海天二路33号腾讯滨海大厦 数据隐私保护部（收）</p>
+<p class="ql-align-justify">邮编：518054</p>
+<p class="ql-align-justify">我们将尽快审核所涉问题，并在十五日或法律法规规定的期限内予以反馈。</p>
+<p class="ql-align-justify">&nbsp;</p></div></div><div data-v-94b38a18=""><div data-v-94b38a18="" class="header"><span data-v-94b38a18="" id="99999" name="content-item" style="margin-top: 50px;">历史版本</span></div><div data-v-5927abc0="" data-v-94b38a18="" list="[object Object]" id="history-list"><div data-v-5927abc0="" class="history-item"><div data-v-5927abc0="" class="item-wrapper"><div data-v-5927abc0="" style="margin-right: 5px;">QQ同步助手隐私保护指引
+</div><div data-v-5927abc0="" class="time">2022-08-15</div></div><a data-v-5927abc0="" href="https://privacy.qq.com/document/preview/92ada2f0cfae411cb11945eb5ca49f1f/v_20220815162146">查看</a></div></div></div></div></main></section></section></div></div></div><script src="/document/static/js/chunk-elementUI.4ff5f3b1.js"></script><script src="/document/static/js/chunk-jspdf.53ce4900.js"></script><script src="/document/static/js/chunk-html2canvas.59c4e88c.js"></script><script src="/document/static/js/chunk-libs.02352699.js"></script><script src="/document/static/js/index.ab233a8b.js"></script></body></html>
