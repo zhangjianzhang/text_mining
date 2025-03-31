@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文本挖掘2025第一次作业</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f8f9fa;
+            color: #212529;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 1.6em;
+            color: #343a40;
+        }
+        h2, h3 {
+            color: #343a40;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>作业1：构建和评价商业文本多分类器</h1>
+
+    <div class="section">
+        <h2>一、实验目标</h2>
+        <ul>
+            <li>掌握文本挖掘中语料的获取与预处理方法。</li>
+            <li>熟练使用不同算法构建和优化文本多分类模型。</li>
+            <li>学习如何科学地评估和比较多分类模型的性能。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>二、实验内容与步骤</h2>
+        <h3>步骤1：语料获取</h3>
+        <ul>
+            <li>自行在公开渠道（如Github）寻找与商业相关的中文公开语料，适用于文本多分类任务。</li>
+            <li>在Jupyter Notebook中明确说明语料来源（附链接）及其具体用途。</li>
+        </ul>
+
+        <h3>步骤2：数据预处理</h3>
+        <ul>
+            <li>参考课堂提供的代码，对所选语料进行预处理（中文分词、去停用词、文本清洗等）。</li>
+            <li>在Jupyter Notebook中说明预处理具体操作。</li>
+        </ul>
+
+        <h3>步骤3：数据集划分</h3>
+        <ul>
+            <li>随机分层抽样划分训练集（60%）、开发集（20%）和测试集（20%）。</li>
+            <li>在Jupyter Notebook中简要说明划分方法及原因。</li>
+        </ul>
+
+        <h3>步骤4：模型训练与调优</h3>
+        <ul>
+            <li>至少使用两种算法构建多分类器（如朴素贝叶斯、逻辑回归、支持向量机、随机森林）。</li>
+            <li>使用开发集进行超参数调优，记录调优过程和最优参数。</li>
+        </ul>
+
+        <h3>步骤5：模型评估</h3>
+        <ul>
+            <li>计算测试集上各模型的precision、recall、F1-score宏平均值。</li>
+            <li>绘制并分析各模型的混淆矩阵。</li>
+            <li>对不同模型结果进行统计显著性检验，详细说明方法与结果。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>三、实验提交要求</h2>
+        <ul>
+            <li>在Kaggle平台完成实验，每步均需详细解释。</li>
+            <li>导出Jupyter Notebook（ipynb格式）。</li>
+            <li>将ipynb文件和运行所需的全部数据文件压缩为ZIP格式，通过<a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">慕课平台</a>在线提交。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>四、参考资料</h2>
+        <p>课程网站上的课件及配套代码。</p>
+    </div>
+
+    <p>请务必独立完成实验，避免雷同，体现实验过程中的思考与探索。</p>
+</body>
+</html>
+
