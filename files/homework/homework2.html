@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文本挖掘2025第一次作业</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f8f9fa;
+            color: #212529;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 1.6em;
+            color: #343a40;
+        }
+        h2, h3 {
+            color: #343a40;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>作业2：语言模型训练与评估</h1>
+
+    <div class="section">
+        <h2>一、实验目标</h2>
+        <ul>
+            <li>扩充实验中使用的语料，确保新增的语料与第一次作业使用的语料相同或非常相似。</li>
+            <li>掌握如何使用N-gram模型训练语言模型（N = 2，3，4）。</li>
+            <li>学习使用神经网络模型（包括但不限于前馈网络、RNN等）训练语言模型。</li>
+            <li>通过计算困惑度，定量对比N-gram语言模型和神经网络语言模型的效果。</li>
+            <li>基于生成概率评估语言模型的表现，并通过模型生成文本进行定性分析。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>二、实验内容与步骤</h2>
+        <h3>步骤1：语料扩充</h3>
+        <ul>
+            <li>在第一次作业使用的语料基础上，扩充语料库，确保新增语料与之前使用的语料属于相同或相近的领域。</li>
+            <li>请说明新增语料的来源，附上相关链接（如GitHub或其他公开资源）。</li>
+        </ul>
+
+        <h3>步骤2：数据预处理</h3>
+        <ul>
+            <li>参考第一次作业中的代码，对扩充后的语料进行预处理，包括中文分词、去停用词、清理噪声数据等。</li>
+            <li>预处理后的数据格式需要适用于训练语言模型，请确保数据存储格式和处理步骤的合理性。</li>
+        </ul>
+
+        <h3>步骤3：训练N-gram语言模型</h3>
+        <ul>
+            <li>使用扩充后的语料，训练不同阶数（N=2，N=3，N=4）的N-gram语言模型。</li>
+            <li>请在Jupyter Notebook中展示训练过程并计算各模型的困惑度。</li>
+        </ul>
+
+        <h3>步骤4：训练神经网络语言模型</h3>
+        <ul>
+            <li>使用扩充后的语料，训练神经网络语言模型（如前馈神经网络或RNN等）。</li>
+            <li>请展示训练过程并计算困惑度，记录最优参数。</li>
+        </ul>
+
+        <h3>步骤5：模型评估</h3>
+        <ul>
+            <li>对N-gram语言模型和神经网络语言模型，在相同的测试集上计算困惑度。</li>
+            <li>通过生成文本来评估模型的生成能力，比较两种模型生成文本的质量和多样性。</li>
+        </ul>
+
+        <h3>步骤6：定性分析与文本生成</h3>
+        <ul>
+            <li>使用N-gram和神经网络模型，生成一定长度的随机文本。</li>
+            <li>对比两种模型在文本生成中的表现，进行定性分析，包括文本的连贯性、语义合理性等。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>三、实验提交要求</h2>
+        <ul>
+            <li>在Kaggle平台上完成实验，每一步操作需要在Jupyter Notebook中详细说明，提供必要的实验解释。</li>
+            <li>导出Jupyter Notebook文件（ipynb格式）。</li>
+            <li>将Jupyter Notebook文件和所有相关数据文件打包成ZIP格式压缩包，通过慕课平台（<a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>）在线提交。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>四、参考资料</h2>
+        <p>课程网站上的课件及配套代码。</p>
+    </div>
+
