@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文本挖掘2025第三次作业</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f8f9fa;
+            color: #212529;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 1.6em;
+            color: #343a40;
+        }
+        h2, h3 {
+            color: #343a40;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>作业3：基于政府工作报告的政策焦点变迁分析</h1>
+
+    <div class="section">
+        <h2>一、实验目标</h2>
+        <ul>
+            <li>综合运用已学的文本预处理、N-gram分析等技术，处理真实世界的文本数据。</li>
+            <li>通过对长时间序列文本数据的量化分析，洞察特定领域政策关注点的演变趋势。</li>
+            <li>培养从文本数据中提取有价值信息并进行解读的能力，将其与所学专业（大数据管理与应用、数字经济）相关联。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>二、实验内容与步骤</h2>
+        <h3>实验语料</h3>
+        <ul>
+            <li>1978年至2025年《政府工作报告》文本。每份报告为一个TXT文件，以年份命名（例如：1978.txt, 1979.txt, ..., 2025.txt）。</li>
+            <li>语料保存在<a href="https://www.kaggle.com/datasets/jianzhangzhang/text-mining-course-data?select=reports" target="_blank">text_mining_course_data</a>中的reports文件夹</li>
+            
+        </ul>
+
+        <h3>步骤1：数据预处理</h3>
+        <ul>
+            <li>参考课程代码，对语料进行预处理，包括中文分词、去停用词、清理噪声数据等。</li>
+            <li>预处理后的数据格式需要便于后续步骤应用，请确保数据存储格式和处理步骤的合理性。</li>
+        </ul>
+
+        <h3>步骤2：核心政策领域N-gram词频分析与趋势观察</h3>
+        <ul>
+            <li>选取分析维度：根据自己的专业背景和兴趣，选取2-3个与中国经济社会发展密切相关的核心政策领域。例如，“数字经济”、“人工智能”、“大数据”、“科技创新”、“互联网+”等相关主题词及其N-gram组合（如“数字基础设施”）。</li>
+            <li>构建N-gram： 针对选定的核心政策领域，确定1至3个关键词或关键短语（可以是unigram, bigram, trigram）。例如，研究“对外开放”，可以关注 “开放”、“对外开放”、“扩大开放” 等。</li>
+            <li>词频统计： 计算所选定的N-gram在每一年的政府工作报告中出现的频次。可以考虑使用词频的绝对数或相对频率（该N-gram词频/当年报告总词数）。</li>
+            <li>可视化呈现： 将计算得到的年度N-gram词频数据进行可视化，例如绘制折线图，展示其从1978年至2025年的变化趋势。</li>
+            
+            
+        </ul>
+
+        <h3>步骤3：语义关联词语的拓展探索</h3>
+        <ul>
+            <li>对于在步骤2中发现的、在某些时期出现频率显著变化的核心N-gram，尝试使用预训练的词向量模型（如Word2Vec, GloVe，或更大规模的中文预训练模型如BERT的词向量层）来查找其在特定年份（例如，选取政策转向的关键年份）或时间段（例如，每十年）的语义相似词。</li>
+            <li>观察这些语义相似词的变化，能否辅助解释政策焦点内涵的演变？例如，“市场”一词，在不同年代其最相关的词语集合可能有所不同，这间接反映了对“市场”理解和政策导向的深化。</li>
+            
+        </ul>
+
+        <h3>步骤4：结果分析</h3>
+        <ul>
+            <li>趋势描述： 清晰描述所选N-gram词频的时间序列变化特征，例如，哪些词语的关注度随时间显著上升/下降/呈现周期性波动？是否存在明显的转折点？</li>
+            <li>政策解读： 结合中国社会经济发展的历史背景和重大政策事件，尝试解读这些词频变化趋势背后可能反映的政策重点的转移和发展。</li>
+            <li>结合你所学的专业知识，讨论这些政策焦点的变迁对于你所学领域（如数字经济发展、大数据与人工智能应用加速等）可能带来的影响或启示。</li>
+            <li>方法讨论： 简要讨论本实验所用方法的优点与局限性。例如，仅基于词频分析可能有哪些不足？向量语义的引入有何帮助或挑战？</li>
+            
+        </ul>
+
+        
+    </div>
+
+    <div class="section">
+        <h2>三、实验提交要求</h2>
+        <ul>
+            <li>在Kaggle平台上完成实验，每一步操作需要在Jupyter Notebook中详细说明，提供必要的实验解释。</li>
+            <li>导出Jupyter Notebook文件（ipynb格式）。</li>
+            <li>将Jupyter Notebook文件通过慕课平台（<a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>）在线提交。</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>四、参考资料</h2>
+        <p>课程网站上的课件及配套代码。</p>
+    </div>
+
