@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>文本挖掘2025期末作业</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            background-color: #f8f9fa;
+            color: #212529;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 1.6em;
+            color: #343a40;
+        }
+        h2, h3 {
+            color: #343a40;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>《文本挖掘》课程期末大作业要求</h1>
+
+   
+    <p>本学期《文本挖掘》课程即将结束，为了全面考察大家对课程知识的掌握程度，特别是将理论应用于实践的能力，现将期末大作业的具体要求布置如下。请大家仔细阅读，并按时完成。</p>
+
+    <hr>
+
+    <h3>一、 作业核心任务 </h3>
+
+    <p>近年来，大语言模型（Large Language Model, LLM）为自然语言处理（NLP）领域带来了范式性的变革。其核心特征在于，能够以一个<strong>统一的模型</strong>和<strong>“提示” (Prompting) 的范式</strong>来处理极其多样化的NLP任务，而<strong>不再需要像传统方法那样为每个任务单独设计和训练专门的模型</strong>。</p>
+
+    <p>那么，在这种新范式下，大语言模型在各类具体的NLP任务上表现究竟如何？相较于为特定任务精细优化的传统方法，它存在哪些优势与不足？</p>
+
+    <p>本次期末作业的核心，就是要求大家通过实证研究来回答这一前沿问题。每位同学需要：</p>
+    
+    <ol>
+        <li>
+            <strong>独立选择</strong>一个中文语言理解评测基准（CLUE）中的具体任务。
+        </li>
+        <li>
+            <strong>调用大语言模型API</strong>，以“提示”的方式来解决这个任务。
+        </li>
+        <li>
+            将其结果与该任务上经典的<strong>非大语言模型方法</strong>的公开成果进行严格的<strong>量化比较和深入分析</strong>，从而亲身体验并评估这一技术变革的实际效果与局限。
+        </li>
+    </ol>
+
+    <hr>
+
+    <h3>二、 具体要求与步骤</h3>
+
+    <h4>1. 任务选择</h4>
+    <ul>
+        <li><strong>访问CLUE任务列表</strong>: <a href="https://www.cluebenchmarks.com/introduce.html" target="_blank" rel="noopener noreferrer">https://www.cluebenchmarks.com/introduce.html</a></li>
+        <li>从列表中选择<strong>一个</strong>你感兴趣的任务进行研究。</li>
+    </ul>
+
+    <h4>2. 文献研究与理论阐述</h4>
+    <p>在动手实验之前，你需要进行充分的文献调研，并清晰地阐述以下内容：</p>
+    <ul>
+        <li><strong>任务定义</strong>: 准确描述你所选任务的目标是什么。</li>
+        <li><strong>任务难点</strong>: 分析该任务在技术和理论层面存在的主要挑战。</li>
+        <li><strong>现有方法</strong>: 总结学术界已经提出的、用于解决该任务的主流方法或模型。</li>
+        <li><strong>商业应用</strong>: 结合所学商科知识，探讨该任务在<strong>大数据管理与应用</strong>、<strong>数字经济</strong>、<strong>国际商务</strong>、<strong>会计学</strong>等领域的实际应用场景和商业价值。</li>
+    </ul>
+
+    <h4>3. 实验操作：调用大语言模型API</h4>
+    <ul>
+        <li><strong>数据下载</strong>: 在你所选任务的介绍页面，下载官方提供的<strong>测试集（Test Set）</strong>。</li>
+        <li><strong>API调用</strong>: 选择一个大语言模型（如DeepSeek, Qwen, 豆包, Kimi等），通过调用其API，对测试集中的每一条数据进行预测，并<strong>保存完整的预测结果</strong>。
+            <ul>
+                <li><strong>模型选择</strong>: 可参考大语言模型综合能力评测平台：<a href="https://www.superclueai.com/" target="_blank" rel="noopener noreferrer">https://www.superclueai.com/</a></li>
+                <li><strong>API资源</strong>:
+                    <ul>
+                        <li>课程提供<strong>免费的DeepSeek API Key</strong>，使用方法请参考Kaggle上的示例代码：<a href="https://www.kaggle.com/code/jianzhangzhang/deepseek-api-demo" target="_blank" rel="noopener noreferrer">DeepSeek API Demo</a>。</li>
+                        <li>若选择其他模型，可能需要自行注册并获取API Key。</li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+    </ul>
+
+    <h4>4. 结果评估与对比分析</h4>
+    <ul>
+        <li><strong>确定评价指标</strong>: 查找提出该数据集的<strong>原始论文</strong>或使用该数据集的相关研究，明确该任务使用的<strong>评价指标</strong>（如准确率Accuracy, 精确率Precision, 召回率Recall, F1值等）。</li>
+        <li><strong>计算性能</strong>: 编程计算你选择的大语言模型在测试集上的各项评价指标得分。</li>
+        <li><strong>对比分析</strong>:
+            <ul>
+                <li>找到一篇（或多篇）使用了<strong>相同测试集</strong>的<strong>非大语言模型方法</strong>的研究论文。</li>
+                <li>将你的大语言模型结果与论文中报告的结果进行对比，<strong>制作清晰的图表</strong>来展示性能差异。</li>
+                <li><strong>务必确保</strong>你的实验设置（尤其是测试集）与所参考的论文<strong>完全一致</strong>。</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h4>5. 错误分析 (Error Analysis)</h4>
+    <p>对大语言模型预测失败的案例进行深入分析。你需要：</p>
+    <ul>
+        <li>挑选一些典型的错误样本。</li>
+        <li>分析模型出错的可能原因（例如，语义理解偏差、知识缺失、逻辑推理错误等）。</li>
+        <li>思考改进的方向。</li>
+    </ul>
+
+    <hr>
+
+    <h3>三、 最终成果与提交</h3>
+
+    <h4>1. 期末论文撰写</h4>
+    <ul>
+        <li><strong>格式要求</strong>: 严格按照课程提供的<strong>期末论文模板（.doc文件）</strong>进行撰写。</li>
+        <li><strong>字数要求</strong>: 不少于<strong>3000字</strong>。</li>
+        <li><strong>内容结构</strong>: 必须包含以下部分：
+            <ol>
+                <li>任务定义</li>
+                <li>任务难点分析</li>
+                <li>现有解决方法/算法综述</li>
+                <li>商业应用场景探讨</li>
+                <li>数据集介绍</li>
+                <li>评价指标定义与说明</li>
+                <li>核心API调用代码及返回结果示例</li>
+                <li>实验结果对比与分析（包含图或表）</li>
+                <li>大语言模型错误分析</li>
+                <li>总结与展望</li>
+            </ol>
+        </li>
+    </ul>
+
+    <h4>2. 提交要求</h4>
+    <ul>
+        <li><strong>在线提交</strong>:
+            <ul>
+                <li><strong>截止时间</strong>: <strong>2025年6月23日（周一）晚上20:00前</strong></li>
+                <li><strong>提交平台</strong>: 超星学习通 (<a href="https://hznu.fanya.chaoxing.com/portal" target="_blank" rel="noopener noreferrer">https://hznu.fanya.chaoxing.com/portal</a>)</li>
+                <li><strong>提交内容</strong>:
+                    <ol>
+                        <li><strong>期末论文PDF版</strong></li>
+                        <li><strong>实验代码Jupyter Notebook文件 (<code>.ipynb</code>)</strong></li>
+                    </ol>
+                </li>
+            </ul>
+        </li>
+        <li><strong>纸质版提交</strong>:
+            <ul>
+                <li><strong>提交时间</strong>: <strong>2025年6月23日（周一） 晚上20:00至21:00</strong></li>
+                <li><strong>提交地点</strong>: <strong>下沙校区行政楼一楼大厅</strong></li>
+                <li><strong>提交内容</strong>: 打印并装订好的期末论文纸质版</li>
+            </ul>
+        </li>
+    </ul>
+    
+    <hr>
+
+    <p>希望各位同学认真对待本次大作业，它将是你们展示学期所学、锻炼研究能力和实践能力的绝佳机会。预祝大家取得优异的成绩！</p>
+    <p>如有任何疑问，请及时与我联系。</p>
+
