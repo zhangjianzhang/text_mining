@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>期末作业任务列表</title>
+    <style>
+        /* Basic Page Styles */
+        html {
+            scroll-behavior: smooth; /* Enables smooth scrolling */
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Source Han Sans SC", "Noto Sans CJK SC", "WenQuanYi Micro Hei", sans-serif;
+            line-height: 1.8;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #fdfdfd;
+        }
+
+        /* Headings */
+        h1, h2, h3, h4 {
+            color: #1a237e;
+        }
+        h1 { text-align: center; }
+        h3 { border-bottom: 2px solid #e0e0e0; padding-bottom: 10px; margin-top: 2.5em; }
+        h4 {
+            color: #3f51b5;
+            font-size: 1.2em;
+            margin-top: 2em;
+            padding-top: 20px; /* Add padding to prevent content from hiding behind a fixed header (if any) */
+            margin-top: -20px; /* Counteract the padding to maintain layout */
+        }
+        h4:target {
+             animation: highlight 1.5s; /* Highlight animation for target link */
+        }
+        @keyframes highlight {
+            from { background-color: #f5f5b5; }
+            to { background-color: transparent; }
+        }
+
+        /* Table of Contents */
+        #toc {
+            background-color: #f8f9fa;
+            border: 1px solid #e9ecef;
+            padding: 15px 25px;
+            border-radius: 8px;
+            margin-bottom: 2.5em;
+        }
+        #toc h3 {
+            margin-top: 0;
+            border-bottom: none;
+            padding-bottom: 5px;
+            font-size: 1.5em;
+        }
+        #toc ul {
+            padding-left: 0;
+            list-style-type: none;
+        }
+        #toc > ul > li {
+            font-weight: bold;
+            margin-top: 15px;
+            color: #343a40;
+        }
+        #toc ul ul {
+            padding-left: 20px;
+            list-style-type: square;
+        }
+        #toc ul ul li {
+            font-weight: normal;
+        }
+
+        /* Other elements */
+        p, li { font-size: 16px; }
+        a { color: #1e88e5; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+        pre {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 5px;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            border: 1px solid #eee;
+        }
+        code {
+            font-family: "Courier New", Courier, monospace;
+            color: #c7254e;
+            background-color: #f9f2f4;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        .keyword-info {
+            background-color: #e7f3fe;
+            border-left: 4px solid #2196F3;
+            padding: 10px 15px;
+            margin: 15px 0;
+            font-size: 15px;
+        }
+        .download-link {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 8px 15px;
+            margin: 10px 0;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .download-link:hover {
+            background-color: #45a049;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>期末作业任务列表</h1>
+
+    <nav id="toc">
+        <h4>任务目录</h4>
+        <ul>
+            <li>文本分类任务
+                <ul>
+                    <li><a href="#qbqtc">QBQTC - QQ浏览器搜索相关性</a></li>
+                    <li><a href="#afqmc">AFQMC - 蚂蚁金融语义相似度</a></li>
+                    <li><a href="#eprstmt">EPRSTMT - 电商产品评论情感分析</a></li>
+                    <li><a href="#csldcp">CSLDCP - 中文科学文献学科分类</a></li>
+                    <li><a href="#tnews">TNEWS - 今日头条中文新闻分类</a></li>
+                    <li><a href="#iflytek">IFLYTEK - 长文本分类</a></li>
+                    <li><a href="#ocnli">OCNLI - 中文原版自然语言推理</a></li>
+                    <li><a href="#bustm">BUSTM - 小布助手对话短文本匹配</a></li>
+                </ul>
+            </li>
+            <li>阅读理解任务
+                <ul>
+                    <li><a href="#chid">ChID - 成语阅读理解填空</a></li>
+                    <li><a href="#cmrc2018">CMRC2018 - 简体中文阅读理解</a></li>
+                    <li><a href="#c3">C3 - 中文多选阅读理解</a></li>
+                    <li><a href="#csl">CSL - 论文关键词识别</a></li>
+                    <li><a href="#cluewsc">CLUEWSC - WSC Winograd模式挑战</a></li>
+                </ul>
+            </li>
+            <li>命名实体识别任务
+                <ul>
+                    <li><a href="#fine-grain-ner">Fine-Grain-NER - 细粒度命名实体识别</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <h3>文本分类任务</h3>
+
+    <h4 id="qbqtc">QBQTC-QQ浏览器搜索相关性数据集</h4>
+    <a href="./tasks/QBQTC.json" class="download-link" download>下载数据集 (QBQTC.json)</a>
+    <p>QQ浏览器搜索引擎目前针对大搜场景构建的一个融合了相关性、权威性、内容质量、 时效性等维度标注的学习排序（LTR）数据集，广泛应用在搜索引擎业务场景中。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Search Relevance Prediction</code>, <code>Query-Title Matching</code>, <code>Learning to Rank for Search</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"id": 0, "query": "小孩咳嗽感冒", "title": "小孩感冒过后久咳嗽该吃什么药育儿问答宝宝树", "label": "1"}
+{"id": 1, "query": "前列腺癌根治术后能活多久", "title": "前列腺癌转移能活多久前列腺癌治疗方法盘点-家庭医生在线肿瘤频道", "label": "1"}
+{"id": 3, "query": "如何将一个文件复制到另一个文件里", "title": "怎么把布局里的图纸复制到另外一个文件中去百度文库", "label": "0"}
+{"id": 214, "query": "免费观看电影速度与激情1", "title": "《速度与激情1》全集-高清电影完整版-在线观看", "label": "2"}
+{"id": 98, "query": "昆明公积金", "title": "昆明异地购房不能用住房公积金中新网", "label": "2"}
+{"id": 217, "query": "多张图片怎么排版好看", "title": "怎么排版图片", "label": "2"}</code></pre>
+    <p>相关性的含义：0，相关程度差；1，有一定相关性；2，非常相关。数字越大相关性越高。</p>
+
+    <h4 id="afqmc">AFQMC-蚂蚁金融语义相似度</h4>
+    <a href="./tasks/AFQMC.json" class="download-link" download>下载数据集 (AFQMC.json)</a>
+    <p>每一条数据有三个属性，从前往后分别是 句子1，句子2，句子相似度标签。其中label标签，1 表示sentence1和sentence2的含义类似，0表示两个句子的含义不同。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Sentence Semantic Matching</code>, <code>Paraphrase Identification</code>, <code>Semantic Textual Similarity</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"sentence1": "双十一花呗提额在哪", "sentence2": "里可以提花呗额度", "label": "0"}</code></pre>
+
+    <h4 id="eprstmt">EPRSTMT-电商产品评论情感分析数据集</h4>
+    <a href="./tasks/EPRSTMT.json" class="download-link" download>下载数据集 (EPRSTMT.json)</a>
+    <p>每一条数据有三个属性，从前往后分别是 id,sentence,label。其中label标签，Positive 表示正向，Negative 表示负向。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Aspect-Based Sentiment Analysis</code>, <code>Product Review Sentiment Classification</code>, <code>Fine-grained Emotion Analysis</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"id": 23, "sentence": "外包装上有点磨损，试听后感觉不错", "label": "Positive"}</code></pre>
+
+    <h4 id="csldcp">CSLDCP-中文科学文献学科分类数据集</h4>
+    <a href="./tasks/CSLDCP.json" class="download-link" download>下载数据集 (CSLDCP.json)</a>
+    <p>中文科学文献学科分类数据集，包括67个类别的文献类别，这些类别来自于分别归属于13个大类，范围从社会科学到自然科学，文本为文献的中文摘要。</p>
+    <p>每一条数据有三个属性，从前往后分别是 id,sentence,label。其中label标签，Positive 表示正向，Negative 表示负向。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Scientific Document Classification</code>, <code>Academic Paper Subject Classification</code>, <code>Discipline-specific Text Classification</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"content": "通过几年的观察和实践，初步掌握了盆栽菊花的栽培技术及方法，并进行了总结，以满足人们对花卉消费的需求，提高观赏植物的商品价值，为企业化生产的盆菊提供技术指导。","label": "园艺学", "id": 1770}
+{"content": "GPS卫星导航定位精度的高低很大程度上取决于站星距离(即伪距)的测量误差.载波相位平滑伪距在保证环路参数满足动态应力误差要求的基础上。。。本文详细论述了载波相位平滑伪距的原理和工程实现方法,并进行了仿真验证.", "label": "航空宇航科学与技术", "id": 979}</code></pre>
+
+    <h4 id="tnews">TNEWS-今日头条中文新闻（短文本）分类数据集</h4>
+    <a href="./tasks/TNEWS.json" class="download-link" download>下载数据集 (TNEWS.json)</a>
+    <p>该数据集来自今日头条的新闻版块，共提取了15个类别的新闻，包括旅游、教育、金融、军事等。</p>
+    <p>每一条数据有三个属性，从前往后分别是 分类ID，分类名称，新闻字符串（仅含标题）。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Short Text Classification</code>, <code>News Topic Classification</code>, <code>Headline-based Topic Labeling</code> (也可以使用其他的与该任务相关的关键词)</p>
+    
+    <p><strong>示例：</strong></p>
+    <pre><code>{"label": "102", "label_des": "news_entertainment", "sentence": "江疏影甜甜圈自拍，迷之角度竟这么好看，美吸引一切事物"}</code></pre>
+
+    <h4 id="iflytek">IFLYTEK-长文本分类数据集</h4>
+    <a href="./tasks/IFLYTEK.json" class="download-link" download>下载数据集 (IFLYTEK.json)</a>
+    <p>该数据集关于app应用描述的长文本标注数据，包含和日常生活相关的各类应用主题，共119个类别："打车":0,"地图导航":1,"免费WIFI":2,"租车":3,….,"女性":115,"经营":116,"收款":117,"其他":118(分别用0-118表示)。</p>
+    <p>每一条数据有三个属性，从前往后分别是 类别ID，类别名称，文本内容。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Long-document Classification</code>, <code>App Description Categorization</code>, <code>Hierarchical Text Classification</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"label": "110", "label_des": "社区超市", "sentence": "朴朴快送超市创立于2016年，专注于打造移动端30分钟即时配送一站式购物平台，商品品类包含水果、蔬菜、肉禽蛋奶、海鲜水产、粮油调味、酒水饮料、休闲食品、日用品、外卖等。朴朴公司希望能以全新的商业模式，更高效快捷的仓储配送模式，致力于成为更快、更好、更多、更省的在线零售平台，带给消费者更好的消费体验，同时推动中国食品安全进程，成为一家让社会尊敬的互联网公司。,朴朴一下，又好又快,1.配送时间提示更加清晰友好2.保障用户隐私的一些优化3.其他提高使用体验的调整4.修复了一些已知bug"}</code></pre>
+
+    <h4 id="ocnli">OCNLI-中文原版自然语言推理数据集</h4>
+    <a href="./tasks/OCNLI.json" class="download-link" download>下载数据集 (OCNLI.json)</a>
+    <p>OCNLI，即原生中文自然语言推理数据集，是第一个非翻译的、使用原生汉语的大型中文自然语言推理数据集。</p>
+    <p>每条数据中有用的三个属性为：sentence1（句子1），sentence2（句子2），label表示句子1与句子2之间的关系，有三种取值contradiction（矛盾）、entailment（蕴含）、neutral（无关），其他字段值可以忽略。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Natural Language Inference</code>, <code>Textual Entailment</code>, <code>Sentence Pair Classification</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{
+"level":"medium",
+"sentence1":"身上裹一件工厂发的棉大衣,手插在袖筒里",
+"sentence2":"身上至少一件衣服",
+"label":"entailment","label0":"entailment","label1":"entailment","label2":"entailment","label3":"entailment","label4":"entailment",
+"genre":"lit","prem_id":"lit_635","id":0
+}</code></pre>
+
+    <h4 id="bustm">BUSTM-小布助手对话短文本匹配数据集</h4>
+    <a href="./tasks/BUSTM.json" class="download-link" download>下载数据集 (BUSTM.json)</a>
+    <p>对话短文本语义匹配数据集，源于小布助手。它是OPPO为品牌手机和IoT设备自研的语音助手，为用户提供便捷对话式服务。
+    意图识别是对话系统中的一个核心任务，而对话短文本语义匹配是意图识别的主流算法方案之一。要求根据短文本query-pair，预测它们是否属于同一语义，1表示语义相同，0表示语义不同。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Dialogue Intent Matching</code>, <code>Short Text Semantic Matching</code>, <code>Spoken Language Understanding</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"id": 5, "sentence1": "女孩子到底是不是你", "sentence2": "你不是女孩子吗", "label": "1"}
+{"id": 18, "sentence1": "小影,你说话慢了", "sentence2": "那你说慢一点", "label": "0"}</code></pre>
+
+    <h3>阅读理解任务</h3>
+
+    <h4 id="chid">ChID-成语阅读理解填空</h4>
+    <a href="./tasks/ChID.json" class="download-link" download>下载数据集 (ChID.json)</a>
+    <p>以成语完形填空形式实现，文中多处成语被遮盖，#idiom#表示应该填充成语的位置，候选项中包含了近义的成语。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Cloze-style Machine Reading Comprehension</code>, <code>Idiom Cloze Test</code>, <code>Commonsense Reasoning for MRC</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"id": 1421, "candidates": ["巧言令色", "措手不及", "风流人物", "八仙过海", "平铺直叙", "草木皆兵", "言行一致"],
+"content": "当广州憾负北控,郭士强黯然退场那一刻,CBA季后赛悬念仿佛一下就消失了,可万万没想到,就在时隔1天后,北控外援约瑟夫-杨因个人裁决案(拖欠上一家经纪公司的费用),
+导致被禁赛,打了马布里一个#idiom#,加上郭士强带领广州神奇逆转天津,让...", "answer": 1}</code></pre>
+
+    <h4 id="cmrc2018">CMRC2018-简体中文阅读理解任务</h4>
+    <a href="./tasks/CMRC2018.json" class="download-link" download>下载数据集 (CMRC2018.json)</a>
+    <p>根据context的内容，回答questions。</p>
+    <p>每条数据包含一个context，以及多个根据context出的question，每个question包含三个正确的候选answer，你系统输出的answer只要与任意一个正确answer相同，即可视为系统输出了正确答案。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Extractive Question Answering</code>, <code>Machine Reading Comprehension</code>, <code>Span-based Question Answering</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{
+    "paragraphs": [
+        {
+            "id": "DEV_0",
+            "context": "《战国无双3》（）是由光荣和ω-force开发的战国无双系列的正统第三续作。本作以三大故事为主轴，分别是以武田信玄等人为主的《关东三国志》，织田信长等人为主的《战国三杰》，石田三成等人为主的《关原的年轻武者》，丰富游戏内的剧情。此部份专门介绍角色，欲知武器情报、奥义字或擅长攻击类型等，请至战国无双系列1.由于乡里大辅先生因故去世，不得不寻找其他声优接手。从猛将传 and Z开始。2.战国无双 编年史的原创男女主角亦有专属声优。此模式是任天堂游戏谜之村雨城改编的新增模式。本作中共有20张战场地图（不含村雨城），后来发行的猛将传再新增3张战场地图。但游戏内战役数量繁多，部分地图会有兼用的状况，战役虚实则是以光荣发行的2本「战国无双3 人物真书」内容为主，以下是相关介绍。（注：前方加☆者为猛将传新增关卡及地图。）合并本篇和猛将传的内容，村雨城模式剔除，战国史模式可直接游玩。主打两大模式「战史演武」&「争霸演武」。系列作品外传作品",
+            "qas": [
+                {
+                    "question": "《战国无双3》是由哪两个公司合作开发的？",
+                    "id": "DEV_0_QUERY_0",
+                    "answers": [
+                        { "text": "光荣和ω-force", "answer_start": 11 },
+                        { "text": "光荣和ω-force", "answer_start": 11 },
+                        { "text": "光荣和ω-force", "answer_start": 11 }
+                    ]
+                },
+                {
+                    "question": "男女主角亦有专属声优这一模式是由谁改编的？",
+                    "id": "DEV_0_QUERY_1",
+                    "answers": [
+                        { "text": "村雨城", "answer_start": 226 },
+                        { "text": "村雨城", "answer_start": 226 },
+                        { "text": "任天堂游戏谜之村雨城", "answer_start": 219 }
+                    ]
+                },
+                {
+                    "question": "战国史模式主打哪两个模式？",
+                    "id": "DEV_0_QUERY_2",
+                    "answers": [
+                        { "text": "「战史演武」&「争霸演武」", "answer_start": 395 },
+                        { "text": "「战史演武」&「争霸演武」", "answer_start": 395 },
+                        { "text": "「战史演武」&「争霸演武」", "answer_start": 395 }
+                    ]
+                }
+            ]
+        }
+    ],
+    "id": "DEV_0",
+    "title": "战国无双3"
+}</code></pre>
+
+    <h4 id="c3">C3-中文多选阅读理解</h4>
+    <a href="./tasks/C3.json" class="download-link" download>下载数据集 (C3.json)</a>
+    <p>中文多选阅读理解数据集，包含对话和长文等混合类型数据集。</p>
+    <p>每条数据包含一组对话或者一段长文本，一个或者多个question，每个question对应的answer，正确的answer可能是choice中的一个或者多个选项。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Multiple-choice Question Answering</code>, <code>Conversational Question Answering</code>, <code>Dialogue-based Reading Comprehension</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>[
+    [
+        "男：晓奇让我到会议室去开会，到了那儿，结果一个人也没有。",
+        "女：你忘了，今天可是愚人节呀。"
+    ],
+    [
+        {
+            "question": "我们从对话里可以知道什么?",
+            "choice": [
+                "会议已结束了",
+                "开会时间变了",
+                "开会地点改了",
+                "晓奇在开玩笑"
+            ],
+            "answer": "晓奇在开玩笑"
+        }
+    ],
+    "49-119"
+]</code></pre>
+
+    <h4 id="csl">CSL-论文关键词识别</h4>
+    <a href="./tasks/CSL.json" class="download-link" download>下载数据集 (CSL.json)</a>
+    <p>中文科技文献数据集(CSL)取自中文论文摘要及其关键词，论文选自部分中文社会科学和自然科学核心期刊，任务目标是根据摘要判断关键词是否全部为真实关键词（真实为1，伪造为0）。</p>
+    <p>每一条数据有四个属性，从前往后分别是 数据ID，论文摘要，关键词，真假标签。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Keyphrase Identification</code>, <code>Scientific Keyword Verification</code>, <code>Document-Keyword Matching</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"id": 1, "abst": "为解决传统均匀FFT波束形成算法引起的3维声呐成像分辨率降低的问题,该文提出分区域FFT波束形成算法.远场条件下,
+以保证成像分辨率为约束条件,以划分数量最少为目标,采用遗传算法作为优化手段将成像区域划分为多个区域.在每个区域内选取一个波束方向,
+获得每一个接收阵元收到该方向回波时的解调输出,以此为原始数据在该区域内进行传统均匀FFT波束形成.对FFT计算过程进行优化,降低新算法的计算量,
+使其满足3维成像声呐实时性的要求.仿真与实验结果表明,采用分区域FFT波束形成算法的成像分辨率较传统均匀FFT波束形成算法有显著提高,且满足实时性要求.",
+"keyword": ["水声学", "FFT", "波束形成", "3维成像声呐"], "label": "1"}</code></pre>
+
+    <h4 id="cluewsc">CLUEWSC-WSC Winograd模式挑战中文版</h4>
+    <a href="./tasks/CLUEWSC.json" class="download-link" download>下载数据集 (CLUEWSC.json)</a>
+    <p>Winograd Scheme Challenge（WSC）是一类代词消歧的任务，即判断句子中的代词指代的是哪个名词。题目以真假判别的方式出现，如：<br>
+    句子：这时候放在[床]上[枕头]旁边的[手机]响了，我感到奇怪，因为欠费已被停机两个月，现在[它]突然响了。需要判断“它”指代的是“床”、“枕头”，还是“手机”？<br>
+    从中国现当代作家文学作品中抽取，再经语言专家人工挑选、标注。</p>
+    <p>"true"表示代词确实是指代span1_text中的名词的，"false"代表不是。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Coreference Resolution</code>, <code>Winograd Schema Challenge</code>, <code>Pronoun Disambiguation</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{"target": 
+    {"span2_index": 37, 
+    "span1_index": 5, 
+    "span1_text": "床", 
+    "span2_text": "它"}, 
+"idx": 261, 
+"label": "false", 
+"text": "这时候放在床上枕头旁边的手机响了，我感到奇怪，因为欠费已被停机两个月，现在它突然响了。"}</code></pre>
+
+    <h3>命名实体识别任务</h3>
+
+    <h4 id="fine-grain-ner">Fine-Grain-NER-细粒度命名实体识别</h4>
+    <a href="./tasks/Fine-Grain-NER.json" class="download-link" download>下载数据集 (Fine-Grain-NER.json)</a>
+    <p>数据分为10个标签类别，分别为: 地址（address），书名（book），公司（company），游戏（game），政府（government），电影（movie），姓名（name），组织机构（organization），职位（position），景点（scene）。标签定义如下：</p>
+    <ul>
+        <li>地址（address）: <strong>省</strong>市<strong>区</strong>街<strong>号</strong>，<strong>路</strong>，<strong>街道</strong>，<strong>村</strong>等（如单独出现也标记）。地址是标记尽量完全的, 标记到最细。</li>
+        <li>书名（book）: 小说，杂志，习题集，教科书，教辅，地图册，食谱，书店里能买到的一类书籍，包含电子书。</li>
+        <li>公司（company）: <strong>公司</strong>，<strong>集团</strong>，<strong>银行</strong>（央行，中国人民银行除外，二者属于政府机构）, 如：新东方，包含新华网/中国军网等。</li>
+        <li>游戏（game）: 常见的游戏，注意有一些从小说，电视剧改编的游戏，要分析具体场景到底是不是游戏。</li>
+        <li>政府（government）: 包括中央行政机关和地方行政机关两级。 中央行政机关有国务院、国务院组成部门（包括各部、委员会、中国人民银行和审计署）、国务院直属机构（如海关、税务、工商、环保总局等），军队等。</li>
+        <li>电影（movie）: 电影，也包括拍的一些在电影院上映的纪录片，如果是根据书名改编成电影，要根据场景上下文着重区分下是电影名字还是书名。</li>
+        <li>姓名（name）: 一般指人名，也包括小说里面的人物，宋江，武松，郭靖，小说里面的人物绰号：及时雨，花和尚，著名人物的别称，通过这个别称能对应到某个具体人物。</li>
+        <li>组织机构（organization）: 篮球队，足球队，乐团，社团等，另外包含小说里面的帮派如：少林寺，丐帮，铁掌帮，武当，峨眉等。</li>
+        <li>职位（position）: 古时候的职称：巡抚，知州，国师等。现代的总经理，记者，总裁，艺术家，收藏家等。</li>
+        <li>景点（scene）: 常见旅游景点如：长沙公园，深圳动物园，海洋馆，植物园，黄河，长江等。</li>
+    </ul>
+    <p>数据分为两部分，text代表文本，label代表文本中出现的所有包含在10个类别中的实体。</p>
+    <p class="keyword-info"><strong>推荐检索关键词：</strong><code>Fine-grained Named Entity Recognition</code>, <code>Nested Named Entity Recognition</code>, <code>Entity Typing</code> (也可以使用其他的与该任务相关的关键词)</p>
+    <p><strong>示例：</strong></p>
+    <pre><code>{
+"text": "北京勘察设计协会副会长兼秘书长周荫如",
+"label": {"organization": {"北京勘察设计协会": [[0, 7]]}, "name": {"周荫如": [[15, 17]]}, "position": {"副会长": [[8, 10]], "秘书长": [[12, 14]]}}
+}</code></pre>
+    <p>其中，organization，name，position代表实体类别，"organization": {"北京勘察设计协会": [[0, 7]]}：表示原text中，"北京勘察设计协会" 是类别为 "组织机构（organization）" 的实体, 并且start_index为0，end_index为7 （注：下标从0开始计数）。"name": {"周荫如": [[15, 17]]}：表示原text中，"周荫如" 是类别为 "姓名（name）" 的实体, 并且start_index为15，end_index为17。"position": {"副会长": [[8, 10]], "秘书长": [[12, 14]]}：表示原text中，"副会长" 是类别为 "职位（position）" 的实体, 并且start_index为8，end_index为10，同时，"秘书长" 也是类别为 "职位（position）" 的实体，并且start_index为12，end_index为14。</p>
+</body>
+</html>
