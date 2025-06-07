@@ -40,19 +40,19 @@
 
     <p>近年来，大语言模型（Large Language Model, LLM）为自然语言处理（NLP）领域带来了范式性的变革。其核心特征在于，能够以一个<strong>统一的模型</strong>和<strong>“提示” (Prompting) 的范式</strong>来处理极其多样化的NLP任务，而<strong>不再需要像传统方法那样为每个任务单独设计和训练专门的模型</strong>。</p>
 
-    <p>那么，在这种新范式下，大语言模型在各类具体的NLP任务上表现究竟如何？相较于为特定任务精细优化的传统方法，它存在哪些优势与不足？</p>
-
-    <p>本次期末作业的核心，就是要求大家通过实证研究来回答这一前沿问题。每位同学需要：</p>
+    <p>那么，在这种新范式下，大语言模型在各类具体的NLP任务上表现究竟如何？本次期末作业的核心，就是要求大家通过实证研究来回答这一前沿问题。每位同学需要：</p>
     
     <ol>
         <li>
-            <strong>独立选择</strong>一个中文语言理解评测基准（CLUE）中的具体任务。
+            <a href="./tasks.html" target="_blank" rel="noopener noreferrer"><strong>从期末作业任务列表</strong></a>选择一个中文语言理解任务。
         </li>
         <li>
             <strong>调用大语言模型API</strong>，以“提示”的方式来解决这个任务。
         </li>
         <li>
-            将其结果与该任务上经典的<strong>非大语言模型方法</strong>的公开成果进行严格的<strong>量化比较和深入分析</strong>，从而亲身体验并评估这一技术变革的实际效果与局限。
+            
+          借鉴人工智能顶会论文中的研究方法，对大语言模型在具体NLP任务上的表现<strong>进行专业、深入的定量与定性分析</strong>。  
+            
         </li>
     </ol>
 
@@ -62,12 +62,11 @@
 
     <h4>1. 任务选择</h4>
     <ul>
-        <li><strong>访问CLUE任务列表</strong>: <a href="https://www.cluebenchmarks.com/introduce.html" target="_blank" rel="noopener noreferrer">https://www.cluebenchmarks.com/introduce.html</a></li>
-        <li>从列表中选择<strong>一个</strong>你感兴趣的任务进行研究。</li>
+        <li>从<a href="./tasks.html" target="_blank" rel="noopener noreferrer"><strong>从期末作业任务列表</strong></a>中选择<strong>一个你感兴趣的任务</strong>进行研究。</li>
     </ul>
 
     <h4>2. 文献研究与理论阐述</h4>
-    <p>在动手实验之前，你需要进行充分的文献调研，并清晰地阐述以下内容：</p>
+    <p>在动手实验之前，你需要进行充分的文献调研，<strong>结合你所选择的任务的数据集的特点</strong>，清晰地阐述以下内容：</p>
     <ul>
         <li><strong>任务定义</strong>: 准确描述你所选任务的目标是什么。</li>
         <li><strong>任务难点</strong>: 分析该任务在技术和理论层面存在的主要挑战。</li>
@@ -75,9 +74,22 @@
         <li><strong>商业应用</strong>: 结合所学商科知识，探讨该任务在<strong>大数据管理与应用</strong>、<strong>数字经济</strong>、<strong>国际商务</strong>、<strong>会计学</strong>等领域的实际应用场景和商业价值。</li>
     </ul>
 
+<h4>3. 文献检索与学习</h4>
+    <ul>
+    
+        <li><strong>文献检索</strong>: 根据你选择的任务，在 <strong><a href="https://dblp.org/" target="_blank" rel="noopener noreferrer">DBLP</a></strong> 数据库中检索相关文献。
+            <ul>
+                <li><strong>时间范围</strong>: <strong>2020年至2025年</strong>。</li>
+                <li><strong>会议范围</strong>: 仅限人工智能领域的顶级会议，包括 <strong>ACL, EMNLP, COLING, AAAI, IJCAI, ICLR, ICML, KDD, WWW, NeurIPS</strong>。</li>
+                <li><strong>检索词示例</strong>: 若选择命名实体识别任务，可使用<code>EMNLP "named entity recognition"</code>。</li>
+            </ul>
+        </li>
+        <li><strong>论文精读</strong>: 从检索结果中，精选 <strong>3篇</strong> 与你的任务高度相关的论文进行深入阅读和学习。</li>
+    </ul>
+
     <h4>3. 实验操作：调用大语言模型API</h4>
     <ul>
-        <li><strong>数据下载</strong>: 在你所选任务的介绍页面，下载官方提供的<strong>测试集（Test Set）</strong>。</li>
+        <li><strong>数据下载</strong>: 在你所选任务的介绍页面，下载本课程整理提供的测试数据集。</li>
         <li><strong>API调用</strong>: 选择一个大语言模型（如DeepSeek, Qwen, 豆包, Kimi等），通过调用其API，对测试集中的每一条数据进行预测，并<strong>保存完整的预测结果</strong>。
             <ul>
                 <li><strong>模型选择</strong>: 可参考大语言模型综合能力评测平台：<a href="https://www.superclueai.com/" target="_blank" rel="noopener noreferrer">https://www.superclueai.com/</a></li>
@@ -91,27 +103,23 @@
         </li>
     </ul>
 
-    <h4>4. 结果评估与对比分析</h4>
+    <h4>4. 结果分析与评估</h4>
+    <p>此步骤是本次作业的重点。你需要<strong>参考所选的3篇顶会论文</strong>，对你的大语言模型实验结果进行分析。</p>
     <ul>
-        <li><strong>确定评价指标</strong>: 查找提出该数据集的<strong>原始论文</strong>或使用该数据集的相关研究，明确该任务使用的<strong>评价指标</strong>（如准确率Accuracy, 精确率Precision, 召回率Recall, F1值等）。</li>
-        <li><strong>计算性能</strong>: 编程计算你选择的大语言模型在测试集上的各项评价指标得分。</li>
-        <li><strong>对比分析</strong>:
+        <li><strong>定量分析</strong>:
             <ul>
-                <li>找到一篇（或多篇）使用了<strong>相同测试集</strong>的<strong>非大语言模型方法</strong>的研究论文。</li>
-                <li>将你的大语言模型结果与论文中报告的结果进行对比，<strong>制作清晰的图表</strong>来展示性能差异。</li>
-                <li><strong>务必确保</strong>你的实验设置（尤其是测试集）与所参考的论文<strong>完全一致</strong>。</li>
+                <li>学习并总结3篇论文中使用了哪些<strong>评测指标</strong> (Evaluation Metrics)，如 F1-score, BLEU, ROUGE, Accuracy等。</li>
+                <li>在你的论文中明确定义这些指标，并编程计算你的LLM在这些指标上的性能表现。</li>
+            </ul>
+        </li>
+        <li><strong>定性分析</strong>:
+            <ul>
+                <li>借鉴3篇论文中进行<strong>结果分析</strong>和<strong>错误分析 (Error Analysis)</strong> 的方法。</li>
+                <li>对你的LLM的预测结果进行深入的案例分析，探讨其优势（在哪些样本上表现好，为什么）和不足（在哪些样本上表现差，原因是什么），并思考潜在的改进方向。</li>
             </ul>
         </li>
     </ul>
-
-    <h4>5. 错误分析 (Error Analysis)</h4>
-    <p>对大语言模型预测失败的案例进行深入分析。你需要：</p>
-    <ul>
-        <li>挑选一些典型的错误样本。</li>
-        <li>分析模型出错的可能原因（例如，语义理解偏差、知识缺失、逻辑推理错误等）。</li>
-        <li>思考改进的方向。</li>
-    </ul>
-
+    
     <hr>
 
     <h3>三、 最终成果与提交</h3>
@@ -126,11 +134,10 @@
                 <li>任务难点分析</li>
                 <li>现有解决方法/算法综述</li>
                 <li>商业应用场景探讨</li>
-                <li>数据集介绍</li>
                 <li>评价指标定义与说明</li>
                 <li>核心API调用代码及返回结果示例</li>
-                <li>实验结果对比与分析（包含图或表）</li>
-                <li>大语言模型错误分析</li>
+                <li>实验结果定量分析（以图或表格方式呈现评价指标结果）</li>
+                <li>实验结果定性分析（错误案例分析）</li>
                 <li>总结与展望</li>
             </ol>
         </li>
