@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L1 vs L2 正则化先验分布对比演示</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: #f8f9fa;
+            color: #333;
+            padding: 40px 20px;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            width: 90%;
+            max-width: 900px;
+        }
+        h2 {
+            text-align: center;
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        .chart-wrapper {
+            position: relative;
+            height: 500px;
+            width: 100%;
+        }
+        .explanation {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e9ecef;
+            border-left: 5px solid #007bff;
+            border-radius: 4px;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2>L1 (拉普拉斯) vs L2 (高斯) 正则化先验分布对比</h2>
+        
+        <div class="chart-wrapper">
+            <canvas id="regChart"></canvas>
+        </div>
+
+        <div class="explanation">
+            <ul>
+                <li><strong>L2 正则化（蓝色曲线）：</strong> 顶部平滑圆润。这意味着参数在接近 0 的区域时，模型的惩罚力度变化极其缓慢。模型倾向于把权重“温柔地挤压”到一个很小的值，但不会强迫它完全等于 0。</li>
+                <li><strong>L1 正则化（红色曲线）：</strong> 在 0 处有一个极其尖锐的不可导尖峰（刺）。这个尖峰就像一个“黑洞”，只要特征不够重要，权重就会顺着陡峭的边缘滑落并死死卡在绝对的 0 上，从而实现<strong>特征选择（产生稀疏解）</strong>。</li>
+            </ul>
+        </div>
+    </div>
+
+    <script>
+        // 获取 Canvas 上下文
+        const ctx = document.getElementById('regChart').getContext('2d');
+        
+        const labels = [];
+        const dataL1 = [];
+        const dataL2 = [];
+
+        // 数学公式：生成从 -5 到 5 的数据点，步长为 0.1
+        for (let x = -5; x <= 5; x += 0.1) {
+            labels.push(x.toFixed(1));
+            
+            // 1. L2 对应的 高斯分布 (Gaussian) PDF
+            // 公式: f(x) = (1 / sqrt(2*pi*sigma^2)) * e^(-(x-mu)^2 / (2*sigma^2))
+            // 设定 mu = 0, sigma = 1
+            let gaussian = (1 / Math.sqrt(2 * Math.PI)) * Math.exp(-0.5 * Math.pow(x, 2));
+            dataL2.push(gaussian);
+            
+            // 2. L1 对应的 拉普拉斯分布 (Laplace) PDF
+            // 公式: f(x) = (1 / 2b) * e^(-|x-mu| / b)
+            // 设定 mu = 0, b = 1
+            let laplace = (1 / 2) * Math.exp(-Math.abs(x));
+            dataL1.push(laplace);
+        }
+
+        // 初始化 Chart.js 实例
+        new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: labels,
+                datasets: [
+                    {
+                        label: 'L2 (高斯分布) - 倾向于平滑收缩',
+                        data: dataL2,
+                        borderColor: 'rgba(54, 162, 235, 1)',
+                        backgroundColor: 'rgba(54, 162, 235, 0.1)',
+                        borderWidth: 3,
+                        tension: 0.4, // tension 大于 0 让曲线圆滑
+                        fill: true
+                    },
+                    {
+                        label: 'L1 (拉普拉斯分布) - 倾向于绝对归零',
+                        data: dataL1,
+                        borderColor: 'rgba(255, 99, 132, 1)',
+                        backgroundColor: 'rgba(255, 99, 132, 0.1)',
+                        borderWidth: 3,
+                        tension: 0, // tension 为 0 确保 0 点处是尖锐的折线
+                        fill: true
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                interaction: {
+                    mode: 'index',
+                    intersect: false,
+                },
+                scales: {
+                    x: {
+                        title: { display: true, text: '参数权重值 (w)', font: { size: 14, weight: 'bold' } },
+                        grid: { display: false }
+                    },
+                    y: {
+                        title: { display: true, text: '概率密度', font: { size: 14, weight: 'bold' } },
+                        beginAtZero: true
+                    }
+                },
+                elements: {
+                    point: { radius: 0, hitRadius: 10, hoverRadius: 5 } // 隐藏折线上的点，使线条更干净
+                },
+                plugins: {
+                    tooltip: {
+                        callbacks: {
+                            label: function(context) {
+                                return context.dataset.label + ': ' + context.parsed.y.toFixed(4);
+                            }
+                        }
+                    }
+                }
+            }
+        });
+    </script>
+</body>
+</html>
