@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>词向量分布形状可视化：雷达图</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            color: #2c3e50;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 30px;
+            margin: 0;
+        }
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h1 { margin: 0; font-size: 1.6rem; }
+        p.subtitle { color: #7f8c8d; margin-top: 5px; }
+        
+        .container {
+            background: white;
+            padding: 20px 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            max-width: 800px;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .chart-wrapper {
+            width: 100%;
+            max-width: 600px;
+            margin-bottom: 20px;
+        }
+
+        /* ── 向量数值表格 ── */
+        .vector-table-section {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+
+        .vector-table-section h3 {
+            font-size: 0.95rem;
+            color: #555;
+            margin: 0 0 10px 0;
+            font-weight: 600;
+            letter-spacing: 0.03em;
+        }
+
+        .vector-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.88rem;
+        }
+
+        .vector-table th,
+        .vector-table td {
+            padding: 8px 12px;
+            text-align: center;
+            border: 1px solid #e0e0e0;
+        }
+
+        .vector-table thead th {
+            background-color: #f0f4f8;
+            font-weight: 600;
+            color: #34495e;
+        }
+
+        .vector-table tbody tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+
+        /* 词语名称列左对齐，带色块 */
+        .vector-table td.word-label {
+            text-align: left;
+            font-weight: 600;
+            white-space: nowrap;
+        }
+
+        .color-dot {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 6px;
+            vertical-align: middle;
+        }
+
+        /* 数值单元格，高值高亮 */
+        .vector-table td.val-high {
+            background-color: rgba(231, 76, 60, 0.12);
+            color: #c0392b;
+            font-weight: 600;
+        }
+        .vector-table td.val-mid {
+            background-color: rgba(243, 156, 18, 0.10);
+            color: #b7770d;
+        }
+        .vector-table td.val-low {
+            color: #95a5a6;
+        }
+
+        .explanation {
+            background: #eaf2f8;
+            border-left: 4px solid #3498db;
+            padding: 15px;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            line-height: 1.6;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        
+        .highlight {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>商务文本智能分析：词语分布规律的"形状"</h1>
+    <p class="subtitle">为什么相似的词具有相似的"分布形状"？</p>
+</header>
+
+<div class="container">
+    <div class="chart-wrapper">
+        <canvas id="wordRadarChart"></canvas>
+    </div>
+
+    <!-- ── 六维向量数值表格 ── -->
+    <div class="vector-table-section">
+        <h3>📊 六维共现向量数值</h3>
+        <table class="vector-table" id="vectorTable">
+            <thead>
+                <tr>
+                    <th>词语</th>
+                    <th>数据<br><span style="font-weight:400;font-size:0.8em;">Data</span></th>
+                    <th>算法<br><span style="font-weight:400;font-size:0.8em;">Algorithm</span></th>
+                    <th>算力<br><span style="font-weight:400;font-size:0.8em;">Compute</span></th>
+                    <th>战略<br><span style="font-weight:400;font-size:0.8em;">Strategy</span></th>
+                    <th>市场<br><span style="font-weight:400;font-size:0.8em;">Market</span></th>
+                    <th>管理<br><span style="font-weight:400;font-size:0.8em;">Manage</span></th>
+                </tr>
+            </thead>
+            <tbody id="vectorTableBody">
+                <!-- 由 JS 填充 -->
+            </tbody>
+        </table>
+    </div>
+
+    <div class="explanation">
+        <strong>说明：</strong><br>
+        观察上方雷达图，各个顶点代表不同的上下文维度（如"数据"、"算法"、"市场"等）。<br>
+        1. <strong>"人工智能"</strong>和<strong>"机器学习"</strong>虽然多边形的绝对面积（即词频/模长）相差很大，但它们的<span class="highlight">多边形形状高度嵌套、比例一致</span>。这在空间中对应着极小的"夹角"。<br>
+        2. <strong>"企业管理"</strong>的峰值出现在完全不同的维度（如"市场"、"战略"），其多边形形状与前两者截然不同，意味着它们在语义上不相关。<br>
+    </div>
+</div>
+
+<script>
+    const ctx = document.getElementById('wordRadarChart').getContext('2d');
+
+    const labels = ['数据 (Data)', '算法 (Algorithm)', '算力 (Compute)', '战略 (Strategy)', '市场 (Market)', '管理 (Manage)'];
+
+    // 词语数据集
+    const wordDatasets = [
+        {
+            label: '人工智能',
+            data: [90, 85, 75, 30, 40, 20],
+            backgroundColor: 'rgba(231, 76, 60, 0.2)',
+            borderColor: 'rgba(231, 76, 60, 1)',
+            borderWidth: 2,
+            pointBackgroundColor: 'rgba(231, 76, 60, 1)',
+            dotColor: '#e74c3c'
+        },
+        {
+            label: '机器学习',
+            data: [45, 42.5, 37.5, 15, 20, 10],
+            backgroundColor: 'rgba(52, 152, 219, 0.2)',
+            borderColor: 'rgba(52, 152, 219, 1)',
+            borderWidth: 2,
+            pointBackgroundColor: 'rgba(52, 152, 219, 1)',
+            dotColor: '#3498db'
+        },
+        {
+            label: '企业管理',
+            data: [20, 10, 15, 85, 95, 90],
+            backgroundColor: 'rgba(46, 204, 113, 0.2)',
+            borderColor: 'rgba(46, 204, 113, 1)',
+            borderWidth: 2,
+            pointBackgroundColor: 'rgba(46, 204, 113, 1)',
+            dotColor: '#2ecc71'
+        }
+    ];
+
+    // ── 填充向量表格 ──
+    const tbody = document.getElementById('vectorTableBody');
+    wordDatasets.forEach(ds => {
+        const tr = document.createElement('tr');
+
+        // 词语名称列
+        const tdLabel = document.createElement('td');
+        tdLabel.className = 'word-label';
+        tdLabel.innerHTML = `<span class="color-dot" style="background:${ds.dotColor}"></span>${ds.label}`;
+        tr.appendChild(tdLabel);
+
+        // 数值列（带热力色阶）
+        ds.data.forEach(val => {
+            const td = document.createElement('td');
+            td.textContent = val;
+            if (val >= 70) td.className = 'val-high';
+            else if (val >= 35) td.className = 'val-mid';
+            else td.className = 'val-low';
+            tr.appendChild(td);
+        });
+
+        tbody.appendChild(tr);
+    });
+
+    // ── 雷达图 ──
+    const chartDatasets = wordDatasets.map(({ dotColor, ...rest }) => rest);
+
+    const config = {
+        type: 'radar',
+        data: { labels, datasets: chartDatasets },
+        options: {
+            responsive: true,
+            scales: {
+                r: {
+                    angleLines: { display: true },
+                    suggestedMin: 0,
+                    suggestedMax: 100,
+                    ticks: { stepSize: 20 },
+                    pointLabels: {
+                        font: { size: 16 }
+                    }
+                }
+            },
+            plugins: {
+                legend: {
+                    position: 'top',
+                    labels: { font: { size: 14 } }
+                },
+                tooltip: {
+                    callbacks: {
+                        label: function(context) {
+                            return context.dataset.label + ': ' + context.raw + ' 次共现';
+                        }
+                    }
+                }
+            }
+        }
+    };
+
+    new Chart(ctx, config);
+</script>
+
+</body>
+</html>
