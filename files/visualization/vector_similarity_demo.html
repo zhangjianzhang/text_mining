@@ -25,11 +25,7 @@
             padding: 20px;
         }
 
-        header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
-
+        header { text-align: center; margin-bottom: 20px; }
         h1 { margin: 0; font-size: 1.5rem; }
         p.subtitle { color: #666; margin: 5px 0 0; }
 
@@ -74,12 +70,7 @@
             gap: 10px;
         }
 
-        .stat-item {
-            font-size: 0.9rem;
-        }
-
-        .v1-text { color: var(--v1-color); font-weight: bold; }
-        .v2-text { color: var(--v2-color); font-weight: bold; }
+        .stat-item { font-size: 0.9rem; }
 
         .formula-box {
             font-family: 'Times New Roman', Times, serif;
@@ -94,7 +85,6 @@
         .instruction {
             font-size: 0.85rem;
             color: #7f8c8d;
-            margin-top: 10px;
             padding: 10px;
             background: #fff3cd;
             border-radius: 4px;
@@ -103,7 +93,182 @@
 
         .value { font-family: monospace; font-size: 1.1rem; color: #d35400; }
 
+        /* Toggle Switch */
+        .toggle-card {
+            border-left: 4px solid #9b59b6;
+            padding: 10px 15px;
+            background: #fcfcfc;
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .toggle-label {
+            font-size: 0.95rem;
+            font-weight: 600;
+            color: var(--secondary-color);
+        }
+
+        .toggle-label span {
+            display: block;
+            font-size: 0.78rem;
+            font-weight: 400;
+            color: #999;
+            margin-top: 2px;
+        }
+
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 46px;
+            height: 24px;
+            flex-shrink: 0;
+        }
+
+        .switch input { opacity: 0; width: 0; height: 0; }
+
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            inset: 0;
+            background-color: #ccc;
+            border-radius: 24px;
+            transition: background-color 0.3s;
+        }
+
+        .slider::before {
+            content: '';
+            position: absolute;
+            height: 18px;
+            width: 18px;
+            left: 3px;
+            bottom: 3px;
+            background: white;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+
+        .switch input:checked + .slider { background-color: #9b59b6; }
+        .switch input:checked + .slider::before { transform: translateX(22px); }
+
+        /* Unit info rows */
+        .unit-info {
+            display: none;
+            margin-top: 6px;
+            padding-top: 6px;
+            border-top: 1px dashed #ddd;
+            font-size: 0.85rem;
+            color: #555;
+        }
+
+        .unit-info.visible { display: block; }
+        .unit-val { font-family: monospace; color: #8e44ad; font-weight: bold; }
+
         canvas { display: block; }
+        .canvas-area canvas { width: 600px; height: 600px; }
+
+        /* Derivation block below canvas */
+        .canvas-column {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .derivation {
+            margin-top: 12px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+            padding: 18px 22px;
+            width: 600px;
+            box-sizing: border-box;
+            border: 1px solid #e8e8e8;
+        }
+
+        .derivation h2 {
+            margin: 0 0 14px;
+            font-size: 0.9rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 8px;
+        }
+
+        .deriv-step {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+            margin: 7px 0;
+            font-size: 0.9rem;
+            line-height: 1.65;
+        }
+
+        .deriv-step .lbl {
+            color: #bbb;
+            font-size: 0.73rem;
+            min-width: 90px;
+            text-align: right;
+            flex-shrink: 0;
+            font-style: normal;
+        }
+
+        .deriv-step .eq {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            font-style: italic;
+            color: #2c3e50;
+            flex: 1;
+        }
+
+        .deriv-step .eq b { font-style: normal; color: #2980b9; }
+        .deriv-step .eq em { font-style: italic; }
+
+        .deriv-step .note {
+            font-size: 0.75rem;
+            color: #999;
+            font-style: normal;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        hr.deriv-div {
+            border: none;
+            border-top: 1px dashed #e0e0e0;
+            margin: 10px 0;
+        }
+
+        .deriv-result {
+            background: #eef6fd;
+            border-left: 3px solid #3498db;
+            border-radius: 0 4px 4px 0;
+            padding: 9px 14px;
+            margin-top: 12px;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            font-style: italic;
+            font-size: 0.92rem;
+            color: #1a5276;
+            line-height: 1.7;
+        }
+
+        .deriv-result b { font-style: normal; color: #2471a3; }
+
+        .live-row {
+            margin-top: 10px;
+            background: #f9f9f9;
+            border: 1px solid #eee;
+            border-radius: 4px;
+            padding: 7px 12px;
+            font-size: 0.82rem;
+            font-family: monospace;
+            color: #555;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px 16px;
+        }
+
+        .live-row .lv { color: #c0392b; font-weight: bold; }
+        .live-row .lv2 { color: #27ae60; font-weight: bold; }
     </style>
 </head>
 <body>
@@ -114,27 +279,113 @@
 </header>
 
 <div class="container">
-    <div class="canvas-area">
-        <canvas id="vectorCanvas" width="500" height="500"></canvas>
+    <div class="canvas-column">
+        <div class="canvas-area">
+            <canvas id="vectorCanvas" width="500" height="500"></canvas>
+        </div>
+
+        <!-- Derivation block -->
+        <div class="derivation">
+            <h2>欧氏距离 与 余弦相似度 的关系推导</h2>
+
+            <div class="deriv-step">
+                <span class="lbl">展开 ‖A−B‖²</span>
+                <span class="eq">‖<em>A</em> − <em>B</em>‖² = (<em>A</em> − <em>B</em>) · (<em>A</em> − <em>B</em>)</span>
+            </div>
+            <div class="deriv-step">
+                <span class="lbl"></span>
+                <span class="eq">= <em>A</em>·<em>A</em> − 2<em>A</em>·<em>B</em> + <em>B</em>·<em>B</em></span>
+            </div>
+            <div class="deriv-step">
+                <span class="lbl"></span>
+                <span class="eq">= ‖<em>A</em>‖² − 2<em>A</em>·<em>B</em> + ‖<em>B</em>‖²</span>
+            </div>
+
+            <hr class="deriv-div">
+
+            <div class="deriv-step">
+                <span class="lbl">归一化后</span>
+                <span class="eq">令 <em>â</em> = <em>A</em> / ‖<em>A</em>‖，<em>b̂</em> = <em>B</em> / ‖<em>B</em>‖，则 ‖<em>â</em>‖ = ‖<em>b̂</em>‖ = 1</span>
+            </div>
+            <div class="deriv-step">
+                <span class="lbl">单位向量距离²</span>
+                <span class="eq">‖<em>â</em> − <em>b̂</em>‖² = 1 − 2 (<em>â</em>·<em>b̂</em>) + 1 = 2 − 2 (<em>â</em>·<em>b̂</em>)</span>
+            </div>
+            <div class="deriv-step">
+                <span class="lbl">整理</span>
+                <span class="eq"><em>â</em>·<em>b̂</em> = 1 − ½ ‖<em>â</em> − <em>b̂</em>‖²</span>
+            </div>
+
+            <hr class="deriv-div">
+
+            <div class="deriv-step">
+                <span class="lbl">又因为</span>
+                <span class="eq"><em>â</em>·<em>b̂</em> = cos <em>θ</em>
+                    <span class="note">（单位向量点积 = 夹角余弦）</span>
+                </span>
+            </div>
+
+            <div class="deriv-result">
+                <b>结论：</b>
+                cos <em>θ</em> = <em>â</em>·<em>b̂</em> = 1 − ½ ‖<em>â</em> − <em>b̂</em>‖²<br>
+                ‖<em>â</em> − <em>b̂</em>‖ = √(2 − 2 cos <em>θ</em>)
+                <br><br>
+                <span style="font-size:0.82rem;font-style:normal;color:#555;">
+                    余弦相似度越大（→ 1），单位向量间欧氏距离越小（→ 0）；<br>
+                    两者通过夹角 θ 完全等价，可以互相换算。
+                </span>
+            </div>
+
+            <!-- Live numbers -->
+            <div class="live-row">
+                当前：â = <span id="liveA" class="lv">(0.600, 0.800)</span>
+                &nbsp; b̂ = <span id="liveB" class="lv2">(0.894, 0.447)</span>
+                &nbsp; ‖â − b̂‖ = <span id="liveDist" class="lv">0.xxx</span>
+                &nbsp; cos θ = <span id="liveCos" class="lv">0.xxx</span>
+                &nbsp; 验证: 1 − ½‖â−b̂‖² = <span id="liveCheck" class="lv">0.xxx</span>
+            </div>
+        </div>
     </div>
 
     <div class="info-panel">
+
+        <!-- Unit vector toggle -->
+        <div class="toggle-card">
+            <div class="toggle-label">
+                显示单位向量
+                <span>虚线箭头，模长恒为 1</span>
+            </div>
+            <label class="switch">
+                <input type="checkbox" id="unitToggle">
+                <span class="slider"></span>
+            </label>
+        </div>
+
+        <!-- Vector A -->
         <div class="card" style="border-color: var(--v1-color);">
-            <h3>向量 A (红色)</h3>
+            <h3>向量 A <span style="color:var(--v1-color);font-size:1rem">●</span></h3>
             <div class="stat-grid">
                 <div class="stat-item">坐标: <span id="v1Coords" class="value">(3, 4)</span></div>
                 <div class="stat-item">模长 |A|: <span id="v1Mag" class="value">5.00</span></div>
             </div>
+            <div class="unit-info" id="v1UnitInfo">
+                单位向量 Â: <span id="v1Unit" class="unit-val">(0.600, 0.800)</span>
+            </div>
         </div>
 
+        <!-- Vector B -->
         <div class="card" style="border-color: var(--v2-color);">
-            <h3>向量 B (绿色)</h3>
+            <h3>向量 B <span style="color:var(--v2-color);font-size:1rem">●</span></h3>
             <div class="stat-grid">
                 <div class="stat-item">坐标: <span id="v2Coords" class="value">(4, 2)</span></div>
                 <div class="stat-item">模长 |B|: <span id="v2Mag" class="value">4.47</span></div>
             </div>
+            <div class="unit-info" id="v2UnitInfo">
+                单位向量 B&#x0302;: <span id="v2Unit" class="unit-val">(0.894, 0.447)</span>
+            </div>
         </div>
 
+        <!-- Similarity -->
         <div class="card">
             <h3>相似度度量</h3>
             <div class="stat-item">原始点积 (A · B): <span id="dotProduct" class="value">20.00</span></div>
@@ -147,9 +398,9 @@
 
         <div class="instruction">
             <strong>核心观察：</strong><br>
-            尝试沿着同一方向拉长某个向量。你会发现：<br>
-            1. <strong>原始点积</strong> 会随着向量变长而剧烈增大。<br>
-            2. <strong>余弦相似度</strong> 保持不变，因为它只取决于两者的方向。
+            打开单位向量开关，然后拖动端点改变长度。你会发现：<br>
+            1. <strong>单位向量</strong>（虚线）方向随原向量同步变化，但模长始终为 1。<br>
+            2. <strong>余弦相似度</strong>等于两单位向量的点积，只取决于方向，与长度无关。
         </div>
     </div>
 </div>
@@ -157,38 +408,44 @@
 <script>
     const canvas = document.getElementById('vectorCanvas');
     const ctx = canvas.getContext('2d');
-    const width = canvas.width;
-    const height = canvas.height;
 
-    // Padding for axis labels
-    const padding = 40;
-    // Origin is bottom-left (with padding)
+    // HiDPI / Retina sharpness
+    const dpr = window.devicePixelRatio || 1;
+    const CSS_SIZE = 600;
+    canvas.width  = CSS_SIZE * dpr;
+    canvas.height = CSS_SIZE * dpr;
+    ctx.scale(dpr, dpr);
+
+    const width  = CSS_SIZE;
+    const height = CSS_SIZE;
+
+    const padding = 55;
     const origin = { x: padding, y: height - padding };
-    // Available drawing area
-    const drawWidth = width - padding;
+    const drawWidth  = width  - padding;
     const drawHeight = height - padding;
-    const scale = 40; // 1 unit = 40px
+    const scale = 75;
 
     let v1 = { x: 3, y: 4 };
     let v2 = { x: 4, y: 2 };
     let activeVector = null;
+    let showUnit = false;
 
-    // Max units that fit in each axis
     const maxX = drawWidth / scale;
     const maxY = drawHeight / scale;
 
+    document.getElementById('unitToggle').addEventListener('change', (e) => {
+        showUnit = e.target.checked;
+        document.getElementById('v1UnitInfo').classList.toggle('visible', showUnit);
+        document.getElementById('v2UnitInfo').classList.toggle('visible', showUnit);
+        render();
+    });
+
     function toScreen(v) {
-        return {
-            x: origin.x + v.x * scale,
-            y: origin.y - v.y * scale
-        };
+        return { x: origin.x + v.x * scale, y: origin.y - v.y * scale };
     }
 
     function fromScreen(x, y) {
-        return {
-            x: (x - origin.x) / scale,
-            y: (origin.y - y) / scale
-        };
+        return { x: (x - origin.x) / scale, y: (origin.y - y) / scale };
     }
 
     function clampToFirstQuadrant(v) {
@@ -198,118 +455,107 @@
         };
     }
 
+    function normalize(v) {
+        const mag = Math.sqrt(v.x * v.x + v.y * v.y) || 1;
+        return { x: v.x / mag, y: v.y / mag };
+    }
+
     function drawGrid() {
         ctx.strokeStyle = '#e0e0e0';
         ctx.lineWidth = 1;
+        ctx.setLineDash([]);
 
-        // Vertical grid lines (x axis ticks)
         for (let i = 1; i * scale <= drawWidth; i++) {
             const sx = origin.x + i * scale;
-            ctx.beginPath();
-            ctx.moveTo(sx, padding);
-            ctx.lineTo(sx, origin.y);
-            ctx.stroke();
+            ctx.beginPath(); ctx.moveTo(sx, padding); ctx.lineTo(sx, origin.y); ctx.stroke();
         }
-        // Horizontal grid lines (y axis ticks)
         for (let i = 1; i * scale <= drawHeight; i++) {
             const sy = origin.y - i * scale;
-            ctx.beginPath();
-            ctx.moveTo(origin.x, sy);
-            ctx.lineTo(width, sy);
-            ctx.stroke();
+            ctx.beginPath(); ctx.moveTo(origin.x, sy); ctx.lineTo(width, sy); ctx.stroke();
         }
 
-        // X Axis
         ctx.strokeStyle = '#7f8c8d';
         ctx.lineWidth = 2;
-        ctx.beginPath();
-        ctx.moveTo(origin.x, origin.y);
-        ctx.lineTo(width, origin.y);
-        ctx.stroke();
+        ctx.beginPath(); ctx.moveTo(origin.x, origin.y); ctx.lineTo(width, origin.y); ctx.stroke();
+        ctx.beginPath(); ctx.moveTo(origin.x, origin.y); ctx.lineTo(origin.x, padding); ctx.stroke();
 
-        // Y Axis
-        ctx.beginPath();
-        ctx.moveTo(origin.x, origin.y);
-        ctx.lineTo(origin.x, padding);
-        ctx.stroke();
-
-        // Axis arrowheads
         ctx.fillStyle = '#7f8c8d';
-        // X arrow
-        ctx.beginPath();
-        ctx.moveTo(width, origin.y);
-        ctx.lineTo(width - 10, origin.y - 5);
-        ctx.lineTo(width - 10, origin.y + 5);
-        ctx.closePath();
-        ctx.fill();
-        // Y arrow
-        ctx.beginPath();
-        ctx.moveTo(origin.x, padding);
-        ctx.lineTo(origin.x - 5, padding + 10);
-        ctx.lineTo(origin.x + 5, padding + 10);
-        ctx.closePath();
-        ctx.fill();
+        ctx.beginPath(); ctx.moveTo(width, origin.y); ctx.lineTo(width-10, origin.y-5); ctx.lineTo(width-10, origin.y+5); ctx.closePath(); ctx.fill();
+        ctx.beginPath(); ctx.moveTo(origin.x, padding); ctx.lineTo(origin.x-5, padding+10); ctx.lineTo(origin.x+5, padding+10); ctx.closePath(); ctx.fill();
 
-        // Axis labels
         ctx.fillStyle = '#555';
         ctx.font = 'bold 14px Arial';
         ctx.fillText('x', width - 8, origin.y - 10);
         ctx.fillText('y', origin.x + 8, padding + 4);
 
-        // Tick numbers
         ctx.font = '11px Arial';
         ctx.fillStyle = '#999';
         ctx.textAlign = 'center';
-        for (let i = 1; i * scale <= drawWidth - scale; i++) {
-            ctx.fillText(i, origin.x + i * scale, origin.y + 16);
-        }
+        for (let i = 1; i * scale <= drawWidth - scale; i++) ctx.fillText(i, origin.x + i * scale, origin.y + 16);
         ctx.textAlign = 'right';
-        for (let i = 1; i * scale <= drawHeight - scale; i++) {
-            ctx.fillText(i, origin.x - 6, origin.y - i * scale + 4);
-        }
-        // Origin label
-        ctx.textAlign = 'right';
+        for (let i = 1; i * scale <= drawHeight - scale; i++) ctx.fillText(i, origin.x - 6, origin.y - i * scale + 4);
         ctx.fillText('0', origin.x - 6, origin.y + 16);
     }
 
-    function drawVector(v, color, label) {
-        const screenPos = toScreen(v);
+    function drawArrow(from, to, color, lineWidth, headSize, dashed) {
+        const screenTo = toScreen(to);
+        const screenFrom = toScreen(from);
 
         ctx.strokeStyle = color;
         ctx.fillStyle = color;
-        ctx.lineWidth = 3;
+        ctx.lineWidth = lineWidth;
+        ctx.setLineDash(dashed ? [6, 4] : []);
 
-        // Line
         ctx.beginPath();
-        ctx.moveTo(origin.x, origin.y);
-        ctx.lineTo(screenPos.x, screenPos.y);
+        ctx.moveTo(screenFrom.x, screenFrom.y);
+        ctx.lineTo(screenTo.x, screenTo.y);
         ctx.stroke();
 
-        // Arrow head
-        const angle = Math.atan2(origin.y - screenPos.y, screenPos.x - origin.x);
+        ctx.setLineDash([]);
+        const angle = Math.atan2(screenFrom.y - screenTo.y, screenTo.x - screenFrom.x);
         ctx.beginPath();
-        ctx.moveTo(screenPos.x, screenPos.y);
-        ctx.lineTo(screenPos.x - 15 * Math.cos(angle - Math.PI / 6), screenPos.y + 15 * Math.sin(angle - Math.PI / 6));
-        ctx.lineTo(screenPos.x - 15 * Math.cos(angle + Math.PI / 6), screenPos.y + 15 * Math.sin(angle + Math.PI / 6));
+        ctx.moveTo(screenTo.x, screenTo.y);
+        ctx.lineTo(screenTo.x - headSize * Math.cos(angle - Math.PI/6), screenTo.y + headSize * Math.sin(angle - Math.PI/6));
+        ctx.lineTo(screenTo.x - headSize * Math.cos(angle + Math.PI/6), screenTo.y + headSize * Math.sin(angle + Math.PI/6));
         ctx.closePath();
         ctx.fill();
+    }
 
-        // Endpoint handle
+    function drawVector(v, color, label) {
+        const zero = { x: 0, y: 0 };
+        drawArrow(zero, v, color, 3, 14, false);
+
+        const screenPos = toScreen(v);
+        ctx.fillStyle = color;
         ctx.beginPath();
         ctx.arc(screenPos.x, screenPos.y, 6, 0, Math.PI * 2);
         ctx.fill();
 
-        // Label
         ctx.font = 'bold 16px Arial';
         ctx.textAlign = 'left';
+        ctx.fillStyle = color;
         ctx.fillText(label, screenPos.x + 10, screenPos.y - 10);
     }
 
+    function drawUnitVector(v, color, label) {
+        const u = normalize(v);
+        const zero = { x: 0, y: 0 };
+        drawArrow(zero, u, color, 2, 10, true);
+
+        const screenPos = toScreen(u);
+        ctx.font = 'bold 13px Arial';
+        ctx.fillStyle = color;
+        ctx.textAlign = 'left';
+        ctx.fillText(label, screenPos.x + 8, screenPos.y - 8);
+    }
+
     function updateStats() {
-        const mag1 = Math.sqrt(v1.x * v1.x + v1.y * v1.y);
-        const mag2 = Math.sqrt(v2.x * v2.x + v2.y * v2.y);
-        const dot = v1.x * v2.x + v1.y * v2.y;
+        const mag1 = Math.sqrt(v1.x*v1.x + v1.y*v1.y);
+        const mag2 = Math.sqrt(v2.x*v2.x + v2.y*v2.y);
+        const dot = v1.x*v2.x + v1.y*v2.y;
         const cos = dot / (mag1 * mag2 || 1);
+        const u1 = normalize(v1);
+        const u2 = normalize(v2);
 
         document.getElementById('v1Coords').textContent = `(${v1.x.toFixed(2)}, ${v1.y.toFixed(2)})`;
         document.getElementById('v1Mag').textContent = mag1.toFixed(2);
@@ -317,11 +563,29 @@
         document.getElementById('v2Mag').textContent = mag2.toFixed(2);
         document.getElementById('dotProduct').textContent = dot.toFixed(2);
         document.getElementById('cosSim').textContent = cos.toFixed(4);
+        document.getElementById('v1Unit').textContent = `(${u1.x.toFixed(3)}, ${u1.y.toFixed(3)})`;
+        document.getElementById('v2Unit').textContent = `(${u2.x.toFixed(3)}, ${u2.y.toFixed(3)})`;
+
+        // Live derivation row
+        const dx = u1.x - u2.x, dy = u1.y - u2.y;
+        const unitDist = Math.sqrt(dx*dx + dy*dy);
+        const check = 1 - 0.5 * unitDist * unitDist;
+        document.getElementById('liveA').textContent = `(${u1.x.toFixed(3)}, ${u1.y.toFixed(3)})`;
+        document.getElementById('liveB').textContent = `(${u2.x.toFixed(3)}, ${u2.y.toFixed(3)})`;
+        document.getElementById('liveDist').textContent = unitDist.toFixed(4);
+        document.getElementById('liveCos').textContent = cos.toFixed(4);
+        document.getElementById('liveCheck').textContent = check.toFixed(4);
     }
 
     function render() {
         ctx.clearRect(0, 0, width, height);
         drawGrid();
+
+        if (showUnit) {
+            drawUnitVector(v1, '#c0392b', 'Â');
+            drawUnitVector(v2, '#27ae60', 'B̂');
+        }
+
         drawVector(v1, '#e74c3c', 'A');
         drawVector(v2, '#2ecc71', 'B');
         updateStats();
@@ -331,36 +595,24 @@
         const rect = canvas.getBoundingClientRect();
         const x = e.clientX - rect.left;
         const y = e.clientY - rect.top;
-
         const s1 = toScreen(v1);
         const s2 = toScreen(v2);
-
-        const dist1 = Math.hypot(x - s1.x, y - s1.y);
-        const dist2 = Math.hypot(x - s2.x, y - s2.y);
-
-        if (dist1 < 20) activeVector = 'v1';
-        else if (dist2 < 20) activeVector = 'v2';
+        if (Math.hypot(x - s1.x, y - s1.y) < 20) activeVector = 'v1';
+        else if (Math.hypot(x - s2.x, y - s2.y) < 20) activeVector = 'v2';
     });
 
     window.addEventListener('mousemove', (e) => {
         if (!activeVector) return;
         const rect = canvas.getBoundingClientRect();
-        const x = e.clientX - rect.left;
-        const y = e.clientY - rect.top;
-        const pos = clampToFirstQuadrant(fromScreen(x, y));
-
+        const pos = clampToFirstQuadrant(fromScreen(e.clientX - rect.left, e.clientY - rect.top));
         if (activeVector === 'v1') v1 = pos;
         else v2 = pos;
-
         render();
     });
 
-    window.addEventListener('mouseup', () => {
-        activeVector = null;
-    });
+    window.addEventListener('mouseup', () => { activeVector = null; });
 
     render();
 </script>
-
 </body>
 </html>
