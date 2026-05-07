@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>向量语义可视化：点积与余弦相似度</title>
+    <style>
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #34495e;
+            --accent-color: #3498db;
+            --v1-color: #e74c3c;
+            --v2-color: #2ecc71;
+            --bg-color: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--primary-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        h1 { margin: 0; font-size: 1.5rem; }
+        p.subtitle { color: #666; margin: 5px 0 0; }
+
+        .container {
+            display: flex;
+            gap: 30px;
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            max-width: 1000px;
+            width: 100%;
+        }
+
+        .canvas-area {
+            position: relative;
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            cursor: crosshair;
+        }
+
+        .info-panel {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+
+        .card {
+            border-left: 4px solid var(--accent-color);
+            padding: 10px 15px;
+            background: #fcfcfc;
+            border-radius: 4px;
+        }
+
+        .card h3 { margin: 0 0 10px; font-size: 1rem; color: var(--secondary-color); }
+
+        .stat-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        .stat-item {
+            font-size: 0.9rem;
+        }
+
+        .v1-text { color: var(--v1-color); font-weight: bold; }
+        .v2-text { color: var(--v2-color); font-weight: bold; }
+
+        .formula-box {
+            font-family: 'Times New Roman', Times, serif;
+            font-style: italic;
+            background: #eee;
+            padding: 10px;
+            border-radius: 4px;
+            font-size: 0.95rem;
+            text-align: center;
+        }
+
+        .instruction {
+            font-size: 0.85rem;
+            color: #7f8c8d;
+            margin-top: 10px;
+            padding: 10px;
+            background: #fff3cd;
+            border-radius: 4px;
+            border: 1px solid #ffeeba;
+        }
+
+        .value { font-family: monospace; font-size: 1.1rem; color: #d35400; }
+
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>商务文本分析：向量空间与相似度可视化</h1>
+    <p class="subtitle">通过交互式操作理解点积（Dot Product）与余弦相似度（Cosine Similarity）</p>
+</header>
+
+<div class="container">
+    <div class="canvas-area">
+        <canvas id="vectorCanvas" width="500" height="500"></canvas>
+    </div>
+
+    <div class="info-panel">
+        <div class="card" style="border-color: var(--v1-color);">
+            <h3>向量 A (红色)</h3>
+            <div class="stat-grid">
+                <div class="stat-item">坐标: <span id="v1Coords" class="value">(3, 4)</span></div>
+                <div class="stat-item">模长 |A|: <span id="v1Mag" class="value">5.00</span></div>
+            </div>
+        </div>
+
+        <div class="card" style="border-color: var(--v2-color);">
+            <h3>向量 B (绿色)</h3>
+            <div class="stat-grid">
+                <div class="stat-item">坐标: <span id="v2Coords" class="value">(4, 2)</span></div>
+                <div class="stat-item">模长 |B|: <span id="v2Mag" class="value">4.47</span></div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>相似度度量</h3>
+            <div class="stat-item">原始点积 (A · B): <span id="dotProduct" class="value">20.00</span></div>
+            <div class="stat-item" style="margin-top:8px">余弦相似度 cos(θ): <span id="cosSim" class="value" style="color: #2980b9; font-size: 1.4rem;">0.894</span></div>
+        </div>
+
+        <div class="formula-box">
+            cos(θ) = (A · B) / (|A| × |B|)
+        </div>
+
+        <div class="instruction">
+            <strong>核心观察：</strong><br>
+            尝试沿着同一方向拉长某个向量。你会发现：<br>
+            1. <strong>原始点积</strong> 会随着向量变长而剧烈增大。<br>
+            2. <strong>余弦相似度</strong> 保持不变，因为它只取决于两者的方向。
+        </div>
+    </div>
+</div>
+
+<script>
+    const canvas = document.getElementById('vectorCanvas');
+    const ctx = canvas.getContext('2d');
+    const width = canvas.width;
+    const height = canvas.height;
+
+    // Padding for axis labels
+    const padding = 40;
+    // Origin is bottom-left (with padding)
+    const origin = { x: padding, y: height - padding };
+    // Available drawing area
+    const drawWidth = width - padding;
+    const drawHeight = height - padding;
+    const scale = 40; // 1 unit = 40px
+
+    let v1 = { x: 3, y: 4 };
+    let v2 = { x: 4, y: 2 };
+    let activeVector = null;
+
+    // Max units that fit in each axis
+    const maxX = drawWidth / scale;
+    const maxY = drawHeight / scale;
+
+    function toScreen(v) {
+        return {
+            x: origin.x + v.x * scale,
+            y: origin.y - v.y * scale
+        };
+    }
+
+    function fromScreen(x, y) {
+        return {
+            x: (x - origin.x) / scale,
+            y: (origin.y - y) / scale
+        };
+    }
+
+    function clampToFirstQuadrant(v) {
+        return {
+            x: Math.max(0.1, Math.min(maxX - 0.5, v.x)),
+            y: Math.max(0.1, Math.min(maxY - 0.5, v.y))
+        };
+    }
+
+    function drawGrid() {
+        ctx.strokeStyle = '#e0e0e0';
+        ctx.lineWidth = 1;
+
+        // Vertical grid lines (x axis ticks)
+        for (let i = 1; i * scale <= drawWidth; i++) {
+            const sx = origin.x + i * scale;
+            ctx.beginPath();
+            ctx.moveTo(sx, padding);
+            ctx.lineTo(sx, origin.y);
+            ctx.stroke();
+        }
+        // Horizontal grid lines (y axis ticks)
+        for (let i = 1; i * scale <= drawHeight; i++) {
+            const sy = origin.y - i * scale;
+            ctx.beginPath();
+            ctx.moveTo(origin.x, sy);
+            ctx.lineTo(width, sy);
+            ctx.stroke();
+        }
+
+        // X Axis
+        ctx.strokeStyle = '#7f8c8d';
+        ctx.lineWidth = 2;
+        ctx.beginPath();
+        ctx.moveTo(origin.x, origin.y);
+        ctx.lineTo(width, origin.y);
+        ctx.stroke();
+
+        // Y Axis
+        ctx.beginPath();
+        ctx.moveTo(origin.x, origin.y);
+        ctx.lineTo(origin.x, padding);
+        ctx.stroke();
+
+        // Axis arrowheads
+        ctx.fillStyle = '#7f8c8d';
+        // X arrow
+        ctx.beginPath();
+        ctx.moveTo(width, origin.y);
+        ctx.lineTo(width - 10, origin.y - 5);
+        ctx.lineTo(width - 10, origin.y + 5);
+        ctx.closePath();
+        ctx.fill();
+        // Y arrow
+        ctx.beginPath();
+        ctx.moveTo(origin.x, padding);
+        ctx.lineTo(origin.x - 5, padding + 10);
+        ctx.lineTo(origin.x + 5, padding + 10);
+        ctx.closePath();
+        ctx.fill();
+
+        // Axis labels
+        ctx.fillStyle = '#555';
+        ctx.font = 'bold 14px Arial';
+        ctx.fillText('x', width - 8, origin.y - 10);
+        ctx.fillText('y', origin.x + 8, padding + 4);
+
+        // Tick numbers
+        ctx.font = '11px Arial';
+        ctx.fillStyle = '#999';
+        ctx.textAlign = 'center';
+        for (let i = 1; i * scale <= drawWidth - scale; i++) {
+            ctx.fillText(i, origin.x + i * scale, origin.y + 16);
+        }
+        ctx.textAlign = 'right';
+        for (let i = 1; i * scale <= drawHeight - scale; i++) {
+            ctx.fillText(i, origin.x - 6, origin.y - i * scale + 4);
+        }
+        // Origin label
+        ctx.textAlign = 'right';
+        ctx.fillText('0', origin.x - 6, origin.y + 16);
+    }
+
+    function drawVector(v, color, label) {
+        const screenPos = toScreen(v);
+
+        ctx.strokeStyle = color;
+        ctx.fillStyle = color;
+        ctx.lineWidth = 3;
+
+        // Line
+        ctx.beginPath();
+        ctx.moveTo(origin.x, origin.y);
+        ctx.lineTo(screenPos.x, screenPos.y);
+        ctx.stroke();
+
+        // Arrow head
+        const angle = Math.atan2(origin.y - screenPos.y, screenPos.x - origin.x);
+        ctx.beginPath();
+        ctx.moveTo(screenPos.x, screenPos.y);
+        ctx.lineTo(screenPos.x - 15 * Math.cos(angle - Math.PI / 6), screenPos.y + 15 * Math.sin(angle - Math.PI / 6));
+        ctx.lineTo(screenPos.x - 15 * Math.cos(angle + Math.PI / 6), screenPos.y + 15 * Math.sin(angle + Math.PI / 6));
+        ctx.closePath();
+        ctx.fill();
+
+        // Endpoint handle
+        ctx.beginPath();
+        ctx.arc(screenPos.x, screenPos.y, 6, 0, Math.PI * 2);
+        ctx.fill();
+
+        // Label
+        ctx.font = 'bold 16px Arial';
+        ctx.textAlign = 'left';
+        ctx.fillText(label, screenPos.x + 10, screenPos.y - 10);
+    }
+
+    function updateStats() {
+        const mag1 = Math.sqrt(v1.x * v1.x + v1.y * v1.y);
+        const mag2 = Math.sqrt(v2.x * v2.x + v2.y * v2.y);
+        const dot = v1.x * v2.x + v1.y * v2.y;
+        const cos = dot / (mag1 * mag2 || 1);
+
+        document.getElementById('v1Coords').textContent = `(${v1.x.toFixed(2)}, ${v1.y.toFixed(2)})`;
+        document.getElementById('v1Mag').textContent = mag1.toFixed(2);
+        document.getElementById('v2Coords').textContent = `(${v2.x.toFixed(2)}, ${v2.y.toFixed(2)})`;
+        document.getElementById('v2Mag').textContent = mag2.toFixed(2);
+        document.getElementById('dotProduct').textContent = dot.toFixed(2);
+        document.getElementById('cosSim').textContent = cos.toFixed(4);
+    }
+
+    function render() {
+        ctx.clearRect(0, 0, width, height);
+        drawGrid();
+        drawVector(v1, '#e74c3c', 'A');
+        drawVector(v2, '#2ecc71', 'B');
+        updateStats();
+    }
+
+    canvas.addEventListener('mousedown', (e) => {
+        const rect = canvas.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+
+        const s1 = toScreen(v1);
+        const s2 = toScreen(v2);
+
+        const dist1 = Math.hypot(x - s1.x, y - s1.y);
+        const dist2 = Math.hypot(x - s2.x, y - s2.y);
+
+        if (dist1 < 20) activeVector = 'v1';
+        else if (dist2 < 20) activeVector = 'v2';
+    });
+
+    window.addEventListener('mousemove', (e) => {
+        if (!activeVector) return;
+        const rect = canvas.getBoundingClientRect();
+        const x = e.clientX - rect.left;
+        const y = e.clientY - rect.top;
+        const pos = clampToFirstQuadrant(fromScreen(x, y));
+
+        if (activeVector === 'v1') v1 = pos;
+        else v2 = pos;
+
+        render();
+    });
+
+    window.addEventListener('mouseup', () => {
+        activeVector = null;
+    });
+
+    render();
+</script>
+
+</body>
+</html>
