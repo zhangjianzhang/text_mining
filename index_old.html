@@ -1,0 +1,942 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="./imgs/logo.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+    <title>商务文本智能分析-2026春</title>
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="./files/bootstrap.min.css">
+    <link rel="stylesheet" href="./files/bootstrap-theme.min.css">
+
+    <!-- Google fonts -->
+    <link href="./files/css" rel="stylesheet" type="text/css">
+
+    <!-- Google Analytics -->
+    <script async="" src="./files/analytics.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        ga('create', 'UA-46895817-2', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="./files/style.css">
+</head>
+
+<body>
+
+
+
+<div id="header">
+    <h1>《商务文本智能分析》课程网站</h1>
+    <div style="clear:both;"></div>
+</div>
+
+
+
+<div class="sechighlight">
+    <div class="container sec">
+
+        <h2>课程简介</h2>
+        <br>
+        <p style="text-indent:2em;text-align:justify">
+        在大数据时代，超过80%的商业信息以自然语言文本（如商业报告、客户评价、市场新闻、研究报告、社交媒体等）的非结构化形式存在。虽然数据挖掘和机器学习技术已成为企业进行数据分析的重要工具，但传统的数据挖掘方法通常局限于结构化或半结构化数据，无法直接处理非结构化文本数据。文本挖掘技术通过自然语言处理、机器学习和人工智能推理等方法，能够有效地实现文本信息的抽取、分类、聚类、情感分析、热点预测和主题建模等任务，将大量非结构化文本转化为可供商业决策参考的结构化知识，极大地提升了商业数据分析的深度与广度。
+        </p>
+        
+        <p style="text-indent:2em;text-align:justify">
+        本课程面向商学院本科生，特别是大数据管理与应用、数字经济、国际商务和会计学专业的学生，以理论与实践相结合的方式讲授商务文本智能分析技术。课程围绕大语言模型展开，结合使用自然语言处理工具包NLTK、spaCy及深度学习库Hugging Face，通过讲授文本处理基础知识（如正则表达式、文本切分、编辑距离）、语言模型构建（N-gram、词向量语义与嵌入技术）、经典与深度学习模型（朴素贝叶斯、逻辑回归、循环神经网络、Transformer及大语言模型）、文本分类与情感分析、文本聚类与主题建模、以及检索增强生成（RAG）等核心技术，培养学生利用先进人工智能工具解决真实商业场景中文本数据分析问题的能力。</p>
+
+
+       <p style="text-indent:2em;text-align:justify">
+       本课程设置了丰富的实践作业与案例分析，包括基于真实商业语料的分类算法性能比较、大语言模型的微调实践，以及商业文本的聚类与主题分析等内容。课程实验依托<a href="https://www.kaggle.com/" target="_blank">Kaggle</a>免费在线Jupyter环境开展，以自然语言处理工具包NLTK、spaCy，机器学习库scikit-learn，深度学习库transformers，Hugging Face仓库为主要实践工具，充分锻炼和提升学生的实践动手能力和创新思维，以期为学生将来在数字经济环境下的职业发展奠定坚实的大数据分析技术基础。
+       </p>
+       
+      
+
+
+    </div>
+</div>
+
+<div class="container sec">
+    <section id="information">
+        <h2>课程信息</h2>
+        <br>
+        <dl class="dl-horizontal">
+            <dt>授课教师</dt>
+            <dd>
+                <p>
+                    <strong>张建章</strong> 博士 <br>
+                    邮箱：jianzhang.zhang@foxmail.com <br>
+                    钉钉：张建章 <br>
+                    办公室：仓前恕园2号楼1009</p>
+            </dd>
+            
+            <dt>互动平台</dt>
+            <dd>
+                <p>
+                
+                AI助教 <a href="https://python.zjztutor.tech/text_mining" target="_blank"><img src="./imgs/chatbot.png" height="20" width="20" /></a>；课程钉钉群 <img src="./imgs/dingding.png" height="20" width="20" />；课程讨论区 <a href="https://github.com/zhangjianzhang/text_mining/issues" target="_blank"><img src="./imgs/github.png" height="20" width="20" /></a></p>
+
+
+            </dd>
+
+            <dt>授课对象</dt>
+            <dd>
+                <p>本科生，电子商务/大数据管理与应用25级</p>
+
+
+            </dd>
+
+
+            <dt>授课时间</dt>
+            <dd>
+                <p>
+                    周五1-3节/6-8节（1-16周）[<a href="./files/materials/calendar.pdf", target="_blank">校历</a>]
+                                     
+                    
+                </p>
+            </dd>
+
+            <dt>授课地点</dt>
+            <dd>
+                <p>
+                    下沙2号楼408/406
+                </p>
+
+
+            </dd>
+            <dt>课程资料</dt>
+            <dd>
+            
+            <p>
+                 <p>
+                    【教材】《Speech and Language Processing (3rd ed. draft)》, Dan Jurafsky and James H. Martin, updating [<a href="https://web.stanford.edu/~jurafsky/slp3/", target="_blank">电子版</a>]
+                </p>
+                
+                <p>
+                    【图书】《Introduction to Natural Language Processing》, Jacob Eisenstein, 2018, MIT Press [<a href="https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf", target="_blank">电子版</a>]
+                </p>
+                   
+                   <p>
+                    【图书】《大规模语言模型：从理论到实践》，张奇，桂韬，郑锐，黄萱菁 著，2024年，电子工业出版社 [<a href="https://intro-llm.github.io/#home", target="_blank">电子版</a>]
+                </p>
+                
+                <p>
+                    【图书】《大模型基础》，毛玉仁，高云君 著，2024年，更新中 [<a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs", target="_blank">电子版</a>]
+                </p>
+                
+                <p>
+                    【图书】《大语言模型》, 赵鑫 等, 2024年, 高等教育出版社 [<a href="https://llmbook-zh.github.io/", target="_blank">电子版</a>]
+                </p>
+                
+                <p>
+                    【图书】《大模型三部曲》, 赵宇 等, 2025年, 机械工业出版社 [<a href="https://nlp-book.swufenlp.group/", target="_blank">电子版</a>]
+                </p>
+                
+                <p>
+                    【图书】《自然语言处理：基于大语言模型的方法》，车万翔，郭江，崔一鸣 著，2025年，电子工业出版社 [<a href="https://mp.weixin.qq.com/s/bwRjP5HywGBPCpw2HkhLdA", target="_blank">简介</a>]
+                </p>
+                
+                
+                <p>
+                    【图书】《Build a Large Language Model (From Scratch)》, Sebastian Raschka, Manning Publications, 2024 [<a href="https://www.manning.com/books/build-a-large-language-model-from-scratch", target="_blank">简介</a>]
+                </p>
+                
+                
+                
+                <p>
+                    【图书】《文本数据挖掘》，宗成庆等 著，2019年，清华大学出版社 [<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_09282701.html", target="_blank">简介</a>]
+                </p>
+                
+                
+                <p>
+                    【图书】《Natural Language Processing with Transformers》, Leandro von Werra et al., 2022, O'Reilly Media, Inc. [<a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/", target="_blank">简介</a>]
+                </p>
+                
+                
+                <p>
+                    【图书】《Introduction to Information Retrieval》, Christopher D. Manning et al., 2008, Cambridge University Press [<a href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html", target="_blank">电子版</a>]
+                </p>
+                
+                
+                
+                <p>
+                    【图书】《Foundations of Statistical Natural Language Processing》, Chris Manning and Hinrich Schütze, 1999, MIT Press [<a href="https://nlp.stanford.edu/fsnlp/", target="_blank">简介</a>]
+                </p>
+                
+                <p>
+                    【图书】《Natural Language Processing with Python》, Steven Bird et al., 2009, O'Reilly Media, Inc. [<a href="https://www.nltk.org/book/", target="_blank">电子版</a>]
+                </p>
+                
+                
+                
+                
+            </dd>
+            
+            <dt>常用工具</dt>
+            <dd>
+                <ul>
+                
+                
+                
+                <li>大语言模型 [<a href="https://chat.deepseek.com/", target="_blank">DeepSeek</a>、<a href="https://chat.qwen.ai/", target="_blank">Qwen</a>、Gemini、ChatGPT、Claude等] </li>
+              <li>中文NLP资源 [<a href="https://www.cluebenchmarks.com/index.html", target="_blank">官网</a>] </li>
+              <li>中文大模型评测榜单 [<a href="https://www.superclueai.com/", target="_blank">官网</a>] </li>
+                <li>Chrome [<a href="https://www.google.cn/intl/zh-CN/chrome/", target="_blank">官网</a>] </li>
+                <li>Kaggle [<a href="https://www.kaggle.com/", target="_blank">官网</a>][<a href="./files/materials/kaggle_howto.pdf", target="_blank">注册方法</a>, <a href="./files/materials/kaggle_extension.zip", target="_blank">注册插件</a>, <a href="./files/materials/kaggle_basic.pdf", target="_blank">使用简介</a>]</li>
+                <li>魔搭 [<a href="https://modelscope.cn" target="_blank">ModelScope</a>] </li>
+                <li>spaCy [<a href="https://spacy.io/", target="_blank">官网</a>] </li>
+                <li>NLTK [<a href="https://www.nltk.org/", target="_blank">官网</a>]</li>
+                <li>Anaconda [<a href="https://www.anaconda.com/products/individual", target="_blank">官网</a>][<a href="./files/materials/anaconda_install.pdf", target="_blank">安装说明</a>]
+                    </li>
+                    <li>PyCharm [<a href="https://www.jetbrains.com/pycharm/download/#section=windows", target="_blank">官网</a>]（请下载Community版本）</li>
+                    <li>NLTK Corpora List [<a href="https://www.nltk.org/nltk_data/", target="_blank">官网</a>]</li>
+                    <!-- <li>NLTK Corpora Directory [<a href="https://pan.baidu.com/s/17YfUVx94MJ_6Z6XkEmagjg?pwd=axkp", target="_blank">网盘</a>]</li> -->
+                    
+                    
+                                        
+                    
+                </ul>
+            </dd>
+
+            <dt>成绩评定</dt>
+            <dd>
+                <p>本课程成绩主要由四部分组成，如下：</p>
+                <ul class="unstyled">
+                    
+                        <li>期末成绩-50%</li>
+                        <li>课程作业/测验-30%</li>
+                        <li>课堂表现-10%</li>
+                        <li>日常考勤-10%</li>
+                    
+                </ul>
+            </dd>
+
+        </dl>
+    </section>
+</div>
+
+<div class="container sec">
+    <h2>课程计划</h2>
+    <br>
+    <table class="table">
+        <tbody>
+        <tr class="info">
+            <th>章节</th>
+            <th>日期</th>
+            <th>内容</th>
+            <th>思考题</th>
+            <th>资料</th>
+        </tr>
+        <tr>
+            <td>
+            第一讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>文本挖掘概述 <small>[ <a href="./files/slides/1-Introduction.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                Kaggle示例代码 [ <a href="https://www.kaggle.com/code/jianzhangzhang/text-mining-example-code" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                <a href="https://pan.baidu.com/s/1pXyUN3Wuk7fDaIpyMZ_NPA?pwd=zik9", target="_blank">chatGPT科普视频</a>
+                
+                
+                
+            </td>
+        </tr>
+
+
+
+
+        <tr>
+            <td>
+            第二讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>文本预处理 <small>[ <a href="./files/slides/2-preprocess.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                文本预处理 [ <a href="https://www.kaggle.com/code/jianzhangzhang/2-preprocessing" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+              调用Deepseek API预处理文本 [ <a href="https://www.kaggle.com/code/jianzhangzhang/deepseek-api-demo" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+              
+                
+                
+            </td>
+        </tr>
+      
+        <tr>
+            <td>
+            第三讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>N-gram语言模型 <small>[ <a href="./files/slides/3-n-gram.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+              训练N-Gram语言模型 [ <a href="https://www.kaggle.com/code/jianzhangzhang/n-gram-lm" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第四讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>生成模型-朴素贝叶斯 <small>[ <a href="./files/slides/4-classification.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                朴素贝叶斯文本分类及性能评估 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-4-bayes-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                                
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第五讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>判别模型-逻辑回归 <small>[ <a href="./files/slides/5-classification.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                逻辑回归文本分类及正则化 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-5-logistic-regression" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                
+            </td>
+        </tr>
+        
+        
+        
+        <tr>
+            <td>
+            第六讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>向量语义 <small>[ <a href="./files/slides/6-vector-semantics.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                文本向量化表示-稀疏 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-sparse" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                文本向量化表示-稠密 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-dense" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                探索词嵌入的语义属性 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-embeddings-semantic-properties" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                                
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第七讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>神经网络 <small>[ <a href="./files/slides/7-neural-networks.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                前馈神经网络-文本分类 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                前馈神经网络-语言模型 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-language-model" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                前馈神经网络-fastText分类 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-fasttext-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                
+                                
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第八讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>RNNs和LSTMs <small>[ <a href="./files/slides/8-rnn-lstm.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                新闻分类-Bi-LSTM [ <a href="https://www.kaggle.com/code/jianzhangzhang/bilstm-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                新闻分类-Bi-LSTM-Attention [ <a href="https://www.kaggle.com/code/jianzhangzhang/bi-lstm-attention-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ] 
+                                
+                
+            </td>
+        </tr>
+        
+        <tr>
+       
+            <td><strong>作业2</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                第二次作业题 [<a href="./files/homework/homework2.html" target="_blank">题目</a>]
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        <tr>
+            <td>
+            第九讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>Transformer <small>[ <a href="./files/slides/9-transformer.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                -
+                                
+                
+            </td>
+        </tr>
+        
+        <tr>
+       
+            <td><strong>作业3</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                第三次作业题 [<a href="./files/homework/homework3.html" target="_blank">题目</a>]
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        
+        <tr>
+       
+            <td><strong>期末作业</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                <a href="./files/final/final-2025.html" target="_blank">题目要求</a></br>
+                <a href="./files/final/template.doc" target="_blank">论文模板</a>
+                
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>
+                            
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        
+        
+ <!--        
+        <tr>
+       
+            <td><strong>作业1</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                第一次作业题 <small>[<a href="./files/homework/homework_1.ipynb" target="_blank">题目</a>，<a href="./files/codes/reports_tagged.zip" target="_blank">数据</a>]</small>
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://send2me.cn/jSU8vzYj/R_KeARF_W8SkOA" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2024-04-15 20:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        <tr>
+            <td>
+            第四讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>文本分类 <small>[ <a href="./files/slides/lecture_4.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+                中文新闻二分类 (Naive Bayes) [ <a href="https://www.kaggle.com/jianzhangzhang/bayes-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                中文新闻多分类 (fastText) [ <a href="https://www.kaggle.com/code/jianzhangzhang/fasttext-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                                
+                
+            </td>
+        </tr>
+        
+        
+        
+         <tr>
+       
+            <td><strong>作业2</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                第二次作业题 <small>[<a href="./files/homework/homework_2.ipynb" target="_blank">题目</a>]</small>
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://send2me.cn/cunyoHaN/SuuM-XATFylAVQ" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2024-05-01 08:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        <tr>
+            <td>
+            第五讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>文本聚类 <small>[ <a href="./files/slides/lecture_5.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                
+      文本K-Means聚类-TFIDF [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-tfidf" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+      
+      文本K-Means聚类-词向量 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-word-embeddings" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+      文本K-Means聚类-句向量 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-sentence-embeddings" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                
+                
+                文本凝聚层次聚类-TFIDF [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-hac-tfidf" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]                
+                
+            </td>
+        </tr>
+        
+        
+        <tr>
+            <td>
+            第六讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>主题模型 <small>[ <a href="./files/slides/lecture_6.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                <a href="https://github.com/zhangjianzhang/text_mining/tree/master/files/materials/LDA" target="_blank">拓展资料</a>
+            </td>
+
+            <td> 
+       
+       新闻潜在语义分析 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-vectorization-lsa" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+       新闻LDA主题挖掘 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-lda" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+       
+                文本主题建模和可视化 [ <a href="https://www.kaggle.com/jianzhangzhang/topic-modeling" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]                 
+                
+            </td>
+        </tr>
+        
+        
+        <tr>
+       
+            <td><strong>作业3</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                第三次作业题 <small>[<a href="./files/homework/homework_3.ipynb" target="_blank">题目</a>]</small>
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://send2me.cn/8n2TDX_w/SbiaNsN3um9a7Q" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2024-05-25 16:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        <tr>
+            <td>
+            第七讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>文本挖掘科研初探 <small>[ <a href="./files/slides/lecture_7.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                <a href="https://github.com/zhangjianzhang/text_mining/tree/master/files/materials/embedding_topic" target="_blank">拓展资料</a>
+            </td>
+
+            <td> 
+                
+                新闻BERTopic主题挖掘 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-bertopic" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]               
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第八讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>深度学习文本挖掘 <small>[ <a href="./files/slides/lecture_8.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                推荐拓展资料见讲义
+            </td>
+
+            <td> 
+                
+                新闻分类-CNN [ <a href="https://www.kaggle.com/code/jianzhangzhang/cnn-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                新闻分类-CNN+embedding [ <a href="https://www.kaggle.com/code/jianzhangzhang/cnn-embedding-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
+                
+                新闻分类-Bi-LSTM [ <a href="https://www.kaggle.com/code/jianzhangzhang/bilstm-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]         
+                
+            </td>
+        </tr>
+        
+        <tr>
+            <td>
+            第九讲
+            </td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+             <li>注意力机制 <small>[ <a href="./files/slides/lecture_9.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
+           
+            </td>
+
+            <td>
+                -
+            </td>
+
+            <td> 
+                  
+      新闻分类-Bi-LSTM-Attention [ <a href="https://www.kaggle.com/code/jianzhangzhang/bi-lstm-attention-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>          
+                新闻分类-BERT微调 [ <a href="https://www.kaggle.com/code/jianzhangzhang/bert-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
+                           
+                 
+            </td>
+        </tr>
+        
+        
+        
+        <tr>
+       
+            <td><strong>期末实验</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                <a href="https://www.kaggle.com/code/jianzhangzhang/2024-final" target="_blank">题目要求</a>
+                
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://send2me.cn/CMdewZDL/Q7GsNegyPf1t_Q" target="_blank">提交链接</a>
+                            
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2024-06-23 20:00:00</strong></p>
+
+            </td>
+            
+        </tr>
+        
+        <tr>
+       
+            <td><strong>期末论文</strong></td>
+
+            <td>
+            -
+            </td>
+
+            <td>
+
+                <a href="./files/final/template.doc" target="_blank">论文模板</a>
+               
+            </td>
+
+
+            <td>
+                
+               <a href="https://send2me.cn/3nqsSSo7/S7i3w8g53R6u1A" target="_blank">提交链接</a>                
+                
+            </td>
+
+            <td> 
+                
+                <p style="color:#FF0000"><strong>DDL: 2024-06-23 20:00:00</strong></p>
+                <p style="color:#FF0000"><strong>纸质版提交时间和地点在钉钉群另行通知</strong>
+
+            </td>
+            
+        </tr>-->
+                       
+                       
+
+                       
+                                                             
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+        <th></th>
+
+
+        </tbody>
+    </table>
+</div>
+
+<!-- jQuery and Boostrap -->
+<script src="./files/jquery.min.js"></script>
+<script src="./files/bootstrap.min.js"></script>
+
+
+</body>
+</html>

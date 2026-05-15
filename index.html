@@ -1,942 +1,1069 @@
 <!DOCTYPE html>
-
-<html lang="en">
+<html lang="zh-CN">
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="./imgs/logo.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
-    <title>商务文本智能分析-2026春</title>
+    <title>商务文本智能分析 · 2026春</title>
 
-    <!-- bootstrap -->
-    <link rel="stylesheet" href="./files/bootstrap.min.css">
-    <link rel="stylesheet" href="./files/bootstrap-theme.min.css">
+    <!-- Bootstrap 5 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css">
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.11.3/font/bootstrap-icons.min.css">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 
-    <!-- Google fonts -->
-    <link href="./files/css" rel="stylesheet" type="text/css">
+    <style>
+        :root {
+            --primary:    #2d5be3;
+            --primary-dk: #1a3fa8;
+            --accent:     #6c47ff;
+            --teal:       #0ea5a0;
+            --bg-light:   #f7f8fc;
+            --bg-card:    #ffffff;
+            --text-main:  #1e2535;
+            --text-muted: #6b7280;
+            --border:     #e5e9f2;
+            --shadow-sm:  0 1px 4px rgba(45,91,227,.08);
+            --shadow-md:  0 4px 20px rgba(45,91,227,.12);
+        }
 
-    <!-- Google Analytics -->
-    <script async="" src="./files/analytics.js"></script>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
-        ga('create', 'UA-46895817-2', 'auto');
-        ga('send', 'pageview');
-    </script>
+        * { box-sizing: border-box; }
 
-    <link rel="stylesheet" type="text/css" href="./files/style.css">
+        body {
+            font-family: 'Noto Sans SC', 'Inter', system-ui, sans-serif;
+            background: var(--bg-light);
+            color: var(--text-main);
+            line-height: 1.8;
+            font-size: 15px;
+        }
+
+        /* ── HEADER ── */
+        .site-header {
+            background: linear-gradient(135deg, #1a3fa8 0%, #2d5be3 45%, #6c47ff 100%);
+            color: #fff;
+            padding: 56px 0 48px;
+            position: relative;
+            overflow: hidden;
+        }
+        .site-header::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+        .header-badge {
+            display: inline-block;
+            background: rgba(255,255,255,.18);
+            border: 1px solid rgba(255,255,255,.3);
+            color: #fff;
+            border-radius: 20px;
+            padding: 4px 14px;
+            font-size: 12px;
+            font-weight: 500;
+            letter-spacing: .5px;
+            margin-bottom: 16px;
+            backdrop-filter: blur(4px);
+        }
+        .site-header h1 {
+            font-size: clamp(1.6rem, 4vw, 2.6rem);
+            font-weight: 700;
+            letter-spacing: -.5px;
+            margin: 0 0 10px;
+            line-height: 1.25;
+        }
+        .site-header .subtitle { opacity: .85; font-size: 1rem; font-weight: 300; }
+        .header-stats { display: flex; gap: 28px; margin-top: 28px; flex-wrap: wrap; }
+        .header-stat {
+            text-align: center;
+            background: rgba(255,255,255,.12);
+            border-radius: 12px;
+            padding: 12px 22px;
+            backdrop-filter: blur(6px);
+            border: 1px solid rgba(255,255,255,.2);
+        }
+        .header-stat .num  { font-size: 1.5rem; font-weight: 700; display: block; }
+        .header-stat .label { font-size: 11px; opacity: .8; }
+
+        /* ── STICKY NAV ── */
+        .sticky-nav {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(255,255,255,.92);
+            backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--border);
+            box-shadow: var(--shadow-sm);
+        }
+        .sticky-nav .nav-link {
+            color: var(--text-muted);
+            font-size: 13px;
+            font-weight: 500;
+            padding: 13px 14px;
+            transition: color .2s;
+            white-space: nowrap;
+        }
+        .sticky-nav .nav-link:hover,
+        .sticky-nav .nav-link.active { color: var(--primary); }
+        .sticky-nav .nav-link i { margin-right: 4px; }
+
+        /* ── SECTION TITLES ── */
+        .sec-title {
+            font-size: 1.35rem;
+            font-weight: 700;
+            color: var(--text-main);
+            margin-bottom: 22px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .sec-title::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border);
+        }
+        .sec-title .icon-box {
+            width: 34px; height: 34px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            display: flex; align-items: center; justify-content: center;
+            color: #fff; font-size: 15px; flex-shrink: 0;
+        }
+
+        /* ── CARDS ── */
+        .info-card {
+            border-radius: 14px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            padding: 22px 26px;
+            height: 100%;
+            box-shadow: var(--shadow-sm);
+        }
+        .info-card .info-label {
+            font-size: 11px;
+            font-weight: 600;
+            letter-spacing: .8px;
+            text-transform: uppercase;
+            color: var(--primary);
+            margin-bottom: 8px;
+        }
+        .info-card .info-icon { font-size: 22px; color: var(--primary); margin-bottom: 10px; opacity: .7; }
+
+        /* ── INTRO ── */
+        .intro-card {
+            border-radius: 14px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            padding: 32px 36px;
+            box-shadow: var(--shadow-sm);
+        }
+        .intro-card p { text-indent: 2em; text-align: justify; color: #374151; margin-bottom: 16px; }
+        .intro-card p:last-child { margin-bottom: 0; }
+
+        /* ── GRADE BARS ── */
+        .grade-item { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
+        .grade-item .g-label { font-size: 13.5px; min-width: 130px; color: var(--text-main); }
+        .grade-item .g-bar-wrap { flex: 1; height: 8px; background: var(--bg-light); border-radius: 4px; overflow: hidden; }
+        .grade-item .g-bar { height: 100%; border-radius: 4px; background: linear-gradient(90deg, var(--primary), var(--accent)); }
+        .grade-item .g-pct { font-size: 13px; font-weight: 600; color: var(--primary); min-width: 36px; text-align: right; }
+
+        /* ── PLATFORM CARDS ── */
+        .platform-card {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            padding: 14px 18px;
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            background: var(--bg-card);
+            text-decoration: none;
+            color: var(--text-main);
+            font-size: 13.5px;
+            transition: box-shadow .2s, transform .2s;
+        }
+        .platform-card:hover { box-shadow: var(--shadow-md); transform: translateY(-2px); color: var(--primary); }
+        .platform-card .p-icon {
+            width: 36px; height: 36px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            display: flex; align-items: center; justify-content: center;
+            color: #fff; font-size: 18px; flex-shrink: 0;
+        }
+
+        /* ── TOOLS ── */
+        .tool-chip {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: #eff6ff;
+            border: 1px solid #bfdbfe;
+            color: var(--primary-dk);
+            border-radius: 20px;
+            padding: 5px 12px;
+            font-size: 12.5px;
+            margin: 4px;
+            text-decoration: none;
+            transition: background .2s, box-shadow .2s;
+        }
+        .tool-chip:hover { background: var(--primary); color: #fff; border-color: var(--primary); box-shadow: 0 2px 8px rgba(45,91,227,.3); }
+
+        /* ── AI TOOLS SECTION ── */
+        .ai-tool-card {
+            border-radius: 16px;
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            padding: 28px;
+            height: 100%;
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow .25s, transform .25s;
+        }
+        .ai-tool-card:hover { box-shadow: var(--shadow-md); transform: translateY(-3px); }
+        .ai-tool-icon {
+            width: 52px; height: 52px;
+            border-radius: 14px;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 26px; margin-bottom: 14px; flex-shrink: 0;
+        }
+        .ai-tool-card h5 { font-size: 1.05rem; font-weight: 700; margin-bottom: 6px; }
+        .ai-tool-card .ai-desc { font-size: 13px; color: var(--text-muted); line-height: 1.65; margin-bottom: 16px; }
+        .guide-link {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 9px 14px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            font-size: 13px;
+            color: var(--text-main);
+            text-decoration: none;
+            margin-bottom: 8px;
+            transition: background .15s, border-color .15s;
+        }
+        .guide-link:hover { background: #eff6ff; border-color: #bfdbfe; color: var(--primary); }
+        .guide-link:last-child { margin-bottom: 0; }
+        .dl-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            padding: 9px 20px;
+            border-radius: 8px;
+            font-size: 13.5px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: opacity .2s, transform .15s;
+            margin-bottom: 14px;
+        }
+        .dl-btn:hover { opacity: .88; transform: translateY(-1px); }
+        .dl-btn-primary { background: linear-gradient(135deg, var(--primary), var(--accent)); color: #fff; }
+        .dl-btn-teal    { background: linear-gradient(135deg, #0ea5a0, #0891b2); color: #fff; }
+
+        /* ── SCHEDULE TABLE (desktop) ── */
+        .schedule-table {
+            border-collapse: separate;
+            border-spacing: 0 6px;
+            width: 100%;
+        }
+        .schedule-table thead th {
+            background: #eff6ff;
+            color: var(--primary-dk);
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: .5px;
+            text-transform: uppercase;
+            padding: 12px 16px;
+            border: none;
+        }
+        .schedule-table thead th:first-child { border-radius: 8px 0 0 8px; }
+        .schedule-table thead th:last-child  { border-radius: 0 8px 8px 0; }
+        .schedule-table tbody tr {
+            background: var(--bg-card);
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow .2s, transform .2s;
+        }
+        .schedule-table tbody tr:hover { box-shadow: var(--shadow-md); transform: translateX(3px); }
+        .schedule-table tbody td {
+            padding: 14px 16px;
+            font-size: 13.5px;
+            vertical-align: middle;
+            border: none;
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+        }
+        .schedule-table tbody td:first-child { border-left: 1px solid var(--border); border-radius: 8px 0 0 8px; }
+        .schedule-table tbody td:last-child  { border-right: 1px solid var(--border); border-radius: 0 8px 8px 0; }
+        .hw-row td    { background: #fff7ed !important; border-color: #fed7aa !important; }
+        .final-row td { background: #faf5ff !important; border-color: #e9d5ff !important; }
+
+        /* ── SCHEDULE CARDS (mobile) ── */
+        @media (max-width: 767px) {
+            .schedule-table,
+            .schedule-table thead,
+            .schedule-table tbody,
+            .schedule-table tr,
+            .schedule-table td { display: block; width: 100%; }
+
+            .schedule-table thead { display: none; }
+
+            .schedule-table tbody tr {
+                border-radius: 12px;
+                border: 1px solid var(--border);
+                margin-bottom: 12px;
+                box-shadow: var(--shadow-sm);
+                transform: none !important;
+                overflow: hidden;
+            }
+            .schedule-table tbody tr:hover { transform: none !important; box-shadow: var(--shadow-md) !important; }
+
+            .schedule-table tbody td {
+                display: flex;
+                align-items: flex-start;
+                gap: 10px;
+                border: none !important;
+                border-bottom: 1px solid var(--border) !important;
+                border-radius: 0 !important;
+                padding: 11px 14px;
+            }
+            .schedule-table tbody td:last-child { border-bottom: none !important; }
+            .schedule-table tbody td:first-child { border-radius: 0 !important; border-left: none !important; }
+
+            /* hide "—" date column on mobile */
+            .schedule-table tbody td[data-label="日期"] { display: none; }
+
+            .schedule-table tbody td::before {
+                content: attr(data-label);
+                font-size: 10.5px;
+                font-weight: 700;
+                color: var(--text-muted);
+                min-width: 36px;
+                padding-top: 3px;
+                flex-shrink: 0;
+                letter-spacing: .3px;
+            }
+            .schedule-table tbody td:first-child::before { display: none; }
+
+            .hw-row td    { border-bottom-color: #fed7aa !important; }
+            .final-row td { border-bottom-color: #e9d5ff !important; }
+
+            /* remove table-responsive scroll wrapper effect */
+            .table-responsive { overflow: visible; }
+        }
+
+        /* ── BADGE STYLES ── */
+        .lecture-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: #fff; border-radius: 20px;
+            padding: 2px 10px; font-size: 11px; font-weight: 600; white-space: nowrap;
+        }
+        .hw-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #f97316, #fb923c);
+            color: #fff; border-radius: 20px;
+            padding: 2px 10px; font-size: 11px; font-weight: 600; white-space: nowrap;
+        }
+        .final-badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #7c3aed, #a855f7);
+            color: #fff; border-radius: 20px;
+            padding: 2px 10px; font-size: 11px; font-weight: 600; white-space: nowrap;
+        }
+
+        .ddl-text { color: #dc2626; font-weight: 700; font-size: 12px; }
+        .res-link {
+            display: inline-flex; align-items: center; gap: 4px;
+            color: var(--primary); text-decoration: none;
+            font-size: 12.5px; padding: 2px 6px;
+            border-radius: 5px; transition: background .15s;
+        }
+        .res-link:hover { background: #eff6ff; color: var(--primary-dk); }
+
+        /* ── BOOKS ── */
+        .book-item {
+            display: flex; align-items: flex-start; gap: 12px;
+            padding: 10px 0; border-bottom: 1px solid var(--border);
+        }
+        .book-item:last-child { border-bottom: none; }
+        .book-tag {
+            flex-shrink: 0; font-size: 10px; font-weight: 700;
+            padding: 3px 8px; border-radius: 5px; margin-top: 3px;
+        }
+        .book-tag.main { background: #eff6ff; color: var(--primary); }
+        .book-tag.ref  { background: #f0fdf4; color: #16a34a; }
+        .book-item a { color: var(--primary); text-decoration: none; font-size: 12px; }
+        .book-item a:hover { text-decoration: underline; }
+        .book-item .book-title { font-size: 13.5px; line-height: 1.5; color: var(--text-main); }
+        .book-item .book-meta  { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+
+        /* ── FOOTER ── */
+        .site-footer {
+            background: var(--text-main); color: rgba(255,255,255,.6);
+            text-align: center; padding: 28px 20px;
+            font-size: 13px; margin-top: 60px;
+        }
+        .site-footer a { color: rgba(255,255,255,.8); text-decoration: none; }
+
+        /* ── UTILS ── */
+        .section-wrap { padding: 48px 0; }
+        a { color: var(--primary); }
+        a:hover { color: var(--primary-dk); }
+
+        @media (max-width: 768px) {
+            .intro-card { padding: 22px 18px; }
+            .header-stats { gap: 12px; }
+            .sticky-nav .nav-link { padding: 12px 10px; font-size: 12px; }
+            .grade-item .g-label { min-width: 110px; font-size: 12.5px; }
+        }
+    </style>
 </head>
-
 <body>
 
-
-
-<div id="header">
-    <h1>《商务文本智能分析》课程网站</h1>
-    <div style="clear:both;"></div>
-</div>
-
-
-
-<div class="sechighlight">
-    <div class="container sec">
-
-        <h2>课程简介</h2>
-        <br>
-        <p style="text-indent:2em;text-align:justify">
-        在大数据时代，超过80%的商业信息以自然语言文本（如商业报告、客户评价、市场新闻、研究报告、社交媒体等）的非结构化形式存在。虽然数据挖掘和机器学习技术已成为企业进行数据分析的重要工具，但传统的数据挖掘方法通常局限于结构化或半结构化数据，无法直接处理非结构化文本数据。文本挖掘技术通过自然语言处理、机器学习和人工智能推理等方法，能够有效地实现文本信息的抽取、分类、聚类、情感分析、热点预测和主题建模等任务，将大量非结构化文本转化为可供商业决策参考的结构化知识，极大地提升了商业数据分析的深度与广度。
-        </p>
-        
-        <p style="text-indent:2em;text-align:justify">
-        本课程面向商学院本科生，特别是大数据管理与应用、数字经济、国际商务和会计学专业的学生，以理论与实践相结合的方式讲授商务文本智能分析技术。课程围绕大语言模型展开，结合使用自然语言处理工具包NLTK、spaCy及深度学习库Hugging Face，通过讲授文本处理基础知识（如正则表达式、文本切分、编辑距离）、语言模型构建（N-gram、词向量语义与嵌入技术）、经典与深度学习模型（朴素贝叶斯、逻辑回归、循环神经网络、Transformer及大语言模型）、文本分类与情感分析、文本聚类与主题建模、以及检索增强生成（RAG）等核心技术，培养学生利用先进人工智能工具解决真实商业场景中文本数据分析问题的能力。</p>
-
-
-       <p style="text-indent:2em;text-align:justify">
-       本课程设置了丰富的实践作业与案例分析，包括基于真实商业语料的分类算法性能比较、大语言模型的微调实践，以及商业文本的聚类与主题分析等内容。课程实验依托<a href="https://www.kaggle.com/" target="_blank">Kaggle</a>免费在线Jupyter环境开展，以自然语言处理工具包NLTK、spaCy，机器学习库scikit-learn，深度学习库transformers，Hugging Face仓库为主要实践工具，充分锻炼和提升学生的实践动手能力和创新思维，以期为学生将来在数字经济环境下的职业发展奠定坚实的大数据分析技术基础。
-       </p>
-       
-      
-
-
+<!-- ══════ HEADER ══════ -->
+<header class="site-header">
+    <div class="container">
+        <div class="header-badge"><i class="bi bi-mortarboard-fill me-1"></i> 2026 春季学期</div>
+        <h1>商务文本智能分析</h1>
+        <p class="subtitle">Business Text Intelligence Analysis · 杭州师范大学商学院</p>
+        <div class="header-stats">
+            <div class="header-stat">
+                <span class="num">16</span>
+                <span class="label">教学周</span>
+            </div>
+            <div class="header-stat">
+                <span class="num">9+</span>
+                <span class="label">核心章节</span>
+            </div>
+            <div class="header-stat">
+                <span class="num">100%</span>
+                <span class="label">实验上线</span>
+            </div>
+        </div>
     </div>
-</div>
-
-<div class="container sec">
-    <section id="information">
-        <h2>课程信息</h2>
-        <br>
-        <dl class="dl-horizontal">
-            <dt>授课教师</dt>
-            <dd>
-                <p>
-                    <strong>张建章</strong> 博士 <br>
-                    邮箱：jianzhang.zhang@foxmail.com <br>
-                    钉钉：张建章 <br>
-                    办公室：仓前恕园2号楼1009</p>
-            </dd>
-            
-            <dt>互动平台</dt>
-            <dd>
-                <p>
-                
-                AI助教 <a href="https://python.zjztutor.tech/2025" target="_blank"><img src="./imgs/chatbot.png" height="20" width="20" /></a>；课程钉钉群 <img src="./imgs/dingding.png" height="20" width="20" />；课程讨论区 <a href="https://github.com/zhangjianzhang/text_mining/issues" target="_blank"><img src="./imgs/github.png" height="20" width="20" /></a></p>
-
-
-            </dd>
-
-            <dt>授课对象</dt>
-            <dd>
-                <p>本科生，电子商务/大数据管理与应用25级</p>
-
-
-            </dd>
-
-
-            <dt>授课时间</dt>
-            <dd>
-                <p>
-                    周五1-3节/6-8节（1-16周）[<a href="./files/materials/calendar.pdf", target="_blank">校历</a>]
-                                     
-                    
-                </p>
-            </dd>
-
-            <dt>授课地点</dt>
-            <dd>
-                <p>
-                    下沙2号楼408/406
-                </p>
-
-
-            </dd>
-            <dt>课程资料</dt>
-            <dd>
-            
-            <p>
-                 <p>
-                    【教材】《Speech and Language Processing (3rd ed. draft)》, Dan Jurafsky and James H. Martin, updating [<a href="https://web.stanford.edu/~jurafsky/slp3/", target="_blank">电子版</a>]
-                </p>
-                
-                <p>
-                    【图书】《Introduction to Natural Language Processing》, Jacob Eisenstein, 2018, MIT Press [<a href="https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf", target="_blank">电子版</a>]
-                </p>
-                   
-                   <p>
-                    【图书】《大规模语言模型：从理论到实践》，张奇，桂韬，郑锐，黄萱菁 著，2024年，电子工业出版社 [<a href="https://intro-llm.github.io/#home", target="_blank">电子版</a>]
-                </p>
-                
-                <p>
-                    【图书】《大模型基础》，毛玉仁，高云君 著，2024年，更新中 [<a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs", target="_blank">电子版</a>]
-                </p>
-                
-                <p>
-                    【图书】《大语言模型》, 赵鑫 等, 2024年, 高等教育出版社 [<a href="https://llmbook-zh.github.io/", target="_blank">电子版</a>]
-                </p>
-                
-                <p>
-                    【图书】《大模型三部曲》, 赵宇 等, 2025年, 机械工业出版社 [<a href="https://nlp-book.swufenlp.group/", target="_blank">电子版</a>]
-                </p>
-                
-                <p>
-                    【图书】《自然语言处理：基于大语言模型的方法》，车万翔，郭江，崔一鸣 著，2025年，电子工业出版社 [<a href="https://mp.weixin.qq.com/s/bwRjP5HywGBPCpw2HkhLdA", target="_blank">简介</a>]
-                </p>
-                
-                
-                <p>
-                    【图书】《Build a Large Language Model (From Scratch)》, Sebastian Raschka, Manning Publications, 2024 [<a href="https://www.manning.com/books/build-a-large-language-model-from-scratch", target="_blank">简介</a>]
-                </p>
-                
-                
-                
-                <p>
-                    【图书】《文本数据挖掘》，宗成庆等 著，2019年，清华大学出版社 [<a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_09282701.html", target="_blank">简介</a>]
-                </p>
-                
-                
-                <p>
-                    【图书】《Natural Language Processing with Transformers》, Leandro von Werra et al., 2022, O'Reilly Media, Inc. [<a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/", target="_blank">简介</a>]
-                </p>
-                
-                
-                <p>
-                    【图书】《Introduction to Information Retrieval》, Christopher D. Manning et al., 2008, Cambridge University Press [<a href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html", target="_blank">电子版</a>]
-                </p>
-                
-                
-                
-                <p>
-                    【图书】《Foundations of Statistical Natural Language Processing》, Chris Manning and Hinrich Schütze, 1999, MIT Press [<a href="https://nlp.stanford.edu/fsnlp/", target="_blank">简介</a>]
-                </p>
-                
-                <p>
-                    【图书】《Natural Language Processing with Python》, Steven Bird et al., 2009, O'Reilly Media, Inc. [<a href="https://www.nltk.org/book/", target="_blank">电子版</a>]
-                </p>
-                
-                
-                
-                
-            </dd>
-            
-            <dt>常用工具</dt>
-            <dd>
-                <ul>
-                
-                
-                
-                <li>大语言模型 [<a href="https://chat.deepseek.com/", target="_blank">DeepSeek</a>、<a href="https://chat.qwen.ai/", target="_blank">Qwen</a>、Gemini、ChatGPT、Claude等] </li>
-              <li>中文NLP资源 [<a href="https://www.cluebenchmarks.com/index.html", target="_blank">官网</a>] </li>
-              <li>中文大模型评测榜单 [<a href="https://www.superclueai.com/", target="_blank">官网</a>] </li>
-                <li>Chrome [<a href="https://www.google.cn/intl/zh-CN/chrome/", target="_blank">官网</a>] </li>
-                <li>Kaggle [<a href="https://www.kaggle.com/", target="_blank">官网</a>][<a href="./files/materials/kaggle_howto.pdf", target="_blank">注册方法</a>, <a href="./files/materials/kaggle_extension.zip", target="_blank">注册插件</a>, <a href="./files/materials/kaggle_basic.pdf", target="_blank">使用简介</a>]</li>
-                <li>魔搭 [<a href="https://modelscope.cn" target="_blank">ModelScope</a>] </li>
-                <li>spaCy [<a href="https://spacy.io/", target="_blank">官网</a>] </li>
-                <li>NLTK [<a href="https://www.nltk.org/", target="_blank">官网</a>]</li>
-                <li>Anaconda [<a href="https://www.anaconda.com/products/individual", target="_blank">官网</a>][<a href="./files/materials/anaconda_install.pdf", target="_blank">安装说明</a>]
-                    </li>
-                    <li>PyCharm [<a href="https://www.jetbrains.com/pycharm/download/#section=windows", target="_blank">官网</a>]（请下载Community版本）</li>
-                    <li>NLTK Corpora List [<a href="https://www.nltk.org/nltk_data/", target="_blank">官网</a>]</li>
-                    <!-- <li>NLTK Corpora Directory [<a href="https://pan.baidu.com/s/17YfUVx94MJ_6Z6XkEmagjg?pwd=axkp", target="_blank">网盘</a>]</li> -->
-                    
-                    
-                                        
-                    
-                </ul>
-            </dd>
-
-            <dt>成绩评定</dt>
-            <dd>
-                <p>本课程成绩主要由四部分组成，如下：</p>
-                <ul class="unstyled">
-                    
-                        <li>期末成绩-50%</li>
-                        <li>课程作业/测验-30%</li>
-                        <li>课堂表现-10%</li>
-                        <li>日常考勤-10%</li>
-                    
-                </ul>
-            </dd>
-
-        </dl>
-    </section>
-</div>
-
-<div class="container sec">
-    <h2>课程计划</h2>
-    <br>
-    <table class="table">
-        <tbody>
-        <tr class="info">
-            <th>章节</th>
-            <th>日期</th>
-            <th>内容</th>
-            <th>思考题</th>
-            <th>资料</th>
-        </tr>
-        <tr>
-            <td>
-            第一讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>文本挖掘概述 <small>[ <a href="./files/slides/1-Introduction.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                Kaggle示例代码 [ <a href="https://www.kaggle.com/code/jianzhangzhang/text-mining-example-code" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                <a href="https://pan.baidu.com/s/1pXyUN3Wuk7fDaIpyMZ_NPA?pwd=zik9", target="_blank">chatGPT科普视频</a>
-                
-                
-                
-            </td>
-        </tr>
-
-
-
-
-        <tr>
-            <td>
-            第二讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>文本预处理 <small>[ <a href="./files/slides/2-preprocess.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                文本预处理 [ <a href="https://www.kaggle.com/code/jianzhangzhang/2-preprocessing" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-              调用Deepseek API预处理文本 [ <a href="https://www.kaggle.com/code/jianzhangzhang/deepseek-api-demo" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-              
-                
-                
-            </td>
-        </tr>
-      
-        <tr>
-            <td>
-            第三讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>N-gram语言模型 <small>[ <a href="./files/slides/3-n-gram.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-              训练N-Gram语言模型 [ <a href="https://www.kaggle.com/code/jianzhangzhang/n-gram-lm" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第四讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>生成模型-朴素贝叶斯 <small>[ <a href="./files/slides/4-classification.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                朴素贝叶斯文本分类及性能评估 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-4-bayes-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                                
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第五讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>判别模型-逻辑回归 <small>[ <a href="./files/slides/5-classification.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                逻辑回归文本分类及正则化 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-5-logistic-regression" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                
-            </td>
-        </tr>
-        
-        
-        
-        <tr>
-            <td>
-            第六讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>向量语义 <small>[ <a href="./files/slides/6-vector-semantics.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                文本向量化表示-稀疏 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-sparse" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                文本向量化表示-稠密 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-dense" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                探索词嵌入的语义属性 [ <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-embeddings-semantic-properties" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                                
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第七讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>神经网络 <small>[ <a href="./files/slides/7-neural-networks.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                前馈神经网络-文本分类 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                前馈神经网络-语言模型 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-language-model" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                前馈神经网络-fastText分类 [ <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-fasttext-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                
-                                
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第八讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>RNNs和LSTMs <small>[ <a href="./files/slides/8-rnn-lstm.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                新闻分类-Bi-LSTM [ <a href="https://www.kaggle.com/code/jianzhangzhang/bilstm-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                新闻分类-Bi-LSTM-Attention [ <a href="https://www.kaggle.com/code/jianzhangzhang/bi-lstm-attention-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ] 
-                                
-                
-            </td>
-        </tr>
-        
-        <tr>
-       
-            <td><strong>作业2</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                第二次作业题 [<a href="./files/homework/homework2.html" target="_blank">题目</a>]
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        <tr>
-            <td>
-            第九讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>Transformer <small>[ <a href="./files/slides/9-transformer.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                -
-                                
-                
-            </td>
-        </tr>
-        
-        <tr>
-       
-            <td><strong>作业3</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                第三次作业题 [<a href="./files/homework/homework3.html" target="_blank">题目</a>]
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        
-        <tr>
-       
-            <td><strong>期末作业</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                <a href="./files/final/final-2025.html" target="_blank">题目要求</a></br>
-                <a href="./files/final/template.doc" target="_blank">论文模板</a>
-                
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank">提交链接</a>
-                            
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2025-06-23 20:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        
-        
- <!--        
-        <tr>
-       
-            <td><strong>作业1</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                第一次作业题 <small>[<a href="./files/homework/homework_1.ipynb" target="_blank">题目</a>，<a href="./files/codes/reports_tagged.zip" target="_blank">数据</a>]</small>
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://send2me.cn/jSU8vzYj/R_KeARF_W8SkOA" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2024-04-15 20:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        <tr>
-            <td>
-            第四讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>文本分类 <small>[ <a href="./files/slides/lecture_4.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-                中文新闻二分类 (Naive Bayes) [ <a href="https://www.kaggle.com/jianzhangzhang/bayes-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                中文新闻多分类 (fastText) [ <a href="https://www.kaggle.com/code/jianzhangzhang/fasttext-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                                
-                
-            </td>
-        </tr>
-        
-        
-        
-         <tr>
-       
-            <td><strong>作业2</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                第二次作业题 <small>[<a href="./files/homework/homework_2.ipynb" target="_blank">题目</a>]</small>
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://send2me.cn/cunyoHaN/SuuM-XATFylAVQ" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2024-05-01 08:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        <tr>
-            <td>
-            第五讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>文本聚类 <small>[ <a href="./files/slides/lecture_5.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                
-      文本K-Means聚类-TFIDF [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-tfidf" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-      
-      文本K-Means聚类-词向量 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-word-embeddings" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-      文本K-Means聚类-句向量 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-kmeans-sentence-embeddings" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                
-                
-                文本凝聚层次聚类-TFIDF [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-clustering-hac-tfidf" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]                
-                
-            </td>
-        </tr>
-        
-        
-        <tr>
-            <td>
-            第六讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>主题模型 <small>[ <a href="./files/slides/lecture_6.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                <a href="https://github.com/zhangjianzhang/text_mining/tree/master/files/materials/LDA" target="_blank">拓展资料</a>
-            </td>
-
-            <td> 
-       
-       新闻潜在语义分析 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-vectorization-lsa" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-       新闻LDA主题挖掘 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-lda" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-       
-                文本主题建模和可视化 [ <a href="https://www.kaggle.com/jianzhangzhang/topic-modeling" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]                 
-                
-            </td>
-        </tr>
-        
-        
-        <tr>
-       
-            <td><strong>作业3</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                第三次作业题 <small>[<a href="./files/homework/homework_3.ipynb" target="_blank">题目</a>]</small>
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://send2me.cn/8n2TDX_w/SbiaNsN3um9a7Q" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2024-05-25 16:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        <tr>
-            <td>
-            第七讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>文本挖掘科研初探 <small>[ <a href="./files/slides/lecture_7.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                <a href="https://github.com/zhangjianzhang/text_mining/tree/master/files/materials/embedding_topic" target="_blank">拓展资料</a>
-            </td>
-
-            <td> 
-                
-                新闻BERTopic主题挖掘 [ <a href="https://www.kaggle.com/code/jianzhangzhang/news-bertopic" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]               
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第八讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>深度学习文本挖掘 <small>[ <a href="./files/slides/lecture_8.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                推荐拓展资料见讲义
-            </td>
-
-            <td> 
-                
-                新闻分类-CNN [ <a href="https://www.kaggle.com/code/jianzhangzhang/cnn-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                新闻分类-CNN+embedding [ <a href="https://www.kaggle.com/code/jianzhangzhang/cnn-embedding-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>
-                
-                新闻分类-Bi-LSTM [ <a href="https://www.kaggle.com/code/jianzhangzhang/bilstm-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]         
-                
-            </td>
-        </tr>
-        
-        <tr>
-            <td>
-            第九讲
-            </td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-             <li>注意力机制 <small>[ <a href="./files/slides/lecture_9.pdf" target="_blank"><img src="./imgs/pdf.png" height="20" width="20" /></a> ]</small></li>
-           
-            </td>
-
-            <td>
-                -
-            </td>
-
-            <td> 
-                  
-      新闻分类-Bi-LSTM-Attention [ <a href="https://www.kaggle.com/code/jianzhangzhang/bi-lstm-attention-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]</br>          
-                新闻分类-BERT微调 [ <a href="https://www.kaggle.com/code/jianzhangzhang/bert-news-classification" target="_blank"><img src="./imgs/jupyter.png" height="20" width="20" /></a> ]
-                           
-                 
-            </td>
-        </tr>
-        
-        
-        
-        <tr>
-       
-            <td><strong>期末实验</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                <a href="https://www.kaggle.com/code/jianzhangzhang/2024-final" target="_blank">题目要求</a>
-                
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://send2me.cn/CMdewZDL/Q7GsNegyPf1t_Q" target="_blank">提交链接</a>
-                            
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2024-06-23 20:00:00</strong></p>
-
-            </td>
-            
-        </tr>
-        
-        <tr>
-       
-            <td><strong>期末论文</strong></td>
-
-            <td>
-            -
-            </td>
-
-            <td>
-
-                <a href="./files/final/template.doc" target="_blank">论文模板</a>
-               
-            </td>
-
-
-            <td>
-                
-               <a href="https://send2me.cn/3nqsSSo7/S7i3w8g53R6u1A" target="_blank">提交链接</a>                
-                
-            </td>
-
-            <td> 
-                
-                <p style="color:#FF0000"><strong>DDL: 2024-06-23 20:00:00</strong></p>
-                <p style="color:#FF0000"><strong>纸质版提交时间和地点在钉钉群另行通知</strong>
-
-            </td>
-            
-        </tr>-->
-                       
-                       
-
-                       
-                                                             
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-
-
-        </tbody>
-    </table>
-</div>
-
-<!-- jQuery and Boostrap -->
-<script src="./files/jquery.min.js"></script>
-<script src="./files/bootstrap.min.js"></script>
-
+</header>
+
+<!-- ══════ STICKY NAV ══════ -->
+<nav class="sticky-nav">
+    <div class="container">
+        <ul class="nav flex-nowrap overflow-auto">
+            <li class="nav-item"><a class="nav-link" href="#intro"><i class="bi bi-file-text"></i>课程简介</a></li>
+            <li class="nav-item"><a class="nav-link" href="#info"><i class="bi bi-info-circle"></i>课程信息</a></li>
+            <li class="nav-item"><a class="nav-link" href="#schedule"><i class="bi bi-calendar3"></i>课程计划</a></li>
+            <li class="nav-item"><a class="nav-link" href="#aitools"><i class="bi bi-stars"></i>AI工具</a></li>
+            <li class="nav-item"><a class="nav-link" href="#resources"><i class="bi bi-book"></i>参考资料</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- ══════ INTRO ══════ -->
+<section id="intro" class="section-wrap">
+    <div class="container">
+        <div class="sec-title">
+            <div class="icon-box"><i class="bi bi-journal-richtext"></i></div>
+            课程简介
+        </div>
+        <div class="intro-card">
+            <p>在大数据时代，超过80%的商业信息以自然语言文本（如商业报告、客户评价、市场新闻、研究报告、社交媒体等）的非结构化形式存在。虽然数据挖掘和机器学习技术已成为企业进行数据分析的重要工具，但传统的数据挖掘方法通常局限于结构化或半结构化数据，无法直接处理非结构化文本数据。文本挖掘技术通过自然语言处理、机器学习和人工智能推理等方法，能够有效地实现文本信息的抽取、分类、聚类、情感分析、热点预测和主题建模等任务，将大量非结构化文本转化为可供商业决策参考的结构化知识，极大地提升了商业数据分析的深度与广度。</p>
+            <p>本课程面向商学院本科生，特别是大数据管理与应用、数字经济、国际商务和会计学专业的学生，以理论与实践相结合的方式讲授商务文本智能分析技术。课程围绕大语言模型展开，结合使用自然语言处理工具包NLTK、spaCy及深度学习库Hugging Face，通过讲授文本处理基础知识（如正则表达式、文本切分、编辑距离）、语言模型构建（N-gram、词向量语义与嵌入技术）、经典与深度学习模型（朴素贝叶斯、逻辑回归、循环神经网络、Transformer及大语言模型）、文本分类与情感分析、文本聚类与主题建模、以及检索增强生成（RAG）等核心技术，培养学生利用先进人工智能工具解决真实商业场景中文本数据分析问题的能力。</p>
+            <p>本课程设置了丰富的实践作业与案例分析，包括基于真实商业语料的分类算法性能比较、大语言模型的微调实践，以及商业文本的聚类与主题分析等内容。课程实验依托 <a href="https://www.kaggle.com/" target="_blank">Kaggle</a> 免费在线Jupyter环境开展，以自然语言处理工具包NLTK、spaCy，机器学习库scikit-learn，深度学习库transformers，Hugging Face仓库为主要实践工具，充分锻炼和提升学生的实践动手能力和创新思维，以期为学生将来在数字经济环境下的职业发展奠定坚实的大数据分析技术基础。</p>
+        </div>
+    </div>
+</section>
+
+<!-- ══════ INFO ══════ -->
+<section id="info" style="background:var(--bg-card);border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
+    <div class="container section-wrap">
+        <div class="sec-title">
+            <div class="icon-box"><i class="bi bi-info-circle"></i></div>
+            课程信息
+        </div>
+
+        <div class="row g-3 mb-3">
+            <div class="col-md-4">
+                <div class="info-card">
+                    <div class="info-icon"><i class="bi bi-person-workspace"></i></div>
+                    <div class="info-label">授课教师</div>
+                    <div style="font-size:14.5px;line-height:1.8">
+                        <strong>张建章</strong> 博士<br>
+                        <i class="bi bi-envelope text-muted" style="font-size:12px"></i> jianzhang.zhang@foxmail.com<br>
+                        <i class="bi bi-chat-dots text-muted" style="font-size:12px"></i> 钉钉：张建章<br>
+                        <i class="bi bi-building text-muted" style="font-size:12px"></i> 仓前恕园2号楼1009
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="info-card">
+                    <div class="info-icon"><i class="bi bi-clock"></i></div>
+                    <div class="info-label">授课时间 / 地点</div>
+                    <div style="font-size:14.5px;line-height:1.8">
+                        周五 1-3 节 / 6-8 节<br>
+                        第 1—16 周
+                        <a href="./files/materials/calendar.pdf" target="_blank" class="res-link d-inline-flex mt-1"><i class="bi bi-calendar2"></i> 查看校历</a><br>
+                        <i class="bi bi-geo-alt text-muted" style="font-size:12px"></i> 下沙2号楼 408 / 406
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="info-card">
+                    <div class="info-icon"><i class="bi bi-people"></i></div>
+                    <div class="info-label">授课对象</div>
+                    <div style="font-size:14.5px;line-height:1.8">
+                        本科生<br>电子商务 / 大数据管理与应用（25级）
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row g-3 mb-3">
+            <div class="col-md-6">
+                <div class="info-card">
+                    <div class="info-icon"><i class="bi bi-bar-chart"></i></div>
+                    <div class="info-label">成绩评定</div>
+                    <div class="mt-2">
+                        <div class="grade-item">
+                            <span class="g-label"><i class="bi bi-file-earmark-text me-1"></i>期末成绩</span>
+                            <div class="g-bar-wrap"><div class="g-bar" style="width:50%"></div></div>
+                            <span class="g-pct">50%</span>
+                        </div>
+                        <div class="grade-item">
+                            <span class="g-label"><i class="bi bi-pencil me-1"></i>课程作业/测验</span>
+                            <div class="g-bar-wrap"><div class="g-bar" style="width:30%"></div></div>
+                            <span class="g-pct">30%</span>
+                        </div>
+                        <div class="grade-item">
+                            <span class="g-label"><i class="bi bi-hand-index me-1"></i>课堂表现</span>
+                            <div class="g-bar-wrap"><div class="g-bar" style="width:10%"></div></div>
+                            <span class="g-pct">10%</span>
+                        </div>
+                        <div class="grade-item">
+                            <span class="g-label"><i class="bi bi-person-check me-1"></i>日常考勤</span>
+                            <div class="g-bar-wrap"><div class="g-bar" style="width:10%"></div></div>
+                            <span class="g-pct">10%</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="info-card">
+                    <div class="info-icon"><i class="bi bi-chat-square-dots"></i></div>
+                    <div class="info-label">互动平台</div>
+                    <div class="row g-2 mt-1">
+                        <div class="col-12">
+                            <a href="https://python.zjztutor.tech/text_mining" target="_blank" class="platform-card">
+                                <div class="p-icon"><i class="bi bi-robot"></i></div>
+                                <div>
+                                    <div style="font-weight:600;font-size:13.5px">AI 助教</div>
+                                    <div style="font-size:11.5px;color:var(--text-muted)">python.zjztutor.tech/text_mining</div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-6">
+                            <div class="platform-card">
+                                <div class="p-icon" style="background:linear-gradient(135deg,#1677ff,#36a3ff)"><i class="bi bi-chat-dots"></i></div>
+                                <div>
+                                    <div style="font-weight:600;font-size:13px">课程钉钉群</div>
+                                    <div style="font-size:11.5px;color:var(--text-muted)">DingTalk</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6">
+                            <a href="https://github.com/zhangjianzhang/text_mining/issues" target="_blank" class="platform-card">
+                                <div class="p-icon" style="background:linear-gradient(135deg,#24292e,#555)"><i class="bi bi-github"></i></div>
+                                <div>
+                                    <div style="font-weight:600;font-size:13px">课程讨论区</div>
+                                    <div style="font-size:11.5px;color:var(--text-muted)">GitHub Issues</div>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="info-card">
+            <div class="info-icon"><i class="bi bi-tools"></i></div>
+            <div class="info-label">常用工具</div>
+            <div class="mt-2">
+                <a href="https://chat.deepseek.com/" target="_blank" class="tool-chip"><i class="bi bi-lightning-charge"></i>DeepSeek</a>
+                <a href="https://chat.qwen.ai/" target="_blank" class="tool-chip"><i class="bi bi-lightning-charge"></i>Qwen</a>
+                <a href="https://www.kaggle.com/" target="_blank" class="tool-chip"><i class="bi bi-code-slash"></i>Kaggle
+                    &nbsp;<a href="./files/materials/kaggle_howto.pdf" target="_blank" style="font-size:11px;color:inherit">[注册]</a>
+                    <a href="./files/materials/kaggle_basic.pdf" target="_blank" style="font-size:11px;color:inherit">[教程]</a>
+                </a>
+                <a href="https://modelscope.cn" target="_blank" class="tool-chip"><i class="bi bi-cpu"></i>魔搭 ModelScope</a>
+                <a href="https://spacy.io/" target="_blank" class="tool-chip"><i class="bi bi-braces"></i>spaCy</a>
+                <a href="https://www.nltk.org/" target="_blank" class="tool-chip"><i class="bi bi-braces"></i>NLTK</a>
+                <a href="https://www.anaconda.com/products/individual" target="_blank" class="tool-chip"><i class="bi bi-box"></i>Anaconda
+                    &nbsp;<a href="./files/materials/anaconda_install.pdf" target="_blank" style="font-size:11px;color:inherit">[安装]</a>
+                </a>
+                <a href="https://www.jetbrains.com/pycharm/download/#section=windows" target="_blank" class="tool-chip"><i class="bi bi-terminal"></i>PyCharm (Community)</a>
+                <a href="https://www.cluebenchmarks.com/index.html" target="_blank" class="tool-chip"><i class="bi bi-bar-chart"></i>中文NLP资源</a>
+                <a href="https://www.superclueai.com/" target="_blank" class="tool-chip"><i class="bi bi-trophy"></i>中文大模型榜单</a>
+                <a href="https://www.nltk.org/nltk_data/" target="_blank" class="tool-chip"><i class="bi bi-database"></i>NLTK Corpora</a>
+                <a href="https://www.google.cn/intl/zh-CN/chrome/" target="_blank" class="tool-chip"><i class="bi bi-globe"></i>Chrome</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ══════ SCHEDULE ══════ -->
+<section id="schedule" class="section-wrap">
+    <div class="container">
+        <div class="sec-title">
+            <div class="icon-box"><i class="bi bi-calendar3"></i></div>
+            课程计划
+        </div>
+        <div class="table-responsive">
+            <table class="schedule-table">
+                <thead>
+                    <tr>
+                        <th style="width:100px">章节</th>
+                        <th style="width:72px">日期</th>
+                        <th>内容</th>
+                        <th style="width:120px">思考/备注</th>
+                        <th>实验资料</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第一讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">文本挖掘概述</div>
+                            <a href="./files/slides/1-Introduction.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/text-mining-example-code" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> Kaggle示例代码
+                            </a><br>
+                            <a href="https://pan.baidu.com/s/1pXyUN3Wuk7fDaIpyMZ_NPA?pwd=zik9" target="_blank" class="res-link">
+                                <i class="bi bi-play-btn" style="color:#6366f1"></i> chatGPT科普视频
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第二讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">文本预处理</div>
+                            <a href="./files/slides/2-preprocess.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/2-preprocessing" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 文本预处理
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/deepseek-api-demo" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 调用Deepseek API预处理文本
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第三讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">N-gram 语言模型</div>
+                            <a href="./files/slides/3-n-gram.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/n-gram-lm" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 训练N-Gram语言模型
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第四讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">生成模型 · 朴素贝叶斯</div>
+                            <a href="./files/slides/4-classification.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-4-bayes-classification" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 朴素贝叶斯文本分类及性能评估
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第五讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">判别模型 · 逻辑回归</div>
+                            <a href="./files/slides/5-classification.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-5-logistic-regression" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 逻辑回归文本分类及正则化
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第六讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">向量语义</div>
+                            <a href="./files/slides/6-vector-semantics.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-sparse" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 文本向量化（稀疏）
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-vector-semantics-dense" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 文本向量化（稠密）
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/lecture-6-embeddings-semantic-properties" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 探索词嵌入的语义属性
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第七讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">神经网络</div>
+                            <a href="./files/slides/7-neural-networks.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-classification" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 前馈神经网络-文本分类
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/neural-language-model" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 前馈神经网络-语言模型
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/neural-network-fasttext-classification" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 前馈神经网络-fastText分类
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第八讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">RNNs 和 LSTMs</div>
+                            <a href="./files/slides/8-rnn-lstm.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料">
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/bilstm-news-classification" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 新闻分类-Bi-LSTM
+                            </a><br>
+                            <a href="https://www.kaggle.com/code/jianzhangzhang/bi-lstm-attention-news-classification" target="_blank" class="res-link">
+                                <i class="bi bi-journal-code" style="color:#f59e0b"></i> 新闻分类-Bi-LSTM-Attention
+                            </a>
+                        </td>
+                    </tr>
+
+                    <tr class="hw-row">
+                        <td data-label="章节"><span class="hw-badge">作业 2</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <a href="./files/homework/homework2.html" target="_blank" class="res-link">
+                                <i class="bi bi-file-earmark-text"></i> 查看第二次作业题
+                            </a>
+                        </td>
+                        <td data-label="备注">
+                            <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank" class="res-link">
+                                <i class="bi bi-upload"></i> 提交链接
+                            </a>
+                        </td>
+                        <td data-label="资料"><span class="ddl-text"><i class="bi bi-alarm me-1"></i>DDL: 2025-06-23 20:00</span></td>
+                    </tr>
+
+                    <tr>
+                        <td data-label="章节"><span class="lecture-badge">第九讲</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <div style="font-weight:600;font-size:13.5px">Transformer</div>
+                            <a href="./files/slides/9-transformer.pdf" target="_blank" class="res-link mt-1">
+                                <i class="bi bi-file-earmark-pdf" style="color:#e74c3c"></i> 讲义
+                            </a>
+                        </td>
+                        <td data-label="备注" style="color:var(--text-muted)">—</td>
+                        <td data-label="资料" style="color:var(--text-muted)">—</td>
+                    </tr>
+
+                    <tr class="hw-row">
+                        <td data-label="章节"><span class="hw-badge">作业 3</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <a href="./files/homework/homework3.html" target="_blank" class="res-link">
+                                <i class="bi bi-file-earmark-text"></i> 查看第三次作业题
+                            </a>
+                        </td>
+                        <td data-label="备注">
+                            <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank" class="res-link">
+                                <i class="bi bi-upload"></i> 提交链接
+                            </a>
+                        </td>
+                        <td data-label="资料"><span class="ddl-text"><i class="bi bi-alarm me-1"></i>DDL: 2025-06-23 20:00</span></td>
+                    </tr>
+
+                    <tr class="final-row">
+                        <td data-label="章节"><span class="final-badge">期末作业</span></td>
+                        <td data-label="日期" style="color:var(--text-muted)">—</td>
+                        <td data-label="内容">
+                            <a href="./files/final/final-2025.html" target="_blank" class="res-link">
+                                <i class="bi bi-file-earmark-check" style="color:#7c3aed"></i> 题目要求
+                            </a><br>
+                            <a href="./files/final/template.doc" target="_blank" class="res-link">
+                                <i class="bi bi-file-word" style="color:#2563eb"></i> 论文模板
+                            </a>
+                        </td>
+                        <td data-label="备注">
+                            <a href="https://hznu.fanya.chaoxing.com/portal" target="_blank" class="res-link">
+                                <i class="bi bi-upload"></i> 提交链接
+                            </a>
+                        </td>
+                        <td data-label="资料"><span class="ddl-text"><i class="bi bi-alarm me-1"></i>DDL: 2025-06-23 20:00</span></td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+
+<!-- ══════ AI TOOLS ══════ -->
+<section id="aitools" style="background:var(--bg-card);border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
+    <div class="container section-wrap">
+        <div class="sec-title">
+            <div class="icon-box"><i class="bi bi-stars"></i></div>
+            AI 工具推荐
+        </div>
+        <p style="color:var(--text-muted);font-size:13.5px;margin-bottom:24px;">
+            以下工具经课程组测试推荐，可显著提升学习效率与实验体验。
+        </p>
+        <div class="row g-4">
+
+            <!-- Claude Desktop -->
+            <div class="col-md-6">
+                <div class="ai-tool-card">
+                    <div class="ai-tool-icon" style="background:linear-gradient(135deg,#d97706,#f59e0b);">
+                        <i class="bi bi-cpu" style="color:#fff"></i>
+                    </div>
+                    <h5>Claude Desktop</h5>
+                    <p class="ai-desc">
+                        Anthropic 推出的桌面端 AI 助手，支持本地文件读写、代码执行、多步骤任务自动化。配合课程配置指南，可作为强大的本地学习与实验助手。
+                    </p>
+                    <!-- 下载按钮：请将 href="#" 替换为实际下载地址 -->
+                    <a href="#" class="dl-btn dl-btn-primary" target="_blank">
+                        <i class="bi bi-download"></i> 下载 Claude Desktop
+                    </a>
+                    <div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:8px;letter-spacing:.5px;text-transform:uppercase;">配置指南</div>
+                    <!-- 配置指南1：请将 href="#" 替换为实际链接 -->
+                    <a href="#" class="guide-link" target="_blank">
+                        <i class="bi bi-file-earmark-text" style="color:var(--primary)"></i>
+                        <div>
+                            <div style="font-weight:600;">配置指南一</div>
+                            <div style="font-size:11.5px;color:var(--text-muted)">待更新</div>
+                        </div>
+                        <i class="bi bi-chevron-right ms-auto" style="color:var(--text-muted)"></i>
+                    </a>
+                    <!-- 配置指南2：请将 href="#" 替换为实际链接 -->
+                    <a href="#" class="guide-link" target="_blank">
+                        <i class="bi bi-file-earmark-text" style="color:var(--primary)"></i>
+                        <div>
+                            <div style="font-weight:600;">配置指南二</div>
+                            <div style="font-size:11.5px;color:var(--text-muted)">待更新</div>
+                        </div>
+                        <i class="bi bi-chevron-right ms-auto" style="color:var(--text-muted)"></i>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Tabbit -->
+            <div class="col-md-6">
+                <div class="ai-tool-card">
+                    <div class="ai-tool-icon" style="background:linear-gradient(135deg,#0ea5a0,#0891b2);">
+                        <i class="bi bi-globe2" style="color:#fff"></i>
+                    </div>
+                    <h5>Tabbit 浏览器</h5>
+                    <p class="ai-desc">
+                        专为 AI 时代设计的智能浏览器，内置多模型对话、网页划词解释、资料收集整理等功能，适合在调研文献和浏览学习资料时辅助分析。
+                    </p>
+                    <!-- 下载按钮：请将 href="#" 替换为实际下载地址 -->
+                    <a href="#" class="dl-btn dl-btn-teal" target="_blank">
+                        <i class="bi bi-download"></i> 下载 Tabbit 浏览器
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<!-- ══════ RESOURCES ══════ -->
+<section id="resources" class="section-wrap">
+    <div class="container">
+        <div class="sec-title">
+            <div class="icon-box"><i class="bi bi-book"></i></div>
+            参考资料
+        </div>
+        <div class="row g-3">
+            <div class="col-12">
+                <div class="book-item">
+                    <span class="book-tag main">教材</span>
+                    <div>
+                        <div class="book-title"><em>Speech and Language Processing (3rd ed. draft)</em></div>
+                        <div class="book-meta">Dan Jurafsky & James H. Martin · 持续更新中</div>
+                        <a href="https://web.stanford.edu/~jurafsky/slp3/" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Introduction to Natural Language Processing</em></div>
+                        <div class="book-meta">Jacob Eisenstein · 2018 · MIT Press</div>
+                        <a href="https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">大规模语言模型：从理论到实践</div>
+                        <div class="book-meta">张奇，桂韬，郑锐，黄萱菁 · 2024 · 电子工业出版社</div>
+                        <a href="https://intro-llm.github.io/#home" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">大模型基础</div>
+                        <div class="book-meta">毛玉仁，高云君 · 2024 · 更新中</div>
+                        <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">大语言模型</div>
+                        <div class="book-meta">赵鑫 等 · 2024 · 高等教育出版社</div>
+                        <a href="https://llmbook-zh.github.io/" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">大模型三部曲</div>
+                        <div class="book-meta">赵宇 等 · 2025 · 机械工业出版社</div>
+                        <a href="https://nlp-book.swufenlp.group/" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">自然语言处理：基于大语言模型的方法</div>
+                        <div class="book-meta">车万翔，郭江，崔一鸣 · 2025 · 电子工业出版社</div>
+                        <a href="https://mp.weixin.qq.com/s/bwRjP5HywGBPCpw2HkhLdA" target="_blank"><i class="bi bi-link-45deg"></i> 简介</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Build a Large Language Model (From Scratch)</em></div>
+                        <div class="book-meta">Sebastian Raschka · 2024 · Manning Publications</div>
+                        <a href="https://www.manning.com/books/build-a-large-language-model-from-scratch" target="_blank"><i class="bi bi-link-45deg"></i> 简介</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title">文本数据挖掘</div>
+                        <div class="book-meta">宗成庆等 · 2019 · 清华大学出版社</div>
+                        <a href="http://www.tup.tsinghua.edu.cn/booksCenter/book_09282701.html" target="_blank"><i class="bi bi-link-45deg"></i> 简介</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Natural Language Processing with Transformers</em></div>
+                        <div class="book-meta">Leandro von Werra et al. · 2022 · O'Reilly</div>
+                        <a href="https://www.oreilly.com/library/view/natural-language-processing/9781098136789/" target="_blank"><i class="bi bi-link-45deg"></i> 简介</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Introduction to Information Retrieval</em></div>
+                        <div class="book-meta">Christopher D. Manning et al. · 2008 · Cambridge University Press</div>
+                        <a href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Foundations of Statistical Natural Language Processing</em></div>
+                        <div class="book-meta">Chris Manning & Hinrich Schütze · 1999 · MIT Press</div>
+                        <a href="https://nlp.stanford.edu/fsnlp/" target="_blank"><i class="bi bi-link-45deg"></i> 简介</a>
+                    </div>
+                </div>
+                <div class="book-item">
+                    <span class="book-tag ref">参考</span>
+                    <div>
+                        <div class="book-title"><em>Natural Language Processing with Python</em></div>
+                        <div class="book-meta">Steven Bird et al. · 2009 · O'Reilly</div>
+                        <a href="https://www.nltk.org/book/" target="_blank"><i class="bi bi-link-45deg"></i> 电子版</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ══════ FOOTER ══════ -->
+<footer class="site-footer">
+    <div>《商务文本智能分析》· 杭州师范大学商学院 · 2026 春季学期</div>
+    <div style="margin-top:6px">授课教师：<a href="mailto:jianzhang.zhang@foxmail.com">张建章</a></div>
+</footer>
+
+<!-- Bootstrap 5 JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+<script>
+    const sections = document.querySelectorAll('section[id], header[id]');
+    const navLinks = document.querySelectorAll('.sticky-nav .nav-link');
+    window.addEventListener('scroll', () => {
+        let current = '';
+        sections.forEach(s => {
+            if (window.scrollY >= s.offsetTop - 100) current = s.id;
+        });
+        navLinks.forEach(a => {
+            a.classList.toggle('active', a.getAttribute('href') === '#' + current);
+        });
+    });
+</script>
 
 </body>
 </html>
