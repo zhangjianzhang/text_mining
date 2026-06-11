@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>《商务文本智能分析》期末项目 · 财经新闻情感分析</title>
+<style>
+  :root{
+    --bg:#f7f8fa; --card:#ffffff; --ink:#1f2430; --muted:#5b6472;
+    --line:#e6e9ef; --brand:#1d4ed8; --brand-soft:#eaf0ff;
+    --accent:#0f766e; --warn:#b45309; --warn-soft:#fff7ed;
+    --code-bg:#0f172a; --code-ink:#e2e8f0; --green:#15803d; --red:#b91c1c;
+    --radius:14px; --maxw:1080px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0; background:var(--bg); color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+    line-height:1.75; font-size:16px;
+  }
+  a{color:var(--brand); text-decoration:none}
+  a:hover{text-decoration:underline}
+  code,kbd{font-family:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace; font-size:.92em}
+  p code, li code, td code{background:#eef1f6; color:#b3306a; padding:1px 6px; border-radius:6px}
+
+  header.hero{
+    background:linear-gradient(135deg,#1e3a8a 0%,#1d4ed8 55%,#0f766e 100%);
+    color:#fff; padding:54px 20px 46px;
+  }
+  .hero-inner{max-width:var(--maxw); margin:0 auto}
+  .kicker{font-size:1.5rem; letter-spacing:.08em; opacity:.95; margin:0 0 14px; font-weight:700}
+  header.hero h1{font-size:1.2rem; line-height:1.4; margin:0 0 14px; font-weight:600}
+  header.hero p.sub{font-size:1.05rem; opacity:.95; margin:0 0 22px; max-width:760px}
+  .meta-row{display:flex; flex-wrap:wrap; gap:10px}
+  .pill{background:rgba(255,255,255,.16); border:1px solid rgba(255,255,255,.28);
+    padding:6px 14px; border-radius:999px; font-size:.85rem}
+
+  .wrap{max-width:var(--maxw); margin:0 auto; padding:0 20px; display:grid;
+    grid-template-columns:240px 1fr; gap:34px; align-items:start}
+  nav.toc{position:sticky; top:18px; align-self:start; margin-top:28px;
+    background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    padding:16px 14px; font-size:.9rem; max-height:calc(100vh - 36px); overflow:auto}
+  nav.toc h4{margin:2px 0 10px; font-size:.78rem; letter-spacing:.12em; text-transform:uppercase; color:var(--muted)}
+  nav.toc ol{margin:0; padding-left:18px}
+  nav.toc li{margin:6px 0}
+  nav.toc a{color:var(--ink)}
+  main{padding:28px 0 60px; min-width:0}
+
+  section{background:var(--card); border:1px solid var(--line); border-radius:var(--radius);
+    padding:26px 30px; margin:0 0 22px; scroll-margin-top:18px}
+  section h2{font-size:1.45rem; margin:0 0 6px; padding-bottom:10px; border-bottom:2px solid var(--brand-soft); display:flex; align-items:center; gap:10px}
+  section h2 .num{display:inline-grid; place-items:center; width:30px; height:30px; border-radius:8px;
+    background:var(--brand); color:#fff; font-size:.95rem; font-weight:700; flex:none}
+  section h3{font-size:1.12rem; margin:24px 0 8px; color:#0b2a6b}
+  section h4{font-size:1rem; margin:16px 0 6px}
+  section p{margin:10px 0; color:#2a3140}
+
+  .lead{color:var(--muted)}
+  ul,ol{padding-left:24px}
+  li{margin:5px 0}
+
+  .note,.warn,.tip{border-radius:12px; padding:14px 16px; margin:16px 0; border:1px solid}
+  .note{background:var(--brand-soft); border-color:#cdddff}
+  .warn{background:var(--warn-soft); border-color:#fed7aa}
+  .tip{background:#ecfdf5; border-color:#bbf7d0}
+  .note b,.warn b,.tip b{display:block; margin-bottom:4px}
+
+  table{width:100%; border-collapse:collapse; margin:16px 0; font-size:.93rem}
+  th,td{border:1px solid var(--line); padding:9px 12px; text-align:left; vertical-align:top}
+  th{background:#f1f4f9; font-weight:700}
+  tbody tr:nth-child(even){background:#fafbfd}
+  .center{text-align:center}
+
+  pre{background:var(--code-bg); color:var(--code-ink); padding:16px 18px; border-radius:12px;
+    overflow:auto; font-size:.86rem; line-height:1.6; margin:14px 0}
+  pre code{color:inherit; background:none; padding:0}
+  .filename{font-size:.78rem; color:var(--muted); margin:14px 0 -6px; font-weight:600}
+
+  .task{border:1px solid var(--line); border-left:5px solid var(--brand); border-radius:12px;
+    padding:18px 20px; margin:16px 0; background:#fcfdff}
+  .task.opt{border-left-color:var(--accent); background:#f8fcfb}
+  .task .tag{display:inline-block; font-size:.74rem; background:var(--brand); color:#fff;
+    padding:3px 10px; border-radius:999px; margin-bottom:8px; letter-spacing:.04em}
+  .task.opt .tag{background:var(--accent)}
+  .task h3{margin-top:4px}
+  .maps{font-size:.82rem; color:var(--muted); margin-top:10px; border-top:1px dashed var(--line); padding-top:8px}
+
+  .grid2{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+  .badge{display:inline-block; background:#eef2ff; color:#3730a3; border:1px solid #c7d2fe;
+    border-radius:6px; padding:1px 8px; font-size:.78rem; font-weight:600}
+
+  footer{max-width:var(--maxw); margin:0 auto; padding:30px 20px 60px; color:var(--muted); font-size:.86rem; text-align:center}
+
+  @media (max-width:860px){
+    .wrap{grid-template-columns:1fr}
+    nav.toc{position:static; max-height:none; margin-top:18px}
+    .grid2{grid-template-columns:1fr}
+    header.hero h1{font-size:1.05rem}
+    section{padding:20px 18px}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="kicker">商务文本智能分析 · 期末作业</p>
+    <h1>财经新闻情感分析：经典方法与大语言模型的对比实证</h1>
+    <p class="sub">面向大数据管理与应用、数字经济专业本科生的综合实验项目。你将以一名「投研机构 / 舆情监测平台初级数据分析师」的身份，构建一个能判断财经文本情感倾向（看涨 / 看跌 / 中性）的分析系统，并比较「经典机器学习」与「大语言模型」两条技术路线的优劣。</p>
+    <div class="meta-row">
+      <span class="pill">📦 形式：个人项目（实验报告 + 实验材料）</span>
+      <span class="pill">📝 报告：不少于 3000 字</span>
+      <span class="pill">📅 截止：2026年6月27日12:00</span>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+  <nav class="toc">
+    <h4>目录</h4>
+    <ol>
+      <li><a href="#overview">项目概述与商业背景</a></li>
+      <li><a href="#data">数据集说明与获取</a></li>
+      <li><a href="#tasks">实验任务</a></li>
+      <li><a href="#report">实验报告要求</a></li>
+      <li><a href="#submit">提交要求</a></li>
+      <li><a href="#faq">常见问题 FAQ</a></li>
+    </ol>
+  </nav>
+
+  <main>
+
+    <!-- 1 -->
+    <section id="overview">
+      <h2><span class="num">1</span>项目概述与商业背景</h2>
+
+      <h3>商业情境</h3>
+      <p>某投研机构正在搭建一套「财经舆情监测系统」。每天有海量的财经新闻标题、研报摘要、社交媒体讨论涌入，分析师无法逐条阅读。机构希望先用一个<b>自动情感分类器</b>，把每条文本判定为对市场的<span class="badge">看涨（positive）</span>、<span class="badge">看跌（negative）</span>或<span class="badge">中性（neutral）</span>三类，作为后续选股、风控与投资者情绪指数的输入信号。</p>
+      <p>你被指派完成技术选型的论证。管理层的真实诉求不是「跑出最高准确率」，而是想知道：<b>训练一个传统的小模型，和直接用大语言模型，二者在准确率、可解释性、开发成本、对标注数据的依赖之间各处于什么位置？什么场景该用哪一种？</b> 这正是你这份报告要回答的商业问题。</p>
+
+      <p>课程第一讲指出，商科人才的核心竞争力正从「写代码」转向「定义业务需求、做技术选型与权衡」。因此本项目要求你把同一个任务分别用<b>经典机器学习</b>与<b>大语言模型</b>各做一遍，重点训练你的<b>横向比较与商业判断能力</b>，而不是调参炼丹。</p>
+
+      <h3>你将提交什么</h3>
+      <ul>
+        <li>一份可运行的代码（Jupyter Notebook），完整复现下文四个必做阶段；</li>
+        <li>一份不少于 3000 字的实验报告（论文形式，<b>必须使用课程提供的论文模板</b>，含图表、方法对比总表与商业分析），并据此给出明确的技术选型建议。</li>
+      </ul>
+    </section>
+
+    <!-- 2 -->
+    <section id="data">
+      <h2><span class="num">2</span>数据集说明与获取</h2>
+      <p>本项目<b>已提供现成数据集，无需任何爬虫或下载</b>。数据是一个单文件 CSV，每条样本是一句财经文本，带有 positive / neutral / negative 三分类标签。</p>
+
+      <h3>数据集：Financial Sentiment Analysis（单文件 CSV）</h3>
+      <p>该数据由 FiQA 与 Financial PhraseBank 两个经典财经语料合并而成，约 5800 条句子，两列：<code>Sentence</code>（财经文本）与 <code>Sentiment</code>（positive / neutral / negative）。<a href="https://www.kaggle.com/datasets/sbhatti/financial-sentiment-analysis" target="_blank" rel="noopener">原始来源</a>。</p>
+      <ul>
+        <li>获取数据：<a href="./files/final/data.csv" target="_blank" rel="noopener">数据下载地址</a>。</li>
+      </ul>
+      <div class="filename">阶段 0 · 加载数据</div>
+      <pre><code>import pandas as pd
+
+# 数据已随作业提供，直接本地加载
+df = pd.read_csv("./data.csv")    # 列：Sentence, Sentiment
+
+df.columns = ["text", "label"]                # 统一改名，便于后续使用
+print(df.shape)
+print(df["label"].value_counts())
+print(df.head())</code></pre>
+
+      <div class="warn">
+        <b>统一约定</b>
+        请固定随机种子（如 <code>random_state=2026</code>），按 <b>训练集 80% / 测试集 20%</b> 用分层抽样（<code>stratify</code>）划分，保持三类比例一致。<b>所有模型（经典分类器、fastText、大语言模型）必须在同一份测试集上</b>评估，否则对比无意义（见第三讲「数据集划分原则」、第四讲「测试集与交叉验证」）。
+      </div>
+    </section>
+
+    <!-- 3 -->
+    <section id="tasks">
+      <h2><span class="num">3</span>实验任务</h2>
+
+      <!-- Stage 1 -->
+      <div class="task">
+        <span class="tag">阶段 1 · 预处理与数据探索</span>
+        <h3>把原始财经文本变成可用的输入</h3>
+        
+        <ol>
+          <li>用<b>正则表达式</b>做基本清洗：统一大小写、去除多余空白、处理数字与百分号/货币符号（如把 <code>+5%</code>、<code>$3.2bn</code> 归一化或保留为标记），并简要说明你的清洗规则；</li>
+          <li>完成<b>分词</b>，统计语料基本特征：样本总数、三类标签分布、平均句长、高频词 Top-20（建议画一张条形图）；</li>
+          <li>用一两句话讨论：财经文本里哪些词（如 surge、decline、loss、record high）可能是强情感信号？</li>
+        </ol>
+        <p><b>提示：</b> 英文可用 <code>re.findall(r"[a-zA-Z]+|\d+%?", text)</code> 或 <code>nltk</code>；中文用 <code>jieba</code>。</p>
+        <div class="maps">📚 对应：第二讲 正则表达式与文本标准化</div>
+      </div>
+
+      <!-- Stage 2 -->
+      <div class="task">
+        <span class="tag">阶段 2 · 经典分类器（核心阶段）</span>
+        <h3>TF-IDF + 朴素贝叶斯 / 逻辑回归</h3>
+        
+        <ol>
+          <li>用 <b>TF-IDF</b>（第六讲）把文本向量化，分别训练<b>多项式朴素贝叶斯</b>（第四讲，生成式）与<b>逻辑回归</b>（第五讲，判别式）；</li>
+          <li>在测试集上报告：<b>混淆矩阵、准确率、各类精确率/召回率/F1、宏平均与微平均 F1</b>（第四讲），并画出混淆矩阵热力图；</li>
+          <li>对逻辑回归做 <b>5 折交叉验证</b>，并比较有无 <b>L2 正则化</b> 的差异，说明正则化的作用；</li>
+          <li><b>可解释性：</b> 输出逻辑回归中权重最高的若干正面/负面词，验证是否符合财经直觉（如 surge↑、plunge↓）。</li>
+        </ol>
+        <p><b>提示：</b> 全部用 <code>scikit-learn</code> 即可（<code>TfidfVectorizer</code>、<code>MultinomialNB</code>、<code>LogisticRegression</code>、<code>classification_report</code>、<code>confusion_matrix</code>、<code>cross_val_score</code>）。CPU 几秒到几分钟即可跑完。</p>
+        <div class="maps">📚 对应：第四讲 朴素贝叶斯与评估 / 第五讲 逻辑回归与正则化 / 第六讲 TF-IDF</div>
+      </div>
+
+      <!-- Stage 3 fastText -->
+      <div class="task">
+        <span class="tag">阶段 3 · fastText 词嵌入 + 分类</span>
+        <h3>用 fastText 学习词向量并直接分类</h3>
+        
+        <ol>
+          <li>把数据整理成 fastText 的监督格式（每行 <code>__label__&lt;标签&gt; 文本</code>），用 <code>fasttext.train_supervised</code> 训练分类器；它会<b>联合学习词与子词 n-gram 的嵌入向量</b>，再对文本平均向量做线性分类（第七讲 fastText 文本分类模型）；</li>
+          <li>在<b>同一测试集</b>上报告准确率与各类精确率/召回率/F1，并与阶段 2 的 TF-IDF 经典模型对比；</li>
+          <li>利用训练好的词向量，用<b>余弦相似度</b>找出与 profit / loss / risk 最相近的若干词（第六讲），并说明 fastText 如何通过<b>子词 n-gram</b> 缓解未登录词（OOV）问题；</li>
+          <li>简要讨论：相比 TF-IDF 稀疏向量，稠密词嵌入在本任务上是否带来提升？为什么？</li>
+        </ol>
+        <p><b>提示：</b> 安装 <code>pip install fasttext</code>（若编译困难可用 <code>pip install fasttext-wheel</code>）。你既可以在本语料上自行训练，<b>也可以直接使用 fastText 或其他渠道公开发布的预训练词向量</b>（如 fastText 官方的 <code>cc.en.300</code> 等），无需从零训练。语料较小时自训练嵌入质量有限，这一现象本身就值得在报告中讨论。</p>
+        <div class="maps">📚 对应：第七讲 fastText 文本分类 / 第六讲 向量语义与嵌入</div>
+      </div>
+
+      <!-- Stage 4 -->
+      <div class="task">
+        <span class="tag">阶段 4 · 大语言模型</span>
+        <h3>用提示词工程让 LLM 直接分类</h3>
+      
+        <ol>
+          <li>从测试集中抽取一个<b>小样本子集（建议 100–150 条，固定下来）</b>，调用一个大语言模型进行情感分类；</li>
+          <li>至少对比两种提示策略：<b>零样本（zero-shot）</b> 与 <b>少样本上下文学习（few-shot ICL，提示词中给 3–5 个示例）</b>（第一讲、第九讲）；</li>
+          <li>设计规范的提示词，体现第一讲的四要素：<b>任务描述、输入数据、上下文信息、提示风格（角色扮演）</b>；并展示、分析一个<b>思维链（CoT）</b>提示示例；</li>
+          <li>在<b>同一子集</b>上，把 LLM 的准确率/F1 与阶段 2、3 的模型对比，讨论：LLM 是否需要训练数据？调用成本与延迟如何？输出是否稳定可控？分类任务中的幻觉风险（第一讲）如何体现？</li>
+        </ol>
+        <p><b>提示：</b> 教师将在课程<b>钉钉群提供 DeepSeek 的 API Key</b> 供大家完成本阶段实验使用。</p>
+        <div class="maps">📚 对应：第一讲 LLM 与提示词工程 / 第九讲 Transformer 与自注意力</div>
+      </div>
+
+      <h3>方法对比总表</h3>
+      <p>把各阶段的代表性模型汇总成一张表，这是报告的核心。请据此给出<b>分场景的技术选型建议</b>：</p>
+      <table>
+        <thead><tr><th>方法</th><th>测试集准确率</th><th>宏平均 F1</th><th>是否需标注数据</th><th>可解释性</th><th>开发/调用成本</th><th>适用商业场景</th></tr></thead>
+        <tbody>
+          <tr><td>朴素贝叶斯 + TF-IDF</td><td>—</td><td>—</td><td>需要</td><td>高</td><td>极低</td><td>—</td></tr>
+          <tr><td>逻辑回归 + TF-IDF</td><td>—</td><td>—</td><td>需要</td><td>高</td><td>低</td><td>—</td></tr>
+          <tr><td>fastText 词嵌入 + 分类</td><td>—</td><td>—</td><td>需要</td><td>中</td><td>低</td><td>—</td></tr>
+          <tr><td>LLM（zero-shot）</td><td>—</td><td>—</td><td>不需要</td><td>中（可给理由）</td><td>高（API/算力）</td><td>—</td></tr>
+          <tr><td>LLM（few-shot ICL）</td><td>—</td><td>—</td><td>几乎不需要</td><td>中</td><td>高</td><td>—</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- 4 -->
+    <section id="report">
+      <h2><span class="num">4</span>实验报告要求</h2>
+      <p>报告以<b>学术论文形式</b>撰写，<b>正文不少于 3000 字</b>。建议结构如下：</p>
+      <table>
+        <thead><tr><th>章节</th><th>内容要点</th><th>建议字数</th></tr></thead>
+        <tbody>
+          <tr><td>摘要</td><td>研究问题、方法、主要发现与结论（150–250 字）</td><td>~200</td></tr>
+          <tr><td>1 引言与商业背景</td><td>财经情感分析的商业价值、本项目要回答的技术选型问题</td><td>~450</td></tr>
+          <tr><td>2 数据与预处理</td><td>数据来源、规模、标签分布、清洗与分词方法、探索性分析图表</td><td>~500</td></tr>
+          <tr><td>3 方法</td><td>用自己的话讲清 TF-IDF、朴素贝叶斯、逻辑回归、fastText 与 LLM 提示策略的原理（配关键公式），说明实验设置</td><td>~800</td></tr>
+          <tr><td>4 结果与分析</td><td>各模型评估指标、混淆矩阵、可解释性发现、LLM 不同提示策略的对比</td><td>~700</td></tr>
+          <tr><td>5 讨论：技术选型与商业建议</td><td>基于「方法对比总表」给出分场景建议；讨论可解释性、成本、标注依赖、偏见与幻觉等风险</td><td>~600</td></tr>
+          <tr><td>6 结论与反思</td><td>主要结论、本项目的局限、后续可改进的方向</td><td>~300</td></tr>
+          <tr><td>参考文献</td><td>规范引用完成作业中阅读的参考论文、书籍等文献资料</td><td>—</td></tr>
+        </tbody>
+      </table>
+      <div class="note">
+        <b>写作要求</b>
+        图表需编号并有标题（如「图 3 逻辑回归混淆矩阵」）；所有结论必须有数据或图表支撑。鼓励用自己的语言解释原理，切忌大段照搬课件或由 AI 直接生成而不加理解。
+      </div>
+    </section>
+
+    <!-- 5 -->
+    <section id="submit">
+      <h2><span class="num">5</span>提交要求</h2>
+      <ul>
+        <li><b>代码：</b> 一个可运行的 Jupyter Notebook（<code>.ipynb</code>），从数据加载到结果输出可一键复现，关键步骤有中文注释，运行产生的关键结果（指标表、混淆矩阵图、对比总表）。</li>
+        <li><b>期末论文：</b> PDF 格式，使用课程提供的论文模板（Word导出PDF），含上述全部章节与图表，不少于 3000 字。</li>
+        <li><b>命名规范：</b> <code>实验代码.ipynb</code>、<code>期末论文.pdf</code>。</li>
+        <li><b>提交方式：</b> 上传至<a href="https://hznu.fanya.chaoxing.com/portal" target="_blank" class="res-link"><i class="bi bi-upload"></i>杭师大慕课平台</a>的期末作业板块。</li>
+      </ul>
+      <div class="warn"><b>截止时间：2026 年 6 月 27 日 12:00 前。</b></div>
+    </section>
+
+    <!-- 6 -->
+    <section id="faq">
+      <h2><span class="num">6</span>常见问题 FAQ</h2>
+      <h4>Q1：工作量大吗？</h4>
+      <p>四个必做阶段中，阶段 1、2 基于 scikit-learn，普通笔记本几分钟即可跑完；fastText 与 LLM 调用也很轻量。请把更多时间留给报告的分析与思考。</p>
+      <h4>Q2：某个模型准确率很低，是不是做错了？</h4>
+      <p>不一定。<b>发现并解释「为什么某方法表现差」本身就是高质量分析</b>。</p>
+      <h4>Q3：报告 3000 字写不满怎么办？</h4>
+      <p>多写「分析」而非「描述」：每张图说明你看到了什么、为什么会这样、对商业决策意味着什么。</p>
+    </section>
+
+  </main>
+</div>
+
+
+</body>
+</html>
