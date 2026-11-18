@@ -26,10 +26,15 @@
         .header-badge{display:inline-block;background:rgba(255,255,255,.18);border:1px solid rgba(255,255,255,.3);color:#fff;border-radius:20px;padding:4px 14px;font-size:12px;font-weight:500;margin-bottom:16px;}
         .site-header h1{font-size:clamp(1.6rem,4vw,2.6rem);font-weight:700;margin:0 0 10px;line-height:1.25;}
         .site-header .subtitle{opacity:.85;font-size:1rem;font-weight:300;}
-        .header-stats{display:flex;gap:28px;margin-top:28px;flex-wrap:wrap;}
+        .header-stats{display:flex;gap:28px;margin-top:28px;flex-wrap:wrap;align-items:center;}
         .header-stat{text-align:center;background:rgba(255,255,255,.12);border-radius:12px;padding:12px 22px;border:1px solid rgba(255,255,255,.2);}
         .header-stat .num{font-size:1.5rem;font-weight:700;display:block;}
         .header-stat .label{font-size:11px;opacity:.8;}
+        .nebula-hero-btn{position:relative;z-index:2;display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,#0ea5e9 0%,#6c47ff 55%,#a855f7 100%);color:#fff!important;text-decoration:none;padding:14px 26px;border-radius:14px;font-weight:600;font-size:15px;border:1px solid rgba(255,255,255,.38);box-shadow:0 10px 28px rgba(14,165,233,.32),inset 0 1px 0 rgba(255,255,255,.35);transition:transform .2s,box-shadow .2s;}
+        .nebula-hero-btn:hover{transform:translateY(-2px);box-shadow:0 14px 34px rgba(108,71,255,.46),inset 0 1px 0 rgba(255,255,255,.5);color:#fff!important;}
+        .nebula-hero-btn .badge-pill{background:rgba(255,255,255,.22);font-size:11px;padding:2px 8px;border-radius:999px;font-weight:500;}
+        .sticky-nav .nav-link.nebula-nav-link{color:#fff!important;background:linear-gradient(135deg,var(--primary),var(--accent));border-radius:999px;padding:6px 16px;margin:7px 0 7px 8px;font-size:13.5px;font-weight:600;box-shadow:0 4px 12px rgba(45,91,227,.22);transition:transform .15s,box-shadow .15s;}
+        .sticky-nav .nav-link.nebula-nav-link:hover{transform:translateY(-1px);box-shadow:0 6px 16px rgba(108,71,255,.32);}
 
         /* NAV */
         .sticky-nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.92);backdrop-filter:blur(12px);border-bottom:1px solid var(--border);box-shadow:var(--shadow-sm);}
@@ -156,12 +161,13 @@
 
 <nav class="sticky-nav">
     <div class="container">
-        <ul class="nav flex-nowrap overflow-auto">
+        <ul class="nav flex-nowrap overflow-auto align-items-center">
             <li class="nav-item"><a class="nav-link" href="#intro"><i class="bi bi-file-text"></i>课程简介</a></li>
             <li class="nav-item"><a class="nav-link" href="#info"><i class="bi bi-info-circle"></i>课程信息</a></li>
             <li class="nav-item"><a class="nav-link" href="#schedule"><i class="bi bi-calendar3"></i>课程计划</a></li>
             <li class="nav-item"><a class="nav-link" href="#aitools"><i class="bi bi-stars"></i>AI工具</a></li>
             <li class="nav-item"><a class="nav-link" href="#resources"><i class="bi bi-book"></i>参考资料</a></li>
+            <li class="nav-item ms-auto"><a class="nav-link nebula-nav-link" href="./nebula.html"><i class="bi bi-diagram-3-fill"></i>三维知识图谱</a></li>
         </ul>
     </div>
 </nav>
